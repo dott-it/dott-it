@@ -42,85 +42,89 @@ body {
 }
 
 @layer base {
-  /* DOTT.it brand: gunmetal (#252b2b) + logo orange (#f85808) */
+  /*
+   * DOTT.it brand (dark-first): gunmetal (#252b2b) + logo orange (#f85808).
+   * Tokens live on :root so SSR/first paint is already dark (no white flash).
+   */
   :root {
-    --background: 180 8% 97%;
-    --foreground: 180 8% 16%;
-    --card: 0 0% 100%;
-    --card-foreground: 180 8% 16%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 180 8% 16%;
-    --primary: 20 94% 50%;
-    --primary-foreground: 0 0% 100%;
-    --secondary: 180 6% 93%;
-    --secondary-foreground: 180 8% 16%;
-    --muted: 180 6% 93%;
-    --muted-foreground: 180 4% 40%;
-    --accent: 180 6% 93%;
-    --accent-foreground: 180 8% 16%;
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 180 6% 86%;
-    --input: 180 6% 86%;
-    --ring: 20 94% 50%;
-    --chart-1: 20 94% 50%;
-    --chart-2: 180 8% 32%;
-    --chart-3: 28 90% 55%;
-    --chart-4: 180 5% 45%;
-    --chart-5: 14 90% 48%;
-    --radius: 0.5rem;
-    --evidence: 210 92% 45%;
-    --evidence-foreground: 210 92% 98%;
-    --evidence-bg: 210 92% 96%;
-    --reasoning: 270 65% 55%;
-    --reasoning-foreground: 270 65% 98%;
-    --reasoning-bg: 270 65% 96%;
-    --strength: 143 65% 35%;
-    --strength-bg: 143 65% 96%;
-    --suggestion: 20 94% 50%;
-    --suggestion-bg: 20 94% 96%;
-    --student-avatar: 20 94% 50%;
-    --student-avatar-ring: 20 80% 65%;
-    --student-avatar-text: 0 0% 100%;
-    --sidebar-background: 180 8% 97%;
-    --sidebar-foreground: 180 8% 22%;
-    --sidebar-primary: 20 94% 50%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 180 6% 93%;
-    --sidebar-accent-foreground: 180 8% 16%;
-    --sidebar-border: 180 6% 88%;
-    --sidebar-ring: 20 94% 50%;
-  }
-  .dark {
-    --background: 180 8% 12%;
+    --background: 180 8% 14%;
     --foreground: 180 6% 96%;
-    --card: 180 8% 16%;
+    --card: 180 8% 18%;
     --card-foreground: 180 6% 96%;
-    --popover: 180 8% 16%;
+    --popover: 180 8% 18%;
     --popover-foreground: 180 6% 96%;
     --primary: 20 94% 52%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 180 6% 20%;
+    --secondary: 180 6% 22%;
     --secondary-foreground: 180 6% 96%;
-    --muted: 180 6% 20%;
-    --muted-foreground: 180 4% 65%;
-    --accent: 180 6% 20%;
+    --muted: 180 6% 22%;
+    --muted-foreground: 180 4% 68%;
+    --accent: 180 6% 22%;
     --accent-foreground: 180 6% 96%;
-    --destructive: 0 62.8% 30.6%;
+    --destructive: 0 72% 46%;
     --destructive-foreground: 0 0% 98%;
-    --border: 180 6% 24%;
-    --input: 180 6% 24%;
+    --border: 180 6% 26%;
+    --input: 180 6% 26%;
+    --ring: 20 94% 52%;
+    --chart-1: 20 94% 52%;
+    --chart-2: 180 8% 45%;
+    --chart-3: 28 90% 55%;
+    --chart-4: 180 5% 55%;
+    --chart-5: 14 90% 48%;
+    --radius: 0.5rem;
+    --evidence: 210 92% 55%;
+    --evidence-foreground: 210 92% 98%;
+    --evidence-bg: 210 40% 16%;
+    --reasoning: 270 65% 65%;
+    --reasoning-foreground: 270 65% 98%;
+    --reasoning-bg: 270 30% 16%;
+    --strength: 143 65% 45%;
+    --strength-bg: 143 30% 14%;
+    --suggestion: 20 94% 55%;
+    --suggestion-bg: 20 40% 16%;
+    --student-avatar: 20 94% 52%;
+    --student-avatar-ring: 20 80% 65%;
+    --student-avatar-text: 0 0% 100%;
+    --sidebar-background: 180 8% 12%;
+    --sidebar-foreground: 180 6% 96%;
+    --sidebar-primary: 20 94% 52%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 180 6% 20%;
+    --sidebar-accent-foreground: 180 6% 96%;
+    --sidebar-border: 180 6% 22%;
+    --sidebar-ring: 20 94% 52%;
+    color-scheme: dark;
+  }
+  .dark {
+    --background: 180 8% 14%;
+    --foreground: 180 6% 96%;
+    --card: 180 8% 18%;
+    --card-foreground: 180 6% 96%;
+    --popover: 180 8% 18%;
+    --popover-foreground: 180 6% 96%;
+    --primary: 20 94% 52%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 180 6% 22%;
+    --secondary-foreground: 180 6% 96%;
+    --muted: 180 6% 22%;
+    --muted-foreground: 180 4% 68%;
+    --accent: 180 6% 22%;
+    --accent-foreground: 180 6% 96%;
+    --destructive: 0 72% 46%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 180 6% 26%;
+    --input: 180 6% 26%;
     --ring: 20 94% 52%;
     --evidence: 210 92% 55%;
     --evidence-foreground: 210 92% 98%;
-    --evidence-bg: 210 92% 12%;
+    --evidence-bg: 210 40% 16%;
     --reasoning: 270 65% 65%;
     --reasoning-foreground: 270 65% 98%;
-    --reasoning-bg: 270 65% 12%;
+    --reasoning-bg: 270 30% 16%;
     --strength: 143 65% 45%;
-    --strength-bg: 143 65% 12%;
+    --strength-bg: 143 30% 14%;
     --suggestion: 20 94% 55%;
-    --suggestion-bg: 20 40% 14%;
+    --suggestion-bg: 20 40% 16%;
     --student-avatar: 20 94% 52%;
     --student-avatar-ring: 20 80% 65%;
     --student-avatar-text: 0 0% 100%;
@@ -129,14 +133,15 @@ body {
     --chart-3: 28 90% 55%;
     --chart-4: 180 5% 55%;
     --chart-5: 14 90% 48%;
-    --sidebar-background: 180 8% 10%;
+    --sidebar-background: 180 8% 12%;
     --sidebar-foreground: 180 6% 96%;
     --sidebar-primary: 20 94% 52%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 180 6% 18%;
+    --sidebar-accent: 180 6% 20%;
     --sidebar-accent-foreground: 180 6% 96%;
-    --sidebar-border: 180 6% 20%;
+    --sidebar-border: 180 6% 22%;
     --sidebar-ring: 20 94% 52%;
+    color-scheme: dark;
   }
 }
 
