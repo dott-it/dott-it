@@ -13,75 +13,77 @@ body {
 }
 
 @layer base {
-  /* Keep in sync with app/globals.css — DOTT.it gunmetal + orange */
+  /* Keep in sync with app/globals.css — dark-first gunmetal + orange */
   :root {
-    --background: 180 8% 97%;
-    --foreground: 180 8% 16%;
-    --card: 0 0% 100%;
-    --card-foreground: 180 8% 16%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 180 8% 16%;
-    --primary: 20 94% 50%;
-    --primary-foreground: 0 0% 100%;
-    --secondary: 180 6% 93%;
-    --secondary-foreground: 180 8% 16%;
-    --muted: 180 6% 93%;
-    --muted-foreground: 180 4% 40%;
-    --accent: 180 6% 93%;
-    --accent-foreground: 180 8% 16%;
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 180 6% 86%;
-    --input: 180 6% 86%;
-    --ring: 20 94% 50%;
-    --chart-1: 20 94% 50%;
-    --chart-2: 180 8% 32%;
-    --chart-3: 28 90% 55%;
-    --chart-4: 180 5% 45%;
-    --chart-5: 14 90% 48%;
-    --radius: 0.5rem;
-    --sidebar-background: 180 8% 97%;
-    --sidebar-foreground: 180 8% 22%;
-    --sidebar-primary: 20 94% 50%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 180 6% 93%;
-    --sidebar-accent-foreground: 180 8% 16%;
-    --sidebar-border: 180 6% 88%;
-    --sidebar-ring: 20 94% 50%;
-  }
-  .dark {
-    --background: 180 8% 12%;
+    --background: 180 8% 14%;
     --foreground: 180 6% 96%;
-    --card: 180 8% 16%;
+    --card: 180 8% 18%;
     --card-foreground: 180 6% 96%;
-    --popover: 180 8% 16%;
+    --popover: 180 8% 18%;
     --popover-foreground: 180 6% 96%;
     --primary: 20 94% 52%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 180 6% 20%;
+    --secondary: 180 6% 22%;
     --secondary-foreground: 180 6% 96%;
-    --muted: 180 6% 20%;
-    --muted-foreground: 180 4% 65%;
-    --accent: 180 6% 20%;
+    --muted: 180 6% 22%;
+    --muted-foreground: 180 4% 68%;
+    --accent: 180 6% 22%;
     --accent-foreground: 180 6% 96%;
-    --destructive: 0 62.8% 30.6%;
+    --destructive: 0 72% 46%;
     --destructive-foreground: 0 0% 98%;
-    --border: 180 6% 24%;
-    --input: 180 6% 24%;
+    --border: 180 6% 26%;
+    --input: 180 6% 26%;
     --ring: 20 94% 52%;
     --chart-1: 20 94% 52%;
     --chart-2: 180 8% 45%;
     --chart-3: 28 90% 55%;
     --chart-4: 180 5% 55%;
     --chart-5: 14 90% 48%;
-    --sidebar-background: 180 8% 10%;
+    --radius: 0.5rem;
+    --sidebar-background: 180 8% 12%;
     --sidebar-foreground: 180 6% 96%;
     --sidebar-primary: 20 94% 52%;
     --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 180 6% 18%;
+    --sidebar-accent: 180 6% 20%;
     --sidebar-accent-foreground: 180 6% 96%;
-    --sidebar-border: 180 6% 20%;
+    --sidebar-border: 180 6% 22%;
     --sidebar-ring: 20 94% 52%;
+    color-scheme: dark;
+  }
+  .dark {
+    --background: 180 8% 14%;
+    --foreground: 180 6% 96%;
+    --card: 180 8% 18%;
+    --card-foreground: 180 6% 96%;
+    --popover: 180 8% 18%;
+    --popover-foreground: 180 6% 96%;
+    --primary: 20 94% 52%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 180 6% 22%;
+    --secondary-foreground: 180 6% 96%;
+    --muted: 180 6% 22%;
+    --muted-foreground: 180 4% 68%;
+    --accent: 180 6% 22%;
+    --accent-foreground: 180 6% 96%;
+    --destructive: 0 72% 46%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 180 6% 26%;
+    --input: 180 6% 26%;
+    --ring: 20 94% 52%;
+    --chart-1: 20 94% 52%;
+    --chart-2: 180 8% 45%;
+    --chart-3: 28 90% 55%;
+    --chart-4: 180 5% 55%;
+    --chart-5: 14 90% 48%;
+    --sidebar-background: 180 8% 12%;
+    --sidebar-foreground: 180 6% 96%;
+    --sidebar-primary: 20 94% 52%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 180 6% 20%;
+    --sidebar-accent-foreground: 180 6% 96%;
+    --sidebar-border: 180 6% 22%;
+    --sidebar-ring: 20 94% 52%;
+    color-scheme: dark;
   }
 }
 
