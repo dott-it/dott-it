@@ -44,7 +44,7 @@ export function UnitSummary({ unit, exportSummary }: UnitSummaryProps) {
           <Button
             type="button"
             disabled={!exportSummary.ready}
-            className="shrink-0 rounded-full bg-[#E67E51] px-5 text-white hover:bg-[#E67E51]/90 disabled:opacity-50"
+            className="shrink-0 rounded-full bg-brand-orange px-5 text-white hover:bg-brand-orange/90 disabled:opacity-50"
             onClick={() => setExportOpen(true)}
           >
             Export unit

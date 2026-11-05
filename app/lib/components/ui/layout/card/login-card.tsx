@@ -16,9 +16,9 @@ const DefaultLoginMark = (
   <Image
     src="/dottit-logo.png"
     alt={BRAND_NAME}
-    width={64}
-    height={64}
-    className="size-16 object-contain"
+    width={112}
+    height={112}
+    className="size-28 rounded-2xl object-contain shadow-lg ring-1 ring-white/10"
     priority
   />
 )
@@ -34,10 +34,10 @@ const LoginCard = React.forwardRef<HTMLDivElement, LoginCardProps>(
     },
     ref,
   ) => (
-    <div className="flex min-h-screen items-center justify-center bg-muted/30 p-4">
-      <Card ref={ref} className="w-full max-w-md">
+    <div className="flex min-h-screen items-center justify-center bg-brand-gunmetal p-4">
+      <Card ref={ref} className="w-full max-w-md border-0 shadow-2xl shadow-black/40">
         <CardHeader className="text-center" padding="lg">
-          {icon && <div className="mb-4 flex items-center justify-center gap-2">{icon}</div>}
+          {icon && <div className="mb-5 flex items-center justify-center">{icon}</div>}
           <Typography variant="h1" className="font-fredoka" color="primary">
             {title}
           </Typography>
