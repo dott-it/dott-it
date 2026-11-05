@@ -5,6 +5,7 @@ import { ThemeProvider } from '@/components/theme-provider'
 import React from 'react'
 import { Providers } from './providers'
 import { Fredoka } from 'next/font/google'
+import { BRAND_DESCRIPTION, BRAND_NAME } from '@/lib/brand'
 
 const fredoka = Fredoka({
   subsets: ['latin'],
@@ -14,10 +15,10 @@ const fredoka = Fredoka({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Dott.it',
-    template: '%s | Dott.it',
+    default: BRAND_NAME,
+    template: `%s | ${BRAND_NAME}`,
   },
-  description: 'Dott.it — assessment workspace',
+  description: BRAND_DESCRIPTION,
   icons: {
     icon: [
       { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },

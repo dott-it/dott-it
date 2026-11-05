@@ -8,9 +8,10 @@
 | Item | Value |
 |---|---|
 | Product display name | Dott.it |
-| GitHub org / repo | `dott-it/dott-it` (private) |
-| Brand | Orange-led palette (Dott.it was green); remove all `demo.dott.it` references |
-| Source codebase | Dott.it workspace (`dott-it-workspace`) — reuse logic/assets; **no** legacy DB / student PII |
+| Tagline (DOTT) | Digital Organization Tool for Teachers |
+| GitHub org / repo | `dott-it/dott-it` |
+| Brand | Orange-led palette (Eddo was green); remove all `eddolearning.com` references |
+| Source codebase | Eddo workspace (`eddo-workspace`) — reuse logic/assets; **no** legacy DB / student PII |
 
 ## Product shape (v1 engineering scope)
 

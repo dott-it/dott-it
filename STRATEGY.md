@@ -32,11 +32,10 @@ Success for the pilot: a teacher plans a week and collects + gives feedback **wi
 ## Brand
 
 - **Name:** Dott.it (pun on “got it”). GitHub slug `dott-it` (`.` not allowed in logins).
-- **Palette:** orange-led (Dott.it was green).
+- **Tagline (DOTT):** Digital Organization Tool for Teachers.
+- **Palette:** orange-led (Eddo was green).
 - **Domain:** `dott.it` is taken; stay on `*.vercel.app` until purchase. Inventory in `DOMAINS.md`.
 - **Retired working title:** AnchorPlan (2026-10-22).
-
-Tagline options (not locked): “Got it.” / “Plan your year. Teach this week.” / “The planner that already knows your classes.”
 
 ## Operating model
 

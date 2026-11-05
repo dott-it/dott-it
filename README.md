@@ -4,7 +4,9 @@
   <img src="public/dottit-logo.jpg" alt="Dott.it" width="640">
 </p>
 
-Teacher product spinoff from Dott.it — orange-led brand, free-tier stack (Vercel Hobby + Neon Free).
+**Dott.it** — *Digital Organization Tool for Teachers*.
+
+Teacher product spinoff from Eddo — orange-led brand, free-tier stack (Vercel Hobby + Neon Free).
 
 ## Docs
 
