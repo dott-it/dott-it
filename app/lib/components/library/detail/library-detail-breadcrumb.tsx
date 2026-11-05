@@ -11,9 +11,9 @@ import { unitBrowsePath } from '@/lib/library/browse/paths'
 import { cn } from '@/lib/utils'
 
 const crumbLink =
-  'font-bold text-[#E67E51] underline-offset-2 transition-colors hover:text-[#E67E51]/80 hover:underline'
+  'font-bold text-brand-orange underline-offset-2 transition-colors hover:text-brand-orange/80 hover:underline'
 
-const crumbCurrent = 'truncate font-bold text-[#E67E51] max-w-[min(100%,14rem)] sm:max-w-xs'
+const crumbCurrent = 'truncate font-bold text-brand-orange max-w-[min(100%,14rem)] sm:max-w-xs'
 
 interface LibraryDetailBreadcrumbProps {
   grade: number
@@ -41,7 +41,7 @@ export function LibraryDetailBreadcrumb({
         </BreadcrumbLink>
       </BreadcrumbItem>
 
-      <BreadcrumbSeparator className="shrink-0 text-[#E67E51]/50">
+      <BreadcrumbSeparator className="shrink-0 text-brand-orange/50">
         <ChevronRight className="size-3.5" aria-hidden />
       </BreadcrumbSeparator>
 
@@ -60,7 +60,7 @@ export function LibraryDetailBreadcrumb({
         </BreadcrumbLink>
       </BreadcrumbItem>
 
-      <BreadcrumbSeparator className="shrink-0 text-[#E67E51]/50">
+      <BreadcrumbSeparator className="shrink-0 text-brand-orange/50">
         <ChevronRight className="size-3.5" aria-hidden />
       </BreadcrumbSeparator>
 

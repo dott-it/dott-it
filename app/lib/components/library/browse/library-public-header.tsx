@@ -24,7 +24,7 @@ export function LibraryPublicHeader() {
             priority
           />
           <div className="flex min-w-0 flex-wrap items-baseline gap-x-2 gap-y-0.5">
-            <span className="text-sm font-semibold leading-none text-[#001242]">
+            <span className="text-sm font-semibold leading-none text-brand-gunmetal">
               OpenSciEd Assessment Library
             </span>
           </div>

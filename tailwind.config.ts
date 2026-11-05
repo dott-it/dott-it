@@ -87,6 +87,11 @@ const config: Config = {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
+				brand: {
+					gunmetal: '#252b2b',
+					orange: '#f85808',
+					dot: '#484848',
+				},
 				ose: {
 					accent: '#d96b3c',
 					green: '#2f4a3e',

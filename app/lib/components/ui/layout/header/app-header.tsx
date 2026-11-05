@@ -1,6 +1,7 @@
 'use client'
 
 import * as React from 'react'
+import Image from 'next/image'
 import { Button } from '../../buttons/button'
 import { Typography } from '../../typography'
 import { LogOut, User, Settings, ChevronDown, BookOpen } from 'lucide-react'
@@ -93,7 +94,15 @@ const AppHeader = React.forwardRef<HTMLElement, AppHeaderProps>(
     return (
       <header ref={ref} className="border-b bg-card">
         <div className="container mx-auto flex items-center justify-between px-4 py-3">
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2.5">
+            <Image
+              src="/dottit-logo.png"
+              alt=""
+              width={32}
+              height={32}
+              className="size-8 rounded-md object-contain"
+              priority
+            />
             <Typography variant="h1" component="span" color="primary" fontWeight="bold" className="font-fredoka">
               {title}
             </Typography>
