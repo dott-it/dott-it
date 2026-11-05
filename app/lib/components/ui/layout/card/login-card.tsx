@@ -1,4 +1,5 @@
 import * as React from 'react'
+import Image from 'next/image'
 import { Card, CardHeader, CardContent } from './index'
 import { Typography } from '../../typography'
 
@@ -9,12 +10,23 @@ interface LoginCardProps {
   children: React.ReactNode
 }
 
+const DefaultLoginMark = (
+  <Image
+    src="/dottit-logo.png"
+    alt="Dott.it"
+    width={64}
+    height={64}
+    className="size-16 object-contain"
+    priority
+  />
+)
+
 const LoginCard = React.forwardRef<HTMLDivElement, LoginCardProps>(
   (
     {
       title = 'Dott.it',
       subtitle = 'Sign in to access your workspace and assessments',
-      icon,
+      icon = DefaultLoginMark,
       children,
     },
     ref,
