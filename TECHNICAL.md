@@ -118,6 +118,8 @@ pnpm prisma migrate deploy --schema=prisma/assessment/schema.prisma
 
 **CI:** `.github/workflows/ci.yml` — install, prisma generate, lint, `test:unit`, build (dummy DB env). No Playwright in CI yet.
 
+**Demo seed (mock only):** `pnpm db:seed:demo` creates tenant `dott-demo` (`demo.dott.it`), one teacher user with bcrypt password, 8 learners, one formative assessment with 5 responses (2 with draft feedback). Credentials: `DEMO_TEACHER_EMAIL` / `DEMO_TEACHER_PASSWORD` in `~/.config/dott-it/neon.env` (also set on Vercel for Production login).
+
 ## Technical decisions log
 
 | Date | Decision |
