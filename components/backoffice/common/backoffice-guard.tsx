@@ -17,7 +17,7 @@ interface BackofficeGuardProps {
 
 /**
  * Component that guards backoffice pages
- * Only users from the "eddo" tenant can access backoffice
+ * Only users from the "dott-it" tenant can access backoffice
  */
 export function BackofficeGuard({ children }: BackofficeGuardProps) {
   const { data: session, status: sessionStatus } = useSession()
@@ -97,7 +97,7 @@ export function BackofficeGuard({ children }: BackofficeGuardProps) {
               Access Denied
             </Typography>
             <Typography variant="body1" color="muted" className="mb-4">
-              Backoffice access is restricted to Eddo tenant users only.
+              Backoffice access is restricted to Dott.it tenant users only.
             </Typography>
             <Typography variant="body2" color="muted" className="mb-6">
               Redirecting to workspace...

@@ -23,7 +23,7 @@ test('should resolve pending id by originalSectionId and skip optimistic rows', 
         status: 'pending',
         feedbackSections: [
           {
-            id: 'eddo-opt-snap-0-abc',
+            id: 'dott-opt-snap-0-abc',
             type: 'strength',
             section: 'strength',
             content: 'Great work',
@@ -71,7 +71,7 @@ test('should resolve custom rows by semantic key when originalSectionId is missi
         status: 'pending',
         feedbackSections: [
           {
-            id: 'eddo-opt-snap-1-xyz',
+            id: 'dott-opt-snap-1-xyz',
             type: 'comment',
             section: 'comment',
             content: 'Please revise intro',
@@ -118,7 +118,7 @@ test('should return undefined when only optimistic rows exist', async () => {
         status: 'pending',
         feedbackSections: [
           {
-            id: 'eddo-opt-snap-0-abc',
+            id: 'dott-opt-snap-0-abc',
             type: 'strength',
             section: 'strength',
             content: 'Great work',
@@ -139,8 +139,8 @@ test('should detect optimistic feedback section ids', async () => {
   const { isOptimisticFeedbackSectionId } = await import(
     '../app/lib/feedback/resolve-pending-section-after-snapshot.ts'
   )
-  assert.equal(isOptimisticFeedbackSectionId('eddo-opt-snap-0-x'), true)
-  assert.equal(isOptimisticFeedbackSectionId('eddo-opt-uuid'), true)
+  assert.equal(isOptimisticFeedbackSectionId('dott-opt-snap-0-x'), true)
+  assert.equal(isOptimisticFeedbackSectionId('dott-opt-uuid'), true)
   assert.equal(isOptimisticFeedbackSectionId('cuid-real-id'), false)
   assert.equal(isOptimisticFeedbackSectionId(undefined), false)
 })

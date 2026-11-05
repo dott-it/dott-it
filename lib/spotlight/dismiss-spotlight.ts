@@ -12,7 +12,7 @@ export async function dismissSpotlightCard(input: {
   teacherId: string
   tenantId: string
   assessmentId: string
-  /** When true (eddo staff), skip teacher ownership check. */
+  /** When true (dott-it staff), skip teacher ownership check. */
   isStaff?: boolean
 }): Promise<DismissSpotlightResult> {
   const assessment = await prisma.assessment.findUnique({

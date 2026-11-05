@@ -40,7 +40,7 @@ export type DigitizeSkipReason =
   | 'not-formal-assessment'
   | 'missing-student-handout'
   | 'google-form-already-present'
-  | 'existing-eddo-form-in-lesson-folder'
+  | 'existing-dott-it-form-in-lesson-folder'
 
 export interface DigitizeEligibilityResult {
   eligible: boolean
@@ -66,7 +66,7 @@ export interface DigitizeDryRunPlan {
   handoutDriveFileId: string
   lessonFolderId: string
   formTitle: string
-  existingEddoFormId: string | null
+  existingDottFormId: string | null
   wouldSkip: boolean
   skipReason?: DigitizeSkipReason
 }

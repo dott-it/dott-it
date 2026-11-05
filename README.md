@@ -4,13 +4,13 @@
   <img src="public/dottit-logo.jpg" alt="Dott.it" width="640">
 </p>
 
-Teacher product spinoff from Eddo — orange-led brand, free-tier stack (Vercel Hobby + Neon Free).
+Teacher product spinoff from Dott.it — orange-led brand, free-tier stack (Vercel Hobby + Neon Free).
 
 ## Docs
 
 | Doc | Contents |
 |---|---|
-| [TECHNICAL.md](./TECHNICAL.md) | Scope, stack, OAuth model, reuse from Eddo, free-tier limits |
+| [TECHNICAL.md](./TECHNICAL.md) | Scope, stack, OAuth model, reuse from Dott.it, free-tier limits |
 | [STRATEGY.md](./STRATEGY.md) | Context, diagnosis, brand, operating model |
 | [DOMAINS.md](./DOMAINS.md) | Product / GitHub naming |
 
@@ -19,7 +19,7 @@ Teacher product spinoff from Eddo — orange-led brand, free-tier stack (Vercel 
 - Next.js (App Router) + pnpm
 - Dual Prisma schemas: `prisma/user` + `prisma/assessment` (multi-tenant)
 - Auth: NextAuth (credentials + Google OAuth)
-- Hosting target: Vercel Hobby; DB: Neon Free (empty — migrate only, no Eddo data)
+- Hosting target: Vercel Hobby; DB: Neon Free (empty — migrate only, no Dott.it data)
 
 ## Local setup
 
@@ -39,8 +39,8 @@ pnpm dev
 - `pnpm test:unit` — Jest + node:test suite
 - `pnpm build` — prisma generate + Next build
 
-DB seed scripts from Eddo were **not** copied. Start from empty Neon databases.
+DB seed scripts from Dott.it were **not** copied. Start from empty Neon databases.
 
 ## Status
 
-Bootstrap from `eddo-workspace` (structure + app code). Per-teacher OAuth, AI/Spotlight/digitize pruning, and real Vercel/Neon wiring come next.
+Bootstrap from `dott-it-workspace` (structure + app code). Per-teacher OAuth, AI/Spotlight/digitize pruning, and real Vercel/Neon wiring come next.

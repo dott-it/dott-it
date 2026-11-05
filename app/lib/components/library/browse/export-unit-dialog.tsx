@@ -243,7 +243,7 @@ export function ExportUnitDialog({
             get a new Form generated from the student handout. Each Drive export assessment gets its
             own folder inside{' '}
             <span className="font-medium text-foreground">
-              Eddo Learning / OpenSciEd / Unit {unitCode}
+              Dott.it / OpenSciEd / Unit {unitCode}
             </span>
             . Teacher Edition guidance sheets are not included.
           </DialogDescription>

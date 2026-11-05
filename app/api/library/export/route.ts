@@ -84,7 +84,7 @@ export async function POST(request: Request) {
     })
 
     if (formsToGenerate.length > 0) {
-      const rateKey = googleToken.eddoUserId ?? googleToken.email ?? 'anonymous'
+      const rateKey = googleToken.dottUserId ?? googleToken.email ?? 'anonymous'
       const rate = checkLibraryFormGenerationRateLimit({
         key: `assessment:${rateKey}`,
         consume: false,
@@ -117,7 +117,7 @@ export async function POST(request: Request) {
     })
 
     if (formsToGenerate.length > 0) {
-      const rateKey = googleToken.eddoUserId ?? googleToken.email ?? 'anonymous'
+      const rateKey = googleToken.dottUserId ?? googleToken.email ?? 'anonymous'
       recordLibraryFormGenerationRateLimit({ key: `assessment:${rateKey}` })
     }
 

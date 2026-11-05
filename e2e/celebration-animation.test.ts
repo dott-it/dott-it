@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 test.describe.skip('Celebration Animation', () => {
-    test('should show celebration animation with somersaulting Eddo icon when sending a message', async ({ page }) => {
+    test('should show celebration animation with somersaulting Dott.it icon when sending a message', async ({ page }) => {
         // Navigate to a feedback history page
         await page.goto('/workspace/assessments/assess-1/sub-1');
 
@@ -34,9 +34,9 @@ test.describe.skip('Celebration Animation', () => {
         const confettiDots = page.locator('.animate-bounce');
         await expect(confettiDots).toHaveCount(12);
 
-        // Check that the somersaulting Eddo icon is present
-        const eddoIcon = page.locator('.animate-somersault img[src="/dottit-logo.png"]');
-        await expect(eddoIcon).toBeVisible();
+        // Check that the somersaulting Dott.it icon is present
+        const dottIcon = page.locator('.animate-somersault img[src="/dottit-logo.png"]');
+        await expect(dottIcon).toBeVisible();
 
         // Wait for the animation to complete (should auto-hide after 2 seconds)
         await page.waitForTimeout(2500);
@@ -45,7 +45,7 @@ test.describe.skip('Celebration Animation', () => {
         await expect(celebrationOverlay).not.toBeVisible();
     });
 
-    test('should trigger Eddo icon somersault in sidebar when sending a message', async ({ page }) => {
+    test('should trigger Dott.it icon somersault in sidebar when sending a message', async ({ page }) => {
         // Navigate to a feedback history page
         await page.goto('/workspace/assessments/assess-1/sub-1');
 
@@ -58,9 +58,9 @@ test.describe.skip('Celebration Animation', () => {
         // Wait for the feedback history component to load
         await page.waitForTimeout(1000);
 
-        // Find the sidebar Eddo icon
-        const sidebarEddoIcon = page.locator('button[aria-label*="sidebar"] img[src="/dottit-logo.png"]');
-        await expect(sidebarEddoIcon).toBeVisible();
+        // Find the sidebar Dott.it icon
+        const sidebarDottIcon = page.locator('button[aria-label*="sidebar"] img[src="/dottit-logo.png"]');
+        await expect(sidebarDottIcon).toBeVisible();
 
         // Type and send a message
         const inputField = page.locator('input[placeholder*="Your message"]');
@@ -69,14 +69,14 @@ test.describe.skip('Celebration Animation', () => {
         const sendButton = page.locator('button[aria-label="Send message"]');
         await sendButton.click();
 
-        // Check that the sidebar Eddo icon gets the somersault animation class
-        await expect(sidebarEddoIcon).toHaveClass(/animate-somersault/);
+        // Check that the sidebar Dott.it icon gets the somersault animation class
+        await expect(sidebarDottIcon).toHaveClass(/animate-somersault/);
 
         // Wait for the animation to complete
         await page.waitForTimeout(1500);
 
         // Check that the animation class is removed
-        await expect(sidebarEddoIcon).not.toHaveClass(/animate-somersault/);
+        await expect(sidebarDottIcon).not.toHaveClass(/animate-somersault/);
     });
 
     test('should not show celebration for empty messages', async ({ page }) => {

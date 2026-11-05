@@ -20,7 +20,7 @@ test('should sign only access-session fields and verify them', () => {
     accessToken: 'ya29.access',
     expiryDate: Date.now() + 60 * 60 * 1000,
     email: 'teacher@example.com',
-    eddoUserId: 'user-1',
+    dottUserId: 'user-1',
   })
 
   const payload = verifyLibraryExportGoogleToken(token)
@@ -28,7 +28,7 @@ test('should sign only access-session fields and verify them', () => {
     accessToken: 'ya29.access',
     expiryDate: payload?.expiryDate,
     email: 'teacher@example.com',
-    eddoUserId: 'user-1',
+    dottUserId: 'user-1',
   })
   assert.ok(payload?.expiryDate && payload.expiryDate > Date.now())
 
@@ -63,15 +63,15 @@ test('should reject expired access tokens', () => {
   assert.equal(verifyLibraryExportGoogleToken(token), null)
 })
 
-test('should round-trip eddoUserId binding on export cookies', () => {
+test('should round-trip dottUserId binding on export cookies', () => {
   process.env.NEXTAUTH_SECRET = SECRET
 
   const token = signLibraryExportGoogleToken({
     accessToken: 'ya29.access',
     expiryDate: Date.now() + 60 * 60 * 1000,
-    eddoUserId: 'eddo-user-42',
+    dottUserId: 'dott-it-user-42',
   })
 
   const payload = verifyLibraryExportGoogleToken(token)
-  assert.equal(payload?.eddoUserId, 'eddo-user-42')
+  assert.equal(payload?.dottUserId, 'dott-it-user-42')
 })

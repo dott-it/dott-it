@@ -13,7 +13,7 @@ test.describe.skip('OpenSciEd Basic E2E Tests', () => {
         await setupNextJsTest(page, '/library/OpenSciEd')
 
         // Check that the page loads with the correct title
-        await expect(page).toHaveTitle(/Eddo Workspace/)
+        await expect(page).toHaveTitle(/Dott.it Workspace/)
 
         // Verify the main heading is present
         await expect(page.getByRole('heading', { name: 'OpenSciEd Science Curriculum' })).toBeVisible()

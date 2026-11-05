@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Eddo Learning Workspace uses a **comprehensive multi-source seeding strategy** that combines mock data, real anonymized assessment data, and a structured database schema to provide a rich development and demonstration environment.
+The Dott.it Workspace uses a **comprehensive multi-source seeding strategy** that combines mock data, real anonymized assessment data, and a structured database schema to provide a rich development and demonstration environment.
 
 ## Naming Conventions
 

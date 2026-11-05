@@ -472,7 +472,7 @@ export async function exportFeedbackToDOC(
   const doc = new Document({
     title: `Feedback for ${studentRecord.learnerName}`,
     description: `Assessment: ${assessment.title} - Eco-friendly optimized`,
-    creator: 'Eddo Learning Platform',
+    creator: 'Dott.it',
     keywords: 'feedback, assessment, learning, eco-friendly, duplex',
     sections: [
       {

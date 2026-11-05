@@ -67,7 +67,7 @@ export async function downloadLibraryMaterialsZip(
     fallbackFilename
   triggerBrowserDownload(blob, filename)
 
-  const fileCountHeader = response.headers.get('X-Eddo-Download-File-Count')
+  const fileCountHeader = response.headers.get('X-Dott-Download-File-Count')
   const fileCount = fileCountHeader ? Number(fileCountHeader) : undefined
   toast.success('Download started', {
     description:

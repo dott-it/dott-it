@@ -52,7 +52,7 @@ export function TenantCreateForm({
           placeholder="e.g., cameron-k12"
           value={formData.slug}
           onChange={(value) => onFormDataChange('slug', value.toLowerCase())}
-          description={`A unique identifier for this tenant (lowercase, letters, numbers, dots, and hyphens only). Used in URLs like ${formData.slug ? `${formData.slug}.eddolearning.com` : 'tenant-name.eddolearning.com'}`}
+          description={`A unique identifier for this tenant (lowercase, letters, numbers, dots, and hyphens only). Used in URLs like ${formData.slug ? `${formData.slug}.demo.dott.it` : 'tenant-name.demo.dott.it'}`}
           error={formErrors.slug}
         />
 

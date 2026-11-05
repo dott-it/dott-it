@@ -25,7 +25,7 @@ const CATEGORY_SHORT_LABELS: Record<AssessmentCategory, string> = {
   Peer: 'Peer',
 }
 
-/** Filled markers aligned with opensci-assess-hub rhythm strip (eddo palette). */
+/** Filled markers aligned with opensci-assess-hub rhythm strip (dott-it palette). */
 const FILLED_CATEGORY_MARKER: Record<AssessmentCategory, string> = {
   Pre: 'rounded-full border border-ose-accent bg-ose-accent/50',
   Formative: 'rounded-full bg-ose-accent',

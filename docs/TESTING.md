@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides comprehensive information about the testing strategy implemented in the Eddo Workspace project. The testing setup includes both unit tests and end-to-end (E2E) tests to ensure application reliability and functionality.
+This document provides comprehensive information about the testing strategy implemented in the Dott.it Workspace project. The testing setup includes both unit tests and end-to-end (E2E) tests to ensure application reliability and functionality.
 
 ## Test Architecture
 
@@ -152,7 +152,7 @@ pnpm test:e2e:ui
 
 - **Trigger**: Daily and on commits to main
 - **Purpose**: Automated broken link detection
-- **Target**: `https://eddo-workspace.vercel.app`
+- **Target**: `https://dott-it-workspace.vercel.app`
 - **Alerts**: Slack notifications for failures
 
 #### Configuration

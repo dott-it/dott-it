@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { getLibrarySiteUrl } from '@/lib/library/site-url'
 
-const LIBRARY_SITE_NAME = 'Eddo · OpenSciEd Assessment Library'
+const LIBRARY_SITE_NAME = 'Dott.it · OpenSciEd Assessment Library'
 const LIBRARY_OG_IMAGE_PATH = '/dottit-logo.jpg'
 
 export function libraryOgImageUrl(): string {

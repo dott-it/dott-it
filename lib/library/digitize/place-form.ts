@@ -1,5 +1,5 @@
 import { googleApiJson } from '@/lib/library/export/google-api-fetch'
-import { isEddoFormNameForAssessment } from './naming'
+import { isDottFormNameForAssessment } from './naming'
 
 const DRIVE_API_BASE = 'https://www.googleapis.com/drive/v3'
 const FORM_MIME = 'application/vnd.google-apps.form'
@@ -10,7 +10,7 @@ function escapeDriveQueryValue(value: string): string {
   return value.replaceAll("'", String.raw`\'`)
 }
 
-export interface ExistingEddoForm {
+export interface ExistingDottForm {
   formId: string
   name: string
   /** True when the lesson folder only has a shortcut to a My Drive Form. */
@@ -19,13 +19,13 @@ export interface ExistingEddoForm {
 }
 
 /**
- * Find an existing Eddo-marked Form (or shortcut to one) in the lesson folder.
+ * Find an existing Dott.it-marked Form (or shortcut to one) in the lesson folder.
  */
-export async function findExistingEddoForm(
+export async function findExistingDottForm(
   accessToken: string,
   lessonFolderId: string,
   assessmentTitle: string,
-): Promise<ExistingEddoForm | null> {
+): Promise<ExistingDottForm | null> {
   const q = [
     `'${escapeDriveQueryValue(lessonFolderId)}' in parents`,
     `(mimeType='${FORM_MIME}' or mimeType='${SHORTCUT_MIME}')`,
@@ -48,7 +48,7 @@ export async function findExistingEddoForm(
     if (!file.id || !file.name) {
       continue
     }
-    if (!isEddoFormNameForAssessment(file.name, assessmentTitle)) {
+    if (!isDottFormNameForAssessment(file.name, assessmentTitle)) {
       continue
     }
     if (file.mimeType === SHORTCUT_MIME) {
@@ -71,7 +71,7 @@ export async function findExistingEddoForm(
   return null
 }
 
-export function eddoFormSiblingFolderNames(formTitle: string): string[] {
+export function dottFormSiblingFolderNames(formTitle: string): string[] {
   return [`${formTitle} — assets`, `${formTitle} — uploads`, `${formTitle} — student uploads`]
 }
 
@@ -114,15 +114,15 @@ async function findChildFoldersByNames(
 }
 
 /**
- * Trash an existing Eddo Form / shortcut and sibling assets/uploads folders so --force replaces cleanly.
+ * Trash an existing Dott.it Form / shortcut and sibling assets/uploads folders so --force replaces cleanly.
  */
-export async function trashExistingEddoFormArtifacts(args: {
+export async function trashExistingDottFormArtifacts(args: {
   accessToken: string
   lessonFolderId: string
   formTitle: string
   formId?: string | null
 }): Promise<void> {
-  // Trash shortcuts in the lesson folder that point at this Form (or share the Eddo title).
+  // Trash shortcuts in the lesson folder that point at this Form (or share the Dott.it title).
   const shortcutQuery = [
     `'${escapeDriveQueryValue(args.lessonFolderId)}' in parents`,
     `mimeType='${SHORTCUT_MIME}'`,
@@ -169,7 +169,7 @@ export async function trashExistingEddoFormArtifacts(args: {
   const folders = await findChildFoldersByNames(
     args.accessToken,
     args.lessonFolderId,
-    eddoFormSiblingFolderNames(args.formTitle),
+    dottFormSiblingFolderNames(args.formTitle),
   )
   for (const folder of folders) {
     await trashDriveFile(args.accessToken, folder.id)
@@ -247,7 +247,7 @@ export async function ensureFormInMyDrive(
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          name: meta.name?.trim() || 'Eddo Form',
+          name: meta.name?.trim() || 'Dott.it Form',
           parents: ['root'],
         }),
       },
@@ -268,7 +268,7 @@ async function ensureLessonShortcut(
     accessToken,
     `${DRIVE_API_BASE}/files/${formId}?fields=name&supportsAllDrives=true`,
   )
-  const name = form.name?.trim() || 'Eddo Form'
+  const name = form.name?.trim() || 'Dott.it Form'
 
   const q = [
     `'${escapeDriveQueryValue(lessonFolderId)}' in parents`,

@@ -86,8 +86,8 @@ export function getEcoDocumentProperties(title: string, subject: string) {
   return {
     title,
     subject,
-    author: 'Eddo Learning Platform',
-    creator: 'Eddo Learning Platform',
+    author: 'Dott.it',
+    creator: 'Dott.it',
     keywords: 'feedback, assessment, learning, eco-friendly, duplex'
   }
 }

@@ -32,32 +32,32 @@ export async function GET(request: Request) {
   }
 
   let returnTo = '/library/openscied'
-  let stateEddoUserId: string | undefined
+  let stateDottUserId: string | undefined
   try {
     const payload = jwt.verify(state, getSecret()) as {
       returnTo?: string
-      eddoUserId?: string
+      dottUserId?: string
     }
     if (payload.returnTo && isSafeLibraryExportReturnTo(payload.returnTo)) {
       returnTo = payload.returnTo
     }
-    if (typeof payload.eddoUserId === 'string' && payload.eddoUserId.trim()) {
-      stateEddoUserId = payload.eddoUserId.trim()
+    if (typeof payload.dottUserId === 'string' && payload.dottUserId.trim()) {
+      stateDottUserId = payload.dottUserId.trim()
     }
   } catch {
     return NextResponse.json({ error: 'Invalid OAuth state' }, { status: 400 })
   }
 
-  const eddoSession = await auth()
-  const eddoUserId = eddoSession?.user?.id
-  if (!eddoUserId) {
+  const dottSession = await auth()
+  const dottUserId = dottSession?.user?.id
+  if (!dottUserId) {
     const oauthStart = `/api/library/export/auth/google?returnTo=${encodeURIComponent(returnTo)}`
     const loginUrl = new URL('/login', origin)
     loginUrl.searchParams.set('callbackUrl', oauthStart)
     return NextResponse.redirect(loginUrl)
   }
 
-  if (stateEddoUserId && stateEddoUserId !== eddoUserId) {
+  if (stateDottUserId && stateDottUserId !== dottUserId) {
     const redirectUrl = new URL(returnTo, origin)
     redirectUrl.searchParams.set('exportError', 'session_mismatch')
     return NextResponse.redirect(redirectUrl)
@@ -67,7 +67,7 @@ export async function GET(request: Request) {
     const googleToken = await exchangeLibraryExportCode(origin, code)
     const sessionToken = signLibraryExportGoogleToken({
       ...googleToken,
-      eddoUserId,
+      dottUserId,
     })
     const redirectUrl = new URL(returnTo, origin)
     redirectUrl.searchParams.set('googleExport', 'ready')

@@ -27,7 +27,7 @@ interface AppHeaderProps {
 }
 
 const AppHeader = React.forwardRef<HTMLElement, AppHeaderProps>(
-  ({ user, title = 'eddo', onLogout }, ref) => {
+  ({ user, title = 'Dott.it', onLogout }, ref) => {
     const { data: session } = useSession()
     const [canAccessBackoffice, setCanAccessBackoffice] = React.useState(false)
     const [isLoading, setIsLoading] = React.useState(true)

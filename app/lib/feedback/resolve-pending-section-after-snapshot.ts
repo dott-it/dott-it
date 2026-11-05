@@ -7,7 +7,7 @@ import {
 } from './merge-feedback-sections'
 
 /** Client-only section ids (never sent to the API as persisted keys). */
-export const OPTIMISTIC_SECTION_ID_PREFIX = 'eddo-opt-'
+export const OPTIMISTIC_SECTION_ID_PREFIX = 'dott-opt-'
 
 export function isOptimisticFeedbackSectionId(id: string | undefined): boolean {
   return Boolean(id?.startsWith(OPTIMISTIC_SECTION_ID_PREFIX))
@@ -16,7 +16,7 @@ export function isOptimisticFeedbackSectionId(id: string | undefined): boolean {
 /**
  * After seeding a completed snapshot into pending, map a source section to the
  * corresponding pending row id. Skips client-only optimistic ids so callers never
- * PATCH/DELETE `eddo-opt-*` keys.
+ * PATCH/DELETE `dott-opt-*` keys.
  */
 export function resolvePendingSectionIdAfterSnapshotSeed(
   rec: AssessmentRecord | undefined,

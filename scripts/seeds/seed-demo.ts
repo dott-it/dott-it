@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 /**
  * Idempotent demo seed for Dott.it (mock tenant, teacher login, class, assessments).
- * Does not copy Eddo production data.
+ * Does not copy Dott.it production data.
  *
  * Login (credentials / bcrypt user — works in Production):
  *   DEMO_TEACHER_EMAIL / DEMO_TEACHER_PASSWORD from ~/.config/dott-it/neon.env or .env.local

@@ -73,7 +73,7 @@ export function WorkspaceHomeContent() {
 
       <AssessmentListTable
         assessments={assessments}
-        emptyDescription="You have no assessments for the current school year. Contact your coach or eddo point of contact to get started."
+        emptyDescription="You have no assessments for the current school year. Contact your coach or Dott.it point of contact to get started."
       />
     </div>
   )

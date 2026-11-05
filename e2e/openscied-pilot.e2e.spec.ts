@@ -106,7 +106,7 @@ test.describe('OpenSciEd Library pilot (Unit 8.1)', () => {
     ).toBeVisible()
     await expect(page.getByRole('link', { name: 'View assessment opportunity →' })).toBeVisible()
     await expect(page.getByRole('button', { name: 'Download / export materials' })).toBeVisible()
-    await expect(page.getByRole('button', { name: 'Add to Eddo workspace' })).toBeVisible()
+    await expect(page.getByRole('button', { name: 'Add to Dott.it workspace' })).toBeVisible()
   })
 
   test('should show opportunity detail with TE facilitation and export when handout exists', async ({
@@ -123,7 +123,7 @@ test.describe('OpenSciEd Library pilot (Unit 8.1)', () => {
     await expect(page.getByRole('heading', { name: 'From Teacher Edition' })).toBeVisible()
     await expect(page.getByRole('heading', { name: 'What to look / listen for' })).toBeVisible()
     await expect(page.getByRole('button', { name: 'Download / export materials' })).toBeVisible()
-    await expect(page.getByRole('button', { name: 'Add to Eddo workspace' })).toHaveCount(0)
+    await expect(page.getByRole('button', { name: 'Add to Dott.it workspace' })).toHaveCount(0)
   })
 
   test('should filter the unit table with within-unit search', async ({ page }) => {

@@ -17,7 +17,7 @@ interface RouteParams {
  * Backoffice: pull live Google Form responses and run the existing Forms ingest loop.
  *
  * Requires GOOGLE_FORMS_IMPERSONATE_USER (and service-account DWD) to match the account
- * that Forms are shared with (typically forms-access@eddolearning.com in production).
+ * that Forms are shared with (typically forms-access@demo.dott.it in production).
  */
 async function syncResponsesHandler(_request: AuthorizedRequest, context: RouteParams) {
   try {

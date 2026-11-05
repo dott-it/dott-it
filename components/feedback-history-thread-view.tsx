@@ -451,8 +451,8 @@ export function FeedbackHistoryThreadView({
     setShowCelebration(true)
     setTimeout(() => setShowCelebration(false), 3000)
 
-    // Dispatch custom event to trigger Eddo icon somersault
-    const event = new CustomEvent('eddo-celebration', { detail: { type: 'message-sent' } })
+    // Dispatch custom event to trigger Dott.it icon somersault
+    const event = new CustomEvent('dott-celebration', { detail: { type: 'message-sent' } })
     globalThis.dispatchEvent(event)
 
     // Message sent successfully - no automatic AI response needed
@@ -516,7 +516,7 @@ export function FeedbackHistoryThreadView({
                 })}
               </div>
 
-              {/* Somersaulting Eddo Icon */}
+              {/* Somersaulting Dott.it Icon */}
               <div className="absolute left-4 top-4">
                 <div className="animate-somersault">
                   <Image

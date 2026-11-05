@@ -13,7 +13,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from '@/components/ui/dialog'
-import { EDDO_COMMUNITY_DEMO_URL } from '@/lib/library/site-url'
+import { DOTT_COMMUNITY_DEMO_URL } from '@/lib/library/site-url'
 
 interface AddToWorkspaceDialogProps {
   open: boolean
@@ -140,7 +140,7 @@ export function AddToWorkspaceDialog({
           </DialogDescription>
           <DialogTitle className="text-xl leading-snug">{assessmentTitle}</DialogTitle>
           <DialogDescription className="text-sm leading-relaxed">
-            Attach the Google Form and scoring bundle to your Eddo Workspace so you can collect
+            Attach the Google Form and scoring bundle to your Dott.it Workspace so you can collect
             student responses and generate AI-assisted feedback.
           </DialogDescription>
         </DialogHeader>
@@ -159,12 +159,12 @@ export function AddToWorkspaceDialog({
 
         <aside className="rounded-md border border-border bg-muted/30 px-3 py-3">
           <p className="text-sm leading-relaxed text-muted-foreground">
-            New to Eddo? Join our community to see how teachers collect responses and deliver
+            New to Dott.it? Join our community to see how teachers collect responses and deliver
             AI-assisted feedback.
           </p>
           <Button asChild variant="link" className="mt-1 h-auto px-0 text-sm">
-            <a href={EDDO_COMMUNITY_DEMO_URL} target="_blank" rel="noopener noreferrer">
-              Join the Eddo community
+            <a href={DOTT_COMMUNITY_DEMO_URL} target="_blank" rel="noopener noreferrer">
+              Join the Dott.it community
               <ExternalLink className="size-3.5" aria-hidden />
             </a>
           </Button>

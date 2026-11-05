@@ -1,4 +1,4 @@
-Eddo Learning Workspace – Project Documentation
+Dott.it Workspace – Project Documentation
 
 (v0.9 – June 19 2025)
 
@@ -6,7 +6,7 @@ Eddo Learning Workspace – Project Documentation
 
 1. Purpose
 
-Eddo Learning Workspace is a multi-tenant web application that lets districts run AI-powered assessments while protecting personally-identifiable information (PII).
+Dott.it Workspace is a multi-tenant web application that lets districts run AI-powered assessments while protecting personally-identifiable information (PII).
 Key goals:
 •✅ Isolate every tenant’s accounts & raw student data
 •✅ Aggregate de-identified assessment events in a single global store for analytics/ML
@@ -43,16 +43,16 @@ flowchart TD
 3. URL & DNS Scheme
 
 HostnameRoleNotes
-eddolearning.comMarketing siteDeployed from /marketing dir or separate repo
-app.eddolearning.comGlobal demo tenantSeeded as Tenant.slug = global
-workspace.eddolearning.comAlias → 301 to app. (optional)
-{slug}.eddolearning.comRegular tenant workspaceCreated on onboarding
+demo.dott.itMarketing siteDeployed from /marketing dir or separate repo
+app.demo.dott.itGlobal demo tenantSeeded as Tenant.slug = global
+workspace.demo.dott.itAlias → 301 to app. (optional)
+{slug}.demo.dott.itRegular tenant workspaceCreated on onboarding
 Custom domainse.g. science.wsd.eduAdded to Domain table & Vercel
 
 DNS records:
 
-A      eddolearning.com        → Vercel apex IPs
-CNAME  *.eddolearning.com      → cname.vercel-dns.com
+A      demo.dott.it        → Vercel apex IPs
+CNAME  *.demo.dott.it      → cname.vercel-dns.com
 
 
 ⸻
@@ -133,16 +133,16 @@ Injection / CSPMarketing and product are served from different hosts, separate C
 
 7. Deployment Checklist
 1.Vercel projects
-•marketing-site → eddolearning.com
-•workspace-app → wildcard *.eddolearning.com
+•marketing-site → demo.dott.it
+•workspace-app → wildcard *.demo.dott.it
 2.Env vars
 •DATABASE_URL (tenant plane)
 •GLOBAL_DATABASE_URL (global plane)
 •HASH_SALT – 64 char random
 3.Auth provider (Auth0/Clerk)
 •Allowed callbacks:
-https://app.eddolearning.com/api/auth/callback
-https://{slug}.eddolearning.com/api/auth/callback
+https://app.demo.dott.it/api/auth/callback
+https://{slug}.demo.dott.it/api/auth/callback
 4.Background worker (Railway or Fly.io)
 •Connects to both DBs; listens on NOTIFY new_response
 5.RLS bootstrap
@@ -178,7 +178,7 @@ async function createTenant(name: string, slug: string) {
     data: {
       name,
       slug,
-      primaryDomain: `${slug}.eddolearning.com`,
+      primaryDomain: `${slug}.demo.dott.it`,
     },
   });
 
@@ -208,4 +208,4 @@ AssessmentEventA single scored item response + feedback, stripped of PII
 
 ⸻
 
-Maintainer: Matt AW (matt@eddolearning.com) – please open a GitHub issue for questions or improvements.
+Maintainer: Matt AW (matt@demo.dott.it) – please open a GitHub issue for questions or improvements.

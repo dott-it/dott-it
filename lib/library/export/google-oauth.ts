@@ -69,7 +69,7 @@ async function postGoogleToken(body: URLSearchParams): Promise<GoogleTokenRespon
 export async function exchangeLibraryExportCode(
   origin: string,
   code: string,
-): Promise<Omit<LibraryExportGoogleTokenPayload, 'eddoUserId'>> {
+): Promise<Omit<LibraryExportGoogleTokenPayload, 'dottUserId'>> {
   const clientId = process.env.GOOGLE_CLIENT_ID
   const clientSecret = process.env.GOOGLE_CLIENT_SECRET
   if (!clientId || !clientSecret) {

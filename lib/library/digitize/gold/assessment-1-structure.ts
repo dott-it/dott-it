@@ -1,7 +1,7 @@
 import type { DigitizeFormBlock } from '../types'
 
 /**
- * Compact gold structure patterned on Baseball Assessment 1 (Eddo) —
+ * Compact gold structure patterned on Baseball Assessment 1 (Dott.it) —
  * teacher-quality text layout (stems on the answer item when single-response,
  * materials blanks, Name/Hour/Teacher first).
  * Used as few-shot in the extraction prompt; not a full Form dump.

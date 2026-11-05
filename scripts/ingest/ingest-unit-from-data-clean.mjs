@@ -30,7 +30,7 @@ const seedUnits = JSON.parse(fs.readFileSync(path.join(repoRoot, 'data/seed/open
 const extractTitleScript = path.join(scriptsDir, 'extract-lesson-title.py')
 const extractPacingScript = path.join(scriptsDir, 'extract-lesson-pacing.py')
 const extractOpportunitiesScript = path.join(scriptsDir, 'extract-te-assessment-opportunities.py')
-const tempGuidanceRoot = path.join('/tmp', 'eddo-openscied-ingest')
+const tempGuidanceRoot = path.join('/tmp', 'dott-it-openscied-ingest')
 
 const contentPipelineRoot =
   process.env.CONTENT_PIPELINE_ROOT ?? path.join(process.env.HOME ?? '', 'Projects/content-pipeline')

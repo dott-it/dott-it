@@ -9,7 +9,7 @@
  */
 
 export { isDigitizeEligible } from './eligibility'
-export { eddoFormTitle, EDDO_FORM_MARKER, isEddoFormNameForAssessment } from './naming'
+export { dottFormTitle, DOTT_FORM_MARKER, isDottFormNameForAssessment } from './naming'
 export { runDigitizePipeline } from './pipeline'
 export {
   persistGoogleFormUrl,

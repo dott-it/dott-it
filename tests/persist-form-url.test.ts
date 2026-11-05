@@ -6,7 +6,7 @@ import { test } from 'node:test'
 import { persistGoogleFormTeacherReadyUrl, persistGoogleFormUrl } from '../lib/library/digitize/persist-form-url.ts'
 
 test('should write googleForm URL onto the matching assessment only', () => {
-  const root = mkdtempSync(path.join(tmpdir(), 'eddo-ingest-'))
+  const root = mkdtempSync(path.join(tmpdir(), 'dott-it-ingest-'))
   const ingestedDir = path.join(root, 'data', 'ingested')
   mkdirSync(ingestedDir, { recursive: true })
   const manifestPath = path.join(ingestedDir, 'unit-8.1.json')
@@ -55,7 +55,7 @@ test('should write googleForm URL onto the matching assessment only', () => {
 })
 
 test('should write googleFormTeacherReady without changing preview googleForm', () => {
-  const root = mkdtempSync(path.join(tmpdir(), 'eddo-ingest-'))
+  const root = mkdtempSync(path.join(tmpdir(), 'dott-it-ingest-'))
   const ingestedDir = path.join(root, 'data', 'ingested')
   mkdirSync(ingestedDir, { recursive: true })
   const manifestPath = path.join(ingestedDir, 'unit-8.1.json')
@@ -99,7 +99,7 @@ test('should write googleFormTeacherReady without changing preview googleForm', 
 })
 
 test('should clear googleFormTeacherReady when formUrl is null', () => {
-  const root = mkdtempSync(path.join(tmpdir(), 'eddo-ingest-'))
+  const root = mkdtempSync(path.join(tmpdir(), 'dott-it-ingest-'))
   const ingestedDir = path.join(root, 'data', 'ingested')
   mkdirSync(ingestedDir, { recursive: true })
   const manifestPath = path.join(ingestedDir, 'unit-8.1.json')
@@ -143,7 +143,7 @@ test('should clear googleFormTeacherReady when formUrl is null', () => {
 })
 
 test('should no-op when the same Form URL is already stored', () => {
-  const root = mkdtempSync(path.join(tmpdir(), 'eddo-ingest-'))
+  const root = mkdtempSync(path.join(tmpdir(), 'dott-it-ingest-'))
   const ingestedDir = path.join(root, 'data', 'ingested')
   mkdirSync(ingestedDir, { recursive: true })
   const manifestPath = path.join(ingestedDir, 'unit-8.1.json')

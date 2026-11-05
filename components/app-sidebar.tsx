@@ -82,9 +82,9 @@ export function AppSidebar() {
             }
         }
 
-        globalThis.addEventListener('eddo-celebration', handleCelebration as globalThis.EventListener)
+        globalThis.addEventListener('dott-celebration', handleCelebration as globalThis.EventListener)
         return () => {
-            globalThis.removeEventListener('eddo-celebration', handleCelebration as globalThis.EventListener)
+            globalThis.removeEventListener('dott-celebration', handleCelebration as globalThis.EventListener)
         }
     }, [])
 
@@ -258,7 +258,7 @@ export function AppSidebar() {
                             )}
                         </Button>
                         <p className="text-center text-xs text-muted-foreground">
-                            EDDO Assessment Platform
+                            Dott.it Assessment Platform
                         </p>
                     </div>
                 </div>

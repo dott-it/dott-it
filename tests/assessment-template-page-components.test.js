@@ -4,7 +4,7 @@ import assert from 'node:assert/strict'
 
 test('AssessmentTemplatePageLayout should wrap children with shared spacing', async () => {
   const contents = await readFile(
-    '/home/ocarlosfelix/Repos/eddo-workspace/app/lib/components/assessment/assessment-template-page-layout.tsx',
+    '/home/ocarlosfelix/Repos/dott-it-workspace/app/lib/components/assessment/assessment-template-page-layout.tsx',
     'utf8',
   )
 
@@ -14,7 +14,7 @@ test('AssessmentTemplatePageLayout should wrap children with shared spacing', as
 
 test('AssessmentTemplateDetailsSection should render template metadata and info', async () => {
   const contents = await readFile(
-    '/home/ocarlosfelix/Repos/eddo-workspace/app/lib/components/assessment/assessment-template-details-section.tsx',
+    '/home/ocarlosfelix/Repos/dott-it-workspace/app/lib/components/assessment/assessment-template-details-section.tsx',
     'utf8',
   )
 
@@ -30,7 +30,7 @@ test('AssessmentTemplateDetailsSection should render template metadata and info'
 
 test('AssessmentTemplateDetailPage should use shared template helpers', async () => {
   const contents = await readFile(
-    '/home/ocarlosfelix/Repos/eddo-workspace/app/(dashboard)/backoffice/assessment-templates/[id]/page.tsx',
+    '/home/ocarlosfelix/Repos/dott-it-workspace/app/(dashboard)/backoffice/assessment-templates/[id]/page.tsx',
     'utf8',
   )
 
@@ -39,7 +39,7 @@ test('AssessmentTemplateDetailPage should use shared template helpers', async ()
 
 test('Assessment component index should re-export template helpers', async () => {
   const contents = await readFile(
-    '/home/ocarlosfelix/Repos/eddo-workspace/app/lib/components/assessment/index.ts',
+    '/home/ocarlosfelix/Repos/dott-it-workspace/app/lib/components/assessment/index.ts',
     'utf8',
   )
 
@@ -49,7 +49,7 @@ test('Assessment component index should re-export template helpers', async () =>
 
 test('Template usage section exposes load more control', async () => {
   const contents = await readFile(
-    '/home/ocarlosfelix/Repos/eddo-workspace/app/(dashboard)/backoffice/assessment-templates/[id]/page.tsx',
+    '/home/ocarlosfelix/Repos/dott-it-workspace/app/(dashboard)/backoffice/assessment-templates/[id]/page.tsx',
     'utf8',
   )
 

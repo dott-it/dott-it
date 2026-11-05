@@ -11,7 +11,7 @@ The celebration animation provides positive visual feedback when users interact 
 - **Confetti-style celebration** with 12 bouncing dots
 - **Colorful dots** in green, blue, yellow, and pink
 - **Staggered animation** with 0.1s delays between dots
-- **Somersaulting Eddo icon** that rotates 360° with scaling effects
+- **Somersaulting Dott.it icon** that rotates 360° with scaling effects
 - **2-second duration** before auto-hiding
 - **Non-blocking overlay** that doesn't interfere with UI interactions
 
@@ -23,7 +23,7 @@ The celebration animation activates when:
 
    - Clicking the send button in the feedback history thread
    - Pressing Enter to send a message
-   - **NEW**: Triggers both overlay celebration and sidebar Eddo icon somersault
+   - **NEW**: Triggers both overlay celebration and sidebar Dott.it icon somersault
 
 2. **Adding new feedback cards**
 
@@ -72,12 +72,12 @@ const [showCelebration, setShowCelebration] = useState(false)
           })}
         </div>
         
-        {/* Somersaulting Eddo Icon */}
+        {/* Somersaulting Dott.it Icon */}
         <div className="absolute top-4 left-4">
           <div className="animate-somersault">
             <img
               src="/dottit-logo.png"
-              alt="Eddo"
+              alt="Dott.it"
               className="w-12 h-12 object-contain"
             />
           </div>
@@ -126,8 +126,8 @@ const handleSendMessage = async () => {
   setShowCelebration(true)
   setTimeout(() => setShowCelebration(false), 2000)
 
-  // Dispatch custom event to trigger Eddo icon somersault in sidebar
-  const event = new CustomEvent('eddo-celebration', { detail: { type: 'message-sent' } })
+  // Dispatch custom event to trigger Dott.it icon somersault in sidebar
+  const event = new CustomEvent('dott-celebration', { detail: { type: 'message-sent' } })
   window.dispatchEvent(event)
 
   // ... rest of function ...
@@ -148,10 +148,10 @@ useEffect(() => {
     }
   }
 
-  window.addEventListener('eddo-celebration', handleCelebration as EventListener)
+  window.addEventListener('dott-celebration', handleCelebration as EventListener)
   
   return () => {
-    window.removeEventListener('eddo-celebration', handleCelebration as EventListener)
+    window.removeEventListener('dott-celebration', handleCelebration as EventListener)
   }
 }, [])
 

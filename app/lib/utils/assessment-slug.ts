@@ -22,7 +22,7 @@ export function generateAssessmentSlug(assessmentId: string): string {
 
 /**
  * Get the base URL for the current environment
- * Uses globalThis.window.location.origin when available (client-side), otherwise falls back to eddolearning.com
+ * Uses globalThis.window.location.origin when available (client-side), otherwise falls back to demo.dott.it
  */
 function getBaseUrl(): string {
   if (globalThis.window !== undefined) {
@@ -31,7 +31,7 @@ function getBaseUrl(): string {
   }
   
   // Server-side: fallback to production domain
-  return 'https://eddolearning.com'
+  return 'https://dott-it.vercel.app'
 }
 
 /**

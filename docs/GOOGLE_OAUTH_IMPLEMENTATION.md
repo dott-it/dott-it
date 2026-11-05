@@ -1,6 +1,6 @@
 # Google OAuth Implementation Guide
 
-This document explains how to implement real Google OAuth authentication in the Eddo Workspace application.
+This document explains how to implement real Google OAuth authentication in the Dott.it Workspace application.
 
 ## Current Implementation
 

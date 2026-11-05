@@ -6,7 +6,7 @@ import {
   isEligibleForSpotlight,
   pickSpotlightThematicStatus,
 } from '../lib/spotlight/eligibility.ts'
-import { isEddoStaffEmail } from '../lib/spotlight/is-eddo-staff-email.ts'
+import { isDottStaffEmail } from '../lib/spotlight/is-dott-staff-email.ts'
 
 describe('spotlight eligibility', () => {
   it('should exclude assessments below the response threshold', () => {
@@ -109,11 +109,11 @@ describe('spotlight dismiss uniqueness', () => {
   })
 })
 
-describe('eddo staff email check', () => {
+describe('dott-it staff email check', () => {
   it('should treat staff domain matching as case-insensitive', () => {
-    assert.equal(isEddoStaffEmail('Admin@EddoLearning.com'), true)
-    assert.equal(isEddoStaffEmail('ops@eddolearning.com'), true)
-    assert.equal(isEddoStaffEmail('teacher@school.edu'), false)
-    assert.equal(isEddoStaffEmail(null), false)
+    assert.equal(isDottStaffEmail('Admin@demo.dott.it'), true)
+    assert.equal(isDottStaffEmail('ops@demo.dott.it'), true)
+    assert.equal(isDottStaffEmail('teacher@school.edu'), false)
+    assert.equal(isDottStaffEmail(null), false)
   })
 })

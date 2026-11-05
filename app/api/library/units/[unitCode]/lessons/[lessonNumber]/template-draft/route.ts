@@ -25,7 +25,7 @@ export async function GET(request: Request, context: RouteParams) {
       {
         error: 'Forbidden',
         message: 'Access denied',
-        details: 'Template drafts are restricted to Eddo tenant users',
+        details: 'Template drafts are restricted to Dott.it tenant users',
       },
       { status: 403 },
     )

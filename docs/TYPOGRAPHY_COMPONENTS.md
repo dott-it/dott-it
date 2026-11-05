@@ -1,6 +1,6 @@
 # Typography Components
 
-This document describes the typography components available in the Eddo Workspace application. These components provide consistent text styling across the application and reduce the need for repetitive className usage.
+This document describes the typography components available in the Dott.it Workspace application. These components provide consistent text styling across the application and reduce the need for repetitive className usage.
 
 ## File Structure
 
@@ -249,7 +249,7 @@ import { H1, P, Caption } from '@/app/v2/shared/components/typography'
 function MyComponent() {
   return (
     <div>
-      <H1>Welcome to Eddo Workspace</H1>
+      <H1>Welcome to Dott.it Workspace</H1>
       <P>This is the main content area.</P>
       <P.SmallMuted>Additional information</P.SmallMuted>
       <Caption>Last updated: 2024-01-15</Caption>

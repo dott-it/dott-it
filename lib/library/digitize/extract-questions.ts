@@ -680,12 +680,12 @@ export function formatFileResponseFields(
   let uploadHint: string
   if (variant === 'curriculum-example') {
     uploadHint =
-      'Library example only — paste a link to your file for now. When this assessment is exported to a teacher’s Google Drive, Eddo creates a native File upload question.'
+      'Library example only — paste a link to your file for now. When this assessment is exported to a teacher’s Google Drive, Dott.it creates a native File upload question.'
   } else if (options?.uploadFolderUrl) {
     uploadHint = `Upload a photo or PDF of your work to this Drive folder, then paste the file link in your answer: ${options.uploadFolderUrl}`
   } else {
     uploadHint =
-      'Upload a photo or PDF of your work (this becomes a File upload question after Eddo finishes setting up the form).'
+      'Upload a photo or PDF of your work (this becomes a File upload question after Dott.it finishes setting up the form).'
   }
   const fileLine = `${FILE_RESPONSE_MARKER} ${uploadHint}`
   const existing = options?.description?.trim()
