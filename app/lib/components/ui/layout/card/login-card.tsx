@@ -34,8 +34,11 @@ const LoginCard = React.forwardRef<HTMLDivElement, LoginCardProps>(
     },
     ref,
   ) => (
-    <div className="flex min-h-screen items-center justify-center bg-brand-gunmetal p-4">
-      <Card ref={ref} className="w-full max-w-md border-0 shadow-2xl shadow-black/40">
+    <div className="flex min-h-screen items-center justify-center bg-background p-4">
+      <Card
+        ref={ref}
+        className="w-full max-w-md border border-border/80 bg-card shadow-2xl shadow-black/50"
+      >
         <CardHeader className="text-center" padding="lg">
           {icon && <div className="mb-5 flex items-center justify-center">{icon}</div>}
           <Typography variant="h1" className="font-fredoka" color="primary">
