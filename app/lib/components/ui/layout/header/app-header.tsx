@@ -7,6 +7,7 @@ import { Typography } from '../../typography'
 import { LogOut, User, Settings, ChevronDown, BookOpen } from 'lucide-react'
 import { signOut } from 'next-auth/react'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { useSession } from 'next-auth/react'
 import {
   DropdownMenu,
@@ -17,6 +18,7 @@ import {
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu'
 import { LIBRARY_OPENSCI_ED_HREF } from '@/lib/library/browse/library-workspace-nav'
+import { cn } from '@/lib/utils'
 
 interface AppHeaderProps {
   user: {
@@ -30,8 +32,13 @@ interface AppHeaderProps {
 const AppHeader = React.forwardRef<HTMLElement, AppHeaderProps>(
   ({ user, title = 'Dott.it', onLogout }, ref) => {
     const { data: session } = useSession()
+    const pathname = usePathname()
     const [canAccessBackoffice, setCanAccessBackoffice] = React.useState(false)
     const [isLoading, setIsLoading] = React.useState(true)
+
+    const planActive = pathname === '/workspace'
+    const assessmentsActive =
+      pathname.startsWith('/workspace/assessments') && !pathname.includes('/create')
 
     React.useEffect(() => {
       const checkBackofficeAccess = async () => {
@@ -94,18 +101,46 @@ const AppHeader = React.forwardRef<HTMLElement, AppHeaderProps>(
     return (
       <header ref={ref} className="border-b bg-card">
         <div className="container mx-auto flex items-center justify-between px-4 py-3">
-          <div className="flex items-center gap-2.5">
-            <Image
-              src="/dottit-logo.png"
-              alt=""
-              width={32}
-              height={32}
-              className="size-8 rounded-md object-contain"
-              priority
-            />
-            <Typography variant="h1" component="span" color="primary" fontWeight="bold" className="font-fredoka">
-              {title}
-            </Typography>
+          <div className="flex items-center gap-6">
+            <Link href="/workspace" className="flex items-center gap-2.5">
+              <Image
+                src="/dottit-logo.png"
+                alt=""
+                width={32}
+                height={32}
+                className="size-8 rounded-md object-contain"
+                priority
+              />
+              <Typography variant="h1" component="span" color="primary" fontWeight="bold" className="font-fredoka">
+                {title}
+              </Typography>
+            </Link>
+            <nav className="flex items-center gap-1" aria-label="Workspace">
+              <Link
+                href="/workspace"
+                className={cn(
+                  'rounded-md px-3 py-1.5 text-sm font-medium transition-colors',
+                  planActive
+                    ? 'bg-primary/10 text-primary'
+                    : 'text-muted-foreground hover:bg-accent hover:text-foreground',
+                )}
+                aria-current={planActive ? 'page' : undefined}
+              >
+                Plan
+              </Link>
+              <Link
+                href="/workspace/assessments"
+                className={cn(
+                  'rounded-md px-3 py-1.5 text-sm font-medium transition-colors',
+                  assessmentsActive
+                    ? 'bg-primary/10 text-primary'
+                    : 'text-muted-foreground hover:bg-accent hover:text-foreground',
+                )}
+                aria-current={assessmentsActive ? 'page' : undefined}
+              >
+                Assessments
+              </Link>
+            </nav>
           </div>
           <div className="flex items-center gap-4">
             <DropdownMenu>

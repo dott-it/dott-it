@@ -15,9 +15,10 @@ export const assessmentListTemplateSelect = {
   lessonNumber: true,
 } as const
 
-/** Record status is enough for list counts. History stays on the detail route. */
+/** Record status + classSection for list counts and soft class chips. History stays on the detail route. */
 export const assessmentListRecordSelect = {
   status: true,
+  classSection: true,
 } as const
 
 export const assessmentListInclude = {
@@ -55,7 +56,7 @@ export type AssessmentListSource = {
   dueAt: string
   assignedAt: string
   status: string
-  assessmentRecords: Array<{ status: string }>
+  assessmentRecords: Array<{ status: string; classSection?: string | null }>
   thematicAnalyses?: Array<{ id: string; status: string }>
 }
 
@@ -67,6 +68,7 @@ export type AssessmentListItem = {
   unitCode: string | null
   lessonNumber: number | null
   className: string
+  classSections: string[]
   schoolYear: string
   studentResponsesCount: number
   hasThematicAnalysis: boolean
@@ -141,6 +143,7 @@ export function mapAssessmentListRow(
     unitCode: unit.unitCode,
     lessonNumber: assessment.template.lessonNumber ?? null,
     className: formatAssignedToClass(assessment.assignedTo),
+    classSections: uniqueClassSections(assessment.assessmentRecords),
     schoolYear: assessment.schoolYear,
     studentResponsesCount: assessment.studentResponsesCount ?? 0,
     hasThematicAnalysis: (assessment.thematicAnalyses?.length ?? 0) > 0,
@@ -176,6 +179,17 @@ export function mapAssessmentListRow(
 
 function readUnitCode(value: string | null | undefined): string {
   return (value ?? '').trim()
+}
+
+function uniqueClassSections(
+  records: Array<{ classSection?: string | null }>,
+): string[] {
+  const sections = new Set<string>()
+  for (const record of records) {
+    const section = (record.classSection ?? '').trim()
+    if (section) sections.add(section)
+  }
+  return [...sections].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
 }
 
 function computeSubmissionStatus(records: Array<{ status: string }>) {

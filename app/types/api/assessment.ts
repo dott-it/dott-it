@@ -46,6 +46,8 @@ export interface ActiveAssessment {
   title: string
   unitName?: string
   className?: string
+  /** Soft class labels from AssessmentRecord.classSection (list payload). */
+  classSections?: string[]
   subject?: string
   grade?: number | null
   type?: string
