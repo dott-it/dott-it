@@ -5,9 +5,10 @@
 | Item | Value |
 |---|---|
 | Product name | Dott.it |
+| Tagline (DOTT) | Digital Organization Tool for Teachers |
 | GitHub org | https://github.com/dott-it |
-| GitHub repo | https://github.com/dott-it/dott-it (private) |
-| App hostname (pilot) | `*.vercel.app` until a domain is purchased |
+| GitHub repo | https://github.com/dott-it/dott-it (public) |
+| App hostname (pilot) | https://dott-it.vercel.app |
 
 ## Domain `dott.it`
 

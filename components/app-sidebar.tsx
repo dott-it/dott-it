@@ -134,7 +134,7 @@ export function AppSidebar() {
                     {sidebarIsOpen && (
                         <div className="grid flex-1 text-left text-sm leading-tight">
                             <span className="truncate text-xl font-semibold font-fredoka">Dott.it</span>
-                            <span className="truncate text-xs">Feedback and Assessment System</span>
+                            <span className="truncate text-xs">Digital Organization Tool for Teachers</span>
                         </div>
                     )}
                 </div>
@@ -258,7 +258,7 @@ export function AppSidebar() {
                             )}
                         </Button>
                         <p className="text-center text-xs text-muted-foreground">
-                            Dott.it Assessment Platform
+                            Digital Organization Tool for Teachers
                         </p>
                     </div>
                 </div>

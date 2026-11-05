@@ -2,9 +2,11 @@ import * as React from 'react'
 import Image from 'next/image'
 import { Card, CardHeader, CardContent } from './index'
 import { Typography } from '../../typography'
+import { BRAND_NAME, BRAND_TAGLINE } from '@/lib/brand'
 
 interface LoginCardProps {
   title?: string
+  tagline?: string
   subtitle?: string
   icon?: React.ReactNode
   children: React.ReactNode
@@ -13,7 +15,7 @@ interface LoginCardProps {
 const DefaultLoginMark = (
   <Image
     src="/dottit-logo.png"
-    alt="Dott.it"
+    alt={BRAND_NAME}
     width={64}
     height={64}
     className="size-16 object-contain"
@@ -24,7 +26,8 @@ const DefaultLoginMark = (
 const LoginCard = React.forwardRef<HTMLDivElement, LoginCardProps>(
   (
     {
-      title = 'Dott.it',
+      title = BRAND_NAME,
+      tagline = BRAND_TAGLINE,
       subtitle = 'Sign in to access your workspace and assessments',
       icon = DefaultLoginMark,
       children,
@@ -38,6 +41,11 @@ const LoginCard = React.forwardRef<HTMLDivElement, LoginCardProps>(
           <Typography variant="h1" className="font-fredoka" color="primary">
             {title}
           </Typography>
+          {tagline ? (
+            <Typography variant="body2" className="mt-1 font-medium" color="primary">
+              {tagline}
+            </Typography>
+          ) : null}
           <Typography variant="body2" color="muted">
             {subtitle}
           </Typography>
