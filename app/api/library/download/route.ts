@@ -38,7 +38,7 @@ function zipResponse(zipBytes: Uint8Array, filename: string, fileCount: number) 
       'Content-Type': 'application/zip',
       'Content-Disposition': contentDispositionHeader(ensureFileExtension(filename, '.zip')),
       'Content-Length': String(zipBytes.byteLength),
-      'X-Eddo-Download-File-Count': String(fileCount),
+      'X-Dott-Download-File-Count': String(fileCount),
       'Cache-Control': 'no-store',
     },
   })

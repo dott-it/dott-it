@@ -44,9 +44,9 @@ describe('isBackofficeTenant', () => {
     jest.clearAllMocks()
   })
 
-  it('should return true for Eddo tenant slug', async () => {
-    mockTenantFind.mockResolvedValue({ name: 'Eddo', slug: 'eddo' })
-    await expect(isBackofficeTenant('tenant-eddo')).resolves.toBe(true)
+  it('should return true for Dott.it tenant slug', async () => {
+    mockTenantFind.mockResolvedValue({ name: 'Dott.it', slug: 'dott-it' })
+    await expect(isBackofficeTenant('tenant-dott-it')).resolves.toBe(true)
   })
 
   it('should return false for other tenants', async () => {
@@ -60,12 +60,12 @@ describe('checkAssessmentTenantAccess with backoffice bypass', () => {
     jest.clearAllMocks()
   })
 
-  it('should allow Eddo users to access assessments from another tenant', async () => {
+  it('should allow Dott.it users to access assessments from another tenant', async () => {
     mockAssessmentFind.mockResolvedValue({ tenantId: 'tenant-cameron' })
-    mockTenantFind.mockResolvedValue({ name: 'Eddo', slug: 'eddo' })
+    mockTenantFind.mockResolvedValue({ name: 'Dott.it', slug: 'dott-it' })
 
     const result = await checkAssessmentTenantAccess(
-      { ownerUserId: 'user-1', tenantId: 'tenant-eddo' },
+      { ownerUserId: 'user-1', tenantId: 'tenant-dott-it' },
       'assess-1',
     )
 
@@ -99,10 +99,10 @@ describe('checkFeedbackSectionTenantAccess for AI template rows', () => {
         },
       },
     })
-    mockTenantFind.mockResolvedValue({ name: 'Eddo', slug: 'eddo' })
+    mockTenantFind.mockResolvedValue({ name: 'Dott.it', slug: 'dott-it' })
 
     const result = await checkFeedbackSectionTenantAccess(
-      { ownerUserId: 'user-1', tenantId: 'tenant-eddo' },
+      { ownerUserId: 'user-1', tenantId: 'tenant-dott-it' },
       'ai-template-section-1',
     )
 
@@ -116,7 +116,7 @@ describe('checkFeedbackSectionTenantAccess for AI template rows', () => {
     })
 
     const result = await checkFeedbackSectionTenantAccess(
-      { ownerUserId: 'user-1', tenantId: 'tenant-eddo' },
+      { ownerUserId: 'user-1', tenantId: 'tenant-dott-it' },
       'orphan-section',
     )
 

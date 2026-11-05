@@ -7,8 +7,8 @@ import { ApiError } from '@/app/types'
 export type { AuthorizedRequest } from './authorization.middleware'
 
 /**
- * Check if user belongs to Eddo tenant
- * Access is granted ONLY if user belongs to tenant with name "Eddo" or slug "eddo"
+ * Check if user belongs to Dott.it tenant
+ * Access is granted ONLY if user belongs to tenant with name "Dott.it" or slug "dott-it"
  */
 async function hasBackofficeAccess(userTenantId: string | undefined): Promise<boolean> {
   if (!userTenantId) {
@@ -30,10 +30,10 @@ async function hasBackofficeAccess(userTenantId: string | undefined): Promise<bo
     const tenantSlug = tenant.slug.toLowerCase().trim()
 
     // STRICT list of allowed tenant names (case-insensitive)
-    const allowedTenants = ['eddo']
+    const allowedTenants = ['dott.it', 'dott.it demo school']
 
     // STRICT list of allowed slugs (case-insensitive)
-    const allowedSlugs = ['eddo']
+    const allowedSlugs = ['dott-it', 'dott-demo']
 
     // Check if tenant matches EXACTLY (after normalization)
     const canAccessByName = allowedTenants.includes(tenantName)
@@ -47,7 +47,7 @@ async function hasBackofficeAccess(userTenantId: string | undefined): Promise<bo
 
 /**
  * Middleware that wraps API route handlers with authentication AND backoffice access check
- * Only users from the "eddo" tenant can access backoffice routes
+ * Only users from the "dott-it" tenant can access backoffice routes
  * @param handler - The API route handler function
  * @returns Wrapped handler with authentication and backoffice access check
  */
@@ -64,7 +64,7 @@ export function withBackofficeAccess<T extends unknown[]>(
         {
           error: 'Forbidden',
           message: 'Access denied',
-          details: 'Backoffice access is restricted to Eddo tenant users only',
+          details: 'Backoffice access is restricted to Dott.it tenant users only',
           type: 'UNEXPECTED_ERROR',
           retryable: false,
         },

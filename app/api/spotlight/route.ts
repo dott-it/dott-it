@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server'
 import { auth } from '@/lib/auth.config'
 import { withAuth } from '@/app/api/middleware/authorization.middleware'
 import { userPrisma } from '@/lib/user-prisma'
-import { isEddoStaffEmail } from '@/lib/spotlight/is-eddo-staff-email'
+import { isDottStaffEmail } from '@/lib/spotlight/is-dott-staff-email'
 import { listSpotlightCards } from '@/lib/spotlight/list-spotlight-cards'
 import type { ApiError } from '@/app/types'
 import type { SpotlightCardsResponse } from '@/types'
@@ -21,7 +21,7 @@ async function getSpotlightCards(): Promise<
       return NextResponse.json([])
     }
 
-    const isStaff = isEddoStaffEmail(email)
+    const isStaff = isDottStaffEmail(email)
     const teacher = await userPrisma.teacher.findFirst({
       where: { email: { equals: email, mode: 'insensitive' } },
       select: { id: true },

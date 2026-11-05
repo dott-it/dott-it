@@ -37,7 +37,7 @@ Target: **WCAG 2.1 Level AA**. Full platform code-level review covering ~311 TSX
 
 | Issue | WCAG | Files | Fix applied |
 |-------|------|-------|-------------|
-| Multiple `<h1>` per page (AppHeader brand + page title) | 1.3.1 | `app/lib/components/ui/layout/header/app-header.tsx` | Brand "eddo" renders as `<span>` (`component="span"`) instead of `<h1>`. Page headers keep `<h1>`. |
+| Multiple `<h1>` per page (AppHeader brand + page title) | 1.3.1 | `app/lib/components/ui/layout/header/app-header.tsx` | Brand "dott-it" renders as `<span>` (`component="span"`) instead of `<h1>`. Page headers keep `<h1>`. |
 | Student progress filter divs not keyboard-accessible | 2.1.1 | `app/lib/components/assessment/student-progress.tsx` | Added `role="button"`, `tabIndex={0}`, `onKeyDown` (Enter/Space), `aria-label`, `focus-visible` ring. |
 | Mobile sidebar Sheet without accessible title | 4.1.2 | `components/ui/sidebar.tsx`, `components/mobile-nav.tsx` | Added `aria-label` and sr-only heading. |
 | Icon-only buttons without accessible name | 4.1.2 | Multiple (see list below) | Added `aria-label` to each. |
@@ -69,7 +69,7 @@ Target: **WCAG 2.1 Level AA**. Full platform code-level review covering ~311 TSX
 |------|------|--------------|
 | Icon-only controls | 4.1.2 | `aria-label` / `aria-pressed` on strength/suggestion bubbles, AI rating/copy/regenerate, thread preview card remove; `feedback-bubbles`, `assessment-history-container`, `sortable-card`, `feedback-preview-modal`, `tooltip-icon-button` (`sr-only`), etc. (prior pass) |
 | Forms | 1.3.1, 4.1.2 | Shared `FormField`, assessment create form, `evaluation-form` (`aria-labelledby` on `RadioGroup`, `htmlFor` + textarea `id`, help trigger), `assignment-dialog`, live collection URL (`<label htmlFor="form-url">`, `aria-describedby` hint) |
-| Page titles | 2.4.2 | Root `metadata.title.template` (`%s \| Eddo`); segment `layout.tsx` files under `(auth)/login`, `(dashboard)/workspace/**`, `(dashboard)/backoffice/**`, `test-api` |
+| Page titles | 2.4.2 | Root `metadata.title.template` (`%s \| Dott.it`); segment `layout.tsx` files under `(auth)/login`, `(dashboard)/workspace/**`, `(dashboard)/backoffice/**`, `test-api` |
 | Headings | 1.3.1 | Workspace error state: lone heading uses `<h1>` |
 | Live regions | 4.1.3 | Filter count line in `assessment-record-list.tsx`; draft badge row in `feedback-history-thread-view.tsx`; creating state in `create-assessment-dialog.tsx`; search loading in `course-search.tsx`; saving in `feedback-attached-section.tsx` |
 | Non-semantic controls | 2.1.1 | Keyboard-focusable `role="button"` rows in `feedback-history-thread-view.tsx`; selectable cards in tenant add-user/add-teacher dialogs; `feedback-side-card` (prior pass) |

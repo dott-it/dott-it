@@ -15,7 +15,7 @@ test.describe('Base URL Configuration', () => {
     expect(contents).toMatch(/process\.env\.VERCEL_URL/)
 
     // Check that there's a fallback for VERCEL_URL
-    expect(contents).toMatch(/eddo-workspace\.vercel\.app/)
+    expect(contents).toMatch(/dott-it-workspace\.vercel\.app/)
 
     // Check that NEXT_PUBLIC_BASE_URL is used for development
     expect(contents).toMatch(/process\.env\.NEXT_PUBLIC_BASE_URL/)

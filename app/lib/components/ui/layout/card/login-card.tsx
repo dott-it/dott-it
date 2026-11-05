@@ -12,7 +12,7 @@ interface LoginCardProps {
 const LoginCard = React.forwardRef<HTMLDivElement, LoginCardProps>(
   (
     {
-      title = 'eddo',
+      title = 'Dott.it',
       subtitle = 'Sign in to access your workspace and assessments',
       icon,
       children,

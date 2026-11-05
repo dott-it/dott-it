@@ -5,7 +5,7 @@ test.describe('Backoffice Main Page', () => {
   test('should load backoffice page successfully', async ({ page }) => {
     await setupNextJsTest(page, '/backoffice')
 
-    await expect(page).toHaveTitle(/Eddo Workspace/)
+    await expect(page).toHaveTitle(/Dott.it Workspace/)
     await expect(page.getByRole('heading', { name: /Backoffice/i })).toBeVisible()
   })
 

@@ -28,6 +28,7 @@
     "db:migrate": "prisma migrate deploy",
     "db:migrate:assessment": "prisma migrate deploy --schema=prisma/assessment/schema.prisma",
     "db:push:assessment": "prisma db push --schema=prisma/assessment/schema.prisma",
+    "db:seed:demo": "tsx scripts/seeds/seed-demo.ts",
     "postinstall": "pnpm prisma generate --schema=prisma/assessment/schema.prisma && pnpm prisma generate --schema=prisma/user/schema.prisma"
   },
   "dependencies": {

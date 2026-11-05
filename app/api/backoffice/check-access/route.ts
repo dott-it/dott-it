@@ -5,7 +5,7 @@ import { userPrisma } from '@/lib/user-prisma'
 /**
  * GET /api/backoffice/check-access
  * Check if the current user can access the backoffice
- * Access is granted ONLY if user belongs to "Development Environment" or "Eddo" tenant
+ * Access is granted ONLY if user belongs to "Development Environment" or "Dott.it" tenant
  */
 export async function GET(_request: NextRequest) {
   try {
@@ -31,13 +31,15 @@ export async function GET(_request: NextRequest) {
     // STRICT list of allowed tenant names (case-insensitive)
     const allowedTenants = [
       'development environment',
-      'eddo',
+      'dott.it',
+      'dott.it demo school',
     ]
     
     // STRICT list of allowed slugs (case-insensitive)
     const allowedSlugs = [
       'development',
-      'eddo',
+      'dott-it',
+      'dott-demo',
     ]
 
     // Check if tenant matches EXACTLY (after normalization)

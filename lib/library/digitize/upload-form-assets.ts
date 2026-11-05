@@ -77,7 +77,7 @@ export async function uploadFormAssetImagesWithManifest(args: {
 
   const manifestBody = JSON.stringify(
     {
-      generatedBy: 'eddo-digitize',
+      generatedBy: 'dott-it-digitize',
       assetsFolderName: args.assetsFolderName,
       assets: catalog.map((entry) => ({
         ...entry,
@@ -121,7 +121,7 @@ async function uploadBinaryFileToFolder(args: {
   mimeType: string
   bytes: Buffer
 }): Promise<{ id: string }> {
-  const boundary = `eddo_boundary_${Date.now()}_${Math.random().toString(36).slice(2)}`
+  const boundary = `dott_boundary_${Date.now()}_${Math.random().toString(36).slice(2)}`
   const metadata = JSON.stringify({
     name: args.fileName,
     parents: [args.folderId],

@@ -147,7 +147,7 @@ export function DashboardDemo() {
                   <div className="grid grid-cols-3 gap-4 py-2">
                     <code className="rounded bg-gray-100 px-2 py-1 text-xs">title</code>
                     <code className="text-xs text-muted-foreground">string</code>
-                    <span>Header title (default: &quot;Eddo Workspace v2&quot;)</span>
+                    <span>Header title (default: &quot;Dott.it Workspace&quot;)</span>
                   </div>
 
                   <div className="grid grid-cols-3 gap-4 py-2">

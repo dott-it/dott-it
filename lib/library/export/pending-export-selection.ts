@@ -1,6 +1,6 @@
 import type { PackageItemKind } from '@/lib/library/materials/types'
 
-const PENDING_EXPORT_STORAGE_KEY = 'eddo.library.export.pending'
+const PENDING_EXPORT_STORAGE_KEY = 'dott-it.library.export.pending'
 
 export type PendingLibraryExportIntent = 'export' | 'download'
 
@@ -12,7 +12,7 @@ export interface PendingLibraryExport {
   intent?: PendingLibraryExportIntent
 }
 
-const PENDING_UNIT_ACTION_KEY = 'eddo.library.export.pendingUnitAction'
+const PENDING_UNIT_ACTION_KEY = 'dott-it.library.export.pendingUnitAction'
 
 export function savePendingUnitLibraryAction(intent: PendingLibraryExportIntent): void {
   try {

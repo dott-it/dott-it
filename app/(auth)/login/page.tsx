@@ -6,7 +6,7 @@ import { LoginForm } from '../../lib/components/auth/login-form'
 
 export default function LoginPage() {
   return (
-    <LoginCard title="eddo" subtitle="Sign in to access your workspace and assessments">
+    <LoginCard title="Dott.it" subtitle="Sign in to access your workspace and assessments">
       <LoginForm />
     </LoginCard>
   )

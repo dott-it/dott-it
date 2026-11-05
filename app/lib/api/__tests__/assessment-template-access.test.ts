@@ -48,13 +48,13 @@ describe('assessment template access', () => {
     expect(response?.status).toBe(403)
     await expect(response?.json()).resolves.toMatchObject({
       error: 'Forbidden',
-      details: 'Assessment templates are restricted to Eddo tenant users',
+      details: 'Assessment templates are restricted to Dott.it tenant users',
     })
   })
 
-  it('should allow an Eddo backoffice session to continue', async () => {
+  it('should allow an Dott.it backoffice session to continue', async () => {
     mockAuth.mockResolvedValue({
-      user: { tenantId: 'tenant-eddo' },
+      user: { tenantId: 'tenant-dott-it' },
       expires: '2099-01-01',
     })
     mockIsBackofficeTenant.mockResolvedValue(true)

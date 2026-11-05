@@ -31,7 +31,7 @@ export async function GET(request: Request) {
     return NextResponse.redirect(loginUrl)
   }
 
-  const state = jwt.sign({ returnTo, eddoUserId: session.user.id }, getSecret(), {
+  const state = jwt.sign({ returnTo, dottUserId: session.user.id }, getSecret(), {
     expiresIn: '10m',
   })
   const authUrl = libraryExportAuthUrl(origin, state)

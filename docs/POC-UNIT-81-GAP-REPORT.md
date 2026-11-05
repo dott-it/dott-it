@@ -105,7 +105,7 @@ All **18 middle school units** (grades 6–8) are present in `data/resource_libr
 1. **Obtain raw `.docx`** from Google Drive sync or export pipeline — required for verbatim Jess parser.
 2. **Port Jess's `EXTRA_HANDOUT_ASSESSMENTS` rules** — 3 formal rows missing in POC.
 3. **Apply dedup logic** — 5 extra TE rows from inline `ASSESSMENT OPPORTUNITY` false positives.
-4. **Port Jess scripts** (`ingest-unit.mjs`, `extract-te-assessment-opportunities.py`) into `eddo-workspace/scripts/ingest/`.
+4. **Port Jess scripts** (`ingest-unit.mjs`, `extract-te-assessment-opportunities.py`) into `dott-it-workspace/scripts/ingest/`.
 5. **Adopt `IngestedUnitManifest` schema** from `opensci-assess-hub/src/lib/ingest-manifest.ts`.
 6. **Batch all 18 MS units** after 8.1 QC passes.
 7. **Learning Commons** as tertiary source for gaps only.

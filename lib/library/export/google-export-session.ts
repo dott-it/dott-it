@@ -28,7 +28,7 @@ export function signLibraryExportGoogleToken(
     accessToken: payload.accessToken,
     expiryDate: payload.expiryDate,
     email: payload.email,
-    eddoUserId: payload.eddoUserId,
+    dottUserId: payload.dottUserId,
   }
   return jwt.sign(session, getSecret(), { expiresIn: '1h' })
 }
@@ -57,7 +57,7 @@ export function verifyLibraryExportGoogleToken(
       accessToken: payload.accessToken,
       expiryDate: payload.expiryDate,
       email: typeof payload.email === 'string' ? payload.email : undefined,
-      eddoUserId: typeof payload.eddoUserId === 'string' ? payload.eddoUserId : undefined,
+      dottUserId: typeof payload.dottUserId === 'string' ? payload.dottUserId : undefined,
     }
   } catch {
     return null
@@ -66,7 +66,7 @@ export function verifyLibraryExportGoogleToken(
 
 /**
  * Resolve the library export Google session from the httpOnly cookie.
- * Cookies must be bound to an Eddo user at OAuth time; unbound/anonymous cookies are rejected.
+ * Cookies must be bound to an Dott.it user at OAuth time; unbound/anonymous cookies are rejected.
  */
 export async function resolveLibraryExportGoogleToken(): Promise<LibraryExportGoogleTokenPayload | null> {
   const cookieStore = await cookies()
@@ -76,12 +76,12 @@ export async function resolveLibraryExportGoogleToken(): Promise<LibraryExportGo
   }
 
   const googleToken = verifyLibraryExportGoogleToken(sessionToken)
-  if (!googleToken?.eddoUserId) {
+  if (!googleToken?.dottUserId) {
     return null
   }
 
   const session = await auth()
-  if (session?.user?.id !== googleToken.eddoUserId) {
+  if (session?.user?.id !== googleToken.dottUserId) {
     return null
   }
 

@@ -26,8 +26,8 @@ import {
 
 /**
  * Client-only section ids (never sent to the API as persisted keys):
- * - `eddo-opt-*` — rows shown while append/replace POSTs are in flight
- * - `eddo-opt-snap-*` — full completed-feedback snapshot seeded into pending during re-open
+ * - `dott-opt-*` — rows shown while append/replace POSTs are in flight
+ * - `dott-opt-snap-*` — full completed-feedback snapshot seeded into pending during re-open
  */
 
 function appendOptimisticFeedbackSectionToCache(

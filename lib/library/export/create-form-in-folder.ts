@@ -2,10 +2,10 @@ import { findIngestedAssessment } from '@/lib/library/ingest/load-manifest'
 import { GoogleApiRequestError, googleApiJson } from '@/lib/library/export/google-api-fetch'
 import { getFormsWorkspaceAccessToken } from '@/lib/library/export/impersonated-access-token'
 import { FORMS_WORKSPACE_USER } from '@/lib/library/digitize/curriculum-example-notice'
-import { eddoFormTitle } from '@/lib/library/digitize/naming'
+import { dottFormTitle } from '@/lib/library/digitize/naming'
 import {
-  findExistingEddoForm,
-  trashExistingEddoFormArtifacts,
+  findExistingDottForm,
+  trashExistingDottFormArtifacts,
 } from '@/lib/library/digitize/place-form'
 import {
   distinctTeacherReadyFormId,
@@ -169,7 +169,7 @@ export class LibraryFormTeacherReadyMissingError extends Error {
 /**
  * Place an editable Google Form in the teacher's export folder.
  *
- * Always replaces any previous Eddo Form in that folder (never reuses).
+ * Always replaces any previous Dott.it Form in that folder (never reuses).
  * Teacher Drive exports require a pre-converted teacher-ready template (no Playwright).
  * Preview convert / handout digitize stay on the offline digitize CLI.
  */
@@ -182,16 +182,16 @@ export async function createAssessmentFormInFolder(args: {
   /** Google account email for the teacher receiving ownership after convert. */
   teacherEmail?: string
 }): Promise<LibraryExportFileResult> {
-  const formTitle = eddoFormTitle(args.assessmentTitle)
+  const formTitle = dottFormTitle(args.assessmentTitle)
 
-  // Re-export always overwrites the teacher's previous Eddo Form copy.
-  const existing = await findExistingEddoForm(
+  // Re-export always overwrites the teacher's previous Dott.it Form copy.
+  const existing = await findExistingDottForm(
     args.accessToken,
     args.folderId,
     args.assessmentTitle,
   )
   if (existing) {
-    await trashExistingEddoFormArtifacts({
+    await trashExistingDottFormArtifacts({
       accessToken: args.accessToken,
       lessonFolderId: args.folderId,
       formTitle: existing.name || formTitle,

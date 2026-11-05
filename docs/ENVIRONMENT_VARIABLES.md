@@ -1,6 +1,6 @@
 # Environment Variables
 
-This document describes the environment variables used in the Eddo Workspace application.
+This document describes the environment variables used in the Dott.it Workspace application.
 
 ## Base URL Configuration
 
@@ -8,8 +8,8 @@ This document describes the environment variables used in the Eddo Workspace app
 
 - **`VERCEL_URL`**: Automatically set by Vercel deployment platform
   - Used for server-side API calls in production
-  - Falls back to `eddo-workspace.vercel.app` if not set
-  - Example: `https://eddo-workspace.vercel.app`
+  - Falls back to `dott-it-workspace.vercel.app` if not set
+  - Example: `https://dott-it-workspace.vercel.app`
 
 ### Development Environment
 
@@ -25,7 +25,7 @@ The base URL configuration is used in server-side components that need to make A
 ```typescript
 const baseUrl =
   process.env.NODE_ENV === 'production'
-    ? `https://${process.env.VERCEL_URL || 'eddo-workspace.vercel.app'}`
+    ? `https://${process.env.VERCEL_URL || 'dott-it-workspace.vercel.app'}`
     : process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000'
 ```
 
@@ -60,8 +60,8 @@ const response = await fetch('/api/assessments')
 ## Google Forms (sync / digitize)
 
 - **`GOOGLE_FORMS_IMPERSONATE_USER`**: Workspace user the service account impersonates for Forms API (domain-wide delegation). Used by digitize, learner-name refresh, and backoffice **Sync responses** (`POST /api/assessments/[id]/sync-responses`).
-  - Production Forms are typically shared with **`forms-access@eddolearning.com`**. Set this env (and SA DWD) to that account so pull/sync can read responses.
-  - Local digitize defaults may use `forms@eddolearning.com` — that is a different account; Forms shared only with `forms-access@` will 403 if this env does not match.
+  - Production Forms are typically shared with **`forms-access@demo.dott.it`**. Set this env (and SA DWD) to that account so pull/sync can read responses.
+  - Local digitize defaults may use `forms@demo.dott.it` — that is a different account; Forms shared only with `forms-access@` will 403 if this env does not match.
 - **`GOOGLE_SERVICE_ACCOUNT_JSON`** / **`GOOGLE_APPLICATION_CREDENTIALS`**: Service account credentials for Forms/Drive (see `lib/library/export/load-google-service-account-credentials.ts`).
 
 ## Scheduled jobs (Vercel Cron)
@@ -100,7 +100,7 @@ For local preview-login testing, create or refresh `.env.preview.local` with the
 VERCEL_ENV=preview
 NEXTAUTH_SECRET="your-preview-secret"
 NEXTAUTH_URL="http://localhost:3000"
-PREVIEW_LOGIN_EMAIL="preview@eddolearning.com"
+PREVIEW_LOGIN_EMAIL="teacher@demo.dott.it"
 PREVIEW_LOGIN_PASSWORD="use-a-long-random-password"
 PREVIEW_LOGIN_NAME="Preview User"
 DATABASE_URL="postgresql://..."
@@ -110,12 +110,12 @@ USER_DATABASE="postgresql://..."
 Run the local server with the preview environment loaded. If `.env.local` contains stale values, especially `DATABASE_URL`, `USER_DATABASE`, or a missing `NEXTAUTH_SECRET`, it can override or conflict with the preview setup and cause login to fail before the workspace loads. Move `.env.local` aside while testing preview login, then restore it afterward:
 
 ```sh
-mv .env.local /tmp/eddo-workspace.env.local.backup
+mv .env.local /tmp/dott-it-workspace.env.local.backup
 set -a
 source .env.preview.local
 set +a
 pnpm dev
-mv /tmp/eddo-workspace.env.local.backup .env.local
+mv /tmp/dott-it-workspace.env.local.backup .env.local
 ```
 
 Do not commit `.env.preview.local`, `.env.local`, or any file containing preview passwords or database URLs.
@@ -136,8 +136,8 @@ TEST_BASE_URL=http://localhost:3000
 NEXT_PUBLIC_SUBMISSION_DOMAIN=opensci.ed
 
 # Domain configuration for seeding
-DEMO_DOMAIN=demo.eddolearning.com
-DEV_DOMAIN=dev.eddolearning.com
+DEMO_DOMAIN=demo.dott.it
+DEV_DOMAIN=demo.dott.it
 
 # Database
 DATABASE_URL="your-database-url"
@@ -151,7 +151,7 @@ NEXTAUTH_URL="http://localhost:3000"
 CRON_SECRET="your-cron-secret"
 
 # Vercel preview-only login
-PREVIEW_LOGIN_EMAIL="preview@eddolearning.com"
+PREVIEW_LOGIN_EMAIL="teacher@demo.dott.it"
 PREVIEW_LOGIN_PASSWORD="use-a-long-random-password"
 PREVIEW_LOGIN_NAME="Preview User"
 
@@ -211,5 +211,5 @@ The base URL configuration is tested in `tests/base-url-config.test.js` to ensur
 
 # Domain Configuration
 
-- **`DEMO_DOMAIN`**: Domain for demo environment (defaults to `demo.eddolearning.com`)
-- **`DEV_DOMAIN`**: Domain for development environment (defaults to `dev.eddolearning.com`)
+- **`DEMO_DOMAIN`**: Domain for demo environment (defaults to `demo.dott.it`)
+- **`DEV_DOMAIN`**: Domain for development environment (defaults to `demo.dott.it`)

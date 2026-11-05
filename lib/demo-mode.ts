@@ -18,7 +18,7 @@ export const getDemoModeConfig = () => {
     demoAssessmentId:
       process.env.DEMO_ASSESSMENT_ID || '8-6-lesson-11-green-anole-lizard-explanation',
     demoTenantId: process.env.DEMO_TENANT_ID || 'demo',
-    demoDomain: process.env.DEMO_DOMAIN || 'demo.eddolearning.com',
+    demoDomain: process.env.DEMO_DOMAIN || 'demo.dott.it',
     showAllAssessments: isDemoMode(),
     simulateActivity: isDemoMode(),
     demoActivityInterval: Number.parseInt(process.env.DEMO_ACTIVITY_INTERVAL || '30000'), // 30 seconds

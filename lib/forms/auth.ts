@@ -24,7 +24,7 @@ export class GoogleAuth {
     try {
       const credentials = loadGoogleServiceAccountCredentials()
       // Forms cannot be owned by a bare service account — impersonate a Workspace user
-      // (requires domain-wide delegation). Example: GOOGLE_FORMS_IMPERSONATE_USER=ops@eddolearning.com
+      // (requires domain-wide delegation). Example: GOOGLE_FORMS_IMPERSONATE_USER=ops@demo.dott.it
       const subject =
         options?.subject === null
           ? undefined

@@ -1,13 +1,14 @@
 import { userPrisma } from '@/lib/user-prisma'
 
 const ALLOWED_BACKOFFICE_TENANT_NAMES = new Set([
-  'eddo',
+  'dott.it',
+  'dott.it demo school',
   'development environment',
 ])
-const ALLOWED_BACKOFFICE_TENANT_SLUGS = new Set(['eddo', 'development'])
+const ALLOWED_BACKOFFICE_TENANT_SLUGS = new Set(['dott-demo', 'dott-it', 'development'])
 
 /**
- * Whether this tenant is an Eddo/backoffice tenant that may access
+ * Whether this tenant is a Dott.it/backoffice tenant that may access
  * workspace resources across other tenants (same gate as backoffice UI).
  */
 export async function isBackofficeTenant(

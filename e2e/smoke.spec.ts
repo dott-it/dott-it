@@ -4,5 +4,5 @@ import { test, expect } from '@playwright/test'
 
 test.skip('@smoke homepage loads', async ({ page }) => {
     await page.goto('/')
-    await expect(page).toHaveTitle(/Eddo Workspace/)
+    await expect(page).toHaveTitle(/Dott.it Workspace/)
 })

@@ -32,7 +32,7 @@ import { syncIngestFormUrlsFromDrive } from '../lib/library/digitize/sync-ingest
 import type { DigitizeResult } from '../lib/library/digitize/types'
 import { persistGoogleFormTeacherReadyUrl } from '../lib/library/digitize/persist-form-url'
 import { prepareTeacherReadyFormCopy } from '../lib/library/digitize/prepare-teacher-ready-form'
-import { eddoFormTitle } from '../lib/library/digitize/naming'
+import { dottFormTitle } from '../lib/library/digitize/naming'
 import {
   distinctTeacherReadyFormId,
   googleFormViewUrlFromFormId,
@@ -204,7 +204,7 @@ Examples:
           const ready = await prepareTeacherReadyFormCopy({
             accessToken,
             sourceFormId: previewId,
-            formTitle: eddoFormTitle(row.title),
+            formTitle: dottFormTitle(row.title),
             headed: args.headed,
           })
           persistGoogleFormTeacherReadyUrl({
@@ -254,7 +254,7 @@ Examples:
     const ready = await prepareTeacherReadyFormCopy({
       accessToken,
       sourceFormId: formId,
-      formTitle: eddoFormTitle(
+      formTitle: dottFormTitle(
         findIngestedAssessment(unitCode, args.assessmentId)?.title ?? args.assessmentId,
       ),
       headed: args.headed,

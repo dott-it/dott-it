@@ -6,7 +6,7 @@ import assert from 'node:assert/strict'
 import ts from 'typescript'
 import vm from 'node:vm'
 
-const workspaceRoot = '/home/ocarlosfelix/Repos/eddo-workspace'
+const workspaceRoot = '/home/ocarlosfelix/Repos/dott-it-workspace'
 const require = createRequire(import.meta.url)
 
 // Load zod module to make it available in VM context

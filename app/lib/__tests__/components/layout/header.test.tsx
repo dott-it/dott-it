@@ -68,7 +68,7 @@ describe('AppHeader', () => {
   it('renders default title', () => {
     render(<AppHeader user={mockUser} />)
 
-    expect(screen.getByText('eddo')).toBeInTheDocument()
+    expect(screen.getByText('dott-it')).toBeInTheDocument()
   })
 
   it('renders custom title', () => {

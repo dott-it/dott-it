@@ -30,11 +30,11 @@ async function createAdminUser() {
     }
 
     // Default admin credentials
-    const adminEmail = 'admin@eddo.com';
-    const adminPassword = 'eddoADMIN2025';
+    const adminEmail = 'admin@dott-it.com';
+    const adminPassword = 'dottAdmin2025';
     const adminName = 'Admin User';
-    const tenantName = 'Eddo Default';
-    const tenantSlug = 'eddo-default';
+    const tenantName = 'Dott.it Default';
+    const tenantSlug = 'dott-it-default';
 
     console.log('📧 Admin Email:', adminEmail);
     console.log('🔑 Admin Password:', adminPassword);
@@ -53,7 +53,7 @@ async function createAdminUser() {
         data: {
           name: tenantName,
           slug: tenantSlug,
-          domains: ['localhost', 'eddo.com']
+          domains: ['localhost', 'dott-it.com']
         }
       });
       console.log('✅ Tenant created:', tenant.name);

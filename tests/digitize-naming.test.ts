@@ -1,49 +1,49 @@
 import assert from 'node:assert/strict'
 import { test } from 'node:test'
 import {
-  EDDO_FORM_MARKER,
-  eddoFormTitle,
-  isEddoFormNameForAssessment,
+  DOTT_FORM_MARKER,
+  dottFormTitle,
+  isDottFormNameForAssessment,
 } from '../lib/library/digitize/naming.ts'
 
-test('should append the Eddo marker to the assessment title', () => {
-  assert.equal(eddoFormTitle('Baseball Assessment 1'), `Baseball Assessment 1 ${EDDO_FORM_MARKER}`)
+test('should append the Dott.it marker to the assessment title', () => {
+  assert.equal(dottFormTitle('Baseball Assessment 1'), `Baseball Assessment 1 ${DOTT_FORM_MARKER}`)
 })
 
-test('should not duplicate the Eddo marker when already present', () => {
+test('should not duplicate the Dott.it marker when already present', () => {
   assert.equal(
-    eddoFormTitle(`Baseball Assessment 1 ${EDDO_FORM_MARKER}`),
-    `Baseball Assessment 1 ${EDDO_FORM_MARKER}`,
+    dottFormTitle(`Baseball Assessment 1 ${DOTT_FORM_MARKER}`),
+    `Baseball Assessment 1 ${DOTT_FORM_MARKER}`,
   )
 })
 
-test('should match Eddo form names for the assessment title stem', () => {
+test('should match Dott.it form names for the assessment title stem', () => {
   assert.equal(
-    isEddoFormNameForAssessment(`Baseball Assessment 1 ${EDDO_FORM_MARKER}`, 'Baseball Assessment 1'),
+    isDottFormNameForAssessment(`Baseball Assessment 1 ${DOTT_FORM_MARKER}`, 'Baseball Assessment 1'),
     true,
   )
   assert.equal(
-    isEddoFormNameForAssessment(`Soccer Assessment ${EDDO_FORM_MARKER}`, 'Baseball Assessment 1'),
+    isDottFormNameForAssessment(`Soccer Assessment ${DOTT_FORM_MARKER}`, 'Baseball Assessment 1'),
     false,
   )
-  assert.equal(isEddoFormNameForAssessment('Baseball Assessment 1', 'Baseball Assessment 1'), false)
+  assert.equal(isDottFormNameForAssessment('Baseball Assessment 1', 'Baseball Assessment 1'), false)
 })
 
-test('should not match short titles against longer Eddo form names in the same folder', () => {
+test('should not match short titles against longer Dott.it form names in the same folder', () => {
   assert.equal(
-    isEddoFormNameForAssessment(
-      `8.2 Lesson 6 Teacher Reference Assessment Key ${EDDO_FORM_MARKER}`,
+    isDottFormNameForAssessment(
+      `8.2 Lesson 6 Teacher Reference Assessment Key ${DOTT_FORM_MARKER}`,
       'Assessment',
     ),
     false,
   )
-  assert.equal(isEddoFormNameForAssessment(`Assessment ${EDDO_FORM_MARKER}`, 'Assessment'), true)
+  assert.equal(isDottFormNameForAssessment(`Assessment ${DOTT_FORM_MARKER}`, 'Assessment'), true)
 })
 
 test('should treat hyphen and space title variants as the same Form name', () => {
   assert.equal(
-    isEddoFormNameForAssessment(
-      `8.2 Lesson 2 Handout Self Assessment ${EDDO_FORM_MARKER}`,
+    isDottFormNameForAssessment(
+      `8.2 Lesson 2 Handout Self Assessment ${DOTT_FORM_MARKER}`,
       '8.2 Lesson 2 Handout Self-Assessment',
     ),
     true,

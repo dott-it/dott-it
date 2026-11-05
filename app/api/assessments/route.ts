@@ -30,7 +30,7 @@ async function getAssessmentsFunction(
     const sesssion = await auth()
 
     if (sesssion?.user.tenantId) {
-      if (sesssion?.user.email?.includes('eddolearning.com')) {
+      if (sesssion?.user.email?.includes('demo.dott.it')) {
         const assessments = await getAssessments({ schoolYear })
         return NextResponse.json(assessments)
       }

@@ -5,7 +5,7 @@ import { requireBackofficeSession } from '@/app/lib/api/require-backoffice-sessi
 const FORBIDDEN: ApiError = {
   error: 'Forbidden',
   message: 'Access denied',
-  details: 'Assessment templates are restricted to Eddo tenant users',
+  details: 'Assessment templates are restricted to Dott.it tenant users',
   type: 'QUERY_ERROR',
   retryable: false,
 }

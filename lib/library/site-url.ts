@@ -12,8 +12,8 @@ export function getLibrarySiteUrl(): string {
     return `https://${vercel.replace(/\/$/, '')}`
   }
 
-  return 'https://eddolearning.com'
+  return 'https://dott-it.vercel.app'
 }
 
 /** Marketing demo / community onboarding CTA destination. */
-export const EDDO_COMMUNITY_DEMO_URL = 'https://eddolearning.com/demo'
+export const DOTT_COMMUNITY_DEMO_URL = 'https://dott-it.vercel.app'

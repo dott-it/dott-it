@@ -11,7 +11,7 @@ const sessionPayload = {
   user: {
     id: 'e2e-user-id',
     name: 'E2E Teacher',
-    email: 'e2e@eddolearning.com',
+    email: 'e2e@demo.dott.it',
     tenantId: 'tenant-e2e',
   },
   expires: '2099-12-31T00:00:00.000Z',

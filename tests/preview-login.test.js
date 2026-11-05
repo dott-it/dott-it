@@ -11,7 +11,7 @@ test('preview login should be enabled for preview deployments and local developm
   assert.equal(
     isPreviewLoginEnabled({
       VERCEL_ENV: 'preview',
-      PREVIEW_LOGIN_EMAIL: 'preview@eddolearning.com',
+      PREVIEW_LOGIN_EMAIL: 'teacher@demo.dott.it',
       PREVIEW_LOGIN_PASSWORD: 'secret-password',
     }),
     true,
@@ -20,7 +20,7 @@ test('preview login should be enabled for preview deployments and local developm
   assert.equal(
     isPreviewLoginEnabled({
       VERCEL_ENV: 'production',
-      PREVIEW_LOGIN_EMAIL: 'preview@eddolearning.com',
+      PREVIEW_LOGIN_EMAIL: 'teacher@demo.dott.it',
       PREVIEW_LOGIN_PASSWORD: 'secret-password',
     }),
     false,
@@ -29,7 +29,7 @@ test('preview login should be enabled for preview deployments and local developm
   assert.equal(
     isPreviewLoginEnabled({
       NODE_ENV: 'development',
-      PREVIEW_LOGIN_EMAIL: 'preview@eddolearning.com',
+      PREVIEW_LOGIN_EMAIL: 'teacher@demo.dott.it',
       PREVIEW_LOGIN_PASSWORD: 'secret-password',
     }),
     true,
@@ -38,7 +38,7 @@ test('preview login should be enabled for preview deployments and local developm
   assert.equal(
     isPreviewLoginEnabled({
       VERCEL_ENV: 'preview',
-      PREVIEW_LOGIN_EMAIL: 'preview@eddolearning.com',
+      PREVIEW_LOGIN_EMAIL: 'teacher@demo.dott.it',
     }),
     false,
   )
@@ -47,25 +47,25 @@ test('preview login should be enabled for preview deployments and local developm
 test('preview login should match configured email case-insensitively and password exactly', () => {
   const env = {
     VERCEL_ENV: 'preview',
-    PREVIEW_LOGIN_EMAIL: 'Preview@EddoLearning.com',
+    PREVIEW_LOGIN_EMAIL: 'Preview@demo.dott.it',
     PREVIEW_LOGIN_PASSWORD: 'secret-password',
     PREVIEW_LOGIN_NAME: 'Preview Teacher',
   }
 
   assert.deepEqual(
     matchPreviewLogin(
-      { email: ' preview@eddolearning.com ', password: 'secret-password' },
+      { email: ' preview@demo.dott.it ', password: 'secret-password' },
       env,
     ),
     {
-      email: 'preview@eddolearning.com',
+      email: 'preview@demo.dott.it',
       name: 'Preview Teacher',
     },
   )
 
   assert.equal(
     matchPreviewLogin(
-      { email: 'preview@eddolearning.com', password: 'Secret-Password' },
+      { email: 'preview@demo.dott.it', password: 'Secret-Password' },
       env,
     ),
     null,

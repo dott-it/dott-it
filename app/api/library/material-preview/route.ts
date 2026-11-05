@@ -30,8 +30,8 @@ function isPackageItemKind(value: string): value is PackageItemKind {
 }
 
 /**
- * Stream a catalog material as PDF for Quick look (service account + Eddo session).
- * Requires a signed-in Eddo user — the public library catalog must not expose answer keys
+ * Stream a catalog material as PDF for Quick look (service account + Dott.it session).
+ * Requires a signed-in Dott.it user — the public library catalog must not expose answer keys
  * / teacher guides as anonymous PDF downloads via the Drive service account.
  */
 export async function GET(request: NextRequest) {

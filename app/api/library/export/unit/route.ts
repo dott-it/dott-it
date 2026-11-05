@@ -55,7 +55,7 @@ export async function POST(request: Request) {
     )
 
     if (formsToGenerateCount > 0) {
-      const rateKey = googleToken.eddoUserId ?? googleToken.email ?? 'anonymous'
+      const rateKey = googleToken.dottUserId ?? googleToken.email ?? 'anonymous'
       // Unit export can create many Forms — count as one burst against a tighter bucket.
       const rate = checkLibraryFormGenerationRateLimit({
         key: `unit:${rateKey}`,
@@ -86,7 +86,7 @@ export async function POST(request: Request) {
     })
 
     if (formsToGenerateCount > 0) {
-      const rateKey = googleToken.eddoUserId ?? googleToken.email ?? 'anonymous'
+      const rateKey = googleToken.dottUserId ?? googleToken.email ?? 'anonymous'
       recordLibraryFormGenerationRateLimit({ key: `unit:${rateKey}` })
     }
 

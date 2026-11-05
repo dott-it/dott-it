@@ -3,7 +3,7 @@ import { auth } from '@/lib/auth.config'
 import { withAuth } from '@/app/api/middleware/authorization.middleware'
 import { userPrisma } from '@/lib/user-prisma'
 import { dismissSpotlightCard } from '@/lib/spotlight/dismiss-spotlight'
-import { isEddoStaffEmail } from '@/lib/spotlight/is-eddo-staff-email'
+import { isDottStaffEmail } from '@/lib/spotlight/is-dott-staff-email'
 import type { DismissSpotlightResponse } from '@/types'
 
 export const POST = withAuth(dismissSpotlight)
@@ -28,7 +28,7 @@ async function dismissSpotlight(
       )
     }
 
-    const isStaff = isEddoStaffEmail(email)
+    const isStaff = isDottStaffEmail(email)
     const teacher = await userPrisma.teacher.findFirst({
       where: { email: { equals: email, mode: 'insensitive' } },
       select: { id: true },

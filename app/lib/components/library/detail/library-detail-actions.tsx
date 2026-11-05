@@ -74,7 +74,7 @@ export function LibraryDetailActions({
               onClick={() => setWorkspaceOpen(true)}
             >
               <Plus className="size-4" aria-hidden />
-              Add to Eddo workspace
+              Add to Dott.it workspace
             </Button>
           ) : null}
           {externalLink ? (
@@ -89,7 +89,7 @@ export function LibraryDetailActions({
           <p className="text-sm text-muted-foreground">
             {publishedFormNeedsFormId ? (
               <>
-                Preview and export work with this Form, but Add to Eddo workspace needs a Forms API
+                Preview and export work with this Form, but Add to Dott.it workspace needs a Forms API
                 formId URL (not a published /d/e/ link). Use{' '}
               </>
             ) : (

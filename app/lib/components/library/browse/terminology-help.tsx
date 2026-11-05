@@ -64,7 +64,7 @@ export function TerminologyHelp({ assessmentShape }: TerminologyHelpProps) {
         <div>
           <p className="font-semibold text-foreground">Assessment guide</p>
           <p className="text-sm text-muted-foreground">
-            An assessment guide is an Eddo panel that supports teachers with alignment to
+            An assessment guide is an Dott.it panel that supports teachers with alignment to
             standards, common gaps in student thinking, and sample responses — separate from
             the OpenSciEd unit download.
           </p>

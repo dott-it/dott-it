@@ -26,7 +26,7 @@ import { POST } from '../route'
 describe('POST /api/assessments/[id]/sync-responses', () => {
   beforeEach(() => {
     jest.clearAllMocks()
-    mockTenantFindUnique.mockResolvedValue({ name: 'Eddo', slug: 'eddo' })
+    mockTenantFindUnique.mockResolvedValue({ name: 'Dott.it', slug: 'dott-it' })
   })
 
   it('should return success when sync completes', async () => {
@@ -37,7 +37,7 @@ describe('POST /api/assessments/[id]/sync-responses', () => {
     })
 
     const response = await POST(
-      { user: { tenantId: 'tenant-eddo' } } as never,
+      { user: { tenantId: 'tenant-dott-it' } } as never,
       { params: Promise.resolve({ id: 'assess-1' }) },
     )
     const body = await response.json()
@@ -55,7 +55,7 @@ describe('POST /api/assessments/[id]/sync-responses', () => {
     mockSyncAssessment.mockRejectedValue(new Error('Assessment is missing googleFormId'))
 
     const response = await POST(
-      { user: { tenantId: 'tenant-eddo' } } as never,
+      { user: { tenantId: 'tenant-dott-it' } } as never,
       { params: Promise.resolve({ id: 'assess-1' }) },
     )
     const body = await response.json()
@@ -68,7 +68,7 @@ describe('POST /api/assessments/[id]/sync-responses', () => {
     mockSyncAssessment.mockRejectedValue(new Error('Assessment not found'))
 
     const response = await POST(
-      { user: { tenantId: 'tenant-eddo' } } as never,
+      { user: { tenantId: 'tenant-dott-it' } } as never,
       { params: Promise.resolve({ id: 'missing' }) },
     )
 
@@ -81,7 +81,7 @@ describe('POST /api/assessments/[id]/sync-responses', () => {
     )
 
     const response = await POST(
-      { user: { tenantId: 'tenant-eddo' } } as never,
+      { user: { tenantId: 'tenant-dott-it' } } as never,
       { params: Promise.resolve({ id: 'assess-1' }) },
     )
     const body = await response.json()

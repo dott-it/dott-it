@@ -1,6 +1,6 @@
 # Form Components
 
-This document describes the form components available in the Eddo Workspace application. These components provide consistent form styling and behavior across the application.
+This document describes the form components available in the Dott.it Workspace application. These components provide consistent form styling and behavior across the application.
 
 ## FormField Component
 

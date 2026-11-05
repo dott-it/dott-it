@@ -1,7 +1,7 @@
 import { googleApiJson } from '@/lib/library/export/google-api-fetch'
 import { listDigitizeTargetsForUnit } from './list-targets'
-import { eddoFormTitle } from './naming'
-import { findExistingEddoForm } from './place-form'
+import { dottFormTitle } from './naming'
+import { findExistingDottForm } from './place-form'
 import { persistGoogleFormUrl } from './persist-form-url'
 import { googleFormViewUrlFromFormId } from '@/lib/library/workspace/parse-google-form'
 
@@ -17,7 +17,7 @@ export interface SyncIngestFormUrlResult {
 
 /**
  * For each eligible assessment (optionally limited to a lesson folder), find the
- * Eddo Form already in that lesson folder and write its responderUri into ingest.
+ * Dott.it Form already in that lesson folder and write its responderUri into ingest.
  * Supports multiple assessments per lesson — each assessmentId maps to its own Form.
  */
 export async function syncIngestFormUrlsFromDrive(args: {
@@ -38,7 +38,7 @@ export async function syncIngestFormUrlsFromDrive(args: {
 
   for (const target of targets) {
     try {
-      const existing = await findExistingEddoForm(
+      const existing = await findExistingDottForm(
         args.accessToken,
         target.lessonFolderId,
         target.assessmentTitle,
@@ -48,7 +48,7 @@ export async function syncIngestFormUrlsFromDrive(args: {
           assessmentId: target.assessmentId,
           assessmentTitle: target.assessmentTitle,
           status: 'missing-form',
-          detail: `No Eddo Form named like "${eddoFormTitle(target.assessmentTitle)}" in lesson folder`,
+          detail: `No Dott.it Form named like "${dottFormTitle(target.assessmentTitle)}" in lesson folder`,
         })
         continue
       }

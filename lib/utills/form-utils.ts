@@ -3,7 +3,7 @@
  * @param {string} slug
  * @returns {string}
  */
-export function getFriendlyFormUrl(slug: string, origin = 'https://eddolearning.com') {
+export function getFriendlyFormUrl(slug: string, origin = 'https://dott-it.vercel.app') {
   return `${origin}/form/${slug}`
 }
 
@@ -12,6 +12,6 @@ export function getFriendlyFormUrl(slug: string, origin = 'https://eddolearning.
  * @param {string} slug
  * @returns {string}
  */
-export function getQrCodeUrl(slug: string, origin = 'https://eddolearning.com') {
+export function getQrCodeUrl(slug: string, origin = 'https://dott-it.vercel.app') {
   return `${origin}/form/${slug}`
 }

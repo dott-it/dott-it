@@ -53,8 +53,8 @@ export interface LibraryExportGoogleTokenPayload {
   accessToken: string
   expiryDate?: number
   email?: string
-  /** When set at OAuth time, subsequent export/download must match this Eddo user. */
-  eddoUserId?: string
+  /** When set at OAuth time, subsequent export/download must match this Dott.it user. */
+  dottUserId?: string
 }
 
 export interface DriveCopyTarget {

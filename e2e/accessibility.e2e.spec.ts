@@ -34,7 +34,7 @@ test.describe('Accessibility (axe-core)', () => {
   test('workspace after demo sign-in', async ({ page, request }) => {
     await skipIfDemoLoginUnavailable(request)
     await signInWithDemoCredentials(page)
-    await expect(page).toHaveTitle(/Eddo Workspace/)
+    await expect(page).toHaveTitle(/Dott.it Workspace/)
     const { violations } = await new AxeBuilder({ page }).analyze()
     expect(seriousOrCriticalViolations(violations)).toEqual([])
   })

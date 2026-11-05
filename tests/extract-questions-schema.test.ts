@@ -12,7 +12,7 @@ import {
   looksLikeChoiceCue,
   buildExtractionPrompt,
 } from '../lib/library/digitize/extract-questions.ts'
-import { eddoFormSiblingFolderNames } from '../lib/library/digitize/place-form.ts'
+import { dottFormSiblingFolderNames } from '../lib/library/digitize/place-form.ts'
 
 function asQuestion(item: { questionItem?: QuestionItem['questionItem']; title?: string }): QuestionItem {
   assert.ok(item.questionItem, 'expected a question item')
@@ -466,10 +466,10 @@ test('should format file-response fields with upload instructions in description
 })
 
 test('should name sibling asset and uploads folders from form title', () => {
-  assert.deepEqual(eddoFormSiblingFolderNames('Baseball Assessment 1 (Eddo)'), [
-    'Baseball Assessment 1 (Eddo) — assets',
-    'Baseball Assessment 1 (Eddo) — uploads',
-    'Baseball Assessment 1 (Eddo) — student uploads',
+  assert.deepEqual(dottFormSiblingFolderNames('Baseball Assessment 1 (Dott.it)'), [
+    'Baseball Assessment 1 (Dott.it) — assets',
+    'Baseball Assessment 1 (Dott.it) — uploads',
+    'Baseball Assessment 1 (Dott.it) — student uploads',
   ])
 })
 

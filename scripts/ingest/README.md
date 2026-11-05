@@ -55,10 +55,10 @@ node scripts/ingest/generate-ingested-index.mjs
 
 ## Prerequisites
 
-Clone [eddo-ai/content-pipeline](https://github.com/eddo-ai/content-pipeline) with **processed JSON blobs** available. A `--filter=blob:none` sparse clone only fetches blobs for paths already checked out (e.g. 8.1). For all 18 MS units:
+Clone [dott-it-ai/content-pipeline](https://github.com/dott-it-ai/content-pipeline) with **processed JSON blobs** available. A `--filter=blob:none` sparse clone only fetches blobs for paths already checked out (e.g. 8.1). For all 18 MS units:
 
 ```bash
-git clone https://github.com/eddo-ai/content-pipeline.git
+git clone https://github.com/dott-it-ai/content-pipeline.git
 # or expand sparse checkout and fetch blobs:
 cd content-pipeline
 git sparse-checkout set "data/resource_library/Grade 6" "data/resource_library/Grade 7" "data/resource_library/Grade 8"

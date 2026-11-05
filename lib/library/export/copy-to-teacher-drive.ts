@@ -15,7 +15,7 @@ import type {
 
 const DRIVE_API_BASE = 'https://www.googleapis.com/drive/v3'
 const FOLDER_MIME = 'application/vnd.google-apps.folder'
-const EXPORT_ROOT_FOLDER = 'Eddo Learning'
+const EXPORT_ROOT_FOLDER = 'Dott.it'
 const EXPORT_CURRICULUM_FOLDER = 'OpenSciEd'
 const UPLOAD_API_BASE = 'https://www.googleapis.com/upload/drive/v3'
 
@@ -97,8 +97,8 @@ export async function ensureUnitExportFolder(
   accessToken: string,
   unitCode: string,
 ): Promise<string> {
-  const eddoRoot = await findOrCreateFolder(accessToken, 'root', EXPORT_ROOT_FOLDER)
-  const curriculumFolder = await findOrCreateFolder(accessToken, eddoRoot, EXPORT_CURRICULUM_FOLDER)
+  const dottRoot = await findOrCreateFolder(accessToken, 'root', EXPORT_ROOT_FOLDER)
+  const curriculumFolder = await findOrCreateFolder(accessToken, dottRoot, EXPORT_CURRICULUM_FOLDER)
   return findOrCreateFolder(accessToken, curriculumFolder, `Unit ${unitCode}`)
 }
 
@@ -125,7 +125,7 @@ async function uploadTextFileToFolder(args: {
   fileName: string
   contents: string
 }): Promise<{ id: string; name: string; webViewLink?: string }> {
-  const boundary = `eddo_boundary_${Date.now()}`
+  const boundary = `dott_boundary_${Date.now()}`
   const metadata = JSON.stringify({
     name: args.fileName,
     parents: [args.folderId],
