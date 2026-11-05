@@ -193,7 +193,7 @@ async function seedAssessments(
       description: 'Short check on Newton’s laws for Physical Science.',
       subject: 'Physical Science',
       gradeLevel: 'Grade 8',
-      unitCode: 'PS-8-U2',
+      unitCode: '8.1',
       lessonNumber: 4,
     },
     create: {
@@ -203,14 +203,22 @@ async function seedAssessments(
       description: 'Short check on Newton’s laws for Physical Science.',
       subject: 'Physical Science',
       gradeLevel: 'Grade 8',
-      unitCode: 'PS-8-U2',
+      unitCode: '8.1',
       lessonNumber: 4,
     },
   })
 
-  const assignedAt = '2026-10-20T14:00:00Z'
-  const dueAt = '2026-10-22T23:59:59Z'
-  const assignedTo = learners.map((l) => l.id)
+  // Keep demo events inside the current planner week/month for local preview.
+  const now = new Date()
+  const due = new Date(now)
+  due.setDate(now.getDate() + 1)
+  due.setHours(23, 59, 59, 0)
+  const assigned = new Date(now)
+  assigned.setDate(now.getDate() - 2)
+  assigned.setHours(14, 0, 0, 0)
+  const assignedAt = assigned.toISOString()
+  const dueAt = due.toISOString()
+  const assignedTo = [{ type: 'class', id: 'demo-period-3', name: DEMO.classSection }]
 
   const assessment = await prisma.assessment.upsert({
     where: { id: DEMO.assessmentId },
@@ -226,7 +234,7 @@ async function seedAssessments(
       instructions: 'Answer in your own words. Use examples from class when you can.',
       numberOfQuestions: 3,
       schoolYear: inferSchoolYear(assignedAt, dueAt),
-      unitCode: 'PS-8-U2',
+      unitCode: '8.1',
       studentResponsesCount: Math.min(5, learners.length),
       submissionUrl: null,
       googleFormId: null,
@@ -244,7 +252,7 @@ async function seedAssessments(
       instructions: 'Answer in your own words. Use examples from class when you can.',
       numberOfQuestions: 3,
       schoolYear: inferSchoolYear(assignedAt, dueAt),
-      unitCode: 'PS-8-U2',
+      unitCode: '8.1',
       studentResponsesCount: Math.min(5, learners.length),
     },
   })

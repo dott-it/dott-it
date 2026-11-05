@@ -26,7 +26,10 @@ function source(
     dueAt: '2026-02-01',
     assignedAt: '2026-01-01',
     status: 'live',
-    assessmentRecords: [{ status: 'submitted' }, { status: 'handed_in' }],
+    assessmentRecords: [
+      { status: 'submitted', classSection: 'Period 3 — Physical Science' },
+      { status: 'handed_in', classSection: 'Period 3 — Physical Science' },
+    ],
     template: {
       title: 'Soccer forces',
       subject: 'Physical Science',
@@ -46,7 +49,7 @@ describe('assessment list map', () => {
     assert.equal('lessonNumber' in assessmentListTemplateSelect, true)
     assert.equal('curriculumTeachersEdition' in assessmentListTemplateSelect, false)
     assert.equal('curriculumAnswerKey' in assessmentListTemplateSelect, false)
-    assert.deepEqual(assessmentListRecordSelect, { status: true })
+    assert.deepEqual(assessmentListRecordSelect, { status: true, classSection: true })
     assert.equal('include' in assessmentListInclude.assessmentRecords, false)
     assert.deepEqual(assessmentListInclude.template.select, assessmentListTemplateSelect)
   })
@@ -67,6 +70,7 @@ describe('assessment list map', () => {
     assert.equal(row.subject, '')
     assert.equal(row.pendingRecords, 1)
     assert.equal(row.submissionStatus.handedIn, 1)
+    assert.deepEqual(row.classSections, ['Period 3 — Physical Science'])
   })
 
   it('should fall back to the template unit when the assessment has none', () => {

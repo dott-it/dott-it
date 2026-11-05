@@ -1,5 +1,5 @@
-import { WorkspaceHomeContent } from '../workspace-home-content'
+import { AssessmentsListContent } from './assessments-list-content'
 
 export default function AssessmentsPage() {
-  return <WorkspaceHomeContent />
+  return <AssessmentsListContent />
 }
