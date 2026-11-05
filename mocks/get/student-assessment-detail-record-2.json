@@ -1,0 +1,46 @@
+{
+  "student": {
+    "id": "student-2",
+    "name": "Alice Johnson",
+    "email": "red.fox@school.edu",
+    "status": "in_progress",
+    "submittedAt": "2024-01-20T14:30:00Z",
+    "score": 87,
+    "classSection": "Period A",
+    "lastActionDate": "2024-01-20T14:30:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": "2024-01-21T10:15:00Z",
+    "grade": 8
+  },
+  "assessment": {
+    "id": "8-6-lesson-11-green-anole-lizard-explanation",
+    "title": "Lesson 11: Green Anole Lizard Explanation",
+    "unitName": "Unit 8.6",
+    "subject": "Science",
+    "grade": 8,
+    "type": "Formative Assessment",
+    "dueDate": "2024-01-22",
+    "status": "live",
+    "totalRecords": 18,
+    "pendingRecords": 3,
+    "description": "Assessment on green anole lizard adaptation and natural selection"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"The green anole lizard shows adaptation through color change for camouflage. When brown lizards were introduced, the green lizards moved higher in trees. This suggests that the green lizards with better climbing abilities survived better. Over time, this could lead to longer limbs in green lizards as those with longer limbs can climb higher and avoid competition.\",\"observationQuestion\":\"I noticed that the green lizards changed their behavior when brown lizards appeared. They moved to higher branches and seemed to avoid the lower areas where brown lizards were present. This shows how competition can drive behavioral adaptations.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Natural Selection",
+      "content": "Excellent understanding of natural selection concepts."
+    },
+    {
+      "type": "strength",
+      "section": "Observation",
+      "content": "Good observation skills demonstrated in identifying behavioral changes."
+    },
+    {
+      "type": "improvement",
+      "section": "Model Explanation",
+      "content": "Consider providing more specific examples in your explanations."
+    }
+  ]
+}

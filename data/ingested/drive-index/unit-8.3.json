@@ -1,0 +1,1233 @@
+{
+  "unitId": "8.3",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 8",
+  "unitFolder": "8.3 Forces at a Distance",
+  "unitDriveFolderId": "1-fu9PAUOHiR5LvuRfAvGV8S7hhSuwpr6",
+  "indexedAt": "2026-07-07T18:09:18.888Z",
+  "fileCount": 148,
+  "manifestPathCount": 53,
+  "matchedCount": 53,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "83-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "13pzIJ_P6cEZSc5jUokgGE8BxxuUhwiJFkxCb1OADTw0",
+      "driveRelativePath": "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:26.050Z"
+    },
+    {
+      "assessmentId": "83-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "13pzIJ_P6cEZSc5jUokgGE8BxxuUhwiJFkxCb1OADTw0",
+      "driveRelativePath": "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:26.050Z"
+    },
+    {
+      "assessmentId": "83-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1aaWx6vzP4x_mlIEDCBl--3F9_BOuGp8aSnJrZ5QVI70",
+      "driveRelativePath": "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:55.195Z"
+    },
+    {
+      "assessmentId": "83-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1aaWx6vzP4x_mlIEDCBl--3F9_BOuGp8aSnJrZ5QVI70",
+      "driveRelativePath": "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:55.195Z"
+    },
+    {
+      "assessmentId": "83-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1kv0V17XoJQydjUB5VJS99wwqiS1VOvYm3vzrM0DY8bU",
+      "driveRelativePath": "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:46.156Z"
+    },
+    {
+      "assessmentId": "83-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1kv0V17XoJQydjUB5VJS99wwqiS1VOvYm3vzrM0DY8bU",
+      "driveRelativePath": "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:46.156Z"
+    },
+    {
+      "assessmentId": "83-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1T0KkMUkpAQClZoRwnOncE7ro4FVHR6vi9xsd10-Scrk",
+      "driveRelativePath": "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:24.923Z"
+    },
+    {
+      "assessmentId": "83-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1T0KkMUkpAQClZoRwnOncE7ro4FVHR6vi9xsd10-Scrk",
+      "driveRelativePath": "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:24.923Z"
+    },
+    {
+      "assessmentId": "83-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1T0KkMUkpAQClZoRwnOncE7ro4FVHR6vi9xsd10-Scrk",
+      "driveRelativePath": "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:24.923Z"
+    },
+    {
+      "assessmentId": "83-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "10gkknMji1J3vLwDj_KoP2aNQEOV8R4gNW0UJCO8UcQg",
+      "driveRelativePath": "Lesson 5 - 8.3 Forces at a Distance/8.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:47.329Z"
+    },
+    {
+      "assessmentId": "83-6-figuring-out-the-speaker",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Assessment Figuring out the.docx",
+      "driveFileId": "1ZEVEkoPFlwzEeawrCIy6KZD37c38oQx3pg02Sad7Fp0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Assessment Figuring out the",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:36:03.093Z"
+    },
+    {
+      "assessmentId": "83-6-figuring-out-the-speaker",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    {
+      "assessmentId": "83-6-figuring-out-the-speaker",
+      "field": "answerKey",
+      "manifestPath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Answer Key Midpoint Assessment Figuring.docx",
+      "driveFileId": "1QnJRtFuqzCEU9stLHS6ZQG_laLvRnjLqdIQikzwMKzs",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Answer Key Midpoint Assessment Figuring",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:35:59.134Z"
+    },
+    {
+      "assessmentId": "83-6-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    {
+      "assessmentId": "83-6-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    {
+      "assessmentId": "83-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    {
+      "assessmentId": "83-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    {
+      "assessmentId": "83-6-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    {
+      "assessmentId": "83-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/8.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Lgy7Nsc90XmcgCpS5kz_sQhBZaYty2SLFgZJ8Cd2c4E",
+      "driveRelativePath": "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:03.675Z"
+    },
+    {
+      "assessmentId": "83-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/8.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Lgy7Nsc90XmcgCpS5kz_sQhBZaYty2SLFgZJ8Cd2c4E",
+      "driveRelativePath": "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:03.675Z"
+    },
+    {
+      "assessmentId": "83-8-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "driveRelativePath": "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    {
+      "assessmentId": "83-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "driveRelativePath": "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    {
+      "assessmentId": "83-8-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "driveRelativePath": "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    {
+      "assessmentId": "83-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "driveRelativePath": "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    {
+      "assessmentId": "83-8-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "driveRelativePath": "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    {
+      "assessmentId": "83-8-ao-6",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "driveRelativePath": "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    {
+      "assessmentId": "83-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1HWRboyODqjBawisHA0RXz7jasL4ttMsJJ-BHAJWfkuo",
+      "driveRelativePath": "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:33.973Z"
+    },
+    {
+      "assessmentId": "83-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1HWRboyODqjBawisHA0RXz7jasL4ttMsJJ-BHAJWfkuo",
+      "driveRelativePath": "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:33.973Z"
+    },
+    {
+      "assessmentId": "83-9-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1HWRboyODqjBawisHA0RXz7jasL4ttMsJJ-BHAJWfkuo",
+      "driveRelativePath": "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:33.973Z"
+    },
+    {
+      "assessmentId": "83-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "14kaJB0m_P4G4DeiCpA6544Dx3ZQ1zjQllVZnkKqsMD0",
+      "driveRelativePath": "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:02.180Z"
+    },
+    {
+      "assessmentId": "83-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "14kaJB0m_P4G4DeiCpA6544Dx3ZQ1zjQllVZnkKqsMD0",
+      "driveRelativePath": "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:02.180Z"
+    },
+    {
+      "assessmentId": "83-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1u9Tgyg-PW9afQaGJNleLW1H9ZRwLreiHQfB4G6P-PYY",
+      "driveRelativePath": "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:37.300Z"
+    },
+    {
+      "assessmentId": "83-11-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1u9Tgyg-PW9afQaGJNleLW1H9ZRwLreiHQfB4G6P-PYY",
+      "driveRelativePath": "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:37.300Z"
+    },
+    {
+      "assessmentId": "83-11-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_11/original/8.3 Lesson 11 Handout Peer-Feedback Rubric for.docx",
+      "driveFileId": "1OWtqfQGR7Ce7pkKI90p7z7pZnMyY-rTPsl2pPOVTPmM",
+      "driveRelativePath": "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Handout Peer-Feedback Rubric for",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:10.989Z"
+    },
+    {
+      "assessmentId": "83-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1u9Tgyg-PW9afQaGJNleLW1H9ZRwLreiHQfB4G6P-PYY",
+      "driveRelativePath": "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:37.300Z"
+    },
+    {
+      "assessmentId": "83-12-summative-assessment",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Assessment Summative Assessment.docx",
+      "driveFileId": "16T6BEcxXSICrc_WWV25fyi8uYFmtJmge3DFp32cRU0E",
+      "driveRelativePath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Assessment Summative Assessment",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:32:52.582Z"
+    },
+    {
+      "assessmentId": "83-12-summative-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "198P7vkoPyvl1l1IiTwcKjxvaGCvLiBPRMSKAG2vYtwk",
+      "driveRelativePath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:33:13.446Z"
+    },
+    {
+      "assessmentId": "83-12-summative-assessment",
+      "field": "answerKey",
+      "manifestPath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Answer Key Electromagnetic Inventions Scoring.docx",
+      "driveFileId": "1Vg8LsI11uyWySIF2hFdXNvPodAOxzlKMJ3QGW4t2BQE",
+      "driveRelativePath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Answer Key Electromagnetic Inventions Scoring",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:32:48.246Z"
+    },
+    {
+      "assessmentId": "83-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "198P7vkoPyvl1l1IiTwcKjxvaGCvLiBPRMSKAG2vYtwk",
+      "driveRelativePath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:13.446Z"
+    },
+    {
+      "assessmentId": "83-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "198P7vkoPyvl1l1IiTwcKjxvaGCvLiBPRMSKAG2vYtwk",
+      "driveRelativePath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:13.446Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/8.3 Forces at a Distance Unit Overview Materials.docx",
+      "driveFileId": "1jo4h8ZPL4LFsxYS27OH3qons6TDCdvRhmVAaJ5H8xeY",
+      "driveRelativePath": "8.3 Forces at a Distance Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-14T00:29:53.782Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/8.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "13pzIJ_P6cEZSc5jUokgGE8BxxuUhwiJFkxCb1OADTw0",
+      "driveRelativePath": "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:26.050Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/8.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1aaWx6vzP4x_mlIEDCBl--3F9_BOuGp8aSnJrZ5QVI70",
+      "driveRelativePath": "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:55.195Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/8.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1kv0V17XoJQydjUB5VJS99wwqiS1VOvYm3vzrM0DY8bU",
+      "driveRelativePath": "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:46.156Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1T0KkMUkpAQClZoRwnOncE7ro4FVHR6vi9xsd10-Scrk",
+      "driveRelativePath": "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:24.923Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/8.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "10gkknMji1J3vLwDj_KoP2aNQEOV8R4gNW0UJCO8UcQg",
+      "driveRelativePath": "Lesson 5 - 8.3 Forces at a Distance/8.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:47.329Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "driveRelativePath": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/8.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Lgy7Nsc90XmcgCpS5kz_sQhBZaYty2SLFgZJ8Cd2c4E",
+      "driveRelativePath": "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:03.675Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "driveRelativePath": "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1HWRboyODqjBawisHA0RXz7jasL4ttMsJJ-BHAJWfkuo",
+      "driveRelativePath": "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:33.973Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/8.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "14kaJB0m_P4G4DeiCpA6544Dx3ZQ1zjQllVZnkKqsMD0",
+      "driveRelativePath": "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:02.180Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1u9Tgyg-PW9afQaGJNleLW1H9ZRwLreiHQfB4G6P-PYY",
+      "driveRelativePath": "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:37.300Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/8.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "198P7vkoPyvl1l1IiTwcKjxvaGCvLiBPRMSKAG2vYtwk",
+      "driveRelativePath": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:13.446Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Unit 8.3 Forces at a Distance Video Links.pdf": {
+      "driveFileId": "1tuVLtyOHU6ojwLlfxYGUBw8ej8Hg72fm",
+      "name": "Unit 8.3 Forces at a Distance Video Links.pdf",
+      "modifiedTime": "2024-08-14T00:39:40.660Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1Xmt2zCSQKPfkatVj1tKuZl17vk9KXyms",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-14T00:39:39.751Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "14CqPnnuJYt9vbpf41vyV-kiNoljthe0A",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-14T00:39:38.441Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1phwiWPbm0R708xr9vxXdeN5i3u-PchRW",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-14T00:39:37.340Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1LeRs_dpggQwHE5cT2lexqQBz_1vjMyoW",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-14T00:39:36.336Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1Dkk8kkmgZ2_PqD0ur9DIJPfZsfF-7SkG",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-14T00:39:34.800Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Teacher Edition": {
+      "driveFileId": "1HWRboyODqjBawisHA0RXz7jasL4ttMsJJ-BHAJWfkuo",
+      "name": "8.3 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:39:33.973Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1YWWj5Wt1fPJNABy_DIkHJTsXJa12LNIkH3ktx1Tf2JM",
+      "name": "8.3 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:29.481Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Student Procedure": {
+      "driveFileId": "10RBnOO90mnl0USY-Ehpr9J_KulBI0qHCR8ZLYxCetWw",
+      "name": "8.3 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:23.447Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Slides": {
+      "driveFileId": "1n-j9i8kKYlcWk5azoV9gPXEjr1b4qQgkBQHxvVQZ-IU",
+      "name": "8.3 Lesson 9 Slides",
+      "modifiedTime": "2024-08-14T00:39:19.632Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Rubric Rubric for Model": {
+      "driveFileId": "1zC5L_hti03qyknFafNrUF6AKqk76UKnUrGWvzF2oYBk",
+      "name": "8.3 Lesson 9 Rubric Rubric for Model",
+      "modifiedTime": "2024-08-14T00:39:14.177Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Reference Guidance for Student": {
+      "driveFileId": "14MNiS8bbo3LzPdLlf-V-WCSOi_3rNDTVjfIMdw-_3co",
+      "name": "8.3 Lesson 9 Reference Guidance for Student",
+      "modifiedTime": "2024-08-14T00:39:11.321Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Reading Magnetic Levitation Trains": {
+      "driveFileId": "1ne6tV89pns0QgKwIHxfDzPNQIGvARGRt1C40aszRsok",
+      "name": "8.3 Lesson 9 Reading Magnetic Levitation Trains",
+      "modifiedTime": "2024-08-14T00:39:08.977Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Reading Junkyard Magnets": {
+      "driveFileId": "17uSaq3ZKlF8_YYf4nkOmvxIllmEtXMYB6ubAA1QQUAk",
+      "name": "8.3 Lesson 9 Reading Junkyard Magnets",
+      "modifiedTime": "2024-08-14T00:39:05.439Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Reading Electric Motors": {
+      "driveFileId": "1V9rJQ35YgQ-VOtjXtonWHWvV_QCqpEGqNqWJKJFtxBE",
+      "name": "8.3 Lesson 9 Reading Electric Motors",
+      "modifiedTime": "2024-08-14T00:39:01.155Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Handout Reading Magnetic Levitation": {
+      "driveFileId": "1WaNTUJBpV7ZqMxtl2c0ovscyxhXxG0MvIlXOqjttueE",
+      "name": "8.3 Lesson 9 Handout Reading Magnetic Levitation",
+      "modifiedTime": "2024-08-14T00:38:56.855Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Handout Reading Junkyard Magnets": {
+      "driveFileId": "1qFalRqFLLbCR0t3U_TLjcEnRLdaFuPw4kzlQjqHnAYI",
+      "name": "8.3 Lesson 9 Handout Reading Junkyard Magnets",
+      "modifiedTime": "2024-08-14T00:38:53.016Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Handout Reading Electric Motors": {
+      "driveFileId": "1G5KJG_y-vsXLgIqd4VO7PG7COvw0SBINpgZ8zhUKMNo",
+      "name": "8.3 Lesson 9 Handout Reading Electric Motors",
+      "modifiedTime": "2024-08-14T00:38:48.672Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Handout Optional Electricity Extension": {
+      "driveFileId": "1rPQ2peN1KLvl5Y_AWD3Mz1zbZ1G-WpoH4SRyAxeSA24",
+      "name": "8.3 Lesson 9 Handout Optional Electricity Extension",
+      "modifiedTime": "2024-08-14T00:38:44.931Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lesson 9 Handout Lesson 9 Cause-Effect": {
+      "driveFileId": "1B0tPoaRCXsOArzRrmOnrMglfUo2ocrnerCDyWgg8mAg",
+      "name": "8.3 Lesson 9 Handout Lesson 9 Cause-Effect",
+      "modifiedTime": "2024-08-14T00:38:34.254Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Referencia Orientación para estudiantes": {
+      "driveFileId": "1dDE2xFMJGkRMI5c_X8snJtsnXUIIVmH34lVEnDrUgHI",
+      "name": "8.3 Lección 9 Referencia Orientación para estudiantes",
+      "modifiedTime": "2024-08-14T00:38:33.355Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Lectura Trenes de levitación": {
+      "driveFileId": "1jq9nRSsTnP551BKAlPNNfudwYSfOdkUnZ9aeRDHfUPc",
+      "name": "8.3 Lección 9 Lectura Trenes de levitación",
+      "modifiedTime": "2024-08-14T00:38:27.184Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Lectura Motores eléctricos": {
+      "driveFileId": "1Yi8QLS-Rzvh1C2EXGXTUXsQRMYZyDic5aoVwxLlxVoA",
+      "name": "8.3 Lección 9 Lectura Motores eléctricos",
+      "modifiedTime": "2024-08-14T00:38:26.359Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Lectura Imanes de la": {
+      "driveFileId": "1jDb1Th65nnAKLFxmH6lneV9BgyEI3FKLo0JnW-UyAFI",
+      "name": "8.3 Lección 9 Lectura Imanes de la",
+      "modifiedTime": "2024-08-14T00:38:22.677Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Folleto Lectura Trenes de": {
+      "driveFileId": "186lpMdR3GeJMG12yWAsSFRTAL8BT3BkTDCJE1G5Jwv0",
+      "name": "8.3 Lección 9 Folleto Lectura Trenes de",
+      "modifiedTime": "2024-08-14T00:38:17.756Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Folleto Lectura Motores eléctricos": {
+      "driveFileId": "1RJXqdMacTZKIVRUSQU7sSru4a5s4BcrbLq2EK4V6uVg",
+      "name": "8.3 Lección 9 Folleto Lectura Motores eléctricos",
+      "modifiedTime": "2024-08-14T00:38:14.392Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Folleto Lectura Imanes de": {
+      "driveFileId": "101yoHbtCFUTBbhJdGFX68GMnXg0cVuZIQpw0opC2w_M",
+      "name": "8.3 Lección 9 Folleto Lectura Imanes de",
+      "modifiedTime": "2024-08-14T00:38:09.778Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Folleto Lección 9 Tabla": {
+      "driveFileId": "1wefYvEEjuTBnttqfBeOo7WKW8j5JVZOPG-kKYlIuQjc",
+      "name": "8.3 Lección 9 Folleto Lección 9 Tabla",
+      "modifiedTime": "2024-08-14T00:38:06.402Z"
+    },
+    "Lesson 9 - 8.3 Forces at a Distance/8.3 Lección 9 Folleto Extensión de electricidad": {
+      "driveFileId": "1ACEg19VpZo2oRSGFUy3Auim1ankytqFdf3FwQ3cb8cU",
+      "name": "8.3 Lección 9 Folleto Extensión de electricidad",
+      "modifiedTime": "2024-08-14T00:38:03.598Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Reference Electricity extension opportunity": {
+      "driveFileId": "11zxWBSHXmpwmboMfuuCHdMAPI79uHi6MNMMwQv12tZ4",
+      "name": "8.3 Lesson 8 Teacher Reference Electricity extension opportunity",
+      "modifiedTime": "2024-08-14T00:37:59.834Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Teacher Edition": {
+      "driveFileId": "1uNZ_2P9QeXTrkzCBG5nK2mm2X6_krkYiMcL1m2XLG_g",
+      "name": "8.3 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:57.454Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1_MseNIAflR6ybIpTPkMFYS7WNE8jAuuxCCNUsCSI8dE",
+      "name": "8.3 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:52.180Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Student Procedure": {
+      "driveFileId": "1l9fEkE-bXO78C1Q6HAY1pcySmXi6ivsPhhRrBbNLtAo",
+      "name": "8.3 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:46.824Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Slides": {
+      "driveFileId": "1av3wg1yZ41B3iTMD8l1-d2QwEVz-7Kopuprh05Pjwoo",
+      "name": "8.3 Lesson 8 Slides",
+      "modifiedTime": "2024-08-14T00:37:42.230Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Reading What is electric": {
+      "driveFileId": "1EV6IPw8ZjDYNX13oqYR6yS7wEMAwgSDkzx6qcDJVpO8",
+      "name": "8.3 Lesson 8 Reading What is electric",
+      "modifiedTime": "2024-08-14T00:37:37.504Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Reading Music to My": {
+      "driveFileId": "14zzrZP0SEJqWG_iB1RE6D1NLY5iKKtpCJtAu-X8cJ7Y",
+      "name": "8.3 Lesson 8 Reading Music to My",
+      "modifiedTime": "2024-08-14T00:37:31.306Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Handout Reading What is": {
+      "driveFileId": "1f6WvRCY2hpGzNdn9BiIN55PbVoP_u53gHfbLDCntk1A",
+      "name": "8.3 Lesson 8 Handout Reading What is",
+      "modifiedTime": "2024-08-14T00:37:27.254Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lesson 8 Handout Reading Music to": {
+      "driveFileId": "1jyaAHjfLuMLgYYymKRd2FOa9fvtfqGFvm-80yuBjDrs",
+      "name": "8.3 Lesson 8 Handout Reading Music to",
+      "modifiedTime": "2024-08-14T00:37:22.739Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lección 8 Lectura ¿Qué es la": {
+      "driveFileId": "1A_uelb0A9vvOV6e5dJTCDJptJrn-klnYNaeXJ_t67tc",
+      "name": "8.3 Lección 8 Lectura ¿Qué es la",
+      "modifiedTime": "2024-08-14T00:37:19.056Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lección 8 Lectura Música para mis": {
+      "driveFileId": "1_dog3BatwuiSq4FzHzQ0fNQiPWuk-n0OwU44qMGlJtI",
+      "name": "8.3 Lección 8 Lectura Música para mis",
+      "modifiedTime": "2024-08-14T00:37:15.779Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lección 8 Folleto Lectura ¿Qué es": {
+      "driveFileId": "15v36r6OpUt_mi9TfgRGbMDGatIDRYsdPx-TaOf5Uf-Y",
+      "name": "8.3 Lección 8 Folleto Lectura ¿Qué es",
+      "modifiedTime": "2024-08-14T00:37:12.012Z"
+    },
+    "Lesson 8 - 8.3 Forces at a Distance/8.3 Lección 8 Folleto Lectura Música para": {
+      "driveFileId": "1AhxW3XcBhhQCz8HLlNuBBj-BjCRF1x1Jvf65-lDblO4",
+      "name": "8.3 Lección 8 Folleto Lectura Música para",
+      "modifiedTime": "2024-08-14T00:37:07.883Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Teacher Edition": {
+      "driveFileId": "1Lgy7Nsc90XmcgCpS5kz_sQhBZaYty2SLFgZJ8Cd2c4E",
+      "name": "8.3 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:03.675Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "13m14LI6JMbSeSArxSjliPFTa8tvtmGZqPjElcUYwq54",
+      "name": "8.3 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:58.749Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Student Procedure": {
+      "driveFileId": "1YbjKAKewakmClkLhv2X7AQJ_ArKWzofmQV-PPjA4n70",
+      "name": "8.3 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:54.742Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Slides": {
+      "driveFileId": "1oE37HoqmaUwmnNLxFKOUvP8a-YwJQg7n3Scj-48JXJk",
+      "name": "8.3 Lesson 7 Slides",
+      "modifiedTime": "2024-08-14T00:36:50.076Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Handout Making Sense of": {
+      "driveFileId": "1H-tfto5-RlRiQglwN9EqluY8u9RD7czko15UBsadzU4",
+      "name": "8.3 Lesson 7 Handout Making Sense of",
+      "modifiedTime": "2024-08-14T00:36:40.758Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Handout Hypotheses and Variables": {
+      "driveFileId": "1hqEBq6uq3HMiwNk6WDV8uzQbxzYc4frmhLxSh17fJ7Y",
+      "name": "8.3 Lesson 7 Handout Hypotheses and Variables",
+      "modifiedTime": "2024-08-14T00:36:37.164Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lesson 7 Handout Data Table and": {
+      "driveFileId": "12bAu548y63R8z6CK1Og28DFPi7XCx1uYAg1H-fNRE9E",
+      "name": "8.3 Lesson 7 Handout Data Table and",
+      "modifiedTime": "2024-08-14T00:36:34.794Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lección 7 Folleto Tabla de datos": {
+      "driveFileId": "1q5xi4H2EaKzQ_otbYkfAV316wUzX39h0OJvlrEMYznw",
+      "name": "8.3 Lección 7 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-14T00:36:31.929Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lección 7 Folleto Hipótesis y variables": {
+      "driveFileId": "1Pce4T9WoJ7l-svTPn1lPd_QkmBcL4BOFyqTPUeL7sQA",
+      "name": "8.3 Lección 7 Folleto Hipótesis y variables",
+      "modifiedTime": "2024-08-14T00:36:27.975Z"
+    },
+    "Lesson 7 - 8.3 Forces at a Distance/8.3 Lección 7 Folleto Entender los resultados": {
+      "driveFileId": "13Rgd_QEuPI1WwzqJK3bfJbeeZ7CeUoJnGJphqgC9M3E",
+      "name": "8.3 Lección 7 Folleto Entender los resultados",
+      "modifiedTime": "2024-08-14T00:36:25.214Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition": {
+      "driveFileId": "1ZxjZGNBFTaKqppmK_lh8ZOHtaB50cHRq5uxm-BTTEf0",
+      "name": "8.3 Lesson 6 Teacher Edition",
+      "modifiedTime": "2026-02-20T21:28:55.501Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1TuuoD0rKUCUBWzrm6CdEyu5q9Yame96qlrwwlk5Z2W4",
+      "name": "8.3 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:17.634Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Student Procedure": {
+      "driveFileId": "1qcOzjQAeloEtL3qVFH9MlqOXbIgYgTG6RtYwW8-61x0",
+      "name": "8.3 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:14.296Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Slides": {
+      "driveFileId": "1BB2cilskFOw_pDOeml9cZJE7gIhmRKPGXG9A5z0Gqls",
+      "name": "8.3 Lesson 6 Slides",
+      "modifiedTime": "2024-08-14T00:36:10.685Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Handout Lesson 6 Cause-Effect": {
+      "driveFileId": "116lbwOiJWzXaqJBmv4p_Re21zfC1jjpFwlKLeYAxZt8",
+      "name": "8.3 Lesson 6 Handout Lesson 6 Cause-Effect",
+      "modifiedTime": "2024-08-14T00:36:05.423Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Assessment Figuring out the": {
+      "driveFileId": "1ZEVEkoPFlwzEeawrCIy6KZD37c38oQx3pg02Sad7Fp0",
+      "name": "8.3 Lesson 6 Assessment Figuring out the",
+      "modifiedTime": "2024-08-14T00:36:03.093Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Answer Key Midpoint Assessment Figuring": {
+      "driveFileId": "1QnJRtFuqzCEU9stLHS6ZQG_laLvRnjLqdIQikzwMKzs",
+      "name": "8.3 Lesson 6 Answer Key Midpoint Assessment Figuring",
+      "modifiedTime": "2024-08-14T00:35:59.134Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lección 6 Folleto Lección 6 Tabla": {
+      "driveFileId": "17AT0od4__I5OsaFPAL0ZBwO__99FBMyfL-CGCezBwNg",
+      "name": "8.3 Lección 6 Folleto Lección 6 Tabla",
+      "modifiedTime": "2024-08-14T00:35:54.910Z"
+    },
+    "Lesson 6 - 8.3 Forces at a Distance/8.3 Lección 6 Evaluación Averiguar el timbre": {
+      "driveFileId": "1D0CbQRLATj2oIoDr4B85c2OVGvss8maDE76xhGRysuI",
+      "name": "8.3 Lección 6 Evaluación Averiguar el timbre",
+      "modifiedTime": "2024-08-14T00:35:52.171Z"
+    },
+    "Lesson 5 - 8.3 Forces at a Distance/8.3 Lesson 5 Teacher Edition": {
+      "driveFileId": "10gkknMji1J3vLwDj_KoP2aNQEOV8R4gNW0UJCO8UcQg",
+      "name": "8.3 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:47.329Z"
+    },
+    "Lesson 5 - 8.3 Forces at a Distance/8.3 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1-N-z1BJ0vdMbcLgInLMRztkUKH3mi63aWm4sS2EOc8g",
+      "name": "8.3 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:44.248Z"
+    },
+    "Lesson 5 - 8.3 Forces at a Distance/8.3 Lesson 5 Student Procedure": {
+      "driveFileId": "1pehtseHTrT9q1-5PSrj1fhFsCbj5_vbyrUe0cQ0sFU4",
+      "name": "8.3 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:40.785Z"
+    },
+    "Lesson 5 - 8.3 Forces at a Distance/8.3 Lesson 5 Slides": {
+      "driveFileId": "1jfXMNGs3qbUzJV6DtZ7vS7tOPB70fl5vBebxpfc2C58",
+      "name": "8.3 Lesson 5 Slides",
+      "modifiedTime": "2024-08-14T00:35:37.619Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Teacher Reference Do-It-Yourself 3-D Magnetic": {
+      "driveFileId": "1mk1yVu-BCM4XVbkoGNeLaE-MMv5swpf7XDJW7eaqSkA",
+      "name": "8.3 Lesson 4 Teacher Reference Do-It-Yourself 3-D Magnetic",
+      "modifiedTime": "2024-08-14T00:35:33.200Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Teacher Reference Additional Tips and": {
+      "driveFileId": "1FCG0a7qaGRNyVkkqX1AWyDEq4J6HOBSc53lqW5TucI0",
+      "name": "8.3 Lesson 4 Teacher Reference Additional Tips and",
+      "modifiedTime": "2024-08-14T00:35:29.260Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Teacher Edition": {
+      "driveFileId": "1T0KkMUkpAQClZoRwnOncE7ro4FVHR6vi9xsd10-Scrk",
+      "name": "8.3 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:24.923Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1hbOJmL4CmAoWJ-dMhiqZaOptFO_GYuNMvLcN-aQ2ThA",
+      "name": "8.3 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:20.227Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Student Procedure": {
+      "driveFileId": "1XlpX8AJNJyPiDmAYWZlEMqsAHvcPiekIklLWLOn2bsw",
+      "name": "8.3 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:16.323Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Slides": {
+      "driveFileId": "1eF-9SUpXm1Hy3x5PROU5UaChSyu2p1OjyPjJv3WEJK8",
+      "name": "8.3 Lesson 4 Slides",
+      "modifiedTime": "2024-08-14T00:35:11.531Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Reading Finding the Way": {
+      "driveFileId": "1TZ2Q-0Lx26a3L0WkGZyE3C-jQLKRO4X-i5_BF0TqQWk",
+      "name": "8.3 Lesson 4 Reading Finding the Way",
+      "modifiedTime": "2024-08-14T00:35:06.600Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Handout Reading Finding the": {
+      "driveFileId": "1ebYnz0B9nO2a0yOh46Yp6YSeYhl_YLfVnSkyXenLkVc",
+      "name": "8.3 Lesson 4 Handout Reading Finding the",
+      "modifiedTime": "2024-08-14T00:35:01.349Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lesson 4 Handout Lectura Encontrando el": {
+      "driveFileId": "10cmPJT7Vb20PTvcMsowFTF3ErBqzyHNWACH78sm0Hpw",
+      "name": "8.3 Lesson 4 Handout Lectura Encontrando el",
+      "modifiedTime": "2024-08-14T00:34:57.771Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lección 4 Lectura Lectura Encontrando el": {
+      "driveFileId": "1hAPq9ee1OIX2NdDIdiL5Br8ktJy4AbVchSmcGp39GDo",
+      "name": "8.3 Lección 4 Lectura Lectura Encontrando el",
+      "modifiedTime": "2024-08-14T00:34:54.191Z"
+    },
+    "Lesson 4 - 8.3 Forces at a Distance/8.3 Lección 4 Folleto Lectura Encontrando el": {
+      "driveFileId": "1a8zxZpPEPAp44zX9o9_TrngijX1liY2Q4eN6s88EpbU",
+      "name": "8.3 Lección 4 Folleto Lectura Encontrando el",
+      "modifiedTime": "2024-08-14T00:34:50.529Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Teacher Edition": {
+      "driveFileId": "1kv0V17XoJQydjUB5VJS99wwqiS1VOvYm3vzrM0DY8bU",
+      "name": "8.3 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:34:46.156Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1-ClS0-3d39OZmw1jac-J5mj4RImtI4ACAVEdSJXIQUo",
+      "name": "8.3 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:40.929Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Student Procedure": {
+      "driveFileId": "1_IlJv6TWKZSaqT6NDUipnQLo6-bWaDTsEQFwnuUGf4I",
+      "name": "8.3 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:35.982Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Slides": {
+      "driveFileId": "1nRzRXp9kHd_b13u9T4PIwuIpiqb_HXU1NdEANewjIO8",
+      "name": "8.3 Lesson 3 Slides",
+      "modifiedTime": "2024-08-14T00:34:29.527Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Handout Writing an Explanation": {
+      "driveFileId": "1Ekxg3naeQLanW8u8k9bUVGWxTDR4CZVRRoaj5B-0bWg",
+      "name": "8.3 Lesson 3 Handout Writing an Explanation",
+      "modifiedTime": "2024-08-14T00:34:24.167Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Handout Writing an Argument": {
+      "driveFileId": "1bAfT-9qVox1gUct3dYRtK8aG8DBVq67cPeMxeKU1Bks",
+      "name": "8.3 Lesson 3 Handout Writing an Argument",
+      "modifiedTime": "2024-08-14T00:34:21.193Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Handout Transcript Sound Source": {
+      "driveFileId": "1zYFL9FuIrv-HbC3LdMeVa1QwJhz6pCjnchGpboYHksI",
+      "name": "8.3 Lesson 3 Handout Transcript Sound Source",
+      "modifiedTime": "2024-08-14T00:34:18.327Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Handout Framing Hypotheses": {
+      "driveFileId": "1K7WO3D-FYdI8ofq7NXShd0zcga8qdROsHZv7AKnIhXs",
+      "name": "8.3 Lesson 3 Handout Framing Hypotheses",
+      "modifiedTime": "2024-08-14T00:34:15.514Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lesson 3 Handout Blocking Air Investigation": {
+      "driveFileId": "1sFoKLrmnrS_Yvztus0Vlmi_pGAjXwhLnmft9tXIjZWw",
+      "name": "8.3 Lesson 3 Handout Blocking Air Investigation",
+      "modifiedTime": "2024-08-14T00:34:12.582Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lección 3 Folleto Transcripción Fuente de": {
+      "driveFileId": "1xiLuT6jkdNhfN7MuK4XPv94yOO5ZMF6C8JV4y_wYGQQ",
+      "name": "8.3 Lección 3 Folleto Transcripción Fuente de",
+      "modifiedTime": "2024-08-14T00:34:09.973Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lección 3 Folleto Investigación de bloqueo": {
+      "driveFileId": "1wXinB53rhOnfC5XykUxuqtIM7qyocntge-nEZcQwO-E",
+      "name": "8.3 Lección 3 Folleto Investigación de bloqueo",
+      "modifiedTime": "2024-08-14T00:34:07.113Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lección 3 Folleto Escribir un argumento": {
+      "driveFileId": "1mFvgGPVeyrpMV9onPYwvH6FQyvLlXz693lsWklo08Xs",
+      "name": "8.3 Lección 3 Folleto Escribir un argumento",
+      "modifiedTime": "2024-08-14T00:34:03.930Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lección 3 Folleto Escribiendo una explicación": {
+      "driveFileId": "1mFSOzd_0QkdrLDJE5IolKr09Sx6iIJfqI9hXEddZqdU",
+      "name": "8.3 Lección 3 Folleto Escribiendo una explicación",
+      "modifiedTime": "2024-08-14T00:34:01.399Z"
+    },
+    "Lesson 3 - 8.3 Forces at a Distance/8.3 Lección 3 Folleto Enmarcando hipótesis": {
+      "driveFileId": "1sJk9-xV7RWC9LcEW7i1bXle9xqpp_tMb3XvSrvMdZwQ",
+      "name": "8.3 Lección 3 Folleto Enmarcando hipótesis",
+      "modifiedTime": "2024-08-14T00:33:58.677Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Teacher Edition": {
+      "driveFileId": "1aaWx6vzP4x_mlIEDCBl--3F9_BOuGp8aSnJrZ5QVI70",
+      "name": "8.3 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:33:55.195Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "13kNKalqwpUHjC8DPHdJ1JkRWJva2bj-ltYSE4-MNHlA",
+      "name": "8.3 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:33:50.079Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Student Procedure": {
+      "driveFileId": "1TKKjdzmYa2Bn3DaagwqTrZKrhTxgG1Ed6X13a-vUHdc",
+      "name": "8.3 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-14T00:33:46.292Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Slides": {
+      "driveFileId": "1uDKZhL8MJSxAOVslLpTd7cuxsJhgu6POpMyilbmLDKI",
+      "name": "8.3 Lesson 2 Slides",
+      "modifiedTime": "2024-08-14T00:33:41.939Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Reference Composition of Metal": {
+      "driveFileId": "1Rk2E5SNJCtKXAlcc0LH-QBGmo_yWOsTAC7DyXehC0Xc",
+      "name": "8.3 Lesson 2 Reference Composition of Metal",
+      "modifiedTime": "2024-08-14T00:33:37.719Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Handout Magnet interactions lab": {
+      "driveFileId": "1lF7efr1vo0By6MhUD9tC5dyutDUhVOS107rVo9-ioEY",
+      "name": "8.3 Lesson 2 Handout Magnet interactions lab",
+      "modifiedTime": "2024-08-14T00:33:34.628Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Handout Magnet and coil": {
+      "driveFileId": "1LLz5qIQT0PwvZkCMrW8KSJxPJVYMWR2MX7P8nlljqDc",
+      "name": "8.3 Lesson 2 Handout Magnet and coil",
+      "modifiedTime": "2024-08-14T00:33:29.866Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lesson 2 Handout Investigación de interacciones": {
+      "driveFileId": "1HMQUR4BmvxKs_mAbjgGC6s-q9tqo0iGYQXkdq4WcI1k",
+      "name": "8.3 Lesson 2 Handout Investigación de interacciones",
+      "modifiedTime": "2024-08-14T00:33:26.412Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lección 2 Referencia Composición de objetos": {
+      "driveFileId": "1gb_dRqRp89quC0gbL7DlQgbwljmr8EnBfvqc9j8DrgM",
+      "name": "8.3 Lección 2 Referencia Composición de objetos",
+      "modifiedTime": "2024-08-14T00:33:23.691Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lección 2 Folleto Investigación de interacciones": {
+      "driveFileId": "1cT2R0soXHto42c0Lp0qU2E7Dh1s_Js6nK7sD-vduBsA",
+      "name": "8.3 Lección 2 Folleto Investigación de interacciones",
+      "modifiedTime": "2024-08-14T00:33:21.137Z"
+    },
+    "Lesson 2 - 8.3 Forces at a Distance/8.3 Lección 2 Folleto El imán y": {
+      "driveFileId": "10ZlIxxP4VIQ3PwMjeJBLkPGLJ-d5egBZO80QZkEATS8",
+      "name": "8.3 Lección 2 Folleto El imán y",
+      "modifiedTime": "2024-08-14T00:33:17.706Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Teacher Edition": {
+      "driveFileId": "198P7vkoPyvl1l1IiTwcKjxvaGCvLiBPRMSKAG2vYtwk",
+      "name": "8.3 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:33:13.446Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1B4m8g6esrFOsmzfLvcA1kTVavcK6LBWAxRrMmBq-2T8",
+      "name": "8.3 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:33:08.685Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Student Procedure": {
+      "driveFileId": "1PLMfyyBwD3jqp3eLCBj-M3ukAjqv9fNxTX_P60wE-2A",
+      "name": "8.3 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-14T00:33:04.897Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Slides": {
+      "driveFileId": "1nwJihPHwbAS_5JgHDgO1LNAyL91LZ5jdV-Qo7PLWdug",
+      "name": "8.3 Lesson 12 Slides",
+      "modifiedTime": "2024-08-14T00:33:00.941Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Handout Electricity Extension Modeling": {
+      "driveFileId": "1VfkHAYKjgzljViVmWpnK5V_rhiM1ovwQ1eFD7cLUATY",
+      "name": "8.3 Lesson 12 Handout Electricity Extension Modeling",
+      "modifiedTime": "2024-08-14T00:32:55.784Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Assessment Summative Assessment": {
+      "driveFileId": "16T6BEcxXSICrc_WWV25fyi8uYFmtJmge3DFp32cRU0E",
+      "name": "8.3 Lesson 12 Assessment Summative Assessment",
+      "modifiedTime": "2024-08-14T00:32:52.582Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Answer Key Electromagnetic Inventions Scoring": {
+      "driveFileId": "1Vg8LsI11uyWySIF2hFdXNvPodAOxzlKMJ3QGW4t2BQE",
+      "name": "8.3 Lesson 12 Answer Key Electromagnetic Inventions Scoring",
+      "modifiedTime": "2024-08-14T00:32:48.246Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lección 12 Folleto Extensión de electricidad": {
+      "driveFileId": "1I5XY-3bQIHH8i-XOD2x0Nq2m4xBTaQZn-E38kOWMRik",
+      "name": "8.3 Lección 12 Folleto Extensión de electricidad",
+      "modifiedTime": "2024-08-14T00:32:45.130Z"
+    },
+    "Lesson 12 - 8.3 Forces at a Distance/8.3 Lección 12 Evaluación Evaluación sumativa": {
+      "driveFileId": "1zPiwEDDiOtICON8Kyt0qhVQAIDYEESywyJBVqnkdFso",
+      "name": "8.3 Lección 12 Evaluación Evaluación sumativa",
+      "modifiedTime": "2024-08-14T00:32:42.325Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Teacher Edition": {
+      "driveFileId": "1u9Tgyg-PW9afQaGJNleLW1H9ZRwLreiHQfB4G6P-PYY",
+      "name": "8.3 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:32:37.300Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1UAoki-_BExRA5R3CWhULJy1RoeCWA7FcDAX-DI53wBA",
+      "name": "8.3 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:32:29.646Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Student Procedure": {
+      "driveFileId": "1L3-jVktbppF-01cf6SHoQNm4BDwsNnLMqY0iiZC4eyg",
+      "name": "8.3 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-14T00:32:25.749Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Slides": {
+      "driveFileId": "1v7DR_l7VazbOjyl-y4PD6aURptmNcndCfZ12bbPSkR8",
+      "name": "8.3 Lesson 11 Slides",
+      "modifiedTime": "2024-08-14T00:32:22.126Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Reading Strong or Weak": {
+      "driveFileId": "1FBLf-ih6yYsnlfK2Bcz9ogUxMk4gY_7ZvoF1z5Z0D5I",
+      "name": "8.3 Lesson 11 Reading Strong or Weak",
+      "modifiedTime": "2024-08-14T00:32:17.621Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Handout Reading Strong or": {
+      "driveFileId": "1cgeG69oCF8H2-REpMyNjj9rLLFu1NKFx-X_630m3ZG0",
+      "name": "8.3 Lesson 11 Handout Reading Strong or",
+      "modifiedTime": "2024-08-14T00:32:14.602Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Handout Peer-Feedback Rubric for": {
+      "driveFileId": "1OWtqfQGR7Ce7pkKI90p7z7pZnMyY-rTPsl2pPOVTPmM",
+      "name": "8.3 Lesson 11 Handout Peer-Feedback Rubric for",
+      "modifiedTime": "2024-08-14T00:32:10.989Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Handout List of Cause-Effect": {
+      "driveFileId": "1Xc5ENiKREjDpk-w0DyaoVGgxKQzpQ0e3DyTvBrrzgQI",
+      "name": "8.3 Lesson 11 Handout List of Cause-Effect",
+      "modifiedTime": "2024-08-14T00:32:08.130Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Handout Investigation Plan": {
+      "driveFileId": "1b9jV6F3mEWeP5_j2nGA27nH3cQf4xHOVxe3lcqsWs-Q",
+      "name": "8.3 Lesson 11 Handout Investigation Plan",
+      "modifiedTime": "2024-08-14T00:32:05.650Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Handout Interactive Predictions and": {
+      "driveFileId": "1jFQ6rCIzKKy2cv1J_XihAbdRLo8QeZ1rL_rEjWFAl9Y",
+      "name": "8.3 Lesson 11 Handout Interactive Predictions and",
+      "modifiedTime": "2024-08-14T00:32:01.555Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lesson 11 Handout Cause-Effect Chain": {
+      "driveFileId": "1s8dfEOXIdPCKMMfB6EA3jjKETsjwZgoTeXE3IUMZjVo",
+      "name": "8.3 Lesson 11 Handout Cause-Effect Chain",
+      "modifiedTime": "2024-08-14T00:31:59.375Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lección 11 Lectura ¿Fuerte o débil": {
+      "driveFileId": "1PgQcBFEn2D5HxrKA1S1Yyqmz6fXQ1568WQ-DWvshCS0",
+      "name": "8.3 Lección 11 Lectura ¿Fuerte o débil",
+      "modifiedTime": "2024-08-14T00:31:55.452Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lección 11 Folleto Rúbrica de retroalimentación": {
+      "driveFileId": "1OcyjoUktey8B_ZD5WEwzkY1rP5z5rf6mN28aH4O9jYI",
+      "name": "8.3 Lección 11 Folleto Rúbrica de retroalimentación",
+      "modifiedTime": "2024-08-14T00:31:51.121Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lección 11 Folleto Predicciones y resultados": {
+      "driveFileId": "1RV8iO0Z47FZzK5iErYlC1Lp-TUFWSM095xfoJva4Ll0",
+      "name": "8.3 Lección 11 Folleto Predicciones y resultados",
+      "modifiedTime": "2024-08-14T00:31:48.510Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lección 11 Folleto Plan de la": {
+      "driveFileId": "12prWIk7uRleN3XDXfB4nGd89zVcYhGqsd0HC_IyMxvM",
+      "name": "8.3 Lección 11 Folleto Plan de la",
+      "modifiedTime": "2024-08-14T00:31:46.133Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lección 11 Folleto Lista de relaciones": {
+      "driveFileId": "1wah3UmTZReu38q9u4PX-vDoG311ZAEVOLjgwB0ui-xk",
+      "name": "8.3 Lección 11 Folleto Lista de relaciones",
+      "modifiedTime": "2024-08-14T00:31:40.836Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lección 11 Folleto Lectura ¿Fuerte o": {
+      "driveFileId": "1RwximUW8kqwKwmygzLWPpjHZgEUE61vU6euDVA7dV00",
+      "name": "8.3 Lección 11 Folleto Lectura ¿Fuerte o",
+      "modifiedTime": "2024-08-14T00:31:37.834Z"
+    },
+    "Lesson 11 - 8.3 Forces at a Distance/8.3 Lección 11 Folleto Cadena de causa-efecto": {
+      "driveFileId": "128-puOaJKs-tpSdDiWKWu_cxQ-gdscFxDzprTJuH3EM",
+      "name": "8.3 Lección 11 Folleto Cadena de causa-efecto",
+      "modifiedTime": "2024-08-14T00:31:10.197Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Teacher Reference The Identify and": {
+      "driveFileId": "14P-vXz09I8RlciSeQmmBzSbKWny7KyXiwNG4Px46cpU",
+      "name": "8.3 Lesson 10 Teacher Reference The Identify and",
+      "modifiedTime": "2024-08-14T00:31:05.360Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Teacher Edition": {
+      "driveFileId": "14kaJB0m_P4G4DeiCpA6544Dx3ZQ1zjQllVZnkKqsMD0",
+      "name": "8.3 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:31:02.180Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1S7Zs894J5QmKaJ7qOi7ikZjqvo6_JSf59LJDXfKFAZA",
+      "name": "8.3 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:30:58.050Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Student Procedure": {
+      "driveFileId": "1mJOl3eVX7sAzhEGvfVSYzGPKoquH37bjLi43EEFKUjk",
+      "name": "8.3 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-14T00:30:54.480Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Slides": {
+      "driveFileId": "1Qw0FTgRiWRpX5XISh8jYazON-1ZsKnbV22Xc8_VEmy0",
+      "name": "8.3 Lesson 10 Slides",
+      "modifiedTime": "2024-08-14T00:30:51.310Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Reference The Identify and": {
+      "driveFileId": "1LyO7KvHgmIHJP4X3th6U249uiuS-sonbhAOyiFF7y_0",
+      "name": "8.3 Lesson 10 Reference The Identify and",
+      "modifiedTime": "2024-08-14T00:30:46.888Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lesson 10 Handout Investigating the Effects": {
+      "driveFileId": "1u1EmICTO6Evsw8twnDjl2HA9rMwzISsODVMangHXHtE",
+      "name": "8.3 Lesson 10 Handout Investigating the Effects",
+      "modifiedTime": "2024-08-14T00:30:43.117Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lección 10 Referencia La estrategia de": {
+      "driveFileId": "1Ny151p6wrbYEd7pXUje2netHVSoV8acurESJ3Uo_8Kw",
+      "name": "8.3 Lección 10 Referencia La estrategia de",
+      "modifiedTime": "2024-08-14T00:30:38.159Z"
+    },
+    "Lesson 10 - 8.3 Forces at a Distance/8.3 Lección 10 Folleto Investigando los efectos": {
+      "driveFileId": "13pjAS_Hmw5YrQbfgMDSawbdE1yo_jaaHknw8YiRaGps",
+      "name": "8.3 Lección 10 Folleto Investigando los efectos",
+      "modifiedTime": "2024-08-14T00:30:34.531Z"
+    },
+    "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Teacher Reference Using Cause-Effect Scaffolds": {
+      "driveFileId": "1Fh_ElKjYKevXlgaRs4OTw2SQCuVKQs_dwGYwxwNu0jo",
+      "name": "8.3 Lesson 1 Teacher Reference Using Cause-Effect Scaffolds",
+      "modifiedTime": "2024-08-14T00:30:28.945Z"
+    },
+    "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Teacher Edition": {
+      "driveFileId": "13pzIJ_P6cEZSc5jUokgGE8BxxuUhwiJFkxCb1OADTw0",
+      "name": "8.3 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:30:26.050Z"
+    },
+    "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1uB6rEoqLIX9cwTe9P9XUo8OPOgyaYv2iVlADTbvK2Hw",
+      "name": "8.3 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:30:21.401Z"
+    },
+    "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Student Procedure": {
+      "driveFileId": "1MiX3bSDc8raMhDnFChKXdf_EuwoNT35IMTnXubY9srQ",
+      "name": "8.3 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-14T00:30:17.147Z"
+    },
+    "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Slides": {
+      "driveFileId": "13767NmmG7YQfuc9w5dtDhrfGxLioN7r54sLIGyrHwTw",
+      "name": "8.3 Lesson 1 Slides",
+      "modifiedTime": "2024-08-14T00:30:11.059Z"
+    },
+    "Lesson 1 - 8.3 Forces at a Distance/8.3 Lesson 1 Handout Transcript Dissecting a": {
+      "driveFileId": "1Y3CJ8VxCRo2znGymPfQMo7glEi0H7h9lWNwuvZ34cx4",
+      "name": "8.3 Lesson 1 Handout Transcript Dissecting a",
+      "modifiedTime": "2024-08-14T00:30:04.815Z"
+    },
+    "Lesson 1 - 8.3 Forces at a Distance/8.3 Lección 1 Folleto Transcripción Disección de": {
+      "driveFileId": "1Qc_6w7stseyREsiJfSK0ykeqZSQmq-JwPnXtYtHVfvI",
+      "name": "8.3 Lección 1 Folleto Transcripción Disección de",
+      "modifiedTime": "2024-08-14T00:30:01.515Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1GlW4Jiq3NN8N51srYI-ZRtQBPn7HPqb6",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-14T00:29:55.596Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1y-OMq0EeLu7PqYE5PxfGlXZGlfNsqOCF",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:29:54.602Z"
+    },
+    "8.3 Forces at a Distance Unit Overview Materials": {
+      "driveFileId": "1jo4h8ZPL4LFsxYS27OH3qons6TDCdvRhmVAaJ5H8xeY",
+      "name": "8.3 Forces at a Distance Unit Overview Materials",
+      "modifiedTime": "2024-08-14T00:29:53.782Z"
+    },
+    "8.3 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1kIMFYZgl-OQ-rBaP8V0A1PrqDqabDfF_",
+      "name": "8.3 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-14T00:29:47.843Z"
+    }
+  }
+}

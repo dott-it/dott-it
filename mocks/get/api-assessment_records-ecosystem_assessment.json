@@ -1,0 +1,94 @@
+[
+  {
+    "id": "record-1",
+    "assessmentId": "ecosystem-assessment",
+    "studentName": "Frank Miller",
+    "studentId": "student-6",
+    "className": "Period A",
+    "teacherName": "Dr. Johnson",
+    "status": "handed_in",
+    "submittedDate": "Jan 20, 2025",
+    "score": null,
+    "maxScore": 10,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": null
+  },
+  {
+    "id": "record-2",
+    "assessmentId": "ecosystem-assessment",
+    "studentName": "Grace Lee",
+    "studentId": "student-7",
+    "className": "Period A",
+    "teacherName": "Dr. Johnson",
+    "status": "ready_for_review",
+    "submittedDate": "Jan 19, 2025",
+    "score": 95,
+    "maxScore": 10,
+    "reviewedDate": "Jan 21, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "strength",
+        "section": "Ecosystem Analysis",
+        "content": "Outstanding analysis of ecosystem interactions and food webs."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-3",
+    "assessmentId": "ecosystem-assessment",
+    "studentName": "Henry Chen",
+    "studentId": "student-8",
+    "className": "Period B",
+    "teacherName": "Dr. Johnson",
+    "status": "handed_in",
+    "submittedDate": "Unknown",
+    "score": null,
+    "maxScore": 10,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": null
+  },
+  {
+    "id": "record-4",
+    "assessmentId": "ecosystem-assessment",
+    "studentName": "Iris Rodriguez",
+    "studentId": "student-9",
+    "className": "Period B",
+    "teacherName": "Dr. Johnson",
+    "status": "sent",
+    "submittedDate": "Jan 18, 2025",
+    "score": 82,
+    "maxScore": 10,
+    "reviewedDate": "Jan 20, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "improvement",
+        "section": "Data Collection",
+        "content": "Good work, but consider including more quantitative data in your observations."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-5",
+    "assessmentId": "ecosystem-assessment",
+    "studentName": "Jack Thompson",
+    "studentId": "student-10",
+    "className": "Period A",
+    "teacherName": "Dr. Johnson",
+    "status": "revision_requested",
+    "submittedDate": "Jan 21, 2025",
+    "score": null,
+    "maxScore": 10,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": "Student's response content here..."
+  }
+]

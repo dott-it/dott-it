@@ -1,0 +1,41 @@
+{
+  "student": {
+    "id": "student-9",
+    "name": "Iris Rodriguez",
+    "email": "iris.rodriguez@school.edu",
+    "status": "sent",
+    "submittedAt": "2025-01-18T10:30:00Z",
+    "score": 91,
+    "classSection": "Period C",
+    "lastActionDate": "2025-01-18T10:30:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": "2025-01-19T14:20:00Z",
+    "grade": 8
+  },
+  "assessment": {
+    "id": "ecosystem-assessment",
+    "title": "Ecosystem Interactions Assessment",
+    "unitName": "Unit 8.6",
+    "subject": "Biology",
+    "grade": 8,
+    "type": "Formative Assessment",
+    "dueDate": "2025-01-20",
+    "status": "live",
+    "totalRecords": 28,
+    "pendingRecords": 12,
+    "description": "Assessment on ecosystem interactions and food webs"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"The ecosystem demonstrates complex predator-prey relationships where the removal of wolves led to a trophic cascade. Without wolves, the deer population exploded, causing overgrazing that affected vegetation, which in turn impacted other herbivores and the entire food web. The reintroduction of wolves restored balance by controlling deer numbers, allowing vegetation to recover and supporting biodiversity.\",\"observationQuestion\":\"I observed that the wolf reintroduction created a ripple effect throughout the ecosystem. As deer populations decreased, vegetation flourished, providing habitat for birds and small mammals. This shows how keystone species like wolves maintain ecosystem health through top-down regulation.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Ecosystem Relationships",
+      "content": "Excellent analysis of predator-prey relationships and energy flow. Your understanding of trophic cascades is very strong."
+    },
+    {
+      "type": "strength",
+      "section": "Scientific Reasoning",
+      "content": "Great use of evidence to support your conclusions about ecosystem balance and biodiversity."
+    }
+  ]
+}

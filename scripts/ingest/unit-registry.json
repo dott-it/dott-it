@@ -1,0 +1,20 @@
+{
+  "6.1": { "grade": 6, "gradeFolder": "Grade 6", "unitFolder": "6.1 Light & Matter" },
+  "6.2": { "grade": 6, "gradeFolder": "Grade 6", "unitFolder": "6.2 Thermal Energy" },
+  "6.3": { "grade": 6, "gradeFolder": "Grade 6", "unitFolder": "6.3 Weather, Climate, & Water Cycling" },
+  "6.4": { "grade": 6, "gradeFolder": "Grade 6", "unitFolder": "6.4 Plate Tectonics & Rock Cycling" },
+  "6.5": { "grade": 6, "gradeFolder": "Grade 6", "unitFolder": "6.5 Natural Hazards" },
+  "6.6": { "grade": 6, "gradeFolder": "Grade 6", "unitFolder": "6.6 Cells & Systems" },
+  "7.1": { "grade": 7, "gradeFolder": "Grade 7", "unitFolder": "7.1 Chemical Reactions & Matter" },
+  "7.2": { "grade": 7, "gradeFolder": "Grade 7", "unitFolder": "7.2 Chemical Reactions & Energy" },
+  "7.3": { "grade": 7, "gradeFolder": "Grade 7", "unitFolder": "7.3 Metabolic Reactions" },
+  "7.4": { "grade": 7, "gradeFolder": "Grade 7", "unitFolder": "7.4 Matter Cycling & Photosynthesis" },
+  "7.5": { "grade": 7, "gradeFolder": "Grade 7", "unitFolder": "7.5 Ecosystem Dynamics & Biodiversity" },
+  "7.6": { "grade": 7, "gradeFolder": "Grade 7", "unitFolder": "7.6 Earth's Resources & Human Impact" },
+  "8.1": { "grade": 8, "gradeFolder": "Grade 8", "unitFolder": "8.1 Contact Forces" },
+  "8.2": { "grade": 8, "gradeFolder": "Grade 8", "unitFolder": "8.2 Sound Waves" },
+  "8.3": { "grade": 8, "gradeFolder": "Grade 8", "unitFolder": "8.3 Forces at a Distance" },
+  "8.4": { "grade": 8, "gradeFolder": "Grade 8", "unitFolder": "8.4 Earth in Space" },
+  "8.5": { "grade": 8, "gradeFolder": "Grade 8", "unitFolder": "8.5 Genetics" },
+  "8.6": { "grade": 8, "gradeFolder": "Grade 8", "unitFolder": "8.6 Natural Selection & Common Ancestry" }
+}

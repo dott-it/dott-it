@@ -1,0 +1,718 @@
+{
+  "unitId": "8.5",
+  "unitTitle": "Genetics",
+  "description": "Students investigate inheritance, variation, and genetic traits. They explore how genetic information is passed from parents to offspring.",
+  "lessonCount": 11,
+  "suggestedPacingDays": 28,
+  "unitOverviewPath": "unit_materials/original/8.5 Genetics Unit Overview Materials.docx",
+  "ingestedFrom": "drive-index reingest (formals) + prior TE extract",
+  "ingestedAt": "2026-08-17T14:49:33.114Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "How do organisms get their differences",
+      "title": "How do organisms get their differences?",
+      "teacherEditionPath": "lesson_1/original/8.5 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "How do extra-big muscles compare to typical ones up close",
+      "title": "How do extra-big muscles compare to typical ones up close?",
+      "teacherEditionPath": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "Lesson 3",
+      "title": "Lesson 3",
+      "teacherEditionPath": null,
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "How can we use our model to explain a different trait variation",
+      "title": "How can we use our model to explain a different trait variation?",
+      "teacherEditionPath": "lesson_10/original/8.5 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "How can we answer the rest of our questions",
+      "title": "How can we answer the rest of our questions?",
+      "teacherEditionPath": "lesson_11/original/8.5 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "Do plants have genetic material",
+      "title": "Do plants have genetic material?",
+      "teacherEditionPath": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "How do plants reproduce",
+      "title": "How do plants reproduce?",
+      "teacherEditionPath": "lesson_13/original/8.5 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "(How) do other organisms reproduce without sperm and eggs",
+      "title": "(How) do other organisms reproduce without sperm and eggs?",
+      "teacherEditionPath": "lesson_14/original/8.5 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "How do we get variations if the genetic information is exactly the same",
+      "title": "How do we get variations if the genetic information is exactly the same?",
+      "teacherEditionPath": "lesson_15/original/8.5 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 16,
+      "shortTitle": "How much of trait variation in a population is controlled by genes or by the environment",
+      "title": "How much of trait variation in a population is controlled by genes or by the environment?",
+      "teacherEditionPath": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 17,
+      "shortTitle": "Why are living things different from one another",
+      "title": "Why are living things different from one another?",
+      "teacherEditionPath": "lesson_17/original/8.5 Lesson 17 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "85-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Model",
+      "shortTitle": "Initial Model",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop and/or use a model to predict what is causing these animals to have extra-big muscles.",
+      "lookListenFor": "What to look and listen for: These initial models provide an opportunity to learn more about the ideas your students bring to this unit, in general and about genetics specifically. Revealing these ideas early can help you be strategic in building from and leveraging student ideas throughout the unit. Look for the following possible causes of these muscle differences:\nexercise\ndiet\npossibly that other animals in that individual’s family might share this feature",
+      "whatToDo": "What to do: If students are struggling to develop their initial models, remind them that we are using this model to predict and describe what we think may be causing this phenomenon, so the goal of this initial model is to get their thinking down on paper, not to have the “correct” answer. If they’re having trouble thinking of ideas for possible causes, ask them to consider any background knowledge they have about muscles (not necessarily for that specific animal). Also, do not worry if students do not bring up the family connection around musculature; there will be other opportunities to raise this possible cause as the unit progresses.\nPause here for now. Say, Thank your last partner for sharing with you, and thanks to you all for your great thinking today. Next time we’re together, we will combine our ideas into our consensus model. I’m looking forward to it!",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/8.5 Lesson 1 Handout Initial Model.docx",
+        "teacherGuide": "lesson_1/original/8.5 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L01-AO1.html"
+      }
+    },
+    {
+      "id": "85-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: Look for “how” o…",
+      "shortTitle": "Look for: What to look and listen for: Look for “how” o…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from careful observation of pictures of animals with different musculature to seek information about what causes these variations in populations.",
+      "lookListenFor": "What to look and listen for: Look for “how” or “why” questions about phenomena that seek to investigate possible causes for not just these extra-big muscles but the variety of features found within living things that are otherwise generally the same.",
+      "whatToDo": "What to do: If a student struggles with sharing, encourage him or her to go public with a question(s) rather than focusing specifically on forming a “how” or “why” question. Make note of any close-ended questions and use navigation time throughout the unit to have your students practice turning these kinds of questions into open-ended questions when they relate to the investigations underway.\nIf students do not ask questions at this point, remind them that questions can be added to the DQB at any point in the unit. We recommend always having sticky notes or index cards on hand to capture students’ evolving questions as the unit goes on.\nSupporting emergent multilinguals: Asking questions in everyday language allows students to share their thinking or experiences even if they do not have the appropriate scientific vocabulary yet. This is helpful for emergent multilingual students because by not requiring scientific words at the onset you do not limit their participation in classroom discourse.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/8.5 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L01-AO2.html"
+      }
+    },
+    {
+      "id": "85-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Lesson 02 · Check-in 2",
+      "shortTitle": "Lesson 02 · Check-in 2",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "The Progress Tracker can be a valuable tool for formative assessment, giving you a clear picture of students’ thinking and allowing you to direct your instruction accordingly. However, Progress Tracker entries should not be scored or graded because doing so would invalidate their purpose--to be a safe space for students to process and record their thoughts honestly and without worry about evaluation.\nSince this T-chart is a loose structure, students can take up a lot of space or a little space for each entry in their Progress Tracker. When students complete their thinking for today, they can draw a line below their work to delineate space for the next time they are instructed to write in their Tracker.✱\nIn the example two-column Progress Tracker row for this lesson, each column has been completed with possible student ideas.\nQuestion\nWhat I figured out in words/pictures\nWhat do muscles look like up close?\nMuscle cells are structured to do the job of contracting and relaxing so the muscles can move.\nMuscle cells are rich in protein.\nActin and myosin are proteins that help the muscles do the job of moving by grabbing onto each other and pulling.\nThis Tracker serves as teacher guidance for what students might say at various points throughout the unit. However, some students may write or draw more and others may say less. It is important that what the students write in the Progress Tracker reflects their own thinking at that particular moment in time.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L02-AO2.html"
+      }
+    },
+    {
+      "id": "85-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: During this disc…",
+      "shortTitle": "Look for: What to look and listen for: During this disc…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.3 Obtain, evaluate, and communicate information about muscles in various media and visual displays, including models of complex protein structures, to describe how the muscle cells of extra-muscled animals compare with those of typical animals.",
+      "lookListenFor": "What to look and listen for: During this discussion, listen for\nstudents who can integrate information to describe differences between the extra-big and typical muscle tissue photos and graphs,\nstudents connecting ideas from the different sources to make general claims about organisms that have typical muscles in comparison to organisms that have extra-big muscles, and\ncomments that synthesize the information from the various media in this lesson to explain the structure and function of muscle cells and proteins.",
+      "whatToDo": "What to do: If students struggle to synthesize information from the data they saw in the gallery walk, leverage the data from the graphs and images that they can use as evidence for how extra-big muscles compare to typical ones. As a class or small group, look back at each individual image set or graph and summarize what it shows. Then work as a class to put those data to use as evidence to support their claims about muscles.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L02-AO3.html"
+      }
+    },
+    {
+      "id": "85-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: See Key for Musc…",
+      "shortTitle": "Look for: What to look and listen for: See Key for Musc…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.1 Obtain, evaluate, and communicate information about muscles in various media and visual displays, including models of complex protein structures, to describe how the function of those proteins depends on their shape.",
+      "lookListenFor": "What to look and listen for: See Key for Muscle Protein Questions for sample student responses. In general, look for responses that articulate how students' understanding improved from initially watching the video animations to watching the video animations a second time after reading printed text with labeled diagrams, specifically in regard to how integrating these different sources of information helped them understand the structure and function of the muscle cells and proteins.",
+      "whatToDo": "What to do: If students are struggling to integrate information from different media, guide them to highlight using different colors their summary statement (in part 2) about how muscles contract. Highlight one color for ideas that came only from watching the video. Highlight with another color for ideas that came only from the article, then highlight in a third color ideas that were found in both. Students should see all three colors in their summary, showing them how they had to integrate multiple sources to deepen their understanding.\nDiscuss proteins, specifically the structure and function of myosin and actin, in a Building Understandings Discussion. Say, When trying to figure out how muscles work, I noticed there was a lot of information about different types of proteins that are important for muscle contraction. Proteins aren’t new to us. We figured out some ideas about proteins in Inside Our Bodies Unit and Maple Syrup Unit. Let’s pause to take stock of what we already know about protein.\nSuggested prompt\nSample student response\nWhat do you know about protein?\nOur body needs protein and gets it from the food we eat. It is in meat and in some plants, too.\nSay, Let’s pause to look at a little more data about protein to help us understand why protein might be so important to our bodies. Display slide F and give students a minute to see the protein data on the slide.\nSuggested prompts\nSample student responses\nFollow-up questions\nWhat are some new ideas about protein we see from looking at this graph?\nOur body needs protein and gets it from the food we eat.\nBoth plants and animals have a lot of protein in them.\nWhy do we need protein?\nTo help us build the muscles in our body.\nWe are not sure … to help our muscles move?\nWe don’t know.\nWhat do proteins do?\nPlants don’t have the same structures as humans, like muscles. Why do they need protein?\nSay, In the Inside Our Bodies Unit we started capturing ideas about what proteins are, but it seems that in this unit we want to know more about what these proteins do inside our body. Let’s add “protein” to our Word Wall with what we know already from the Inside Our Bodies Unit. As we learn more we can update it.\nAdd protein to the Word Wall as seen in the image here.\nSay, Now let’s talk about what we figured out from the video and the article. Display slides G-I of images from the video and How Muscles Contract to support the summary of key ideas in the discussion.✱",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L02-AO1.html"
+      }
+    },
+    {
+      "id": "85-10-checklist-for-obtaining-information",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Checklist for Obtaining Information",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 10 — Checklist for Obtaining Information.",
+      "files": {
+        "studentHandout": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Checklist for Obtaining.docx",
+        "teacherGuide": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Checklist.docx",
+        "googleForm": "https://docs.google.com/forms/d/1CFfrBdkhCQnC5v1-0gFbWUhTIbplvO2GHOatvAMuM3g/viewform",
+        "googleFormTeacherReady": "https://docs.google.com/forms/d/1MGCfRK-s-2MNPHYBxlqUDu4EOL1cOTzRxpb_jsUrQ4s/viewform",
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "85-10-ao-1"
+    },
+    {
+      "id": "85-10-goldfish-assessment",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Goldfish Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 10 — Goldfish Assessment.",
+      "files": {
+        "studentHandout": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Goldfish Assessment.docx",
+        "teacherGuide": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Goldfish.docx",
+        "googleForm": "https://docs.google.com/forms/d/1qL6JKXs_Fu3Qh4yt53cHNJV3Y8pxOvKAAo_ypEl4orY/viewform",
+        "googleFormTeacherReady": null,
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "85-10-ao-1"
+    },
+    {
+      "id": "85-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: See Key for Goldfish Assessment and Key for C…",
+      "shortTitle": "Look for: See Key for Goldfish Assessment and Key for C…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Critically read scientific texts and construct an explanation using models and math to describe how sexual reproduction results in offspring with genetic variation in the context of goldfish coloration.",
+      "lookListenFor": "What to look for: See Key for Goldfish Assessment and Key for Checklist for Obtaining and Evaluating Information from Scientific Text for expected student responses and Rubric for Goldfish Assessment for scoring guidance.",
+      "whatToDo": "What to do: If students need extra support you can choose to allow them to use their science notebook or classroom consensus models to help them with this transfer task. You may also choose to help students extract information from the text in the assessment so they can then apply that information to explain and model the new phenomenon, bearing in mind that students will have future opportunities to demonstrate their use of these practices.\nLook forward to next time’s work before students leave the classroom. Show slide C. Say, We have figured out so much from our investigations. Next time, we will go back to our Driving Question Board to see what questions we can now answer and what we still need to figure out.\nAdditional Lesson 10 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.RST.6-8.4\nDetermine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 6-8 texts and topics.\nStudents need to interpret the results for Dr. Chen’s research study conducted in 1928. They need to understand this information in order to explain on the Goldfish Assessment how the trait of coloration in goldfish is inherited.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/8.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L10-AO1.html"
+      }
+    },
+    {
+      "id": "85-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Listen: students should raise questions that connect co…",
+      "shortTitle": "Listen: students should raise questions that connect co…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Ask questions to refine our model explaining the causes of trait variations we see in other organisms.",
+      "lookListenFor": "What to listen for: Students should raise questions that connect components or interactions in our model to the causes of ranges of trait variations in these other organisms. Examples are listed in the Key Ideas box above.",
+      "whatToDo": "What to do: If it’s helpful, point to each component or interaction on the classroom consensus model and ask, What do you wonder about this part of our model? What additional data or investigations would help you figure out if this part of the model explains the variation you saw in your organism’s trait?",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/8.5 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L11-AO1.html"
+      }
+    },
+    {
+      "id": "85-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Listen: students should be linking back to ideas they l…",
+      "shortTitle": "Listen: students should be linking back to ideas they l…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.1 Plan and carry out an investigation to produce data to serve as the basis for evidence that plants have genetic material inside their cells that can be visualized (scale).",
+      "lookListenFor": "What to listen for: Students should be linking back to ideas they learned about where the genetic material is located in the cell, and then they should use that information to think about how to get the chromosomes out of the nucleus. Students should also surface the idea that cells are small (microscopic), and so the genetic material would also be microscopic. Listen for students bringing up ideas about needing to get genetic material from a lot of cells because if there are many cells, there should also be a lot of genetic material. If there is a lot of a substance, even though individually it would be too small to see, you could see a bunch of it all together.",
+      "whatToDo": "What to do: Students may struggle to get to the idea that they may be able to visualize something really small by having a lot of it. If they are having a hard time coming to the idea that we could see the genetic material if we were able to get it out of a lot of cells, cue students to think of ways this idea of scale presents itself in their lives. For example, ask them if they can see a single water molecule and then encourage them to think about what makes it so they can see the water in their drinking glass. You can replay https://learn.genetics.utah.edu/content/cells/scale/  from Lesson 5 to remind students of the scale of genetic material. An alternative, very similar scale simulation can be found at https://htwins.net/scale2/ .",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L12-AO1.html"
+      }
+    },
+    {
+      "id": "85-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for students' answers to list evidence that the ge…",
+      "shortTitle": "Look for students' answers to list evidence that the ge…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.2 Plan and carry out an investigation to produce data to serve as the basis for evidence that plants have genetic material inside their cells that can be visualized (scale).",
+      "lookListenFor": "What to look for: Look for students' answers to list evidence that the genetic material was isolated from all types of cells (egg cells, muscle cells, and plant cells), but not from any nonliving things (water or protein drink) and that the material in all samples had similar properties. Students should also reason that they know most of what makes up eggs is genetic material (from Lesson 5), so if the substance isolated from all the other samples looks the same it must also be genetic material, further supported by the fact that we did not get this material when we used the protocol on the protein drink. Students' answers should also demonstrate that they must break open and collect genetic material from many cells in order to visualize it because the genetic material from only one cell would be much too small to see.",
+      "whatToDo": "What to do: As students are working on their responses to part 4 of Lab v1: Extracting Genetic Material, circulate to look for students making a claim and connecting evidence they collected from today’s investigation. If students are having trouble listing evidence, ask them to think about what data they collected today and what pieces of that data would serve as evidence to support their ideas. There are two versions of this handout. If there are students with diverse levels of development with regard to using cause and effect you may choose to give some students Lab v1: Extracting Genetic Material and others Lab v2: Extracting Genetic Material which includes more scaffolding. In this case, you may choose to not show slide P to give students using version A a chance to demonstrate the ability to use cause and effect without the extra scaffolds.\nUniversal Design for Learning: Students have been using sentence starters to help them express their ability to use cause and effect to explain how data they collect serve as evidence to support a claim. There are two versions of this handout. If there are students with diverse levels of development with regard to using cause and effect, you may choose to give some students Lab v1: Extracting Genetic Material and others Lab v2: Extracting Genetic Material (which includes more scaffolding). In this case, you may choose to not show slide P to give students who are using version A a chance to express their ability to use cause and effect without the extra scaffolds.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L12-AO2.html"
+      }
+    },
+    {
+      "id": "85-12-ao-3",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Students should populate their Progress Track…",
+      "shortTitle": "Look for: Students should populate their Progress Track…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.3 Plan and carry out an investigation to produce data to serve as the basis for evidence that plants have genetic material inside their cells that can be visualized (scale).",
+      "lookListenFor": "What to look for: Students should populate their Progress Tracker with ideas that demonstrate that evidence collected during the investigation supports the claim that genetic material is also found in plant cells. While every cell has genetic material, cells are very small, so to visualize the genetic material we need to extract it from many cells and separate the genetic material from the other cell parts.",
+      "whatToDo": "What to do: Hold up the genetic material that a group collected to help students connect that this stuff we pulled out is a physical, 3-D structure that we can see without a microscope. One feature about its structure is that it’s really long! So when it clumps together we can see it with our eyes. You can pull up slide F to remind students of the function of the alcohol in the protocol with regard to the clumping.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L12-AO3.html"
+      }
+    },
+    {
+      "id": "85-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Reference Peer Feedback",
+      "shortTitle": "Reference Peer Feedback",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Construct an explanation, using a representation of plant reproductive parts, for how these specialized structures support sexual and asexual reproduction in plants (function).",
+      "lookListenFor": "What to look and listen for: As students are sharing, and giving and receiving feedback on, their explanations, listen for students to make connections between structures and their functions that support sexual reproduction in plants as well as share examples of plant structures involved in asexual reproduction. On the exit tickets that students turn in, look for what they label, draw, and write to explain the process of how plants reproduce, including\nthe importance of flowers in reproduction,\nstructures and functions of flower parts that indicate sexual reproduction is happening,\nthe importance of animal interactions to support plant sexual reproduction,\nthe fact that some plants also reproduce asexually, and\nhumans may use both sexual and asexual reproduction in plants to obtain plants with desirable traits.\nSee details on the Key for Exit Ticket.",
+      "whatToDo": "What to do: In conversations, if students struggle to make the structure-function connection for flower parts or to sequence the process in their explanations, remind them of what they may already know about human reproduction and what we have learned about cattle reproduction, specifically the importance of eggs and sperm in sexual reproduction.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_13/original/8.5 Lesson 13 Handout Reference Peer Feedback.docx",
+        "teacherGuide": "lesson_13/original/8.5 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L13-AO1.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "85-14-self-assessment-for-obtaining-evaluating-and-communicating-information",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Self-assessment for Obtaining, Evaluating, and Communicating Information",
+      "source": "formal-assessment",
+      "assessmentType": "lesson-reflection",
+      "opportunityType": "named-package",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 14 — Self-assessment for Obtaining, Evaluating, and Communicating Information.",
+      "files": {
+        "studentHandout": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Assessment Self-assessment for Obtaining,.docx",
+        "teacherGuide": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/1kKc-6lI0b0h5wWf5tW65etXN0Xge_LJERmZ1Jxo0kW4/viewform",
+        "googleFormTeacherReady": "https://docs.google.com/forms/d/1Q3QeYWnFpjQnVOb0dy-PMPToshkw9W138JPNPJXE5PA/viewform",
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "85-14-ao-1"
+    },
+    {
+      "id": "85-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: Look for student…",
+      "shortTitle": "Look for: What to look and listen for: Look for student…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Obtain, evaluate, and communicate information about how organisms reproduce asexually and transfer their genetic information to their offspring, which results in offspring with identical genetic information.",
+      "lookListenFor": "What to look and listen for: Look for students who are using reliable websites and finding just key ideas about asexual reproduction (not getting caught up in the other details of that organism or more-complex mechanisms). Listen for students who are able to communicate effectively: be concise and clear when presenting organized, relevant information.",
+      "whatToDo": "What to do: If you anticipate that students will struggle to find appropriate, reliable sources of information, you might select a specific website or two for them to use rather than asking them to do a general internet search. If students are struggling to find relevant information about their organism, you might suggest they print out their article and use a highlighter or other way of marking up the text as they read. A group mate or teacher could also read the text aloud for students who are struggling to make sense of the text. In order to scaffold students who might be nervous about sharing, be sure their slide is well written. A template is provided in this lesson’s slides if that would be helpful to share with students as a starting point. If you anticipate that students may struggle to present their information clearly, offer an opportunity for a practice run through the presentation before sharing in front of the class. If you would like to make sure that all students get a chance to share with a group (not as big as the whole class), set up a rotation where one group member stays at the computer to present the group’s slide while other group members go around to learn from their classmates. Switch often enough that all students have a turn to tell about the slide.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/8.5 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L14-AO1.html"
+      }
+    },
+    {
+      "id": "85-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: Flamingo color is influenced by the environme…",
+      "shortTitle": "Look for: Flamingo color is influenced by the environme…",
+      "peCode": "15.A",
+      "buildingTowards": "Building towards: 15.A Construct an explanation using a model to explain the influences of environmental and genetic factors on trait variation.",
+      "lookListenFor": "What to look and listen for: While students work on Explaining Environmental Effects and share their explanation with their partner, listen for the following ideas:\nFlamingo color is influenced by the environmental factor of the foods they eat: eating more algae results in deeper pink-orange color and eating more shrimp results in lighter pink-orange color.\nApple color is influenced by genetic and environmental factors: temperature and sun exposure to a greater extent and stressors such as lack of water or nutrients and insect activity to a lesser extent.\nAs you review the models students use along with their written explanations, look for arrows of varying size and/or words that indicate how much effect some factors have relative to others.",
+      "whatToDo": "What to do: If students need help using a model to explain, walk them through an example using the model the class constructed to explain the causes of planaria coloration. If students need support making sense of the texts before constructing their explanation, walk through developing a model with them first. Refer to the model of the influences on planaria color and have students represent the components of a similar model for flamingos (darker to lighter pink) or apples (more green to more red). They can then find the causes of those color differences in the text and write those labels on the model before they draw the arrows representing the relative amounts of influence on the variation. After developing their model, have students use it to explain the causes of the variation. Consider having students explain orally rather than in writing so you or a partner can prompt them as needed.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/8.5 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L15-AO1.html"
+      }
+    },
+    {
+      "id": "85-16-ao-2",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: Students should…",
+      "shortTitle": "Look for: What to look and listen for: Students should…",
+      "peCode": "16.B",
+      "buildingTowards": "Building towards: 16.B.1 Develop and use models to show multiple causes of variation within a trait.",
+      "lookListenFor": "What to look and listen for: Students should be able to draw their own model on Arm Span Reading and Modeling, following the same different-sized- arrow convention, to show the approximate relative amounts of genetic and environmental causes of arm span variations.",
+      "whatToDo": "What to do: If students are struggling to draw different-sized arrows to represent the different causes, ask if they would be more comfortable with another indicator of the relative impact of each factor; maybe the size or thickness of the lettering they’re using, or heavy underlines or boxes around the more- impactful factor(s) would make more sense to them.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L16-AO2.html"
+      }
+    },
+    {
+      "id": "85-16-ao-3",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: When suggesting…",
+      "shortTitle": "Look for: What to look and listen for: When suggesting…",
+      "peCode": "16.B",
+      "buildingTowards": "Building towards: 16.B.2 Develop and use models to show multiple causes of variation within a trait.",
+      "lookListenFor": "What to look and listen for: When suggesting revisions to the model, students should point out the need to show multiple causes of both the heavily muscled and typically muscled phenotype in cattle. These causes do not carry the same weight of influence on the different phenotypes, so students should suggest a way (such as larger or smaller arrows) to represent these different causes.",
+      "whatToDo": "What to do: Refer students to previous versions of the classroom consensus model to see how we have used different-sized arrows to communicate different weights of influence.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L16-AO3.html"
+      }
+    },
+    {
+      "id": "85-16-ao-1",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: While students a…",
+      "shortTitle": "Look for: What to look and listen for: While students a…",
+      "peCode": "16.A",
+      "buildingTowards": "Building towards: 16.A Analyze and interpret patterns in data to provide evidence that a combination of genes and environment is causing the variation we see in traits.",
+      "lookListenFor": "What to look and listen for: While students are using the Wheat Kernel Environmental Factors Investigation data sets, look for students to be able to determine that the results do not match what they predicted on Data Collection: Wheat Kernels (for either an environmental or genetic cause) based on what they know so far.",
+      "whatToDo": "What to do:\nIf you anticipate that a student may struggle to understand how to read the graphs in this lesson, you may choose to walk through the first pair of Identify and Interpret statements with all students since we haven’t used this strategy yet in this unit.\nWhile students are working with Wheat Kernel Environmental Factors Investigation, take note of students who might be having trouble finding patterns or associating them with the other causes we’ve seen for this kind of range of variation. As needed, refer students to the Progress Tracker section of their science notebook to look for examples of similar patterns and their notes about what caused those.\nMake sense of the investigation results. Display slide G. Bring students together to share ideas as a class using prompts such as the following.\nSuggested prompt\nSample student response\nWhat did you notice about the data set?\nWhen a plant with the deepest red kernels was crossed with another plant with the deepest red kernels, all the offspring plants had kernels that were the deepest red color.\nWhen plants with cream-colored kernels were crossed with plants with the same kernels, all the offspring plants had cream-colored kernels.\nWhen a deepest red kernel plant was crossed with a cream-colored kernel plant, the offspring were plants that had medium-red kernels.\nDoes this support the idea that the environment influences this trait or the idea that the alleles influence this trait?\nIt seems like the alleles are influencing the trait because when the environment changed, we did not really see a change in the trait distribution.\nPlants with kernels that are deep red, medium red, or cream colored remind me of the pattern we saw with the three kinds of cattle muscles, and that trait was really heavily influenced by the alleles for the myostatin protein, so it looks like alleles are influencing these colors too.\nMake a prediction based on your claim. Display slide H. Say, We saw that when we crossed plants that have cream-colored kernels with plants that have the deepest red kernels, the resulting offspring were mostly all plants that had medium-red kernels.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L16-AO1.html"
+      }
+    },
+    {
+      "id": "85-17-redwoods-assessment",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "title": "Redwoods Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "summative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": true,
+      "description": "OpenSciEd Unit 8.5 Lesson 17 — Redwoods Assessment.",
+      "files": {
+        "studentHandout": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Assessment Redwoods Assessment.docx",
+        "teacherGuide": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Teacher Edition.docx",
+        "answerKey": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Answer Key Key for Redwoods.docx",
+        "googleForm": "https://docs.google.com/forms/d/1XkRV0y_aUfmxbmfUblLp0qBvaxIpei_rLaV0atVEPAU/viewform",
+        "googleFormTeacherReady": "https://docs.google.com/forms/d/1RWTWDDxElyXEbn85Wf96x9sdzoA-nNs4Jr_TGQIA5Wo/viewform",
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "85-17-ao-2"
+    },
+    {
+      "id": "85-17-ao-2",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: and listen for: See detailed responses in Key…",
+      "shortTitle": "Look for: and listen for: See detailed responses in Key…",
+      "peCode": "17.B",
+      "buildingTowards": "Building towards: 17.B Construct an explanation about how environmental and genetic factors influence the growth of organisms and how organisms reproduce, either sexually or asexually, and transfer their genetic information to their offspring.",
+      "lookListenFor": "What to look for and listen for: See detailed responses in Key for Redwoods Assessment and scoring guidance in Rubric for Redwoods Assessment.",
+      "whatToDo": "What to do: If students need extra support you can choose to allow them to use their science notebook or classroom consensus models to help them on this task. Since the phenomenon of height variation and reproduction in redwood trees is new, they will not find exact answers to the assessment in their notes. You can also help students refer to the information the class discussed in this lesson’s slides, which is summarized for students at the beginning of the assessment.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/8.5 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L17-AO2.html"
+      }
+    },
+    {
+      "id": "85-17-ao-1",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: Listen for stude…",
+      "shortTitle": "Look for: What to look and listen for: Listen for stude…",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A Ask questions to clarify and refine our model explaining what causes living things to be different from one another.",
+      "lookListenFor": "What to look and listen for: Listen for students asking questions to clarify their models and explanations for how living things are different from one another. When working through to answer questions on the DQB, new questions may arise that help clarify the models students have been developing for how genetics and environment affect trait variation. Take the time to work through these new questions as it will help students prepare to demonstrate understanding in the assessment on day 2.",
+      "whatToDo": "What to do: If students struggle as you are discussing the various answers to DQB questions, support them with questions such as the following:\nDo you have any questions about what _______ just said?\nWhat questions do you have that can help us make our model more clear to everyone?\nYou can also give students question stems such as these:\nHow does X part of our model affect Y?\nWhat evidence can you present for ___?\nWhy is _____ significant?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS3-1",
+        "MS-LS3-2",
+        "MS-LS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.5 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/8.5 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-5/L17-AO1.html"
+      }
+    }
+  ]
+}

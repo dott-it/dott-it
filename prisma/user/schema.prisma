@@ -1,0 +1,105 @@
+// Separate Prisma schema for the User database
+
+generator userClient {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
+  // Generate the client to the project root node_modules
+  output   = "../../node_modules/@prisma/user-client"
+}
+
+datasource userDb {
+  provider = "postgresql"
+  url      = env("USER_DATABASE")
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @userDb.Text
+  access_token      String? @userDb.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @userDb.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Tenant {
+  id      String   @id @default(cuid())
+  name    String
+  slug    String   @unique
+  domains String[]
+  logo    String?
+  users   User[]
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  passwordHash  String?
+  tenantId      String?
+  active        Boolean   @default(true)
+  tenant        Tenant?   @relation(fields: [tenantId], references: [id])
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  idpUserId     String?
+  role          String?
+  accounts      Account[]
+  sessions      Session[]
+  Learner       Learner[]
+  Teacher       Teacher?
+
+  @@index([tenantId])
+}
+
+model Learner {
+  id         String   @id @default(cuid())
+  tenantId   String
+  userId     String?  @unique
+  name       String
+  email      String?
+  enrolledAt DateTime @default(now())
+  status     String   @default("active") // 'active', 'inactive', 'graduated', etc.
+  teacherId  String
+  User       User?    @relation(fields: [userId], references: [id])
+  Teacher    Teacher  @relation(fields: [teacherId], references: [id])
+
+  @@unique([email])
+  @@index([teacherId])
+  @@index([tenantId])
+  @@index([userId])
+}
+
+model Teacher {
+  id              String    @id @default(cuid())
+  userId          String?   @unique
+  user            User?     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  firstName       String
+  lastName        String
+  email           String?
+  students        Learner[]
+  teacherNickname String? // Teacher's preferred display name (e.g., "Ms. Johnson")
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  tenantId        String
+
+  @@index([userId])
+}

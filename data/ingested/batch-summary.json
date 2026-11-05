@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-07-01T13:38:50.899Z",
+  "results": [
+    {
+      "unitCode": "6.1",
+      "status": "ok",
+      "lessons": 8,
+      "te": 20,
+      "formal": 3,
+      "total": 23
+    },
+    {
+      "unitCode": "6.2",
+      "status": "ok",
+      "lessons": 18,
+      "te": 48,
+      "formal": 7,
+      "total": 55
+    },
+    {
+      "unitCode": "6.3",
+      "status": "ok",
+      "lessons": 20,
+      "te": 52,
+      "formal": 5,
+      "total": 57
+    },
+    {
+      "unitCode": "6.4",
+      "status": "ok",
+      "lessons": 14,
+      "te": 29,
+      "formal": 3,
+      "total": 32
+    },
+    {
+      "unitCode": "6.5",
+      "status": "ok",
+      "lessons": 10,
+      "te": 23,
+      "formal": 7,
+      "total": 30
+    },
+    {
+      "unitCode": "6.6",
+      "status": "ok",
+      "lessons": 14,
+      "te": 29,
+      "formal": 6,
+      "total": 35
+    },
+    {
+      "unitCode": "7.1",
+      "status": "ok",
+      "lessons": 14,
+      "te": 35,
+      "formal": 8,
+      "total": 43
+    },
+    {
+      "unitCode": "7.2",
+      "status": "ok",
+      "lessons": 10,
+      "te": 30,
+      "formal": 7,
+      "total": 37
+    },
+    {
+      "unitCode": "7.3",
+      "status": "ok",
+      "lessons": 15,
+      "te": 42,
+      "formal": 10,
+      "total": 52
+    },
+    {
+      "unitCode": "7.4",
+      "status": "ok",
+      "lessons": 15,
+      "te": 39,
+      "formal": 8,
+      "total": 47
+    },
+    {
+      "unitCode": "7.5",
+      "status": "ok",
+      "lessons": 11,
+      "te": 18,
+      "formal": 4,
+      "total": 22
+    },
+    {
+      "unitCode": "7.6",
+      "status": "ok",
+      "lessons": 18,
+      "te": 36,
+      "formal": 5,
+      "total": 41
+    },
+    {
+      "unitCode": "8.1",
+      "status": "skipped"
+    },
+    {
+      "unitCode": "8.2",
+      "status": "ok",
+      "lessons": 14,
+      "te": 29,
+      "formal": 10,
+      "total": 39
+    },
+    {
+      "unitCode": "8.3",
+      "status": "ok",
+      "lessons": 12,
+      "te": 33,
+      "formal": 2,
+      "total": 35
+    },
+    {
+      "unitCode": "8.4",
+      "status": "ok",
+      "lessons": 17,
+      "te": 36,
+      "formal": 5,
+      "total": 41
+    },
+    {
+      "unitCode": "8.5",
+      "status": "ok",
+      "lessons": 11,
+      "te": 18,
+      "formal": 4,
+      "total": 22
+    },
+    {
+      "unitCode": "8.6",
+      "status": "ok",
+      "lessons": 13,
+      "te": 38,
+      "formal": 5,
+      "total": 43
+    }
+  ]
+}

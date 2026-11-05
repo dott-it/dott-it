@@ -1,0 +1,25 @@
+{
+  "id": "102310",
+  "title": "8.6 Lesson Green Anole Lizard Explanation",
+  "unitName": "Biology",
+  "unitCode": "Grade 8.n",
+  "subject": "Middle School",
+  "grade": 8,
+  "gradeName": "Grade 8",
+  "type": "Formative",
+  "dueDate": "2025-01-22T23:59:59.000Z",
+  "startDate": "2025-01-15T00:00:00.000Z",
+  "closeDate": "2025-01-22T23:59:59.000Z",
+  "status": "live",
+  "pendingRecords": 2,
+  "totalRecords": 5,
+  "studentCount": 5,
+  "submissionStatus": {
+    "handedIn": 1,
+    "readyForReview": 2,
+    "inProgress": 2,
+    "sent": 1
+  },
+  "description": "Assessment on natural selection using green anole lizard data",
+  "maxScore": 15
+}

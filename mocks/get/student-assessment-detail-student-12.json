@@ -1,0 +1,91 @@
+{
+  "student": {
+    "id": "student-12",
+    "name": "Liam O'Connor",
+    "email": "liam.oconnor@school.edu",
+    "status": "ready_for_review",
+    "submittedAt": "2025-01-19T15:20:00Z",
+    "score": 90,
+    "classSection": "Period A",
+    "lastActionDate": "2025-01-21T09:30:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": "2025-01-21T09:30:00Z",
+    "grade": 7
+  },
+  "assessment": {
+    "id": "water-cycle-assessment",
+    "title": "Water Cycle Assessment",
+    "unitName": "Unit 4: Water Cycle",
+    "subject": "Earth Science",
+    "grade": 7,
+    "type": "Formative Assessment",
+    "dueDate": "2025-01-22",
+    "status": "live",
+    "totalRecords": 5,
+    "pendingRecords": 2,
+    "description": "Assessment on the water cycle and its processes"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"The water cycle is a continuous process that moves water through different states and locations on Earth. It involves several key processes: evaporation (liquid to gas), condensation (gas to liquid), precipitation (water falling from clouds), and collection (water gathering in oceans, lakes, etc.). Solar energy drives evaporation, while cooling causes condensation. The cycle is essential for distributing fresh water across the planet and maintaining Earth's climate.\",\"observationQuestion\":\"I conducted a week-long weather observation project and recorded daily precipitation, temperature, and humidity levels. I noticed that on days with high humidity (above 80%), we often had rain or fog the next day. I also observed that after heavy rain, the air felt fresher and the temperature was slightly cooler. This helped me understand how the water cycle affects local weather patterns.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Understanding",
+      "content": "Excellent grasp of the fundamental concepts in this subject area."
+    },
+    {
+      "type": "strength",
+      "section": "Analysis",
+      "content": "Strong analytical thinking demonstrated in your response."
+    },
+    {
+      "type": "strength",
+      "section": "Communication",
+      "content": "Clear and well-structured explanation of your ideas and observations."
+    },
+    {
+      "type": "strength",
+      "section": "Critical Thinking",
+      "content": "Demonstrates good reasoning skills and logical connections between concepts."
+    },
+    {
+      "type": "strength",
+      "section": "Process Understanding",
+      "content": "Clear understanding of the water cycle processes and their importance."
+    },
+    {
+      "type": "strength",
+      "section": "Environmental Awareness",
+      "content": "Good recognition of environmental factors and their impacts."
+    },
+    {
+      "type": "improvement",
+      "section": "Examples",
+      "content": "Consider providing more specific examples to strengthen your arguments."
+    },
+    {
+      "type": "improvement",
+      "section": "Depth",
+      "content": "Expand on the practical applications and real-world implications."
+    },
+    {
+      "type": "improvement",
+      "section": "Evidence",
+      "content": "Include more supporting evidence and data to back up your claims."
+    },
+    {
+      "type": "improvement",
+      "section": "Connections",
+      "content": "Make stronger connections between different concepts and ideas presented."
+    },
+    {
+      "type": "improvement",
+      "section": "Global Scale",
+      "content": "Consider discussing how these processes operate on a global scale."
+    },
+    {
+      "type": "improvement",
+      "section": "Climate Impact",
+      "content": "Explore how human activities affect these natural processes."
+    }
+  ]
+}

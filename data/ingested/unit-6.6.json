@@ -1,0 +1,1063 @@
+{
+  "unitId": "6.6",
+  "unitTitle": "Cells & Systems",
+  "description": "Students investigate how cells and body systems work together to maintain life and respond to injury. They explore the relationship between structure and function in living systems.",
+  "lessonCount": 14,
+  "suggestedPacingDays": 25,
+  "unitOverviewPath": "unit_materials/original/6.6 Cells & Systems Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/6/6.6",
+  "ingestedAt": "2026-07-01T13:38:39.349Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "What happened in the student’s foot so they could walk again",
+      "title": "What happened in the student’s foot so they could walk again?",
+      "teacherEditionPath": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What do our bones, skin, and muscles do for us",
+      "title": "What do our bones, skin, and muscles do for us?",
+      "teacherEditionPath": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "How can medical images and diagrams help us figure out more about the structures in our body",
+      "title": "How can medical images and diagrams help us figure out more about the structures in our body?",
+      "teacherEditionPath": "lesson_3/original/6.6 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "Why is there blood in all of these places in the body",
+      "title": "Why is there blood in all of these places in the body?",
+      "teacherEditionPath": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "What do nerves do, and why are they in different parts of the body",
+      "title": "What do nerves do, and why are they in different parts of the body?",
+      "teacherEditionPath": "lesson_5/original/6.6 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "What will we see if we look at skin, bone, and muscle with the microscope, too",
+      "title": "What will we see if we look at skin, bone, and muscle with the microscope, too?",
+      "teacherEditionPath": "lesson_6/original/6.6 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "Are all things made of cells",
+      "title": "Are all things made of cells?",
+      "teacherEditionPath": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "What happened as the skin on top of the foot healed",
+      "title": "What happened as the skin on top of the foot healed?",
+      "teacherEditionPath": "lesson_8/original/6.6 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "What is happening at the site of an injury to fill the gap",
+      "title": "What is happening at the site of an injury to fill the gap?",
+      "teacherEditionPath": "lesson_9/original/6.6 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "What do cells need to grow and make more of themselves",
+      "title": "What do cells need to grow and make more of themselves?",
+      "teacherEditionPath": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "How do cells get what they need to grow",
+      "title": "How do cells get what they need to grow?",
+      "teacherEditionPath": "lesson_11/original/6.6 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "How do the structures and systems in the body work together to heal the injury",
+      "title": "How do the structures and systems in the body work together to heal the injury?",
+      "teacherEditionPath": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "How is the process of growing similar to healing",
+      "title": "How is the process of growing similar to healing?",
+      "teacherEditionPath": "lesson_13/original/6.6 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "How can shifting our perceptions of ability and disability allow us to be more thoughtful about how we make our environments more accessible",
+      "title": "How can shifting our perceptions of ability and disability allow us to be more thoughtful about how we make our environments more accessible?",
+      "teacherEditionPath": "lesson_14/original/6.6 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 3
+    }
+  ],
+  "assessments": [
+    {
+      "id": "66-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Healing Initial Model",
+      "shortTitle": "Healing Initial Model",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Develop an initial model of the healing process within and between multiple interacting systems and subsystems that restores the foot’s function.",
+      "lookListenFor": "What to look for/listen for: Students’ first models on Healing Initial Model are more representative of what they see happening with the foot at a macroscopic level. As the handout suggests using close-up diagrams, and because students have practiced using them in previous 6th-grade units, you may notice some students adding these diagrams to their models to show what is happening under the skin (for example, that parts of the bone and muscle may no longer be connected underneath the broken skin). However, it’s not necessary for students to include cells or microscopic interactions at this time. Later in the unit, they investigate the structure and function of each part at the cellular level. Also, they are likely to suggest using a microscope to examine the injury at the microscopic level later in this lesson, during the Generate Ideas for Future Investigations activity. We want to be sure that students motivate the need to explore this phenomenon at different scales.",
+      "whatToDo": "What to do: If students need support in choosing what to put in their models, refer them back to the Healing Timeline we developed as a class. Ask what they think might be happening with each part of the foot between when the injury happened until the student could walk again. Ask what was different in the parts of the foot right after the injury and after it was healed.\nStudents might include parts of the foot without representing how the parts interact or work together. If you notice this, remind them that we can also think about what’s going on inside the foot and underneath the skin because x-rays allow us to see some internal structures. Prompt them to include how the parts were interacting during the events in the Healing Timeline, and what we might see if we could look inside the foot at these interactions.\nHealing Initial Model handouts can be collected (at the end of the class) and used as a formative pre-assessment. They can help identify what science ideas students are bringing into this unit and where students are in their development of the practice of modeling.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/6.6 Lesson 1 Handout Healing Initial Model.docx",
+        "teacherGuide": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L01-AO2.html"
+      }
+    },
+    {
+      "id": "66-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Healing Initial Model",
+      "shortTitle": "Healing Initial Model",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Develop an initial model of the healing process within and between multiple interacting systems and subsystems that restores the foot’s function.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: If students need support in choosing what to put in their models, refer them back to the Healing Timeline we developed as a class. Ask what they think might be happening with each part of the foot between when the injury happened until the student could walk again. Ask what was different in the parts of the foot right after the injury and after it was healed.\nStudents might include parts of the foot without representing how the parts interact or work together. If you notice this, remind them that we can also think about what’s going on inside the foot and underneath the skin because x-rays allow us to see some internal structures. Prompt them to include how the parts were interacting during the events in the Healing Timeline, and what we might see if we could look inside the foot at these interactions.\nHealing Initial Model handouts can be collected (at the end of the class) and used as a formative pre-assessment. They can help identify what science ideas students are bringing into this unit and where students are in their development of the practice of modeling.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/6.6 Lesson 1 Handout Healing Initial Model.docx",
+        "teacherGuide": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L01-AO3.html"
+      }
+    },
+    {
+      "id": "66-1-ao-4",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: When students generate questions…",
+      "shortTitle": "Look for: /listen for: When students generate questions…",
+      "peCode": "1.C",
+      "buildingTowards": "Building towards: 1.C Ask questions that arise from observations of injuries to multiple subsystems resulting in loss of a particular body function to the larger complex system of the foot.",
+      "lookListenFor": "What to look for/listen for: When students generate questions on sticky notes, look to see that they are including questions about multiple parts of the foot or body working together whether to function or to heal. You should also notice that students are asking questions about specific events from the Notice and Wonder–Post Operation poster, the How Does the Foot Heal over Time? poster, and/or the Related Phenomena poster. You may also want to look through student notebooks to see their individual ideas for future investigations to pursue.",
+      "whatToDo": "What to do: It is important that all questions posed be placed on the DQB, whether open-ended or close-ended. As students ask questions, have them reflect on any related phenomena about other living things or important events or evidence in the How Does the Foot Heal over Time? poster that have few or no corresponding questions posted on the DQB. Prompt students to generate more questions in this space so we are motivated to investigate several subsystems of the body and other living things.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L01-AO4.html"
+      }
+    },
+    {
+      "id": "66-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: During the discussio…",
+      "shortTitle": "Look for: What to look/listen for: During the discussio…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Obtain information from images and doctor’s notes to identify patterns between the relationship of important events (effect) and the evidence of interacting subsystems healing (cause).",
+      "lookListenFor": "What to look/listen for: During the discussion, listen for students who are using doctor’s notes and images, such as stitches being removed or the cast coming off, to describe evidence of part of the system healing.",
+      "whatToDo": "What to do: If students struggle to identify events or evidence, ask them to compare the Emergency Room Report with the Post-Operation Report and the Recovery Reports. Ask what was different about the foot, what was done to the foot, or what activities the injured student was able to do over time. Prompt them to find evidence that healing was happening in the body and to describe what happened that led to the milestone.\nThe term healed can have a loaded meaning in the English language. In this unit, we use it to refer to the biological process that takes place in the body in response to an injury. Sometimes injuries result in permanent disability after the body’s biological healing process has concluded. A person who becomes disabled as a result of an injury is no less healed than a person whose body fully returns to prior functionality.\nSupporting Emergent Multilingual Students: When developing new vocabulary, strategies that may benefit emergent multilingual learners are to use student-friendly definitions, make connections to cognate words when possible, and include a visual representation of the word. Use these strategies throughout the unit for both “words we earn” and “words we encounter.”\nSupporting Emergent Multilingual Students: When students are tasked with expressing their ideas, allow them to do so through linguistic (oral and written language) and nonlinguistic (drawings, graphs, symbols, gestures) modes. For example, for a student who is having trouble articulating evidence from the images and doctor’s report, you might suggest sketching a picture on the handout. Providing emerging multilingual students with such opportunities allows them to use all their resources to express meaning.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L01-AO1.html"
+      }
+    },
+    {
+      "id": "66-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Analyze and interpret data to highlight the interacti…",
+      "shortTitle": "Analyze and interpret data to highlight the interacti…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Analyze and interpret data to highlight the interactions between subsystems (skin, muscle, bone) within the larger system (foot or wing).",
+      "lookListenFor": "",
+      "whatToDo": "What to do: The class watches this chicken wing dissection to look more closely at the different parts. Some students may struggle with recording observations while watching. Make https://youtu.be/Sf9lI8K5GqE available to students to rewatch on their own outside of class so they have enough time to make sense of how the different parts look, move, and interact. Another option, if the technology is available, is to watch the video as a class once and then have students play it again in small groups on devices to make their observations. As an alternative to the video, if you have the time and materials, use Teacher Instructions for Chicken Wing Dissections to conduct a live demonstration for students to gather around and make their observations.\nSay, Often in science as we try to figure things out, we use models or representations to help us explain a phenomenon. Sometimes those models look different from the original phenomenon. Here we used a chicken wing to figure out how the different parts in our foot work together for it to function. Would you say this dissection of a chicken wing is an appropriate and useful model for this purpose?\nStudent responses should be something like these:\nThis model is mostly helpful. A chicken wing is different from a human foot, but because a chicken wing and human foot both have muscles, skin, and bones, we can figure out a lot about how these parts work together in the wing, and we think it is probably pretty similar in the foot from Lesson 1.\nWe saw that the human arm and the chicken wing have similar parts (or structures), and the foot had muscles and bones that were injured, so it seems like there might be similar movement or function in the foot.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L02-AO2.html"
+      }
+    },
+    {
+      "id": "66-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: At the beginning of day 2, the c…",
+      "shortTitle": "Look for: /listen for: At the beginning of day 2, the c…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Revise the experimental design to predict the change in function of the chicken wing (effect) under various conditions (cause) and conduct the investigation.",
+      "lookListenFor": "What to look for/listen for: At the beginning of day 2, the class brainstorms ideas for how to revise the dissection to figure out more about how the injury in Lesson 1 affected different parts of the student’s foot and prevented him from being able to walk. Look for the verbal sharing of ideas around similarly injuring the wing, such as dropping a heavy weight on it.\nAt the beginning of day 2, students record predictions in their notebooks about how an injury to one part of the wing will affect its function. Students share those predictions with a partner and then the class. Look and listen for ideas that include a change in function as a result of injury to a part, as in the following examples:\nIf the muscles are broken, the wing might not be able to move at all.\nWhen the bone is broken, the muscles can still move, but not in the same way.\nIf only the skin is cut, the wing will probably still be able to move, and it may move even more, because the skin would be less able to hold it back.",
+      "whatToDo": "What to do: If students struggle to come up with ideas around mimicking an injury in a manner similar to how the foot was injured, ask them to revisit Mapping the Chicken Wing to the Human Foot and think of additional ways that the chicken wing in the video differs from the foot. Ask them to recall what happened to the foot that caused the student’s inability to walk.\nLook at students’ notebooks as they record their predictions. Listen to partner pairs as they share. If students struggle to make cogent predictions, ask them questions such as these:\nIf the bone is broken in the wing, like the bone was broken in the foot, what do you think will be similar or different about the wing’s ability to move?\nIf the muscle is impacted and torn somehow, do you think the wing will be able to move in the same way? Why?\nSupporting Universal Design for Learning: The goal in this moment is two-fold: (1) to support engagement by optimizing choice of how students would proceed with the investigation and (2) to allow them to express their ideas using multiple modalities. This supports student ownership of their learning by giving them choice, access, and control in navigating their own understanding around the science ideas. All versions of responses can productively contribute to the next day’s discussion.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L02-AO3.html"
+      }
+    },
+    {
+      "id": "66-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: The skin on the foot stretches and moves as t…",
+      "shortTitle": "Look for: The skin on the foot stretches and moves as t…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Analyze and interpret data to highlight the interactions between subsystems (skin, muscle, bone) within the larger system (foot or wing).",
+      "lookListenFor": "What to look for/listen for: Students analyze a demonstration dissection of a chicken wing to make sense of how the different parts of the wing–specifically, the skin, muscles, and bones–work together for the wing to move. Their observations focus on visible interactions between these three parts and how they work together to support the wing’s function. Using their recorded observations, students will compare chicken parts with analogous human parts to make inferences about how the parts within the foot look and work together to move. Look/listen for these ideas:\nThe skin on the foot stretches and moves as the foot moves up and down or back and forth, like the skin moved and stretched as the wing moved.\nThe skin is attached to the muscle below it, which allows the skin to move when the muscles move.\nWhen the researcher pulls on the muscles in the upper part (upper arm) of the wing, the lower part (forearm) of the wing moves. For that to happen, the muscles in the upper part must be connected to the lower part.\nThe muscles in the wing must be attached to the bones, because when the muscles are moved, the bones that are attached to them move also.\nWhen the bicep on the upper arm, or wing, is pulled one way, the tricep on the opposite side of the upper arm, or wing, straightens out. This makes the wing able to flex and extend.\nAlthough we cannot see them, we think the muscles and bones in the human foot work in similar ways to the chicken wing, because when the muscles move, the bones in the foot also move.",
+      "whatToDo": "What to do: The class watches this chicken wing dissection to look more closely at the different parts. Some students may struggle with recording observations while watching. Make https://youtu.be/Sf9lI8K5GqE available to students to rewatch on their own outside of class so they have enough time to make sense of how the different parts look, move, and interact. Another option, if the technology is available, is to watch the video as a class once and then have students play it again in small groups on devices to make their observations. As an alternative to the video, if you have the time and materials, use Teacher Instructions for Chicken Wing Dissections to conduct a live demonstration for students to gather around and make their observations.\nSay, Often in science as we try to figure things out, we use models or representations to help us explain a phenomenon. Sometimes those models look different from the original phenomenon. Here we used a chicken wing to figure out how the different parts in our foot work together for it to function. Would you say this dissection of a chicken wing is an appropriate and useful model for this purpose?\nStudent responses should be something like these:\nThis model is mostly helpful. A chicken wing is different from a human foot, but because a chicken wing and human foot both have muscles, skin, and bones, we can figure out a lot about how these parts work together in the wing, and we think it is probably pretty similar in the foot from Lesson 1.\nWe saw that the human arm and the chicken wing have similar parts (or structures), and the foot had muscles and bones that were injured, so it seems like there might be similar movement or function in the foot.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L02-AO1.html"
+      }
+    },
+    {
+      "id": "66-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Annotations or ideas about (1) h…",
+      "shortTitle": "Look for: /listen for: Annotations or ideas about (1) h…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Annotations or ideas about (1) how we can use multiple sources of information (images taken with different tools and from different perspectives) together in order to gain a more complete representation of a structure or system, and (2) how this more complete representation can be used to figure out patterns within a system (in this case, to notice that blood vessels and nerves are located throughout the skin, muscle, and bone of the body system).",
+      "whatToDo": "What to do: Encourage students to share their observations and questions as they compare the images and diagrams from Interpreting MRI with the diagrams from Close-up Diagrams of Skin, Muscle, and Bone. Encourage students by asking, “What did the diagrams from Close-up Diagrams of Skin, Muscle, and Bone help us understand about the images in Interpreting MRI?” and “What kinds of questions do you have about the skin, muscle, and bone after seeing the diagrams from Close-up Diagrams of Skin, Muscle, and Bone?”",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.6 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L03-AO1.html"
+      }
+    },
+    {
+      "id": "66-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: The blood plasma is a liquid that flows easil…",
+      "shortTitle": "Look for: The blood plasma is a liquid that flows easil…",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B Critically read scientific text to make sense of patterns within structures we observed in the blood related to their function in the body.",
+      "lookListenFor": "What to look for: On the last question of Guidance for Reading about Blood, look for students to respond with any one of the following examples of how structure and function are related in the blood:\nThe blood plasma is a liquid that flows easily through the blood vessels to move blood cells, nutrients, and so on around the whole body (or throughout the circulatory system).\nRed and white blood cells have round shapes. Red blood cells are shaped like a donut without a hole, while white blood cells are shaped more like spheres. Their round shapes allow them to move through blood vessels without getting caught or stuck.\nRed blood cells have a flat, flexible shape that lets them bend so they can fit in small blood vessels.\nPlatelets have arms that help them create plugs to prevent blood from leaking out of damaged blood vessels. They do so by sticking to one another and to the sides of a damaged blood vessel.",
+      "whatToDo": "What to do: If students struggle to answer this question on the handout, first make sure they know the terms “structure” and “function.” You may want to rephrase the question to ask, “What is one way the shape of a blood cell helps it do its job?” You may also want to offer a sentence frame using a specific structure of the blood, such as “The function or job of the platelets is to ________. Their structure or shape helps them do this because ________” Refer students to the images in the reading as well. They may be more comfortable making inferences about the structure/function relationship of the blood parts based on images rather than what they read in the text. Finally, it may help students to consider, “What if the opposite were true?” For example, “What if the blood plasma was really thick and sticky? How would that make it hard to do its job?” or “What if the blood cells were square-shaped? Would they be able to do their job well?”",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L04-AO3.html"
+      }
+    },
+    {
+      "id": "66-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: With the microscope, I could see different pa…",
+      "shortTitle": "Look for: With the microscope, I could see different pa…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.2 Collect data at different scales to answer scientific questions about the components found in blood.",
+      "lookListenFor": "What to look for: When skimming what students have written in their notebooks, look for ideas such as:\nWith the microscope, I could see different parts of the blood (circles, dots, blobs, different colors).\nWith the microscope, I can tell that blood is a mixture because I can see the different components that make it up.\nWithout the microscope, the slide just looks like pink glass.\nWithout the microscope, blood looks like it’s all the same throughout.",
+      "whatToDo": "What to do:\nTake note of any students who are struggling to describe these differences in what they could see with the microscope versus without. Support those students in the Building Understandings Discussion in the next step. For instance, you might choose to have students talk with a partner before sharing their ideas, and make intentional decisions about pairing these students with others who have clearer understandings about what they observed. You might also ask these students to help scribe or draw what the class is describing during the discussion that follows. Those students should realize that blood (in humans and other animals) is composed of a mixture of things we cannot see without a microscope.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L04-AO2.html"
+      }
+    },
+    {
+      "id": "66-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "mm Graph Paper",
+      "shortTitle": "mm Graph Paper",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.1 Collect data at different scales to answer scientific questions about the components found in blood.",
+      "lookListenFor": "What to look for/listen for: See the key ideas listed on the previous page.",
+      "whatToDo": "What to do: Take note of any students who seem confused or unsure about how to use the microscope, and be sure to check in with them first during the Investigate Blood with a Microscope lab on day 2. Also take note of any students who struggled to draw or describe specific differences they could see with the microscope versus without it or using different objectives. These students may need more practice and support with focusing the microscope before or during the lab on day 2. Consider rearranging groups who share microscopes for the lab on day 2 if you can pair more confident microscope users with those who are less confident.\nSuggested prompt\nSample student response\nWhat did you notice about what you could (or couldn’t) see with and without the microscope?\n(Accept all responses.)\nHow did changing the objectives change what you could see? Why?\nThe higher the objective’s number, the closer we were zoomed in.\nWe know the total magnification changes with the different objective lenses. We could see much more detail at the higher numbers.\nWhen you were looking at that millimeter graph paper at each of those magnifications, how much of it could you see?\nAt 40x/low magnification, we could see about 4 or 5 mm.\nAt 100x/medium magnification, we could see only 1 or 2 mm.\nAt 400x/high magnification, we could see less than ½ mm.\nThe amount of space you can see at one time is called your “field of view.” How does the field of view change at different magnifications?\nAt higher magnifications, there’s a smaller field of view--we can see less space but in more detail.\nAt lower magnifications, there’s a larger field of view--we can see more space but in less detail.\nSummarize this discussion by saying something like, We can use this information to help us understand the scale of what we’re seeing when we’re looking at blood (or anything else) with the microscope.\nSee sample poster on the right.\nAsk, What else did you figure out about using the microscopes that we’ll want to keep in mind while we’re observing blood (or other things)?\nSample student responses might include:\nThe knob(s) on the side(s) of the microscope adjust the focus--they raise and lower the place you’re looking at. (Teacher may choose to name the stage.)\nYou could see better by adjusting the light on the microscope. There is a dial you can turn to make the light brighter or dimmer.\nYou really do have to move slowly, or even back and forth a little bit, to find the clearest view.\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nSome students might confuse “microscope” with “telescope.” If you have a moment, ask students to try to infer what the “tele” in “telescope” means based on what they know about what microscopes and telescopes do (from Greek: “tele” means “far” or “at a distance”). You might also ask students to list other words that use “micro” and consider what part of their meaning is “small.”\nConclude today’s work. Display slide M. Say something like, Today we explored with the microscope because we were thinking using this tool might help us figure out more about what is in the blood. How could using the microscope help us figure out more about what is in the blood?\nSample student responses:\nWe can see really close up what is in the blood.\nSince the blood is found in all the different parts of the foot that was injured, maybe we can see what is in the blood so we can figure out what it does in each of these parts.\nSay, Let’s plan to use this tool to look closely at some samples of blood next class and see what we can find out.\nHOME LEARNING OPPORTUNITY\nIf your class did not read How do eyeglasses help people see better? from Lesson 6 of the One-way Mirror Unit, you might want them to read it as home learning now.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_4/original/6.6 Lesson 4 Handout mm Graph Paper.docx",
+        "teacherGuide": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L04-AO1.html"
+      }
+    },
+    {
+      "id": "66-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: ​: Students’ completed Progress Trackers give…",
+      "shortTitle": "Look for: ​: Students’ completed Progress Trackers give…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for​: Students’ completed Progress Trackers give an opportunity to assess what they have figured out during this lesson. Look for the ideas called out in the sample Progress Tracker above. Specifically look for students to be including what they figured out about the structure and function of nerve cells and the nerve system.",
+      "whatToDo": "What to do: If students have incomplete or missing ideas in their Progress Trackers, remind them to review the reading Reading: The Body’s Nervous System and the Obtaining Information from Scientific Text handout to look for and document the information they found in the reading. They can also revisit the How Does the Foot Heal Over Time? poster and the Our Body as a System poster for additional support.\nStudent explanations approaching, but not yet reaching proficiency, might not include what they figured out about the structure of the nerve cells, the function of the nerve cells, or how the structure supports this function. In these cases, prompt students to think back to the activities they did with a partner using the paper clips and ask them what they experienced. In addition, you could ask them to think back to the activity they did with the class squeezing hands and what this helped us figure out about how the structure of nerves helps them perform their function.\nRevisit the Driving Question Board. ​If your students added questions about nerves to the DQB that they are now able to answer, take a few minutes to revisit the DQB. Read through the questions we added, as well as those in other categories that we have worked through in previous lessons, and mark those that we can answer with a checkmark. When time allows, either this day or another day, have students work in groups to document answers to these questions on 5x8 index cards or 6x8 sticky notes.\nIt is also likely that students have additional questions to add to the DQB from their reading today or about the role of nerves in the process of healing. Take time to let students add these questions now.\nDiscuss possible next steps.​ Show slide R and ask for student volunteers to respond to the prompts:\nWhat have we figured out about nerves? What do they do and why are they in different parts of the body?\nWhat do we need to figure out next?\nAffirm student ideas and listen for students to say something about the structure and function of nerves. Say, We have figured out that they are made of lots of nerve cells that transmit signals through tentacle-like arms throughout the body. But, as we think about the role of nerves in healing, we know that there is more that we need to figure out. If we revisit our healing timeline on the How Does the Foot Heal Over Time? poster, what do we see as evidence about how the nerves healed? Encourage students to look back at the timeline component of the How Does the Foot Heal Over Time? poster for any moments when “feelings” are mentioned.\nIf the timeline is missing information regarding “feelings,” revisit the doctor’s notes regarding the nerves. Suggest to students that they look for instances where the doctor mentions “feeling.” As students share, point to various points on the timeline to highlight moments from the doctor’s notes.\nListen as students share and then say, We know from the doctor’s notes that feeling in the foot doesn’t completely return, even when the skin, muscle, and bone have healed. And, let’s also remember from the images in this lesson that there are gaps between nerve cells. Could it be that these gaps between nerves in the injured student’s foot got bigger, or that some of the nerve cells were destroyed and he now has to wait for them to come back? Give students a moment to think and respond to this prompt.\nSample student responses:\nYes! Like when we did the activity where we were holding and squeezing hands. When we let go, the signal stopped. It’s like the gap between two people was too large.\nMaybe with the injured foot, the nerves are still there, but now they are too far apart. This doesn’t let any feeling travel from the foot to the student’s brain.\nOr, it could be like with the skin where we need to wait for new skin to form where there was an open cut. Maybe we need to wait for new nerves to fill in the opening or gap?\nAfter students share, say, It seems like the nerve cell’s structure helps contrib…",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.6 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L05-AO2.html"
+      }
+    },
+    {
+      "id": "66-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: There are nerves in skin, bones, muscles, and…",
+      "shortTitle": "Look for: There are nerves in skin, bones, muscles, and…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for​: As students use the prompts and strategies outlined on Obtaining Information from Scientific Text while reading Reading: The Body’s Nervous System, they should highlight and document information in the reading that supports the following ideas:\nThere are nerves in skin, bones, muscles, and other parts of the body.\nNerve cells have a very unique structure--they have long, skinny “branches” or “tentacles” protruding from a central portion.\nThe structure of nerve cells is perfectly suited for their function.\nNerve cells branch out and connect to other nerve cells throughout the body, forming a network of nerves that carry signals between all parts of the body and the brain.",
+      "whatToDo": "What to do: If students struggle to find the information they need in the reading, call attention to the strategies and prompts in Obtaining Information from Scientific Text. ✱Remind them to:\nRead for the gist (or central idea) by skimming the title, headings, and captions on images.\nMarkup the text by keeping track of questions we have in the margins, circling key words, putting question marks by words they want to learn more about, and underlining main ideas.\nExamine images, graphs, and tables, and look for the central point of each.\nIdentify the ideas from the text that support what we have figured out so far.\nIf students struggle to identify ideas from the text to support what they’ve figured out so far, cue them to think about the structure and function of nerves. Remind them about how the structure of blood cells supports their function, and ask them to point to ways in which the structure of nerve cells helps them perform their job. Alternatively, ask students first how the reading describes the job that nerves perform. Then ask what it is about the nerve cell’s shape that allows them to perform this job well.\nIf students continue to struggle with the reading, allow students to read and discuss with a partner.\nSome students, particularly students with learning differences, those who are below grade-level reading, or students who are emergent multilingual learners, may require more support to successfully gather information from the reading (Lexile reading estimate: 1100L-1300L). Obtaining Information from Scientific Text is a tool that provides the kind of support these students may need. In addition, you could read the titles, subtitles, and image captions together and allow students to ask clarifying questions. You might also consider providing extra time for students to read or allow students to read with a partner. Finally, as is the case with all OpenSciEd resources, this handout is editable, and so you are encouraged to modify it to meet the needs of your students.\nIf you have students who need these kinds of additional support, they will benefit from using Reading: The Body’s Nervous System, which is a handout, rather than The Body’s Nerves in the student edition, so that they can annotate the text in ways that are meaningful to them.\nIf you find that your students are looking for a challenge, or tend not to struggle as they make sense of scientific texts, consider reducing the number of scaffolds or not providing Obtaining Information from Scientific Text. Exercise caution when eliminating scaffolds, as they are designed to help remove barriers to accessing information.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.6 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L05-AO1.html"
+      }
+    },
+    {
+      "id": "66-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: See the sample responses shown above",
+      "shortTitle": "Look for: See the sample responses shown above",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Analyze and interpret observational data in the microscopic structures of skin, bone, and muscle, relating those structures to the functions of those parts of the body.",
+      "lookListenFor": "What to look for: See the sample responses shown above.",
+      "whatToDo": "What to do: When using the Progress Tracker as a formative assessment opportunity, recall that it should not be scored or graded. You are simply checking to see if your students were able to summarize the main takeaways from today’s work and then directing your instruction accordingly. If students struggled to refer to patterns they saw in their investigation data to support their ideas about structures and functions, you may choose to have them use a copy of Microscopic Images: Muscle, Bone, and Skin and annotate it to highlight the repeating structures they see. Ask them to describe those structures and/or patterns in words. Then, refer back to the Parts of a Body poster and connect those descriptions to what the class figured out about the functions of the bones, skin, and muscles.\nConclude today’s work and look ahead to next time. Display slide K. Ask students to turn to the next blank page in their notebook and reflect on how using different scales has helped them figure out more about the structure and function of the different parts of the body we have been investigating. If any new questions have been raised today, be sure to add them to the Driving Question Board. Then say something like, Now that we have figured out what makes up the different parts of the foot system so that they can function correctly, let’s go back to our How the Foot Heals Over Time? Timeline next time and capture what we have figured out there.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.6 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L06-AO1.html"
+      }
+    },
+    {
+      "id": "66-7-part-1-are",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "Part 1 Are",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 07 — Part 1 Are.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.6 Lesson 7 Assessment Part 1 Are.docx",
+        "teacherGuide": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfjcTTtjZVik6JFocAAGuPzRgtRznf0CakKlzcmt45aDGgAoA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "66-7-part-2-are",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "Part 2 Are",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 07 — Part 2 Are.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.6 Lesson 7 Assessment Part 2 Are.docx",
+        "teacherGuide": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdMMFHnBAIwJsHGudOy5UaX-1fXyFKYSzKan8PoiJun3uulVg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "66-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students arguing that all things…",
+      "shortTitle": "Look for: /listen for: Students arguing that all things…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.2 Plan an investigation and construct an argument using evidence from the microscopic scale that all things are not made of cells.",
+      "lookListenFor": "What to look for/listen for: Students arguing that all things are not made of cells because some of the images they analyze do not have evidence of cells.",
+      "whatToDo": "What to do:\nIf students are still not sure whether all things are made of cells, ask them to look back at the images on the Our Body as a System poster to articulate what cells look like, or how we know there are cells in the examples. Then encourage them to compare the images on the assessment to the images included on the class poster. Ask them to include in writing this comparison and then, using this comparison, explain what they can conclude about whether all things are made of cells.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L07-AO2.html"
+      }
+    },
+    {
+      "id": "66-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students who want a closer look…",
+      "shortTitle": "Look for: /listen for: Students who want a closer look…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.1 Plan an investigation and construct an argument using evidence from the microscopic scale that all things are not made of cells.",
+      "lookListenFor": "What to look for/listen for: Students who want a closer look at the objects using cross sections and samples under the microscope. Use scoring guidance on (CL.L7.KEY) to see possible student responses.",
+      "whatToDo": "What to do:\nIf students are having trouble getting started, ask, What kind of investigation could you do to figure out what the items you listed at the top of your paper look like close up? How could you figure out if the items you listed at the top of the page are made of cells? What have we done in class that helped us figure out some parts of our body are made of cells? Encourage students to look back in their notebook and at the Our Body as a System poster to help them remember what they did in class to figure out that parts of our body are made of cells.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L07-AO1.html"
+      }
+    },
+    {
+      "id": "66-7-ao-3",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: Cells damaged or missing",
+      "shortTitle": "Look for: Cells damaged or missing",
+      "peCode": "7.B",
+      "buildingTowards": "Building towards: 7.B Develop a model at a zoomed-in scale to describe what happens to the structure and function of skin cells at the time of injury.",
+      "lookListenFor": "What to look for/listen for: The purpose of this assessment is formative in nature. Students have now figured out a lot about how the different parts of the body are made of cells and that all of these cells are unique to that part of the body. Now we need to begin to shift and make sense of what happens at the cell level for the body to heal from an injury. At this point in the unit, this assessment is formative in the sense that students should include cells in their models, specifically the type of cell that corresponds to the body part they chose to model in their notebook. They should also include how the injured part results in a change in the function of the foot. Students may represent the injured part at the cellular level in many different ways, such as:\nCells damaged or missing\nCells pushed apart but not broken",
+      "whatToDo": "What to do: For students who are hesitant to brainstorm what this might look like at a cellular level, use probing questions such as the one below to help support them in incrementally developing this model:\nWhat do you already know about how the (part of the body they chose to model) looks under the microscope?\nWhen the weight fell on the student’s foot and injured it, what did the (part of the body they chose to model) look like in the images from the doctor?\nNow imagine you could zoom in on (part of the body they chose to model) after the weight injured it. What do you think the cells would look like?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L07-AO3.html"
+      }
+    },
+    {
+      "id": "66-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: This formative assessment has mu…",
+      "shortTitle": "Look for: /listen for: This formative assessment has mu…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Develop a model to describe the unobservable mechanisms of interacting systems and subsystems of groups of skin cells that work together to form tissues and organs.",
+      "lookListenFor": "What to look for/listen for: This formative assessment has multiple purposes: (1) As a model to see students’ initial ideas about how skin cells could fill in a gap caused by an injury. (2) To see how students integrate what they figured out about the skin being made of cells. They should draw many cells when depicting the intact skin tissue. (3) To see what initial connections students make about interactions between the different parts of the body. For example, look for inclusion of blood and blood cells, because there was blood and a scab in the time-lapse. Also look for students to draw any blood or other cells differently than skin cells (because they have a different function) from the skin cells.",
+      "whatToDo": "What to do: Accept all responses. Push students to refer to their Progress Trackers, Our Body as a System, and what they noticed in Time-Lapse Video of Skin Healing Observations to show what is happening to the skin cells in their model. If students are stuck, ask them to first describe what they observed in the Knee-Scrape Time-Lapse video, and then explain what happened to the skin cells.\nShare models in small groups. Display slide F. Tell students to use the directions on the slide to do a modified talking stick protocol with their group.\nSmall Group Talking Stick Round 1:\nTake your model with you and meet with the small group you are assigned to.\nWhen given the start signal, pass around a pencil as a talking stick and take turns, each person using their model to explain how skin cells form new skin on the foot (1 minute per person).\nAs each person shares, think about how their idea compares with other models you’ve seen (including your own).\nSmall Group Talking Stick Round 2:\nPass the talking stick around again to have each person share at least one similarity, difference, or question they noted about the models that were shared (1 minute per person).\nStudents may also choose to share what they would revise about their initial model based on what they heard from their peers about their models.\nFacilitate an Initial Ideas Discussion about how skin cells fill the gap from an injury. Display slide G. Use the prompts below to discuss how to look closer at what is happening in the gap as the injury decreases in size and new skin fills the gap. During the discussion, create a poster titled “How Does Skin Fill the Gap?” Include multiple examples on this poster, as your class will not be in consensus. Documenting numerous ideas will help us look for evidence in subsequent lessons of what is happening at the cellular level. Your poster might include some of the ideas seen here.\nSuggested prompt\nSample student response\nWhat do we know about what is happening as the skin heals?\nWe know that the size of the gap in the skin decreased over time and that there was skin where the injury/gap was before.\nWe know that there is skin at the site of the injury and that skin is made of cells.\nWhat don’t we know about what is happening as new skin develops in the gap?\nWe don’t know how more skin is made.\nWhat are some of the different ideas you and your small group have for how this healing works?\n(Accept all responses.)\nThe cells get bigger and fill in the gaps.\nWe make more skin cells to fill in the gaps, but we don’t know what this looks like close up.\nMaybe the blood cells or other cells turn into the cells that are needed.\nHow could we figure which of these ideas are correct?\nWe need to zoom in on what the cells are doing in the gap!\nCould we use a microscope like when we looked at the bone, skin, muscle, and blood?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.6 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L08-AO1.html"
+      }
+    },
+    {
+      "id": "66-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: In Observations to Evaluate Claims, look for…",
+      "shortTitle": "Look for: In Observations to Evaluate Claims, look for…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for: In Observations to Evaluate Claims, look for students’ connections between their observations and the evidence the class recorded on the evidence chart as evidence we would expect to see to support each claim. Look and listen for student evaluation of the different claims in light of their observations from the video and images. Students should be able to describe or reference their drawings or written explanations on Observations to Evaluate Claims to describe how cells grow and split to make more cells to fill the gap. The size and shape of the old and new cells should remain the same. (The actual type of cell used in the drawing or description is not important here.)",
+      "whatToDo": "What to do: If students struggle with evaluating the different claims, remind them that we are trying to figure out what is happening at the injury site to fill the gap. Ask them to describe what they observed the cells doing in the video and differences they see in the microscopic images of the whitefish and onion root. If necessary, have students replay the video and help them connect how their observations involve old cells splitting and filling the gap with new cells. Then have them return to the images and claims on the How Does Skin Fill the Gap? poster to assess which claims best describe what we observed and which ones don’t. Have students explain their reasoning.\nBring the class together and facilitate a brief discussion using the prompts below.\nSuggested prompt\nSample student response\nWhat are some things you noticed in the video?\nThere seemed to be way more cells at the end than at the beginning.\nAll the cells looked the same, they had a similar shape and size.\nThe cells that were produced looked the same as the original cell after the split.\nIn Lesson 8, we watched a zoomed-out view of skin healing. Using what we figured out from this first video, what could be happening in the gap where the skin was injured?\nMaybe it means that more cells are being made and that these new cells are filling the gap.\nAfter the split, these new cells just sort of pull together or clump up to close the gap.\nWere all the new cells being made at the same time?\nNo, each cell split at different times.\nWe would see some light up and split apart at different times than others.\nWhat are some of your ideas for why the new cells aren’t all made at the same time?\nMaybe because different parts of our body need cells at different times … like the gap in the foot needed more cells to close up and heal, but parts of the skin that weren’t injured don’t need to be making all those cells.\nSo if we want to figure out more about what is happening when new cells are being made from original cells, what might help us see this process?\nI think we need to look closer up at what is happening when new cells are made.\nYeah, I agree. The cells in the video were so small and everything happened so fast it was hard to see exactly what was happening.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/6.6 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L09-AO1.html"
+      }
+    },
+    {
+      "id": "66-9-ao-2",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: In the Progress Tracker, look for students’ d…",
+      "shortTitle": "Look for: In the Progress Tracker, look for students’ d…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for: In the Progress Tracker, look for students’ drawings or written explanations to describe how cells split to make more cells to fill the gap. The size and shape of the old and new cells should remain the same. (The actual type of cell used in the drawing or description is not important here.) A complete drawing might look something like the image here.\nKeep in mind that the Progress Tracker should not be used as a summative assessment, but rather as a formative assessment to understand what students are thinking at this point. We recommend that you provide feedback in the form of questions to probe student thinking and push for more sensemaking.",
+      "whatToDo": "What to do: If students struggle to show how the gap is filled by new cells that result from old cells splitting, consider making a separate handout with an image similar to the one at the top of this step. Then direct students to draw 2-3 more blank boxes below and draw what is happening in these steps for the gap to be filled in the end. You could also replay the video at this point, and then ask them to fill in the diagrams.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/6.6 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L09-AO2.html"
+      }
+    },
+    {
+      "id": "66-10-6-6-lesson-10-handout-self-assessment-and-peer",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "6.6 Lesson 10 Handout Self-Assessment and Peer",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 10 — 6.6 Lesson 10 Handout Self-Assessment and Peer.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.6 Lesson 10 Handout Self-Assessment and Peer.docx",
+        "teacherGuide": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/6.6 Lesson 10 Answer Key Key What do.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeWmoWW6ikYN5OUiH8Fw-8eok1GrDVudgolbjyypLRlOKyYCA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "66-10-what-do-bacteria",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "What do bacteria",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 10 — What do bacteria.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.6 Lesson 10 Assessment What do bacteria.docx",
+        "teacherGuide": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/6.6 Lesson 10 Answer Key Key What do.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSds1j1cTvjRK20Rb4Y_K3y1eqWX31-litRhaSLIbhxzC_GDtA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "66-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Students are able to identify that as the amo…",
+      "shortTitle": "Look for: Students are able to identify that as the amo…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for: Students are able to identify that as the amount of food available on the agar plates increased (as indicated by an increase in percentage of nutrients on the agar plate, or concentration), the bacteria increased. They should be able to interpret these data as an indication that the bacteria do need food (and other nutrients) to make more of themselves.",
+      "whatToDo": "What to do: If students are struggling to identify patterns in the data, it may help to have them trace the streaks they can see on each plate with a highlighter. Ask, Which plate has the most highlighting? What was different about that plate? It may help to refer back to the independent, dependent, and control variables in these investigations. Say, How does changing ____ affect _____?\nIf students are struggling to use cause-and-effect language when discussing patterns in the data, point out that it helps to identify the effect by thinking about what happened or what was one finding from the investigation (i.e., lack of bacterial growth). Then, you can identify the cause by looking at what was done in order to produce that effect, or obtain that outcome (i.e., provide no nutrients). As additional support, consider offering sentence starters to help students discuss cause and effect, such as the following:\nWhen there was/were _______ (cause), the result was _______ (effect).\nIf ______ nutrients were used (cause), then we see _______ (effect).\nAs a result of ______ (cause), we see _______ (effect).",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L10-AO1.html"
+      }
+    },
+    {
+      "id": "66-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Peer Feedback Guidelines",
+      "shortTitle": "Peer Feedback Guidelines",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Construct a written argument using cause-and-effect relationships to conclude that the cells that make up multicellular organisms need food to make more cells, as do the cells of unicellular organisms.",
+      "lookListenFor": "What to look/listen for: See Key: What do bacteria need to make more of themselves? for scoring guidance.",
+      "whatToDo": "What to do: The purpose of this assessment is to see if students can use evidence for what they have figured out about bacterial cells and apply it back to the healing phenomenon. If students struggle to support the claim with evidence, encourage them to look back at what they figured out in Lesson 9 about how cells make new cells. Then, students should think about what they figured out about what happened with the bacteria in this lesson when they were given food and nutrients. Using these pieces of data, ask them what they think: Do human cells need similar things to the bacteria to grow and split to make more of themselves? What do we know about human cells and bacteria or other single-celled organisms cells?\nAdditionally, if students struggle to use cause-and-effect language to state a claim, consider using the self-assessment and peer feedback as described in the alternative callout.\nThis assessment encourages students to demonstrate their understanding of key skills and concepts from the unit so far through multiple modalities, as they construct an argument. Some students may benefit from using multiple modalities to show their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you, with another student acting as a scribe to record their thinking on paper, or through the use of a recording device such as those freely available on most smartphones. Other students may benefit from using gestures rather than images to describe parts of their models. Some students might also benefit from using manipulatives to support a written or verbal argument. In each case, encouraging students to use multiple modalities to show their thinking creates a clear, accessible, equitable pathway for all students to demonstrate proficiency.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.6 Lesson 10 Handout Peer Feedback Guidelines.docx",
+        "teacherGuide": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L10-AO2.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "66-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: See the sample student response…",
+      "shortTitle": "Look for: /listen for: See the sample student response…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: See the sample student response on Data from Investigating Red Onion Cells, specifically question 4.",
+      "whatToDo": "What to do: If students had trouble seeing the changes caused in the cells by the saltwater and plain water, you might want to have them carefully look at the images in Reference: Red Onion Investigation Images and have them identify specific changes they see in the cells. If students struggle with not knowing how exactly the plain water and saltwater got in and out of the cell membrane and cell wall, you can support them in that wondering--it is a curious phenomenon! It’s good to have questions that we still want to figure out when we get to high school (or college). For now, we have evidence that the water does get in and out, even if we’re not sure how.\nDirect students to clean up after the lab before the Building Understandings Discussion. Collect Procedure to Investigate Structures in Red Onion Cells and reuse with subsequent classes.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/6.6 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L11-AO1.html"
+      }
+    },
+    {
+      "id": "66-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students should connect the chan…",
+      "shortTitle": "Look for: /listen for: Students should connect the chan…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Students should connect the changes in the pigmented part of the cell to the movement of water through the cell boundaries (cell wall and cell membrane). Refer to the Key Ideas above.",
+      "whatToDo": "What to do: If students had trouble seeing the changes caused in the cells by the saltwater and plain water, you might want to have them carefully look at the images in Reference: Red Onion Investigation Images and have them identify specific changes they see in the cells. If students struggle with not knowing how exactly the plain water and saltwater got in and out of the cell membrane and cell wall, you can support them in that wondering--it is a curious phenomenon! It’s good to have questions that we still want to figure out when we get to high school (or college). For now, we have evidence that the water does get in and out, even if we’re not sure how.\nSuggested prompt\nSample student response\nWhat did you notice about how the red onion cells were structured when you first looked at them with plain water on the slide?\nThe onion cells looked like pink/purple bricks stacked together.\nWhat did you observe when you replaced the plain water with saltwater? What was different? What stayed the same?\nWhen we added saltwater to the onion skin on the slide, we noticed that the pink/purple stuff on the inside of the cells got smaller and it changed shape.\nThe stuff on the inside also changed color--it got darker as it got smaller.\nThe thick boundary (the box-shaped one) did not change its shape or size. It stayed the same as it was before.\nWhat can you infer about the onion cells’ boundaries from those observations?\nThere are two different boundaries!\nOne boundary didn’t change, but the other one on the inside still was holding the stuff inside the cell.\nHow would you describe the two boundaries?\nThe inside boundary seems flexible because it changed shape when the inside stuff was shrinking, but the outside boundary must be more stiff or sturdy because it did not change--it kept its shape.\nThe outer boundary is much easier to see than the inner boundary--it’s thicker.\nThe outer boundary is more rigid, but the inner boundary moves around, kind of like a rubber band.\nWhat did you notice when you replaced the saltwater with plain water?\nWhen we went back to plain water, the outer boundary still did not change--it stayed the same shape and size as it had been the whole time.\nThe inner boundary seemed to stretch as the stuff inside the cell got larger, eventually filling up the space inside the outer boundary.\nSometimes the color of stuff inside the cell lightened as it got larger.\nHow do the cells compare after adding plain water to how they looked before we added anything?\nThe cells look about the same now that we have added plain water as they did at the beginning of our investigation.\nIt’s easier to see some of the inner and outer boundaries now--the stuff inside is almost back to the same size and shape for most of them, but some still have a gap between those boundaries.\nDiscuss the cause and effect of adding saltwater and plain water to the onion cell slide. Transition the discussion to the cause of the changes we observed.\nSuggested prompt\nSample student response\nWhat do you think happened to cause what you saw? What evidence supports your thinking?\nWell, we think something came out of the cell after we added the saltwater. We know this because the inner boundary and the stuff inside got smaller and pulled away from the outer boundary.\nWhen we added plain water a second time, we think something went into the cell. We know this because the inner boundary and the stuff inside got larger, until it filled the space inside the outer boundary of the cell.\nIt must have been water that was going into the cell after we added plain water the second time, because that’s all we added. It had to be water!\nMaybe. If water went into the cell when we added plain water to the slide after the saltwater, then that must be what came out of the cell when we added saltwater. We aren’t sure why, but it would make sense that it was water going out since that is what went back in.\nHow do you think stuff gets into or out of the cells?\nThe things that cells…",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/6.6 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L11-AO2.html"
+      }
+    },
+    {
+      "id": "66-12-how-do-the",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "title": "How do the",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 12 — How do the.",
+      "files": {
+        "studentHandout": "lesson_12/original/6.6 Lesson 12 Assessment How do the.docx",
+        "teacherGuide": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+        "answerKey": "lesson_12/original/6.6 Lesson 12 Answer Key Key How do.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeVfNNj0VK8HuAnLsMRNRnOdPhFqB2sCrdBgj0TROFM27Kfww/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "66-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Lesson 12 · Check-in 2",
+      "shortTitle": "Lesson 12 · Check-in 2",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "How Healing Happened Chart can be used as a formative assessment opportunity. At this point in the unit, students have figured out a lot about how the body heals from an injury all the way down to the cellular level. Now they are being asked to think about whether these processes could be the same for a lizard or sea star who is injured and loses an appendage. This handout can be used to gauge where students are at in their thinking about how cells make new cells to repair an injury and whether students think that happens in other organisms. Look for students to begin applying the conceptual model they have developed in this unit to the last question on the handout by explaining they would want to know if the lizard and sea star also have cells and have similar systems we have that can bring nutrients to the cells so that the injury can heal.\nIn addition, when students see that the appendage heals by regrowing from the place of injury, students will begin to think about how growing and healing can be similar. In the next lesson, students will analyze data about growth plates in younger people and what happens at these locations over the course of someone’s life. You may see students begin to argue that these processes are the same.\nUse of this handout as a formative assessment is for informing you of where your students are in their sense making prior to the next lesson and such shouldn’t be graded.\nGive students about 10 minutes to complete Lizard and Sea Star Injury Cases. Then bring the class together and discuss their ideas.\nSuggested prompt\nSample student response\nWhat were some things you and your partner noticed about the two cases?\nBoth the lizard and the sea star can lose part of its body and then have it grow back as it heals.\nYeah, the injury to the lizard was that it lost its tail, but then the healing was that it grew a new tail! Same with the sea star - it lost an arm and grew a new arm as it healed.\nIt didn’t just heal on the end where the tail or the arm came off like our skin would if it was scraped. It seemed to heal at the end and grow that part back.\nSo wait, both the lizard and sea star healed right?\nYeah.\nBut you are saying that it also grew somehow?\nYeah both of them grew back a body part that they had lost when injured.\nSo then do you think healing and growing might be a similar process?\nMaybe… since in order to grow we would need to make more cells.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L12-AO2.html"
+      }
+    },
+    {
+      "id": "66-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: See sample student responses on Key: How do t…",
+      "shortTitle": "Look for: See sample student responses on Key: How do t…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A Apply scientific ideas and evidence to construct an explanation for how systems of the body interact to support the healing process in the foot.",
+      "lookListenFor": "What to look for: See sample student responses on Key: How do the systems in the body interact during the healing process?.",
+      "whatToDo": "What to do: If students are struggling to fill in the event and provide evidence for their group, encourage them to look back at their Progress Tracker and the Our Body as a System poster to remind themselves what we figured out about how the different systems in the body work together when the body is healing.\nConnect to our related phenomena. Once everyone has finished How do the systems in the body interact during the healing process?, propose using what we’ve figured out about healing to explain some of our related phenomena. Say something like, Wow! Let’s celebrate how much we can explain about how the foot healed! Now that we were able to explain how healing happens, let’s see if we can go back to our list of related phenomena and see if we think we can explain the healing that happens in other body parts or other living things.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L12-AO1.html"
+      }
+    },
+    {
+      "id": "66-13-growth-summative-assessment",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "title": "Growth Summative Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 13 — Growth Summative Assessment.",
+      "files": {
+        "studentHandout": "lesson_13/original/6.6 Lesson 13 Assessment Growth Summative Assessment.docx",
+        "teacherGuide": "lesson_13/original/6.6 Lesson 13 Teacher Edition.docx",
+        "answerKey": "lesson_13/original/6.6 Lesson 13 Answer Key Scoring Guidance Growth.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfLLvq-3PzUdhsfpPJoJSz-LYcNe4Vyo8ZjyOw2Qx2aJdfxqw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "66-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: This assessment is a transfer task to give st…",
+      "shortTitle": "Look for: This assessment is a transfer task to give st…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Apply science ideas and evidence from classroom investigations to explain a common, real-world phenomenon in which the cells of living things serve particular functions as they interact with one another and other systems to make more cells and grow.",
+      "lookListenFor": "What to look for: This assessment is a transfer task to give students an opportunity to use the three dimensions to make sense of a new scenario. For specific scoring guidance, see Scoring Guidance: Growth Summative Assessment. Allow students to choose how to share their understanding through written response, pictorial response, or a combination of both.",
+      "whatToDo": "What to do: This is meant to be a summative assessment task for the unit, and it gives you a grading opportunity. The task includes a scoring guide located in Scoring Guidance: Growth Summative Assessment. Scoring guides are meant to highlight important ideas students should include in their responses. If students share these ideas elsewhere in the assessment, it is up to you to decide if that understanding is sufficiently demonstrated.\nUniversal Design for Learning: This assessment encourages students to demonstrate their understanding of key skills and concepts from the unit so far through multiple modalities. Some students may benefit from using multiple modalities of expression to show their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you or another student acting as a scribe to record their thinking on paper. Other students may benefit from using gestures rather than images to describe parts of explanations. Some students might also benefit from using manipulatives to represent parts of the system and to support a written or verbal explanation of what’s happening in each part of their explanation. In each case, encouraging students to use multiple modalities to show their thinking creates a clear, accessible, and equitable pathway for all students to demonstrate proficiency.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/6.6 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L13-AO1.html"
+      }
+    },
+    {
+      "id": "66-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: areas in the school that would be too high fo…",
+      "shortTitle": "Look for: areas in the school that would be too high fo…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Students to share ideas similar but not limited to:\nareas in the school that would be too high for a person smaller in stature (ie: counters, etc).\ndistance between rooms in the school that are far apart and could lead to it taking too long to get to a class on time (if the school is large and/or has a lot of stairs).",
+      "whatToDo": "What to do: If students are unsure how tall 3’5” is and what areas in the school are taller than this, provide them a meter stick to use and prompt them to measure different areas. If they struggle with ideas for redesigning or adapting, encourage students to look back at their notes in their science notebook or rewatch part of the TED talk, particularly to the examples given (i.e. airport, bathroom, coffee counter, chair), which might lead to some ideas based on what Sinéad said from her experiences that they can then apply to the school space.\nThe main purpose of this assessment is to support students to begin thinking about how they can have control over the aspects of the design of their environment, and how their decisions for adapting/redesigning their environment impacts its accessibility for others.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.6 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L14-AO2.html"
+      }
+    },
+    {
+      "id": "66-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: The icon that says “handicapped” seems to sup…",
+      "shortTitle": "Look for: The icon that says “handicapped” seems to sup…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Students to share ideas/perceptions being represented:\nThe icon that says “handicapped” seems to support a perception that the person needs help and may not be able to do things for themselves.\nThe icon that says “reserved” seems to support a perception that the person is able and eager to do things for themselves. It also supports a perception that they might need a reserved space to be able to access these things since they are in a wheelchair.",
+      "whatToDo": "What to do: If students struggle to think about how these two icons support different perceptions, ask them questions such as:\nWhat is the person in the wheelchair in each icon doing?\nWhat does the way the person is positioned make it look like they are doing?\nWe have figured out from Jeremy and Matt’s stories that people in wheelchairs are very able. Which icon represents that best? Why does the other icon seem less representative?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-3",
+        "MS-LS1-8"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.6 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.6 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-6/L14-AO1.html"
+      }
+    }
+  ]
+}

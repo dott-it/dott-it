@@ -1,0 +1,65 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+.pnpm-store/*
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+google-credentials.json
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# playwright / local caches
+.cache/
+test-results/
+playwright-link-report.txt
+
+# test coverage
+coverage/
+*.lcov
+clover.xml
+coverage-final.json
+
+# development artifacts
+.dev
+dev-server.log
+.neon_local/
+.test.env
+/tmp/
+
+# playwright artifacts
+playwright-report/
+playwright/
+
+# docker
+.dockerignore
+.env*
+.env*.local
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# editor swap
+*.swp
+*~
+

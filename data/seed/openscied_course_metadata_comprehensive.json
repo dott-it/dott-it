@@ -1,0 +1,2277 @@
+{
+  "generated_at": "2025-07-18T14:47:53.837283",
+  "total_units": 40,
+  "total_courses": 12,
+  "existing_courses": [
+    {
+      "course_id": "openscied_high_school_biology",
+      "title": "OpenSciEd High School Biology",
+      "description": "A comprehensive high school biology course that explores ecosystems, matter, energy, and the interactions between organisms and their environment.",
+      "grade_level": "High School",
+      "subject": "Biology",
+      "sections": [
+        {
+          "heading": "Ecosystems Matter & Energy: Fires",
+          "lessons": [
+            {
+              "title": "Unit Overview",
+              "description": "This unit explores the causes and management of fires in ecosystems, focusing on the flow of matter and energy and the cycling of carbon. Students investigate phenomena such as zombie fires in the Arctic, examining how these fires burn under ice and release carbon dioxide. Through hands-on investigations, students learn about the formation and decomposition of peat, the role of solar energy in photosynthesis, and the impact of human activities on carbon cycling. The unit culminates in designing fire management solutions for communities, integrating scientific knowledge with real-world applications.",
+              "topics": [
+                {
+                  "title": "Overview",
+                  "content": "<h3>Ecosystems Matter & Energy: Fires</h3>\n<div class=\"wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\">\n<div class=\"wp-block-embed__wrapper\">https://www.youtube.com/watch?v=qD0Y_JZXCVk</div>\n</div>\n<h3>UNIT OVERVIEW</h3>\n<p>This unit explores the causes and management of fires in ecosystems, focusing on the flow of matter and energy and the cycling of carbon. Students investigate phenomena such as zombie fires in the Arctic, examining how these fires burn under ice and release carbon dioxide. Through hands-on investigations, students learn about the formation and decomposition of peat, the role of solar energy in photosynthesis, and the impact of human activities on carbon cycling. The unit culminates in designing fire management solutions for communities, integrating scientific knowledge with real-world applications.</p>\n<h4>Key Learning Activities</h4>\n<p>Through these investigations, students will:</p>\n<ul><li><b>DEVELOP, USE, AND REVISE MODELS</b> of matter and energy flow in zombie fire systems.</li><li><b>CONSTRUCT EXPLANATIONS</b> for the presence of matter and energy in the peat/permafrost system.</li><li><b>PLAN AND CARRY OUT INVESTIGATIONS</b> to identify changes in matter and energy under different conditions.</li><li><b>DESIGN SOLUTIONS</b> to balance matter and energy in a community.</li></ul>\n<h4>NGSS Standards</h4>\n<ul><li><a href=\"https://www.nextgenscience.org/pe/hs-ess2-6-earths-systems\">HS-ESS2-6</a> Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ess3-6-earth-and-human-activity\">HS-ESS3-6</a> Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ets1-2-engineering-design\">HS-ETS1-2</a> Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls1-5-molecules-organisms-structures-and-processes\">HS-LS1-5</a> Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls1-6-molecules-organisms-structures-and-processes\">HS-LS1-6</a> Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls1-7-molecules-organisms-structures-and-processes\">HS-LS1-7</a> Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls2-3-ecosystems-interactions-energy-and-dynamics\">HS-LS2-3</a> Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls2-4-ecosystems-interactions-energy-and-dynamics\">HS-LS2-4</a> Use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls2-5-ecosystems-interactions-energy-and-dynamics\">HS-LS2-5</a> Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere.</li></ul>"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "status": "course_output"
+    },
+    {
+      "course_id": "openscied-high-school-biology",
+      "title": "OpenSciEd High School Biology",
+      "description": "A comprehensive high school biology course that explores ecosystems, matter, energy, and the interactions between organisms and their environment.",
+      "grade_level": "",
+      "subject": "",
+      "sections": [
+        {
+          "heading": "Ecosystems Matter & Energy: Fires",
+          "lessons": [
+            {
+              "title": "Overview",
+              "description": null,
+              "topics": [
+                {
+                  "title": "Overview",
+                  "content": "<h3>Ecosystems Matter & Energy: Fires</h3>\n<div class=\"wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\">\n<div class=\"wp-block-embed__wrapper\">https://www.youtube.com/watch?v=qD0Y_JZXCVk</div>\n</div>\n<h3>UNIT OVERVIEW</h3>\n<p>This unit explores the causes and management of fires in ecosystems, focusing on the flow of matter and energy and the cycling of carbon. Students investigate phenomena such as zombie fires in the Arctic, examining how these fires burn under ice and release carbon dioxide. Through hands-on investigations, students learn about the formation and decomposition of peat, the role of solar energy in photosynthesis, and the impact of human activities on carbon cycling. The unit culminates in designing fire management solutions for communities, integrating scientific knowledge with real-world applications.</p>\n<h4>Key Learning Activities</h4>\n<p>Through these investigations, students will:</p>\n<ul><li><b>DEVELOP, USE, AND REVISE MODELS</b> of matter and energy flow in zombie fire systems.</li><li><b>CONSTRUCT EXPLANATIONS</b> for the presence of matter and energy in the peat/permafrost system.</li><li><b>PLAN AND CARRY OUT INVESTIGATIONS</b> to identify changes in matter and energy under different conditions.</li><li><b>DESIGN SOLUTIONS</b> to balance matter and energy in a community.</li></ul>\n<h4>NGSS Standards</h4>\n<ul><li><a href=\"https://www.nextgenscience.org/pe/hs-ess2-6-earths-systems\">HS-ESS2-6</a> Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ess3-6-earth-and-human-activity\">HS-ESS3-6</a> Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ets1-2-engineering-design\">HS-ETS1-2</a> Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls1-5-molecules-organisms-structures-and-processes\">HS-LS1-5</a> Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls1-6-molecules-organisms-structures-and-processes\">HS-LS1-6</a> Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls1-7-molecules-organisms-structures-and-processes\">HS-LS1-7</a> Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls2-3-ecosystems-interactions-energy-and-dynamics\">HS-LS2-3</a> Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls2-4-ecosystems-interactions-energy-and-dynamics\">HS-LS2-4</a> Use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.</li><li><a href=\"https://www.nextgenscience.org/pe/hs-ls2-5-ecosystems-interactions-energy-and-dynamics\">HS-LS2-5</a> Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere.</li></ul>",
+                  "reflection": null,
+                  "wp_id": null
+                }
+              ],
+              "reflection": null,
+              "wp_id": null
+            }
+          ],
+          "wp_id": null
+        }
+      ],
+      "status": "course_output"
+    }
+  ],
+  "courses": {
+    "grade_1_science": {
+      "course_id": "grade_1_science",
+      "title": "OpenSciEd Grade 1 Science",
+      "description": "A comprehensive grade 1 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 1",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "1.1",
+          "grade_level": "Grade 1",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 1,
+      "ngss_standards": []
+    },
+    "grade_2_science": {
+      "course_id": "grade_2_science",
+      "title": "OpenSciEd Grade 2 Science",
+      "description": "A comprehensive grade 2 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 2",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "2.1",
+          "grade_level": "Grade 2",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 1,
+      "ngss_standards": []
+    },
+    "grade_3_science": {
+      "course_id": "grade_3_science",
+      "title": "OpenSciEd Grade 3 Science",
+      "description": "A comprehensive grade 3 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 3",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "3.1",
+          "grade_level": "Grade 3",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 1,
+      "ngss_standards": []
+    },
+    "grade_4_science": {
+      "course_id": "grade_4_science",
+      "title": "OpenSciEd Grade 4 Science",
+      "description": "A comprehensive grade 4 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 4",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "4.1",
+          "grade_level": "Grade 4",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 1,
+      "ngss_standards": []
+    },
+    "grade_5_science": {
+      "course_id": "grade_5_science",
+      "title": "OpenSciEd Grade 5 Science",
+      "description": "A comprehensive grade 5 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 5",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "5.1",
+          "grade_level": "Grade 5",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 1,
+      "ngss_standards": []
+    },
+    "grade_6_science": {
+      "course_id": "grade_6_science",
+      "title": "OpenSciEd Grade 6 Science",
+      "description": "A comprehensive grade 6 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 6",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "6.1",
+          "grade_level": "Grade 6",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "6.2",
+          "grade_level": "Grade 6",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_16",
+            "lesson_17",
+            "lesson_18",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "6.3",
+          "grade_level": "Grade 6",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_16",
+            "lesson_17",
+            "lesson_18",
+            "lesson_19",
+            "lesson_2",
+            "lesson_20",
+            "lesson_21",
+            "lesson_22",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "6.4",
+          "grade_level": "Grade 6",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "6.5",
+          "grade_level": "Grade 6",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "6.6",
+          "grade_level": "Grade 6",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 6,
+      "ngss_standards": []
+    },
+    "grade_7_science": {
+      "course_id": "grade_7_science",
+      "title": "OpenSciEd Grade 7 Science",
+      "description": "A comprehensive grade 7 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 7",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "7.1",
+          "grade_level": "Grade 7",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "7.2",
+          "grade_level": "Grade 7",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "7.3",
+          "grade_level": "Grade 7",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "7.4",
+          "grade_level": "Grade 7",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "7.5",
+          "grade_level": "Grade 7",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_16",
+            "lesson_17",
+            "lesson_18",
+            "lesson_19"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "7.6",
+          "grade_level": "Grade 7",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_16",
+            "lesson_17",
+            "lesson_18",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 6,
+      "ngss_standards": []
+    },
+    "grade_8_science": {
+      "course_id": "grade_8_science",
+      "title": "OpenSciEd Grade 8 Science",
+      "description": "A comprehensive grade 8 science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Grade 8",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "8.1",
+          "grade_level": "Grade 8",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_16",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "8.2",
+          "grade_level": "Grade 8",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "8.3",
+          "grade_level": "Grade 8",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "8.4",
+          "grade_level": "Grade 8",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_16",
+            "lesson_17",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "8.5",
+          "grade_level": "Grade 8",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_16",
+            "lesson_17",
+            "lesson_2",
+            "lesson_3"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "8.6",
+          "grade_level": "Grade 8",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 6,
+      "ngss_standards": []
+    },
+    "high_school_biology": {
+      "course_id": "high_school_biology",
+      "title": "OpenSciEd High School Biology",
+      "description": "A comprehensive high school biology biology course that explores key scientific concepts through hands-on investigations and real-world phenomena.",
+      "grade_level": "High School Biology",
+      "subject": "Biology",
+      "units": [
+        {
+          "unit_id": "B.1",
+          "grade_level": "High School Biology",
+          "subject": "Biology",
+          "status": "processed",
+          "title": "Matter and Its Interactions",
+          "summary": "This unit explores the fundamental principles of matter and its interactions, focusing on the structure and properties of matter. Students will engage in hands-on investigations to understand how matter is composed, how it changes, and the implications of these changes in real-world contexts.",
+          "duration": "6 weeks",
+          "ngss_codes": [
+            "MS-PS1-1",
+            "MS-PS1-2",
+            "MS-PS1-3"
+          ],
+          "ngss_standards": [
+            {
+              "code": "MS-PS1-1",
+              "description": "Develop models to describe the atomic composition of simple molecules and extended structures.",
+              "url": "https://www.nextgenscience.org/pe/ms-ps1-1-matter-and-its-interactions"
+            },
+            {
+              "code": "MS-PS1-2",
+              "description": "Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
+              "url": "https://www.nextgenscience.org/pe/ms-ps1-2-matter-and-its-interactions"
+            },
+            {
+              "code": "MS-PS1-3",
+              "description": "Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.",
+              "url": "https://www.nextgenscience.org/pe/ms-ps1-3-matter-and-its-interactions"
+            }
+          ],
+          "key_learning_activities": [
+            "INVESTIGATE the structure of atoms and molecules",
+            "ANALYZE the properties of different materials",
+            "EXPERIMENT with chemical reactions and their outcomes",
+            "APPLY knowledge to real-world scenarios involving matter"
+          ],
+          "youtube_video_id": "dQw4w9WgXcQ",
+          "youtube_video_title": "Exploring Matter and Its Interactions",
+          "youtube_video_description": "Join us as we delve into the fascinating world of matter, exploring its structure, properties, and the exciting changes it undergoes.",
+          "youtube_video_channel": "OpenSciEd",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "B.2",
+          "grade_level": "High School Biology",
+          "subject": "Biology",
+          "status": "processed",
+          "title": "Ecosystems Matter & Energy: Fires",
+          "summary": "This unit explores the causes and management of fires in ecosystems, focusing on the flow of matter and energy and the cycling of carbon. Students investigate phenomena like zombie fires in the Arctic, examining how these fires burn under ice and release carbon dioxide. Through hands-on experiments and data analysis, students learn about the role of peat, permafrost, and global carbon sinks in fire dynamics. They also explore the impact of human activities on carbon cycling and climate change, and design fire management solutions for communities.",
+          "duration": "28 days",
+          "ngss_codes": [
+            "HS-ESS2-6",
+            "HS-ESS3-6",
+            "HS-ETS1-2",
+            "HS-LS1-5",
+            "HS-LS1-6",
+            "HS-LS1-7",
+            "HS-LS2-3",
+            "HS-LS2-4",
+            "HS-LS2-5"
+          ],
+          "ngss_standards": [
+            {
+              "code": "HS-ESS2-6",
+              "description": "Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.",
+              "url": "https://www.nextgenscience.org/pe/hs-ess2-6-earths-systems"
+            },
+            {
+              "code": "HS-ESS3-6",
+              "description": "Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.",
+              "url": "https://www.nextgenscience.org/pe/hs-ess3-6-earth-and-human-activity"
+            },
+            {
+              "code": "HS-ETS1-2",
+              "description": "Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.",
+              "url": "https://www.nextgenscience.org/pe/hs-ets1-2-engineering-design"
+            },
+            {
+              "code": "HS-LS1-5",
+              "description": "Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.",
+              "url": "https://www.nextgenscience.org/pe/hs-ls1-5-molecules-organisms-structures-and-processes"
+            },
+            {
+              "code": "HS-LS1-6",
+              "description": "Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.",
+              "url": "https://www.nextgenscience.org/pe/hs-ls1-6-molecules-organisms-structures-and-processes"
+            },
+            {
+              "code": "HS-LS1-7",
+              "description": "Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.",
+              "url": "https://www.nextgenscience.org/pe/hs-ls1-7-molecules-organisms-structures-and-processes"
+            },
+            {
+              "code": "HS-LS2-3",
+              "description": "Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.",
+              "url": "https://www.nextgenscience.org/pe/hs-ls2-3-ecosystems-interactions-energy-and-dynamics"
+            },
+            {
+              "code": "HS-LS2-4",
+              "description": "Use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.",
+              "url": "https://www.nextgenscience.org/pe/hs-ls2-4-ecosystems-interactions-energy-and-dynamics"
+            },
+            {
+              "code": "HS-LS2-5",
+              "description": "Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere.",
+              "url": "https://www.nextgenscience.org/pe/hs-ls2-5-ecosystems-interactions-energy-and-dynamics"
+            }
+          ],
+          "key_learning_activities": [
+            "DEVELOP, USE, AND REVISE MODELS of matter and energy flow in zombie fire systems",
+            "CONSTRUCT EXPLANATIONS for the presence of matter and energy in the peat/permafrost system",
+            "PLAN AND CARRY OUT INVESTIGATIONS to identify changes in matter and energy under different conditions",
+            "DESIGN SOLUTIONS to balance matter and energy in a community"
+          ],
+          "youtube_video_id": "qD0Y_JZXCVk",
+          "youtube_video_title": "Matter and Energy in Ecosystems",
+          "youtube_video_description": "Learn about how matter and energy flow through ecosystems in this overview of Unit B.2. This video explores the key concepts of energy transfer, food webs, and nutrient cycling.",
+          "youtube_video_channel": "The Siberian Times",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "B.3",
+          "grade_level": "High School Biology",
+          "subject": "Biology",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "B.4",
+          "grade_level": "High School Biology",
+          "subject": "Biology",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_10",
+            "lesson_11",
+            "lesson_2",
+            "lesson_3",
+            "lesson_5",
+            "lesson_6",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "B.5",
+          "grade_level": "High School Biology",
+          "subject": "Biology",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        }
+      ],
+      "unit_count": 5,
+      "ngss_standards": [
+        "HS-ESS2-6",
+        "HS-ESS3-6",
+        "HS-ETS1-2",
+        "HS-LS1-5",
+        "HS-LS1-6",
+        "HS-LS1-7",
+        "HS-LS2-3",
+        "HS-LS2-4",
+        "HS-LS2-5",
+        "MS-PS1-1",
+        "MS-PS1-2",
+        "MS-PS1-3"
+      ]
+    },
+    "high_school_chemistry": {
+      "course_id": "high_school_chemistry",
+      "title": "OpenSciEd High School Chemistry",
+      "description": "A comprehensive high school chemistry chemistry course that explores key scientific concepts through hands-on investigations and real-world phenomena.",
+      "grade_level": "High School Chemistry",
+      "subject": "Chemistry",
+      "units": [
+        {
+          "unit_id": "C.1",
+          "grade_level": "High School Chemistry",
+          "subject": "Chemistry",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "C.2",
+          "grade_level": "High School Chemistry",
+          "subject": "Chemistry",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "C.3",
+          "grade_level": "High School Chemistry",
+          "subject": "Chemistry",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "C.4",
+          "grade_level": "High School Chemistry",
+          "subject": "Chemistry",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "C.5",
+          "grade_level": "High School Chemistry",
+          "subject": "Chemistry",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        }
+      ],
+      "unit_count": 5,
+      "ngss_standards": []
+    },
+    "kindergarten_science": {
+      "course_id": "kindergarten_science",
+      "title": "OpenSciEd Kindergarten Science",
+      "description": "A comprehensive kindergarten science curriculum designed to engage students in scientific inquiry and discovery.",
+      "grade_level": "Kindergarten",
+      "subject": "Science",
+      "units": [
+        {
+          "unit_id": "K.1",
+          "grade_level": "Kindergarten",
+          "subject": "Science",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        }
+      ],
+      "unit_count": 1,
+      "ngss_standards": []
+    },
+    "high_school_physics": {
+      "course_id": "high_school_physics",
+      "title": "OpenSciEd High School Physics",
+      "description": "A comprehensive high school physics physics course that explores key scientific concepts through hands-on investigations and real-world phenomena.",
+      "grade_level": "High School Physics",
+      "subject": "Physics",
+      "units": [
+        {
+          "unit_id": "P.1",
+          "grade_level": "High School Physics",
+          "subject": "Physics",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "P.2",
+          "grade_level": "High School Physics",
+          "subject": "Physics",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "P.3",
+          "grade_level": "High School Physics",
+          "subject": "Physics",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "P.4",
+          "grade_level": "High School Physics",
+          "subject": "Physics",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_14",
+            "lesson_15",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        },
+        {
+          "unit_id": "P.5",
+          "grade_level": "High School Physics",
+          "subject": "Physics",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_10",
+            "lesson_11",
+            "lesson_12",
+            "lesson_13",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7",
+            "lesson_8",
+            "lesson_9"
+          ],
+          "unit_materials": true,
+          "other_materials": true
+        },
+        {
+          "unit_id": "P.6",
+          "grade_level": "High School Physics",
+          "subject": "Physics",
+          "status": "raw_data_only",
+          "lessons": [
+            "lesson_1",
+            "lesson_2",
+            "lesson_3",
+            "lesson_4",
+            "lesson_5",
+            "lesson_6",
+            "lesson_7"
+          ],
+          "unit_materials": true,
+          "other_materials": false
+        }
+      ],
+      "unit_count": 6,
+      "ngss_standards": []
+    }
+  },
+  "units": [
+    {
+      "unit_id": "1.1",
+      "grade_level": "Grade 1",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "2.1",
+      "grade_level": "Grade 2",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "3.1",
+      "grade_level": "Grade 3",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "4.1",
+      "grade_level": "Grade 4",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "5.1",
+      "grade_level": "Grade 5",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "6.1",
+      "grade_level": "Grade 6",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "6.2",
+      "grade_level": "Grade 6",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_16",
+        "lesson_17",
+        "lesson_18",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "6.3",
+      "grade_level": "Grade 6",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_16",
+        "lesson_17",
+        "lesson_18",
+        "lesson_19",
+        "lesson_2",
+        "lesson_20",
+        "lesson_21",
+        "lesson_22",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "6.4",
+      "grade_level": "Grade 6",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "6.5",
+      "grade_level": "Grade 6",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "6.6",
+      "grade_level": "Grade 6",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "7.1",
+      "grade_level": "Grade 7",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "7.2",
+      "grade_level": "Grade 7",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "7.3",
+      "grade_level": "Grade 7",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "7.4",
+      "grade_level": "Grade 7",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "7.5",
+      "grade_level": "Grade 7",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_16",
+        "lesson_17",
+        "lesson_18",
+        "lesson_19"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "7.6",
+      "grade_level": "Grade 7",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_16",
+        "lesson_17",
+        "lesson_18",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "8.1",
+      "grade_level": "Grade 8",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_16",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "8.2",
+      "grade_level": "Grade 8",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "8.3",
+      "grade_level": "Grade 8",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "8.4",
+      "grade_level": "Grade 8",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_16",
+        "lesson_17",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "8.5",
+      "grade_level": "Grade 8",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_16",
+        "lesson_17",
+        "lesson_2",
+        "lesson_3"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "8.6",
+      "grade_level": "Grade 8",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "B.1",
+      "grade_level": "High School Biology",
+      "subject": "Biology",
+      "status": "processed",
+      "title": "Matter and Its Interactions",
+      "summary": "This unit explores the fundamental principles of matter and its interactions, focusing on the structure and properties of matter. Students will engage in hands-on investigations to understand how matter is composed, how it changes, and the implications of these changes in real-world contexts.",
+      "duration": "6 weeks",
+      "ngss_codes": [
+        "MS-PS1-1",
+        "MS-PS1-2",
+        "MS-PS1-3"
+      ],
+      "ngss_standards": [
+        {
+          "code": "MS-PS1-1",
+          "description": "Develop models to describe the atomic composition of simple molecules and extended structures.",
+          "url": "https://www.nextgenscience.org/pe/ms-ps1-1-matter-and-its-interactions"
+        },
+        {
+          "code": "MS-PS1-2",
+          "description": "Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
+          "url": "https://www.nextgenscience.org/pe/ms-ps1-2-matter-and-its-interactions"
+        },
+        {
+          "code": "MS-PS1-3",
+          "description": "Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.",
+          "url": "https://www.nextgenscience.org/pe/ms-ps1-3-matter-and-its-interactions"
+        }
+      ],
+      "key_learning_activities": [
+        "INVESTIGATE the structure of atoms and molecules",
+        "ANALYZE the properties of different materials",
+        "EXPERIMENT with chemical reactions and their outcomes",
+        "APPLY knowledge to real-world scenarios involving matter"
+      ],
+      "youtube_video_id": "dQw4w9WgXcQ",
+      "youtube_video_title": "Exploring Matter and Its Interactions",
+      "youtube_video_description": "Join us as we delve into the fascinating world of matter, exploring its structure, properties, and the exciting changes it undergoes.",
+      "youtube_video_channel": "OpenSciEd",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "B.2",
+      "grade_level": "High School Biology",
+      "subject": "Biology",
+      "status": "processed",
+      "title": "Ecosystems Matter & Energy: Fires",
+      "summary": "This unit explores the causes and management of fires in ecosystems, focusing on the flow of matter and energy and the cycling of carbon. Students investigate phenomena like zombie fires in the Arctic, examining how these fires burn under ice and release carbon dioxide. Through hands-on experiments and data analysis, students learn about the role of peat, permafrost, and global carbon sinks in fire dynamics. They also explore the impact of human activities on carbon cycling and climate change, and design fire management solutions for communities.",
+      "duration": "28 days",
+      "ngss_codes": [
+        "HS-ESS2-6",
+        "HS-ESS3-6",
+        "HS-ETS1-2",
+        "HS-LS1-5",
+        "HS-LS1-6",
+        "HS-LS1-7",
+        "HS-LS2-3",
+        "HS-LS2-4",
+        "HS-LS2-5"
+      ],
+      "ngss_standards": [
+        {
+          "code": "HS-ESS2-6",
+          "description": "Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.",
+          "url": "https://www.nextgenscience.org/pe/hs-ess2-6-earths-systems"
+        },
+        {
+          "code": "HS-ESS3-6",
+          "description": "Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.",
+          "url": "https://www.nextgenscience.org/pe/hs-ess3-6-earth-and-human-activity"
+        },
+        {
+          "code": "HS-ETS1-2",
+          "description": "Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.",
+          "url": "https://www.nextgenscience.org/pe/hs-ets1-2-engineering-design"
+        },
+        {
+          "code": "HS-LS1-5",
+          "description": "Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.",
+          "url": "https://www.nextgenscience.org/pe/hs-ls1-5-molecules-organisms-structures-and-processes"
+        },
+        {
+          "code": "HS-LS1-6",
+          "description": "Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.",
+          "url": "https://www.nextgenscience.org/pe/hs-ls1-6-molecules-organisms-structures-and-processes"
+        },
+        {
+          "code": "HS-LS1-7",
+          "description": "Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.",
+          "url": "https://www.nextgenscience.org/pe/hs-ls1-7-molecules-organisms-structures-and-processes"
+        },
+        {
+          "code": "HS-LS2-3",
+          "description": "Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.",
+          "url": "https://www.nextgenscience.org/pe/hs-ls2-3-ecosystems-interactions-energy-and-dynamics"
+        },
+        {
+          "code": "HS-LS2-4",
+          "description": "Use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.",
+          "url": "https://www.nextgenscience.org/pe/hs-ls2-4-ecosystems-interactions-energy-and-dynamics"
+        },
+        {
+          "code": "HS-LS2-5",
+          "description": "Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere.",
+          "url": "https://www.nextgenscience.org/pe/hs-ls2-5-ecosystems-interactions-energy-and-dynamics"
+        }
+      ],
+      "key_learning_activities": [
+        "DEVELOP, USE, AND REVISE MODELS of matter and energy flow in zombie fire systems",
+        "CONSTRUCT EXPLANATIONS for the presence of matter and energy in the peat/permafrost system",
+        "PLAN AND CARRY OUT INVESTIGATIONS to identify changes in matter and energy under different conditions",
+        "DESIGN SOLUTIONS to balance matter and energy in a community"
+      ],
+      "youtube_video_id": "qD0Y_JZXCVk",
+      "youtube_video_title": "Matter and Energy in Ecosystems",
+      "youtube_video_description": "Learn about how matter and energy flow through ecosystems in this overview of Unit B.2. This video explores the key concepts of energy transfer, food webs, and nutrient cycling.",
+      "youtube_video_channel": "The Siberian Times",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "B.3",
+      "grade_level": "High School Biology",
+      "subject": "Biology",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "B.4",
+      "grade_level": "High School Biology",
+      "subject": "Biology",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_10",
+        "lesson_11",
+        "lesson_2",
+        "lesson_3",
+        "lesson_5",
+        "lesson_6",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "B.5",
+      "grade_level": "High School Biology",
+      "subject": "Biology",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "C.1",
+      "grade_level": "High School Chemistry",
+      "subject": "Chemistry",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "C.2",
+      "grade_level": "High School Chemistry",
+      "subject": "Chemistry",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "C.3",
+      "grade_level": "High School Chemistry",
+      "subject": "Chemistry",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "C.4",
+      "grade_level": "High School Chemistry",
+      "subject": "Chemistry",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "C.5",
+      "grade_level": "High School Chemistry",
+      "subject": "Chemistry",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "K.1",
+      "grade_level": "Kindergarten",
+      "subject": "Science",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "P.1",
+      "grade_level": "High School Physics",
+      "subject": "Physics",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "P.2",
+      "grade_level": "High School Physics",
+      "subject": "Physics",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "P.3",
+      "grade_level": "High School Physics",
+      "subject": "Physics",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "P.4",
+      "grade_level": "High School Physics",
+      "subject": "Physics",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_14",
+        "lesson_15",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    },
+    {
+      "unit_id": "P.5",
+      "grade_level": "High School Physics",
+      "subject": "Physics",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_10",
+        "lesson_11",
+        "lesson_12",
+        "lesson_13",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7",
+        "lesson_8",
+        "lesson_9"
+      ],
+      "unit_materials": true,
+      "other_materials": true
+    },
+    {
+      "unit_id": "P.6",
+      "grade_level": "High School Physics",
+      "subject": "Physics",
+      "status": "raw_data_only",
+      "lessons": [
+        "lesson_1",
+        "lesson_2",
+        "lesson_3",
+        "lesson_4",
+        "lesson_5",
+        "lesson_6",
+        "lesson_7"
+      ],
+      "unit_materials": true,
+      "other_materials": false
+    }
+  ],
+  "statistics": {
+    "by_status": {
+      "raw_data_only": 38,
+      "processed": 2
+    },
+    "by_subject": {
+      "Science": 24,
+      "Biology": 5,
+      "Chemistry": 5,
+      "Physics": 6
+    },
+    "by_grade_level": {
+      "Grade 1": 1,
+      "Grade 2": 1,
+      "Grade 3": 1,
+      "Grade 4": 1,
+      "Grade 5": 1,
+      "Grade 6": 6,
+      "Grade 7": 6,
+      "Grade 8": 6,
+      "High School Biology": 5,
+      "High School Chemistry": 5,
+      "Kindergarten": 1,
+      "High School Physics": 6
+    }
+  }
+}

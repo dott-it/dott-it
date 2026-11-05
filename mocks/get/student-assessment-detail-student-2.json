@@ -1,0 +1,91 @@
+{
+  "student": {
+    "id": "student-2",
+    "name": "Bob Smith",
+    "email": "bob.smith@school.edu",
+    "status": "ready_for_review",
+    "submittedAt": "2025-01-19T14:15:00Z",
+    "score": 88,
+    "classSection": "Period A",
+    "lastActionDate": "2025-01-21T09:45:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": "2025-01-21T09:45:00Z",
+    "grade": 10
+  },
+  "assessment": {
+    "id": "chemistry-assessment",
+    "title": "Chemistry Lab Safety Assessment",
+    "unitName": "Unit 3: Lab Safety",
+    "subject": "Chemistry",
+    "grade": 10,
+    "type": "Formative Assessment",
+    "dueDate": "2025-01-22",
+    "status": "live",
+    "totalRecords": 5,
+    "pendingRecords": 2,
+    "description": "Assessment on laboratory safety protocols and chemical handling"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"Chemical reactions are fundamental to chemistry and understanding them helps us predict outcomes and ensure safety. I learned that reactions can be exothermic (releasing heat) or endothermic (absorbing heat), and this affects how we handle them. For example, exothermic reactions need cooling to prevent overheating, while endothermic reactions might need heating to proceed.\",\"observationQuestion\":\"In the lab, I observed that when we mixed baking soda and vinegar, bubbles formed immediately and the temperature increased slightly. This showed me that chemical reactions can produce visible changes and heat. I also noticed that the reaction was faster when we used warm vinegar, demonstrating how temperature affects reaction rates.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Understanding",
+      "content": "Excellent grasp of the fundamental concepts in this subject area."
+    },
+    {
+      "type": "strength",
+      "section": "Analysis",
+      "content": "Strong analytical thinking demonstrated in your response."
+    },
+    {
+      "type": "strength",
+      "section": "Communication",
+      "content": "Clear and well-structured explanation of your ideas and observations."
+    },
+    {
+      "type": "strength",
+      "section": "Critical Thinking",
+      "content": "Demonstrates good reasoning skills and logical connections between concepts."
+    },
+    {
+      "type": "strength",
+      "section": "Lab Safety",
+      "content": "Good understanding of laboratory safety protocols and procedures."
+    },
+    {
+      "type": "strength",
+      "section": "Chemical Knowledge",
+      "content": "Solid foundation in chemical principles and terminology."
+    },
+    {
+      "type": "improvement",
+      "section": "Examples",
+      "content": "Consider providing more specific examples to strengthen your arguments."
+    },
+    {
+      "type": "improvement",
+      "section": "Depth",
+      "content": "Expand on the practical applications and real-world implications."
+    },
+    {
+      "type": "improvement",
+      "section": "Evidence",
+      "content": "Include more supporting evidence and data to back up your claims."
+    },
+    {
+      "type": "improvement",
+      "section": "Connections",
+      "content": "Make stronger connections between different concepts and ideas presented."
+    },
+    {
+      "type": "improvement",
+      "section": "Chemical Reactions",
+      "content": "Consider discussing specific chemical reactions and their mechanisms."
+    },
+    {
+      "type": "improvement",
+      "section": "Experimental Design",
+      "content": "Think about how you would design experiments to test your hypotheses."
+    }
+  ]
+}

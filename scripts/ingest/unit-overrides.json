@@ -1,0 +1,36 @@
+{
+  "8.1": {
+    "extraHandoutAssessments": {
+      "7": {
+        "fileMatch": "Handout Looking back Explaining",
+        "title": "Looking Back — Explaining Collisions",
+        "assessmentType": "lesson-reflection"
+      },
+      "8": {
+        "fileMatch": "Handout Modeling other force",
+        "keyMatch": "Answer Key Key for modeling",
+        "title": "Modeling Other Force Interactions",
+        "assessmentType": "formative"
+      },
+      "14": {
+        "fileMatch": "Handout Stakeholder Feedback Form",
+        "title": "Stakeholder Feedback Form",
+        "assessmentType": "peer-feedback"
+      }
+    },
+    "summativeLessons": [15],
+    "titleOverridesPath": "unit-8.1-title-overrides.json"
+  },
+  "8.2": {
+    "summativeLessons": [14]
+  },
+  "8.3": {
+    "summativeLessons": [12]
+  },
+  "8.5": {
+    "summativeLessons": [17]
+  },
+  "8.6": {
+    "summativeLessons": [13]
+  }
+}

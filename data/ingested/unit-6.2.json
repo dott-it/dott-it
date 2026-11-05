@@ -1,0 +1,1649 @@
+{
+  "unitId": "6.2",
+  "unitTitle": "Thermal Energy",
+  "description": "Students investigate thermal energy transfer and design solutions to control temperature. They explore conduction, convection, and radiation.",
+  "lessonCount": 18,
+  "suggestedPacingDays": 37,
+  "unitOverviewPath": "unit_materials/original/6.2 Thermal Energy Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/6/6.2",
+  "ingestedAt": "2026-07-01T13:38:34.900Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "Why does the temperature of the liquid in some cup systems change more than in others",
+      "title": "Why does the temperature of the liquid in some cup systems change more than in others?",
+      "teacherEditionPath": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What cup features seem most important for keeping a drink cold",
+      "title": "What cup features seem most important for keeping a drink cold?",
+      "teacherEditionPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "How are the cup features that keep things cold the same or different for keeping things hot",
+      "title": "How are the cup features that keep things cold the same or different for keeping things hot?",
+      "teacherEditionPath": "lesson_3/original/6.2 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "How does a lid affect what happens to the liquid in the cup",
+      "title": "How does a lid affect what happens to the liquid in the cup?",
+      "teacherEditionPath": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "Where does the water on the outside of the cold cup system come from",
+      "title": "Where does the water on the outside of the cold cup system come from?",
+      "teacherEditionPath": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How can we explain the effect of a lid on what happens to the liquid in the cup over time",
+      "title": "How can we explain the effect of a lid on what happens to the liquid in the cup over time?",
+      "teacherEditionPath": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "If matter cannot enter or exit a closed system, how does a liquid in the system change temperature",
+      "title": "If matter cannot enter or exit a closed system, how does a liquid in the system change temperature?",
+      "teacherEditionPath": "lesson_7/original/6.2 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "How does a cup’s surface affect how light warms up a liquid inside the cup",
+      "title": "How does a cup’s surface affect how light warms up a liquid inside the cup?",
+      "teacherEditionPath": "lesson_8/original/6.2 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "How does the temperature of a liquid on one side of a cup wall affect the temperature of a liquid on the other side of the wall",
+      "title": "How does the temperature of a liquid on one side of a cup wall affect the temperature of a liquid on the other side of the wall?",
+      "teacherEditionPath": "lesson_9/original/6.2 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "What is the difference between a hot and a cold liquid",
+      "title": "What is the difference between a hot and a cold liquid?",
+      "teacherEditionPath": "lesson_10/original/6.2 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "Why do particles move more in hot liquids",
+      "title": "Why do particles move more in hot liquids?",
+      "teacherEditionPath": "lesson_11/original/6.2 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "How does the motion of particles compare in a sample of matter at a given temperature",
+      "title": "How does the motion of particles compare in a sample of matter at a given temperature?",
+      "teacherEditionPath": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "How could the motion of particles on one side of a solid wall affect the motion of the particles on the other side of that wall",
+      "title": "How could the motion of particles on one side of a solid wall affect the motion of the particles on the other side of that wall?",
+      "teacherEditionPath": "lesson_13/original/6.2 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "Does our evidence support that cold is leaving the system or that heat is entering the system",
+      "title": "Does our evidence support that cold is leaving the system or that heat is entering the system?",
+      "teacherEditionPath": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "How do certain design features slow down the transfer of energy into a cup",
+      "title": "How do certain design features slow down the transfer of energy into a cup?",
+      "teacherEditionPath": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 16,
+      "shortTitle": "How can we design a cup system to slow energy transfer into the liquid inside it",
+      "title": "How can we design a cup system to slow energy transfer into the liquid inside it?",
+      "teacherEditionPath": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 17,
+      "shortTitle": "How can we improve our first design to slow energy transfer into the cup system even more",
+      "title": "How can we improve our first design to slow energy transfer into the cup system even more?",
+      "teacherEditionPath": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 18,
+      "shortTitle": "How can containers keep stuff from warming up or cooling down",
+      "title": "How can containers keep stuff from warming up or cooling down?",
+      "teacherEditionPath": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+      "expectedDays": 3
+    }
+  ],
+  "assessments": [
+    {
+      "id": "62-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Open- and close-ended questions",
+      "shortTitle": "Look for: /listen for: Open- and close-ended questions",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from careful observation and can be investigated in the classroom to test how parts of the cup systems contribute to warming up or maintaining the temperature of the substance inside.",
+      "lookListenFor": "What to look for/listen for: Open- and close-ended questions.",
+      "whatToDo": "What to do: At this point, It is important that all questions posed by students be placed on the DQB regardless of whether they are open-ended or close-ended. Make note of any close-ended questions and use navigation time throughout the unit to turn them into open-ended questions when they relate to the investigations underway.\nAs students ask questions, have them reflect on any parts of the cup systems or related systems that have few or no questions posted on the DQB. Prompt students to generate more questions in this space so that each important part of the system is to be investigated.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L01-AO3.html"
+      }
+    },
+    {
+      "id": "62-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: agreement on the components of the system mod…",
+      "shortTitle": "Look for: agreement on the components of the system mod…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.1 Develop an initial model to describe a phenomenon in which a substance changes temperature and identify structural parts of the system that slow down or speed up the temperature change (function).",
+      "lookListenFor": "What to look for/listen for:\nagreement on the components of the system models (such as the walls, lids, straws, water inside, air inside between the water and the lid, and ice),\nagreement that the structural components (parts of the cups) have some similarities (made of plastic) and differences (thin versus thick), and\ndisagreement about how the drink inside warms up (processes or mechanisms such as heat or light going into the cup and air or cold leaving the cup). These disagreements will motivate the need for further investigations.",
+      "whatToDo": "What to do: Use students’ initial models for a pre-assessment to determine what initial ideas students have about the cup system.\nThis home learning opportunity will help students broaden their thinking to related phenomena beyond the initial two cups. Prompt students to think about other cups they use regularly at home and school, as well as related objects and systems at home that function in a similar way as the tested cups. This broadening to related phenomena will give students an opportunity to leverage their everyday, out-of-school experiences to augment their classroom learning. This should make the anchoring phenomenon more personally meaningful to each student.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L01-AO1.html"
+      }
+    },
+    {
+      "id": "62-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: whether students are able to identify importa…",
+      "shortTitle": "Look for: whether students are able to identify importa…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.2 Develop an initial model to describe a phenomenon in which a substance changes temperature and identify structural parts of the system that slow down or speed up the temperature change (function).",
+      "lookListenFor": "What to look for/listen for:\nwhether students are able to identify important parts of the new system and include them in their models and\nwhether students are applying similar processes/ mechanisms to the related phenomena as they applied in their cup models, even if the mechanisms are inaccurate.",
+      "whatToDo": "What to do: Students do not need to know how to explain the system completely right now; rather, they are demonstrating how they would model a new system and what they believe would be important to include. They can note on their models what each part is doing to help the object work and where they are uncertain about whether a part is important. If your students struggle with identifying important components of the new systems of the related phenomena, add more instructional time to work on this aspect of modeling. To do this, pick one of the related phenomena from the class list. Create a three-column chart with “Important parts”, “Not important parts”, and “Not sure parts”. Have students work together to decide the important parts of the system. Draw a sketch using these parts and the not sure parts but excluding the not important parts. The goal is for students to get more comfortable with figuring out which parts of the system need to be included in the model versus which parts are irrelevant.\nAsk students to leave their science notebooks in the classroom for you to look at their models before the next class. If students have time, remind them to update their table of contents now.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L01-AO2.html"
+      }
+    },
+    {
+      "id": "62-2-ao-4",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "2.B.1 Analyze and interpret data to find patterns ind…",
+      "shortTitle": "2.B.1 Analyze and interpret data to find patterns ind…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.1 Analyze and interpret data to find patterns indicating which parts of the cup system (features) influence the temperature change of the substance inside the system.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: It is expected that some students will struggle with finding patterns in the data. This struggle is important for motivating a need to create more systematic investigations going forward. It is OK if this investigation’s data seems messy and inconclusive. Support students in identifying reasonable patterns and whether they see that other patterns can not be identified yet. Students may be uncertain about patterns associated with these features:\nmaterial type\nstraw versus no straw\nlight versus more light (if light was included in their investigations)\nTo help your students avoid frustration, give them the option of identifying an inconclusive result if they don’t see a clear pattern.\nShift to a Building Understandings Discussion around patterns.✱ Show slide G again. Given time to sort and analyze data, students should now be able to identify patterns pointing to specific cup features that help keep a drink cold, and to identify inconclusive data. The focus of the discussion now shifts to what the evidence does and does not support. To get the conversation started, use the following prompts:",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L02-AO4.html"
+      }
+    },
+    {
+      "id": "62-2-ao-5",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Lesson 02 · Check-in 5",
+      "shortTitle": "Lesson 02 · Check-in 5",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "The individual Progress Tracker is a tool to help students reflect on their own learning in response to the question being investigated. Encourage students to use this space to share all the new information and new connections they have but also to note where they are still confused. Have students leave their science notebooks in the classroom and quickly scan their Progress Trackers to give you a sense of what students recorded as the key takeaways from the lesson and to see if they remark on areas of confusion, uncertainty, or lingering questions.\nThis is an opportunity for students to express their understanding and reasoning in their own way. Encourage students to express what they’ve learned using a mode that makes sense for them. The individual Progress Tracker is a space for students to be creative and to synthesize learning in their own words and drawings. It is not supposed to follow a prescriptive plan or structure and should be a low-stakes opportunity for students to make sense of what they are learning without the worry and anxiety that comes with knowing their work will be graded.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L02-AO5.html"
+      }
+    },
+    {
+      "id": "62-2-ao-6",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Evidence students use from their…",
+      "shortTitle": "Look for: /listen for: Evidence students use from their…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.2 Analyze and interpret data to find patterns indicating which parts of the cup system (features) influence the temperature change of the substance inside the system.",
+      "lookListenFor": "What to look for/listen for: Evidence students use from their data analysis to order their cups from best to worst performers.",
+      "whatToDo": "What to do: If students struggle, have them revisit the class data to decide how to rank the cups based on the temperature change calculations.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L02-AO6.html"
+      }
+    },
+    {
+      "id": "62-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: the agreed-upon parameters for t…",
+      "shortTitle": "Look for: /listen for: the agreed-upon parameters for t…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.1 Plan and carry out an investigation to gather evidence to answer scientific questions about how parts of the cup system relate to the temperature change of the liquid inside.",
+      "lookListenFor": "What to look for/listen for: the agreed-upon parameters for the fair test and only 1 changed variable from either of the 2 cup systems tested in Lesson 1.",
+      "whatToDo": "What to do: The investigation plan that students create will likely include gaps in how to design a fair test, and that is OK. Use this investigation plan as a pre-assessment of what your students already know about setting up step-by-step procedures to follow for an experiment.\nIf students are struggling to decide how to change only 1 variable, ask them to begin with 1 of the 2 cup systems (the regular plastic cup or fancy plastic cup) from Lesson 1 and identify 1 thing they’d like to change (e.g., removing the lid, wrapping the cup in foil, placing it under a lamp, etc.). Students are not expected to be exhaustive in their control of other variables, but they should have a reasonable plan for focusing on changing only 1 variable. Students do not need to name variables as independent or control variables in this lesson. They will learn about these types of variables and use this terminology later in the unit.\nWhile students are writing in their notebooks, circulate among the groups to examine their investigation plans. As groups’ plans are almost complete, get the original regular and fancy cups ready for testing as the control. You can start testing those cups when the small groups start their tests.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L02-AO1.html"
+      }
+    },
+    {
+      "id": "62-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: comparisons between cups with a lid versus no…",
+      "shortTitle": "Look for: comparisons between cups with a lid versus no…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.1 Analyze and interpret data to find patterns indicating which parts of the cup system (features) influence the temperature change of the substance inside the system.",
+      "lookListenFor": "What to look for/listen for:\ncomparisons between cups with a lid versus no lid: students identify a pattern that conditions with no lid warm up faster than conditions with lids.\ncomparisons between single-wall and double-wall cups: students identify a pattern that double-wall cups work better than single-wall cups regardless of material.\ncomparisons between the presence of a straw versus no straw: students identify an associated pattern because the straw is a relatively minor feature.",
+      "whatToDo": "What to do: It is expected that some students will struggle with finding patterns in the data. This struggle is important for motivating a need to create more systematic investigations going forward. It is OK if this investigation’s data seems messy and inconclusive. Support students in identifying reasonable patterns and whether they see that other patterns can not be identified yet. Students may be uncertain about patterns associated with these features:\nmaterial type\nstraw versus no straw\nlight versus more light (if light was included in their investigations)\nTo help your students avoid frustration, give them the option of identifying an inconclusive result if they don’t see a clear pattern.\nShift to a Building Understandings Discussion around patterns.✱ Show slide G again. Given time to sort and analyze data, students should now be able to identify patterns pointing to specific cup features that help keep a drink cold, and to identify inconclusive data. The focus of the discussion now shifts to what the evidence does and does not support. To get the conversation started, use the following prompts:",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L02-AO3.html"
+      }
+    },
+    {
+      "id": "62-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: how the changed part of the system affects th…",
+      "shortTitle": "Look for: how the changed part of the system affects th…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.2 Plan and carry out an investigation to gather evidence to answer scientific questions about how parts of the cup system relate to the temperature change of the liquid inside.",
+      "lookListenFor": "What to look for/listen for:\nhow the changed part of the system affects the mechanism the students believe is causing the drink to warm up\nwhether they controlled the variables they needed to control and how close their group got to manipulating only 1 variable",
+      "whatToDo": "What to do: Use this time now and while students are carrying out the investigations to circulate among each group. When you circulate, use the following probe questions to elicit student thinking:\nWhat did you keep the same as the other cups? Why was this important?\nWhich cup from the original 2 cup systems did you want to compare against? What did your group decide to change?\nHow do you think changing this part of the system will affect the temperature change of the liquid inside? What do you think this part does to slow down temperature change?\nStop the investigation after 15 minutes. Remind students to clean up and return all materials, except for their cup. Do not throw the cups away. Each group should keep and label their cup “Testing Cup Features” along with a group name or number. These cups will be used again on day 2 and also in Lesson 3.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L02-AO2.html"
+      }
+    },
+    {
+      "id": "62-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: the differences between hot and cold liquids",
+      "shortTitle": "Look for: the differences between hot and cold liquids",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Develop and use a model to explain how the best-performing and worst-performing cup systems affect the temperature change of a substance inside a system.",
+      "lookListenFor": "What to look/listen for: New aspects included in models, such as these:\nthe differences between hot and cold liquids\nwhat is happening when liquids increase or decrease in temperature\nhow cup features work to slow both the cooling down and warming up of liquids\nMost importantly, notice whether students’ mechanisms for explaining how liquids warm up or cool down are the same or different. It’s not important whether students have the “correct” ideas; rather, your assessment can help you understand students’ initial ideas about what it means for a substance to have a particular temperature and what mechanisms are involved in changing the temperature of a substance.",
+      "whatToDo": "What to do: It will be helpful to collect students’ notebooks between the two days to see how students are explaining how cup system features can keep liquids both hot and cold. However, some students may want to take their notebooks home to finish their models. In these models, see how students’ model ideas do and do not change with different starting temperatures of the liquid inside the cup. For example, if the cup begins with a hot liquid inside, do students use a different mechanism to explain how it cools down compared to the mechanism students use for how a cold drink warms up? It is not important for students’ models to “look nice” or have details that are unrelated to the goal of explaining how the cup features work.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L03-AO1.html"
+      }
+    },
+    {
+      "id": "62-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: understand the ways in which control variable…",
+      "shortTitle": "Look for: understand the ways in which control variable…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B. Plan an investigation to investigate how the lid (a structural feature of the cup system) works to slow the temperature change (function) of a substance inside the system.",
+      "lookListenFor": "What to look/listen for: Students:\nunderstand the ways in which control variables affect how a drink cools down or warms up in the cup system and\ncan plan an investigation and understand how controlling as many variables as possible enhances the validity of the tests when investigating how changing the independent variable affects the cup system. For example, look for these ideas in the original plans:\nlid identified as independent variable\ntemperature identified as dependent variable\nat least 3 controlled variables identified, including amount of water, number of walls, and material of the cup--may also identify starting temperature of water\na carefully planned investigation showing specific steps that may or may not match the class agreed-upon plan",
+      "whatToDo": "What to do: Between Lessons 3 and 4, examine students’ plans for investigating the lid’s role in slowing the warming up or cooling down of liquids. Have students leave their notebooks in the classroom. Students will have written their original investigation plans in one color and their corrections and additions in a different color. Use the two colors to compare how similar or different students’ original plans were to the class agreed-upon plans. If the class’ investigation procedures were very different from the student’s original set, they wrote the class set alongside their original procedures.\nIt will be important not only to hear or see students’ ideas but also to ask questions to ascertain students’ justifications for including particular features in their experimental design. It is important that students aren’t just including a single independent variable because they talked about it in class, but rather, because they understand why it is important to change only one variable while holding other variables constant. It is not important for students to use terminology like independent variable or control variable until Lesson 4.\nAdditional Lesson 3 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-Literacy.RST.6-8.3: Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks.\nStudents are working toward this standard. Students work collaboratively to generate investigation plans, planning how to carry out an experiment and take measurements. They work on these plans in small groups and revise the plans based on class consensus.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L03-AO2.html"
+      }
+    },
+    {
+      "id": "62-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: Water is made of particles of matter",
+      "shortTitle": "Look for: Water is made of particles of matter",
+      "peCode": "4.C",
+      "buildingTowards": "Building towards: 4.C Develop a model to describe why mass is lost in some conditions but not others (open systems versus less-open systems), using a particle model of matter for liquids and gases.",
+      "lookListenFor": "What to look/listen for: Students’ responses to the first question on the handout Explanations and Predictions of Lids and Covers are a good opportunity to assess the use of these ideas after they have been (re)established/agreed upon by the class at the end of day 3. In the responses look for these ideas:\nWater is made of particles of matter.\nParticles of water go into the air over time (evaporation), leaving fewer particles of water behind in the liquid.\nParticles of water in the air can’t go through a solid lid.\nParticles of water in the air may be able to go through gaps in the solid parts of the system (e.g., the straw hole or where the lid meets the walls of the cup).\nThis is also an opportunity to determine if students have a particulate model of matter for solids from 5th grade. This model will be (re)established in Lesson 6. But you can pre-assess student understanding of it now, by looking for this idea in their responses to questions 1 and/or 4 on Explanations and Predictions of Lids and Covers:\nThe cup’s solid walls and lid are also made of particles. These particles are so closely spaced together that gas particles can’t fit between them to get into or out of the system.",
+      "whatToDo": "What to do: Check to see if students apply particulate models of matter to explain this process. In NGSS, in 5th grade students should have developed a particulate model of matter for liquids and gases and used it to explain phenomena such as the gradual disappearance of liquid water in an open system (evaporation).\nAdditional Lesson 4 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-Literacy.RST.6-8.3: Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks.\nStudents follow a multistep procedure in days 1 and 2 of this lesson. Asking students to keep a record of each step they complete by putting a checkmark near that step can help them develop a transferable approach to tracking their progress on other technical tasks that are in multistep procedure form in other contexts.\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.Content.6.NS.C.5: Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, debits/credits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.\nCCSS.MATH.Content.6.SP.A.3: Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.\nIn this lesson’s three investigations, students measure, calculate, and represent drops in temperature and mass in the cup systems as negative numbers, increases in temperature and mass as positive numbers, and no change as 0 in each situation. Students pool their data to calculate class mean.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L04-AO3.html"
+      }
+    },
+    {
+      "id": "62-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Modified procedures…",
+      "shortTitle": "Look for: What to look/listen for: Modified procedures…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Plan and carry out investigations to determine the effect of a lid on temperature change and mass change in systems that are more open and less open.",
+      "lookListenFor": "What to look/listen for: Modified procedures for the lid investigation in preparation for a slightly different investigation about mass changes occurring in open versus less open systems.",
+      "whatToDo": "What to do: Collecting this revised procedure is a good opportunity to assess the planning aspects of this practice. As students carry out the second investigation in small groups on day 2 to determine the effect of a lid on mass change of a hot liquid in two cup systems. The group lab work in the first and second investigations is a good opportunity to assess the carrying-out aspects of this practice.\nAs groups are working, you can remove the note cards from the pooled class data table to get it ready for the next class. Have each group bundle the group members’ handouts together with a paperclip and turn them in so you can see each student’s copy of the new procedure. You can look through these sets to provide feedback on the investigation plans before starting the lab on day 2.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L04-AO1.html"
+      }
+    },
+    {
+      "id": "62-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students apply conce…",
+      "shortTitle": "Look for: What to look/listen for: Students apply conce…",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B Analyze and interpret data by applying concepts of probability to calculate the mathematical mean to compare the temperature change and mass change across conditions (patterns) and use these measures to make claims about the effect of the lid.",
+      "lookListenFor": "What to look/listen for: Students apply concepts of probability to calculate the mathematical mean for the two systems to compare the temperature drop and mass change in each condition and use these measures to make claims about the effect of the lid at the end of each investigation. Look for students’ growing fluency in their ability to independently calculate an average across this lesson.",
+      "whatToDo": "What to do: Students’ calculations on the handout Procedure: Measuring Changes in Mass in the Cups and their responses in its Making Sense section are a good opportunity to assess the use of this practice in concert with the related science ideas targeted by the lesson-level performance expectations. Calculating statistical measures of central tendency (mode, mean, and median) is a new skill in 6th grade, based on the CCMS. (Use of the mode and median will be introduced in OpenSciEd units 6.3 and 6.4.) Students also use negative numbers in this lesson to represent temperature and mass decreases in the systems. However, if students have not already worked with these ideas and skills in math class or are concurrently developing them, don’t expect students to have mastered them yet. Talk with your math teachers to determine your students’ development with respect to averages and negative numbers.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L04-AO2.html"
+      }
+    },
+    {
+      "id": "62-5-6-2-lesson-5-teacher-reference-lesson-5-assessment",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "title": "6.2 Lesson 5 Teacher Reference Lesson 5 Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 05 — 6.2 Lesson 5 Teacher Reference Lesson 5 Assessment.",
+      "files": {
+        "studentHandout": "lesson_5/original/6.2 Lesson 5 Teacher Reference Lesson 5 Assessment.docx",
+        "teacherGuide": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": "lesson_5/original/6.2 Lesson 5 Answer Key Lesson 5 Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeZdJAcY6kc52hetuwF2Kp_dOI3BTJAiYt-msbGwpXHlpv0Ug/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "62-5-cold-lemonade-on",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "title": "Cold Lemonade on",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 05 — Cold Lemonade on.",
+      "files": {
+        "studentHandout": "lesson_5/original/6.2 Lesson 5 Assessment Cold Lemonade on.docx",
+        "teacherGuide": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": "lesson_5/original/6.2 Lesson 5 Answer Key Lesson 5 Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScKZrqtePgXKV5--drObd_qhRNAGaV-m58onYTrVOnTpEJ0mQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "62-5-ao-3",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Construct an argument to support the claim that water…",
+      "shortTitle": "Construct an argument to support the claim that water…",
+      "peCode": "5.B",
+      "buildingTowards": "Building towards: 5.B Construct an argument to support the claim that water forming on the outside surface of a cold cup system comes from the air outside the system and is not leaving the system through the walls.",
+      "lookListenFor": "",
+      "whatToDo": "What to do:\nIf students choose Michael or Sarah as the claim they most agree with, and/or the data from the current investigations is not convincing to them, consider conducting a follow-up investigation. Chill an empty plastic or metal cup overnight and then make observations of the empty cup the following day. Remove the cup from the cooler and place it into the classroom air. Watch and observe that water continues to collect on the surfaces of the chilled cup even when there is no water inside the cup.\nIf students select the correct claim but do not support it with evidence, consider practicing with them how to write an explanation that draws on evidence and/or showing students examples of explanations written using evidence.\nStart thinking about next steps. Say, It seems like we’ve figured out that most matter cannot escape the cup system because it can’t go through the walls and it mostly can’t go through the lid. Do we think if we could test a completely sealed-off container where no matter could escape, that the liquid would still warm up or cool down over time? Why or why not? Elicit a few initial ideas from students, and collect students’ assessments before they leave class.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L05-AO3.html"
+      }
+    },
+    {
+      "id": "62-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: ideas of analysis and conclusion questions fo…",
+      "shortTitle": "Look for: ideas of analysis and conclusion questions fo…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Collect and analyze different forms of data to identify patterns across our data sources that serve as evidence that condensation that forms on the outside surface of a cold cup system comes from the air outside the system.",
+      "lookListenFor": "What to look/listen for:\nideas of analysis and conclusion questions for both parts of the Water Droplet Investigation.\npatterns from the evidence that point to condensation coming from the air outside the cup.\nFor Part A, listen for students to claim that the mass increase is due to water from the outside air condensing on the cup surface. If students are missing this connection, probe what they would expect to happen to the measured mass if the water droplets came from inside the cup (e.g., the mass would stay the same or go down).\nFor Part B, listen for students to use evidence that since the water droplets are clear and the water inside the cup is colored, the water on the outside cannot come from inside the cup.",
+      "whatToDo": "What to do:\nIf students continue to struggle with one or the other of these investigations, point them to their observations during related experiences in which water droplets formed on a surface where there was no water to begin with (e.g., dew forming on grass in the morning, condensation on windows where it was cold inside and warm outside).",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L05-AO1.html"
+      }
+    },
+    {
+      "id": "62-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: Pattern 1: Agreement with Regina and explanat…",
+      "shortTitle": "Look for: Pattern 1: Agreement with Regina and explanat…",
+      "peCode": "5.B",
+      "buildingTowards": "Building towards: 5.B Construct an argument to support the claim that water forming on the outside surface of a cold cup system comes from the air outside the system and is not leaving the system through the walls.",
+      "lookListenFor": "What to look/listen for: There are several ways to interpret the student data from this assessment. Below are a few patterns you may see:\nPattern 1: Agreement with Regina and explanation (in words and a diagram) that the water collecting on the outside comes from the air, supported by the evidence from the Water Droplet Investigation and related experiences. These students should be considered as meeting the lesson-level performance expectation.",
+      "whatToDo": "What to do:\nIf students choose Michael or Sarah as the claim they most agree with, and/or the data from the current investigations is not convincing to them, consider conducting a follow-up investigation. Chill an empty plastic or metal cup overnight and then make observations of the empty cup the following day. Remove the cup from the cooler and place it into the classroom air. Watch and observe that water continues to collect on the surfaces of the chilled cup even when there is no water inside the cup.\nIf students select the correct claim but do not support it with evidence, consider practicing with them how to write an explanation that draws on evidence and/or showing students examples of explanations written using evidence.\nStart thinking about next steps. Say, It seems like we’ve figured out that most matter cannot escape the cup system because it can’t go through the walls and it mostly can’t go through the lid. Do we think if we could test a completely sealed-off container where no matter could escape, that the liquid would still warm up or cool down over time? Why or why not? Elicit a few initial ideas from students, and collect students’ assessments before they leave class.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L05-AO2.html"
+      }
+    },
+    {
+      "id": "62-6-6-2-lesson-6-teacher-reference-lesson-6-assessment",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "6.2 Lesson 6 Teacher Reference Lesson 6 Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 06 — 6.2 Lesson 6 Teacher Reference Lesson 6 Assessment.",
+      "files": {
+        "studentHandout": "lesson_6/original/6.2 Lesson 6 Teacher Reference Lesson 6 Assessment.docx",
+        "teacherGuide": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/6.2 Lesson 6 Answer Key Lesson 6 Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScHfaW-pom6eOCdfiwF1tce6tdUmSmQN6I2nXzLmTLGpsgbQg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "62-6-explaining-the-effect",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Explaining the Effect",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 06 — Explaining the Effect.",
+      "files": {
+        "studentHandout": "lesson_6/original/6.2 Lesson 6 Assessment Explaining the Effect.docx",
+        "teacherGuide": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/6.2 Lesson 6 Answer Key Lesson 6 Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSe66FCTXRym95b7Cfo9jmnVS-3UwbV7FsqxSIvFHZNRwLqXKQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "62-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: Questions 3 and 4 on this assessment are desi…",
+      "shortTitle": "Look for: Questions 3 and 4 on this assessment are desi…",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Develop and use a particle model of matter for solids, liquids, and gases to show how structural differences in a cup system allow water molecules to leave the system at some points in the system but not at others.paste LLPE",
+      "lookListenFor": "What to look/listen for:\nQuestions 3 and 4 on this assessment are designed to assess student progress in developing and using particulate models to account for how structural differences in different cup systems would cause different amounts of matter loss through evaporation. Assess the joint responses to Questions 3 and 4 and look for the elements identified in Rubric for Model in Lesson 6 Assessment.\nQuestion 5 helps problematize that mass loss is correlated with more rapid temperature change in the liquid and therefore may be the cause (or part of the cause) of this increased rate of temperature change. But it is not recommended that you formally assess that question. Instead, this question can be used as a formative assessment for future learning.\nQuestion 6 targets one part of one element of the practice of analyzing and interpreting data that students have worked with in Lessons 3 and 4. If students haven’t had additional practice calculating a mean and explaining how to determine a mean in their math classes by this point in the year, you may want to remove this question from the assessment.\nSee Lesson 6 Assessment Scoring Guide for further guidance.",
+      "whatToDo": "What to do: If students struggle with question 3, ask students to reflect on our past representation of particulate models. Point out different representations, such as the length of different motion lines, or the distance between particles, and ask students to explain what they might represent in each cup system. Have students look back at their models and adjust any representations as appropriate based upon the conventions used in prior class models. If students struggle with question 4, ask students what they showed differently between the models of each cup in question 3, and how that difference may contribute to the liquid loss over time. If students struggle with question 6, have them go back and identify each of the variables they kept constant in Lessons 3 and 4, how many measurements they took in those investigations to calculate a difference, and how many trials they measured to determine a mean.Use Rubric for Model in Lesson 6 Assessment to evaluate students’ use of different elements of DCIs, CCCs, and practices in their responses.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L06-AO2.html"
+      }
+    },
+    {
+      "id": "62-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Question 2 on this a…",
+      "shortTitle": "Look for: What to look/listen for: Question 2 on this a…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Develop and use a particle model of matter for solids, liquids, and gases to show how structural differences in a cup system allow water molecules to leave the system at some points in the system but not at others.",
+      "lookListenFor": "What to look/listen for: Question 2 on this assessment is designed to assess student progress in independently planning an investigation in which they identify controls, what tools are needed to gather data, and how much data are needed to support a claim about how much liquid (matter) leaves different cup systems. See Lesson 6 Assessment Scoring Guide for further guidance.",
+      "whatToDo": "What to do:\nAsk students to look back at prior investigations to determine important parts of the procedures that might apply to the current procedure.\nLook back at past independent, dependent variables, and constants to determine why they are important and what their purpose was in past investigations, and re-evaluate the purpose and intent of each variable identified within the current investigation.\nUse Rubric for Model in Lesson 6 Assessment to evaluate students’ use of different elements of DCIs, CCCs, and practices in their responses.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L06-AO1.html"
+      }
+    },
+    {
+      "id": "62-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: This is a good opportunity for formative asse…",
+      "shortTitle": "Look for: This is a good opportunity for formative asse…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Develop two models to show relationships among the parts of the mostly closed cup system and how light and heat or cold (i.e., mechanisms) cause the liquid inside to warm up or cool down (effect).",
+      "lookListenFor": "What to look/listen for:\nThis is a good opportunity for formative assessment of student understanding based on an examination of students’ models and claims. When analyzing students’ work, keep in mind that students bring more prior knowledge about light than heat, and their models should reflect this. Their models of light interactions with the closed cup system should be much more detailed and should include references to the concepts learned in the previous unit, Light and Matter.\nLikewise, their claims should include evidence gathered during this unit. In contrast, students’ models and claims in regards to heat energy or cold will more likely include references to their personal experiences.\nIn either case, students’ work should give you information about what they do and don’t yet understand, which should guide your instructional decisions in the next few lessons.\nWhen analyzing students’ models of light’s interactions with the cup system, look for evidence of student understanding of the following concepts:\nLight travels in straight lines.\nLight reflects, transmits, or is absorbed in varying amounts when it shines on the cups.\nIf all or part of the light is absorbed, that light energy may be related to the temperature change or may turn into heat.\nBecause students have not learned about heat energy yet, when you analyze their models of heat and the corresponding claims, look for evidence that students are using their prior day-to-day experiences. Examples include these:\nHot or warm objects cool down; cool or cold objects warm up.\nWhen hot or warm objects come into contact with cool or cold objects, the cooler objects warm up and the warmer objects cool down.\nTemperature tells us how warm or cool something is.",
+      "whatToDo": "What to do:\nIf students are struggling with applying their understandings of light to this context, you may need to revisit ideas from Light and Matter and guide students in thinking more deeply about how to use what they know in Lesson 8.\nIf students struggle with using personal experiences with heat to construct a model that predicts how heat might interact with the cup system, you may need to demonstrate how to use personal experiences with heat and cold to construct a model.\nIf students are struggling with writing a claim, or if they fail to support their claims with evidence and reasoning, they may need additional support. This could include providing sentence stems, providing a CER graphic organizer, or allowing students to work in pairs or small groups to write claims supported by evidence and reasoning.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/6.2 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L07-AO1.html"
+      }
+    },
+    {
+      "id": "62-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Develop and use models to describe how light transmis…",
+      "shortTitle": "Develop and use models to describe how light transmis…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Develop and use models to describe how light transmission through, reflection off, and absorption by cup walls causes changes in the temperature (effect) of water inside the cup.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: If students have difficulty explaining the difference between cups, ask students what is different between the two cups and how that might correspond with our class dataset. Ask students to look back at previous models developed that might help explain other ways that the water could have changed temperature in a dark condition. Provide students the option to orally explain what is occuring, especially if students have not engaged in the One-way Mirror Unit and the light representations are new to students.Students will revisit light in Lesson 15 to develop a more complete explanation of how light absorption by particles is a transfer of energy from light to movement of particles, which results in particles with more kinetic energy. For now it is OK if students refer to absorption as a general transfer of energy at the macroscale as opposed to the particle scale.\nDiscuss students’ models. Ask students to share their models with a partner seated near them for about 2-3 minutes. Encourage students to add to their models as they share.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L08-AO2.html"
+      }
+    },
+    {
+      "id": "62-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: how differences in light’s interaction with t…",
+      "shortTitle": "Look for: how differences in light’s interaction with t…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Develop and use models to describe how light transmission through, reflection off, and absorption by cup walls causes changes in the temperature (effect) of water inside the cup.",
+      "lookListenFor": "What to look/listen for:\nLook for ideas such as the following:\nhow differences in light’s interaction with the cup wall account for the observed temperature differences\nhow differences in light’s interaction with the water inside the cup account for the observed temperature differences\nhow the process of absorption is described in words and represented in the models",
+      "whatToDo": "What to do: If students have difficulty explaining the difference between cups, ask students what is different between the two cups and how that might correspond with our class dataset. Ask students to look back at previous models developed that might help explain other ways that the water could have changed temperature in a dark condition. Provide students the option to orally explain what is occuring, especially if students have not engaged in the One-way Mirror Unit and the light representations are new to students.Students will revisit light in Lesson 15 to develop a more complete explanation of how light absorption by particles is a transfer of energy from light to movement of particles, which results in particles with more kinetic energy. For now it is OK if students refer to absorption as a general transfer of energy at the macroscale as opposed to the particle scale.\nDiscuss students’ models. Ask students to share their models with a partner seated near them for about 2-3 minutes. Encourage students to add to their models as they share.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L08-AO1.html"
+      }
+    },
+    {
+      "id": "62-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: identify a testable question given the water…",
+      "shortTitle": "Look for: identify a testable question given the water…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Carry out an investigation to measure temperature inside and outside a cup system to test whether heat or cold moves through the wall of the system.",
+      "lookListenFor": "What to look/listen for: Listen for the extent to which students can do these things:\nidentify a testable question given the water bath setup\ndiscuss reasonable procedures for obtaining an accurate temperature measurement\nidentify important control variables\nexplain how manipulating the temperature of the water outside the cup system affected the temperature of the water inside the system\nexplain how manipulating the temperature of the water inside the cup system affected the temperature of the water outside the system\nconclude that heat or cold moved through the cup wall",
+      "whatToDo": "What to do:\nUse this opportunity to review and reteach about planning investigations, depending on where you have seen your students’ progress and struggles. Give students an opportunity to contribute ideas to the investigation plan before offering or confirming procedures to be followed.\nIf students are not identifying important controls, use challenge questions, such as these:\nWhat if I only placed 100 mL outside the cup--would that matter?\nWhat if we don’t seal the containers--would that change our results?\nWhat if we measure temperature with the thermometer touching the bottom of the cup or container as opposed to the middle--do we think the temperature would be the same?\nIf students struggle with understanding how this lab provides evidence of heat and cold moving through the cup wall, brainstorm everyday experiences of these same processes, such as feeling the cold of an iced drink or the heat from a warm cup, placing an ice pack on an injury, heating air in an oven to cook food, boiling water to cook an egg inside the shell, feeling cold when your mouth touches ice cream, and sitting in a hot bathtub. Use the related experiences as a way to establish patterns across phenomena in which we sense heat or cold moving.\nNote that students will not establish the directionality of the movement until Lessons 13 and 14, so maintaining the idea that cold moves right now is OK.\nPreview the procedures and show students the materials to be used in the test.\nSAFETY PRECAUTIONS\nGo over safety precautions when working with hot liquids. Review why wearing safety goggles for the entire lab is required and how you expect students to obtain and handle the hot water throughout the lab. To ensure greater safety, you should pour the hot water into small cups for each group.\nConduct the Water Bath Lab. Convene the class in a Scientists Circle and follow Part 2 on the handout. Have 4 student volunteers assist you with the temperature measurements and sealing the containers.\nFill 2 Rubbermaid TakeAlong containers or deli container with 200 mL room-temperature water each.\nFill 1 Rubbermaid TakeAlong containers or deli container with 200 mL cold water.\nFill 1 Rubbermaid TakeAlong containers or deli container with 200 mL hot water.\nFill 2 9-oz single-wall plastic cups with 200 mL cold water each.\nFill 2 9-oz single-wall plastic cups with 200 mL hot water each.\nPlace a thermometer in each of the 4 cups and each of the 4 Rubbermaid/deli containers.\nWait the agreed-upon time (approximately 10 seconds) and then have the student volunteers read the first temperature measurement for each cup-container pair.\nPair the cups and containers to produce the following combinations and label each combination with letters a, b, c, and d:\nhot cup, room-temperature container\nhot cup, cold container\ncold cup, room-temperature container\ncold cup, hot container\nThe waterline in the container should be displaced enough to align with the waterline inside the cup.\nSeal each container’s lid by twisting it tightly down.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/6.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L09-AO1.html"
+      }
+    },
+    {
+      "id": "62-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Cold water and room-temperature water both co…",
+      "shortTitle": "Look for: Cold water and room-temperature water both co…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A.2 Develop models based on evidence to explain that matter is made of particles that are in motion, and though the individual particles are not visible to the eye, their collective behavior can be observed as more or less movement depending on the matter’s temperature.",
+      "lookListenFor": "What to look/listen for:\nCold water and room-temperature water both contain particles that move around.\nThe number of particles in the cold water and room-temperature water should be equal.\nThe particles in the cold water are moving less than the particles in the room-temperature water.",
+      "whatToDo": "What to do:\nCirculate around the room to view students’ drawings and get a sense of whether you need to pause and discuss any information source in more detail. If necessary, collect the notebooks to examine the drawings more closely and provide feedback. In the feedback, ask questions about parts of the model that would spur changes to the model, such as\nWhat evidence do we have to support this idea?\nHow does the number of particles in each sample compare?\nAre the particles moving more or less in each sample?\nIf students are struggling to grasp the connection between water movement and temperature from the reading, consider finding a video demonstration or online simulation of Joule’s experiment and apparatus. This may be particularly useful for emergent multilingual learners.\nCompare models with a classmate. Project slide S. Ask students to turn to a partner and compare drawings. Say, What was something similar between your drawings? What was something different? Give students a few minutes to compare.\nBring students back together for a brief Building Understandings Discussion. Say, Before we move on, we need to brainstorm ways to show whether particles are moving very little or whether they are moving more. We need a common way to represent some of our ideas.\nGenerate ideas about representation of movement in models. Discuss each of the suggested representations and allow students to choose a way to represent greater and lesser particle movement in a liquid that they think is consistent with the evidence they have collected. The class can agree on the representation now or wait until Lesson 11 to agree on it, however you will need to tentatively choose one representation to use for a class model now, that can be retained or modified later.✱",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L10-AO2.html"
+      }
+    },
+    {
+      "id": "62-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Food coloring, when dropped into water at any…",
+      "shortTitle": "Look for: Food coloring, when dropped into water at any…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A.1 Develop models based on evidence to explain that matter is made of particles that are in motion, and though the individual particles are not visible to the eye, their collective behavior can be observed as more or less movement depending on the matter’s temperature.",
+      "lookListenFor": "What to look/listen for:\nFood coloring, when dropped into water at any temperature, moves or spreads out.\nIn cold water, the food coloring moves around or spreads out less than in hot water.\nIn room-temperature water, the food coloring should spread out more than in cold water but less than in hot water.",
+      "whatToDo": "What to do:\nIf students are struggling to notice those details, consider repeating the lab outside of class and filming the movement of the food coloring to play back and discuss on day 2. Sometimes with classroom distractions removed, students can focus better on a video and notice details that they previously overlooked.\nIf students are no showing the difference between the two cups, circulate as students discuss their models with a partner on the beginning of Day 2 and ask questions such as,\nWhat differences did we notice in the cups?\nWhat could be happening differently in the two cups to cause that to happen? How might we show what is happening?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L10-AO1.html"
+      }
+    },
+    {
+      "id": "62-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Construct an explanation about why food coloring move…",
+      "shortTitle": "Construct an explanation about why food coloring move…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Construct an explanation about why food coloring moves more in hot water than in cold water using the idea that at the particle scale, particles in liquids at warmer temperatures have more kinetic energy than particles in liquids at cooler temperatures.",
+      "lookListenFor": "",
+      "whatToDo": "What to do:\nIf students struggle to connect these ideas, visit the following simulations to help students trace atoms:\nMolecular view of a liquid: http://bit.ly/molecular-view-liquid\nMolecular view of a gas: http://bit.ly/molecular-view-gas\nMark two atoms and then press “Play”. Allow students to watch the simulation as a way of helping them explain how the food coloring (and the perfume sprayed into the air) can spread throughout the sample of matter.\nIf students use ideas about the speed of particle movement accurately but do not use the term kinetic energy, they have mastered the conceptual ideas. Continue to reinforce that kinetic energy is the scientific term for particle movement and give students practice using this new term in subsequent investigations and discussions.\nIf students use the vocabulary but it’s unclear whether they know what it means, press them to elaborate on how kinetic energy connects to particle movement.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/6.2 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L11-AO2.html"
+      }
+    },
+    {
+      "id": "62-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: Ideas about kinetic energy and particles movi…",
+      "shortTitle": "Look for: Ideas about kinetic energy and particles movi…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Construct an explanation about why food coloring moves more in hot water than in cold water using the idea that at the particle scale, particles in liquids at warmer temperatures have more kinetic energy than particles in liquids at cooler temperatures.",
+      "lookListenFor": "What to look/listen for:\nIdeas about kinetic energy and particles moving faster in warm and hot water being used to explain the spread of the food coloring.\nEvidence being used from the simulation to back up their claims that particles in hot water move faster.\nIdeas about kinetic energy and particles moving faster in hot water connected to what they observed with the spread of the food coloring and the peppermint dye as well as what they read about in Joule’s experiment.\nEvidence cited from different sources of information to back up claims that particles in hot water move faster, and also that making particles move faster will result in an increased temperature.",
+      "whatToDo": "What to do:\nIf students struggle to connect these ideas, visit the following simulations to help students trace atoms:\nMolecular view of a liquid: http://bit.ly/molecular-view-liquid\nMolecular view of a gas: http://bit.ly/molecular-view-gas\nMark two atoms and then press “Play”. Allow students to watch the simulation as a way of helping them explain how the food coloring (and the perfume sprayed into the air) can spread throughout the sample of matter.\nIf students use ideas about the speed of particle movement accurately but do not use the term kinetic energy, they have mastered the conceptual ideas. Continue to reinforce that kinetic energy is the scientific term for particle movement and give students practice using this new term in subsequent investigations and discussions.\nIf students use the vocabulary but it’s unclear whether they know what it means, press them to elaborate on how kinetic energy connects to particle movement.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/6.2 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L11-AO1.html"
+      }
+    },
+    {
+      "id": "62-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Not all particles in a sample of matter have…",
+      "shortTitle": "Look for: Not all particles in a sample of matter have…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: When analyzing students’ thinking and the evidence they use to support it, look for evidence of student understanding of the following concepts:\nNot all particles in a sample of matter have the same kinetic energy.\nKinetic energy is transferred from one particle to another in a particle collision.\nTemperature is a measure of the average kinetic energy of the particles in a sample of matter.\nThe total kinetic energy of a sample of matter is the sum of the kinetic energy of all the particles in that sample. If you add more particles to the sample, the total kinetic energy increases but the temperature (the average kinetic energy) might stay the same.",
+      "whatToDo": "What to do: If students are struggling with applying their understanding of the transfer of energy that occurs when particles collide, they may need to revisit that idea by looking closely at the simulation, and playing it in slow motion. It is foundational to understanding how energy transfers between the liquid inside the cup system and the outside air.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L12-AO2.html"
+      }
+    },
+    {
+      "id": "62-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Particles have varying amounts of kinetic energy",
+      "shortTitle": "Look for: Particles have varying amounts of kinetic energy",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for:\nParticles have varying amounts of kinetic energy.\nAs temperature increases, the average KE increases. As temperature decreases, so does the average KE.\n“Total kinetic energy of all the particles” increases and decreases with corresponding changes in the “Initial # of particles”.",
+      "whatToDo": "What to do: If students are struggling with the concepts above, project the simulation and re-manipulate certain aspects of the simulation in question. Compare the results and show the outcomes in the simulation in real-time. Ask students to pay close attention to what happens when the particles collide and the data (temperature, total energy) as more particles are added to the sample in the simulation. Another checkin on these ideas will occur at the end of day 2. Consider revisiting this chart during day 2 if any science ideas are missing.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L12-AO1.html"
+      }
+    },
+    {
+      "id": "62-12-ao-3",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Particles have varying amounts of kinetic energy",
+      "shortTitle": "Look for: Particles have varying amounts of kinetic energy",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.2 Analyze and interpret data to mathematically represent the cause-and-effect relationships between the average kinetic energy of the particles of a gas, the temperature of the gas, and the total kinetic energy of all the particles in the gas.",
+      "lookListenFor": "What to look/listen for:\nParticles have varying amounts of kinetic energy.\nDuring particle collisions, energy is transferred from the particles with more kinetic energy to the particles with less kinetic energy.\nTemperature is a measure of the average kinetic energy of the particles in the matter.\nThe total energy can increase if more particles are added to a sample, but the average energy can stay the same.",
+      "whatToDo": "What to do: If students are struggling with the concepts above, project the simulation and have students share their results again. Compare the results and show the outcomes in the simulation in real-time. Ask students to pay close attention to what happens when the particles collide and the data (temperature, total energy) as more particles are added to the sample in the simulation.\nSupporting emergent multilinguals: Before students engage in whole class discussions, it can be helpful to first provide them with the opportunity to work with others - either in pairs, triads, or small groups - on ideas related to their reasoning. Prior to this moment, students have been in small groups, but have not articulated their findings across the simulation to others. Consider giving students a moment to briefly share with someone from another group their findings before coming together in a consensus discussion. This can be especially helpful for emerging multilingual students because they offer students another chance to engage in sensemaking with their peers, and also offers them the space to use their linguistic and nonlinguistic resources to express their ideas (and learn from other students’ uses of these resources too).\nUniversal Design for Learning: Providing scaffolds such as sentence starters and images can support students in expressing observations and findings. Before beginning the discussion, remind students that sentence starters are available on the Communicating in Scientific Ways poster that can help them share their ideas, engage in argumentation, and come to consensus as a class about what we have figured out.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L12-AO3.html"
+      }
+    },
+    {
+      "id": "62-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Investigating Particle Collisions",
+      "shortTitle": "Investigating Particle Collisions",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Carry out investigations using a particle model of matter (with marble manipulatives and computer simulations) to generate evidence that one way the temperature of matter changes over time is that kinetic energy is transferred in collisions between the particles (matter) within and between solids, liquids, and gases.",
+      "lookListenFor": "What to look/listen for:\nCollisions between particles in a gas and a liquid can also transfer kinetic energy (KE or motion energy) from one particle to another.\nCollisions between particles in a gas can transfer kinetic energy (KE or motion energy) through particles in a solid to particles in a liquid on the other side of the solid.\nCollision between particles can cause a warmer object to cool down and a cooler object it is contact with to warm up\nUse Key for Investigating Particle Collisions in Different States of Matter as a key to assess student responses.",
+      "whatToDo": "What to do:\nIf some students are struggling with these ideas, visit these students during their investigations on day 2 and facilitate discussions around their work in activities #5 and #6 to help them reason about particle collisions transferring KE to neighboring particles in solids.\nWhen you are working with these students, you might decide to curtail or skip doing activities #7 and #8 with them, or you might want to work through a portion of them together.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_13/original/6.2 Lesson 13 Handout Investigating Particle Collisions.docx",
+        "teacherGuide": "lesson_13/original/6.2 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L13-AO1.html"
+      }
+    },
+    {
+      "id": "62-14-6-2-lesson-14-teacher-reference-lesson-14-assessment",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "6.2 Lesson 14 Teacher Reference Lesson 14 Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 14 — 6.2 Lesson 14 Teacher Reference Lesson 14 Assessment.",
+      "files": {
+        "studentHandout": "lesson_14/original/6.2 Lesson 14 Teacher Reference Lesson 14 Assessment.docx",
+        "teacherGuide": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/6.2 Lesson 14 Answer Key Lesson 14 Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSd9imc1SRPa8pot8J7B7cshlCFMDZ0jzcOPCvVCdfGUpem_eg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "62-14-icing-injuries-assessment",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Icing Injuries Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 14 — Icing Injuries Assessment.",
+      "files": {
+        "studentHandout": "lesson_14/original/6.2 Lesson 14 Assessment Icing Injuries Assessment.docx",
+        "teacherGuide": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/6.2 Lesson 14 Answer Key Lesson 14 Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScJ7IlTaELUbfixNiZhUAlhe8BlfHtapUrTYy2D8b2UniNnSQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "62-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Use the assessment g…",
+      "shortTitle": "Look for: What to look/listen for: Use the assessment g…",
+      "peCode": "14.B",
+      "buildingTowards": "Building towards: 14.B Construct written arguments supported by empirical evidence and scientific reasoning to support claims describing how energy spontaneously transfers out of hotter regions or objects and into colder ones.",
+      "lookListenFor": "What to look/listen for: Use the assessment guidance provided in Lesson 14 Assessment Scoring Guide and Rubric for Model in Lesson 14 Icing Injuries Assessment to assess students’ ideas about energy transfer in the assessment Icing Injuries Assessment.",
+      "whatToDo": "What to do: Use Lesson 14 Assessment Scoring Guide and Rubric for Model in Lesson 14 Icing Injuries Assessment for scoring guidance.\nAdditional Lesson 14 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-Literacy.RST.6-8.9: Compare and contrast the information gained from experiments, simulations, video, or multimedia sources with that gained from reading a text on the same topic.\nStudents compare a variety of evidence from simulations, videos, labs, and texts to determine which claim is best supported by the evidence.\nCCSS.ELA-Literacy.W.6.1: Write arguments to support claims with clear reasons and relevant evidence.\nWorking collaboratively as a class, you model for students how to write a evidence-based explanation for how the water in the cup warmed up over time. Then, working individually, students write an evidence-based explanation for a related phenomenon in which they are encouraged to explain how it works to minimize energy transfer, citing relevant evidence and supporting their thinking with scientific reasoning.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L14-AO2.html"
+      }
+    },
+    {
+      "id": "62-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Modeling What Is",
+      "shortTitle": "Modeling What Is",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Develop and use models to track how energy spontaneously transfers out of hotter regions and into colder ones and causes changes in the water’s temperature within the cup system.",
+      "lookListenFor": "What to look/listen for: Students' ideas about the direction of the energy transfer and that this energy transfer occurs when higher-energy particles collide with lower-energy particles. Students will use models of energy transfer to design cups to minimize energy transfer from the air into the water in Lesson Set 3.",
+      "whatToDo": "What to do: If students struggle getting started, encourage them to look back in their student notebook to remind themselves what they have figured out about how energy transfers between materials. In addition, ask some probing questions to help students connect what they saw happening with the butter to what is happening to cause the liquid in the cup to warm up.\nArrange students in groups to share their models. Focus students on discussing how to represent the flow of energy from outside the cup to the water inside the cup. Give groups about 5 minutes to share their models and to discuss the way they represented their ideas.\nUniversal Design for Learning: This modeling work can be differentiated to support engagement based on your students’ needs. If you prefer, arrange students in partners or heterogenous small groups from the beginning of the modeling activity. Struggling students may be overwhelmed with the modeling activity if they begin completely on their own. This will allow more advanced students to work with students who may still be struggling as a way for students to coach each other in the modeling activity.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_14/original/6.2 Lesson 14 Handout Modeling What Is.docx",
+        "teacherGuide": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L14-AO1.html"
+      }
+    },
+    {
+      "id": "62-15-ao-3",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "15.B.1 Develop a consensus model for explaining two m…",
+      "shortTitle": "15.B.1 Develop a consensus model for explaining two m…",
+      "peCode": "15.B",
+      "buildingTowards": "Building towards: 15.B.1 Develop a consensus model for explaining two mechanisms for energy transfer into a system, and design features that minimize energy transfer into a system.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: As small groups are working, circulate and ask probing questions where necessary if students are struggling with how the information they are reading helps to explain how energy transfer is being affected in the cup system.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L15-AO3.html"
+      }
+    },
+    {
+      "id": "62-15-ao-4",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Lesson 15 · Check-in 4",
+      "shortTitle": "Lesson 15 · Check-in 4",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "The gallery walk of different models is an opportunity for you to use a more structured peer feedback protocol. For example, use the sticky note peer review process. In this protocol - shared on Tools for Ambitious Science Teaching - students use sticky notes to leave questions and comments on posted student work. There is time built in for students to respond to feedback.\nConduct the gallery walk. Have the groups rotate around the room, moving to the next poster set every 5 minutes. Remind students to first read the posters quietly for 1-2 minutes, then discuss with their groups for 1-2 minutes, and then record one similarity and one difference on the comparison T-chart for that poster set.\nRemind students that they should try to come up with something new that has not already been recorded on the T-chart by another group. Note that there may be more than one small group at each poster set at any given time. Remind students that they will need to move from poster to poster in the set to make room for the other groups, and to take turns adding their group’s ideas to the T-chart. Step in to manage traffic if necessary. After 15 minutes, have all the students come to a Scientists Circle with their science notebook and a chair.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L15-AO4.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "62-15-ao-5",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: Consider whether students are connecting idea…",
+      "shortTitle": "Look for: Consider whether students are connecting idea…",
+      "peCode": "15.B",
+      "buildingTowards": "Building towards: 15.B.2 Develop a consensus model for explaining two mechanisms for energy transfer into a system, and design features that minimize energy transfer into a system.",
+      "lookListenFor": "What to look/listen for: Through this discussion, be mindful of formatively assessing the different dimensions that students are engaging with:\nConsider whether students are connecting ideas about particle motion and kinetic energy to the different mechanisms of energy transfer via conduction (particle collisions) or radiation (light absorption).\nConsider whether students are able to use model representations that they’ve agreed upon to represent their thinking. When students enter the design challenge in the next lesson, they will need to be able to model their design choices and how they minimize energy transfer without the scaffolding you are providing here.\nConsider whether students are using energy as a way of explaining the flow into the cup system.",
+      "whatToDo": "What to do:\nIf students are struggling with disciplinary core ideas, focus them on the previous models that they developed, especially from Lessons 6, 11, and 14.\nIf students are struggling with modeling their thinking, use questioning to elicit their ideas and then brainstorm what kinds of representation they feel would best represent those ideas in a model.\nCue students to focus on kinetic energy of particles and energy from light as a way to track the energy flow into the cup systems\nDevelop a consensus model for how radiation warms a drink. Move the class to the first set of posters about what happens when light interacts with matter (or move the posters to the Scientists Circle). Say, One of the things we weren’t sure about was why putting something shiny over the outside of the cup slowed the temperature increase in the liquid. We thought it was reflective, which is important, but we weren’t sure how light actually warms things up. Let’s take a look at these models and your comments and see if we know enough now to explain this.\nRead the agreement side of the poster set’s comparison T-chart out loud, or ask a student to read it out loud to the class. After each idea has been read, revoice the idea to the class and ask if we all agree that this belongs in our consensus model. If the class agrees, have them add the idea to their handouts using the agreed-upon representations. You may want to project a version of the handout on document camera, or sketch one on a whiteboard or chart paper, as the class agrees on what to include in the consensus model.✱\nThen move on to the disagreements. After each disagreement, ask the class if this disagreement needs to be resolved to explain how preventing light from getting in slows down or minimizes energy transfer into the cup. If the majority of the class says yes, ask the groups who disagreed to share their reasoning. Use questions to clarify their ideas. Ask other students whose reasoning they find more convincing, and add those ideas to the chart paper at the front of the room.\nAfter all the ideas have been read, ask someone to summarize why something shiny slows the temperature increase in a cool liquid. Ask the class if they agree, and if anybody would like to add to this explanation.✱\nAt this point, the list of things we figured out should include:\nWhen light shines on something, it might reflect off particles, transmit between particles, or transfer energy into particles (absorption).\nIf the light transfers energy into the particles, the energy may end up as kinetic energy, meaning that the particles will speed up. If this happens to a lot of particles in a liquid, the liquid will warm up.\nYou may choose to model these ideas on a piece of chart paper. Have students add these to their Progress Tracker before moving on, telling them to leave more than half the remaining space in it to add some other key ideas.\nRepeat the process for a consensus model for why air pockets keep a drink cooler for longer. Move to the second set of posters about conduction in materials with air pockets. Say, One of the things we weren’t sure about was why using materials like styrene, koozies, or coffee cup sleeves is able to minimize the temperature change in a liquid. Let’s take a look at this model and see if we know enough now to explain this.\nReview the T-chart for agreements.\nDiscuss and resolve areas of disagreement.\nAs you discuss, develop a model that incorporates the important ideas.\nAt this point, the list of things we figured out should include:\nIf a solid material has air pockets, there are fewer particles in the air pockets for energy to transfer between through particle collisions. If a material is solid all the way through, there are more particles to collide with one another, so the energy will conduct more easily.\nRepeat the process for a consensus model for why double walls keep a drink cooler for longer. Move to the third set of posters about how double-walled containers work. Say…",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L15-AO5.html"
+      }
+    },
+    {
+      "id": "62-15-ao-2",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: Group 1 read a text about the absorption of l…",
+      "shortTitle": "Look for: Group 1 read a text about the absorption of l…",
+      "peCode": "15.B",
+      "buildingTowards": "Building towards: 15.B.1 Develop a consensus model for explaining two mechanisms for energy transfer into a system, and design features that minimize energy transfer into a system.",
+      "lookListenFor": "What to look/listen for:\nGroup 1 read a text about the absorption of light. Look to see if students make the connection that absorption of energy from light is related to an increase in particles’ kinetic energy. This group’s mechanism(s) for energy transfer are radiation and absorption of light by particles. See if students explain how reflective materials block the absorption of light.\nGroup 2 read a text about types of porous materials with air pockets. Look to see if students make the connection that porous materials are filled with air pockets and that air has fewer particles and therefore fewer opportunities for particle collisions. This group’s mechanism for energy transfer is thermal energy transfer via conduction/particle collisions. See if students explain how air pockets slow down or minimize particle collisions.",
+      "whatToDo": "What to do: As small groups are working, circulate and ask probing questions where necessary if students are struggling with how the information they are reading helps to explain how energy transfer is being affected in the cup system.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L15-AO2.html"
+      }
+    },
+    {
+      "id": "62-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students making conn…",
+      "shortTitle": "Look for: What to look/listen for: Students making conn…",
+      "peCode": "15.A",
+      "buildingTowards": "Building towards: 15.A Obtain and use information from scientific texts to evaluate the function of certain design features in minimizing energy transfer into a system.",
+      "lookListenFor": "What to look/listen for: Students making connections between why a feature or structure works using evidence from their previous investigations to support their thinking.",
+      "whatToDo": "What to do: Circulate among the groups and ask questions that will challenge students to provide evidence from earlier investigations in the unit. For example, if a student says, “The double-walled cup works because it makes thermal energy transfer into the cup slower,” ask, “What evidence do you have for that?” If students are struggling to make these connections, consider using the whole-class discussion that follows for making those connections explicitly. Add a row that is labeled “Evidence from our investigations” to the table that the class makes together, and fill it in as students suggest features of the existing designs.\nIt is expected that students will have lingering knowledge gaps for all of these features, which is the reason that they will jigsaw learning about different features in the next class period.\nMake a class record of what we do and do not know. After approximately 18-20 minutes, bring the class back together. Make a table on chart paper or whiteboard labeled to look like Features of Cups that Keep Drinks Cool. Ask each group to share a design feature from their tables. As students share design features, record them in the class table. After each suggested feature, ask students what we already know about why this feature works, and record their ideas. Then ask, What don’t we know about this feature?✱\nListen for the following ideas to come up for the identified design features:\nWhat works\nWhy it works\nStill need to know\nDouble wall\nConduction slows down when energy transfers through the space between the walls.\nWe need to know more about what’s in the wall--is it always air?\nSomething wrapped around the cup\nSome materials slow conduction into the cup.\nWe need to know what is special about styrene, cardboard, and foam.\nShiny surface\nShiny materials reflect light away from the liquid inside, so it doesn’t get absorbed.\nWe need to know more about how light warms up the liquid--what does it mean for light to be absorbed?\nColor of the cup\nLighter colors reflect light, so they don’t absorb as much energy.\nWe need to know more about how light warms up the liquid--what does it mean for light to be absorbed?\nUse questions to challenge students, and push them to explain the mechanisms that they don’t yet understand to reveal the gaps in their understanding. For example, if a student suggests that darker colors absorb more energy, you might use the following prompts to challenge that student:\nSuggested prompt\nSample student response\nWhat does it mean for something to absorb energy?\nThe energy goes into it.\nWhat happens when energy goes into a liquid?\nThe energy turns into kinetic energy and the liquid warms up.\nWhy doesn’t the light just go right through, like when light transmits through a window?\nI don’t know.\nSay, This sounds like a gap in our understanding, Let’s write that down.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L15-AO1.html"
+      }
+    },
+    {
+      "id": "62-16-ao-1",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Cold Cup Design",
+      "shortTitle": "Cold Cup Design",
+      "peCode": null,
+      "buildingTowards": "Building towards: 16. A Design a solution for a cup system with features (structures) to slow energy transfer into the liquid inside the cup (function).",
+      "lookListenFor": "What to look/listen for: Prompt students to work with their group members to design a cup with at least 3 design features they believe will slow energy transfer into the cup system. They need to think about each design feature as a structure that serves a particular function in the system. As students work in their groups, circulate among the groups to examine the emerging cup designs. Students to share examples, such as:\nThe use of metallic and other reflective colors or materials that will reflect light and minimize its absorption.\nThe use of foam that contains air pockets that will slow down conduction.\nThe use of two cups stacked within each other to create a double wall to slow down conduction.",
+      "whatToDo": "What to do: Aim to provide written feedback to each group about their initial cup design on day 2 of this Lesson or prior to Lesson 17. You can provide feedback using the Design Evaluation: Peer Feedback modified for teacher feedback as opposed to peer feedback. This feedback should target the design features specifically and not necessarily focus on the cup design as a whole. You can provide one set of written feedback per group and should ideally give it to students toward the end of day 2 when they also receive peer feedback.\nStudents may believe that thickness matters and create a dense or thickly wrapped cup. They may also believe that ‘more’ is better and utilize a lot of supplies and materials in their first creation. Do not correct any of the students’ design, but circulate among their groups to prompt them to pay attention to the criteria and constraints for the design challenge. Students will have an opportunity to revise their designs in Lesson 17. Thus, this first round of design is simply a chance for them to test their initial ideas about what will work.\nAsk students to voice any questions they have about the design process. Then, preview your expectations for their work together in groups, prompting students to think about the classroom norms as they work. Also, explain how you want students to gather materials for building their cups and cleaning up at the end of class. Once students are clear on these expectations, arrange students in groups of 2-3 for the design challenge. Group size can vary depending on the number of supplies you have available and your class size.\nDesign and build the first cup. Allow students the remainder of the class period to design and build the first cup. Circulate around the room to probe student thinking about design features and to monitor students as they gather and use materials. Remind students that if they waste materials, the unused materials should be added into their price check test.\nSave at least 5 minutes at the end of class to return supplies to their proper place. Have each group write a group name on the bottom of their cup and place their cup where you want them. Tell students that in the next class they will test their cups to see how their first design compares to the criteria and constraints.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_16/original/6.2 Lesson 16 Handout Cold Cup Design.docx",
+        "teacherGuide": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L16-AO1.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "62-16-ao-2",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Cold Cup Design",
+      "shortTitle": "Cold Cup Design",
+      "peCode": "16.B",
+      "buildingTowards": "Building towards: 16.B Carry out investigations to collect data to evaluate the performance of cup systems that slow energy transfer given the criteria and constraints of the problem, and to modify design features (structures) based on test results (functions).",
+      "lookListenFor": "What to look/listen for:\nHigh temperature change in the bright light condition may mean they need a different outside surface material to reflect light.\nHigh temperature change in the regular light condition may mean they need to re-evaluate the cup wall material, the thickness, and the amount of contact between materials.\nHigh cost or high waste means they need to rethink the type and numbers of materials used.\nToo large of a diameter means they need to rethink the thickness of their cup.",
+      "whatToDo": "What to do: Remind students that the purpose of each test was to help them evaluate whether their cup met the criteria and followed the constraints. Prompt students to look at each test result individually with respect to the criteria or constraints. Encourage students to use their test results, peer feedback and feedback from you to help them determine how to modify their cups in the 2nd design cycle.\nIf students struggle with identifying how to evaluate their cup design, return to the criteria and constraints together. For each criterion and constraint, look at the corresponding test that would provide the best information. After reviewing the test results, consider modifications to the cup features (structures) based on the results. Prompt students to think about how the modification to the cup feature would potentially alter the function in slowing energy transfer. Discuss each criterion and constraint individually to help students make connections between the criterion and constraint, the test result, and the options for modification based on the results.\nProviding written feedback to each group on Part 3: Test 1 can be beneficial to groups as they redesign their cups in Lesson 17.\nClose the lesson saying, This first round of cup designs was impressive and I’m hearing some good ideas about how you want to improve your cups even more. Think about one feature you want to modify with your cup and why you think the change will help. Be prepared to share this with your group tomorrow, and make sure you have evidence to support your suggestion to help your group decide this more easily.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_16/original/6.2 Lesson 16 Handout Cold Cup Design.docx",
+        "teacherGuide": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L16-AO2.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "62-16-ao-3",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Cold Cup Design",
+      "shortTitle": "Cold Cup Design",
+      "peCode": "16.B",
+      "buildingTowards": "Building towards: 16.B Carry out investigations to collect data to evaluate the performance of cup systems that slow energy transfer given the criteria and constraints of the problem, and to modify design features (structures) based on test results (functions).",
+      "lookListenFor": "",
+      "whatToDo": "If students struggle with identifying how to evaluate their cup design, return to the criteria and constraints together. For each criterion and constraint, look at the corresponding test that would provide the best information. After reviewing the test results, consider modifications to the cup features (structures) based on the results. Prompt students to think about how the modification to the cup feature would potentially alter the function in slowing energy transfer. Discuss each criterion and constraint individually to help students make connections between the criterion and constraint, the test result, and the options for modification based on the results.\nProviding written feedback to each group on Part 3: Test 1 can be beneficial to groups as they redesign their cups in Lesson 17.\nClose the lesson saying, This first round of cup designs was impressive and I’m hearing some good ideas about how you want to improve your cups even more. Think about one feature you want to modify with your cup and why you think the change will help. Be prepared to share this with your group tomorrow, and make sure you have evidence to support your suggestion to help your group decide this more easily.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_16/original/6.2 Lesson 16 Handout Cold Cup Design.docx",
+        "teacherGuide": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L16-AO3.html"
+      }
+    },
+    {
+      "id": "62-17-ao-1",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: changing the outside surface material to refl…",
+      "shortTitle": "Look for: changing the outside surface material to refl…",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A Design a solution that is modified based on test results to improve the features (structures) to better slow energy transfer (effect) by reducing the absorption of light or opportunity for particle collisions (function/cause).",
+      "lookListenFor": "What to look/listen for: In Part 5: Redesign Ideas of Cold Cup Design Challenge packet, students work with their design group to propose modifications to their first cup design. They must identify at least 3 design features they believe will slow energy transfer into the cup system. They are prompted to describe which feature they are modifying, where this modification will improve the cup’s performance (which test), and how they believe it will help. Look for students to share examples, such as:\nchanging the outside surface material to reflect more light,\nusing fewer materials to lower costs, reduce thickness, and reduce environmental impact, and\ncreating more air gaps or air layers between materials to try to better use air insulation with fewer resources.",
+      "whatToDo": "What to do: Students now have test results to work with. Some groups may be focused on improving their cup’s performance on the criteria, while other groups may be focused on better meeting the constraints. As students work with their groups, circulate around to groups to provide oral feedback to each group. At this time, use probing questions to learn about the modifications each group has decided to make and what they expect the modification will do with respect to the tests. Make certain to provide written feedback on each group’s redesign on day 2 of this lesson or prior to Lesson 18. You can provide feedback using the Design Evaluation: Peer Feedback modified for teacher feedback as opposed to peer feedback.\nAsk students to voice any questions they have about the design process.\nThen, preview your expectations for their work together in groups, and how you want students to gather materials for building their cups and cleaning up at the end of class. Once students are clear on these expectations, they can begin their redesign work in groups.\nDesign and build the second cup. Allow students the remainder of the class period to design and build the second cup. Circulate around the room to probe student thinking about design features they are considering changing and why they want to make a change. Monitor students as they gather and use materials. Remind students that if they waste materials, the unused materials should be added into their price check test.\nIf the light sensor test is added, have students take light sensor measurements prior to their build. They can record this information in Part 6: Test 2 at the bottom of the test results page.\nSAFETY PRECAUTIONS\nIf hot glue is used, warn students not to touch the tip of the glue gun and to be careful when they handle it. They should carefully return the glue gun to the table top when finished. Students need to be careful when handling parts of the cup until the hot glue has cooled.\nSave at least 5 minutes at the end of class to return supplies to their proper place. Have each group write a group name on the bottom of their cup and place their cup in a designated location.\nTell students that in the next class they will test their cups to see how their second design compares to the criteria and constraints and improves in performance to their first design.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L17-AO1.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "62-17-ao-2",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: Use of too many materials in the first round…",
+      "shortTitle": "Look for: Use of too many materials in the first round…",
+      "peCode": "17.B",
+      "buildingTowards": "Building towards: 17.B.1 Carry out investigations to collect data to evaluate the performance of cup systems that slow energy transfer given the criteria and constraints of the problem, and to propose ways to optimize design features (structures) based on the test results (functions).",
+      "lookListenFor": "What to look/listen for: Students will compare test results from design cycle 1 and 2 to decide which cup design best met the criteria and constraints. They will record their ideas on Part 7: Evaluate your 2nd design. Look for students to explain why certain changes to their cup helped it perform better or caused it to perform worse on the second set of tests:\nUse of too many materials in the first round caused problems with costs, environmental impacts, or thickness (diameter). Fewer materials reduce these issues.\nUse of too many materials in the first round caused problems with too much contact that helped energy to transfer. Reducing points of contact and making more air gaps slowed energy transfer.\nUse of certain colors or materials on the surface caused too much absorption of light and changing the surface color or material to reflect more light slowed down energy transfer.",
+      "whatToDo": "What to do: If students struggle with interpreting their results and evaluating the performance of their cup, help them focus on one test result at a time, first comparing the diameter test between their first design and 2nd design. Repeat for each test, focusing on comparisons of one test result at a time. Breaking complex tasks down into discrete steps can help students who may be overwhelmed with evaluating their cup as a whole with results from multiple tests.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L17-AO2.html"
+      }
+    },
+    {
+      "id": "62-17-ao-3",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Collect students des…",
+      "shortTitle": "Look for: What to look/listen for: Collect students des…",
+      "peCode": "17.B",
+      "buildingTowards": "Building towards: 17.B.2 Carry out investigations to collect data to evaluate the performance of cup systems that slow energy transfer given the criteria and constraints of the problem, and to propose ways to optimize design features (structures) based on the test results (functions).",
+      "lookListenFor": "What to look/listen for: Collect students design packets and examine their ideas on Part 7: Evaluate your 2nd design. Focus on the bottom half of the page where students wrote individual explanations to justify their ideas for a 3rd design. Write feedback to each student on their design ideas. Students can incorporate feedback from you in the very next lesson as they propose a new design in Part 8 of their design packet.",
+      "whatToDo": "What to do: Support students who struggle suggesting revisions to their cup design by prompting them to focus on the part of their cup design that performed the weakest, or that was the most expensive, or most impactful to the environment. Encourage them to think about how they could revise one of these components as part of their 3rd design.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L17-AO3.html"
+      }
+    },
+    {
+      "id": "62-18-disaster-blanket-design",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "title": "Disaster Blanket Design",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 18 — Disaster Blanket Design.",
+      "files": {
+        "studentHandout": "lesson_18/original/6.2 Lesson 18 Assessment Disaster Blanket Design.docx",
+        "teacherGuide": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+        "answerKey": "lesson_18/original/6.2 Lesson 18 Answer Key Reference for Disaster.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSekjXA-nlJC3rr2La875Dv6OCQqk7tApa_06jjcuN_NCsocoA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "62-18-ao-4",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Lesson 18 · Check-in 4",
+      "shortTitle": "Lesson 18 · Check-in 4",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "While students are answering questions from the Driving Question Board, this is an excellent formative assessment opportunity to address partial understandings and see if any pieces need to be revisited.\nCelebrate the class’s accomplishments.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L18-AO4.html"
+      }
+    },
+    {
+      "id": "62-18-ao-2",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look for: Energy transfer speeds up with more contact a…",
+      "shortTitle": "Look for: Energy transfer speeds up with more contact a…",
+      "peCode": "18.A",
+      "buildingTowards": "Building towards: 18.A Develop a model based on patterns in performance that can be used to predict ways to minimize or maximize energy transfer into or out of a variety of systems.",
+      "lookListenFor": "What to look/listen for: Students to share scientific principles related to the following:\nEnergy transfer speeds up with more contact and slows down with less contact; thus, energy transfer happens faster within and between solids and slower within and between gases.\nEnergy transfer speeds up with more light absorption and slows down with less light absorption.\nThe amount of matter and type of matter that is warming up or cooling down affects how fast energy transfer happens and how much energy is needed.\nThese scientific principles may look like the following design features in students’ models:\nSolids transfer energy well, while thick solids transfer energy slower than thin solids.\nAir does not transfer energy well, so materials with air pockets and layers with air between will slow energy transfer.\nMore solid surface area in contact means more opportunities to transfer energy through particle collisions.\nDark materials and less reflective materials absorb more light faster than light and reflective materials.",
+      "whatToDo": "What to do: Circulate around the room as students construct their generalized models. Use the following question prompts to help students in their thinking:\nWhat type of matter is the object made of, and does this facilitate particle collisions?\nHow much matter (thickness) does the energy need to transfer through to get into or out of the system?\nHow reflective, transmissive, or absorptive is the material?\nHow much matter is needed to stay warm or cold? Or how much matter do we need to warm up or cool down?",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L18-AO2.html"
+      }
+    },
+    {
+      "id": "62-18-ao-1",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Collect students’ de…",
+      "shortTitle": "Look for: What to look/listen for: Collect students’ de…",
+      "peCode": "18.A",
+      "buildingTowards": "Building towards: 18.A.1 Develop a model based on patterns in performance that can be used to predict ways to minimize or maximize energy transfer into or out of a variety of systems.",
+      "lookListenFor": "What to look/listen for: Collect students’ design packets after today’s class. Use Part 8: The best performing design features to formatively assess each student’s progress on supporting design decisions with scientific principles. While the goal is to work toward a consensus design as a class, this section of the design packet provides an artifact of students’ individual work and a glimpse at their current thinking.",
+      "whatToDo": "What to do: If students struggle to come up with a generalized model that can explain a suite of related phenomena, prompt students to ask the same set of questions for every phenomenon. This set of questions should allude to the kinds of things the generalized model should be able to answer:\nWhat type of matter is the object made of, and does this facilitate particle collisions?\nHow much matter (thickness) does the energy need to transfer through to get into or out of the system?\nHow reflective, transmissive, or absorptive is the material?\nHow much matter is needed to stay warm or cold? Or how much matter do we need to warm up or cool down?\nGather in a Scientists Circle to create the Ultimate Cold Cup. Ask students to gather in a Scientists Circle, bringing their science notebooks and design packets with them. Students should gather near the class data chart and corresponding cup designs.\nFacilitate a Consensus Discussion about features to include in the Ultimate Cold Cup. Ask students to offer up features they believe to be highly effective in slowing energy transfer. As each student offers up an idea, write the idea on a whiteboard or chart paper. Ask if other students had a similar idea and keep a tally of students who shared similar features in their design.✱ Continue adding design ideas until all ideas are shared. Have students look at the tally for the different features shared to see which features were most common across students’ third design plans. These features may include:\na lid\nreflective or light-colored exterior\nair layers or air pockets\nthick, foam material",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L18-AO1.html"
+      }
+    },
+    {
+      "id": "62-18-ao-3",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: This lesson includes…",
+      "shortTitle": "Look for: What to look/listen for: This lesson includes…",
+      "peCode": "18.B",
+      "buildingTowards": "Building towards: 18.B Evaluate a design solution for a disaster blanket that includes several design features (structure) to minimize energy transfer (function) that could result in body heat loss.",
+      "lookListenFor": "What to look/listen for: This lesson includes a transfer task to give students an opportunity to use the 3 dimensions to make sense of a different phenomenon. Use the scoring guide in Reference for Disaster Blanket Design Assessment for guidance of what to look for on student assessments.",
+      "whatToDo": "What to do: See Reference for Disaster Blanket Design Assessment for guidance.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS3-3",
+        "MS-PS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.2 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-2/L18-AO3.html"
+      }
+    }
+  ]
+}

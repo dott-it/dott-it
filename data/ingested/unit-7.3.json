@@ -1,0 +1,1527 @@
+{
+  "unitId": "7.3",
+  "unitTitle": "Metabolic Reactions",
+  "description": "Students investigate cellular respiration and metabolic processes. They explore how cells obtain and use energy to carry out life functions.",
+  "lessonCount": 15,
+  "suggestedPacingDays": 29,
+  "unitOverviewPath": "unit_materials/original/7.3 Metabolic Reactions Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/7/7.3",
+  "ingestedAt": "2026-07-01T13:38:42.462Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "What is going on inside M’Kenna’s body that is making her feel the way she does",
+      "title": "What is going on inside M’Kenna’s body that is making her feel the way she does?",
+      "teacherEditionPath": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "Can we see anything inside M’Kenna that looks different",
+      "title": "Can we see anything inside M’Kenna that looks different?",
+      "teacherEditionPath": "lesson_2/original/7.3 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "Why do molecules in the small intestine seem like they are disappearing",
+      "title": "Why do molecules in the small intestine seem like they are disappearing?",
+      "teacherEditionPath": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "What happens to food molecules as they move through the small intestine and large intestine",
+      "title": "What happens to food molecules as they move through the small intestine and large intestine?",
+      "teacherEditionPath": "lesson_4/original/7.3 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "Why do large food molecules, like some complex carbohydrates, seem to disappear in the digestive system",
+      "title": "Why do large food molecules, like some complex carbohydrates, seem to disappear in the digestive system?",
+      "teacherEditionPath": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "What happens to the different substances in food as it travels through the digestive system",
+      "title": "What happens to the different substances in food as it travels through the digestive system?",
+      "teacherEditionPath": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "What is the function of the digestive system, and how is M’Kenna’s digestive system different",
+      "title": "What is the function of the digestive system, and how is M’Kenna’s digestive system different?",
+      "teacherEditionPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "What does the surface of M’Kenna’s small intestine look like up close compared with a healthy one",
+      "title": "What does the surface of M’Kenna’s small intestine look like up close compared with a healthy one?",
+      "teacherEditionPath": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "How can a problem in one body system cause problems in other systems",
+      "title": "How can a problem in one body system cause problems in other systems?",
+      "teacherEditionPath": "lesson_9/original/7.3 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "Why is M’Kenna losing so much weight",
+      "title": "Why is M’Kenna losing so much weight?",
+      "teacherEditionPath": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "What happens to matter when it is burned",
+      "title": "What happens to matter when it is burned?",
+      "teacherEditionPath": "lesson_11/original/7.3 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "Does this chemical reaction to burn food happen inside our bodies",
+      "title": "Does this chemical reaction to burn food happen inside our bodies?",
+      "teacherEditionPath": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "How does a healthy body use food for energy and growth, and how is M’Kenna’s body functioning differently",
+      "title": "How does a healthy body use food for energy and growth, and how is M’Kenna’s body functioning differently?",
+      "teacherEditionPath": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "Do all animals do chemical reactions to get energy from food like humans",
+      "title": "Do all animals do chemical reactions to get energy from food like humans?",
+      "teacherEditionPath": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "What questions on our Driving Question Board can we now answer",
+      "title": "What questions on our Driving Question Board can we now answer?",
+      "teacherEditionPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "73-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial model",
+      "shortTitle": "Initial model",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.1 Develop models based on evidence to predict the relationships between components of a system (organs and body systems) to explain what is causing M’Kenna to feel the way she does (effect).",
+      "lookListenFor": "What to look/listen for: Use students’ initial models to highlight the range and diversity of ideas the class as a whole has.",
+      "whatToDo": "What to do:\nIf you see students including only components in their models (and not interactions), you may want to say, Wow, it looks like you have a lot of interesting components of your model. It may help to label the different components and explain how those components interact with one another.\nIf you see students using only pictures in their models, you may want to say, You are thinking carefully about what must be going on with M’Kenna, but it might be hard for someone who is not in your group to understand what you are trying to show. Could you add words to your model so that other groups will know what you mean?\nIf you see students only accounting for one set of symptoms, you may want to say, It looks like you have really accounted for X symptom, but what about Y? Have you worked on accounting for Y yet?\nIf you see students only showing what is happening with M’Kenna or a healthy person, you may want to say, So how would this be different in a healthy person (or in M’Kenna)?",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/7.3 Lesson 1 Handout Initial model.docx",
+        "teacherGuide": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L01-AO1.html"
+      }
+    },
+    {
+      "id": "73-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for “how” or “why” questions about phenomena that…",
+      "shortTitle": "Look for “how” or “why” questions about phenomena that…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from careful observation of M’Kenna’s Doctor’s Note to clarify and seek additional information about what is going on inside the body of M’Kenna that is causing her symptoms (effect).",
+      "lookListenFor": "What to look/listen for:\nLook for “how” or “why” questions about phenomena that seek to investigate interactions inside of the body\nQuestions should seek to determine additional information, based on observations, in order to identify the cause and effect relationships among different organ systems within the body.",
+      "whatToDo": "What to do: As students share, work with them to form “how” and “why” questions. For example, someone might ask the question, “What is a stomach ulcer?” Say, That’s an interesting question! I wonder if we can work as a group to add to this question so that we have a “how” or “why” question around our phenomenon, too? Do you want to give it a shot? An example of an expanded question is, “What is a stomach ulcer and how could it cause symptoms like vomiting and diarrhea?”\nUse your judgment on how to press students to form “how” and “why” questions. If a student struggles with sharing, encourage them to go public with questions rather than focusing specifically on forming a “how” or “why” question.\nIf students do not ask questions at this point about the phenomenon that seek to investigate how different body systems work together, this is okay. They will have another specific opportunity to add questions to the DQB in Lesson 9. Also, questions can be added to the DQB at any point throughout the unit. We recommend always having sticky notes or index cards on hand to capture students’ evolving questions.\nCluster the questions. After all students have shared their questions, you will end up with a DQB that has several different clusters of questions. As a class, decide on “umbrella” questions or topics for the clusters of questions.\nIf you haven’t already done so, draw students’ attention to the scope of all the sub-questions that seem related to figuring out how things inside our bodies are connected. Propose and post this question at the top of the DQB as the driving question for all of the sub-questions under it: “How do things inside our body work together to make us feel the way we do?” Also, have students add the driving question at the top of their Progress Trackers.\nHere is one example of the kinds of questions students might come up with.\nFirst and foremost during the formation of the DQB is reinforcing a classroom community wherein all ideas are valued and everyone has a question up on the board. Use your judgement on how to press students to form “how” and “why” questions. If a student struggles with sharing, encourage them to go public with questions rather than focusing specifically on forming a “how” or “why” question.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L01-AO3.html"
+      }
+    },
+    {
+      "id": "73-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for agreement o…",
+      "shortTitle": "Look for: What to look/listen for: Look for agreement o…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.2 Develop models based on evidence to predict the relationships between components of a system (organs and body systems) to explain what is causing M’Kenna to feel the way she does (effect).",
+      "lookListenFor": "What to look/listen for: Look for agreement on these key components of the model\nthe digestive system\ninput of food\nsome connections to other body systems",
+      "whatToDo": "What to do: Do not worry if students do not know the function of each body system. There will be other opportunities to build understanding of other body systems.\nRepresent areas of agreement and disagreement in a systems model. Most groups of students will only agree on two things in this model: (1) there is something going on in M’Kenna’s digestive system that is affecting other systems in her body and (2) this may have something to do with what is going into her digestive system or moving from this system to her other systems. Build an abstract representation of this using boxes, arrows, and question marks.\nAn initial class consensus model will help the class converge on areas of agreement and areas of uncertainty and help foreground systems thinking in the work in future lessons.✱\nSay, It looks like many of us have the digestive system somehow affecting or connecting with other body systems in some way. Maybe there is an interaction there. Anytime there is a connection or relationship between two things, we call that an “interaction.”\nAdd “interaction” to the Word Wall. Write the word “interaction” on an index card or half-sheet of copy paper and add a working definition with it, such as a “connection or relationship between two things.”✱",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L01-AO2.html"
+      }
+    },
+    {
+      "id": "73-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Listen to student co…",
+      "shortTitle": "Look for: What to look/listen for: Listen to student co…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.1 Analyze and interpret data to identify patterns in how the structures of the digestive system and relative amounts of substances in a food sample appear in a healthy person as compared to in M’Kenna.",
+      "lookListenFor": "What to look/listen for: Listen to student conversations as they describe the patterns between different organ structures as they discuss the similarities and differences between them. While the shape of each organ structure is different, students should notice that each of them are hollow. See Analyzing Endoscopy Images for some specific ideas that students might notice.",
+      "whatToDo": "What to do: If students are struggling to articulate patterns between different organ structures, remind them that all of these organs are a part of the digestive system. Have students discuss their prior knowledge about the digestive system and the organs that are a part of it. Allowing students to consider the function of different organs may help students notice the similarities and differences between their structures.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.3 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L02-AO1.html"
+      }
+    },
+    {
+      "id": "73-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: While this is not a…",
+      "shortTitle": "Look for: What to look/listen for: While this is not a…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.2 Analyze and interpret data to identify patterns in how the structures of the digestive system and relative amounts of substances in a food sample appear in a healthy person as compared to in M’Kenna.",
+      "lookListenFor": "What to look/listen for: While this is not a time to grade student responses, looking at the Progress Tracker does present an opportunity to formatively assess how well student understanding is moving towards the idea that the amount and type of food molecules change as they move through the digestive system. Look for students' drawings and written explanations to describe how M’Kenna’s digestive system is different from a healthy person. Students should show or describe the structural differences from looking at the endoscopy images and use their analysis of What happens in the small intestine? to describe these differences.",
+      "whatToDo": "What to do: If students are struggling, have students return to the patterns that they observed, discussed, and recorded using Analyzing Endoscopy Images and What happens in the small intestine?.\nIn the example Progress Tracker row shown here, possible student responses are included.\nQuestion\nWhat I figured out in words/pictures\nHow is M’Kenna’s digestive system different from a healthy person’s?\nThe digestive system is made up of different parts called organs. The different organs have similarities and differences in their structures.\nM’Kenna’s small intestine doesn’t look like a healthy one. It has bumps and is smoother than a healthy one (which has more ridges).\nIn a healthy person, all the substances in a graham cracker seem to disappear as they travel through the small intestine, but these substances don’t decrease as much in M’Kenna.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.3 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L02-AO2.html"
+      }
+    },
+    {
+      "id": "73-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Plan and conduct an investigation in order to produce data to determine whether food molecules can travel from one side of a system to the other side separated by a solid structure with properties similar to the walls of the small intestine.",
+      "lookListenFor": "What to look/listen for: Look for students to connect the inside of the dialysis tube system as a representation of the inside of the small intestine. Therefore, students should place the food molecules inside the dialysis tube.",
+      "whatToDo": "What to do: If students are struggling with where to put the food molecules, ask them to look back at their data analysis from Lesson 2 and to explain what each part of their representation would be in the human body.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L03-AO1.html"
+      }
+    },
+    {
+      "id": "73-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should add…",
+      "shortTitle": "Look for: What to look/listen for: Students should add…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B.1 Argue from evidence to revise a model to show how the results of this investigation and graphs of different types of food molecules traveling through the small intestine explain how the structure of the walls impacts the function of the small intestine.",
+      "lookListenFor": "What to look/listen for: Students should add the idea of openings/gates to the dialysis tube structure and that there must be something different about the structure of food molecules that allows glucose to fit through but not starch.",
+      "whatToDo": "What to do: If students struggle with connecting the glucose moving through the dialysis tube to the openings, ask them if they have ever experienced one material going through a barrier of some kind while another material did not, such as when sifting sand.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L03-AO2.html"
+      }
+    },
+    {
+      "id": "73-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should conn…",
+      "shortTitle": "Look for: What to look/listen for: Students should conn…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B.2 Argue from evidence to revise a model to show how the results of this investigation and graphs of different types of food molecules traveling through the small intestine explain how the structure of the walls impacts the function of the small intestine.",
+      "lookListenFor": "What to look/listen for: Students should connect the molecular representations of starch and sugar with the results from the dialysis tubing investigation and add this as evidence to their progress tracker. In the progress tracker, look for students’ drawings/ written explanations to describe that glucose is a smaller structured molecule and starch is a larger structured molecule which impacts whether it can move through the gates of the small intestine.",
+      "whatToDo": "What to do: If students struggle with the use of evidence, students may need more support around augmentation before they can revise an explanation. Consider asking students to work in pairs to critique each other’s explanations and then revise their own.\nUniversal Design for Learning: To support all students while they are writing in science, you may hand out an index card to each group to help students engage in a productive dialogue. You can write the following sentence starters on the index card:\nMy argument is that we should add ________________________________ to our Progress Tracker.\nMy evidence to support my argument is: _______________________________.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L03-AO3.html"
+      }
+    },
+    {
+      "id": "73-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/ listen for: Students should poi…",
+      "shortTitle": "Look for: What to look/ listen for: Students should poi…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.1 Analyze and interpret data to determine patterns and limitations of the relative amounts of different molecules in food as it moves through the digestive system of a healthy person versus M’Kenna.",
+      "lookListenFor": "What to look/ listen for: Students should point out patterns in the quantities of different food molecules that change from one graph to the next in a healthy person versus M’Kenna as the food moves through the small and large intestines.",
+      "whatToDo": "What to do: Support students in sensemaking by guiding them to look at one type of food molecule at a time to recognize any patterns. If students are struggling to notice patterns, use two sheets of paper to help them cover extraneous information so that they can isolate one type of food molecule on both graphs. Breaking the information down into smaller chunks will make it easier for students to analyze.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L04-AO1.html"
+      }
+    },
+    {
+      "id": "73-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should incl…",
+      "shortTitle": "Look for: What to look/listen for: Students should incl…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.2 Analyze and interpret data to determine patterns and limitations of the relative amounts of different molecules in food as it moves through the digestive system of a healthy person versus M’Kenna.",
+      "lookListenFor": "What to look/listen for: Students should include fiber moving into the large intestine of both a healthy person and M’Kenna, but the representation of M’Kenna’s large intestine should also include other molecules. Students’ models should demonstrate the understanding from the data analysis that, in a healthy system, the rate of change of the relative amounts of food molecules causes the amount of other food molecules to reduce to zero. The rate of change in M’Kenna’s system results in food molecules remaining in the large intestine.",
+      "whatToDo": "What to do: If you do not see evidence of these patterns in students’ models, refer to the graphs of relative amounts of food molecules in a healthy digestive system and M’Kenna’s digestive system. Encourage students to represent the rate of change for each system in their models. Students do not need to know that food molecules like starch are being broken down in the digestive system. They will figure this out in Lessons 5 and 6.\nA sample Progress Tracker entry is shown on the following page, with possible ideas.\nQuestion\nSources of evidence\n4. What happens to food molecules as they move through the small intestine and large intestine?\nGraham Cracker Data\nPoop Data\nWhat I figured out in words/pictures\nAs food moves through a healthy digestive system, food molecules disappear. We think they might be getting absorbed.\nFiber always stays the same in the digestive system and leaves the body as poop.\nMost other molecules are gone when they reach the large intestine in a healthy person. Only fiber and water remain.\nM’Kenna’s poop contains some additional food molecules (glucose, starch, fatty acids) too, which are not found in a healthy person’s solid waste.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L04-AO2.html"
+      }
+    },
+    {
+      "id": "73-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Lesson 05 · Check-in 1",
+      "shortTitle": "Lesson 05 · Check-in 1",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "Use this discussion as an opportunity to formatively assess students’ recollection of what type of changes are chemical reactions and what are not. If students seem unsure of the science ideas or have not yet completed the Bath Bombs Unit, you may wish to spend more time reinforcing the ideas of chemical reactions.\nNavigate to looking at the data of food in the mouth. In our effort to figure out what is happening to complex carbohydrates in the digestive system, it might help to figure out if there is a chemical reaction or other changes happening to the complex carbohydrates in the cracker when it is in our mouths. One way to do this is to figure out whether the complex carbohydrates are changing into something different in our mouths.\nSay, It sounds like one way that we can figure out if the changes that are happening in the mouth are a chemical reaction or not is by figuring out if we are making new stuff from old stuff or if we are just crunching old stuff into smaller pieces. Let’s look at some data to help us figure this out!",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L05-AO1.html"
+      }
+    },
+    {
+      "id": "73-5-ao-3",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/ listen for: Prior to conducting…",
+      "shortTitle": "Look for: What to look/ listen for: Prior to conducting…",
+      "peCode": "5.B",
+      "buildingTowards": "Building towards: 5.B Plan and conduct an investigation to produce data to determine whether food containing complex carbohydrates, but not glucose, undergoes a chemical reaction in the mouth and that this reaction turns the complex carbohydrates into glucose when mixed with a substance found in saliva (amylase), which is identified by a pattern change in the color of the food indicator.",
+      "lookListenFor": "What to look/ listen for: Prior to conducting the investigation, check student work to make sure that they have planned an investigation similar to the one provided on Unknown material with identifier: mr.l5.tref. After conducting the investigation and recording their results, check student work using Unknown material with identifier: mr.l5.tref to determine if students have identified the anticipated patterns in the data. During the Making Sense discussion, listen for students to connect their findings to their data analysis of the graham cracker graph.",
+      "whatToDo": "What to do: If students struggle to plan the investigation, consider spending more time framing the goals of the investigation. If students struggle to interpret their findings, consider returning to the investigation in Lesson 3 so that students can remind themselves about the use of the various indicators.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L05-AO3.html"
+      }
+    },
+    {
+      "id": "73-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students’ a…",
+      "shortTitle": "Look for: What to look/listen for: Look for students’ a…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Analyze and interpret data to identify a relationship within the data that shows that the amount of certain food molecules (complex carbohydrates) decrease, and other food molecules (glucose) increase as they move through the mouth, which is a correlational relationship. Students argue that we need more data to determine the cause of the observed increases and decreases in food molecules.",
+      "lookListenFor": "What to look/listen for: Look for students’ ability to recognize the pattern in the data that shows that as complex carbohydrates decrease in the mouth, glucose increases. In addition, students should note that the relative quantities of the other food molecules in the mouth do not change. Students should be able to argue that the relationships that they observe are correlations, but not causations.",
+      "whatToDo": "What to do: If students struggle to identify patterns in the data, consider providing additional support in reading the graph provided. If students struggle to distinguish between causal and correlational relationships in the data, consider taking the time to distinguish between causal and correlational relationships.\nDistinguish between correlational and causal relationships in data. Some students may see the connection between complex carbohydrates going down and glucose going up. Others may not connect the two at all. Seed the idea that there might be a chemical reaction happening that breaks complex carbohydrates down into glucose molecules. It is important that students begin to note the connection, but they should also be able to distinguish between causal and correlational relationships in data. We don’t yet have evidence to support the claim that complex carbohydrates are actually being broken down into glucose molecules. At this point, we can only claim that there seems to be a correlation between the increasing glucose and decreasing complex carbohydrates.✱\nSuggested prompt\nSample student response\nDo you think we have enough evidence to say what is causing the decrease in complex carbohydrates and the increase in glucose?\nWe have enough evidence to say that the decrease in complex carbohydrates and the increase in glucose is happening, but we don’t have enough evidence to claim WHY it is happening yet.\nIs the decrease in complex carbohydrates and the increase in glucose a correlation? Why or why not?\nYes, it is a correlation. We know that they are happening at the same time, but we haven’t done anything yet to prove that one is causing the other or that one is the result of the other.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L05-AO2.html"
+      }
+    },
+    {
+      "id": "73-6-ao-3",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/ listen for: Students should com…",
+      "shortTitle": "Look for: What to look/ listen for: Students should com…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/ listen for: Students should come to the key conclusion related to MS-LS1-3 that patterns in the data are evidence the digestive system is a system of interacting subsystems that each perform different functions.",
+      "whatToDo": "What to do: If students struggled to analyze the data, consider returning to the data analysis and providing more scaffolding to support students in the analysis. If students struggle to make the connection that the digestive system is a system made up of interacting subsystems, consider physically showing how a piece of food moves through the different organs in the digestive system. Stop the food at each “stop” along the way (as indicated by the graphs) and then analyze each graph.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L06-AO3.html"
+      }
+    },
+    {
+      "id": "73-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Since you likely wil…",
+      "shortTitle": "Look for: What to look/listen for: Since you likely wil…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: Since you likely will not have time to hear all students’ ideas during the partner talk, you might also glance through their Progress Tracker entries for this formative assessment. However, recall that Progress Trackers should not be scored or graded. Students should refer back to their interpretations of data in past lessons to find and use evidence to support the idea that large food molecules are broken down into smaller food molecules through chemical reactions. This presents an opportunity to determine how well students understand and make connections to this key idea partially developed as part of Lesson 5.",
+      "whatToDo": "What to do: If students are struggling with this key idea, consider pulling the class together to interpret the multiple lines of evidence identified in Lesson 5 to support this claim. The multiple lines of evidence include:\nObservations from eating a cracker.\nData analysis from eating a graham cracker.\nReading about digestion and amylase.\nTheir investigation to determine if chemical reactions occur in the mouth.\nConsider suggesting a way to represent this idea to students by showing several large boxes attached to one another being broken down into separate boxes. Understanding that large molecules can be broken down into smaller molecules is central to students’ understanding of what is taking place in the digestive system.\nHere is one possible representation.\nQuestion\nWhat I Figured Out in Words/Pictures\nWhy do large food molecules, like certain types of complex carbohydrates, seem to disappear in the digestive system?\nWhen we chew food, our teeth and tongue move the food around, and saliva is mixed with the food.\nSaliva has a special enzyme in it called amylase. Amylase helps to break some types of complex carbohydrates down into glucose through a chemical reaction.\nBecause certain types of complex carbohydrates are broken down into glucose in the mouth, the amount of other complex carbohydrates in the mouth decreases and the amount of glucose increases.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L06-AO1.html"
+      }
+    },
+    {
+      "id": "73-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should anal…",
+      "shortTitle": "Look for: What to look/listen for: Students should anal…",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B.1 Analyze and interpret these data as evidence that the digestive system is a system of interacting subsystems composed of organs that each perform different functions.",
+      "lookListenFor": "What to look/listen for: Students should analyze and interpret the graphs to serve as evidence for the claim that each organ in the digestive system performs a different function.",
+      "whatToDo": "What to do: If students are struggling, consider providing additional support reading the graphs or making connections between large food molecules and small food molecules (e.g., protein and amino acids). It may also help to annotate one portion of the graph (e.g., fiber) together.\nInterpret the data to make claims about the functions of each organ. After students have sufficiently analyzed the data, pose the second question on slide L. Say, Based on the data, what claims can we make about the functions of each of the organs in the digestive system?\nFacilitate a Building Understandings Discussion around this question. Recall that, in a Building Understandings Discussion, the teacher’s role is centered around pressing students to back up their ideas with evidence. During discussion, teachers also set and maintain focus around the discussion question, invite students to share claims and explanations, push for elaboration of evidence and reasoning, encourage critique and alternative explanations, and help the group come to tentative conclusions. The student’s role is to attempt to explain observations in the data, use data as evidence to support their claims, compare, contrast, and critique others claims, evidence, and explanations, agree and disagree respectfully, and ask questions to clarify.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L06-AO2.html"
+      }
+    },
+    {
+      "id": "73-7-7-3-lesson-7-handout-self-assessment-giving-and",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "7.3 Lesson 7 Handout Self-Assessment Giving and",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 07 — 7.3 Lesson 7 Handout Self-Assessment Giving and.",
+      "files": {
+        "studentHandout": "lesson_7/original/7.3 Lesson 7 Handout Self-Assessment Giving and.docx",
+        "teacherGuide": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": "lesson_7/original/7.3 Lesson 7 Answer Key Key for Task.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSecuazLKym30HcCbcokSNVJijvrQeefkN9vo_yPrTfZgoOgTw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-7-task-parts-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "Task Parts 1",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 07 — Task Parts 1.",
+      "files": {
+        "studentHandout": "lesson_7/original/7.3 Lesson 7 Assessment Task Parts 1.docx",
+        "teacherGuide": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": "lesson_7/original/7.3 Lesson 7 Answer Key Key for Task.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeXFGOhfwthilcpy3XNTxV832iVXAPIidZwmIugrCheDAOO9g/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-7-ao-3",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: represent ideas that the digestive system is…",
+      "shortTitle": "Look for: represent ideas that the digestive system is…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.2 Develop a model based on multiple lines of evidence to represent the inputs, processes, and outputs of the digestive system and the role that the system, and the subsystems within it, play in breaking down matter inputs through chemical reactions, absorbing food, and excreting unused matter.",
+      "lookListenFor": "What to look/listen for: Provide feedback to students as they should include all of the ideas from the Gotta-Have-It Checklist. Specifically, look for students to:\nrepresent ideas that the digestive system is one system within the human body and that it is made up of smaller parts called organs, which are viewed as subsystems in the digestive system.\nshow that food is digested through a series of chemical reactions that break large food molecules down into smaller food molecules. The chemical reactions involved in digestion occur in different parts of the digestive system.\nuse the model to show which component they think may function differently in M’Kenna’s digestive system.\nshow the inputs, processes, and outputs of the digestive system.",
+      "whatToDo": "What to do: If students struggle to include all of the key ideas in the model, consider working individually or in small groups with them to return to previous investigations and make sense of the findings.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L07-AO3.html"
+      }
+    },
+    {
+      "id": "73-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: The digestive system is a long tube with diff…",
+      "shortTitle": "Look for: The digestive system is a long tube with diff…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.1 Develop a model based on multiple lines of evidence to represent the inputs, processes, and outputs of the digestive system and the role that the system, and the subsystems within it, play in breaking down matter inputs through chemical reactions, absorbing food, and excreting unused matter.",
+      "lookListenFor": "What to look/listen for: Students should identify the following ideas in their models:\nThe digestive system is a long tube with different parts to it.\nIn one part of the digestive system, the small intestine, small food molecules are absorbed, and large food molecules aren’t.\nAbsorption means that the molecules cross the lining of the small intestine.\nFiber is not digested at all and is excreted from the body.\nLarge food molecules can be broken down into smaller food molecules.\nIn another part of the digestive system, the mouth, some types of complex carbohydrates are broken down into smaller pieces through chemical reactions.\nOther types of food molecules (proteins and fats) are broken down in other parts of the digestive system (stomach and small intestine).",
+      "whatToDo": "What to do: If students are missing ideas, prompt them to revisit their Gotta-Have-It Checklist, Progress Trackers, or science notebooks for key ideas that they are missing. Also see the guidance that follows for prompting discussion in small groups as they develop their models.\nAs students work, circulate to provide support. If students become stuck, it may help to use the prompts below to get them started.\nSuggested prompt\nSample student response\nWhat happens to large food molecules? How does it happen? What evidence do you have to support this idea?\nThey break down into smaller molecules through chemical reactions. We saw that in the graphs of food changing in the mouth and stomach and in our investigation with the cracker and saliva. We think this is true for all food molecules, not just complex carbohydrates and sugars.\nWhere do you think the small molecules go?\nWe know that they can pass through the small intestine wall and that they disappear. We think they get absorbed, but we’re not sure where.\nWhat leaves a healthy body as poop?\nIn a healthy body, fiber, a large molecule that doesn’t break down, leaves the system.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L07-AO1.html"
+      }
+    },
+    {
+      "id": "73-7-ao-4",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See detailed sample…",
+      "shortTitle": "Look for: What to look/listen for: See detailed sample…",
+      "peCode": "7.C",
+      "buildingTowards": "Building towards: 7.C Engage in an argument from evidence to eliminate two of the five possible gastrointestinal conditions that could be causing the symptoms that M’Kenna is experiencing in her digestive system, based upon how they affect the body as a whole system.",
+      "lookListenFor": "What to look/listen for: See detailed sample responses and scoring guidance in Key for Task Parts 1 and 2: Eliminate Possible Conditions and Identify Missing Evidence and Rubric for Giving and Receiving Feedback.",
+      "whatToDo": "What to do: This lesson includes an assessment to give students an opportunity to use the three dimensions to make sense of M’Kenna’s case. This is meant to be an assessment task for the unit and gives you a grading opportunity. Key for Task Parts 1 and 2: Eliminate Possible Conditions and Identify Missing Evidence and Rubric for Giving and Receiving Feedback are meant to highlight important ideas that students should be including in their responses to the prompts. They are listed as bullet points, so you can decide how to score them appropriately to the norms in your classroom. If students share these ideas elsewhere in the assessment, it is up to you to decide if that understanding is sufficiently demonstrated. If choosing from five possible conditions is overwhelming to students, consider eliminating one condition by modeling the process for students. If students struggle to back up their claims with evidence, consider revisiting Lessons 1-6 to provide more time for students to make sense of the ideas in those lessons. You could have students do this embedded assessment individually or in small groups. There is a part 3 of this assessment that comes after Lesson 8, so students will have another opportunity to demonstrate their understanding.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L07-AO4.html"
+      }
+    },
+    {
+      "id": "73-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should cite…",
+      "shortTitle": "Look for: What to look/listen for: Students should cite…",
+      "peCode": "7.B",
+      "buildingTowards": "Building towards: 7.B Respectively provide and receive critiques about small-group models developed to explain how various subsystems in a healthy digestive system interact to move food through a series of chemical reactions to break down large food molecules.",
+      "lookListenFor": "What to look/listen for: Students should cite evidence from previous investigations to support their critiques of other groups’ system models.",
+      "whatToDo": "What to do: If you notice students struggling to provide critique, remind them to focus on just one input, process, or output (not the entire model). If needed, refer students back to their science notebooks for ideas they can use as evidence to support or refute an idea in the model.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L07-AO2.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "73-8-7-3-lesson-8-handout-lesson-8-self-assessment",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "title": "7.3 Lesson 8 Handout Lesson 8 Self-Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 08 — 7.3 Lesson 8 Handout Lesson 8 Self-Assessment.",
+      "files": {
+        "studentHandout": "lesson_8/original/7.3 Lesson 8 Handout Lesson 8 Self-Assessment.docx",
+        "teacherGuide": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": "lesson_8/original/7.3 Lesson 8 Answer Key Connecting the Structure.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeBZJdDojKrnq9w9IArqfkm4NgVLfTrFQZAtIWqn_b9YJ0uPg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-8-part-3-argue",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "title": "Part 3 Argue",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 08 — Part 3 Argue.",
+      "files": {
+        "studentHandout": "lesson_8/original/7.3 Lesson 8 Assessment Part 3 Argue.docx",
+        "teacherGuide": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": "lesson_8/original/7.3 Lesson 8 Answer Key Connecting the Structure.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSd1jXgkAlA1WfkrV7zTCNvxTFyMPp-R7tYWva1YVDdGqVE5sg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-8-ao-3",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See detailed sample…",
+      "shortTitle": "Look for: What to look/listen for: See detailed sample…",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Engage in an argument from evidence supported by scientific reasoning for how a healthy digestive system rearranges matter through chemical reactions and absorbs food, and how and why M’Kenna’s digestive system is functioning differently.",
+      "lookListenFor": "What to look/listen for: See detailed sample responses and scoring guidance in Part 3: Sample Student Response of What’s Causing M’Kenna’s Symptoms and Argument Rubric - Part 3 - M’Kenna’s Disease.",
+      "whatToDo": "What to do: While the assessment should be completed independently, some students might benefit from assistance with the organization of their writing. Additional guidance about supporting students’ writing is provided below.\nWRITING IN SCIENCE\nTo support writing in science, some students may benefit from assistance as they prepare to organize their argument in writing. For those students who struggle with written organization, provide them with a structure built around sentence stems so that they can craft an argument that demonstrates their content knowledge without getting tripped up by organizational challenges.\nYou may provide something like:\nM’Kenna’s symptoms are being caused by ______.\nOne piece of evidence I collected that supports this is ______. This supports my conclusion because…\nAnother piece of evidence I collected that supports this is _____. This supports my conclusion because…\nI know that M’Kenna does not have _____ because...\nIdentify similarities and differences between arguments. Put students into groups of 3. Ask students to compare and critique their peers’ arguments based on how well their evidence supports their explanation of which diagnosis fits M’Kenna’s symptoms. Use Peer Feedback Guidelines to support students in giving and receiving feedback. You can choose to have students revise their arguments based on peer critique.\nAdditionally, students can complete the rubric Lesson 8 Self-Assessment: Giving and Receiving Feedback to reflect upon the feedback they give to and receive from peers.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L08-AO3.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "73-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the possible Pro…",
+      "shortTitle": "Look for: What to look/listen for: See the possible Pro…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A.2 Analyze and interpret data to identify the relationship that taller villi (structure) have more cells that work together to impact the rate of absorption (function) of food molecules into the bloodstream.",
+      "lookListenFor": "What to look/listen for: See the possible Progress Tracker entry above. Students should use all that they have figured out to develop a model to represent what is happening in M’Kenna’s digestive system as compared with a healthy digestive system. Look for the items in the bulleted list to be included in models in words and pictures.",
+      "whatToDo": "What to do: If students do not include an element, ask a targeted question to help students recall something that they figured out in this lesson. For example, if a student does not include something about villi height affecting the number of cells and, therefore, the rate of absorption of food molecules into the bloodstream, ask, Where can I find information in your model about the villi? How did you show what you learned about the height of the villi from the NetLogo simulation? This should remind students without giving away key learning.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L08-AO2.html"
+      }
+    },
+    {
+      "id": "73-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should crea…",
+      "shortTitle": "Look for: What to look/listen for: Students should crea…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A.1 Analyze and interpret data to identify the relationship that taller villi (structure) have more cells that work together to impact the rate of absorption (function) of food molecules into the bloodstream.",
+      "lookListenFor": "What to look/listen for: Students should create a graphical display that shows the villi height increases the number of cells, which has a direct relationship to the rate of absorption of food molecules into the bloodstream. Listen for students who explain that the cause of the food molecules that remain in M’Kenna’s large intestine are a result of her villi being flat and, therefore, having fewer cells.",
+      "whatToDo": "What to do: If students are not drawing a connection between villi height, number of cells, and rate of absorption, gather them into a small group and adjust the simulation together, making the villi height 0, then 5, then 10. After each adjustment, count the number of cells together, writing them down in a public space for comparison. Ask students what they notice about the data, guiding them to see that taller villi have more cells. Have students run three trials—one for each of these villi height adjustments- and add the rate of absorption to the data table. Ask students what they notice about the relationship between the number of cells and the rate of absorption. Scaffolding the activity in such an explicit manner should help students come to the conclusion that taller villi = more cells = higher rate of absorption.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L08-AO1.html"
+      }
+    },
+    {
+      "id": "73-9-ao-2",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: Look for students to explain that we have figured out why most of M’Kenna’s digestive system symptoms occur (due to issues with absorption of food in her small intestine), but we can’t yet explain how that is causing her symptoms in other body systems, such as brain fog, fatigue, and weight loss.",
+      "whatToDo": "What to do:  If students struggle to make this connection between systems, have them walk over to the DQB and look at the clusters of questions that don’t have any dots on them yet. If they are still not able to make the connection, take out M’Kenna’s Doctor’s Note and Map M’Kenna’s Symptoms to Her Body Systems to see which symptoms and systems are still not explained.\nIn the example Progress Tracker row for this lesson, each of the columns has been completed with possible student ideas.\nQuestion\nWhat I figured out in words/pictures\n9. How can a problem in one body system cause problems in other systems?\nWe think M’Kenna’s problem with not getting food molecules absorbed through her small intestine (digestive system) might be causing problems in her other systems like brain fog, fatigue, and not gaining weight.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/7.3 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L09-AO2.html"
+      }
+    },
+    {
+      "id": "73-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should sele…",
+      "shortTitle": "Look for: What to look/listen for: Students should sele…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A.1 Ask questions to gather more information about how problems in one body system interact with other systems after revisiting M’Kenna’s symptom list.",
+      "lookListenFor": "What to look/listen for: Students should select questions from careful observation of the phenomenon with M’Kenna’s doctor’s note that pertain to the initial digestive system cluster of symptoms (on the DQB) and use evidence from lesson investigations in their answers.",
+      "whatToDo": "What to do: If students are unable to select digestive system questions and connect them to collected evidence, help students pick one lesson and explain how what they figured out in that lesson helps explain one of the questions listed. Students can look at their Progress Trackers from each lesson to help them identify what was figured out in each lesson.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/7.3 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L09-AO1.html"
+      }
+    },
+    {
+      "id": "73-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Lesson 10 · Check-in 1",
+      "shortTitle": "Lesson 10 · Check-in 1",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "Consider using this Initial Ideas Discussion as a formative pre-assessment for Lesson Set 2. See if students can connect M’Kenna’s weight loss to what they figured out in Lesson Set 1 about not getting enough matter inside her body because her villi in her small intestine are damaged. If students do not make this connection right now, that’s OK. They will have the opportunity to do so later on.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L10-AO1.html"
+      }
+    },
+    {
+      "id": "73-10-ao-4",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What does “burning fat” really mean?",
+      "shortTitle": "Look for: What does “burning fat” really mean?",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Obtain, evaluate, and communicate information to determine the central ideas in an article to help determine where fat (matter) goes when people lose weight.",
+      "lookListenFor": "What to look/listen for: Listen for students to mention that one way people use fat is to “burn” it. Students should be wondering:\nWhat does “burning fat” really mean?\nWhere does the matter really go when fat is burned?",
+      "whatToDo": "What to do: If this idea does not come out, ask students if they have ever heard people say that they are “burning calories” when they exercise, and what do they think that means?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L10-AO4.html"
+      }
+    },
+    {
+      "id": "73-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A.1 Analyze and interpret data using graphical displays and statistics to identify temporal relationships to provide evidence for how M’Kenna’s pattern of body growth and weight have changed over time compared with typical children her age.",
+      "lookListenFor": "What to look/listen for: Look for students to identify that M’Kenna’s growth remained stable for about 11 years, and then began to slow down when she turned 13.",
+      "whatToDo": "What to do: If students don’t make this connection, you can pull them into small groups to do a more guided data analysis. Also, you might pull anonymous student work samples of their WIS/WIM statements and have the whole class look at what classmates have written.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L10-AO2.html"
+      }
+    },
+    {
+      "id": "73-10-ao-3",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A.2 Analyze and interpret data using graphical displays and statistics to identify temporal relationships to provide evidence for how M’Kenna’s pattern of body growth and weight have changed over time compared with typical children her age.",
+      "lookListenFor": "What to look/listen for: Look for students to identify that fat was lost over time. This should prompt students to begin to think about where the fat goes when someone loses weight.",
+      "whatToDo": "What to do: If students are having trouble identifying this idea, you may ask a question like, If the animal weighed 60 lb. in this photograph, but 45 lb. in the next photograph, what is the difference in weight? Let’s think about a 15-pound dumbbell you might lift at the gym—that’s quite heavy! Where do you think all that weight went?\nSay, OK, so we think M’Kenna could be losing weight, and it’s coming from fat on her body. Why is she losing this fat? How does the fat get out of her body? It can’t just disappear, even though that’s what it looks like in the pictures. Where does the weight go?",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L10-AO3.html"
+      }
+    },
+    {
+      "id": "73-10-ao-5",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "10.C",
+      "buildingTowards": "Building towards: 10.C Plan and carry out an investigation to produce data to serve as the basis for evidence to answer the question, Where does matter go when people lose weight?",
+      "lookListenFor": "What to look/listen for: Look for students to make connections from their understanding of chemical reactions from Bath Bombs Unit with the data they collected during this experiment.",
+      "whatToDo": "What to do: For students who are having difficulty with the “Making Sense” questions in Part 3, you could ask additional questions, such as: What do the changes in the substance color, odor, or state of matter indicate about what happened? and Where did the matter in the vegetable oil/animal fat go?",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L10-AO5.html"
+      }
+    },
+    {
+      "id": "73-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A.1 Construct an explanation using both qualitative and quantitative data and scientific reasoning (that burning food produces energy, in the form of heat and light, and products, such as carbon dioxide and water) to describe why the mass of oil burned in an open system changes, while it stays the same in a closed system.",
+      "lookListenFor": "What to look/listen for: Look for students to be able to explain that, due to changes in the mass and amounts of different substances in a closed system and the production of energy, a chemical reaction must have occurred.",
+      "whatToDo": "What to do: Ask additional questions like, How did what we started with compare to what we ended with? and Do you have any evidence from our investigation to support that a change has occurred in the system?\nUniversal Design for Learning: The talking stick protocol can support students’ expression and is used to ensure equitable floor time for all students in the discussion. The later rounds of discussion encourage students to work with and build off of each other’s ideas that are shared in the group.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.3 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L11-AO1.html"
+      }
+    },
+    {
+      "id": "73-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the sample Progr…",
+      "shortTitle": "Look for: What to look/listen for: See the sample Progr…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A.2 Construct an explanation using both qualitative and quantitative data and scientific reasoning (that burning food produces energy, in the form of heat and light, and products, such as carbon dioxide and water) to describe why the mass of oil burned in an open system changes, while it stays the same in a closed system.",
+      "lookListenFor": "What to look/listen for: See the sample Progress Tracker entry shown above.",
+      "whatToDo": "What to do: Recall that Progress Trackers should only be used formatively; do not score or grade them. If students need extra support, ask them to look back at their Burning Fat in Open and Closed Systems. Ask them to think about what changes they noticed from the beginning to the end of the investigation. Ask them to consider if this reminds them of any other chemical reactions they have seen (such as with bath bombs and rusting iron in Bath Bombs Unit) or the graphs of changing amounts of food molecules in M’Kenna’s digestive system.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.3 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L11-AO2.html"
+      }
+    },
+    {
+      "id": "73-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Look for students who interpret…",
+      "shortTitle": "Look for: /listen for: Look for students who interpret…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.1 Analyze and interpret data to identify spatial and temporal relationships in order to determine causes for changes to blood glucose, oxygen, and carbon dioxide levels in the body.",
+      "lookListenFor": "What to look for/listen for: Look for students who interpret the data from the investigation to understand that, because we breathe in oxygen (reactant) and we breathe out carbon dioxide (product), a chemical reaction is taking place inside the body.",
+      "whatToDo": "What to do: If students do not draw this parallel to the chemical reactions from Lesson 11 during which they burned food, ask students to revisit the models they created in their Progress Trackers. Guide students to examine the reactants and products in their Progress Trackers for reactions that occurred when they burned food outside of the body. Then, ask “Do we have food as fuel? Do we have evidence of carbon dioxide being released as a product?”",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L12-AO1.html"
+      }
+    },
+    {
+      "id": "73-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: See Key Ideas above",
+      "shortTitle": "Look for: /listen for: See Key Ideas above",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.2 Analyze and interpret data to identify spatial and temporal relationships in order to determine causes for changes to blood glucose, oxygen, and carbon dioxide levels in the body.",
+      "lookListenFor": "What to look for/listen for: See Key Ideas above.\nLook for students who notice that the point at which oxygen levels decrease is the same point at which carbon dioxide levels increase.\nStudents should also note the significance of the location being between blood going to other parts of the body and returning back to the heart and lungs.\nStudents should infer that oxygen that travels in the blood is being transferred to other parts of the body, which accounts for the decrease.\nStudents use their knowledge of the products of chemical reactions to assume the increase in carbon dioxide is the result of chemical reactions occurring in other parts of the body.",
+      "whatToDo": "What to do: If students do not demonstrate this understanding, return again to the Progress Tracker from Lesson 11, which details the reactants and products of a chemical reaction. Work with students in a small group or individually to connect the decrease in oxygen with the concept of oxygen acting as an input in a chemical reaction. Do the same with carbon dioxide as an output of a chemical reaction. If students are unsure of how to answer question 7 on Oxygen and Carbon Dioxide in the Blood - Part 1, you may need to use a picture of the circulatory system to show students where the blood vessels travel in the body. Say, If the blood is full of oxygen here (point to Location 1) and that amount decreases as it travels throughout the body (trace pattern that outlines where blood travels in the system before bringing it back to Location 4), where else in the body could the oxygen be going?\nSummarize our findings that chemical reactions to burn food happen inside our bodies. Suggest that we seem to have found a lot of evidence for the idea that the chemical reaction that releases energy from food molecules is happening in the cells throughout our bodies.\nKeep track of students’ ideas on a public record. Here is one suggested representation:\nUniversal Design for Learning: If students struggle to interpret the data laid out in the data table in Oxygen and Carbon Dioxide in the Blood - Part 1, ask them to first verbalize what a change in levels would indicate. Ask, “If you see the oxygen levels go down, what would that mean? What about the carbon dioxide levels?” Have students highlight or add arrows to their data tables to represent where they see a change in levels. This will assist students with sensemaking as they look at the data.\nIt may also be beneficial to draw a connection to the work students did in Lesson 8 when they analyzed food molecule data to determine which organ in the digestive system is responsible for breaking molecules down and absorbing them across the cell membrane.\nSupporting emergent multilinguals: Consider calling up the image of body systems from Lesson 1, shown here.  Use this image to help students visualize the flow of the circulatory system: that the blood moves through the circulatory system both into and out of the heart/lungs.\nUniversal Design for Learning: If students need help remembering that each organ is made of tissues, which are made of tightly packed cells, you can use a virtual microscope to gather evidence of this: http://bit.ly/virtual-microscope . Have students explore the heart muscle sample by focusing on the repeating patterns in tissues. Prompt students to notice that each tissue is composed of smaller subunits (cells) that look almost identical to each other. Thus, cells make up tissues, which make up organs, and cells in different tissues work together to perform different functions in different organs. This interactive provides an additional representation that can help support students in processing the information and can increase comprehension for all students.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L12-AO2.html"
+      }
+    },
+    {
+      "id": "73-12-ao-3",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students should revise claims to…",
+      "shortTitle": "Look for: /listen for: Students should revise claims to…",
+      "peCode": "12.B",
+      "buildingTowards": "Building towards: 12.B.1 Obtain, evaluate, and communicate information to clarify a claim that a chemical reaction that releases energy in the body is occurring in different parts of the body and that the body uses more glucose and oxygen to provide energy to cells (effect) during exercise (cause) than while resting.",
+      "lookListenFor": "What to look for/listen for: Students should revise claims to include the Key Ideas from the Building Understandings Discussion; to show that muscles, brain, and digestive organs use the bulk of the oxygen when the body is at rest because, even when the body is not active, these parts of the body are necessary to keep you alive. They should claim that increased activity causes the body to need more energy. They should identify data they analyzed to clarify and support their claim.",
+      "whatToDo": "What to do: If students struggle expressing these ideas during the Building Understandings Discussion, try connecting to students’ past experiences with exercise. Ask students to consider a time when they have exercised, such as during P.E. class or outside playing with friends. Ask students what they noticed about the way their breathing changed as compared to when they are sitting quietly, at rest. Help students understand that the body takes in more oxygen by breathing rapidly because the body needs it when active. Similarly, students may have experienced a time when they have worked very hard or been very active, and it has made them feel hungry. This is a signal the body is in need of glucose because it is used more quickly when the body is active. Review the claims that students have written and clarified after examining the data described above. Look for students who include specific data or refer explicitly to the data to write a clear claim. If students do not write a clear claim, provide a sentence stem as support, such as: “The parts of the body that use the most energy when active are ___. I know this because ___.”",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L12-AO3.html"
+      }
+    },
+    {
+      "id": "73-12-ao-4",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students should use the data the…",
+      "shortTitle": "Look for: /listen for: Students should use the data the…",
+      "peCode": "12.B",
+      "buildingTowards": "Building towards: 12.B.2 Obtain, evaluate, and communicate information to clarify a claim that a chemical reaction that releases energy in the body is occurring in different parts of the body and that the body uses more glucose and oxygen to provide energy to cells (effect) during exercise (cause) than while resting.",
+      "lookListenFor": "What to look for/listen for: Students should use the data they analyzed as evidence that the muscles, digestive organs, and brain use the bulk of the oxygen when the body is at rest because, even when the body is not active, these parts of the body are necessary to keep you alive and that increased activity causes the body to need more energy. They should",
+      "whatToDo": "What to do: If students aren’t able to make connections between the circulatory and respiratory systems, ask them, “How do oxygen and glucose get to the cells? How does the carbon dioxide get out of the cells and our bodies?”",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L12-AO4.html"
+      }
+    },
+    {
+      "id": "73-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: As groups develop these models,…",
+      "shortTitle": "Look for: /listen for: As groups develop these models,…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Develop models of three possible pathways showing how food is rearranged in the body to release energy, store matter for later use, and use matter for growth within a body system.",
+      "lookListenFor": "What to look for/listen for: As groups develop these models, look for them to identify different matter inputs, such as food and oxygen, processes, such as digestion, storage, growth, and cellular respiration, and matter outputs, such as carbon dioxide, water, and fat. Models should also identify different energy flows; for example, in pathway 1, food is broken down and used for energy by the body right away. In pathways 2 and 3, molecules are stored for energy later or to be used in the growth of new tissues.\nLook for groups to generalize the processes for how healthy bodies use food in each of the three pathways. In pathway 1, models should indicate that food and oxygen enter the body system and are broken down to be used for energy. In pathway 2, models should indicate that excess food is used to create storage molecules, like fat and glucose stored in muscle and liver, which can be used later for energy or growth. In pathway 3, models should indicate that molecules from food can be rearranged to create different tissues in the body like muscle and bone.",
+      "whatToDo": "What to do: If groups struggle to identify how food is used differently in each of the pathways, refer them back to their Progress Trackers for Lessons 10-12 when we figured out that the body needs food for growth and that food can be burned for energy.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L13-AO1.html"
+      }
+    },
+    {
+      "id": "73-13-ao-3",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: See the example Progress Tracker…",
+      "shortTitle": "Look for: /listen for: See the example Progress Tracker…",
+      "peCode": "13.B",
+      "buildingTowards": "Building towards: 13.B.2 Construct an explanation to explain the relationships between differences in M’Kenna’s digestive system and a healthy digestive system in order to predict symptoms (effects), such as M’Kenna’s decreased growth rate.",
+      "lookListenFor": "What to look for/listen for: See the example Progress Tracker entry shown above.",
+      "whatToDo": "What to do: Recall that Progress Tracker entries should be reviewed for formative information only; they should not be scored or grades. If students are struggling to make these connections, refer them back to their Progress Trackers for Lesson 12 when they figured out that when we are active, our body needs more energy, which requires more food. The explanations they developed using the class Gotta-Have-It Checklist are another helpful resource.\nStudents may also wish to take this time to update their table of contents.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L13-AO3.html"
+      }
+    },
+    {
+      "id": "73-13-ao-2",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Use this opportunity to look for…",
+      "shortTitle": "Look for: /listen for: Use this opportunity to look for…",
+      "peCode": "13.B",
+      "buildingTowards": "Building towards: 13.B.1 Construct an explanation to explain the relationships between differences in M’Kenna’s digestive system and a healthy digestive system in order to predict symptoms (effects), such as M’Kenna’s decreased growth rate.",
+      "lookListenFor": "What to look for/listen for: Use this opportunity to look for students to identify the cause and effect relationship between decreased food absorption affecting M'Kenna's energy levels. Students should also explain the relationship between decreased food absorption causing M'Kenna to rely on stored food, or fat, leading to her slowed growth rate or decrease in weight.",
+      "whatToDo": "What to do: If students are struggling to make these connections, refer them back to their Progress Trackers for Lesson 12 when they figured out that, when we are active, our body needs more energy, which requires more food.\nBring the class together to share potential connections. By the end, each body system should have its own short explanation for how a food shortage in M’Kenna might be connected to the related symptoms in that body system. Invite different students to share out with the whole class. ✱\nWhile students are sharing out, add to the class Gotta-Have-It Checklist with any new ideas students are bringing in.\nConnect digestion to cellular respiration. You may want students to add individual final versions of the models of pathways 2 and 3 on Three Pathways Inside Our Bodies using colored pencils. Students should tape the handout into the right side of their notebooks. Then have students connect it to the digestion model built out in Lesson 7. This would help students see the connection between the food molecules being absorbed into the small intestine from Lessons 1-7 and how that builds on the models for the three pathways in Lessons 8-13. See the example in the table below.\nLeft side of science notebook\nRight side of science notebook",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L13-AO2.html"
+      }
+    },
+    {
+      "id": "73-14-7-3-lesson-14-handout-self-assessment-giving-and",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "7.3 Lesson 14 Handout Self-Assessment Giving and",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 14 — 7.3 Lesson 14 Handout Self-Assessment Giving and.",
+      "files": {
+        "studentHandout": "lesson_14/original/7.3 Lesson 14 Handout Self-Assessment Giving and.docx",
+        "teacherGuide": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfkIkIGyCsCPbouamxEtCLzJsst12KtTZZvs4EowPOUiM7WVQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students se…",
+      "shortTitle": "Look for: What to look/listen for: Look for students se…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A.1 Engage in an argument from evidence that, in animals, oxygen reacts with carbon-containing molecules to provide energy and produce carbon dioxide and that organisms might have different structures that work together to do similar functions.",
+      "lookListenFor": "What to look/listen for: Look for students seeing similarities between their animal and humans using evidence connected from the readings that their animal does basically the same chemical reactions as humans to get energy from food, but different structures inside their bodies are involved. If students researched the anaerobic bacteria, they will see that these organisms do not use the same chemical reactions as animals.",
+      "whatToDo": "What to do: If students are struggling with their arguments, look for the callout box in the activity section of “Research How Other Organisms Get Energy” for questions to help them get started.\nStudents will have an opportunity to give and receive feedback in a gallery walk next.\nUniversal Design for Learning: To engage students, encourage them to connect with their own interests and surroundings. One way to do this would be to allow students to choose to research organisms outside of the list provided in Investigating Other Organisms and report what they find to the class. Provide them with access to additional sources for information and/or the internet.\nUniversal Design for Learning: To assist students who are struggling to express their ideas to create their arguments, consider providing the following questions to help them get started.\nDoes your organism:\n1. Obtain energy from eating food?\n2. Have the same inputs and outputs of metabolic reactions as humans?\n3. Have the same structures and body systems involved in these processes as humans?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L14-AO1.html"
+      }
+    },
+    {
+      "id": "73-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should appr…",
+      "shortTitle": "Look for: What to look/listen for: Students should appr…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A.2 Engage in an argument from evidence that, in animals, oxygen reacts with carbon-containing molecules to provide energy and produce carbon dioxide and that organisms might have different structures that work together to do similar functions.",
+      "lookListenFor": "What to look/listen for: Students should approach this revision in terms of two different crosscutting concept lenses. Check to be sure they are identifying whether energy and matter are moving through organisms the same way as humans. Secondly, check that they are identifying how the structures in each animal function in a similar manner to those same structures in humans.",
+      "whatToDo": "What to do: If students are struggling to identify how similar and different structures are functioning, help them map those structures to the human structures that they have previously studied.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L14-AO2.html"
+      }
+    },
+    {
+      "id": "73-15-7-3-lesson-15-rubric-bears-assessment-modeling",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "title": "7.3 Lesson 15 Rubric Bears Assessment Modeling",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 15 — 7.3 Lesson 15 Rubric Bears Assessment Modeling.",
+      "files": {
+        "studentHandout": "lesson_15/original/7.3 Lesson 15 Rubric Bears Assessment Modeling.docx",
+        "teacherGuide": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+        "googleForm": null,
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-15-brown-bear-hibernation",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "title": "Brown Bear Hibernation",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 15 — Brown Bear Hibernation.",
+      "files": {
+        "studentHandout": "lesson_15/original/7.3 Lesson 15 Assessment Brown Bear Hibernation.docx",
+        "teacherGuide": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSewyj5ITTfDNrXRJpIJMfgcSstLwIlf6aLmLNURx3GpMqnc-w/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-15-modified-brown-bear",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "title": "Modified Brown Bear",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 15 — Modified Brown Bear.",
+      "files": {
+        "studentHandout": "lesson_15/original/7.3 Lesson 15 Assessment Modified Brown Bear.docx",
+        "teacherGuide": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScN4nwyxGtTpqTqmC08hBJTrCtLeP9NHzOuk6Gsnfyb51TDfQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-15-version-1-brown",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "title": "Version 1 Brown",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 15 — Version 1 Brown.",
+      "files": {
+        "studentHandout": "lesson_15/original/7.3 Lesson 15 Assessment Version 1 Brown.docx",
+        "teacherGuide": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdNdcn-KWlulgArYy9STSEoKpv8YF7_dLhHslrFJFdK7Qgs6Q/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-15-version-2-brown",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "title": "Version 2 Brown",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 15 — Version 2 Brown.",
+      "files": {
+        "studentHandout": "lesson_15/original/7.3 Lesson 15 Assessment Version 2 Brown.docx",
+        "teacherGuide": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdo1nswzOaXnYR9ZAt62KMRzakRaEynBIQ1BXG6tvFWr10Wkw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "73-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See detailed sample…",
+      "shortTitle": "Look for: What to look/listen for: See detailed sample…",
+      "peCode": "15.B",
+      "buildingTowards": "Building towards: 15.B Construct an explanation by applying scientific ideas and evidence to show how bears obtain energy to survive for several months without eating during hibernation.",
+      "lookListenFor": "What to look/listen for: See detailed sample responses and scoring guidance in Key for Brown Bear Hibernation Task and Bears Assessment Modeling Rubric.",
+      "whatToDo": "What to do: This lesson includes a transfer task to give students an opportunity to use the three dimensions to make sense of a different phenomenon. This is meant to be a summative assessment task for the unit and gives you a grading opportunity. The task includes a scoring guide, as well as a modeling rubric for scoring the modeling question. Scoring guides are meant to highlight important ideas that students should be including in their responses to the prompts. They are listed as bullet points, so you can decide how to score them appropriately to the norms in your classroom. If students share these ideas elsewhere in the assessment, it is up to you to decide if that understanding is sufficiently demonstrated.\nIf your students are struggling or you think they will need support in creating the model, there is a modified student assessment Version 2: Brown Bear Hibernation Task that gives students the components and interactions they will need in their models. Reviewing what the class has figured out through answering the questions on the Driving Question Board is one way to help students to prepare for the summative assessment. Reviewing these questions is also a good formative assessment to see if there are any pieces that need to be revisited.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS1-7"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.3 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-3/L15-AO1.html"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1635 @@
+{
+  "unitId": "8.2",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 8",
+  "unitFolder": "8.2 Sound Waves",
+  "unitDriveFolderId": "1kPVduPRGl_eGnUDQ546kYWBn31Ywogee",
+  "indexedAt": "2026-07-07T18:09:12.096Z",
+  "fileCount": 187,
+  "manifestPathCount": 76,
+  "matchedCount": 76,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "82-1-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/8.2 Lesson 1 Handout Initial Model Diagram.docx",
+      "driveFileId": "1n5KCq-iphBkX_cZk3mjM2RHa9GLur0Ya5-YjJ2O4CxA",
+      "driveRelativePath": "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Handout Initial Model Diagram",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:29.636Z"
+    },
+    {
+      "assessmentId": "82-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1WsnyRlYkQa6gtzZUVA0Cet0d9m-HXQb_XTKm3YW3zWk",
+      "driveRelativePath": "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:47.107Z"
+    },
+    {
+      "assessmentId": "82-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1WsnyRlYkQa6gtzZUVA0Cet0d9m-HXQb_XTKm3YW3zWk",
+      "driveRelativePath": "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:47.107Z"
+    },
+    {
+      "assessmentId": "82-2-8-2-lesson-2-handout-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Handout Self Assessment.docx",
+      "driveFileId": "1ZyDgl4E3VW_3DKPq-L7lJ5pqUy_T9DjTZHKSqoEqtMU",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Handout Self Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:51.238Z"
+    },
+    {
+      "assessmentId": "82-2-8-2-lesson-2-handout-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JsGm0ZTF5Tj5Oz3HxOkH7ui46-2TRuVQlfi8CTyI5S8",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:22.861Z"
+    },
+    {
+      "assessmentId": "82-2-8-2-lesson-2-handout-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Handout Self-Assessment.docx",
+      "driveFileId": "1uHTxT3M4AXUqZ-3DN_ZlOnOeO0aul4-q8LpdpWvwnjc",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Handout Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:54.061Z"
+    },
+    {
+      "assessmentId": "82-2-8-2-lesson-2-handout-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JsGm0ZTF5Tj5Oz3HxOkH7ui46-2TRuVQlfi8CTyI5S8",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:22.861Z"
+    },
+    {
+      "assessmentId": "82-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JsGm0ZTF5Tj5Oz3HxOkH7ui46-2TRuVQlfi8CTyI5S8",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:22.861Z"
+    },
+    {
+      "assessmentId": "82-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JsGm0ZTF5Tj5Oz3HxOkH7ui46-2TRuVQlfi8CTyI5S8",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:22.861Z"
+    },
+    {
+      "assessmentId": "82-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JsGm0ZTF5Tj5Oz3HxOkH7ui46-2TRuVQlfi8CTyI5S8",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:22.861Z"
+    },
+    {
+      "assessmentId": "82-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1VOlOMHybj_C8sjNBlGuj305pWnkiNrf3cJS1qthM-3w",
+      "driveRelativePath": "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:04.375Z"
+    },
+    {
+      "assessmentId": "82-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1VOlOMHybj_C8sjNBlGuj305pWnkiNrf3cJS1qthM-3w",
+      "driveRelativePath": "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:04.375Z"
+    },
+    {
+      "assessmentId": "82-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1VOlOMHybj_C8sjNBlGuj305pWnkiNrf3cJS1qthM-3w",
+      "driveRelativePath": "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:04.375Z"
+    },
+    {
+      "assessmentId": "82-4-8-2-lesson-4-handout-discussion-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_4/original/8.2 Lesson 4 Handout Discussion Self Assessment.docx",
+      "driveFileId": "1WZEnqBJJy3Dn3DC2tdnZwMeoTJInqJsQEDqy0A1KeDk",
+      "driveRelativePath": "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Handout Discussion Self Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:27.722Z"
+    },
+    {
+      "assessmentId": "82-4-8-2-lesson-4-handout-discussion-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-RnI8mHvBEAIeZe1MIcL-GrWArJ63Ba9d_xPioqcGlg",
+      "driveRelativePath": "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:02.811Z"
+    },
+    {
+      "assessmentId": "82-4-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_4/original/8.2 Lesson 4 Handout Harp String Graph.docx",
+      "driveFileId": "1AXBoTogfB3PyjdoKcZBAPBLuQpysgPeTVGcvoea0ab8",
+      "driveRelativePath": "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Handout Harp String Graph",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:33.796Z"
+    },
+    {
+      "assessmentId": "82-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-RnI8mHvBEAIeZe1MIcL-GrWArJ63Ba9d_xPioqcGlg",
+      "driveRelativePath": "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:02.811Z"
+    },
+    {
+      "assessmentId": "82-5-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/8.2 Lesson 5 Handout Analyzing Graphs of.docx",
+      "driveFileId": "1yncsK_512hDQVmTcKOrjzuf4a9MpGRiXQUmCQ9JUOaQ",
+      "driveRelativePath": "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Handout Analyzing Graphs of",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:20.971Z"
+    },
+    {
+      "assessmentId": "82-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1csd483JlyYufgf5u1r6AYMmaDdD08KL0NkuN8hlX5r8",
+      "driveRelativePath": "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:42.883Z"
+    },
+    {
+      "assessmentId": "82-5-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/8.2 Lesson 5 Handout Analyzing Graphs of.docx",
+      "driveFileId": "1yncsK_512hDQVmTcKOrjzuf4a9MpGRiXQUmCQ9JUOaQ",
+      "driveRelativePath": "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Handout Analyzing Graphs of",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:20.971Z"
+    },
+    {
+      "assessmentId": "82-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1csd483JlyYufgf5u1r6AYMmaDdD08KL0NkuN8hlX5r8",
+      "driveRelativePath": "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:42.883Z"
+    },
+    {
+      "assessmentId": "82-5-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/8.2 Lesson 5 Handout Analyzing Graphs of.docx",
+      "driveFileId": "1yncsK_512hDQVmTcKOrjzuf4a9MpGRiXQUmCQ9JUOaQ",
+      "driveRelativePath": "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Handout Analyzing Graphs of",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:20.971Z"
+    },
+    {
+      "assessmentId": "82-5-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1csd483JlyYufgf5u1r6AYMmaDdD08KL0NkuN8hlX5r8",
+      "driveRelativePath": "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:42.883Z"
+    },
+    {
+      "assessmentId": "82-6-8-2-lesson-6-teacher-reference-assessment-key",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Teacher Reference Assessment Key.docx",
+      "driveFileId": "1Fr_ub6QRyFGNBWqS9CC2lPycf40ACSyU9N1hezFIgGg",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Reference Assessment Key",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:47.639Z"
+    },
+    {
+      "assessmentId": "82-6-8-2-lesson-6-teacher-reference-assessment-key",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1E0R2H-nn3JIK_8_oO2XdJCC4KWWW1QEQdRPzmZwGN3I",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:42.629Z"
+    },
+    {
+      "assessmentId": "82-6-8-2-lesson-6-teacher-reference-assessment-key",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Answer Key Assessment Key.docx",
+      "driveFileId": "1E_avdxafkRPvJZY3xsWRfTxMzW0wVQMMoCY0Cmp1O6M",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Answer Key Assessment Key",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:02.294Z"
+    },
+    {
+      "assessmentId": "82-6-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Assessment Assessment.docx",
+      "driveFileId": "1OsDiu69PP6th20FRQnWyKmfcrau4KlctMk21nRXWJ9Y",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Assessment Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:09.077Z"
+    },
+    {
+      "assessmentId": "82-6-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1E0R2H-nn3JIK_8_oO2XdJCC4KWWW1QEQdRPzmZwGN3I",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:42.629Z"
+    },
+    {
+      "assessmentId": "82-6-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Answer Key Assessment Key.docx",
+      "driveFileId": "1E_avdxafkRPvJZY3xsWRfTxMzW0wVQMMoCY0Cmp1O6M",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Answer Key Assessment Key",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:02.294Z"
+    },
+    {
+      "assessmentId": "82-6-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Handout Connecting Graphical Representations.docx",
+      "driveFileId": "15YnuI9nyvEJJJHgLx-WmR5-2y1PG_MOdBhnoJ7b71h8",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Handout Connecting Graphical Representations",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:13.182Z"
+    },
+    {
+      "assessmentId": "82-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1E0R2H-nn3JIK_8_oO2XdJCC4KWWW1QEQdRPzmZwGN3I",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:42.629Z"
+    },
+    {
+      "assessmentId": "82-6-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Handout Connecting Graphical Representations.docx",
+      "driveFileId": "15YnuI9nyvEJJJHgLx-WmR5-2y1PG_MOdBhnoJ7b71h8",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Handout Connecting Graphical Representations",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:13.182Z"
+    },
+    {
+      "assessmentId": "82-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1E0R2H-nn3JIK_8_oO2XdJCC4KWWW1QEQdRPzmZwGN3I",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:42.629Z"
+    },
+    {
+      "assessmentId": "82-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/8.2 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1G7c78kROn8A4tXYA9Jpk5cSpuROPdRmcNFnJLxuZ92s",
+      "driveRelativePath": "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-24T00:22:09.274Z"
+    },
+    {
+      "assessmentId": "82-8-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1WpO4bZWasSArGfZOJNyTUDczCVO-uCCSUZseM9N1sIY",
+      "driveRelativePath": "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.170Z"
+    },
+    {
+      "assessmentId": "82-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1WpO4bZWasSArGfZOJNyTUDczCVO-uCCSUZseM9N1sIY",
+      "driveRelativePath": "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.170Z"
+    },
+    {
+      "assessmentId": "82-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1WpO4bZWasSArGfZOJNyTUDczCVO-uCCSUZseM9N1sIY",
+      "driveRelativePath": "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.170Z"
+    },
+    {
+      "assessmentId": "82-9-8-2-lesson-9-handout-self-assessment-for",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Handout Self Assessment for.docx",
+      "driveFileId": "1-tZdEYH9xN6LdL7jY3I-mQxcnZN2XKSyY4mAAHO3LVo",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Handout Self Assessment for",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:54.000Z"
+    },
+    {
+      "assessmentId": "82-9-8-2-lesson-9-handout-self-assessment-for",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1fs1fK8CO6PPbDnOMC5l9Xmp6i2-C9JECwoozQke7WuQ",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:16.370Z"
+    },
+    {
+      "assessmentId": "82-9-8-2-lesson-9-handout-self-assessment-for-classroom",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Handout Self-Assessment for Classroom.docx",
+      "driveFileId": "1rzqUjIlfWviapJiX_vycTp0yCDU7hySYCgYpKt9B2LU",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Handout Self-Assessment for Classroom",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:56.544Z"
+    },
+    {
+      "assessmentId": "82-9-8-2-lesson-9-handout-self-assessment-for-classroom",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1fs1fK8CO6PPbDnOMC5l9Xmp6i2-C9JECwoozQke7WuQ",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:16.370Z"
+    },
+    {
+      "assessmentId": "82-9-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1fs1fK8CO6PPbDnOMC5l9Xmp6i2-C9JECwoozQke7WuQ",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:16.370Z"
+    },
+    {
+      "assessmentId": "82-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1fs1fK8CO6PPbDnOMC5l9Xmp6i2-C9JECwoozQke7WuQ",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:16.370Z"
+    },
+    {
+      "assessmentId": "82-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1fs1fK8CO6PPbDnOMC5l9Xmp6i2-C9JECwoozQke7WuQ",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:16.370Z"
+    },
+    {
+      "assessmentId": "82-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "10C2vrvPhxdedoxXWbRUPu1jyCLMIdEXe587HxiyiCco",
+      "driveRelativePath": "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:28.443Z"
+    },
+    {
+      "assessmentId": "82-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "10C2vrvPhxdedoxXWbRUPu1jyCLMIdEXe587HxiyiCco",
+      "driveRelativePath": "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:28.443Z"
+    },
+    {
+      "assessmentId": "82-11-8-2-lesson-11-handout-peer-feedback-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_11/original/8.2 Lesson 11 Handout Peer Feedback Self-Assessment.docx",
+      "driveFileId": "1SWMrUeOqSh3xptPx0XW6uW6-LLX7qfHPZ9Roh2UAdzM",
+      "driveRelativePath": "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Handout Peer Feedback Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:51.980Z"
+    },
+    {
+      "assessmentId": "82-11-8-2-lesson-11-handout-peer-feedback-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.2 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1J8UU19nt71maiZscp95OYwc5mc1MwTkr6x4E7wLdmSM",
+      "driveRelativePath": "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:12.738Z"
+    },
+    {
+      "assessmentId": "82-11-8-2-lesson-11-handout-peer-feedback-self-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_11/original/8.2 Lesson 11 Answer Key Key for Gotta-Have-It.docx",
+      "driveFileId": "1LrCwHS7uKiLOzWB8gvvpbsTssQda8mfJHGAk3WR-Xxs",
+      "driveRelativePath": "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Answer Key Key for Gotta-Have-It",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:41.592Z"
+    },
+    {
+      "assessmentId": "82-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.2 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1J8UU19nt71maiZscp95OYwc5mc1MwTkr6x4E7wLdmSM",
+      "driveRelativePath": "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:12.738Z"
+    },
+    {
+      "assessmentId": "82-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.2 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1PAJOC9daReuJ9_txpmCe7z8exkh3u5Q6j1Jo_9K1HVU",
+      "driveRelativePath": "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:43.319Z"
+    },
+    {
+      "assessmentId": "82-13-assessment-how-does",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/8.2 Lesson 13 Assessment Assessment How does.docx",
+      "driveFileId": "1w5rVn-oyUOeEuHBr_d-XQBT0lV0DdoCQGN5-r7vBe38",
+      "driveRelativePath": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Assessment Assessment How does",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:10.212Z"
+    },
+    {
+      "assessmentId": "82-13-assessment-how-does",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XAHnfKeMyCJ72X60Mv3B4LEM5Kapi7oTuByf8eI83A0",
+      "driveRelativePath": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.766Z"
+    },
+    {
+      "assessmentId": "82-13-assessment-how-does",
+      "field": "answerKey",
+      "manifestPath": "lesson_13/original/8.2 Lesson 13 Answer Key Assessment Key How.docx",
+      "driveFileId": "1rMAqmUSs64JRyIG50V9bIr4nUJOkyqChZ6AFMDTL8X0",
+      "driveRelativePath": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Answer Key Assessment Key How",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:05.756Z"
+    },
+    {
+      "assessmentId": "82-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XAHnfKeMyCJ72X60Mv3B4LEM5Kapi7oTuByf8eI83A0",
+      "driveRelativePath": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.766Z"
+    },
+    {
+      "assessmentId": "82-13-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XAHnfKeMyCJ72X60Mv3B4LEM5Kapi7oTuByf8eI83A0",
+      "driveRelativePath": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.766Z"
+    },
+    {
+      "assessmentId": "82-13-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XAHnfKeMyCJ72X60Mv3B4LEM5Kapi7oTuByf8eI83A0",
+      "driveRelativePath": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.766Z"
+    },
+    {
+      "assessmentId": "82-14-unit-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/8.2 Lesson 14 Assessment Unit Assessment.docx",
+      "driveFileId": "1hKr3M-0aKncDX4xa_RvXt7e2VQGy2JAw3VzfwQZMIus",
+      "driveRelativePath": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Assessment Unit Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:55.179Z"
+    },
+    {
+      "assessmentId": "82-14-unit-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1i39u6uo8QkHUkYPXhY6ycRjKn-64bzfazGMZufnI2ZM",
+      "driveRelativePath": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:15.800Z"
+    },
+    {
+      "assessmentId": "82-14-unit-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/8.2 Lesson 14 Answer Key Gotta-Have-It Checklist Key.docx",
+      "driveFileId": "1RN8_Gc4e-7xpD4MgTMkxM4TSqV_8tBQt2agavFH8bGg",
+      "driveRelativePath": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Answer Key Gotta-Have-It Checklist Key",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:48.410Z"
+    },
+    {
+      "assessmentId": "82-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1i39u6uo8QkHUkYPXhY6ycRjKn-64bzfazGMZufnI2ZM",
+      "driveRelativePath": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:15.800Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/8.2 Sound Waves Unit Overview Materials.docx",
+      "driveFileId": "1ZCL1Ico_cUJ59RFpTfIzPnrmFYyplRyx-EkXXebLMnc",
+      "driveRelativePath": "8.2 Sound Waves Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-14T00:29:19.000Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/8.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1WsnyRlYkQa6gtzZUVA0Cet0d9m-HXQb_XTKm3YW3zWk",
+      "driveRelativePath": "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:47.107Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JsGm0ZTF5Tj5Oz3HxOkH7ui46-2TRuVQlfi8CTyI5S8",
+      "driveRelativePath": "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:22.861Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1VOlOMHybj_C8sjNBlGuj305pWnkiNrf3cJS1qthM-3w",
+      "driveRelativePath": "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:04.375Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/8.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-RnI8mHvBEAIeZe1MIcL-GrWArJ63Ba9d_xPioqcGlg",
+      "driveRelativePath": "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:02.811Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1csd483JlyYufgf5u1r6AYMmaDdD08KL0NkuN8hlX5r8",
+      "driveRelativePath": "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:42.883Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1E0R2H-nn3JIK_8_oO2XdJCC4KWWW1QEQdRPzmZwGN3I",
+      "driveRelativePath": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:42.629Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/8.2 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1G7c78kROn8A4tXYA9Jpk5cSpuROPdRmcNFnJLxuZ92s",
+      "driveRelativePath": "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2026-02-24T00:22:09.274Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1WpO4bZWasSArGfZOJNyTUDczCVO-uCCSUZseM9N1sIY",
+      "driveRelativePath": "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.170Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1fs1fK8CO6PPbDnOMC5l9Xmp6i2-C9JECwoozQke7WuQ",
+      "driveRelativePath": "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:16.370Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/8.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "10C2vrvPhxdedoxXWbRUPu1jyCLMIdEXe587HxiyiCco",
+      "driveRelativePath": "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:28.443Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/8.2 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1J8UU19nt71maiZscp95OYwc5mc1MwTkr6x4E7wLdmSM",
+      "driveRelativePath": "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:12.738Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/8.2 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1PAJOC9daReuJ9_txpmCe7z8exkh3u5Q6j1Jo_9K1HVU",
+      "driveRelativePath": "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:43.319Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XAHnfKeMyCJ72X60Mv3B4LEM5Kapi7oTuByf8eI83A0",
+      "driveRelativePath": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.766Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/8.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1i39u6uo8QkHUkYPXhY6ycRjKn-64bzfazGMZufnI2ZM",
+      "driveRelativePath": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:15.800Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Unit 8.2 Sound Waves Video Links.pdf": {
+      "driveFileId": "1FIrM264YgKkCdZ-GMzBcbNgFNao1vaH2",
+      "name": "Unit 8.2 Sound Waves Video Links.pdf",
+      "modifiedTime": "2024-08-14T00:40:23.017Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1pXsuw6zwTCGgGtxnUIsPcIshBSN_c_0D",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-14T00:40:22.026Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1N9_PYgh4H5jIVhLOuAT9TRGA5rVjbKNG",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-14T00:40:20.860Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1ZWWAJSOyeTmDGtKfjepdv0Qw3hfKAXXm",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-14T00:40:19.789Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1QzHRNyy26QiuFkhv-CqmZNDAWdybwhzR",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-14T00:40:18.667Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1TI2RIAiF3O-pJMzncpWiyHaTDhJheL9O",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-14T00:40:17.023Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Teacher Edition": {
+      "driveFileId": "1fs1fK8CO6PPbDnOMC5l9Xmp6i2-C9JECwoozQke7WuQ",
+      "name": "8.2 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:40:16.370Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1VpAtsa1oyW2MIixaaK9-ACG24nBdzHQG8PgsMj48z2Y",
+      "name": "8.2 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:40:12.346Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Student Procedure": {
+      "driveFileId": "1C5yN-7WdvseZjUDEd1yHtb848Ts4uG_B3q58cl4fhPw",
+      "name": "8.2 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-14T00:40:08.050Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Slides": {
+      "driveFileId": "1KeHkClOlUsf4CrK3MV9RQVXnI8PDBXlBupMrCN6AC0o",
+      "name": "8.2 Lesson 9 Slides",
+      "modifiedTime": "2024-08-14T00:40:03.435Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Handout Sound and States": {
+      "driveFileId": "1WSCCxX3qifqwFvwyEZHY3udMjET34dQa47-5UJI-IPE",
+      "name": "8.2 Lesson 9 Handout Sound and States",
+      "modifiedTime": "2024-08-14T00:39:59.424Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Handout Self-Assessment for Classroom": {
+      "driveFileId": "1rzqUjIlfWviapJiX_vycTp0yCDU7hySYCgYpKt9B2LU",
+      "name": "8.2 Lesson 9 Handout Self-Assessment for Classroom",
+      "modifiedTime": "2024-08-14T00:39:56.544Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Handout Self Assessment for": {
+      "driveFileId": "1-tZdEYH9xN6LdL7jY3I-mQxcnZN2XKSyY4mAAHO3LVo",
+      "name": "8.2 Lesson 9 Handout Self Assessment for",
+      "modifiedTime": "2024-08-14T00:39:54.000Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lesson 9 Handout Modeling the Matter": {
+      "driveFileId": "17d89MDVwrJyPJDXl7VRYnn4uhHmNO2-G_pG_9Q8tf4o",
+      "name": "8.2 Lesson 9 Handout Modeling the Matter",
+      "modifiedTime": "2024-08-14T00:39:51.244Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lección 9 Folleto Modelar la materia": {
+      "driveFileId": "17N3Rgjl9gkHP-FoEbUCbereHyd9E_1JhmDUWMGJjt8c",
+      "name": "8.2 Lección 9 Folleto Modelar la materia",
+      "modifiedTime": "2024-08-14T00:39:47.745Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lección 9 Folleto Los sonidos y": {
+      "driveFileId": "1b9HGACeAnd1FaWXDdZ6ZF6xpkDGBsZQgeM5jnEzl-RE",
+      "name": "8.2 Lección 9 Folleto Los sonidos y",
+      "modifiedTime": "2024-08-14T00:39:44.550Z"
+    },
+    "Lesson 9 - 8.2 Sound Waves/8.2 Lección 9 Folleto Autoevaluación de la": {
+      "driveFileId": "121jWKC0sd12YBUjLFI5UPw5AvrD_AH3TsZ5ak5mapMQ",
+      "name": "8.2 Lección 9 Folleto Autoevaluación de la",
+      "modifiedTime": "2024-08-14T00:39:41.976Z"
+    },
+    "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Teacher Edition": {
+      "driveFileId": "1WpO4bZWasSArGfZOJNyTUDczCVO-uCCSUZseM9N1sIY",
+      "name": "8.2 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:39:38.170Z"
+    },
+    "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1dhkyhaXngnGeQtxazaZ0zXxQE22nIiRa4AnCay_4fvo",
+      "name": "8.2 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:34.060Z"
+    },
+    "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Student Procedure": {
+      "driveFileId": "1dJWcdH30-Hkuw1P1ii_xLo5SmPS8dR8Z67OXwaWf_-A",
+      "name": "8.2 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:28.002Z"
+    },
+    "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Slides": {
+      "driveFileId": "1GMP_PsTGbiMDrlfN4q-eWxw9cQQg5QFz89BQr0vGbZo",
+      "name": "8.2 Lesson 8 Slides",
+      "modifiedTime": "2024-08-14T00:39:23.288Z"
+    },
+    "Lesson 8 - 8.2 Sound Waves/8.2 Lesson 8 Handout Transcript Phone Ringing": {
+      "driveFileId": "18cQAa1Turmifn2aInXiqpY7ErgaNoICBHJ_kNVQted8",
+      "name": "8.2 Lesson 8 Handout Transcript Phone Ringing",
+      "modifiedTime": "2024-08-14T00:39:19.438Z"
+    },
+    "Lesson 8 - 8.2 Sound Waves/8.2 Lección 8 Folleto Transcripción Teléfono sonando": {
+      "driveFileId": "1gm71C5oN0gvwYRO2nYSKXktjT03QG9Q7Sg46b32m-LI",
+      "name": "8.2 Lección 8 Folleto Transcripción Teléfono sonando",
+      "modifiedTime": "2024-08-14T00:39:17.075Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Teacher Edition": {
+      "driveFileId": "1G7c78kROn8A4tXYA9Jpk5cSpuROPdRmcNFnJLxuZ92s",
+      "name": "8.2 Lesson 7 Teacher Edition",
+      "modifiedTime": "2026-02-24T00:22:09.274Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1rmLpxt5A7RW0f9xQsj3vEYyi13qCousfa7OX5OEnSlM",
+      "name": "8.2 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:10.620Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Student Procedure": {
+      "driveFileId": "1h_lM3u2xI5DDEn1L-fqC-yw92_8HNPurHI7gB4V2tac",
+      "name": "8.2 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:05.965Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Slides": {
+      "driveFileId": "10pEt-yliXrygMUsLUXMkfR5T-Z0BHMWj_A5txthKkmk",
+      "name": "8.2 Lesson 7 Slides",
+      "modifiedTime": "2024-08-14T00:39:02.613Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Handout Lesson 7 Exit": {
+      "driveFileId": "1IZEv8s-bUmg5bgyRj5jmLtWAvN3tiO1xx1IrlTvtJAw",
+      "name": "8.2 Lesson 7 Handout Lesson 7 Exit",
+      "modifiedTime": "2024-08-14T00:38:58.980Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lesson 7 Handout Investigation Plan": {
+      "driveFileId": "1AktRWvvrTMRXebNycBOV4nnMoGTK1OSUEHJfTkOcWvI",
+      "name": "8.2 Lesson 7 Handout Investigation Plan",
+      "modifiedTime": "2024-08-14T00:38:56.338Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lección 7 Folleto Plan de la": {
+      "driveFileId": "1DqA0dt6vz9q3I6L6ecVTEfkHHvt5_1G4AdMArI2kOgY",
+      "name": "8.2 Lección 7 Folleto Plan de la",
+      "modifiedTime": "2024-08-14T00:38:53.630Z"
+    },
+    "Lesson 7 - 8.2 Sound Waves/8.2 Lección 7 Folleto Lección 7 Boleto": {
+      "driveFileId": "1KNemCyaDGiCH7Ph7OhPeBsZl3aVFDnd7dniBlwo3gJ4",
+      "name": "8.2 Lección 7 Folleto Lección 7 Boleto",
+      "modifiedTime": "2024-08-14T00:38:50.881Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Reference Assessment Key": {
+      "driveFileId": "1Fr_ub6QRyFGNBWqS9CC2lPycf40ACSyU9N1hezFIgGg",
+      "name": "8.2 Lesson 6 Teacher Reference Assessment Key",
+      "modifiedTime": "2024-08-14T00:38:47.639Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Edition": {
+      "driveFileId": "1E0R2H-nn3JIK_8_oO2XdJCC4KWWW1QEQdRPzmZwGN3I",
+      "name": "8.2 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:38:42.629Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "18yC_LgkQvk6VupDumOf8gjlCOXrMdWswSIYv-PRXUuw",
+      "name": "8.2 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:38:35.986Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Student Procedure": {
+      "driveFileId": "1v0b07opJDeemiqM_YypWNxAU_191b_2cn21WZOZbtGc",
+      "name": "8.2 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-14T00:38:31.920Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Slides": {
+      "driveFileId": "12IaEp1tGedRQkMlMevfnZ-wge3Rx9hywRFf02vMXThI",
+      "name": "8.2 Lesson 6 Slides",
+      "modifiedTime": "2024-08-14T00:38:28.268Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Rubric Rubric for Modeling": {
+      "driveFileId": "1iljR5A_OorKHNxSH2cotq15sGkLwK1iUlPXcN0cGUOU",
+      "name": "8.2 Lesson 6 Rubric Rubric for Modeling",
+      "modifiedTime": "2024-08-14T00:38:24.186Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Handout Supplemental Investigation 6B": {
+      "driveFileId": "1OkPq3z6rnluTH_WJWuoHOoQ-dKjLM7X-AcVmzo4bdQE",
+      "name": "8.2 Lesson 6 Handout Supplemental Investigation 6B",
+      "modifiedTime": "2024-08-14T00:38:21.489Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Handout Supplemental Investigation 6A": {
+      "driveFileId": "1BwFfNEReHUvwyOI90xYXFU1wNFYEKVLWbZus006oq-M",
+      "name": "8.2 Lesson 6 Handout Supplemental Investigation 6A",
+      "modifiedTime": "2024-08-14T00:38:16.705Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Handout Connecting Graphical Representations": {
+      "driveFileId": "15YnuI9nyvEJJJHgLx-WmR5-2y1PG_MOdBhnoJ7b71h8",
+      "name": "8.2 Lesson 6 Handout Connecting Graphical Representations",
+      "modifiedTime": "2024-08-14T00:38:13.182Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Assessment Assessment": {
+      "driveFileId": "1OsDiu69PP6th20FRQnWyKmfcrau4KlctMk21nRXWJ9Y",
+      "name": "8.2 Lesson 6 Assessment Assessment",
+      "modifiedTime": "2024-08-14T00:38:09.077Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Answer Key Key Connecting Graphical": {
+      "driveFileId": "1fua1995UVmx0WT_92Kg_18bp79kINgG6qXWnCi4RdDQ",
+      "name": "8.2 Lesson 6 Answer Key Key Connecting Graphical",
+      "modifiedTime": "2024-08-14T00:38:05.997Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Answer Key Assessment Key": {
+      "driveFileId": "1E_avdxafkRPvJZY3xsWRfTxMzW0wVQMMoCY0Cmp1O6M",
+      "name": "8.2 Lesson 6 Answer Key Assessment Key",
+      "modifiedTime": "2024-08-14T00:38:02.294Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lección 6 Folleto Investigación complementaria 6B": {
+      "driveFileId": "1ng-ZX97BSqMtTJbbhyJOGh0aZOTi7DzRQcay5v8LeSU",
+      "name": "8.2 Lección 6 Folleto Investigación complementaria 6B",
+      "modifiedTime": "2024-08-14T00:37:58.458Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lección 6 Folleto Investigación complementaria 6A": {
+      "driveFileId": "1lKidWBg0_yR-A4yYwgMldjorPwFulg_OPGrV1aRCPiI",
+      "name": "8.2 Lección 6 Folleto Investigación complementaria 6A",
+      "modifiedTime": "2024-08-14T00:37:54.601Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lección 6 Folleto Conectar las representaciones": {
+      "driveFileId": "1n7QNL48FNVbGJCvJm9pcV8c2Ci2DHDUyiLdrkR_frnk",
+      "name": "8.2 Lección 6 Folleto Conectar las representaciones",
+      "modifiedTime": "2024-08-14T00:37:50.664Z"
+    },
+    "Lesson 6 - 8.2 Sound Waves/8.2 Lección 6 Evaluación Evaluación": {
+      "driveFileId": "1Lm15OuMsPlgakximr2KE7jvckceqbzG3qG5bR939P38",
+      "name": "8.2 Lección 6 Evaluación Evaluación",
+      "modifiedTime": "2024-08-14T00:37:46.823Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Teacher Edition": {
+      "driveFileId": "1csd483JlyYufgf5u1r6AYMmaDdD08KL0NkuN8hlX5r8",
+      "name": "8.2 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:42.883Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1G2tbbibUNX1nb_GBhD22kGTSZH2RFZ0l-6vthtEtorM",
+      "name": "8.2 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:37.661Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Student Procedure": {
+      "driveFileId": "1-gT-QQ6OKTAh4-L-of9Y3H_460ddToKW_rf4Buef-So",
+      "name": "8.2 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:33.567Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Slides": {
+      "driveFileId": "1bfOPtskkmCy1yLgGYnXFk4NfN7tG-xi9vyEiuZuFPKY",
+      "name": "8.2 Lesson 5 Slides",
+      "modifiedTime": "2024-08-14T00:37:29.191Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Handout Pitch Graphs": {
+      "driveFileId": "1UIKY31pOV4BG6GKk2o_GUzMi7Mapfmc0vNN16-JEDwk",
+      "name": "8.2 Lesson 5 Handout Pitch Graphs",
+      "modifiedTime": "2024-08-14T00:37:25.689Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Handout Analyzing Graphs of": {
+      "driveFileId": "1yncsK_512hDQVmTcKOrjzuf4a9MpGRiXQUmCQ9JUOaQ",
+      "name": "8.2 Lesson 5 Handout Analyzing Graphs of",
+      "modifiedTime": "2024-08-14T00:37:20.971Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lesson 5 Answer Key Key Analyzing Graphs": {
+      "driveFileId": "1LH1bqeIH2unLoR63gF7VnqGgJxpV0N5IcUV1SANV3JU",
+      "name": "8.2 Lesson 5 Answer Key Key Analyzing Graphs",
+      "modifiedTime": "2024-08-14T00:37:17.002Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lección 5 Folleto Gráficos de tono": {
+      "driveFileId": "1sEVnX_GPQr7H1DkMudE7axWc6yJFfpk-P3mZQ-6tmaI",
+      "name": "8.2 Lección 5 Folleto Gráficos de tono",
+      "modifiedTime": "2024-08-14T00:37:12.879Z"
+    },
+    "Lesson 5 - 8.2 Sound Waves/8.2 Lección 5 Folleto Analizar gráficos de": {
+      "driveFileId": "1ultu64v-7C6Te2DKPdFMqZsSjP4pW0oI5HI00FEAAug",
+      "name": "8.2 Lección 5 Folleto Analizar gráficos de",
+      "modifiedTime": "2024-08-14T00:37:07.803Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Teacher Edition": {
+      "driveFileId": "1-RnI8mHvBEAIeZe1MIcL-GrWArJ63Ba9d_xPioqcGlg",
+      "name": "8.2 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:02.811Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "13ir19nzW_ISosJq2HGgE0PucWURzaiwcSge9Drj6lUA",
+      "name": "8.2 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:57.863Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Student Procedure": {
+      "driveFileId": "1T7zjNIeiJZYXreNOF9mNb2mo1grz992WMeNg1-OYR9Q",
+      "name": "8.2 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:54.404Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Slides": {
+      "driveFileId": "1bhxaE4XVzKPceuTYdYkwIoi3OZGW85HcMEEX3HxpFyo",
+      "name": "8.2 Lesson 4 Slides",
+      "modifiedTime": "2024-08-14T00:36:49.007Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Reading Reading How does": {
+      "driveFileId": "1JAo1Kiys0hAArc3KMBScrP2QEQgCqGd8XhgFVT63eik",
+      "name": "8.2 Lesson 4 Reading Reading How does",
+      "modifiedTime": "2024-08-14T00:36:44.923Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Handout L4 Motion Graphs": {
+      "driveFileId": "1BVxC5bJEo3EkFEqMLzUQaPXAOpx8ptn2Y-9HgoxMDnc",
+      "name": "8.2 Lesson 4 Handout L4 Motion Graphs",
+      "modifiedTime": "2024-08-14T00:36:41.730Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Handout How does the": {
+      "driveFileId": "1nb4Qe3wvzzV0luf6-B4TjOVrrD5RrrJuyO_bbbDiRHc",
+      "name": "8.2 Lesson 4 Handout How does the",
+      "modifiedTime": "2024-08-14T00:36:38.095Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Handout Harp String Graph": {
+      "driveFileId": "1AXBoTogfB3PyjdoKcZBAPBLuQpysgPeTVGcvoea0ab8",
+      "name": "8.2 Lesson 4 Handout Harp String Graph",
+      "modifiedTime": "2024-08-14T00:36:33.796Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lesson 4 Handout Discussion Self Assessment": {
+      "driveFileId": "1WZEnqBJJy3Dn3DC2tdnZwMeoTJInqJsQEDqy0A1KeDk",
+      "name": "8.2 Lesson 4 Handout Discussion Self Assessment",
+      "modifiedTime": "2024-08-14T00:36:27.722Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lección 4 Lectura Lectura ¿Cómo funciona": {
+      "driveFileId": "1Uv5RbDacA9nN_kPPH35t6Fz59qiHmCOZ7KBB9q-xUDY",
+      "name": "8.2 Lección 4 Lectura Lectura ¿Cómo funciona",
+      "modifiedTime": "2024-08-14T00:36:24.821Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lección 4 Folleto ¿Cómo funciona el": {
+      "driveFileId": "15TRVnHyDS2VPp2Id-sTzu5tWBEjLlsMynyxNnIAcdXs",
+      "name": "8.2 Lección 4 Folleto ¿Cómo funciona el",
+      "modifiedTime": "2024-08-14T00:36:21.024Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lección 4 Folleto Papel de gráfico": {
+      "driveFileId": "14NUnlmTtwolO2IYzoit08ScIMRSnI6wuajCIAEvO4Qw",
+      "name": "8.2 Lección 4 Folleto Papel de gráfico",
+      "modifiedTime": "2024-08-14T00:36:17.803Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lección 4 Folleto L4 Gráficos de": {
+      "driveFileId": "14YEFgFxZHx-BJgaSymI7G3KI07ou-DKZ-RbgyTe-kk0",
+      "name": "8.2 Lección 4 Folleto L4 Gráficos de",
+      "modifiedTime": "2024-08-14T00:36:13.741Z"
+    },
+    "Lesson 4 - 8.2 Sound Waves/8.2 Lección 4 Folleto Autoevaluación de la": {
+      "driveFileId": "1lGi_BmeKPrmDjR_WBCaPVljzTaHNiVdL8vV6NlI5mYM",
+      "name": "8.2 Lección 4 Folleto Autoevaluación de la",
+      "modifiedTime": "2024-08-14T00:36:10.980Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Teacher Reference How do objects": {
+      "driveFileId": "1VYeedbIIJKgrq_trdApYZbkg_OQvv90b7iLkzk3SlNE",
+      "name": "8.2 Lesson 3 Teacher Reference How do objects",
+      "modifiedTime": "2024-08-14T00:36:07.361Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Teacher Edition": {
+      "driveFileId": "1VOlOMHybj_C8sjNBlGuj305pWnkiNrf3cJS1qthM-3w",
+      "name": "8.2 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:36:04.375Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1svhHn2qbbbd323E4zAGOKHubhF6sUaekYGS1TJ4rmN0",
+      "name": "8.2 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:59.758Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Student Procedure": {
+      "driveFileId": "1mRW2ivaBSk8TVN5QI1zyFMTRIrf_ocnT2scD9MoBTkc",
+      "name": "8.2 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:55.427Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Slides": {
+      "driveFileId": "1J0xTUSELviB23KGRrX7S6Gvqzspl9WlyPeQ0uCKDFkU",
+      "name": "8.2 Lesson 3 Slides",
+      "modifiedTime": "2024-08-14T00:35:51.102Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Reading Reading Where else": {
+      "driveFileId": "1dM8daCR-PymzSu8BZQLQ1lsAUcyMiDvyoBlvgQwJPq4",
+      "name": "8.2 Lesson 3 Reading Reading Where else",
+      "modifiedTime": "2024-08-14T00:35:45.991Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Handout Where else are": {
+      "driveFileId": "14Fb7kVHtctdJH8ni7jNaVDi8j9SCMpxcKzL6MYNSo2s",
+      "name": "8.2 Lesson 3 Handout Where else are",
+      "modifiedTime": "2024-08-14T00:35:43.173Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Handout How do objects": {
+      "driveFileId": "1h8fDvizgzVlwvypmgS1WUN-qF5wepnTYHkIJt8yYC9I",
+      "name": "8.2 Lesson 3 Handout How do objects",
+      "modifiedTime": "2024-08-14T00:35:39.972Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lesson 3 Answer Key How do objects": {
+      "driveFileId": "16sKmVpXtg_sePt1DDDaSZk3bF4jBvw-zxzu9z_I93Yc",
+      "name": "8.2 Lesson 3 Answer Key How do objects",
+      "modifiedTime": "2024-08-14T00:35:37.471Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lección 3 Lectura Lectura ¿Dónde más": {
+      "driveFileId": "1oKi-IIEi6NvgOw2z3lpZ9zpWXBRo7vb-WQAvkXRxjHQ",
+      "name": "8.2 Lección 3 Lectura Lectura ¿Dónde más",
+      "modifiedTime": "2024-08-14T00:35:33.547Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lección 3 Folleto ¿Dónde más se": {
+      "driveFileId": "14S3sCHuZIPEvN_uZGyTN7qB5ZFh3FNRIAJpXmPQlSaM",
+      "name": "8.2 Lección 3 Folleto ¿Dónde más se",
+      "modifiedTime": "2024-08-14T00:35:31.197Z"
+    },
+    "Lesson 3 - 8.2 Sound Waves/8.2 Lección 3 Folleto ¿Cómo se mueven": {
+      "driveFileId": "1fO8Z0M4OOHbmvrh2YjJYYTfxmmvkuVN67haLvfE5tG0",
+      "name": "8.2 Lección 3 Folleto ¿Cómo se mueven",
+      "modifiedTime": "2024-08-14T00:35:28.907Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Reference Reference Peer Feedback": {
+      "driveFileId": "1d66oYKMThfXzoX3FKprAtJG2u3tGKftN87cjrn1me0A",
+      "name": "8.2 Lesson 2 Teacher Reference Reference Peer Feedback",
+      "modifiedTime": "2024-08-14T00:35:25.318Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Teacher Edition": {
+      "driveFileId": "1JsGm0ZTF5Tj5Oz3HxOkH7ui46-2TRuVQlfi8CTyI5S8",
+      "name": "8.2 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:22.861Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1EvSPxzSLSrDAdU_kPDstgZNzktJQ58SkoEqeJcSTPn4",
+      "name": "8.2 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:18.459Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Student Procedure": {
+      "driveFileId": "1D8lno1hm198miD_mU7NGKKU0REc9gaEt2LdspxTzFCc",
+      "name": "8.2 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:14.948Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Slides": {
+      "driveFileId": "1YhG-emJ6SyrvYWZ5RgyvvDIYC_9YFltw1khpfIxQt6Y",
+      "name": "8.2 Lesson 2 Slides",
+      "modifiedTime": "2024-08-14T00:35:10.827Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Rubric Rubric for Modeling": {
+      "driveFileId": "1NPh3bedLdtPeeXcLWk5TM7c92jNNRI8xAGHBAIKeqN0",
+      "name": "8.2 Lesson 2 Rubric Rubric for Modeling",
+      "modifiedTime": "2024-08-14T00:35:06.073Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1xbro_2Kx_-ipIj8OXKD9JGNEtL0JGp344sOMs5pwH2s",
+      "name": "8.2 Lesson 2 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:35:03.149Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Reference Instrument and Speaker": {
+      "driveFileId": "1W39JAqATnU8a3F8gRyph6KkrKtGnWoYRo2ZsGjs95GU",
+      "name": "8.2 Lesson 2 Reference Instrument and Speaker",
+      "modifiedTime": "2024-08-14T00:35:00.554Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Reading How do insects": {
+      "driveFileId": "1XoyOk6dm89DLY9TUsDrhCh_NOXuSV7E5WuKdi-igsOQ",
+      "name": "8.2 Lesson 2 Reading How do insects",
+      "modifiedTime": "2024-08-14T00:34:58.375Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Handout Self-Assessment": {
+      "driveFileId": "1uHTxT3M4AXUqZ-3DN_ZlOnOeO0aul4-q8LpdpWvwnjc",
+      "name": "8.2 Lesson 2 Handout Self-Assessment",
+      "modifiedTime": "2024-08-14T00:34:54.061Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Handout Self Assessment": {
+      "driveFileId": "1ZyDgl4E3VW_3DKPq-L7lJ5pqUy_T9DjTZHKSqoEqtMU",
+      "name": "8.2 Lesson 2 Handout Self Assessment",
+      "modifiedTime": "2024-08-14T00:34:51.238Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Handout Progress Tracker": {
+      "driveFileId": "1X-nNw403HOHauKPwKpiR69vtqGg0tVHn7T1s8bknp5c",
+      "name": "8.2 Lesson 2 Handout Progress Tracker",
+      "modifiedTime": "2024-08-14T00:34:48.766Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Handout How do instruments": {
+      "driveFileId": "19lLVbzyUKemsmeMLbjx4ccdva2pF43UqOv6Myb3v1eU",
+      "name": "8.2 Lesson 2 Handout How do instruments",
+      "modifiedTime": "2024-08-14T00:34:46.140Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lesson 2 Handout How do insects": {
+      "driveFileId": "1xW7xrfNCk9kO6e8SxGNLiLPX95KQEGNWAavOoeRwH5s",
+      "name": "8.2 Lesson 2 Handout How do insects",
+      "modifiedTime": "2024-08-14T00:34:43.160Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lección 2 Referencia Pautas para la": {
+      "driveFileId": "1i_TkE8rg0DC-GAyU7n92LgrIlb-HWXcki0AKCTEgJKc",
+      "name": "8.2 Lección 2 Referencia Pautas para la",
+      "modifiedTime": "2024-08-14T00:34:40.234Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lección 2 Referencia Estaciones de instrumentos": {
+      "driveFileId": "1pwFQWib_m7RI4neYZzIfShJUd8B928TPLZ48xuRDFR0",
+      "name": "8.2 Lección 2 Referencia Estaciones de instrumentos",
+      "modifiedTime": "2024-08-14T00:34:37.280Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lección 2 Lectura ¿Cómo emiten sonidos": {
+      "driveFileId": "1fpRQ6M5pquUaETRGFU-jUEBkSio3VFAjB888W1B18MA",
+      "name": "8.2 Lección 2 Lectura ¿Cómo emiten sonidos",
+      "modifiedTime": "2024-08-14T00:34:34.691Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lección 2 Folleto ¿Cómo se mueven": {
+      "driveFileId": "1jwo5Vp3I5Ctl0VhbDKObrol3x4UJhX86sA74-qHdlE8",
+      "name": "8.2 Lección 2 Folleto ¿Cómo se mueven",
+      "modifiedTime": "2024-08-14T00:34:30.744Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lección 2 Folleto ¿Cómo hacen sonidos": {
+      "driveFileId": "1urF2nlelrQOPVcshSQbcyg9lwrt-8QL1aGpoBxqoumU",
+      "name": "8.2 Lección 2 Folleto ¿Cómo hacen sonidos",
+      "modifiedTime": "2024-08-14T00:34:27.964Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lección 2 Folleto Registro de progreso": {
+      "driveFileId": "1M18-it1ef5qjMhRr7yA-qPNXampPsJxcmrE_QNs7u5o",
+      "name": "8.2 Lección 2 Folleto Registro de progreso",
+      "modifiedTime": "2024-08-14T00:34:24.347Z"
+    },
+    "Lesson 2 - 8.2 Sound Waves/8.2 Lección 2 Folleto Autoevaluación": {
+      "driveFileId": "1HDbiQRw396rpDzOpLt4Poj0ifNijbv19hTvyNw2JWI8",
+      "name": "8.2 Lección 2 Folleto Autoevaluación",
+      "modifiedTime": "2024-08-14T00:34:21.562Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Teacher Reference Gotta-Have-It Checklist Key": {
+      "driveFileId": "1vNBKprkP1zAKkYuWDU5khz6M9s1jC6v4c4KlTtTuIe8",
+      "name": "8.2 Lesson 14 Teacher Reference Gotta-Have-It Checklist Key",
+      "modifiedTime": "2024-08-14T00:34:18.543Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Teacher Edition": {
+      "driveFileId": "1i39u6uo8QkHUkYPXhY6ycRjKn-64bzfazGMZufnI2ZM",
+      "name": "8.2 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:34:15.800Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1kOybqMEArqg3_nnJorVkHUuFjbs7Cr9C_nip4y524xg",
+      "name": "8.2 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:11.423Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Student Procedure": {
+      "driveFileId": "1yWwoKl9untiLWndUYHRtOUoz1jb2ZTn9e3544N_i3co",
+      "name": "8.2 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:06.348Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Slides": {
+      "driveFileId": "1OMWYA_JmwGZotXQHK-U7isxt-b6nN7IeoB8gX1vTocI",
+      "name": "8.2 Lesson 14 Slides",
+      "modifiedTime": "2024-08-14T00:34:02.288Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Rubric End of Unit": {
+      "driveFileId": "1n3-JcUaMaBID_LeSPHWeAwmjekBllGAc741kYv7mYo8",
+      "name": "8.2 Lesson 14 Rubric End of Unit",
+      "modifiedTime": "2024-08-14T00:33:57.635Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Assessment Unit Assessment": {
+      "driveFileId": "1hKr3M-0aKncDX4xa_RvXt7e2VQGy2JAw3VzfwQZMIus",
+      "name": "8.2 Lesson 14 Assessment Unit Assessment",
+      "modifiedTime": "2024-08-14T00:33:55.179Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Answer Key Unit Assessment Answer": {
+      "driveFileId": "1TOxt1J9NlGdTQOfmFa7_GUCtjHX9ujRn73oX_YIyjUM",
+      "name": "8.2 Lesson 14 Answer Key Unit Assessment Answer",
+      "modifiedTime": "2024-08-14T00:33:51.942Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Answer Key Gotta-Have-It Checklist Key": {
+      "driveFileId": "1RN8_Gc4e-7xpD4MgTMkxM4TSqV_8tBQt2agavFH8bGg",
+      "name": "8.2 Lesson 14 Answer Key Gotta-Have-It Checklist Key",
+      "modifiedTime": "2024-08-14T00:33:48.410Z"
+    },
+    "Lesson 14 - 8.2 Sound Waves/8.2 Lección 14 Evaluación Evaluación de la": {
+      "driveFileId": "1iJZEGNZRQPwf9z7jbALagIypeSk5GFK6hzbMuI05J2o",
+      "name": "8.2 Lección 14 Evaluación Evaluación de la",
+      "modifiedTime": "2024-08-14T00:33:45.797Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Reference Example Class Data": {
+      "driveFileId": "1YAakOqdyDE14D6W84OLNGOrSfKzzJuxE4kkICvoQZAw",
+      "name": "8.2 Lesson 13 Teacher Reference Example Class Data",
+      "modifiedTime": "2024-08-14T00:33:40.847Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Edition": {
+      "driveFileId": "1XAHnfKeMyCJ72X60Mv3B4LEM5Kapi7oTuByf8eI83A0",
+      "name": "8.2 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:33:37.766Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1m9YFuRHz3PqJDo0sdaSK5GiZrxlJSDYZcM6ZuFKka-4",
+      "name": "8.2 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:33:33.128Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Student Procedure": {
+      "driveFileId": "1TwiMlezs9EYNb9G6k9fS4Ko7XHHPVdZQQGNqFMMTqZk",
+      "name": "8.2 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-14T00:33:29.727Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Slides": {
+      "driveFileId": "1lyGTplu-BDC7G2mkQzZ5Cc6-Gx9l-55nVp07HHm3hoI",
+      "name": "8.2 Lesson 13 Slides",
+      "modifiedTime": "2024-08-14T00:33:25.739Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Handout Transcript Pump Up": {
+      "driveFileId": "1ayCxkM5I2GCCO7dHzxN_GdRjAEPoA-tSWBudyQj1sfo",
+      "name": "8.2 Lesson 13 Handout Transcript Pump Up",
+      "modifiedTime": "2024-08-14T00:33:20.194Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Handout Energy Transfer Investigation": {
+      "driveFileId": "1bIgPiYFZeOkaYqgZEcmBGhyUgGxf95omA_2PzPuAElQ",
+      "name": "8.2 Lesson 13 Handout Energy Transfer Investigation",
+      "modifiedTime": "2024-08-14T00:33:17.546Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Handout Data Tables for": {
+      "driveFileId": "19SVP-Ogzj_opo3016HVcqACozjQHu11da5NeBQJN3Gs",
+      "name": "8.2 Lesson 13 Handout Data Tables for",
+      "modifiedTime": "2024-08-14T00:33:15.163Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Handout Analogy Map for": {
+      "driveFileId": "1Sa_56hftzKx9YSAqtQEQkuG4F7RyVd8Jffs2qikQjfM",
+      "name": "8.2 Lesson 13 Handout Analogy Map for",
+      "modifiedTime": "2024-08-14T00:33:12.921Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Assessment Assessment How does": {
+      "driveFileId": "1w5rVn-oyUOeEuHBr_d-XQBT0lV0DdoCQGN5-r7vBe38",
+      "name": "8.2 Lesson 13 Assessment Assessment How does",
+      "modifiedTime": "2024-08-14T00:33:10.212Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Answer Key Assessment Key How": {
+      "driveFileId": "1rMAqmUSs64JRyIG50V9bIr4nUJOkyqChZ6AFMDTL8X0",
+      "name": "8.2 Lesson 13 Answer Key Assessment Key How",
+      "modifiedTime": "2024-08-14T00:33:05.756Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lección 13 Folleto Transcripción Bombee el": {
+      "driveFileId": "1o9k2s20NlTuK-nrcU7qo0LJt9ZXVWqvNgPTYS9MotYQ",
+      "name": "8.2 Lección 13 Folleto Transcripción Bombee el",
+      "modifiedTime": "2024-08-14T00:33:01.959Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lección 13 Folleto Tablas de datos": {
+      "driveFileId": "1i7RApWzGgSG_6SVJ4WR5wXQl5yctaVF98PaHGL0uUKQ",
+      "name": "8.2 Lección 13 Folleto Tablas de datos",
+      "modifiedTime": "2024-08-14T00:32:59.616Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lección 13 Folleto Resultados de la": {
+      "driveFileId": "1FaW9kdA_nmP_bUiin_SnNsdrz8IPOYEVmSRZTTtIzk4",
+      "name": "8.2 Lección 13 Folleto Resultados de la",
+      "modifiedTime": "2024-08-14T00:32:57.032Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lección 13 Folleto Mapa de analogías": {
+      "driveFileId": "1gD8Qi2Aq9E81bNyR5o4CLI4nuyf3KD-VcNY8FbWeUM8",
+      "name": "8.2 Lección 13 Folleto Mapa de analogías",
+      "modifiedTime": "2024-08-14T00:32:54.331Z"
+    },
+    "Lesson 13 - 8.2 Sound Waves/8.2 Lección 13 Evaluación Evaluación ¿Cómo cambia": {
+      "driveFileId": "15wsBWCuXpme1DCmk5s3joxx2tDlDp4IS6X4KifNzIco",
+      "name": "8.2 Lección 13 Evaluación Evaluación ¿Cómo cambia",
+      "modifiedTime": "2024-08-14T00:32:51.986Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Teacher Reference Lesson 12 Activity": {
+      "driveFileId": "1UsQ-_ccLPBJkm0yfK2RieU20RZflU8FQZfYcGErlYYk",
+      "name": "8.2 Lesson 12 Teacher Reference Lesson 12 Activity",
+      "modifiedTime": "2024-08-14T00:32:47.446Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Teacher Edition": {
+      "driveFileId": "1PAJOC9daReuJ9_txpmCe7z8exkh3u5Q6j1Jo_9K1HVU",
+      "name": "8.2 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:32:43.319Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1kRPKTelcAqS87ja1Tlb5xuMif3igl0m1ODq-i2_DIxk",
+      "name": "8.2 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:32:39.074Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Student Procedure": {
+      "driveFileId": "1gQPJcvslfkeu65K5yhxn_dnJ7H3Ks5KhbYxR3wpch-k",
+      "name": "8.2 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-14T00:32:35.673Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Slides": {
+      "driveFileId": "1P2R2pNC-sxScN6mrNjxS3X5tUmcEVRY9-vCra3VSON0",
+      "name": "8.2 Lesson 12 Slides",
+      "modifiedTime": "2024-08-14T00:32:32.045Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Reading Reading Hearing in": {
+      "driveFileId": "1N5RTiEDdIg-fGoKfPz6rzCFLfCiZNLha9vX2UE12dw4",
+      "name": "8.2 Lesson 12 Reading Reading Hearing in",
+      "modifiedTime": "2024-08-14T00:32:28.772Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Reading Information from the": {
+      "driveFileId": "1xT8T0LW8qbw9rk5U1OriXv2ZnU0XwY8cf6XZQrUJpeg",
+      "name": "8.2 Lesson 12 Reading Information from the",
+      "modifiedTime": "2024-08-14T00:32:25.046Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Handout Transcript Video of": {
+      "driveFileId": "1fiZ8EY8kX9o6brdm4reuPI7f5bJQN4Jhrylv6CL1Ayk",
+      "name": "8.2 Lesson 12 Handout Transcript Video of",
+      "modifiedTime": "2024-08-14T00:32:19.755Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Handout Transcript Otoscope Demonstration": {
+      "driveFileId": "1MZTFjZ-D7iD4BrkZSlqdgFYUoev9W-j6xzzMLXjraU4",
+      "name": "8.2 Lesson 12 Handout Transcript Otoscope Demonstration",
+      "modifiedTime": "2024-08-14T00:32:16.792Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Handout Transcript Cochlear Animation": {
+      "driveFileId": "1y9pEk863YmO5J3Rx3038OQXrFyjJnmO4sekPOOt5Sbs",
+      "name": "8.2 Lesson 12 Handout Transcript Cochlear Animation",
+      "modifiedTime": "2024-08-14T00:32:13.618Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Handout Model Inside an": {
+      "driveFileId": "1fD7orAFDFxzgS4vw5cB33MqRhkIzER_vbvq5h0Lg-s0",
+      "name": "8.2 Lesson 12 Handout Model Inside an",
+      "modifiedTime": "2024-08-14T00:32:10.934Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Handout Lesson 12 Activity": {
+      "driveFileId": "1gWPpz0gfo-y3KStjN1nVAf5REIm7MIhuAZ9eIoiLoKM",
+      "name": "8.2 Lesson 12 Handout Lesson 12 Activity",
+      "modifiedTime": "2024-08-14T00:32:07.545Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Handout Information from the": {
+      "driveFileId": "1cRsap8CWeQfvgiEScf82zyowY7ujswlcqw6XB0exktA",
+      "name": "8.2 Lesson 12 Handout Information from the",
+      "modifiedTime": "2024-08-14T00:32:03.386Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Handout Hearing in Elephants,": {
+      "driveFileId": "1eqa9dKBXBA-EwVVFHNC1thWPim-7zMabA1B0oTEtDU4",
+      "name": "8.2 Lesson 12 Handout Hearing in Elephants,",
+      "modifiedTime": "2024-08-14T00:31:58.738Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lesson 12 Answer Key Lesson 12 Activity": {
+      "driveFileId": "1Tyajics8nxxUDkfhUcExRaoMeADUkASI3K_vJEZjJD0",
+      "name": "8.2 Lesson 12 Answer Key Lesson 12 Activity",
+      "modifiedTime": "2024-08-14T00:31:54.184Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Lectura Lectura Audición en": {
+      "driveFileId": "1SNk7lVdB_3FHpY-rtuZoaRwIz-h-ea73c5x53AuHOJQ",
+      "name": "8.2 Lección 12 Lectura Lectura Audición en",
+      "modifiedTime": "2024-08-14T00:31:50.746Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Lectura Información de los": {
+      "driveFileId": "1QAy34u6xolKV1sLQZw2NjzFK3tm6T6LHewS2emr7T6Q",
+      "name": "8.2 Lección 12 Lectura Información de los",
+      "modifiedTime": "2024-08-14T00:31:47.160Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Folleto Transcripción Video de": {
+      "driveFileId": "1IxJkXupAiWI5GMzvW8QlhdTvOiUP_8tUiyymESO03Hc",
+      "name": "8.2 Lección 12 Folleto Transcripción Video de",
+      "modifiedTime": "2024-08-14T00:31:43.647Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Folleto Transcripción Demostración de": {
+      "driveFileId": "1cvMMMlah3sM5lgzvrHyU3EJzvJdArLsEI_heqabJdtU",
+      "name": "8.2 Lección 12 Folleto Transcripción Demostración de",
+      "modifiedTime": "2024-08-14T00:31:41.098Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Folleto Transcripción Animación coclear": {
+      "driveFileId": "1nTQuJUdxSG7bzKmgAOkRxCGGI1V6Q92u-BDmu-m0pNc",
+      "name": "8.2 Lección 12 Folleto Transcripción Animación coclear",
+      "modifiedTime": "2024-08-14T00:31:38.234Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Folleto Información de los": {
+      "driveFileId": "1k1IbNhkmQmGbfRKz4BLCzHQcWuInXRyV2sGizMTrlfw",
+      "name": "8.2 Lección 12 Folleto Información de los",
+      "modifiedTime": "2024-08-14T00:31:29.669Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Folleto Crear un modelo": {
+      "driveFileId": "1lSKDwnP5NVvPZrla27f6ThUJDU5GVtTiaPcjlEBKamI",
+      "name": "8.2 Lección 12 Folleto Crear un modelo",
+      "modifiedTime": "2024-08-14T00:31:28.741Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Folleto Audición en elefantes,": {
+      "driveFileId": "1VJ83qyBVoPLOX7feVSbac0sCu96H8wOXY2DR5qY_Jwg",
+      "name": "8.2 Lección 12 Folleto Audición en elefantes,",
+      "modifiedTime": "2024-08-14T00:31:24.109Z"
+    },
+    "Lesson 12 - 8.2 Sound Waves/8.2 Lección 12 Folleto Actividades de la": {
+      "driveFileId": "1BSbBKl-8NCucWmPTjxvu9uk5kpPgjwT6MfxzXN7ypLs",
+      "name": "8.2 Lección 12 Folleto Actividades de la",
+      "modifiedTime": "2024-08-14T00:31:20.500Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Teacher Reference Key for Gotta-Have-It": {
+      "driveFileId": "1A4_w1yj50wOGOnM1Mql-D31zEED8RGP8lpyNDwPewnM",
+      "name": "8.2 Lesson 11 Teacher Reference Key for Gotta-Have-It",
+      "modifiedTime": "2024-08-14T00:31:15.398Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Teacher Edition": {
+      "driveFileId": "1J8UU19nt71maiZscp95OYwc5mc1MwTkr6x4E7wLdmSM",
+      "name": "8.2 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:31:12.738Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1WogDelrdLWDj8NCHXv9eHjUnDptj6-tqnES7xINPJzs",
+      "name": "8.2 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:31:08.965Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Student Procedure": {
+      "driveFileId": "1PnOVpiwHySJ1CHWMxhsUnT1B3l1cc661IoTheBCjAXo",
+      "name": "8.2 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-14T00:31:05.705Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Slides": {
+      "driveFileId": "139INRlhMHesUc4BEQJTXt-9x17sOTk73FHQETJMhziI",
+      "name": "8.2 Lesson 11 Slides",
+      "modifiedTime": "2024-08-14T00:31:01.826Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Rubric Lesson 11 Modeling": {
+      "driveFileId": "1BOaPMzsIk60Nq4p6hlqOrV-7nEcgXiNy-cKpW6oDjyQ",
+      "name": "8.2 Lesson 11 Rubric Lesson 11 Modeling",
+      "modifiedTime": "2024-08-14T00:30:57.819Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Handout Revised Model": {
+      "driveFileId": "19McBLgND3ZdH2mtSDfYMj8IXttZm2husLEnUuvHrPAM",
+      "name": "8.2 Lesson 11 Handout Revised Model",
+      "modifiedTime": "2024-08-14T00:30:55.245Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Handout Peer Feedback Self-Assessment": {
+      "driveFileId": "1SWMrUeOqSh3xptPx0XW6uW6-LLX7qfHPZ9Roh2UAdzM",
+      "name": "8.2 Lesson 11 Handout Peer Feedback Self-Assessment",
+      "modifiedTime": "2024-08-14T00:30:51.980Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Handout Peer Feedback Self": {
+      "driveFileId": "1uketCcxRU-q5uLvqcp6l3uFK4W0cI7-6HyF2GcDp2jc",
+      "name": "8.2 Lesson 11 Handout Peer Feedback Self",
+      "modifiedTime": "2024-08-14T00:30:49.072Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Handout Gotta-Have-It Checklist": {
+      "driveFileId": "1NpAd5Mq8_FCx6D5P7fvszfYHNIsY-UIoj3duGzz0g-8",
+      "name": "8.2 Lesson 11 Handout Gotta-Have-It Checklist",
+      "modifiedTime": "2024-08-14T00:30:44.391Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lesson 11 Answer Key Key for Gotta-Have-It": {
+      "driveFileId": "1LrCwHS7uKiLOzWB8gvvpbsTssQda8mfJHGAk3WR-Xxs",
+      "name": "8.2 Lesson 11 Answer Key Key for Gotta-Have-It",
+      "modifiedTime": "2024-08-14T00:30:41.592Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lección 11 Folleto Modelo revisado": {
+      "driveFileId": "1MEn3A3U2j-QLTIx2J0Vp9RLXELea1uC_sLSB0JqL7PQ",
+      "name": "8.2 Lección 11 Folleto Modelo revisado",
+      "modifiedTime": "2024-08-14T00:30:38.400Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lección 11 Folleto Lista de necesidades": {
+      "driveFileId": "1gBD2KPnN48QStx6-27rVXN5ZKXonBYtIFSmaxZFGEmA",
+      "name": "8.2 Lección 11 Folleto Lista de necesidades",
+      "modifiedTime": "2024-08-14T00:30:34.698Z"
+    },
+    "Lesson 11 - 8.2 Sound Waves/8.2 Lección 11 Folleto Autoevaluación Dar y": {
+      "driveFileId": "1EfeAobeBfdNpW1KRF3L940Im9GWx2TYbCVdnIoTU358",
+      "name": "8.2 Lección 11 Folleto Autoevaluación Dar y",
+      "modifiedTime": "2024-08-14T00:30:32.146Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Teacher Edition": {
+      "driveFileId": "10C2vrvPhxdedoxXWbRUPu1jyCLMIdEXe587HxiyiCco",
+      "name": "8.2 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:30:28.443Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1Gj5qliYxhRJsK6-GDndS_tH-QN44RGGW8gRNQaY8ic8",
+      "name": "8.2 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:30:24.236Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Student Procedure": {
+      "driveFileId": "1X9PkuXX40DJez1O678FTgIucuuYBrb9m7TA3syMwrRI",
+      "name": "8.2 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-14T00:30:20.221Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Slides": {
+      "driveFileId": "1Xk0m7cbnTsej9TO4Xs81Mcsa0JYmXYhnIvmoOLXF4jM",
+      "name": "8.2 Lesson 10 Slides",
+      "modifiedTime": "2024-08-14T00:30:16.194Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Handout Visualizing Sound in": {
+      "driveFileId": "1idZFwxdMlHn9lXfDLdmYEHqNi14eeQk3M5MiDjRifH4",
+      "name": "8.2 Lesson 10 Handout Visualizing Sound in",
+      "modifiedTime": "2024-08-14T00:30:11.302Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Handout Visualizing Sound Analogy": {
+      "driveFileId": "1VDpswZg4ueIPcTtX8TL4ZMRTLGqASyN9aIWQelYp7mQ",
+      "name": "8.2 Lesson 10 Handout Visualizing Sound Analogy",
+      "modifiedTime": "2024-08-14T00:30:07.033Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lesson 10 Handout Analyzing Sound in": {
+      "driveFileId": "1MqwNoRCTUJ58WrzbqZ_BbpkkKyCiQBtTeAn4QynVixQ",
+      "name": "8.2 Lesson 10 Handout Analyzing Sound in",
+      "modifiedTime": "2024-08-14T00:30:02.722Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lección 10 Folleto Mapa de analogía": {
+      "driveFileId": "1vr-3YfDxy9tKgkiMnF61bg9EPb8f8wjMoqAH9Yl0_iY",
+      "name": "8.2 Lección 10 Folleto Mapa de analogía",
+      "modifiedTime": "2024-08-14T00:29:57.938Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lección 10 Folleto Investigaciones de Visualizar": {
+      "driveFileId": "1jk8oDPMxHnioI_mt807r5G3a_1xTP8W232zP4fW5-dE",
+      "name": "8.2 Lección 10 Folleto Investigaciones de Visualizar",
+      "modifiedTime": "2024-08-14T00:29:54.603Z"
+    },
+    "Lesson 10 - 8.2 Sound Waves/8.2 Lección 10 Folleto Análisis de los": {
+      "driveFileId": "1Rd5-EbAw-cX1yeGfWB8cgoK6dmLulrx_8FQJxUxA4ck",
+      "name": "8.2 Lección 10 Folleto Análisis de los",
+      "modifiedTime": "2024-08-14T00:29:51.552Z"
+    },
+    "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Teacher Edition": {
+      "driveFileId": "1WsnyRlYkQa6gtzZUVA0Cet0d9m-HXQb_XTKm3YW3zWk",
+      "name": "8.2 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:29:47.107Z"
+    },
+    "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "16sPBIWvmJ3SQ-HctsIJFusshLWqst6oUKx6mNfErB0Q",
+      "name": "8.2 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:29:42.332Z"
+    },
+    "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Student Procedure": {
+      "driveFileId": "1so-G1uXfT6bFcc4808DUBMENFaXOlixrhPrNjay2_Kw",
+      "name": "8.2 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-14T00:29:38.502Z"
+    },
+    "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Slides": {
+      "driveFileId": "1Dl0j_CaCkik6blFwpNJFcj_OkN_zinOyqbFFeByzCSQ",
+      "name": "8.2 Lesson 1 Slides",
+      "modifiedTime": "2024-08-14T00:29:33.947Z"
+    },
+    "Lesson 1 - 8.2 Sound Waves/8.2 Lesson 1 Handout Initial Model Diagram": {
+      "driveFileId": "1n5KCq-iphBkX_cZk3mjM2RHa9GLur0Ya5-YjJ2O4CxA",
+      "name": "8.2 Lesson 1 Handout Initial Model Diagram",
+      "modifiedTime": "2024-08-14T00:29:29.636Z"
+    },
+    "Lesson 1 - 8.2 Sound Waves/8.2 Lección 1 Folleto Diagrama para el": {
+      "driveFileId": "1vzW21r_PiypnoXrmIVx3clKMIrMixrY5SH_ceqz-u58",
+      "name": "8.2 Lección 1 Folleto Diagrama para el",
+      "modifiedTime": "2024-08-14T00:29:25.881Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1Iy1STcXI8qv1L0PV9iVyPXTV8fhdBeKj",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-14T00:29:20.904Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1_CGHbaurll7sUHSL-IBcftW19CBacE_B",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:29:19.840Z"
+    },
+    "8.2 Sound Waves Unit Overview Materials": {
+      "driveFileId": "1ZCL1Ico_cUJ59RFpTfIzPnrmFYyplRyx-EkXXebLMnc",
+      "name": "8.2 Sound Waves Unit Overview Materials",
+      "modifiedTime": "2024-08-14T00:29:19.000Z"
+    },
+    "8.2 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1SS7MGr7K9Kk0LHbEfm7lXw9QkgElLUHN",
+      "name": "8.2 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-14T00:29:02.227Z"
+    }
+  }
+}

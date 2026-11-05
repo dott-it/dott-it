@@ -1,0 +1,101 @@
+[
+  {
+    "id": "record-1",
+    "assessmentId": "102310",
+    "learnerName": "Bob Smith",
+    "studentId": "student-1",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "ready_for_review",
+    "submittedDate": "Jan 19, 2025",
+    "score": null,
+    "maxScore": 15,
+    "reviewedDate": "Jan 21, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "strength",
+        "section": "Model Explanation",
+        "content": "Excellent understanding of natural selection concepts."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-2",
+    "assessmentId": "102310",
+    "learnerName": "Alice Johnson",
+    "studentId": "student-2",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "in_progress",
+    "submittedDate": "Jan 20, 2025",
+    "score": null,
+    "maxScore": 15,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": null
+  },
+
+  {
+    "id": "record-3",
+    "assessmentId": "102310",
+    "learnerName": "Carol Davis",
+    "studentId": "student-3",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "ready_for_review",
+    "submittedDate": "Jan 19, 2025",
+    "score": null,
+    "maxScore": 15,
+    "reviewedDate": "Jan 21, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "strength",
+        "section": "Model Explanation",
+        "content": "Excellent understanding of natural selection concepts."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-4",
+    "assessmentId": "102310",
+    "learnerName": "David Wilson",
+    "studentId": "student-4",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "sent",
+    "submittedDate": "Jan 18, 2025",
+    "score": 11,
+    "maxScore": 15,
+    "reviewedDate": "Jan 20, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "improvement",
+        "section": "Data Use",
+        "content": "Good effort, but consider reviewing the data interpretation section."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-5",
+    "assessmentId": "102312",
+    "learnerName": "Eva Brown",
+    "studentId": "student-5",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "sent",
+    "submittedDate": "Jan 21, 2025",
+    "score": 13,
+    "maxScore": 15,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": "Student's response content here..."
+  }
+]

@@ -1,0 +1,91 @@
+{
+  "student": {
+    "id": "student-7",
+    "name": "Grace Lee",
+    "email": "grace.lee@school.edu",
+    "status": "ready_for_review",
+    "submittedAt": "2025-01-19T13:30:00Z",
+    "score": 95,
+    "classSection": "Period A",
+    "lastActionDate": "2025-01-21T10:15:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": "2025-01-21T10:15:00Z",
+    "grade": 9
+  },
+  "assessment": {
+    "id": "ecosystem-assessment",
+    "title": "Ecosystem Interactions Assessment",
+    "unitName": "Unit 5: Ecosystems",
+    "subject": "Biology",
+    "grade": 9,
+    "type": "Formative Assessment",
+    "dueDate": "2025-01-22",
+    "status": "live",
+    "totalRecords": 5,
+    "pendingRecords": 2,
+    "description": "Assessment on ecosystem interactions and food web dynamics"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"Ecosystems are complex networks of interactions between living organisms and their environment. I've learned that food webs illustrate energy flow through trophic levels, with producers converting sunlight into chemical energy, primary consumers eating producers, and secondary consumers eating primary consumers. Decomposers play a crucial role by breaking down dead organic matter and recycling nutrients back into the ecosystem. Keystone species have disproportionate effects on ecosystem structure and function.\",\"observationQuestion\":\"During our field study of the forest ecosystem, I conducted a biodiversity survey and observed fascinating interactions. I counted 15 different plant species, 8 bird species, and 5 mammal species. I noticed that the removal of a single large oak tree would affect multiple species - birds lost nesting sites, squirrels lost food sources, and fungi lost their substrate. This demonstrated the interconnectedness of ecosystem components.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Understanding",
+      "content": "Excellent grasp of the fundamental concepts in this subject area."
+    },
+    {
+      "type": "strength",
+      "section": "Analysis",
+      "content": "Strong analytical thinking demonstrated in your response."
+    },
+    {
+      "type": "strength",
+      "section": "Communication",
+      "content": "Clear and well-structured explanation of your ideas and observations."
+    },
+    {
+      "type": "strength",
+      "section": "Critical Thinking",
+      "content": "Demonstrates good reasoning skills and logical connections between concepts."
+    },
+    {
+      "type": "strength",
+      "section": "Ecosystem Understanding",
+      "content": "Excellent understanding of ecosystem interactions and relationships."
+    },
+    {
+      "type": "strength",
+      "section": "Observation Skills",
+      "content": "Strong ability to observe and describe biological phenomena accurately."
+    },
+    {
+      "type": "improvement",
+      "section": "Examples",
+      "content": "Consider providing more specific examples to strengthen your arguments."
+    },
+    {
+      "type": "improvement",
+      "section": "Depth",
+      "content": "Expand on the practical applications and real-world implications."
+    },
+    {
+      "type": "improvement",
+      "section": "Evidence",
+      "content": "Include more supporting evidence and data to back up your claims."
+    },
+    {
+      "type": "improvement",
+      "section": "Connections",
+      "content": "Make stronger connections between different concepts and ideas presented."
+    },
+    {
+      "type": "improvement",
+      "section": "Quantitative Analysis",
+      "content": "Include more quantitative data and measurements in your observations."
+    },
+    {
+      "type": "improvement",
+      "section": "Biodiversity",
+      "content": "Consider discussing the importance of biodiversity in ecosystem stability."
+    }
+  ]
+}

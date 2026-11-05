@@ -1,0 +1,261 @@
+generator client {
+  provider        = "prisma-client-js"
+  binaryTargets   = ["native", "rhel-openssl-3.0.x"]
+  previewFeatures = ["driverAdapters"]
+  output          = "../../node_modules/@prisma/assessmentDB"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model UserReference {
+  id            String   @id @default(cuid())
+  tenantId      String?
+  correlationId String?  @unique
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model AssessmentTemplate {
+  id                        String       @id @default(cuid())
+  title                     String
+  type                      String    @default("General")
+  description               String?
+  curriculumTeachersEdition String?   @db.Text
+  curriculumAnswerKey       String?   @db.Text
+  subject                   String?
+  gradeLevel                String?
+  unitCode                  String?
+  lessonNumber              Int?
+  createdAt                 DateTime     @default(now())
+  updatedAt                 DateTime     @updatedAt
+  assessments               Assessment[]
+
+  @@index([id])
+  // Expression index AssessmentTemplate_structure_title_key is SQL-only.
+  // Prisma cannot model lower(btrim(...)) uniqueness. It is global (no tenantId):
+  // the same unit + lesson + type + title conflicts across tenants on purpose.
+  // If `prisma migrate dev` emits DROP INDEX "AssessmentTemplate_structure_title_key",
+  // delete that statement before applying the migration.
+}
+
+model Assessment {
+  id                     String             @id @default(cuid())
+  tenantId               String
+  templateId             String
+  teacherId              String   @default("")
+  assignedBy             String
+  assignedAt             String
+  dueAt                  String
+  assignedTo             Json
+  submissionUrl          String?
+  googleFormId           String?
+  status                 String
+  instructions           String?
+  numberOfQuestions      Int      @default(0)
+  schoolYear             String
+  unitCode               String?
+  studentResponsesCount  Int      @default(0)
+  assessmentRecords      AssessmentRecord[]
+  thematicAnalyses       ThematicAnalysis[]
+  spotlightDismissals    SpotlightDismissal[]
+  template               AssessmentTemplate @relation(fields: [templateId], references: [id])
+
+  @@unique([tenantId, teacherId, googleFormId], map: "Assessment_tenantId_teacherId_googleFormId_key")
+  @@index([tenantId])
+  @@index([teacherId, schoolYear])
+  @@index([tenantId, schoolYear])
+}
+
+model AssessmentRecord {
+  id                String            @id @default(cuid())
+  tenantId          String
+  assessmentId      String
+  classSection      String   @default("")
+  learnerId         String
+  rawAnswer         Json
+  submittedAt       DateTime          @default(now())
+  status            String
+  rubricScore       String?   @default("")
+  details           String   @default("")
+  type              String   @default("General")
+  teacherScore      String?   @default("")
+  numberOfQuestions String   @default("0")
+  studentAnswers    studentAnswer[]
+  assessmentHistory AssessmentEvent[]
+  assessment        Assessment        @relation(fields: [assessmentId], references: [id])
+  feedbacks         Feedback[]
+  createdAt         DateTime          @default(now())
+  updatedAt         DateTime          @default(now()) @updatedAt
+
+  @@unique([assessmentId, learnerId])
+  @@index([tenantId])
+  @@index([assessmentId])
+}
+
+model studentAnswer {
+  id                 String           @id @default(cuid())
+  assessmentRecordId String
+  answers            Json
+  formSubmissionID   String
+  assessmentRecord   AssessmentRecord @relation(fields: [assessmentRecordId], references: [id])
+  aiSuggestions      aiSuggestions[]
+  fullAiResponse     Json?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model RubricEvaluation {
+  id              String        @id @default(cuid())
+  criterion       String
+  evaluation      String
+  points          String
+  rationale       String
+  aiSuggestions   aiSuggestions @relation(fields: [aiSuggestionsId], references: [id])
+  aiSuggestionsId String
+}
+
+model aiSuggestions {
+  id               String             @id @default(cuid())
+  feedback         FeedbackSection[]
+  studentAnswerId  String
+  rubricEvaluation RubricEvaluation[]
+  rubricScore      String
+  used             Boolean?
+  discarted        Boolean?
+  studentAnswer    studentAnswer      @relation(fields: [studentAnswerId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Feedback {
+  id                 String            @id @default(cuid())
+  assessmentRecordId String
+  status             String
+  feedbackSections   FeedbackSection[]
+  createdAt          DateTime          @default(now())
+  completedAt        DateTime?
+  updatedAt          DateTime          @updatedAt
+  AssessmentRecord   AssessmentRecord  @relation(fields: [assessmentRecordId], references: [id])
+}
+
+model FeedbackSection {
+  id                String   @id @default(cuid())
+  feedbackId        String?
+  type              String
+  originalSectionId String?
+  used              Boolean?
+  discarted         Boolean?
+  isCustomized      Boolean?
+  section           String
+  content           String
+  originalAiContent String? // First AI-generated text; set once when teacher edits `content`
+  order             Int      @default(0) // Order of sections within a feedback
+
+  Feedback        Feedback?      @relation(fields: [feedbackId], references: [id])
+  aiSuggestions   aiSuggestions? @relation(fields: [aiSuggestionsId], references: [id])
+  aiSuggestionsId String?
+}
+
+model AssessmentEvent {
+  id                 String   @id @default(cuid())
+  assessmentRecordId String
+  eventType          String
+  eventData          Json // Event-specific data
+  timestamp          DateTime @default(now())
+  userId             String? // Who triggered the event (teacher, AI, student)
+  userType           String? // 'student', 'teacher', 'ai', 'system'
+
+  assessmentRecord AssessmentRecord @relation(fields: [assessmentRecordId], references: [id])
+
+  @@index([assessmentRecordId])
+  @@index([eventType])
+}
+
+model Event {
+  id        String   @id @default(cuid())
+  name      String
+  payload   Json? // Optional JSON payload for generic event data
+  userEmail String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([name])
+  @@index([createdAt])
+}
+
+model ThematicAnalysis {
+  id             String                  @id @default(cuid())
+  assessmentId   String
+  status         String                  @default("pending")
+  responsesCount Int                     @default(0)
+  summary        String?
+  items          ThematicAnalysisItem[]
+  assessment     Assessment              @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  createdAt      DateTime                @default(now())
+  updatedAt      DateTime                @updatedAt
+
+  @@index([assessmentId])
+}
+
+/// Teacher permanently dismissed a spotlight card for an assessment.
+model SpotlightDismissal {
+  id           String     @id @default(cuid())
+  tenantId     String
+  teacherId    String
+  assessmentId String
+  createdAt    DateTime   @default(now())
+  assessment   Assessment @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+
+  @@unique([teacherId, assessmentId])
+  @@index([teacherId])
+  @@index([assessmentId])
+}
+
+model ThematicAnalysisItem {
+  id                 String                       @id @default(cuid())
+  thematicAnalysisId String
+  type               String
+  title              String
+  description        String
+  order              Int                          @default(0)
+  citations          ThematicAnalysisCitation[]
+  thematicAnalysis   ThematicAnalysis             @relation(fields: [thematicAnalysisId], references: [id], onDelete: Cascade)
+}
+
+model ThematicAnalysisCitation {
+  id          String   @id @default(cuid())
+  itemId      String
+  learnerId   String
+  learnerName String
+  highlights  String[]
+  annotation  String
+  item        ThematicAnalysisItem @relation(fields: [itemId], references: [id], onDelete: Cascade)
+}
+
+/// Personal library of feedback snippets (strength / suggestion / comment), snapshot text per teacher within a tenant.
+model SavedSuggestionFavorite {
+  id          String   @id @default(cuid())
+  tenantId    String
+  ownerUserId String
+  type        String
+  section     String
+  content     String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([tenantId, ownerUserId, type, section, content])
+  @@index([tenantId, ownerUserId])
+}

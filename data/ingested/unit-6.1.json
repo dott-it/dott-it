@@ -1,0 +1,700 @@
+{
+  "unitId": "6.1",
+  "unitTitle": "Light & Matter",
+  "description": "Students investigate how light interacts with matter to create different visual experiences. They explore reflection, absorption, and transmission of light through various materials.",
+  "lessonCount": 8,
+  "suggestedPacingDays": 18,
+  "unitOverviewPath": "unit_materials/original/6.1 Light & Matter Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/6/6.1",
+  "ingestedAt": "2026-07-01T13:38:33.587Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "How can something act like a mirror and a window at the same time",
+      "title": "How can something act like a mirror and a window at the same time?",
+      "teacherEditionPath": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What happens if we change the light",
+      "title": "What happens if we change the light?",
+      "teacherEditionPath": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "What happens when light shines on the one-way mirror",
+      "title": "What happens when light shines on the one-way mirror?",
+      "teacherEditionPath": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "How do similar amounts of light transmit through and reflect off the one-way mirror",
+      "title": "How do similar amounts of light transmit through and reflect off the one-way mirror?",
+      "teacherEditionPath": "lesson_4/original/6.1 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How do light and the one-way mirror interact to cause the one-way mirror phenomenon",
+      "title": "How do light and the one-way mirror interact to cause the one-way mirror phenomenon?",
+      "teacherEditionPath": "lesson_5/original/6.1 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "Why does the music student not see the teacher",
+      "title": "Why does the music student not see the teacher?",
+      "teacherEditionPath": "lesson_6/original/6.1 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "Why do the music student and the teacher see the music student but the music student can’t see the teacher",
+      "title": "Why do the music student and the teacher see the music student but the music student can’t see the teacher?",
+      "teacherEditionPath": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "Why do we sometimes see different things when looking at the same object",
+      "title": "Why do we sometimes see different things when looking at the same object?",
+      "teacherEditionPath": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 3
+    }
+  ],
+  "assessments": [
+    {
+      "id": "61-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: arrows pointing away from the eyes, or",
+      "shortTitle": "Look for: arrows pointing away from the eyes, or",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop a model to identify the important parts of the system and how those parts interact that could cause an object to look different in different light conditions.",
+      "lookListenFor": "What to look/listen for: (1) Agreement on key components or parts to include, such as two rooms or sides, a mirror-window between the sides, one side being lit, one side being dark; (2) uncertainty or disagreement on whether the people or eyes are an important part; and (3) use of a “path of light” model, “line of sight” model, or combination, which can be indicated by the way students use or do not use arrows in their diagrams:\narrows pointing away from the eyes, or\narrows pointing away from the source of the light and bouncing away from objects, and arrows pointing into the eyes, or\na combination of the above\nArrows pointing away from the light source may be a representation of the “path of light” (POL). If students also include an arrow entering the eyes, this may indicate a clear understanding of the 4th-grade model of light, tracing the light from a source, then bouncing off objects and into our eyes. Arrows pointing away from the eyes may be a representation of what is seen, or the “line of sight” (LOS). A combination of arrows may map partially onto both POL and LOS models.",
+      "whatToDo": "What to do: Ask questions to probe students' understanding about how the individuals in the video are able to see what they see. Use these diagrammatic models as a pre-assessment of the ideas your students bring to this unit, and to make sense of and highlight their range and diversity. In Lesson 2, you will problematize the need to agree on conventions for using arrows in our models and what the arrows mean. Until that moment, it is OK that students use arrows in different ways.\nSupporting Universal Design for Learning: It is important to create opportunities to support student engagement in meaningful, accountable talk by utilizing socially safe activity structures. This is especially beneficial to Emerging Multilingual Learners. For this reason, partner talk or small-group talk should precede whole-class discussion whenever possible so students can share their ideas with one or two peers before “going public” with the class. During this unit, there will be instances in which students immediately engage in class discussion. Insert a partner talk prior to that larger discussion if you believe this would benefit your students’ ability to communicate and express their ideas.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L01-AO1.html"
+      }
+    },
+    {
+      "id": "61-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: All questions should…",
+      "shortTitle": "Look for: What to look/listen for: All questions should…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from observations of a phenomenon in which an object appears different depending on the light conditions within the defined system.",
+      "lookListenFor": "What to look/listen for: All questions should be accepted at this time, but pay close attention to the types of questions your students ask.\nOpen-ended questions require a full and meaningful answer and are productive questions to prompt investigation and conversation. How and why questions are examples of this type. Students may also ask open-ended questions that are more similar to ideas for investigations (e.g., What happens if … ?). When we pursue these investigations later in the unit, students will discover new aspects of the phenomenon to be explained, motivating a need to pose new explanatory questions (how or why) about the phenomenon.\nClose-ended questions require a yes or no response or a simple, one-word answer. Sometimes close-ended questions are productive for prompting us to do an investigation (e.g., If you turned the lights off in both rooms, will both sides be able to see through?), but they do not lead to fruitful conversation.",
+      "whatToDo": "What to do: If important parts of the mirror-window model have few or no questions posted on the DQB, prompt students to generate more questions in this space so they can investigate each important part or interaction.\nAfter the DQB is built, count the number of questions (on your own, not with students) that are close-ended versus open-ended. If your students ask mostly close-ended questions, have them use the Asking Questions Tool: Open/Closed Questions when adding new questions to the DQB in later lessons. If your students asked mostly open-ended questions, shift their focus to refining their questions into testable ones using the Asking Questions Tool: Testable Questions.\nClose-ended question\nPossible revision to make later in the unit\nIs there any other way to make this mirror?\nHow is this mirror made?\nDo you need to use a specific mirror to make this work?\nWhy does this specific mirror work this way and other mirrors don’t work the same way?\nDoes the lighting affect the results?\nWhy does the lighting affect the results?\nDoes it only work if one room is dark and the other is bright?\nWhy does it only work when one room is dark and the other room is bright?\nIf you turned the lights off in both rooms, will both sides be able to see through?\nWhy would making both rooms dark affect the results?\nName the boundary of the system we are investigating. Say, We’ve been using parts and interactions between parts to help us decide what is important for explaining the one-way mirror effect. How did we decide the boundary of what we need to include? Discuss the boundary concept using the prompts below.\nSuggested prompt\nSample student response\nHow did we decide the boundary of what we need to include?\nSeems like it was all happening inside the rooms, so the walls are the boundary.\nHow do we know this is a good boundary to use? What do we think would happen if we didn’t have it?\nIf you opened the doors, it might change what is seen. If you took away the walls, the one-way mirror might not work.\nWas there a boundary on our box model?\nThe sides of the cardboard boxes.\nDid anything cross the boundary when we investigated with the box model?\nMaybe light from the classroom when we opened the viewing holes.\nName what students have been doing as systems thinking.✱ Display slide W. Introduce the idea of systems thinking as a way to organize what is known about a system to make sense of a phenomenon. Ask students when we’ve done this kind of thinking already. Listen for responses such as these:\nwhen we did the Parts chart\nwhen we did initial models\nwhen we had a class Consensus Discussion\nwhen we generated questions about different parts\nConnect the DQB to the unit question. The question for this unit is “Why do we sometimes see different things when looking at the same object?” Ask students if that question could work as the main DQB question or whether they want to modify it to capture all the other questions we have posted. Write the unit question, with any student modifications, at the top of the DQB.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L01-AO3.html"
+      }
+    },
+    {
+      "id": "61-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: The key ideas listed…",
+      "shortTitle": "Look for: What to look/listen for: The key ideas listed…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop a model to identify the important parts of the system and how those parts interact that could cause an object to look different in different light conditions.",
+      "lookListenFor": "What to look/listen for: The key ideas listed above.",
+      "whatToDo": "What to do: As your students suggest ways to represent how the one-way mirror works, use probing questions, particularly when they suggest using a line or arrow (e.g., Where does the line need to start and stop? or What direction is the arrow pointing? and Why does it point that way?). Allow both “line of sight” (LOS) and “path of light” (POL) suggestions on the Initial Class Consensus Model. Use this moment as a pre-assessment of your students’ prerequisite 4th-grade understanding of light. Continue to monitor their use of lines and arrows in Lesson 2 to help you decide if you need to take advantage of the additional Building Prerequisite Understanding activities offered. These modifications can be used to ensure all students have the necessary foundational understandings to move forward in the unit.\nReintroduce the concept of modeling. Once the class has created a consensus diagram, introduce students to the idea that we just developed a (diagrammatic or conceptual) model, which includes our ideas for how and why something in the world happens: In trying to explain why the music student sees only himself, but the teacher see the music student, we developed a model.\nReiterate that, Scientists use models to explain phenomena and represent their ideas in a variety of ways - in this case, we used a diagrammatic model. Remind students we also used the box model to develop and test our ideas about what was happening in the real world. Tell them this conceptual model includes our current thinking but our ideas may change over the course of the unit, so we’ll have opportunities to revise this model.✱\nSlide Q is provided as an optional norms check-in moment.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L01-AO2.html"
+      }
+    },
+    {
+      "id": "61-2-ao-4",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Lesson 02 · Check-in 4",
+      "shortTitle": "Lesson 02 · Check-in 4",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "Self-documentation is a type of cultural formative assessment. This opportunity allows you insight into what students understand in terms of the phenomenon and allows aspects of students’ cultural lives to surface (source: http://stemteachingtools.org/sp/self-doc ). This is a good formative assessment opportunity to see how students make sense of the phenomenon as it applies to their lives.\nGenerate new questions for the DQB. Give students time to generate new questions about related phenomena, write them on sticky notes, and add them to the DQB.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L02-AO4.html"
+      }
+    },
+    {
+      "id": "61-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: (1) Questions that f…",
+      "shortTitle": "Look for: What to look/listen for: (1) Questions that f…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Ask questions that can be investigated in the classroom and frame a hypothesis about what we will see from both sides of the box model if we change the amount of light on either side of the box model (structure).",
+      "lookListenFor": "What to look/listen for: (1) Questions that focus on changing one aspect of the light in the box model at a time, (2) questions that are feasible in terms of time and materials, and (3) hypotheses framing what students expect to see.",
+      "whatToDo": "What to do: Focus on helping students consider changes they could make to the structure of the box model specific to the light. Press them to explain why they think their questions are feasible to investigate in the classroom. Point them back to the box model to help them evaluate the ease with which some of their questions could be investigated given limitations of the materials on hand.\nUse feasibility criteria to determine which questions to test. Reiterate the feasibility criteria for our investigation questions: fast, easy, and doable with resources in the classroom right now. From the list of questions students want to test, select the following two. Discuss what would change from the original system in each case.\nQuestion\nChange from the original system\nWhat would happen if it was light in both rooms?\nTurn on lights in Rooms A and B.\nWhat would happen if it was dark in both rooms?\nHave no lights and cover the flashlight holes in Rooms A and B.\nBelow are additional questions students may want to investigate and recommendations for how to handle them if they arise.\nQuestions we will investigate\nlater in the unit, and how to respond\nQuestions we will not investigate\nin this unit, and how to respond\nQuestion: What would happen if we change the one-way mirror material to a regular mirror or glass?\nRecommendation: Note that this question is not about changing the light but is a very interesting question that we should investigate soon. Students will investigate this in Lesson 3.\nQuestion: What would happen if we use a different-colored light?\nRecommendation: If you have access to different-colored lights or colored films, it’s fine to test this now. The phenomenon should remain the same, though possibly not as pronounced; however, the unit will not cover color.\nQuestion: What would happen if we added a dim light to Room B?\nRecommendation: We will investigate this question in Lesson 8. Tell students this is a great question and we can start by adding the same bright light to Room B and return to this question later in the unit.\nQuestion: What would happen if we change the light angle?\nRecommendation: While this is easy to test, the unit does not investigate this question because what students see when they change the light angle in the box model can vary greatly.\nQuestion: What would happen if we change the distance to the one-way mirror?\nRecommendation: Note that this question is not about changing the light. The unit does not investigate this question because it is logistically difficult to modify the box model to adjust distance from the viewing hole to the one-way mirror. Point out this is a limitation with our box models.\nAssign each group to focus on one investigation question. Tell students they will investigate both of the selected questions, but each group will be responsible for modeling only one of the two situations on paper.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L02-AO1.html"
+      }
+    },
+    {
+      "id": "61-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students documented…",
+      "shortTitle": "Look for: What to look/listen for: Students documented…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Modify a model based on evidence to match changes in what we see when we change the light in the box model (structure).",
+      "lookListenFor": "What to look/listen for: Students documented observations about what they could see from each side of the box model. Look for the use of arrows that may represent light entering the eye for an object to be seen. If students draw arrows pointing away from the eye, this may represent ideas related to a line of sight model.",
+      "whatToDo": "What to do: Ask students what the arrows in their models represent to assess if students are using arrows to represent the path of light or the line of sight. If you hear a lot of the latter, be prepared to facilitate one or more of the Building Prerequisite Understanding activities described in Building Prerequisite Understanding Activities. These activities require additional preparation and materials but are easy to insert. Being prepared to sidestep into these activities will allow you to respond just in time to your students’ needs.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L02-AO2.html"
+      }
+    },
+    {
+      "id": "61-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: The Key Ideas highli…",
+      "shortTitle": "Look for: What to look/listen for: The Key Ideas highli…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Modify a model based on evidence to match changes in what we see when we change the light in the box model (structure).",
+      "lookListenFor": "What to look/listen for: The Key Ideas highlighted on the previous page.",
+      "whatToDo": "What to do: If students don’t have the 4th-grade understanding that light bounces off objects and enters our eyes, do not continue the Building Understandings Discussion. Instead, redirect now to one or more of the Building Prerequisite Understanding activities presented in Building Prerequisite Understanding Activities as a way to develop and reinforce these foundational concepts. These activities require a little preparation and additional materials but are easy to insert into your instruction.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L02-AO3.html"
+      }
+    },
+    {
+      "id": "61-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: All three materials reflect light and two tra…",
+      "shortTitle": "Look for: All three materials reflect light and two tra…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Use evidence to modify a model to explain how an object’s material (structure) influences the path of light as it transmits through or reflects off the material (function).",
+      "lookListenFor": "What to look/listen for:\nAs students discuss their observations in small groups and as a class, listen for the following:\nAll three materials reflect light and two transmit light.\nThe one-way mirror reflects more light than the glass but less than the regular mirror; the one-way mirror transmits more light than the regular mirror but less than the glass.\nUsing a tool to measure the amount of light transmitted through and reflected off each material would give us data that would make our comparisons more accurate and help us better represent what we observe in a consensus model.\nAs students revise the class consensus model, the following ideas should be represented for each material:\nLight travels in straight lines.\nWhen light shines on an object, it can pass through, bounce off, or do a combination of both.\nArrows should show the direction light travels (path of light, POL) from the source and then when it bounces off or goes through a material.",
+      "whatToDo": "What to do: The Light Interactions Investigation is the students’ first opportunity to observe and compare how light interacts with the one-way mirror, glass, and a regular mirror. The small-group and class discussions give them opportunities to try to make sense of the one-way mirror phenomenon using qualitative data. If they struggle to make comparisons, guide them as follows:\nFocus on students’ observations of the amount of light transmitted through each material, one at a time, and document them on chart paper.\nMove to observations of the amount of light reflected off each material, one at a time, and document them on chart paper.\nCompare the amount of light transmitted by the one-way mirror with the other two materials. This should help students see that the one-way mirror’s data falls somewhere between the other two.\nThen compare the amount of light reflected by the one-way mirror with the other two materials. Again, students should be able to determine that the one-way mirror falls somewhere between the other two.\nAfter making these comparisons, students should notice that they can only compare the three materials using words like “more” and “less” but cannot be much more accurate than this.\nWhile revising the consensus model, if students struggle to represent what they observed, guide them to build the model using a systematic process such as this:\nFocus on one material at a time.\nDraw the material in a zoomed-in bubble.\nRepresent light (using a straight arrow) coming into contact with the material.\nRepresent what light does after it hits the material using arrows, as appropriate.\nRepeat the process with each material.\nSummarize observations and determine next steps. Show slide G. Say, We know light bounces off all three materials, because we saw the light shine on each material and reflect back at us. We also know light goes through glass and the one-way mirror, because we saw the light shine on each material, then go through and shine on the wall behind it. What we don’t know is how much light transmitted through or reflected off each material. How might measuring the amount of light that transmits and reflects be important for explaining the one-way mirror phenomenon? How could we determine how much light transmits and reflects?\nGive students a minute to turn and talk with a partner, before discussing a few students’ ideas as a class.\nSuggested prompt\nSample student response\nHow might measuring the amount of light that goes through and bounces off the one-way mirror be important for explaining the one-way mirror phenomenon?\nWe do know the amount of light in a room affects how the one-way mirror behaves. In a lit room, it acts like a mirror, and in a dark room, it acts like a window.\nIf we know the amount of light that goes through and bounces off the one-way mirror, the glass, and the regular mirror, we can make even better comparisons between the three materials, which might help us figure out what is happening when the light hits the one-way mirror.\nHow could we determine how much light goes through and how much bounces off?\nThe amount of light seems to be an important part in the system. If we want to understand why the one-way mirror acts differently in different amounts of light, we need a way to measure how much light is going through and how much is bouncing off each material.\nSay, Since we think it is probably a good idea to determine how much light goes through and bounces off each material, we need to figure out how we can investigate that.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L03-AO1.html"
+      }
+    },
+    {
+      "id": "61-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: As students share their testable questions an…",
+      "shortTitle": "Look for: As students share their testable questions an…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Ask a testable question to determine how an object’s material (structure; Independent variable) influences the amount of light transmitted and reflected (function; dependent variable).",
+      "lookListenFor": "What to look/listen for:\nAs students share their testable questions and select one to use in the second investigation, listen for\naccurate identification of the dependent variable and independent variable, and\nan understanding of the cause-and-effect relationship between the dependent and independent variables.",
+      "whatToDo": "What to do:\nIf students have difficulty identifying independent and dependent variables for this investigation, write the question frame “How does _________ affect _________?” on a whiteboard or chart paper. Write “one-way mirror,” “glass,” “regular mirror,” “amount of light transmitted,” and “amount of light reflected” on large sticky notes and let students place a sticky note in each blank. Read and discuss the resulting question to determine if the cause-and-effect relationship is correct. Continue to use this process until students correctly identify which sticky notes have independent variables and which have dependent variables.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L03-AO3.html"
+      }
+    },
+    {
+      "id": "61-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: As students work in pairs to construct testab…",
+      "shortTitle": "Look for: As students work in pairs to construct testab…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Ask a testable question to determine how an object’s material (structure; independent variable) influences the amount of light transmitted and reflected (function; dependent variable).",
+      "lookListenFor": "What to look/listen for:\nAs students work in pairs to construct testable questions, listen and look for\naccurate identification of the dependent variable (amount of light reflected and amount of light transmitted) and the independent variable (one-way mirror, glass, and regular mirror), and\nan understanding of the cause-and-effect relationship between the dependent and independent variables.",
+      "whatToDo": "What to do: Listen for the independent and dependent variables and the cause-and-effect relationship students identify as they construct their testable questions. Use that information to anticipate how you will guide day 2’s whole-class discussion and to consider the kinds of questions you might need to ask.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L03-AO2.html"
+      }
+    },
+    {
+      "id": "61-3-ao-4",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: While analyzing class data in small groups an…",
+      "shortTitle": "Look for: While analyzing class data in small groups an…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Use evidence to modify a model to explain how an object’s material (structure) influences the path of light as it transmits through or reflects off the material (function).",
+      "lookListenFor": "What to look/listen for:\nWhile analyzing class data in small groups and as a class, look and listen for students to\nuse light data to compare the one-way mirror to the regular mirror and glass, and\ncreate a continuum and place each material along the continuum based on the amount of light each transmitted and reflected.\nWhen students individually complete their Progress Tracker, look for the following ideas in their representations:\nLight travels in a straight line.\nWhen light shines on the one-way mirror, about half of the light reflects off, which is slightly more than the amount of light transmitted.\nThe one-way mirror does not reflect as much light as a regular mirror, and it does not transmit as much light as a window.",
+      "whatToDo": "What to do: The Measuring Light Investigation gives students the opportunity to analyze and use quantitative data to make sense of the one-way mirror phenomenon.\nIf students struggle to analyze the data and compare the one-way mirror to glass and the regular mirror, you can help them with these steps:\nSimplify the data on slides U and V (e.g., select one set or use an average).\nOn chart paper, use the data to build a key, then put numbers on a continuum.\nUse the scale on the continuum to compare the materials, focusing first on the amount of light transmitted, and place each material on the continuum before moving on to the amount of light reflected.\nWhile revising the consensus model, if students struggle to represent what they observed, guide them to build the model using a systematic process such as this:\nDetermine how to represent the scale and key on the continuum with solid and dashed arrows.\nFocusing on one material at a time, draw each in a zoomed-in bubble.\nThen, represent light (using a solid straight arrow) coming into contact with the material.\nNext, represent what light does after it hits the material using dashed arrows, as appropriate based on the data.\nRepeat the process with each material.\nIf students struggle to complete their Progress Tracker, remind them to use their observations in their notebook, as well as charts around the room, for support. You can also allow students to work with a partner if needed. In addition, you can use what you learn from students’ work in the Progress Trackers to inform your next steps for moving their thinking forward. This could include\ngiving students feedback in their notebooks, such as additional probing questions, suggestions for improvement, or a request for additional evidence or reasoning;\nrevisiting, reteaching, or reinforcing ideas from the lesson to help students fill in gaps in their learning;\nusing examples of actual student work to prompt discussion about what we have and haven’t figured out up to this point; and\nasking additional questions at the beginning of the next lesson to probe students’ thinking and help them make connections and build understanding.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L03-AO4.html"
+      }
+    },
+    {
+      "id": "61-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: The key ideas listed…",
+      "shortTitle": "Look for: What to look/listen for: The key ideas listed…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Develop a model to describe the unobservable mechanisms that affect how a material’s microscale structure changes how light reflects off and transmits through that material (function).",
+      "lookListenFor": "What to look/listen for: The key ideas listed above.",
+      "whatToDo": "What to do: If students struggle with representing how light interacts differently with structural features of glass, regular mirrors, and one-way mirrors, have students use the yardstick overlaid on the projected diagram to trace straight lines to different structures within the materials. Have students connect the number of arrows that transmit or reflect to the light sensor data gathered in Lesson 3.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.1 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L04-AO1.html"
+      }
+    },
+    {
+      "id": "61-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: Ideas from Lesson 2: The model represents how…",
+      "shortTitle": "Look for: Ideas from Lesson 2: The model represents how…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Revise a model to explain the observable one-way mirror phenomenon caused by unobservable interactions between light, the people, and the one-way mirror, which reflects and transmits about the same amount of light.",
+      "lookListenFor": "What to look/listen for:\nIdeas from Lesson 2: The model represents how light travels from the light source in Room A and reflects off the music student.\nIdeas from Lessons 3 and 4: About half of the light transmits through the one-way mirror and the other half reflects back to the student.\nIdeas from Lesson 4: The structure of the one-way mirror is half-silvered, which allows about the half of light to reflect off the silvered structures and the other half to transmit through the transparent structures.\nIdeas from Lessons 2, 3 and 4: Light rays enter both the student’s and the teacher’s eyes from objects that are seen.",
+      "whatToDo": "What to do: Cue students to use their Progress Tracker and other resources from their science notebook or class consensus models to develop their individual model. If students struggle, help them break down the task into smaller components. Start with what happens when light leaves the light source and reaches the student. Next, have them model what happens when light reaches the one-way mirror. You can also have students turn and talk with a partner or small group prior to the individual modeling to help them generate ideas.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.1 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L05-AO1.html"
+      }
+    },
+    {
+      "id": "61-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: the shape and transparency of the lens of the…",
+      "shortTitle": "Look for: the shape and transparency of the lens of the…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Ask questions to model the path of light as it travels through the lens of the eye, and to explain how the shape and composition of the lens causes the path of light to change directions (bend or refract) before hitting the retina at the back of the eye.",
+      "lookListenFor": "What to look/listen for: As students share what they have figured out about light that transmits through the lens of the human eye and draw tentative conclusions about what happens when light enters the music students’ eyes, listen for students to share that:\nthe shape and transparency of the lens of the human eye causes light to change direction (refract), and\nthe refracted light is focused to a point on the retina at the back of the eye.",
+      "whatToDo": "What to do: If students do not describe the lens of the human eye and how it refracts light and focuses it on the retina, you can surface that information in a number of ways:\nAsk students what we learned as we investigated how light interacts with the magnifying glass.\nPoint to the class model and ask students to describe the role of the lens in processing the light that enters the eyes.\nAsk students to describe the similarities between the lens of the magnifying glass and the lens of the eye, and explain why those similarities were important to think about as we tried to figure out what happens to light when it enters the music student’s eyes.\nIn addition, students will have opportunities to revisit these ideas if you choose to use the additional refraction activities in Extension Opportunity: Refraction of Light Activities.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.1 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L06-AO1.html"
+      }
+    },
+    {
+      "id": "61-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for small-group…",
+      "shortTitle": "Look for: What to look/listen for: Look for small-group…",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Develop a model that describes how the eye responds to (interacts with) different inputs of light and transmits those inputs as signals along the optic nerve to the brain, which processes the inputs into what we “see.”",
+      "lookListenFor": "What to look/listen for: Look for small-group models to accurately represent how the student’s eye interacts with the light inputs. During the Consensus Discussion, listen for students to describe this interaction in their own words. Small-group models and students’ descriptions should reflect the ideas outlined in the Key Ideas callout above.",
+      "whatToDo": "What to do: If small-group models do not accurately represent the ideas in the Key Ideas callout, use the strategies described in the Systems and System Models callout, as well as the questions on slide Q, to guide the Consensus Discussion and development of the class consensus model. In addition, you can print Why does the student see himself and not the teacher?: Model Template, which includes an image of the model from the end of day 1. Students can revise the model on the handout during the small-group modeling task.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.1 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L06-AO2.html"
+      }
+    },
+    {
+      "id": "61-7-6-1-lesson-7-handout-self-assessment-and",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "6.1 Lesson 7 Handout Self Assessment and",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 07 — 6.1 Lesson 7 Handout Self Assessment and.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.1 Lesson 7 Handout Self Assessment and.docx",
+        "teacherGuide": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSci-AdDjYnkP4jncgh4gsgGrztta76X14t3roPf8IBunaFUVQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "61-7-final-explanation-one-way",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "Final explanation One-way",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 07 — Final explanation One-way.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.1 Lesson 7 Assessment Final explanation One-way.docx",
+        "teacherGuide": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdJV7bqs9I_14dJaSdJVCZqbP0UkmtW-1r4h_QIbbNOwA8cDg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "61-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Peer Feedback Guidelines",
+      "shortTitle": "Peer Feedback Guidelines",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Construct and revise an explanation using a model to explain why an object appears different (effect) depending on the interaction between light and an object’s material, and how the brain processes signals (causes).",
+      "lookListenFor": "What to look/listen for\nIdea from Lesson 2: Students explain how light travels from the light source in Room A and reflects off the music student.\nIdea from Lessons 3 and 4: About the same amount of the light transmits through the one-way mirror as reflects back to the music student.\nIdea from Lesson 4: The structure of the one-way mirror is half-silvered, which allows about the same amount of light to reflect off the silvered structures and to transmit through the transparent structures.\nIdea from Lessons 2, 3, and 4: Light rays enter both the music student’s and the adult’s eyes from objects that are seen.\nIdeas from Lesson 6: Light inputs to the eye are detected by sense receptors in the eye and turned into signals. When there are multiple light inputs, the brain responds to the strongest signal.\nLook for evidence that students have revised their explanation, based on their own and on peer feedback, by comparing the first draft and the revised explanation and reviewing their reflections on what feedback they used and didn’t use.",
+      "whatToDo": "What to do: Have students submit their revised explanation along with the first draft explanation that has their own revisions as well as peer feedback. If students struggle to include key science ideas, cue students to reference the class Science Ideas chart and their Progress Trackers. If students struggle to include evidence from investigations, direct them to their science notebooks to remember the evidence they gathered from Lessons 2, 3, 4, and 6. If students struggle to include all the interactions among parts of the system, encourage them to review the models from Lessons 5 and 6.\nUse Rubric Explaining the one-way mirror phenomenon to assess students and provide feedback to them on their explanations and revisions.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.1 Lesson 7 Handout Peer Feedback Guidelines.docx",
+        "teacherGuide": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L07-AO1.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "61-8-portraits-through-glass",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "title": "Portraits Through Glass",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 08 — Portraits Through Glass.",
+      "files": {
+        "studentHandout": "lesson_8/original/6.1 Lesson 8 Assessment Portraits Through Glass.docx",
+        "teacherGuide": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+        "answerKey": "lesson_8/original/6.1 Lesson 8 Answer Key Portraits Through Glass.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfG41rth_sVsVAMTafT-6ovpG_w1JfSwIFlGvcyR_J3AhN0Rg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "61-8-ao-4",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Lesson 08 · Check-in 4",
+      "shortTitle": "Lesson 08 · Check-in 4",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "While students are answering questions from the Driving Question Board, this is an excellent formative assessment opportunity to address partial understandings and see if any pieces need to be revisited at the conclusion of the unit. There is also opportunity to reinforce or revisit some of these ideas in OpenSciEd Unit 6.2: How can containers keep stuff from warming up or cooling down? (Cup Design Unit), particularly Lesson 8, when students investigate how light interacts with matter to warm up materials.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L08-AO4.html"
+      }
+    },
+    {
+      "id": "61-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for",
+      "shortTitle": "Look for: What to look/listen for",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Use a model to describe how differences in light on both sides of a one-way mirror strengthens or weakens the one-way mirror phenomenon due to changing the components and interactions within and between systems.",
+      "lookListenFor": "What to look/listen for\nStudents agree that there is a one-way mirror phenomenon when there is a difference in light, but the greater the difference in light, the stronger the phenomenon.\nStudents explain that changing the light on either side of the one-way mirror affects how light interacts with the one-way mirror (interaction within the system).\nStudents agree that the greater difference in light on both sides of the one-way mirror leads to a greater difference in the amount of light reflecting off objects toward our eyes (outputs) (interaction between systems).\nStudents explain that the phenomenon changes because the light coming from the one-way mirror system to our eye changes, resulting in different signals to the brains affecting what we see (interactions between systems).",
+      "whatToDo": "What to do: If students do not immediately agree on these conclusions, help them order their observations from those with the clearest one-way mirror phenomenon to those with the least clear one-way mirror phenomenon. Record the strength of light (bright, dim, off) on the side that had a greater reflection versus the side that was easier to see through. Ask students to think about the light source(s) and how the light is reflecting off objects in the box model. Identify these as outputs from the system represented by the box model. Trace those outputs from the box to light inputs into our eye and brain system when we view the objects. Establishing the importance of changing interactions within the one-way mirror system (light source and one-way mirror film), leading to different things seen (interaction between one system and another system).\nUse the conclusion about light differential to examine related phenomena. Gather around the Related Phenomena list from Lesson 1 and Self-Documentation Collection from Lesson 2. Say, We’ve figured out a lot about one-way mirrors, but this material is not commonly used. Yet, early on we saw a lot of related phenomena that we thought could be similar to the one-way mirror using common materials. Each of these phenomena is probably different in some ways than the one-way mirror, but they may have similarities too. Let’s identify ones that have different amounts of light on either side of the materials and try to explain them using our model.\nHave students turn and talk to identify related phenomena with light differences. Display slide D. Cue students to turn and talk to discuss related phenomena from their collection that may be explained, at least in part, by light differences on both sides of the material.\nShare related phenomena. Reconvene the class to share examples of related phenomena that include light differences on either side of the material. Students may share examples like these:\nstore, school, home windows\nsunglasses, goggles, eyewear\ntinted car windows\nIn each situation, use the following probing questions:\nWhere are the differences in light in this situation?\nWhere can people see their reflection? Why?\nWhat allows people to be able to see through the material?\nDescribe the systems in which these new phenomena occur.✱ Point out that when they investigated the one-way mirror phenomenon with the music student, they listed out the important parts and interactions of the system and decided that the boundary of the system was the walls of the two rooms. Display slide E. Ask students to turn and talk about the system in which one new phenomenon occurs, using these questions:\nWhat are the important parts?\nWhat are the interactions among those parts?\nHow would you decide the boundary of the “system” in which this new phenomenon occurs?\nIs the new system interacting with another system, like our eye?\nElicit students’ ideas about the systems and co-construct a definition to add to the Word Wall.✱ Ask a few partners to share what they know about the systems in which these new phenomena occur.\nAfter a few partners share, help the class to define system for the Word Wall. Say, We’ve been using this word, system, for a few weeks, but we’ve never defined what it means. Now that we know more, let’s define what it means to us and use that in our science class going forward. As we learn more about systems this year, we can add to our definition.✱\nAs the class articulates a definition, write the word on a 6” x 8” sticky note or 5” x 8” index card, along with its definition and a simple diagram. Place the sticky note (or index card) on the Word Wall in the classroom.\nExample definition: A set of parts that work together (interact) toward a goal or outcome. To study a system, it’s helpful to set a boundary and look at (1) how things work together inside the boundary and (2) effects from things outside the boundary.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L08-AO1.html"
+      }
+    },
+    {
+      "id": "61-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See Key Ideas above",
+      "shortTitle": "Look for: What to look/listen for: See Key Ideas above",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Apply science ideas and evidence from classroom investigations to explain a common, real-world phenomena in which a material designed for light transmission and to look transparent to the eye and brain functions as a one-way mirror due to the relationship the material has to other parts in the system.",
+      "lookListenFor": "What to look/listen for: See Key Ideas above.",
+      "whatToDo": "What to do: Encourage students to utilize the Science Ideas chart and to reference ideas already on the chart or add to the chart as needed as they develop their how or why account for explaining the glass phenomena. Allow students to search for and reference evidence from previous lessons, though their personal experiences with this phenomenon outside of the classroom may constitute an important piece of evidence too.\nSuggested prompt\nSample student response\nWhat do we notice is different in each scenario?\nThe classroom is lit up in one image and dark in the other image.\nHow do we think the classroom light compares to the hallway light?\nIn the one image, the classroom light is really bright, probably brighter than the hallway. In the other image the hallway is probably brighter than the classroom.\nWhat science ideas can we use to help us explain how or why this happens?\n[Ideas may vary but should come from the Science Ideas chart and any new ideas the class agrees upon]\nHow do the different light conditions change how light is interacting with objects within the system? What about between the classroom system and our eye system?\nWhen there is a bright light in the classroom, it reflects off the objects in the room and into our eyes. When there is no light in the classroom, the hallway light is the main light source. It reflects off us, to the glass, and back to our eyes.\nIn the picture with the light on in the classroom, our reflection is not very prominent or we can’t see it at all, but when the classroom is dark it becomes more prominent. What does this tell us about light entering our eyes from objects in the system?\nIf we see an object really well, there must be light entering our eyes and our brain processing the signal. If we can’t see it very well, the signal is probably weaker from that object.\nWhen the light is on in the classroom, the light reflecting off of us to the glass and back to the eyes is less than the light transmitting through the glass from inside the classroom. When the light is off in the classroom, then the light reflecting off of us to the glass and back to the eyes is the stronger input.\nAs the discussion unfolds you will need to be prepared to record new science ideas the class agrees upon as they explain the glass phenomenon. Display slide K if needed. These new science ideas may include something similar to the following ideas, though wording can vary as your class co-constructs the ideas:\nDifferences in light on either side of an object or material can cause us to see different things when looking at the same object.\nThe brighter or more prominent an object appears, the more light that is reaching our eyes from the object.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L08-AO2.html"
+      }
+    },
+    {
+      "id": "61-8-ao-3",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: This is a transfer t…",
+      "shortTitle": "Look for: What to look/listen for: This is a transfer t…",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Apply science ideas and evidence from classroom investigations to explain a common, real-world phenomena in which a material designed for light transmission and to look transparent to the eye and brain functions as a one-way mirror due to the relationship the material has to other parts in the system.",
+      "lookListenFor": "What to look/listen for: This is a transfer task to give students an opportunity to use the three dimensions to make sense of light interactions with objects within a system and between the system and our eyes, causing us to see different things. Students also have the opportunity to demonstrate their understanding of how glass functions in different light situations. For specific guidance, use Portraits Through Glass: Scoring Guidance. Allow students to choose how to share their understanding through written response, pictorial response, or a combination of both.",
+      "whatToDo": "What to do: This is meant to be a summative assessment task for the unit, and it gives you a grading opportunity. The task includes a scoring guide located in Portraits Through Glass: Scoring Guidance. Scoring guides are meant to highlight important ideas students should include in their responses. If students share these ideas elsewhere in the assessment, it is up to you to decide if that understanding is sufficiently demonstrated.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-2",
+        "MS-PS1-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.1 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-1/L08-AO3.html"
+      }
+    }
+  ]
+}

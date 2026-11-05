@@ -1,0 +1,414 @@
+{
+  "standards": {
+    "MS-PS1-1": {
+      "code": "MS-PS1-1",
+      "title": "Develop models to describe the atomic composition of simple molecules and extended structures.",
+      "description": "Students develop models to describe the atomic composition of simple molecules and extended structures.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps1-1-matter-and-its-interactions"
+    },
+    "MS-PS1-2": {
+      "code": "MS-PS1-2",
+      "title": "Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
+      "description": "Students analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps1-2-matter-and-its-interactions"
+    },
+    "MS-PS1-3": {
+      "code": "MS-PS1-3",
+      "title": "Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.",
+      "description": "Students gather and make sense of information to describe that synthetic materials come from natural resources and impact society.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps1-3-matter-and-its-interactions"
+    },
+    "MS-PS1-4": {
+      "code": "MS-PS1-4",
+      "title": "Develop a model that predicts and describes changes in particle motion, temperature, and state of a pure substance when thermal energy is added or removed.",
+      "description": "Students develop a model that predicts and describes changes in particle motion, temperature, and state of a pure substance when thermal energy is added or removed.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps1-4-matter-and-its-interactions"
+    },
+    "MS-PS1-5": {
+      "code": "MS-PS1-5",
+      "title": "Develop and use a model to describe how the total number of atoms does not change in a chemical reaction and thus mass is conserved.",
+      "description": "Students develop and use a model to describe how the total number of atoms does not change in a chemical reaction and thus mass is conserved.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps1-5-matter-and-its-interactions"
+    },
+    "MS-PS1-6": {
+      "code": "MS-PS1-6",
+      "title": "Undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy by chemical processes.",
+      "description": "Students undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy by chemical processes.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps1-6-matter-and-its-interactions"
+    },
+    "MS-PS2-1": {
+      "code": "MS-PS2-1",
+      "title": "Apply Newton's Third Law to design a solution to a problem involving the motion of two colliding objects.",
+      "description": "Students apply Newton's Third Law to design a solution to a problem involving the motion of two colliding objects.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps2-1-motion-and-stability-forces-and-interactions"
+    },
+    "MS-PS2-2": {
+      "code": "MS-PS2-2",
+      "title": "Plan an investigation to provide evidence that the change in an object's motion depends on the sum of the forces on the object and the mass of the object.",
+      "description": "Students plan an investigation to provide evidence that the change in an object's motion depends on the sum of the forces on the object and the mass of the object.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps2-2-motion-and-stability-forces-and-interactions"
+    },
+    "MS-PS2-3": {
+      "code": "MS-PS2-3",
+      "title": "Ask questions about data to determine the factors that affect the strength of electric and magnetic forces.",
+      "description": "Students ask questions about data to determine the factors that affect the strength of electric and magnetic forces.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps2-3-motion-and-stability-forces-and-interactions"
+    },
+    "MS-PS2-4": {
+      "code": "MS-PS2-4",
+      "title": "Construct and present arguments using evidence to support the claim that gravitational interactions are attractive and depend on the masses of interacting objects.",
+      "description": "Students construct and present arguments using evidence to support the claim that gravitational interactions are attractive and depend on the masses of interacting objects.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps2-4-motion-and-stability-forces-and-interactions"
+    },
+    "MS-PS2-5": {
+      "code": "MS-PS2-5",
+      "title": "Conduct an investigation and evaluate the experimental design to provide evidence that fields exist between objects exerting forces on each other even though the objects are not in contact.",
+      "description": "Students conduct an investigation and evaluate the experimental design to provide evidence that fields exist between objects exerting forces on each other even though the objects are not in contact.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps2-5-motion-and-stability-forces-and-interactions"
+    },
+    "MS-PS3-1": {
+      "code": "MS-PS3-1",
+      "title": "Construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an object and to the speed of an object.",
+      "description": "Students construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an object and to the speed of an object.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps3-1-energy"
+    },
+    "MS-PS3-2": {
+      "code": "MS-PS3-2",
+      "title": "Develop a model to describe that when the arrangement of objects interacting at a distance changes, different amounts of potential energy are stored in the system.",
+      "description": "Students develop a model to describe that when the arrangement of objects interacting at a distance changes, different amounts of potential energy are stored in the system.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps3-2-energy"
+    },
+    "MS-PS3-3": {
+      "code": "MS-PS3-3",
+      "title": "Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal energy transfer.",
+      "description": "Students apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal energy transfer.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps3-3-energy"
+    },
+    "MS-PS3-4": {
+      "code": "MS-PS3-4",
+      "title": "Plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass, and the change in the average kinetic energy of the particles as measured by the temperature of the sample.",
+      "description": "Students plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass, and the change in the average kinetic energy of the particles as measured by the temperature of the sample.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps3-4-energy"
+    },
+    "MS-PS3-5": {
+      "code": "MS-PS3-5",
+      "title": "Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object.",
+      "description": "Students construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps3-5-energy"
+    },
+    "MS-PS4-1": {
+      "code": "MS-PS4-1",
+      "title": "Use mathematical representations to describe a simple model for waves that includes how the amplitude of a wave is related to the energy in a wave.",
+      "description": "Students use mathematical representations to describe a simple model for waves that includes how the amplitude of a wave is related to the energy in a wave.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps4-1-waves-and-their-applications-technologies-information-transfer"
+    },
+    "MS-PS4-2": {
+      "code": "MS-PS4-2",
+      "title": "Develop and use a model to describe that waves are reflected, absorbed, or transmitted through various materials.",
+      "description": "Students develop and use a model to describe that waves are reflected, absorbed, or transmitted through various materials.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps4-2-waves-and-their-applications-technologies-information-transfer"
+    },
+    "MS-PS4-3": {
+      "code": "MS-PS4-3",
+      "title": "Integrate qualitative scientific and technical information to support the claim that digitized signals are a more reliable way to encode and transmit information than analog signals.",
+      "description": "Students integrate qualitative scientific and technical information to support the claim that digitized signals are a more reliable way to encode and transmit information than analog signals.",
+      "grade_level": "6-8",
+      "domain": "Physical Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ps4-3-waves-and-their-applications-technologies-information-transfer"
+    },
+    "MS-ESS2-4": {
+      "code": "MS-ESS2-4",
+      "title": "Develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the force of gravity.",
+      "description": "Students develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the force of gravity.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess2-4-earths-systems"
+    },
+    "MS-ESS1-1": {
+      "code": "MS-ESS1-1",
+      "title": "Develop and use a model of the Earth-sun-moon system to describe the cyclic patterns of lunar phases, eclipses of the sun and moon, and seasons.",
+      "description": "Students develop and use a model of the Earth-sun-moon system to describe the cyclic patterns of lunar phases, eclipses of the sun and moon, and seasons.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess1-1-earths-place-universe"
+    },
+    "MS-ESS1-2": {
+      "code": "MS-ESS1-2",
+      "title": "Develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.",
+      "description": "Students develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess1-2-earths-place-universe"
+    },
+    "MS-ESS1-3": {
+      "code": "MS-ESS1-3",
+      "title": "Analyze and interpret data to determine scale properties of objects in the solar system.",
+      "description": "Students analyze and interpret data to determine scale properties of objects in the solar system.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess1-3-earths-place-universe"
+    },
+    "MS-ESS1-4": {
+      "code": "MS-ESS1-4",
+      "title": "Construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used to organize Earth's 4.6-billion-year-old history.",
+      "description": "Students construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used to organize Earth's 4.6-billion-year-old history.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess1-4-earths-place-universe"
+    },
+    "MS-ESS2-1": {
+      "code": "MS-ESS2-1",
+      "title": "Develop a model to describe the cycling of Earth's materials and the flow of energy that drives this process.",
+      "description": "Students develop a model to describe the cycling of Earth's materials and the flow of energy that drives this process.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess2-1-earths-systems"
+    },
+    "MS-ESS3-2": {
+      "code": "MS-ESS3-2",
+      "title": "Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects.",
+      "description": "Students analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess3-2-earth-and-human-activity"
+    },
+    "MS-ESS3-3": {
+      "code": "MS-ESS3-3",
+      "title": "Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.",
+      "description": "Students apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess3-3-earth-and-human-activity"
+    },
+    "MS-ESS3-4": {
+      "code": "MS-ESS3-4",
+      "title": "Construct an argument supported by evidence for how increases in human population and per-capita consumption of natural resources impact Earth's systems.",
+      "description": "Students construct an argument supported by evidence for how increases in human population and per-capita consumption of natural resources impact Earth's systems.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess3-4-earth-and-human-activity"
+    },
+    "MS-ESS3-5": {
+      "code": "MS-ESS3-5",
+      "title": "Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century.",
+      "description": "Students ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century.",
+      "grade_level": "6-8",
+      "domain": "Earth & Space Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ess3-5-earth-and-human-activity"
+    },
+    "MS-LS1-3": {
+      "code": "MS-LS1-3",
+      "title": "Use argument supported by evidence for how the body is a system of interacting subsystems composed of groups of cells.",
+      "description": "Students use argument supported by evidence for how the body is a system of interacting subsystems composed of groups of cells.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls1-3-molecules-organisms-structures-and-processes"
+    },
+    "MS-LS1-4": {
+      "code": "MS-LS1-4",
+      "title": "Use argument based on empirical evidence and scientific reasoning to support an explanation for how characteristic animal behaviors and specialized plant structures affect the probability of successful reproduction of animals and plants respectively.",
+      "description": "Students use argument based on empirical evidence and scientific reasoning to support an explanation for how characteristic animal behaviors and specialized plant structures affect the probability of successful reproduction of animals and plants respectively.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls1-4-molecules-organisms-structures-and-processes"
+    },
+    "MS-LS1-5": {
+      "code": "MS-LS1-5",
+      "title": "Construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth of organisms.",
+      "description": "Students construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth of organisms.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls1-5-molecules-organisms-structures-and-processes"
+    },
+    "MS-LS1-7": {
+      "code": "MS-LS1-7",
+      "title": "Develop a model to describe how food is rearranged through chemical reactions forming new molecules that support growth and/or release energy as this matter moves through an organism.",
+      "description": "Students develop a model to describe how food is rearranged through chemical reactions forming new molecules that support growth and/or release energy as this matter moves through an organism.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls1-7-molecules-organisms-structures-and-processes"
+    },
+    "MS-LS1-8": {
+      "code": "MS-LS1-8",
+      "title": "Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain for immediate behavior or storage as memories.",
+      "description": "Students gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain for immediate behavior or storage as memories.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls1-8-molecules-organisms-structures-and-processes"
+    },
+    "MS-LS2-1": {
+      "code": "MS-LS2-1",
+      "title": "Analyze and interpret data to provide evidence for the effects of resource availability on organisms and populations of organisms in an ecosystem.",
+      "description": "Students analyze and interpret data to provide evidence for the effects of resource availability on organisms and populations of organisms in an ecosystem.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls2-1-ecosystems-interactions-energy-and-dynamics"
+    },
+    "MS-LS2-3": {
+      "code": "MS-LS2-3",
+      "title": "Develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an ecosystem.",
+      "description": "Students develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an ecosystem.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls2-3-ecosystems-interactions-energy-and-dynamics"
+    },
+    "MS-LS3-1": {
+      "code": "MS-LS3-1",
+      "title": "Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the organism.",
+      "description": "Students develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the organism.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls3-1-heredity-inheritance-and-variation-traits"
+    },
+    "MS-LS3-2": {
+      "code": "MS-LS3-2",
+      "title": "Develop and use a model to describe why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with genetic variation.",
+      "description": "Students develop and use a model to describe why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with genetic variation.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls3-2-heredity-inheritance-and-variation-traits"
+    },
+    "MS-LS4-1": {
+      "code": "MS-LS4-1",
+      "title": "Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change of life forms throughout the history of life on Earth under the assumption that natural laws operate today as in the past.",
+      "description": "Students analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change of life forms throughout the history of life on Earth under the assumption that natural laws operate today as in the past.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls4-1-biological-evolution-unity-and-diversity"
+    },
+    "MS-LS4-2": {
+      "code": "MS-LS4-2",
+      "title": "Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern organisms and between modern and fossil organisms to infer evolutionary relationships.",
+      "description": "Students apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern organisms and between modern and fossil organisms to infer evolutionary relationships.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls4-2-biological-evolution-unity-and-diversity"
+    },
+    "MS-LS4-3": {
+      "code": "MS-LS4-3",
+      "title": "Analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in the fully formed anatomy.",
+      "description": "Students analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in the fully formed anatomy.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls4-3-biological-evolution-unity-and-diversity"
+    },
+    "MS-LS4-4": {
+      "code": "MS-LS4-4",
+      "title": "Construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing in a specific environment.",
+      "description": "Students construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing in a specific environment.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls4-4-biological-evolution-unity-and-diversity"
+    },
+    "MS-LS4-6": {
+      "code": "MS-LS4-6",
+      "title": "Use mathematical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time.",
+      "description": "Students use mathematical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time.",
+      "grade_level": "6-8",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ls4-6-biological-evolution-unity-and-diversity"
+    },
+    "MS-ETS1-2": {
+      "code": "MS-ETS1-2",
+      "title": "Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem.",
+      "description": "Students evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem.",
+      "grade_level": "6-8",
+      "domain": "Engineering, Technology, and Applications of Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ets1-2-engineering-design"
+    },
+    "MS-ETS1-3": {
+      "code": "MS-ETS1-3",
+      "title": "Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success.",
+      "description": "Students analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success.",
+      "grade_level": "6-8",
+      "domain": "Engineering, Technology, and Applications of Science",
+      "url": "https://www.nextgenscience.org/pe/ms-ets1-3-engineering-design"
+    },
+    "HS-LS2-1": {
+      "code": "HS-LS2-1",
+      "title": "Use mathematical and/or computational representations to support explanations of factors that affect carrying capacity of ecosystems at different scales.",
+      "description": "Students use mathematical and/or computational representations to support explanations of factors that affect carrying capacity of ecosystems at different scales.",
+      "grade_level": "9-12",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/hs-ls2-1-ecosystems-interactions-energy-and-dynamics"
+    },
+    "HS-LS2-3": {
+      "code": "HS-LS2-3",
+      "title": "Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.",
+      "description": "Students construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.",
+      "grade_level": "9-12",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/hs-ls2-3-ecosystems-interactions-energy-and-dynamics"
+    },
+    "HS-LS2-4": {
+      "code": "HS-LS2-4",
+      "title": "Use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.",
+      "description": "Students use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.",
+      "grade_level": "9-12",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/hs-ls2-4-ecosystems-interactions-energy-and-dynamics"
+    },
+    "HS-LS2-6": {
+      "code": "HS-LS2-6",
+      "title": "Evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem.",
+      "description": "Students evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem.",
+      "grade_level": "9-12",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/hs-ls2-6-ecosystems-interactions-energy-and-dynamics"
+    },
+    "HS-LS3-1": {
+      "code": "HS-LS3-1",
+      "title": "Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring.",
+      "description": "Students ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring.",
+      "grade_level": "9-12",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/hs-ls3-1-heredity-inheritance-and-variation-traits"
+    },
+    "HS-LS3-2": {
+      "code": "HS-LS3-2",
+      "title": "Make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by environmental factors.",
+      "description": "Students make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by environmental factors.",
+      "grade_level": "9-12",
+      "domain": "Life Science",
+      "url": "https://www.nextgenscience.org/pe/hs-ls3-2-heredity-inheritance-and-variation-traits"
+    }
+  },
+  "unit_alignments": {},
+  "assessment_alignments": {}
+}

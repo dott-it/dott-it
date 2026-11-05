@@ -1,0 +1,1753 @@
+{
+  "unitId": "7.4",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 7",
+  "unitFolder": "7.4 Matter Cycling & Photosynthesis",
+  "unitDriveFolderId": "1qB1uMqA1a_yaxYaPkt4kbyNx4PVLIrOR",
+  "indexedAt": "2026-07-07T18:08:35.811Z",
+  "fileCount": 207,
+  "manifestPathCount": 78,
+  "matchedCount": 78,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "74-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1rPjlkaa8yXkpauX8VO2xQAxR88TQsnom4HGXK1lfOMA",
+      "driveRelativePath": "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:16.871Z"
+    },
+    {
+      "assessmentId": "74-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1rPjlkaa8yXkpauX8VO2xQAxR88TQsnom4HGXK1lfOMA",
+      "driveRelativePath": "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:16.871Z"
+    },
+    {
+      "assessmentId": "74-2-7-4-lesson-2-handout-self-assessment-for-classroom",
+      "field": "studentHandout",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Handout Self-Assessment for Classroom.docx",
+      "driveFileId": "1ySTPiMnkoVDFpTpIMbSVPNNvN0Y3Gv0DehZv2n1bYQs",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Handout Self-Assessment for Classroom",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:12.114Z"
+    },
+    {
+      "assessmentId": "74-2-7-4-lesson-2-handout-self-assessment-for-classroom",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    {
+      "assessmentId": "74-2-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    {
+      "assessmentId": "74-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    {
+      "assessmentId": "74-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    {
+      "assessmentId": "74-2-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    {
+      "assessmentId": "74-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    {
+      "assessmentId": "74-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "19-TVEHu9NV-6d1RnXUfU_8ZFxhDlz5lzAEyYRChSpO0",
+      "driveRelativePath": "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:14.586Z"
+    },
+    {
+      "assessmentId": "74-4-comparing-and-critiquing",
+      "field": "studentHandout",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Assessment Comparing and Critiquing.docx",
+      "driveFileId": "1jAUxaXyolMpPFBmVJ7o4LbDtuErit9cUW98ih2auMgA",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Assessment Comparing and Critiquing",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:37.154Z"
+    },
+    {
+      "assessmentId": "74-4-comparing-and-critiquing",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1zWkV_q-h_Qxbgvdy-hrVfNkF01PXbzhFFvtxDEOFYfw",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:06.583Z"
+    },
+    {
+      "assessmentId": "74-4-comparing-and-critiquing",
+      "field": "answerKey",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Answer Key Key Lesson 4.docx",
+      "driveFileId": "1cS1stht6qsnjkb38vdDPHfwZA-VpN8DS5-J0cTBB4ug",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Answer Key Key Lesson 4",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:33.711Z"
+    },
+    {
+      "assessmentId": "74-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1zWkV_q-h_Qxbgvdy-hrVfNkF01PXbzhFFvtxDEOFYfw",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:06.583Z"
+    },
+    {
+      "assessmentId": "74-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1zWkV_q-h_Qxbgvdy-hrVfNkF01PXbzhFFvtxDEOFYfw",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:06.583Z"
+    },
+    {
+      "assessmentId": "74-4-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1zWkV_q-h_Qxbgvdy-hrVfNkF01PXbzhFFvtxDEOFYfw",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:06.583Z"
+    },
+    {
+      "assessmentId": "74-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1zWkV_q-h_Qxbgvdy-hrVfNkF01PXbzhFFvtxDEOFYfw",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:06.583Z"
+    },
+    {
+      "assessmentId": "74-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1JyTCnXlJLDZ3L7li8x2koeKOBLwdv_0nZJp4wWT_vG8",
+      "driveRelativePath": "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:48.446Z"
+    },
+    {
+      "assessmentId": "74-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1JyTCnXlJLDZ3L7li8x2koeKOBLwdv_0nZJp4wWT_vG8",
+      "driveRelativePath": "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:48.446Z"
+    },
+    {
+      "assessmentId": "74-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1-ACzP7lKWL6jZykcftUDP2xJzaNvxSOdyl4TtTj94Hg",
+      "driveRelativePath": "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:32.469Z"
+    },
+    {
+      "assessmentId": "74-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1-ACzP7lKWL6jZykcftUDP2xJzaNvxSOdyl4TtTj94Hg",
+      "driveRelativePath": "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:32.469Z"
+    },
+    {
+      "assessmentId": "74-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1sTQJncFKO5PvvHQFbkeRXqvvfqdoIhhCyIUiulYfm1k",
+      "driveRelativePath": "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:13.719Z"
+    },
+    {
+      "assessmentId": "74-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1sTQJncFKO5PvvHQFbkeRXqvvfqdoIhhCyIUiulYfm1k",
+      "driveRelativePath": "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:13.719Z"
+    },
+    {
+      "assessmentId": "74-8-individual-midpoint-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_8/original/7.4 Lesson 8 Assessment Individual Midpoint Assessment.docx",
+      "driveFileId": "12XXUf1iCq2ItN316t1789dCDchuGDQyHPvBsi9se4kE",
+      "driveRelativePath": "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Assessment Individual Midpoint Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:31.940Z"
+    },
+    {
+      "assessmentId": "74-8-individual-midpoint-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1SfW52sWZhKdEu_r9-XbpqxvVOPENDmTk7mxr1K8XBN8",
+      "driveRelativePath": "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:56.540Z"
+    },
+    {
+      "assessmentId": "74-8-individual-midpoint-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_8/original/7.4 Lesson 8 Answer Key Individual Midpoint Assessment.docx",
+      "driveFileId": "1rHd9MSoERs08isUfFjcQ0BiQ6gE7_X3ag6du9KKTzd0",
+      "driveRelativePath": "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Answer Key Individual Midpoint Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:26.534Z"
+    },
+    {
+      "assessmentId": "74-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1SfW52sWZhKdEu_r9-XbpqxvVOPENDmTk7mxr1K8XBN8",
+      "driveRelativePath": "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:56.540Z"
+    },
+    {
+      "assessmentId": "74-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1SfW52sWZhKdEu_r9-XbpqxvVOPENDmTk7mxr1K8XBN8",
+      "driveRelativePath": "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:56.540Z"
+    },
+    {
+      "assessmentId": "74-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.4 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1tYCWNTyuuuAQkZrF0sp6JRLj1gDiTCVoG-4K_RAGAX0",
+      "driveRelativePath": "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:26.999Z"
+    },
+    {
+      "assessmentId": "74-10-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IY0lu7YMkn7GJ6zsfihy6tpBMUi3PTXg0KxAC7jzNOA",
+      "driveRelativePath": "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:08.684Z"
+    },
+    {
+      "assessmentId": "74-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IY0lu7YMkn7GJ6zsfihy6tpBMUi3PTXg0KxAC7jzNOA",
+      "driveRelativePath": "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:08.684Z"
+    },
+    {
+      "assessmentId": "74-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IY0lu7YMkn7GJ6zsfihy6tpBMUi3PTXg0KxAC7jzNOA",
+      "driveRelativePath": "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:08.684Z"
+    },
+    {
+      "assessmentId": "74-11-maple-tree-through",
+      "field": "studentHandout",
+      "manifestPath": "lesson_11/original/7.4 Lesson 11 Assessment Maple Tree through.docx",
+      "driveFileId": "1UcuRUUWwIiGKVWlkq8YtRI7VczFI63Xt8wn0oMA19i4",
+      "driveRelativePath": "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Assessment Maple Tree through",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:46.286Z"
+    },
+    {
+      "assessmentId": "74-11-maple-tree-through",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1KaZ9Jzixv8UZ-dzDBEo90OAkiz9fcAPuQ7kufmmXGXE",
+      "driveRelativePath": "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.362Z"
+    },
+    {
+      "assessmentId": "74-11-maple-tree-through",
+      "field": "answerKey",
+      "manifestPath": "lesson_11/original/7.4 Lesson 11 Answer Key Key Annotations for.docx",
+      "driveFileId": "15q7zwjsoWCXEmtw-aR8FSGG64ecYRytUaJwbML1RHes",
+      "driveRelativePath": "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Answer Key Key Annotations for",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:38.856Z"
+    },
+    {
+      "assessmentId": "74-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1KaZ9Jzixv8UZ-dzDBEo90OAkiz9fcAPuQ7kufmmXGXE",
+      "driveRelativePath": "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.362Z"
+    },
+    {
+      "assessmentId": "74-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1KaZ9Jzixv8UZ-dzDBEo90OAkiz9fcAPuQ7kufmmXGXE",
+      "driveRelativePath": "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.362Z"
+    },
+    {
+      "assessmentId": "74-11-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1KaZ9Jzixv8UZ-dzDBEo90OAkiz9fcAPuQ7kufmmXGXE",
+      "driveRelativePath": "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.362Z"
+    },
+    {
+      "assessmentId": "74-12-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1rO0UkOkmSNKmhVRAjRjCUuWKV32UYNOUFXUqg4_a7Fc",
+      "driveRelativePath": "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:08.533Z"
+    },
+    {
+      "assessmentId": "74-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1rO0UkOkmSNKmhVRAjRjCUuWKV32UYNOUFXUqg4_a7Fc",
+      "driveRelativePath": "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:08.533Z"
+    },
+    {
+      "assessmentId": "74-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1rO0UkOkmSNKmhVRAjRjCUuWKV32UYNOUFXUqg4_a7Fc",
+      "driveRelativePath": "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:08.533Z"
+    },
+    {
+      "assessmentId": "74-13-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "132QBqQ8Dozx4AqCiiCemxcCAREhGZsEt1A2jlokAHCs",
+      "driveRelativePath": "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:57.146Z"
+    },
+    {
+      "assessmentId": "74-13-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "132QBqQ8Dozx4AqCiiCemxcCAREhGZsEt1A2jlokAHCs",
+      "driveRelativePath": "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:57.146Z"
+    },
+    {
+      "assessmentId": "74-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "132QBqQ8Dozx4AqCiiCemxcCAREhGZsEt1A2jlokAHCs",
+      "driveRelativePath": "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:57.146Z"
+    },
+    {
+      "assessmentId": "74-13-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "132QBqQ8Dozx4AqCiiCemxcCAREhGZsEt1A2jlokAHCs",
+      "driveRelativePath": "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:57.146Z"
+    },
+    {
+      "assessmentId": "74-14-7-4-lesson-14-handout-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Handout Self-Assessment.docx",
+      "driveFileId": "1-B9iknMxaNtBi3e6f1QXCcVmHv85deco872azdmJWQg",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Handout Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:36.561Z"
+    },
+    {
+      "assessmentId": "74-14-7-4-lesson-14-handout-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "74-14-7-4-lesson-14-handout-self-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Answer Key Key Lesson 14.docx",
+      "driveFileId": "1cYAQajWOV1M8cMmO7aRcxnJselU9SCgHbhtZif8V-YQ",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Answer Key Key Lesson 14",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:15.240Z"
+    },
+    {
+      "assessmentId": "74-14-historia-de-un",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Assessment Historia de un.docx",
+      "driveFileId": "1F4Nfa6fzgM0iHNbdx-HyKIHQ6n9OqK6cm1psbE5RXdg",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Assessment Historia de un",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:20.741Z"
+    },
+    {
+      "assessmentId": "74-14-historia-de-un",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "74-14-historia-de-un",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Answer Key Key Lesson 14.docx",
+      "driveFileId": "1cYAQajWOV1M8cMmO7aRcxnJselU9SCgHbhtZif8V-YQ",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Answer Key Key Lesson 14",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:15.240Z"
+    },
+    {
+      "assessmentId": "74-14-story-of-a",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Assessment Story of a.docx",
+      "driveFileId": "1PLd3euOYVhl0UatjrW-S9GuKuCy5y1lyMVa5HZP3DfI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Assessment Story of a",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:25.021Z"
+    },
+    {
+      "assessmentId": "74-14-story-of-a",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "74-14-story-of-a",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Answer Key Key Lesson 14.docx",
+      "driveFileId": "1cYAQajWOV1M8cMmO7aRcxnJselU9SCgHbhtZif8V-YQ",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Answer Key Key Lesson 14",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:15.240Z"
+    },
+    {
+      "assessmentId": "74-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "74-14-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "74-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "74-14-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "74-15-whale-fall-task",
+      "field": "studentHandout",
+      "manifestPath": "lesson_15/original/7.4 Lesson 15 Assessment Whale Fall Task.docx",
+      "driveFileId": "1PcpydeqYjGjKFXtJ2ZCz7xuHflBx1qotqF7BIV2RP4E",
+      "driveRelativePath": "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Assessment Whale Fall Task",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:21.287Z"
+    },
+    {
+      "assessmentId": "74-15-whale-fall-task",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.4 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1voOHEIAG-bWY3dUNXLTqb2wJsKEUikYAZu5d1wvLSHk",
+      "driveRelativePath": "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:47.218Z"
+    },
+    {
+      "assessmentId": "74-15-whale-fall-task",
+      "field": "answerKey",
+      "manifestPath": "lesson_15/original/7.4 Lesson 15 Answer Key Key Whale Fall.docx",
+      "driveFileId": "1PT8KGICDVR_rhNo7GFDpi8ijSZO7VKRcWGPu5h_yvvk",
+      "driveRelativePath": "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Answer Key Key Whale Fall",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:16.494Z"
+    },
+    {
+      "assessmentId": "74-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.4 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1voOHEIAG-bWY3dUNXLTqb2wJsKEUikYAZu5d1wvLSHk",
+      "driveRelativePath": "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:47.218Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/7.4 Matter Cycling & Photosynthesis Unit Overview Materials.docx",
+      "driveFileId": "10y5O1uSBuAB1Yzoy9Uj8oAJqpj4wRz9KMk3z-3ZQPrA",
+      "driveRelativePath": "7.4 Matter Cycling & Photosynthesis Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-14T00:26:43.872Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/7.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1rPjlkaa8yXkpauX8VO2xQAxR88TQsnom4HGXK1lfOMA",
+      "driveRelativePath": "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:16.871Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "driveRelativePath": "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/7.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "19-TVEHu9NV-6d1RnXUfU_8ZFxhDlz5lzAEyYRChSpO0",
+      "driveRelativePath": "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:14.586Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1zWkV_q-h_Qxbgvdy-hrVfNkF01PXbzhFFvtxDEOFYfw",
+      "driveRelativePath": "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:06.583Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/7.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1JyTCnXlJLDZ3L7li8x2koeKOBLwdv_0nZJp4wWT_vG8",
+      "driveRelativePath": "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:48.446Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/7.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1-ACzP7lKWL6jZykcftUDP2xJzaNvxSOdyl4TtTj94Hg",
+      "driveRelativePath": "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:32.469Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/7.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1sTQJncFKO5PvvHQFbkeRXqvvfqdoIhhCyIUiulYfm1k",
+      "driveRelativePath": "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:13.719Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1SfW52sWZhKdEu_r9-XbpqxvVOPENDmTk7mxr1K8XBN8",
+      "driveRelativePath": "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:56.540Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/7.4 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1tYCWNTyuuuAQkZrF0sp6JRLj1gDiTCVoG-4K_RAGAX0",
+      "driveRelativePath": "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:26.999Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IY0lu7YMkn7GJ6zsfihy6tpBMUi3PTXg0KxAC7jzNOA",
+      "driveRelativePath": "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:08.684Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1KaZ9Jzixv8UZ-dzDBEo90OAkiz9fcAPuQ7kufmmXGXE",
+      "driveRelativePath": "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.362Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1rO0UkOkmSNKmhVRAjRjCUuWKV32UYNOUFXUqg4_a7Fc",
+      "driveRelativePath": "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:08.533Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "132QBqQ8Dozx4AqCiiCemxcCAREhGZsEt1A2jlokAHCs",
+      "driveRelativePath": "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:57.146Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "driveRelativePath": "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/7.4 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1voOHEIAG-bWY3dUNXLTqb2wJsKEUikYAZu5d1wvLSHk",
+      "driveRelativePath": "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:47.218Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Unit 7.4 Matter Cycling & Photosynthesis Video Links.pdf": {
+      "driveFileId": "1wbbx2oOQIhR3jh4XxT9IMZIZNI71F_8n",
+      "name": "Unit 7.4 Matter Cycling & Photosynthesis Video Links.pdf",
+      "modifiedTime": "2024-08-14T00:40:34.073Z"
+    },
+    "Unit 7.4 Advanced Preparation for Lab Investigations.pdf": {
+      "driveFileId": "1QwBbsDndLfoL3TJiP71DRkhn7T_Qzqcv",
+      "name": "Unit 7.4 Advanced Preparation for Lab Investigations.pdf",
+      "modifiedTime": "2024-08-14T00:40:33.120Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1Iy8u8IwYgwR59-tmNqNCw9eEVty8s5g3",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-14T00:40:32.224Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "10oxLAItaj5L1bX5pm-F5sEhpbPHFh4y9",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-14T00:40:31.013Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1gfayb-Abkgy1v4N1lRejDA_ZYET3wbAc",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-14T00:40:29.955Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "15Px8JWUeTivvg2p3mmTtmg3422ZTSeaJ",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-14T00:40:28.939Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1lINkXq8pPlNUW8ctJcVaWzC5E91Br-TV",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-14T00:40:27.701Z"
+    },
+    "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 9 Teacher Edition": {
+      "driveFileId": "1tYCWNTyuuuAQkZrF0sp6JRLj1gDiTCVoG-4K_RAGAX0",
+      "name": "7.4 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:40:26.999Z"
+    },
+    "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1ZhgFNl-i0Ag3ejOMKNuwsQGVVb3v0ddLAX_IvzChWO4",
+      "name": "7.4 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:40:22.594Z"
+    },
+    "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 9 Student Procedure": {
+      "driveFileId": "1mXH_p2wSy2Z0vU7tLwcYY8jMo-ZKE73E35q1rBqYsyE",
+      "name": "7.4 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-14T00:40:18.443Z"
+    },
+    "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 9 Slides": {
+      "driveFileId": "1qrP7izF5CQn8_OjlfScCMxQUE0d3HRxlBQhVN_3U9YU",
+      "name": "7.4 Lesson 9 Slides",
+      "modifiedTime": "2024-08-14T00:40:13.750Z"
+    },
+    "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 9 Handout Reading The History": {
+      "driveFileId": "1MVtv93R-ME0thQJ-vDALGgSsFH37toBcMVAcvdgJcGA",
+      "name": "7.4 Lesson 9 Handout Reading The History",
+      "modifiedTime": "2024-08-14T00:40:10.110Z"
+    },
+    "Lesson 9 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 9 Folleto Lectura La historia": {
+      "driveFileId": "18RS8Nxfl-tCuIOT-fRHZ41SVH8rV7XDSA_JiWeHOqEM",
+      "name": "7.4 Lección 9 Folleto Lectura La historia",
+      "modifiedTime": "2024-08-14T00:40:03.898Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Teacher Reference Teacher Reference Lesson": {
+      "driveFileId": "197wpitF_7zHZHFLeehwp7eAy5FH0sKZVwQmghRClYfc",
+      "name": "7.4 Lesson 8 Teacher Reference Teacher Reference Lesson",
+      "modifiedTime": "2024-08-14T00:39:59.381Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Teacher Edition": {
+      "driveFileId": "1SfW52sWZhKdEu_r9-XbpqxvVOPENDmTk7mxr1K8XBN8",
+      "name": "7.4 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:39:56.540Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1FzgyexgTyYSCOZF-K864h0RdVjh3hfeTlD8BF08uWrg",
+      "name": "7.4 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:51.817Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Student Procedure": {
+      "driveFileId": "1l8wFcsvunVpClip9K24JpfAS-pv1umIIDFMwkvvmCQs",
+      "name": "7.4 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:47.173Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Slides": {
+      "driveFileId": "1R5RsE-D3yNCP3HJ95BSxwxPLPlUkDvTB1VjkaYUp3Ow",
+      "name": "7.4 Lesson 8 Slides",
+      "modifiedTime": "2024-08-14T00:39:43.451Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Rubric Rubric for Modeling": {
+      "driveFileId": "1xpjiQrF1JA9CSTLaNRhdPvM99jRqug8sEzsr0m7fvGg",
+      "name": "7.4 Lesson 8 Rubric Rubric for Modeling",
+      "modifiedTime": "2024-08-14T00:39:37.220Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Handout Lesson 8 Gotta-Have-It": {
+      "driveFileId": "1d4ywm96hD0nBFfaKVyvLrrU5rSbBsKM-WgTPqkTWwRk",
+      "name": "7.4 Lesson 8 Handout Lesson 8 Gotta-Have-It",
+      "modifiedTime": "2024-08-14T00:39:34.307Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Assessment Individual Midpoint Assessment": {
+      "driveFileId": "12XXUf1iCq2ItN316t1789dCDchuGDQyHPvBsi9se4kE",
+      "name": "7.4 Lesson 8 Assessment Individual Midpoint Assessment",
+      "modifiedTime": "2024-08-14T00:39:31.940Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 8 Answer Key Individual Midpoint Assessment": {
+      "driveFileId": "1rHd9MSoERs08isUfFjcQ0BiQ6gE7_X3ag6du9KKTzd0",
+      "name": "7.4 Lesson 8 Answer Key Individual Midpoint Assessment",
+      "modifiedTime": "2024-08-14T00:39:26.534Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 8 Folleto Lección 8 Lista": {
+      "driveFileId": "1qZrj8kYblrNWTBxWeukYqejV7RvcJCBAXg1u0tsDRgY",
+      "name": "7.4 Lección 8 Folleto Lección 8 Lista",
+      "modifiedTime": "2024-08-14T00:39:21.169Z"
+    },
+    "Lesson 8 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 8 Evaluación Evaluación individual de": {
+      "driveFileId": "1I4jt9mMzsmCvr2gIqM3jMqogMmp__UNeUhC-vgoXfmM",
+      "name": "7.4 Lección 8 Evaluación Evaluación individual de",
+      "modifiedTime": "2024-08-14T00:39:18.356Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Teacher Edition": {
+      "driveFileId": "1sTQJncFKO5PvvHQFbkeRXqvvfqdoIhhCyIUiulYfm1k",
+      "name": "7.4 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:39:13.719Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1I0vW-xcgVhoUz_b09yiyT8O2zWxmWQibV-0SKw4F_QQ",
+      "name": "7.4 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:08.733Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Student Procedure": {
+      "driveFileId": "1q-Sq796WqPQYdja7ZWTiA0R9VPptdzI-u0Hv7DC80OI",
+      "name": "7.4 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:04.861Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Slides": {
+      "driveFileId": "1QOeD27t7RQacVrSSPx06GmusU413MjPb1sMVjtyURVg",
+      "name": "7.4 Lesson 7 Slides",
+      "modifiedTime": "2024-08-14T00:38:59.227Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Handout Reading How do": {
+      "driveFileId": "11XXyo19YTa9fL_DVlRgg2uclWOU8viw9ePkU36JH_fw",
+      "name": "7.4 Lesson 7 Handout Reading How do",
+      "modifiedTime": "2024-08-14T00:38:54.936Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Handout Obtaining Information from": {
+      "driveFileId": "12V4rxbAu6DOIhbpv1T7J0uINw35A8bDOBTu0GGV_b14",
+      "name": "7.4 Lesson 7 Handout Obtaining Information from",
+      "modifiedTime": "2024-08-14T00:38:50.690Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 7 Handout How many calories": {
+      "driveFileId": "1dreRyNJj9gpbGfpH4e5RZ77I4xEr6c-BOHNOvKW5VNM",
+      "name": "7.4 Lesson 7 Handout How many calories",
+      "modifiedTime": "2024-08-14T00:38:48.121Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 7 Folleto ¿Cuántas calorías hay": {
+      "driveFileId": "1uLgIPqlDqydLCOMJVmAY_q5uYupj14w4zHLa2wSZCWo",
+      "name": "7.4 Lección 7 Folleto ¿Cuántas calorías hay",
+      "modifiedTime": "2024-08-14T00:38:45.819Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 7 Folleto Lista de verificación": {
+      "driveFileId": "1TpnLuc51ab2wY8V2pMt4PU2jBSoN4Rg3g2dJFa3uSKk",
+      "name": "7.4 Lección 7 Folleto Lista de verificación",
+      "modifiedTime": "2024-08-14T00:38:43.447Z"
+    },
+    "Lesson 7 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 7 Folleto Lectura ¿Cómo miden": {
+      "driveFileId": "12TrSvJMsPiP90l7I9LAnoXYSfwh-KDrL8YQF-5OPJQA",
+      "name": "7.4 Lección 7 Folleto Lectura ¿Cómo miden",
+      "modifiedTime": "2024-08-14T00:38:40.326Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Teacher Edition": {
+      "driveFileId": "1-ACzP7lKWL6jZykcftUDP2xJzaNvxSOdyl4TtTj94Hg",
+      "name": "7.4 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:38:32.469Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1lMYrOT0BM3s2nLgGkRybap0RO0VfCfQfzvpH3pG-AVM",
+      "name": "7.4 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:38:27.803Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Student Procedure": {
+      "driveFileId": "1d94wHY-sMJNsP_AOqohQzmKNfEcuE9Xr5fQLEQ5sLCc",
+      "name": "7.4 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-14T00:38:22.802Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Slides": {
+      "driveFileId": "1fWPf6usgA-JSGm1n1Ovle7dgWqe6Gg3GWaiETI92c3Q",
+      "name": "7.4 Lesson 6 Slides",
+      "modifiedTime": "2024-08-14T00:38:19.323Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Reference Simulation Procedures": {
+      "driveFileId": "1EtYBIvMx5iZs-OmnY6Ox0zmbskqLvT_4NpCBDcwceXE",
+      "name": "7.4 Lesson 6 Reference Simulation Procedures",
+      "modifiedTime": "2024-08-14T00:38:15.671Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Reference Procedimientos de la": {
+      "driveFileId": "19shLl23bkstlWrh_yzjg53bQ1fCalfrnjs8NfgV4R4Q",
+      "name": "7.4 Lesson 6 Reference Procedimientos de la",
+      "modifiedTime": "2024-08-14T00:38:11.875Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Handout Planning and carrying": {
+      "driveFileId": "1fmRagM70iI7kqOG8PJ_cH0tKAkJgl6hTqwnLIPb0iqU",
+      "name": "7.4 Lesson 6 Handout Planning and carrying",
+      "modifiedTime": "2024-08-14T00:38:08.399Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 6 Handout Making sense of": {
+      "driveFileId": "1bDxSnhcrw3NSb0jXAUwXFLr9poOmBKurHF1JBPu1iVI",
+      "name": "7.4 Lesson 6 Handout Making sense of",
+      "modifiedTime": "2024-08-14T00:38:05.750Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 6 Referencia Procedimientos de la": {
+      "driveFileId": "1kWt4gjeCCleDYrGRnHKEa1HX17vCAONfYia6-1YLg18",
+      "name": "7.4 Lección 6 Referencia Procedimientos de la",
+      "modifiedTime": "2024-08-14T00:38:02.104Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 6 Folleto Planeando y realizando": {
+      "driveFileId": "1HMES4R_y_TPRSmvfvf6OfTingWzb7Lv1eE-nb0MhEbg",
+      "name": "7.4 Lección 6 Folleto Planeando y realizando",
+      "modifiedTime": "2024-08-14T00:37:58.408Z"
+    },
+    "Lesson 6 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 6 Folleto Haciendo sentido de": {
+      "driveFileId": "1gArkAtVWBZh_7sWYRIYpTKAEq_jhJrQphX5YY3_WZbU",
+      "name": "7.4 Lección 6 Folleto Haciendo sentido de",
+      "modifiedTime": "2024-08-14T00:37:53.750Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Teacher Edition": {
+      "driveFileId": "1JyTCnXlJLDZ3L7li8x2koeKOBLwdv_0nZJp4wWT_vG8",
+      "name": "7.4 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:48.446Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1RvXHvIzOq2gOKWtPvDrhv49zhuTfBGnZgqIIYrDHrpw",
+      "name": "7.4 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:43.797Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Student Procedure": {
+      "driveFileId": "13-U8Ldsi962ijH1Xx39K7_iw-7e9Q8nGBQsub0QiNr0",
+      "name": "7.4 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:39.872Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Slides": {
+      "driveFileId": "1JTyyqd4pKvhSxfSTpoFcxmslxzcAUD4D6WP_aOYj9Xs",
+      "name": "7.4 Lesson 5 Slides",
+      "modifiedTime": "2024-08-14T00:37:36.420Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Reference Microscopic Leaf Images": {
+      "driveFileId": "1s53l4JjNA0sRmfoRn3wh7ntTXeeBrUMpCNFU6FS9sDA",
+      "name": "7.4 Lesson 5 Reference Microscopic Leaf Images",
+      "modifiedTime": "2024-08-14T00:37:32.458Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Handout Reading Plant Cells": {
+      "driveFileId": "1drIq6KLABhIZkDVgfIC88sAbsbCPcq8SySAVJFardLM",
+      "name": "7.4 Lesson 5 Handout Reading Plant Cells",
+      "modifiedTime": "2024-08-14T00:37:27.383Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 5 Handout Leaf Observations": {
+      "driveFileId": "1n-GQz9Oj_fd6nYP4Gigjef1CR_iYWMCMva1EvjLf-Ys",
+      "name": "7.4 Lesson 5 Handout Leaf Observations",
+      "modifiedTime": "2024-08-14T00:37:22.655Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 5 Referencia Imágenes de hojas": {
+      "driveFileId": "110ZvbZ5WAI6eUQKgfJl1tNjzppZkrj5_ZEY0R6TnGWY",
+      "name": "7.4 Lección 5 Referencia Imágenes de hojas",
+      "modifiedTime": "2024-08-14T00:37:19.649Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 5 Folleto Observaciones de hojas": {
+      "driveFileId": "19Socou7McN8NaTGGT2cslP9xbZTTzZuSm_iMjmSAudE",
+      "name": "7.4 Lección 5 Folleto Observaciones de hojas",
+      "modifiedTime": "2024-08-14T00:37:16.287Z"
+    },
+    "Lesson 5 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 5 Folleto Lectura Células vegetales": {
+      "driveFileId": "11gs9JDnXbHWbSbxQaKKhnK52sEl9SULT39bbvCC2GH4",
+      "name": "7.4 Lección 5 Folleto Lectura Células vegetales",
+      "modifiedTime": "2024-08-14T00:37:13.952Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Reference Tips for teachers": {
+      "driveFileId": "1mnpqgTGHA8ZmpMXxqSGh_ov-iyY4wH7Kq_xMSBPSi9M",
+      "name": "7.4 Lesson 4 Teacher Reference Tips for teachers",
+      "modifiedTime": "2024-08-14T00:37:09.191Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Teacher Edition": {
+      "driveFileId": "1zWkV_q-h_Qxbgvdy-hrVfNkF01PXbzhFFvtxDEOFYfw",
+      "name": "7.4 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:06.583Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1KKPBX68FJj61a_UmZzhDO-U-f0CWpG7fjInLnzKOsKI",
+      "name": "7.4 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:02.087Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Student Procedure": {
+      "driveFileId": "10e-P8au6SPPqktS7fLNAy7GAMlN5SaYhVkOgzoAgBkY",
+      "name": "7.4 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:58.771Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Slides": {
+      "driveFileId": "1TRPknWSkkKNJzo6JeQOU1ZNECFPHTR-g2JbgV51MJPM",
+      "name": "7.4 Lesson 4 Slides",
+      "modifiedTime": "2024-08-14T00:36:52.259Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Reference Another Plant Experiment": {
+      "driveFileId": "1Wp5rbmYOAjRkWk0EMMaYhhOAxUeMBnzgyo21JLwGChU",
+      "name": "7.4 Lesson 4 Reference Another Plant Experiment",
+      "modifiedTime": "2024-08-14T00:36:48.225Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Handout Investigating Above the": {
+      "driveFileId": "1wGkq44uKnr7pLZJhIzC-Df1VBB66Hndvema7OunsXlM",
+      "name": "7.4 Lesson 4 Handout Investigating Above the",
+      "modifiedTime": "2024-08-14T00:36:43.639Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Handout Data from Leaves": {
+      "driveFileId": "1nKVlQ3WoEt2L6HjYLHi1QvJqv2AtK9KSs0CeY1V8jaA",
+      "name": "7.4 Lesson 4 Handout Data from Leaves",
+      "modifiedTime": "2024-08-14T00:36:41.345Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Assessment Comparing and Critiquing": {
+      "driveFileId": "1jAUxaXyolMpPFBmVJ7o4LbDtuErit9cUW98ih2auMgA",
+      "name": "7.4 Lesson 4 Assessment Comparing and Critiquing",
+      "modifiedTime": "2024-08-14T00:36:37.154Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 4 Answer Key Key Lesson 4": {
+      "driveFileId": "1cS1stht6qsnjkb38vdDPHfwZA-VpN8DS5-J0cTBB4ug",
+      "name": "7.4 Lesson 4 Answer Key Key Lesson 4",
+      "modifiedTime": "2024-08-14T00:36:33.711Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 4 Referencia Otro experimento con": {
+      "driveFileId": "1knR0Ph2szfXfuXb7U50JRwjxSRvjoQma2XpIg6LDP1U",
+      "name": "7.4 Lección 4 Referencia Otro experimento con",
+      "modifiedTime": "2024-08-14T00:36:30.840Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 4 Folleto Investigación de entradas": {
+      "driveFileId": "1qVRY-biLYvfgVLprbzMhb9uRYk-bKFPb4psSjL87v6E",
+      "name": "7.4 Lección 4 Folleto Investigación de entradas",
+      "modifiedTime": "2024-08-14T00:36:26.340Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 4 Folleto Datos de hojas": {
+      "driveFileId": "1B9NLJxkiN6ss2UduohrD3zI4tkE0YF1ola3sKKDIhXI",
+      "name": "7.4 Lección 4 Folleto Datos de hojas",
+      "modifiedTime": "2024-08-14T00:36:23.833Z"
+    },
+    "Lesson 4 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 4 Evaluación Comparación y crítica": {
+      "driveFileId": "11gF_LQmrDyH__bqski7TqDrIyaVdDMOyIHDbg0h953k",
+      "name": "7.4 Lección 4 Evaluación Comparación y crítica",
+      "modifiedTime": "2024-08-14T00:36:19.457Z"
+    },
+    "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 3 Teacher Edition": {
+      "driveFileId": "19-TVEHu9NV-6d1RnXUfU_8ZFxhDlz5lzAEyYRChSpO0",
+      "name": "7.4 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:36:14.586Z"
+    },
+    "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1pUnJATli9vuWAEVcSueA9lD0UHm1KlNc-4PeMUwtC6c",
+      "name": "7.4 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:10.113Z"
+    },
+    "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 3 Student Procedure": {
+      "driveFileId": "1IuPxBb5MtnYT1aes85LokRGIFViq5rbPhDSH_djDZMw",
+      "name": "7.4 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:06.605Z"
+    },
+    "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 3 Slides": {
+      "driveFileId": "1pRqsFswKRtt6iju2NyYVDdlZFkS6pvg9o0xVN53zh_U",
+      "name": "7.4 Lesson 3 Slides",
+      "modifiedTime": "2024-08-14T00:36:02.980Z"
+    },
+    "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 3 Reference Composition of Air": {
+      "driveFileId": "1HsvR6GU1VsRXqoquzXMptIDcJLkpSMx6oOLs3yBEwyE",
+      "name": "7.4 Lesson 3 Reference Composition of Air",
+      "modifiedTime": "2024-08-14T00:35:58.738Z"
+    },
+    "Lesson 3 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 3 Referencia Composición del aire": {
+      "driveFileId": "1YC8stsYEGKqHzwExyTtb_nO9Q6KHtG5mEo_tW34uOVk",
+      "name": "7.4 Lección 3 Referencia Composición del aire",
+      "modifiedTime": "2024-08-14T00:35:54.988Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Reference Details of the": {
+      "driveFileId": "1VvpHQ3bDbF6CNhUmb3loAvQ1Gx3UaNnIRJ7Yl-Ziu0E",
+      "name": "7.4 Lesson 2 Teacher Reference Details of the",
+      "modifiedTime": "2024-08-14T00:35:48.883Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Teacher Edition": {
+      "driveFileId": "16a-FJOfIGJTA81QwILnG_Q03mr1KVLV57WfjX2VPbEU",
+      "name": "7.4 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:44.401Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "10wOfIrnEveMrdbb9PGjc7jI-NuAUPTu8rlUaYKdJZDY",
+      "name": "7.4 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:39.424Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Student Procedure": {
+      "driveFileId": "1zHwR5fZ7B0gHYXeKUBOQK3et7-rF-hjK-FMuWCsr-YM",
+      "name": "7.4 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:35.263Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Slides": {
+      "driveFileId": "1MqnN0ggmxeksPEi15rAlJTSTV-3kspW93xyL5AdY7wA",
+      "name": "7.4 Lesson 2 Slides",
+      "modifiedTime": "2024-08-14T00:35:30.773Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Reference Lab experiment using": {
+      "driveFileId": "1ZZjCRLPUvC_-vUKSWScMmskstQ2eULka0aAs1-qdCgk",
+      "name": "7.4 Lesson 2 Reference Lab experiment using",
+      "modifiedTime": "2024-08-14T00:35:25.082Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Reference Details of the": {
+      "driveFileId": "1ejWUdWVksjQId_iqoFT9v0WjlTkFqpN5HHIh7f9xQf0",
+      "name": "7.4 Lesson 2 Reference Details of the",
+      "modifiedTime": "2024-08-14T00:35:19.434Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Handout Which food molecules": {
+      "driveFileId": "1bUhzxKVThHhXYY9UfJHN4KiTFAT2uhvAEVpoEcAPyis",
+      "name": "7.4 Lesson 2 Handout Which food molecules",
+      "modifiedTime": "2024-08-14T00:35:14.907Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Handout Self-Assessment for Classroom": {
+      "driveFileId": "1ySTPiMnkoVDFpTpIMbSVPNNvN0Y3Gv0DehZv2n1bYQs",
+      "name": "7.4 Lesson 2 Handout Self-Assessment for Classroom",
+      "modifiedTime": "2024-08-14T00:35:12.114Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 2 Handout Photos of plants": {
+      "driveFileId": "1SPQldpQU5anIs2zOUt-msrh-7tqPPiCCyoNtnufLWwE",
+      "name": "7.4 Lesson 2 Handout Photos of plants",
+      "modifiedTime": "2024-08-14T00:35:09.743Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 2 Referencia Experimento de laboratorio": {
+      "driveFileId": "1VkeMLSfV3MGTiBRtB4Bk3CuizXW2eXl82IPIHAwdAWo",
+      "name": "7.4 Lección 2 Referencia Experimento de laboratorio",
+      "modifiedTime": "2024-08-14T00:35:05.681Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 2 Referencia Detalles del sistema": {
+      "driveFileId": "1OXTO68KQ_fNx6Y27g6qehHsfRi4gjjxRgnQKSgK2R-w",
+      "name": "7.4 Lección 2 Referencia Detalles del sistema",
+      "modifiedTime": "2024-08-14T00:35:01.547Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 2 Folleto ¿Qué moléculas alimenticias": {
+      "driveFileId": "10GZ0UYG8GgOrlyZ2V7EYFD5AeE0QgOLU_bO_9cEjUDg",
+      "name": "7.4 Lección 2 Folleto ¿Qué moléculas alimenticias",
+      "modifiedTime": "2024-08-14T00:34:56.974Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 2 Folleto Fotos de plantas": {
+      "driveFileId": "1-3H8hPJGvW_edjAqaPpNzZzEDNou1W4rLSVxhyBrRos",
+      "name": "7.4 Lección 2 Folleto Fotos de plantas",
+      "modifiedTime": "2024-08-14T00:34:54.218Z"
+    },
+    "Lesson 2 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 2 Folleto Autoevaluación de la": {
+      "driveFileId": "1qSllFotxwwoBWkbUlroOEPlZLbSD7tdp7u_IaNi70Ak",
+      "name": "7.4 Lección 2 Folleto Autoevaluación de la",
+      "modifiedTime": "2024-08-14T00:34:50.178Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Teacher Edition": {
+      "driveFileId": "1voOHEIAG-bWY3dUNXLTqb2wJsKEUikYAZu5d1wvLSHk",
+      "name": "7.4 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:34:47.218Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1evQd6tkwAmfIcQ1GLtuMp8D35nIM9S6I1J5d2ejWE6s",
+      "name": "7.4 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:42.027Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Student Procedure": {
+      "driveFileId": "1buLF_-bCP1gLdXVsT7BctnEWpZEUoyF_Q9TfM36h5gg",
+      "name": "7.4 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:37.832Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Slides": {
+      "driveFileId": "1Jz_E1oj6DQFaF5wRV9WTOPHoFfYTxYtwG9et4Eq7Xtg",
+      "name": "7.4 Lesson 15 Slides",
+      "modifiedTime": "2024-08-14T00:34:33.627Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Rubric End of Unit": {
+      "driveFileId": "16ATi5TE8GUwhJffKhsK2nrCKX4WbuCOAd1FDxqzMgsg",
+      "name": "7.4 Lesson 15 Rubric End of Unit",
+      "modifiedTime": "2024-08-14T00:34:29.695Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Handout Transcript Whale Fall": {
+      "driveFileId": "1Sy8qtp38tPmmXTa17b8VXnp9gEsHaxiDYo9pYbRPsgc",
+      "name": "7.4 Lesson 15 Handout Transcript Whale Fall",
+      "modifiedTime": "2024-08-14T00:34:26.924Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Handout Reviewing Our Driving": {
+      "driveFileId": "1HEHrrFJBBl0IKLpAAXPbTiB3WaCaw_USqyu6flW7X84",
+      "name": "7.4 Lesson 15 Handout Reviewing Our Driving",
+      "modifiedTime": "2024-08-14T00:34:24.231Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Assessment Whale Fall Task": {
+      "driveFileId": "1PcpydeqYjGjKFXtJ2ZCz7xuHflBx1qotqF7BIV2RP4E",
+      "name": "7.4 Lesson 15 Assessment Whale Fall Task",
+      "modifiedTime": "2024-08-14T00:34:21.287Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 15 Answer Key Key Whale Fall": {
+      "driveFileId": "1PT8KGICDVR_rhNo7GFDpi8ijSZO7VKRcWGPu5h_yvvk",
+      "name": "7.4 Lesson 15 Answer Key Key Whale Fall",
+      "modifiedTime": "2024-08-14T00:34:16.494Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 15 Folleto Transcripción Caída de": {
+      "driveFileId": "1CowoieZCyWY4VClsVjaMem51vPZQsK2X9HNtJHs5iTQ",
+      "name": "7.4 Lección 15 Folleto Transcripción Caída de",
+      "modifiedTime": "2024-08-14T00:34:12.266Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 15 Folleto Revisando nuestro Registro": {
+      "driveFileId": "16SX2U5AgJB54leJMD8IDRXMYHiSAwTF24LbyUlFnP-Y",
+      "name": "7.4 Lección 15 Folleto Revisando nuestro Registro",
+      "modifiedTime": "2024-08-14T00:34:09.998Z"
+    },
+    "Lesson 15 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 15 Evaluación Tarea de caída": {
+      "driveFileId": "1-4sXe8qqsX4rzVxxFY8GDMMzBkkmge_GJNNqKPDTKDI",
+      "name": "7.4 Lección 15 Evaluación Tarea de caída",
+      "modifiedTime": "2024-08-14T00:34:07.313Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Reference Reference Peer Feedback": {
+      "driveFileId": "1RbFLogDkuDBF4so1wXeGmFWD9qSgqpY_8Y2p9OhUUg0",
+      "name": "7.4 Lesson 14 Teacher Reference Reference Peer Feedback",
+      "modifiedTime": "2024-08-14T00:34:00.007Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Teacher Edition": {
+      "driveFileId": "1iiGo46hsoLtFm5vyfAMpJnJ9ZWRLgQlD_lOpi4jkabI",
+      "name": "7.4 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:33:57.292Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1olOSVRQj_sAkVZBcZEzM7GaYHEVwlrizxr2hQX8gWfM",
+      "name": "7.4 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:33:51.992Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Student Procedure": {
+      "driveFileId": "1HD564bwepoL2sgf2McFJjPDrudrIXMWQTEichk6h4dQ",
+      "name": "7.4 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-14T00:33:47.731Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Slides": {
+      "driveFileId": "1yowrzI9sNrgr5pqxLzUzbesfNosrAyphQwvKo9gILp0",
+      "name": "7.4 Lesson 14 Slides",
+      "modifiedTime": "2024-08-14T00:33:44.018Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1p7ubabvKbZJGTStPX74DagA7_hZXxHxB1CZzWwrw-XI",
+      "name": "7.4 Lesson 14 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:33:40.063Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Handout Self-Assessment": {
+      "driveFileId": "1-B9iknMxaNtBi3e6f1QXCcVmHv85deco872azdmJWQg",
+      "name": "7.4 Lesson 14 Handout Self-Assessment",
+      "modifiedTime": "2024-08-14T00:33:36.561Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Handout Lesson 14 Gotta-Have-It": {
+      "driveFileId": "1lHiw4wc_r583tPR30-SM14bikgwd859hSwcAVIQjpq8",
+      "name": "7.4 Lesson 14 Handout Lesson 14 Gotta-Have-It",
+      "modifiedTime": "2024-08-14T00:33:33.855Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Assessment Story of a": {
+      "driveFileId": "1PLd3euOYVhl0UatjrW-S9GuKuCy5y1lyMVa5HZP3DfI",
+      "name": "7.4 Lesson 14 Assessment Story of a",
+      "modifiedTime": "2024-08-14T00:33:25.021Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Assessment Historia de un": {
+      "driveFileId": "1F4Nfa6fzgM0iHNbdx-HyKIHQ6n9OqK6cm1psbE5RXdg",
+      "name": "7.4 Lesson 14 Assessment Historia de un",
+      "modifiedTime": "2024-08-14T00:33:20.741Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Answer Key Key Story of": {
+      "driveFileId": "1Q3vOKsvuu-8qfr3RMu_iksKXFkrvRHOH-WMj1F5MHlU",
+      "name": "7.4 Lesson 14 Answer Key Key Story of",
+      "modifiedTime": "2024-08-14T00:33:17.806Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 14 Answer Key Key Lesson 14": {
+      "driveFileId": "1cYAQajWOV1M8cMmO7aRcxnJselU9SCgHbhtZif8V-YQ",
+      "name": "7.4 Lesson 14 Answer Key Key Lesson 14",
+      "modifiedTime": "2024-08-14T00:33:15.240Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 14 Referencia Pautas para la": {
+      "driveFileId": "1PO2XhkHVy3BTefOh4-zY7kaycAp_6OTL8NBFaDk6tjI",
+      "name": "7.4 Lección 14 Referencia Pautas para la",
+      "modifiedTime": "2024-08-14T00:33:12.225Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 14 Folleto Lección 14 Lista": {
+      "driveFileId": "1Jmk-qx2FB_TG3y7x8-Hqwxbge22WclEqSBBtBzeYwoI",
+      "name": "7.4 Lección 14 Folleto Lección 14 Lista",
+      "modifiedTime": "2024-08-14T00:33:08.048Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 14 Folleto Auto evaluación": {
+      "driveFileId": "1PpFiZxPsJhA0tjWnSReUI70WBU0usDwGGG7TogrQm2U",
+      "name": "7.4 Lección 14 Folleto Auto evaluación",
+      "modifiedTime": "2024-08-14T00:33:05.621Z"
+    },
+    "Lesson 14 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 14 Evaluación Historia de un": {
+      "driveFileId": "1CqIPLaC3P1FrTSoWKNHzfdP7F4c26B6E7mFlOjlmYS4",
+      "name": "7.4 Lección 14 Evaluación Historia de un",
+      "modifiedTime": "2024-08-14T00:33:02.862Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Teacher Edition": {
+      "driveFileId": "132QBqQ8Dozx4AqCiiCemxcCAREhGZsEt1A2jlokAHCs",
+      "name": "7.4 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:32:57.146Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1mgoFE0ylLY0A2fJLzPX7gYXegVlrwWC5wKbFFTGfcgE",
+      "name": "7.4 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:32:52.984Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Student Procedure": {
+      "driveFileId": "1xegwZupOfs0p66lwC4PWmXZbOxP0HKfp7Vm80-2RZRE",
+      "name": "7.4 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-14T00:32:48.187Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Slides": {
+      "driveFileId": "1iEIuG3C-WVeD2FUE16BRDL5-jE_qCYW51RxIkjsNtu4",
+      "name": "7.4 Lesson 13 Slides",
+      "modifiedTime": "2024-08-14T00:32:44.401Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Reference Data from food": {
+      "driveFileId": "1PbylW1b_Wh8uXmbCdXzjtMXktYsZ9Ud_GDrckhKxX0g",
+      "name": "7.4 Lesson 13 Reference Data from food",
+      "modifiedTime": "2024-08-14T00:32:39.502Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Handout What changes are": {
+      "driveFileId": "1ndkarIwEl_W1BYZJTfY5qK8pt8Yn3Zpa4YSpLCoJvNw",
+      "name": "7.4 Lesson 13 Handout What changes are",
+      "modifiedTime": "2024-08-14T00:32:34.911Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Handout Reading Organisms that": {
+      "driveFileId": "1L6613VMl0Y7DtlwpVvCnjxSY_BAVqqoUX6p_Z8_5oKY",
+      "name": "7.4 Lesson 13 Handout Reading Organisms that",
+      "modifiedTime": "2024-08-14T00:32:32.411Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 13 Handout Obtaining and Communicating": {
+      "driveFileId": "1hQ4_J8UQoCZowmZfcfqHs7UZwDrwRrcycV3_EumHO-I",
+      "name": "7.4 Lesson 13 Handout Obtaining and Communicating",
+      "modifiedTime": "2024-08-14T00:32:28.001Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 13 Referencia Datos de alimentos": {
+      "driveFileId": "1OZL9FHEjIYatifIdnNJA0Mup9PtMM8Pz44JEnxHJyOI",
+      "name": "7.4 Lección 13 Referencia Datos de alimentos",
+      "modifiedTime": "2024-08-14T00:32:25.224Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 13 Folleto ¿Qué cambios están": {
+      "driveFileId": "1fpnWhdwpYxVycHNqtbWZLWITbVeDa0aD1BYN35AMnoo",
+      "name": "7.4 Lección 13 Folleto ¿Qué cambios están",
+      "modifiedTime": "2024-08-14T00:32:19.138Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 13 Folleto Lista de verificación": {
+      "driveFileId": "1QXv285koxSxZeDSG2BzsWDfklm_dU3fL23h9hxLHgeA",
+      "name": "7.4 Lección 13 Folleto Lista de verificación",
+      "modifiedTime": "2024-08-14T00:32:16.806Z"
+    },
+    "Lesson 13 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 13 Folleto Lectura Organismos que": {
+      "driveFileId": "1u1cvHLOK-22ekjlW_tdLb4oGqtDZ6AWJb2iPhlVcybc",
+      "name": "7.4 Lección 13 Folleto Lectura Organismos que",
+      "modifiedTime": "2024-08-14T00:32:13.909Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Teacher Edition": {
+      "driveFileId": "1rO0UkOkmSNKmhVRAjRjCUuWKV32UYNOUFXUqg4_a7Fc",
+      "name": "7.4 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:32:08.533Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "13FbNzaTHj2OEr8QXlMZ7C-B4_E2aA34PNcA5WLZBPj8",
+      "name": "7.4 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:32:03.675Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Student Procedure": {
+      "driveFileId": "1vB68HIJzwbnzRNHoDmDX90BrJ1xMm3-3pAlceGK5D98",
+      "name": "7.4 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-14T00:31:59.752Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Slides": {
+      "driveFileId": "1A8M2bm_kLO8RXNDNa2J5eHIrHaFhVj-_ctUrMdbAWrw",
+      "name": "7.4 Lesson 12 Slides",
+      "modifiedTime": "2024-08-14T00:31:55.587Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Reference What happens when": {
+      "driveFileId": "1U4l9n7rD44i7t1Fk09RqvnB7Pbz19YXhmlrLbpJjULg",
+      "name": "7.4 Lesson 12 Reference What happens when",
+      "modifiedTime": "2024-08-14T00:31:49.112Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Transcript Making Sap": {
+      "driveFileId": "1mdFlnx99ajRiVUijNjpLxQQEtu23mnGjhky-pFr3ZxI",
+      "name": "7.4 Lesson 12 Handout Transcript Making Sap",
+      "modifiedTime": "2024-08-14T00:31:43.893Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Transcript How Flour": {
+      "driveFileId": "1-6a7yfY9jktRbS_l2Syy5YD5fMvVrB7NFc93FqB6Yz8",
+      "name": "7.4 Lesson 12 Handout Transcript How Flour",
+      "modifiedTime": "2024-08-14T00:31:41.235Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading Where else": {
+      "driveFileId": "1C4JDVxvFhAI7PftIcVTeels8V-foRe7rlO9I-arU0h0",
+      "name": "7.4 Lesson 12 Handout Reading Where else",
+      "modifiedTime": "2024-08-14T00:31:38.416Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading Sugar": {
+      "driveFileId": "19e1tbppZw6BbqGfNg6h9ypFi43725WcqnPbQtNn6WEY",
+      "name": "7.4 Lesson 12 Handout Reading Sugar",
+      "modifiedTime": "2024-08-14T00:31:35.348Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading Sucralose": {
+      "driveFileId": "1aa8Jg_fDfgK1uCBUGiLQLs9KTnwkHclG4sHXIIPv6qA",
+      "name": "7.4 Lesson 12 Handout Reading Sucralose",
+      "modifiedTime": "2024-08-14T00:31:30.137Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading Stevia": {
+      "driveFileId": "14L4gwMYcHyXWS-gxHGRqUpa81ompoKOlzP9UQZ_X5Rc",
+      "name": "7.4 Lesson 12 Handout Reading Stevia",
+      "modifiedTime": "2024-08-14T00:31:26.523Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading Honey": {
+      "driveFileId": "1Ph8E1pWvM38-S1isxN6HdwkYSqLcdVyaehsywqFC954",
+      "name": "7.4 Lesson 12 Handout Reading Honey",
+      "modifiedTime": "2024-08-14T00:31:21.398Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading High Fructose": {
+      "driveFileId": "1LihxI8XEhJmnohkUPhOYr_QuY-Zja_b6tDwJhMTJSFA",
+      "name": "7.4 Lesson 12 Handout Reading High Fructose",
+      "modifiedTime": "2024-08-14T00:31:17.836Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading Chicken and": {
+      "driveFileId": "1rVglDFIKnWUo-Zl3yLE5EnQ5UUQu3PfuI78CxaDLN6Y",
+      "name": "7.4 Lesson 12 Handout Reading Chicken and",
+      "modifiedTime": "2024-08-14T00:31:14.168Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 12 Handout Reading Agave Syrup": {
+      "driveFileId": "1DBMSUwQMW5koIDawGYOGBEUzmZbHWF1RCTFzWh8NgCc",
+      "name": "7.4 Lesson 12 Handout Reading Agave Syrup",
+      "modifiedTime": "2024-08-14T00:31:10.322Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Referencia ¿Qué pasa cuando": {
+      "driveFileId": "1IiTOGwa998TKnUoRu1xmOMNpaU7lXEaaQrDP0Wd95Mw",
+      "name": "7.4 Lección 12 Referencia ¿Qué pasa cuando",
+      "modifiedTime": "2024-08-14T00:31:04.395Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Transcripción Cómo se": {
+      "driveFileId": "1CfoRXp-Zl1WunMsLEX1gwWzYZba9DhEVH_jhb0Gl3wU",
+      "name": "7.4 Lección 12 Folleto Transcripción Cómo se",
+      "modifiedTime": "2024-08-14T00:31:01.035Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Transcripción Convertir la": {
+      "driveFileId": "1ONj5aPunUoDKSWQs-89U1LaFrVbUa2-A9Kc5x5jN84A",
+      "name": "7.4 Lección 12 Folleto Transcripción Convertir la",
+      "modifiedTime": "2024-08-14T00:30:58.323Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura ¿De dónde": {
+      "driveFileId": "17_5zH09iFG9HSuk1koaeAN83x65OWKZJpw-s9ddUDkE",
+      "name": "7.4 Lección 12 Folleto Lectura ¿De dónde",
+      "modifiedTime": "2024-08-14T00:30:55.582Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura Sucralosa": {
+      "driveFileId": "1j7zj7E5InVX9Fe7nYPvKHTXlSRWE3EXeQDNNqREPkBY",
+      "name": "7.4 Lección 12 Folleto Lectura Sucralosa",
+      "modifiedTime": "2024-08-14T00:30:52.671Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura Stevia": {
+      "driveFileId": "1ueYo7wGwbq-Wvpr3C2YJaUPbVv0l2a4dLa8ZVmKzbKM",
+      "name": "7.4 Lección 12 Folleto Lectura Stevia",
+      "modifiedTime": "2024-08-14T00:30:48.852Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura Miel": {
+      "driveFileId": "1nCV_WkapzxgxzpjXi1S4YDz9lY3D0LQSaKxpp5BOfcQ",
+      "name": "7.4 Lección 12 Folleto Lectura Miel",
+      "modifiedTime": "2024-08-14T00:30:44.166Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura Jarabe de": {
+      "driveFileId": "1KXCdhzUVLiQInTFrJKFC_Tu17GCXjuxXVIuneLsPW2k",
+      "name": "7.4 Lección 12 Folleto Lectura Jarabe de",
+      "modifiedTime": "2024-08-14T00:30:39.732Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura El jarabe": {
+      "driveFileId": "1fAoPO3cRAVb9uzqY6nRz8Xc-j8n5zkidFLTPjmtpvXk",
+      "name": "7.4 Lección 12 Folleto Lectura El jarabe",
+      "modifiedTime": "2024-08-14T00:30:35.482Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura Dietas para": {
+      "driveFileId": "1ziLy1EMOO32sOf29QhjTZsNFhev0qchkFv_0w3_pX9w",
+      "name": "7.4 Lección 12 Folleto Lectura Dietas para",
+      "modifiedTime": "2024-08-14T00:30:30.862Z"
+    },
+    "Lesson 12 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 12 Folleto Lectura Azúcar": {
+      "driveFileId": "1s8KClBkzsijmYg8OV8AIMbzYTBFKFKsLvl8B6nZ52a0",
+      "name": "7.4 Lección 12 Folleto Lectura Azúcar",
+      "modifiedTime": "2024-08-14T00:30:27.329Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Teacher Edition": {
+      "driveFileId": "1KaZ9Jzixv8UZ-dzDBEo90OAkiz9fcAPuQ7kufmmXGXE",
+      "name": "7.4 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:30:22.362Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1DGsxVwmkz9gwBPFWtA7164BfvcZT9rFmn6fknSVcgTU",
+      "name": "7.4 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:30:17.285Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Student Procedure": {
+      "driveFileId": "1dgLA_pCh6Z5duxh4z0UFF4N-MlcMiYCZYbteoPubo7A",
+      "name": "7.4 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-14T00:30:12.141Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Slides": {
+      "driveFileId": "1vcgVyyxyXYEbQzX84GkSkHaHzFmidWYLkJ4S_LUbk4w",
+      "name": "7.4 Lesson 11 Slides",
+      "modifiedTime": "2024-08-14T00:30:07.972Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Rubric Rubric Engaging in": {
+      "driveFileId": "1ITUqx8YJVOmCAtFtQjgVMUhwijnGa_nuy1p9yE5dqkk",
+      "name": "7.4 Lesson 11 Rubric Rubric Engaging in",
+      "modifiedTime": "2024-08-14T00:30:03.994Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Reference Sprouting Seeds Procedure": {
+      "driveFileId": "1ueBxF2jsnsqYE-sxBr2ZsLmVedKTmL0PyTgiLRM0ong",
+      "name": "7.4 Lesson 11 Reference Sprouting Seeds Procedure",
+      "modifiedTime": "2024-08-14T00:30:00.945Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Reference Close Reading Strategies": {
+      "driveFileId": "1HLUDb7IhEl0g_Wtlzo-4a7x_pHkktgu5dBsBS-Sa5F4",
+      "name": "7.4 Lesson 11 Reference Close Reading Strategies",
+      "modifiedTime": "2024-08-14T00:29:56.107Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Handout Reading How do": {
+      "driveFileId": "1T7qD7TU5xTO2r4Y0J9jVL2jWnydX39vc-cMkk-Wxx1I",
+      "name": "7.4 Lesson 11 Handout Reading How do",
+      "modifiedTime": "2024-08-14T00:29:53.152Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Handout Beans and BTB": {
+      "driveFileId": "1AWXcmrZj5WUuCuD5ZDG1bRQWF4YdY9ytSR29qYo1YK8",
+      "name": "7.4 Lesson 11 Handout Beans and BTB",
+      "modifiedTime": "2024-08-14T00:29:49.003Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Assessment Maple Tree through": {
+      "driveFileId": "1UcuRUUWwIiGKVWlkq8YtRI7VczFI63Xt8wn0oMA19i4",
+      "name": "7.4 Lesson 11 Assessment Maple Tree through",
+      "modifiedTime": "2024-08-14T00:29:46.286Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Answer Key Key Maple Tree": {
+      "driveFileId": "11Z3Iq5otItLhEqhcW5NmOOOVHUNGLkLouGxAG40uuWQ",
+      "name": "7.4 Lesson 11 Answer Key Key Maple Tree",
+      "modifiedTime": "2024-08-14T00:29:41.461Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 11 Answer Key Key Annotations for": {
+      "driveFileId": "15q7zwjsoWCXEmtw-aR8FSGG64ecYRytUaJwbML1RHes",
+      "name": "7.4 Lesson 11 Answer Key Key Annotations for",
+      "modifiedTime": "2024-08-14T00:29:38.856Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 11 Referencia Procedimientos para brotes": {
+      "driveFileId": "1nYYvcMF_Gs4K7a8iZUp2dGzgEfElYPQgFEOwzywHMlI",
+      "name": "7.4 Lección 11 Referencia Procedimientos para brotes",
+      "modifiedTime": "2024-08-14T00:29:34.290Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 11 Referencia Estrategias para hacer": {
+      "driveFileId": "1epa4j6RhKKCsUll2w3Qp97aZjx2rHbT_0OilbXRhV8U",
+      "name": "7.4 Lección 11 Referencia Estrategias para hacer",
+      "modifiedTime": "2024-08-14T00:29:25.040Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 11 Folleto Tabla de datos": {
+      "driveFileId": "1stBIcfPC_enoarUSZ3Tb-o9Ffwi5HHR4arR7w69gCoE",
+      "name": "7.4 Lección 11 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-14T00:29:24.112Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 11 Folleto Lectura ¿Cómo usan": {
+      "driveFileId": "1Lwhew6DF3vFdk4FF7Qq_HLjR97ywRT58OJ7QYioUrBk",
+      "name": "7.4 Lección 11 Folleto Lectura ¿Cómo usan",
+      "modifiedTime": "2024-08-14T00:29:14.974Z"
+    },
+    "Lesson 11 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 11 Evaluación Explicación del árbol": {
+      "driveFileId": "19B6pwP5wmHdAjpGcmzMJ0YOZz_NogfFZby1-H9-QbQ0",
+      "name": "7.4 Lección 11 Evaluación Explicación del árbol",
+      "modifiedTime": "2024-08-14T00:29:13.852Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Teacher Edition": {
+      "driveFileId": "1IY0lu7YMkn7GJ6zsfihy6tpBMUi3PTXg0KxAC7jzNOA",
+      "name": "7.4 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:29:08.684Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1_brVFEDOpJDU-Mtyob6A1jX3mx-yMGne_TEK987FDSE",
+      "name": "7.4 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:29:03.433Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Student Procedure": {
+      "driveFileId": "16acXnxt10VUXCuZyz1KwsCVLQ7oCGQ_6FOU1-V7utLE",
+      "name": "7.4 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-14T00:28:56.708Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Slides": {
+      "driveFileId": "1jzpKdcP7fKGApZNFKteQi2DwK1HSpgT7wqjGzhPL9ao",
+      "name": "7.4 Lesson 10 Slides",
+      "modifiedTime": "2024-08-14T00:28:52.100Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Reference Another Plant Experiment": {
+      "driveFileId": "1sEJy7MjHc83eAZ_ONgtCRpd4P-5u4xf5d0LJRiYM2P8",
+      "name": "7.4 Lesson 10 Reference Another Plant Experiment",
+      "modifiedTime": "2024-08-14T00:28:47.218Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Handout Secondhand Data for": {
+      "driveFileId": "1xw69YfJI4eenfO5A62uk1jrzzGd1T98jJui0Z5Kes4c",
+      "name": "7.4 Lesson 10 Handout Secondhand Data for",
+      "modifiedTime": "2024-08-14T00:28:41.963Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Handout Lista de verificación": {
+      "driveFileId": "1ysHa0-zN174_iVXu6r5hiAPqFPWrVwIdSLhhUyGPTKI",
+      "name": "7.4 Lesson 10 Handout Lista de verificación",
+      "modifiedTime": "2024-08-14T00:28:36.995Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Handout Data Table for": {
+      "driveFileId": "1DmD8ea7JerYKT3VX1eHDTx0qvTJpRiJPbuNvLJ_qU8w",
+      "name": "7.4 Lesson 10 Handout Data Table for",
+      "modifiedTime": "2024-08-14T00:28:34.031Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 10 Handout Communicating Information from": {
+      "driveFileId": "1C-g5rR2Uc6Sj3kskLGY1iBSTtSWIaPvJBWwdCnzXpuI",
+      "name": "7.4 Lesson 10 Handout Communicating Information from",
+      "modifiedTime": "2024-08-14T00:28:31.385Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 10 Referencia Otro experimento con": {
+      "driveFileId": "1qdntqGLLrZrmvGkxMqFhIyooPes3bhkNhy3ZBNBjbaM",
+      "name": "7.4 Lección 10 Referencia Otro experimento con",
+      "modifiedTime": "2024-08-14T00:28:29.064Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 10 Folleto Tabla de datos": {
+      "driveFileId": "1R5uxXygjNYBKUrQGV--b5jzm1B_u6l-QsSAzOZIcFAk",
+      "name": "7.4 Lección 10 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-14T00:28:24.405Z"
+    },
+    "Lesson 10 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 10 Folleto Datos de segunda": {
+      "driveFileId": "1KnUuaMwjjfiGRa9vMkvxSs86IekiAsuFICLIhtJ5LLU",
+      "name": "7.4 Lección 10 Folleto Datos de segunda",
+      "modifiedTime": "2024-08-14T00:28:21.702Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Teacher Edition": {
+      "driveFileId": "1rPjlkaa8yXkpauX8VO2xQAxR88TQsnom4HGXK1lfOMA",
+      "name": "7.4 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:28:16.871Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1y4Jwk0T0MpWVdmV3wKrT-xhBUqo0yMibcSB8U27MGiA",
+      "name": "7.4 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:28:11.266Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Student Procedure": {
+      "driveFileId": "1OPJglC7Mn1t9Fg7OOuMFoNgfJ5wNLnx8XAI-odbs0ig",
+      "name": "7.4 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-14T00:28:06.003Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Slides": {
+      "driveFileId": "11oOEpGlZDM3RC0-s7WQywMCxefr1ZZ2IgUvpfU2ytJo",
+      "name": "7.4 Lesson 1 Slides",
+      "modifiedTime": "2024-08-14T00:28:01.229Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Reference Nutrition Labels What": {
+      "driveFileId": "18lhCT8nkgA0oAI_d5YB2ze6CVg2SbKNraQ_Z9-mfjnM",
+      "name": "7.4 Lesson 1 Reference Nutrition Labels What",
+      "modifiedTime": "2024-08-14T00:27:36.003Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Reference Food Molecule Cards": {
+      "driveFileId": "1nYVlLNOgXT45DunjtWDsBGJCF-HDznFbwS9L7jUzdbU",
+      "name": "7.4 Lesson 1 Reference Food Molecule Cards",
+      "modifiedTime": "2024-08-14T00:27:30.213Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Handout What’s in the": {
+      "driveFileId": "10uXFZDY3ld92L9zdrwjz7XKSiOomVIX5E5rIDDC-yrQ",
+      "name": "7.4 Lesson 1 Handout What’s in the",
+      "modifiedTime": "2024-08-14T00:27:25.188Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Handout Transcript Maple Tree": {
+      "driveFileId": "1kqQ4djRDMo5i6cT1AX-9zYbgOKxGDmryPNH8qZigOeI",
+      "name": "7.4 Lesson 1 Handout Transcript Maple Tree",
+      "modifiedTime": "2024-08-14T00:27:22.437Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Handout Reading What do": {
+      "driveFileId": "1ltKFjDAFhmt3-A4s7cbEdpcctP6Aw4UcislAQgU32ko",
+      "name": "7.4 Lesson 1 Handout Reading What do",
+      "modifiedTime": "2024-08-14T00:27:20.133Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Handout How Plants Get": {
+      "driveFileId": "1tx3iK9Y_O41t2PWoDHo_QMWKZI8c71FcnLRvylUzwjs",
+      "name": "7.4 Lesson 1 Handout How Plants Get",
+      "modifiedTime": "2024-08-14T00:27:16.644Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lesson 1 Handout Classroom Norms": {
+      "driveFileId": "1m1IiJ5xKeaooX8qO7J29QLLe9M9_jeOyv64CWLvlT68",
+      "name": "7.4 Lesson 1 Handout Classroom Norms",
+      "modifiedTime": "2024-08-14T00:27:13.900Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 1 Referencia Tarjetas de moléculas": {
+      "driveFileId": "1LQygry05dy68eRLoJAeBIePFeX8uS3rTBinGR5Y4zbU",
+      "name": "7.4 Lección 1 Referencia Tarjetas de moléculas",
+      "modifiedTime": "2024-08-14T00:27:11.675Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 1 Referencia Etiquetas nutricionales ¿Qué": {
+      "driveFileId": "1ACZHJ2GTSmDjTUhGaCyAcYnKOmmcuSqSqHUHuq-g3m8",
+      "name": "7.4 Lección 1 Referencia Etiquetas nutricionales ¿Qué",
+      "modifiedTime": "2024-08-14T00:27:07.886Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 1 Folleto ¿Qué hay en": {
+      "driveFileId": "1n90LumydzuuO2RbopPYxr1LgWWqfeG6GzBdCzNsEIic",
+      "name": "7.4 Lección 1 Folleto ¿Qué hay en",
+      "modifiedTime": "2024-08-14T00:27:01.826Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 1 Folleto Transcripción Obtener savia": {
+      "driveFileId": "1pyXNgmzQXFFiIaWVrQLY3jGqBmYb7P0z3KLjy_EeWow",
+      "name": "7.4 Lección 1 Folleto Transcripción Obtener savia",
+      "modifiedTime": "2024-08-14T00:26:59.594Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 1 Folleto Normas de la": {
+      "driveFileId": "1pfLEe3JLBP0ugLFdMkOiJM23QXf3n7Wv9TdWg9C3q9o",
+      "name": "7.4 Lección 1 Folleto Normas de la",
+      "modifiedTime": "2024-08-14T00:26:57.165Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 1 Folleto Modelo inicial Cómo": {
+      "driveFileId": "1AfW43jqxB5gyrvHDd4LODHtMd_G6byAyebjeiWsyC_0",
+      "name": "7.4 Lección 1 Folleto Modelo inicial Cómo",
+      "modifiedTime": "2024-08-14T00:26:54.669Z"
+    },
+    "Lesson 1 - 7.4 Matter Cycling & Photosynthesis/7.4 Lección 1 Folleto Lectura ¿Qué comen": {
+      "driveFileId": "18jjunQuuu2y9yOTQNeXTpxDjHLMXf-gp9ggEZPeOn4w",
+      "name": "7.4 Lección 1 Folleto Lectura ¿Qué comen",
+      "modifiedTime": "2024-08-14T00:26:50.568Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1wBx_NvCqqq3Qb3-ScPGuZWLVHz0vSQXe",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-14T00:26:45.664Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "17UDhmyTZLdvVdy6zUDPVSIwLqKCp_pW6",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:26:44.615Z"
+    },
+    "7.4 Matter Cycling & Photosynthesis Unit Overview Materials": {
+      "driveFileId": "10y5O1uSBuAB1Yzoy9Uj8oAJqpj4wRz9KMk3z-3ZQPrA",
+      "name": "7.4 Matter Cycling & Photosynthesis Unit Overview Materials",
+      "modifiedTime": "2024-08-14T00:26:43.872Z"
+    },
+    "7.4 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1sG_fPC04uPkqFKcuBySTFtSApJMU1NVS",
+      "name": "7.4 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-14T00:26:36.855Z"
+    }
+  }
+}

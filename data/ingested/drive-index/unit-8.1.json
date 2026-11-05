@@ -1,0 +1,1966 @@
+{
+  "unitId": "8.1",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 8",
+  "unitFolder": "8.1 Contact Forces",
+  "unitDriveFolderId": "1JisnyXt0dCR1XKlIL8b1eektLR5xLw5i",
+  "indexedAt": "2026-07-07T18:09:01.108Z",
+  "fileCount": 219,
+  "manifestPathCount": 95,
+  "matchedCount": 95,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "81-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "16onf3ANz7vloDZfeX7ynMZ_26bmrhXD-I5V5lN4Qouc",
+      "driveRelativePath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:37:32.461Z"
+    },
+    {
+      "assessmentId": "81-1-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Handout Initial Model Objects.docx",
+      "driveFileId": "1kXCFJREVNs4LgEwFdicpj84NK0KWs6HbYyLu372zWiI",
+      "driveRelativePath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Handout Initial Model Objects",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:37:10.269Z"
+    },
+    {
+      "assessmentId": "81-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "16onf3ANz7vloDZfeX7ynMZ_26bmrhXD-I5V5lN4Qouc",
+      "driveRelativePath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:37:32.461Z"
+    },
+    {
+      "assessmentId": "81-2-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Handout Exploring Horizontal Collisions.docx",
+      "driveFileId": "1HO5bgXbdx7_EoF7xkJvQQKStzP1WFBvXrmaoGKwBug8",
+      "driveRelativePath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Handout Exploring Horizontal Collisions",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:17.664Z"
+    },
+    {
+      "assessmentId": "81-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "19k5Gs_FEOXvb-DBJZS63MELmMUGoxBJJMxx7UKEx1Lw",
+      "driveRelativePath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:35.581Z"
+    },
+    {
+      "assessmentId": "81-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "19k5Gs_FEOXvb-DBJZS63MELmMUGoxBJJMxx7UKEx1Lw",
+      "driveRelativePath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:35.581Z"
+    },
+    {
+      "assessmentId": "81-2-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Handout Exploring Horizontal Collisions.docx",
+      "driveFileId": "1HO5bgXbdx7_EoF7xkJvQQKStzP1WFBvXrmaoGKwBug8",
+      "driveRelativePath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Handout Exploring Horizontal Collisions",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:17.664Z"
+    },
+    {
+      "assessmentId": "81-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "19k5Gs_FEOXvb-DBJZS63MELmMUGoxBJJMxx7UKEx1Lw",
+      "driveRelativePath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:35.581Z"
+    },
+    {
+      "assessmentId": "81-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1e1B90Ah7p15v1xAW_bLR0hBgk9mYZO7V0MKo5eJADHA",
+      "driveRelativePath": "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:45:08.911Z"
+    },
+    {
+      "assessmentId": "81-4-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Deformation Results.docx",
+      "driveFileId": "1PGNCadtCtpT3IWIrtr1X-RnraDUNxRCSPv1Wmh81U8M",
+      "driveRelativePath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Deformation Results",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:45:31.165Z"
+    },
+    {
+      "assessmentId": "81-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "12gOSrh0PKOeoaIbX326y6BaMpUKaD-wmQ62ZostpF5I",
+      "driveRelativePath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:46:00.338Z"
+    },
+    {
+      "assessmentId": "81-4-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Deformation Results.docx",
+      "driveFileId": "1PGNCadtCtpT3IWIrtr1X-RnraDUNxRCSPv1Wmh81U8M",
+      "driveRelativePath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Deformation Results",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:45:31.165Z"
+    },
+    {
+      "assessmentId": "81-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "12gOSrh0PKOeoaIbX326y6BaMpUKaD-wmQ62ZostpF5I",
+      "driveRelativePath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:46:00.338Z"
+    },
+    {
+      "assessmentId": "81-4-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Deformation Results.docx",
+      "driveFileId": "1PGNCadtCtpT3IWIrtr1X-RnraDUNxRCSPv1Wmh81U8M",
+      "driveRelativePath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Deformation Results",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:45:31.165Z"
+    },
+    {
+      "assessmentId": "81-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "12gOSrh0PKOeoaIbX326y6BaMpUKaD-wmQ62ZostpF5I",
+      "driveRelativePath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:46:00.338Z"
+    },
+    {
+      "assessmentId": "81-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1ZmM_cN7oVDVfhrhfxCP77-bwFsih2tAdZkYiNNcpS9A",
+      "driveRelativePath": "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:46:52.300Z"
+    },
+    {
+      "assessmentId": "81-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1ZmM_cN7oVDVfhrhfxCP77-bwFsih2tAdZkYiNNcpS9A",
+      "driveRelativePath": "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:46:52.300Z"
+    },
+    {
+      "assessmentId": "81-6-soccer-assessment",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Assessment Soccer Assessment.docx",
+      "driveFileId": "1KfRu-HYEfwUOzZ5kFeFJEWTlglbNGgUq-zTHvugqL9c",
+      "driveRelativePath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Assessment Soccer Assessment",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:47:12.099Z"
+    },
+    {
+      "assessmentId": "81-6-soccer-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "14knenlENgeuid7pKQ4MHP5DgyAjZY8nBfV6VG_yhLxg",
+      "driveRelativePath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:47:39.986Z"
+    },
+    {
+      "assessmentId": "81-6-soccer-assessment",
+      "field": "answerKey",
+      "manifestPath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Answer Key Soccer Assessment Key.docx",
+      "driveFileId": "1Xdufy_RqN93-4jXnuEcwf-SGLaINt9lyaYtn7vmFbZ0",
+      "driveRelativePath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Answer Key Soccer Assessment Key",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:47:08.508Z"
+    },
+    {
+      "assessmentId": "81-6-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Handout Reviewing Our Driving.docx",
+      "driveFileId": "1ltpkqXrR6fgUMSxZamkmxKpSzto_RH4_r1kPrM-YbL4",
+      "driveRelativePath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Handout Reviewing Our Driving",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:47:14.780Z"
+    },
+    {
+      "assessmentId": "81-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "14knenlENgeuid7pKQ4MHP5DgyAjZY8nBfV6VG_yhLxg",
+      "driveRelativePath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:47:39.986Z"
+    },
+    {
+      "assessmentId": "81-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "14knenlENgeuid7pKQ4MHP5DgyAjZY8nBfV6VG_yhLxg",
+      "driveRelativePath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:47:39.986Z"
+    },
+    {
+      "assessmentId": "81-7-looking-back-explaining-collisions",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Looking back Explaining.docx",
+      "driveFileId": "1Cvs-pwVfqv27VaAyLJL5ZQq75Tb8ouaTO3jZdKR6-j8",
+      "driveRelativePath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Looking back Explaining",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:48:17.054Z"
+    },
+    {
+      "assessmentId": "81-7-looking-back-explaining-collisions",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Af_eJ8uZtbp9N8nZI8hkgUiHu5fC-3ZIbG3D3oOQZoM",
+      "driveRelativePath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:48:40.264Z"
+    },
+    {
+      "assessmentId": "81-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Af_eJ8uZtbp9N8nZI8hkgUiHu5fC-3ZIbG3D3oOQZoM",
+      "driveRelativePath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:48:40.264Z"
+    },
+    {
+      "assessmentId": "81-7-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Alternate Graphing Mass.docx",
+      "driveFileId": "18JS7eOMc39Pj4lRqRnd7chISgx3z76UpXmVWrAYubKc",
+      "driveRelativePath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Alternate Graphing Mass",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:48:04.255Z"
+    },
+    {
+      "assessmentId": "81-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Af_eJ8uZtbp9N8nZI8hkgUiHu5fC-3ZIbG3D3oOQZoM",
+      "driveRelativePath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:48:40.264Z"
+    },
+    {
+      "assessmentId": "81-8-modeling-other-force-interactions",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Handout Modeling other force.docx",
+      "driveFileId": "16yCnbDx241inOUKz2KpAeOhbYNrusjeTcmD8zv9Gmx8",
+      "driveRelativePath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Handout Modeling other force",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:49:20.466Z"
+    },
+    {
+      "assessmentId": "81-8-modeling-other-force-interactions",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1vAUUJBOYE1UNm82KO6GRNeuDDc7tzKHCxr2Fsk7Bpvo",
+      "driveRelativePath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:49:39.324Z"
+    },
+    {
+      "assessmentId": "81-8-modeling-other-force-interactions",
+      "field": "answerKey",
+      "manifestPath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Answer Key Key for modeling.docx",
+      "driveFileId": "1L_GMz4V2RUhvZvIyDIb0VlE_d96hO-08X12GiEyC5jk",
+      "driveRelativePath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Answer Key Key for modeling",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:49:05.299Z"
+    },
+    {
+      "assessmentId": "81-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1vAUUJBOYE1UNm82KO6GRNeuDDc7tzKHCxr2Fsk7Bpvo",
+      "driveRelativePath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:49:39.324Z"
+    },
+    {
+      "assessmentId": "81-9-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Handout Jigsaw feedback discussion.docx",
+      "driveFileId": "1Nj6WQ_b190TqWfGalIyij7LnZ9Slbd0WImcxdLghAJM",
+      "driveRelativePath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Handout Jigsaw feedback discussion",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:50:03.665Z"
+    },
+    {
+      "assessmentId": "81-9-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TasVvo533AJITIrlpG_eYC9nPHz1CEnJmPZdg5sY_OQ",
+      "driveRelativePath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:50:34.414Z"
+    },
+    {
+      "assessmentId": "81-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TasVvo533AJITIrlpG_eYC9nPHz1CEnJmPZdg5sY_OQ",
+      "driveRelativePath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:50:34.414Z"
+    },
+    {
+      "assessmentId": "81-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TasVvo533AJITIrlpG_eYC9nPHz1CEnJmPZdg5sY_OQ",
+      "driveRelativePath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:50:34.414Z"
+    },
+    {
+      "assessmentId": "81-9-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TasVvo533AJITIrlpG_eYC9nPHz1CEnJmPZdg5sY_OQ",
+      "driveRelativePath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:50:34.414Z"
+    },
+    {
+      "assessmentId": "81-10-baseball-assessment-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Assessment Baseball Assessment 1.docx",
+      "driveFileId": "1XKvz6d1M1zW3xYBBcIBHj4zbDUkSSmL4MtVZwd0PprU",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Assessment Baseball Assessment 1",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:04.287Z"
+    },
+    {
+      "assessmentId": "81-10-baseball-assessment-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    {
+      "assessmentId": "81-10-baseball-assessment-1",
+      "field": "answerKey",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Answer Key Key 1 Baseball.docx",
+      "driveFileId": "1p41BOARXh4kEE-QdaqsYNNJHymPdv5YmiV4do32hpEs",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Answer Key Key 1 Baseball",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:37:56.899Z"
+    },
+    {
+      "assessmentId": "81-10-baseball-assessment-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Assessment Baseball Assessment 2.docx",
+      "driveFileId": "18WZ41aA8LyMlmuL6wQQzTcV7hCNCmgJQ-YmW2Y624tE",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Assessment Baseball Assessment 2",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:05.224Z"
+    },
+    {
+      "assessmentId": "81-10-baseball-assessment-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    {
+      "assessmentId": "81-10-baseball-assessment-2",
+      "field": "answerKey",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Answer Key Key 2 Baseball.docx",
+      "driveFileId": "1kKzHLYWUNbSwbjgNFyaxSrnxDATMdgj4i2p0TYoNPJM",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Answer Key Key 2 Baseball",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:00.718Z"
+    },
+    {
+      "assessmentId": "81-10-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Explaining a Collision.docx",
+      "driveFileId": "1rPO3Ud91pMW7w3A1fR9VCKI9Ky_wHORUY1Wg4dJ2eQE",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Explaining a Collision",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:16.335Z"
+    },
+    {
+      "assessmentId": "81-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    {
+      "assessmentId": "81-10-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Explaining a Collision.docx",
+      "driveFileId": "1rPO3Ud91pMW7w3A1fR9VCKI9Ky_wHORUY1Wg4dJ2eQE",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Explaining a Collision",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:16.335Z"
+    },
+    {
+      "assessmentId": "81-10-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    {
+      "assessmentId": "81-10-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    {
+      "assessmentId": "81-10-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Explaining a Collision.docx",
+      "driveFileId": "1rPO3Ud91pMW7w3A1fR9VCKI9Ky_wHORUY1Wg4dJ2eQE",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Explaining a Collision",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:16.335Z"
+    },
+    {
+      "assessmentId": "81-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    {
+      "assessmentId": "81-11-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Handout Protection Device Design.docx",
+      "driveFileId": "1Xx5ehNlpQQtoGfi5N4YNZboqPErbeA905p1pCzYG9jo",
+      "driveRelativePath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Handout Protection Device Design",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:47.263Z"
+    },
+    {
+      "assessmentId": "81-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1U5dvsUdkgbVPSbS5bd5pElPhw13saHsYFkwgt8e4N50",
+      "driveRelativePath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:39:05.158Z"
+    },
+    {
+      "assessmentId": "81-11-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Handout Protection Device Design.docx",
+      "driveFileId": "1Xx5ehNlpQQtoGfi5N4YNZboqPErbeA905p1pCzYG9jo",
+      "driveRelativePath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Handout Protection Device Design",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:47.263Z"
+    },
+    {
+      "assessmentId": "81-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1U5dvsUdkgbVPSbS5bd5pElPhw13saHsYFkwgt8e4N50",
+      "driveRelativePath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:39:05.158Z"
+    },
+    {
+      "assessmentId": "81-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1ashrdfmtLnHmQdi8M38Tx5kEKotdFy-Vmj0TpSdqn1E",
+      "driveRelativePath": "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:40:22.590Z"
+    },
+    {
+      "assessmentId": "81-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1ashrdfmtLnHmQdi8M38Tx5kEKotdFy-Vmj0TpSdqn1E",
+      "driveRelativePath": "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:40:22.590Z"
+    },
+    {
+      "assessmentId": "81-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1M3UyPCCDHc5R3KMA8yvPk8pb4BYGa4NvQD85DbLSlM4",
+      "driveRelativePath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:41:32.525Z"
+    },
+    {
+      "assessmentId": "81-13-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1M3UyPCCDHc5R3KMA8yvPk8pb4BYGa4NvQD85DbLSlM4",
+      "driveRelativePath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:41:32.525Z"
+    },
+    {
+      "assessmentId": "81-13-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1M3UyPCCDHc5R3KMA8yvPk8pb4BYGa4NvQD85DbLSlM4",
+      "driveRelativePath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:41:32.525Z"
+    },
+    {
+      "assessmentId": "81-14-stakeholder-feedback-form",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Handout Stakeholder Feedback Form.docx",
+      "driveFileId": "1M3u79En2uFEX8938XrrgCjBJ44ClFIIAF7rKOHBEwGc",
+      "driveRelativePath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Handout Stakeholder Feedback Form",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:01.867Z"
+    },
+    {
+      "assessmentId": "81-14-stakeholder-feedback-form",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1WvLkfoqwK5rcsjPppbJcPyc3kPPkz0wwx9QGlLWOIkk",
+      "driveRelativePath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:19.475Z"
+    },
+    {
+      "assessmentId": "81-14-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Handout Redesigning Your Protective.docx",
+      "driveFileId": "1pQEh_PmoJK0qEdhEO4mBvnbCNBjCvoUMdl_CZu2sCPI",
+      "driveRelativePath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Handout Redesigning Your Protective",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:41:56.728Z"
+    },
+    {
+      "assessmentId": "81-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1WvLkfoqwK5rcsjPppbJcPyc3kPPkz0wwx9QGlLWOIkk",
+      "driveRelativePath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:19.475Z"
+    },
+    {
+      "assessmentId": "81-15-cheerleading-performance-task-part-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Assessment Part 1 Cheerleading.docx",
+      "driveFileId": "1DgwQ3xuMNrPElC1CL3AdLGFDFz9RhJqOb4Ab_lx4Pgg",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Assessment Part 1 Cheerleading",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:45.802Z"
+    },
+    {
+      "assessmentId": "81-15-cheerleading-performance-task-part-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    {
+      "assessmentId": "81-15-cheerleading-performance-task-part-1",
+      "field": "answerKey",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Answer Key Part 1 Key.docx",
+      "driveFileId": "1HOOMmgKCrt2UBHCaq4ZeYjjeI6mmO7RvsbNaDR3KeV8",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Answer Key Part 1 Key",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:37.987Z"
+    },
+    {
+      "assessmentId": "81-15-cheerleading-performance-task-part-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Assessment Part 2 Cheerleading.docx",
+      "driveFileId": "1Tkf96ekLhrL5mSCAd2eIoI-3__o3mHl01zEJp7eCl18",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Assessment Part 2 Cheerleading",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:50.130Z"
+    },
+    {
+      "assessmentId": "81-15-cheerleading-performance-task-part-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    {
+      "assessmentId": "81-15-cheerleading-performance-task-part-2",
+      "field": "answerKey",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Answer Key Part 2 Key.docx",
+      "driveFileId": "1KxTr9ErIRcKMrnibO0B2-xIIAH5jhGKeSBJq4xWMWNY",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Answer Key Part 2 Key",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:42.325Z"
+    },
+    {
+      "assessmentId": "81-15-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Final Design Proposal.docx",
+      "driveFileId": "1sKAKfZg-wwXkyiZajoqWQ_cTFYabKk1NkuTGqwH5m90",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Final Design Proposal",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:53.423Z"
+    },
+    {
+      "assessmentId": "81-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    {
+      "assessmentId": "81-15-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Final Design Proposal.docx",
+      "driveFileId": "1sKAKfZg-wwXkyiZajoqWQ_cTFYabKk1NkuTGqwH5m90",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Final Design Proposal",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:53.423Z"
+    },
+    {
+      "assessmentId": "81-15-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    {
+      "assessmentId": "81-15-ao-4",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Final Design Proposal.docx",
+      "driveFileId": "1sKAKfZg-wwXkyiZajoqWQ_cTFYabKk1NkuTGqwH5m90",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Final Design Proposal",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:53.423Z"
+    },
+    {
+      "assessmentId": "81-15-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    {
+      "assessmentId": "81-15-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    {
+      "assessmentId": "81-16-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Investor Design Feedback.docx",
+      "driveFileId": "13DSxr5jNObZ-2iD7Du-V5tsRKF3ZfR73Wi5CG82kOUg",
+      "driveRelativePath": "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Investor Design Feedback",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:48.792Z"
+    },
+    {
+      "assessmentId": "81-16-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1IqUsKk_8rNCMAWUzJ4n4CBlbLls1WyQ2I9N6EXgGFxw",
+      "driveRelativePath": "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:03.960Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "8.1 Contact Forces Unit Overview Materials.docx",
+      "driveFileId": "1Jq-Fx1ZSejY4H_wypmAPWHPer2PncdrDhIGKg6rUcCI",
+      "driveRelativePath": "8.1 Contact Forces Unit Overview Materials",
+      "matchKind": "stem",
+      "modifiedTime": "2025-06-21T11:46:35.498Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "16onf3ANz7vloDZfeX7ynMZ_26bmrhXD-I5V5lN4Qouc",
+      "driveRelativePath": "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:37:32.461Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "19k5Gs_FEOXvb-DBJZS63MELmMUGoxBJJMxx7UKEx1Lw",
+      "driveRelativePath": "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:35.581Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1e1B90Ah7p15v1xAW_bLR0hBgk9mYZO7V0MKo5eJADHA",
+      "driveRelativePath": "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:45:08.911Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "12gOSrh0PKOeoaIbX326y6BaMpUKaD-wmQ62ZostpF5I",
+      "driveRelativePath": "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:46:00.338Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1ZmM_cN7oVDVfhrhfxCP77-bwFsih2tAdZkYiNNcpS9A",
+      "driveRelativePath": "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:46:52.300Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "14knenlENgeuid7pKQ4MHP5DgyAjZY8nBfV6VG_yhLxg",
+      "driveRelativePath": "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:47:39.986Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Af_eJ8uZtbp9N8nZI8hkgUiHu5fC-3ZIbG3D3oOQZoM",
+      "driveRelativePath": "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:48:40.264Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1vAUUJBOYE1UNm82KO6GRNeuDDc7tzKHCxr2Fsk7Bpvo",
+      "driveRelativePath": "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:49:39.324Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TasVvo533AJITIrlpG_eYC9nPHz1CEnJmPZdg5sY_OQ",
+      "driveRelativePath": "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:50:34.414Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "driveRelativePath": "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1U5dvsUdkgbVPSbS5bd5pElPhw13saHsYFkwgt8e4N50",
+      "driveRelativePath": "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:39:05.158Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1ashrdfmtLnHmQdi8M38Tx5kEKotdFy-Vmj0TpSdqn1E",
+      "driveRelativePath": "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:40:22.590Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1M3UyPCCDHc5R3KMA8yvPk8pb4BYGa4NvQD85DbLSlM4",
+      "driveRelativePath": "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:41:32.525Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1WvLkfoqwK5rcsjPppbJcPyc3kPPkz0wwx9QGlLWOIkk",
+      "driveRelativePath": "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:42:19.475Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "driveRelativePath": "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    {
+      "assessmentId": "__lesson-16__",
+      "field": "teacherEditionPath",
+      "manifestPath": "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1IqUsKk_8rNCMAWUzJ4n4CBlbLls1WyQ2I9N6EXgGFxw",
+      "driveRelativePath": "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-13T20:44:03.960Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "8.1 Contact Forces Unit Overview Materials": {
+      "driveFileId": "1Jq-Fx1ZSejY4H_wypmAPWHPer2PncdrDhIGKg6rUcCI",
+      "name": "8.1 Contact Forces Unit Overview Materials",
+      "modifiedTime": "2025-06-21T11:46:35.498Z"
+    },
+    "Unit 8.1 Contact Forces Video Links.pdf": {
+      "driveFileId": "12ALfE3R1Bwc_5fXXtpx1fyl1IBqbwmJP",
+      "name": "Unit 8.1 Contact Forces Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:50:40.875Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1yCznIsO4cGqBdQhCv-zzoLsR7bgjYhbH",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-13T20:50:39.699Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1nsX0_EZZewGzgYVQlaBfWWBTKHGE-v1j",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-13T20:50:38.578Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1z37lKItaYw6KD057XbDW9D3nyBBejejM",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-13T20:50:37.422Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1W37iZJUT4Xl1Vj3ojE8o9tdFxPg2V5E6",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-13T20:50:36.510Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1DgESxLIAya-fg8M7zcnaIL2Grwxbp4Dk",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-13T20:50:35.194Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Teacher Edition": {
+      "driveFileId": "1TasVvo533AJITIrlpG_eYC9nPHz1CEnJmPZdg5sY_OQ",
+      "name": "8.1 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:50:34.414Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1fKh8csgZA7plI_AubIEfcLK1WpyFQG1knWlHB3R4yHU",
+      "name": "8.1 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:50:29.047Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Student Procedure": {
+      "driveFileId": "1VHDGeProbYw78HX9BVBwDn9rnynhQcvzzPwGkWm-PmU",
+      "name": "8.1 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-13T20:50:24.583Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Slides": {
+      "driveFileId": "1FuQwdyI1Q6IY7NGiKWKOk3_TziHjhUWlIXPHv0hTJbU",
+      "name": "8.1 Lesson 9 Slides",
+      "modifiedTime": "2024-08-13T20:50:20.724Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Reference Station 2 data": {
+      "driveFileId": "1Qo-vDIpgnLWac0oFjH7lTBlZp4rfU5XxaJj_EAlXvEY",
+      "name": "8.1 Lesson 9 Reference Station 2 data",
+      "modifiedTime": "2024-08-13T20:50:14.717Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Reference Microscopic image cards": {
+      "driveFileId": "1TXFOV70urA0BfGaABhS-LH1sgg1yOffFvI5l30VCjdc",
+      "name": "8.1 Lesson 9 Reference Microscopic image cards",
+      "modifiedTime": "2024-08-13T20:50:10.612Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Reference Lab station instructions": {
+      "driveFileId": "1gac6uH-UJqUHbOB4_glZ4-cZIVQCvPiNaliIU_CA7tE",
+      "name": "8.1 Lesson 9 Reference Lab station instructions",
+      "modifiedTime": "2024-08-13T20:50:06.812Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Handout Jigsaw feedback discussion": {
+      "driveFileId": "1Nj6WQ_b190TqWfGalIyij7LnZ9Slbd0WImcxdLghAJM",
+      "name": "8.1 Lesson 9 Handout Jigsaw feedback discussion",
+      "modifiedTime": "2024-08-13T20:50:03.665Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lesson 9 Handout Data collection from": {
+      "driveFileId": "1cA-BlG59bNcgwDN8mTGnKG1KhAE14I3qRHGm7GHYqPs",
+      "name": "8.1 Lesson 9 Handout Data collection from",
+      "modifiedTime": "2024-08-13T20:50:01.025Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lección 9 Referencia Tarjetas de imágenes": {
+      "driveFileId": "1r9JzsOnZifexs_zuAVwbEdZ3wpGmZF3DMMWpMhzDhRA",
+      "name": "8.1 Lección 9 Referencia Tarjetas de imágenes",
+      "modifiedTime": "2024-08-13T20:49:58.379Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lección 9 Referencia Tarjetas de datos": {
+      "driveFileId": "1JOAAqkKGMH52kPKEvCV-n5DB45KQvS1SmdOdG3ohiTQ",
+      "name": "8.1 Lección 9 Referencia Tarjetas de datos",
+      "modifiedTime": "2024-08-13T20:49:54.172Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lección 9 Referencia Instrucciones de estaciones": {
+      "driveFileId": "1RGWGKK3_uiCel4gy9yTgnx56LILU5JyKxtT_CCJKp-E",
+      "name": "8.1 Lección 9 Referencia Instrucciones de estaciones",
+      "modifiedTime": "2024-08-13T20:49:49.607Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lección 9 Folleto Recopilación de datos": {
+      "driveFileId": "1I0jF6ttp7n95-md1mjWC4SvOHBRjIjGhlQfP-ltfKAk",
+      "name": "8.1 Lección 9 Folleto Recopilación de datos",
+      "modifiedTime": "2024-08-13T20:49:45.920Z"
+    },
+    "Lesson 9 - 8.1 Contact Forces/8.1 Lección 9 Folleto Discusión de retroalimentación": {
+      "driveFileId": "1_Fi4uTbLEdIsW5rIwsP1enmEKchqwmPTmvIepVA9Yt8",
+      "name": "8.1 Lección 9 Folleto Discusión de retroalimentación",
+      "modifiedTime": "2024-08-13T20:49:43.121Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Teacher Edition": {
+      "driveFileId": "1vAUUJBOYE1UNm82KO6GRNeuDDc7tzKHCxr2Fsk7Bpvo",
+      "name": "8.1 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:49:39.324Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1B_1_I85E-wwzZNNq3qvhD4hhZa9RDhQHGyr7pbJkG5I",
+      "name": "8.1 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:49:36.057Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Student Procedure": {
+      "driveFileId": "1F4Jy5t8xLJAe8cGtlKGHRkqf2LWwpNU8DhRvJ2oIQmk",
+      "name": "8.1 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-13T20:49:32.879Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Slides": {
+      "driveFileId": "1zwolXDQrBoOAzpJB300O_hz-kRJ2nB-b1EylvQQSytQ",
+      "name": "8.1 Lesson 8 Slides",
+      "modifiedTime": "2024-08-13T20:49:23.782Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Handout Tracking energy transfers": {
+      "driveFileId": "1adgs4QsvpuR_zSssR3MTipluVl1cwQmzpNGnaHHjDBI",
+      "name": "8.1 Lesson 8 Handout Tracking energy transfers",
+      "modifiedTime": "2024-08-13T20:49:22.727Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Handout Modeling other force": {
+      "driveFileId": "16yCnbDx241inOUKz2KpAeOhbYNrusjeTcmD8zv9Gmx8",
+      "name": "8.1 Lesson 8 Handout Modeling other force",
+      "modifiedTime": "2024-08-13T20:49:20.466Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Handout Investigating Surface Interactions": {
+      "driveFileId": "1xfbIfeDOpvyZrGtSPpIuzOOkVRFiLwgU3UjcJoWIrMs",
+      "name": "8.1 Lesson 8 Handout Investigating Surface Interactions",
+      "modifiedTime": "2024-08-13T20:49:12.531Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Handout Investigating Interactions with": {
+      "driveFileId": "1jDMyhT6EBGFZhQuiFmoAmg_BMidzMuMYq-GrT-AGuNA",
+      "name": "8.1 Lesson 8 Handout Investigating Interactions with",
+      "modifiedTime": "2024-08-13T20:49:11.707Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Handout Energy transfers and": {
+      "driveFileId": "1Nxnor0wqPkwbwleXQZSriDt1WbgFUJYAqbg5jPah8KY",
+      "name": "8.1 Lesson 8 Handout Energy transfers and",
+      "modifiedTime": "2024-08-13T20:49:09.243Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lesson 8 Answer Key Key for modeling": {
+      "driveFileId": "1L_GMz4V2RUhvZvIyDIb0VlE_d96hO-08X12GiEyC5jk",
+      "name": "8.1 Lesson 8 Answer Key Key for modeling",
+      "modifiedTime": "2024-08-13T20:49:05.299Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lección 8 Folleto Transferencias de energía": {
+      "driveFileId": "1AKDZCkby4sgU_nwGJLPQDOjAbIKZv4rlrLKx3lK-rHc",
+      "name": "8.1 Lección 8 Folleto Transferencias de energía",
+      "modifiedTime": "2024-08-13T20:49:01.819Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lección 8 Folleto Seguimiento de transferencias": {
+      "driveFileId": "1QxWlLiwX_3QCK-BcnVQaFvMVtLxpYvS7pQwxBSYONpE",
+      "name": "8.1 Lección 8 Folleto Seguimiento de transferencias",
+      "modifiedTime": "2024-08-13T20:48:56.612Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lección 8 Folleto Modelar otras interacciones": {
+      "driveFileId": "1KldWy_yCPJAhmG2WfMuuVUHadh1_s63zBsYNX1040Ks",
+      "name": "8.1 Lección 8 Folleto Modelar otras interacciones",
+      "modifiedTime": "2024-08-13T20:48:53.798Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lección 8 Folleto Investigación de interacciones": {
+      "driveFileId": "1equcEebPA_bsBViVJbbPGNIz5Hh1gOjn22YLpMLNn5Q",
+      "name": "8.1 Lección 8 Folleto Investigación de interacciones",
+      "modifiedTime": "2024-08-13T20:48:51.099Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lección 8 Folleto Investigación Interacciones de": {
+      "driveFileId": "1FpGbEOtMVHXEdesHKJBM6rwJgqHOjyZdEaGTY3pHi2s",
+      "name": "8.1 Lección 8 Folleto Investigación Interacciones de",
+      "modifiedTime": "2024-08-13T20:48:47.458Z"
+    },
+    "Lesson 8 - 8.1 Contact Forces/8.1 Lección 8 Folleto Investigación Interacciones con": {
+      "driveFileId": "1g5UesM_ANtMUZxiWUnT5E7ffLU6KbuJN2g3HycU3rDI",
+      "name": "8.1 Lección 8 Folleto Investigación Interacciones con",
+      "modifiedTime": "2024-08-13T20:48:43.116Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Teacher Edition": {
+      "driveFileId": "1Af_eJ8uZtbp9N8nZI8hkgUiHu5fC-3ZIbG3D3oOQZoM",
+      "name": "8.1 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:40.264Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1RPpGfrGDPQcgeuSRi_l9cs70O-55-LBAUS-ITvMVYVY",
+      "name": "8.1 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:35.529Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Student Procedure": {
+      "driveFileId": "1C_T7Tqg930vEZIfR8_28ACxN8zo1nzovlSfVM-E-JB4",
+      "name": "8.1 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:31.655Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Slides": {
+      "driveFileId": "1ldJ5CA9jwhJwpV5etXHJ4uCLypcmIC90zwaqsq2hvbA",
+      "name": "8.1 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:48:26.165Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Reference Procedure for Investigation": {
+      "driveFileId": "101YqWM6F0jvVt-qkSygfW5Mj-ERI-6zehunzHZIbRn4",
+      "name": "8.1 Lesson 7 Reference Procedure for Investigation",
+      "modifiedTime": "2024-08-13T20:48:20.888Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Looking back Explaining": {
+      "driveFileId": "1Cvs-pwVfqv27VaAyLJL5ZQq75Tb8ouaTO3jZdKR6-j8",
+      "name": "8.1 Lesson 7 Handout Looking back Explaining",
+      "modifiedTime": "2024-08-13T20:48:17.054Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Graphing Kinetic Energy": {
+      "driveFileId": "1qiplEDYvxgdam2dQup1-rvai6PIuoMfPuYqnSoo-734",
+      "name": "8.1 Lesson 7 Handout Graphing Kinetic Energy",
+      "modifiedTime": "2024-08-13T20:48:13.713Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Changes in Kinetic": {
+      "driveFileId": "1QEhl2ZZ3u_vPO2VV81DsPEizfMT-pcmh-mTBrxq72eo",
+      "name": "8.1 Lesson 7 Handout Changes in Kinetic",
+      "modifiedTime": "2024-08-13T20:48:10.453Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Alternate Graphing Speed": {
+      "driveFileId": "1EpP5fI261UZSvDLX5VQ3o75t5GeB8Q64eXScdBDnOI4",
+      "name": "8.1 Lesson 7 Handout Alternate Graphing Speed",
+      "modifiedTime": "2024-08-13T20:48:07.736Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lesson 7 Handout Alternate Graphing Mass": {
+      "driveFileId": "18JS7eOMc39Pj4lRqRnd7chISgx3z76UpXmVWrAYubKc",
+      "name": "8.1 Lesson 7 Handout Alternate Graphing Mass",
+      "modifiedTime": "2024-08-13T20:48:04.255Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lección 7 Referencia Procedimientos para la": {
+      "driveFileId": "1rEMbE0cgKrXeNNIZ3uJJvTdd8G4eQQQLYNZ1G_CCmE4",
+      "name": "8.1 Lección 7 Referencia Procedimientos para la",
+      "modifiedTime": "2024-08-13T20:48:00.286Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lección 7 Folleto Mirando hacia atrás": {
+      "driveFileId": "1HQ6HpZOcPqLpMa4x8SMuT3X8Q2j6FJi4JF48eoqFVWw",
+      "name": "8.1 Lección 7 Folleto Mirando hacia atrás",
+      "modifiedTime": "2024-08-13T20:47:56.507Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lección 7 Folleto Graficar relaciones de": {
+      "driveFileId": "1NGAAL08vDDULCsLrhaIlGMekEcAsQky85z_Up8a2Ag4",
+      "name": "8.1 Lección 7 Folleto Graficar relaciones de",
+      "modifiedTime": "2024-08-13T20:47:53.249Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lección 7 Folleto Cambios en la": {
+      "driveFileId": "1BcEfbpt14yRkwjR7Kn-LvS3YXki0xEIm0aDnWMH4mcw",
+      "name": "8.1 Lección 7 Folleto Cambios en la",
+      "modifiedTime": "2024-08-13T20:47:50.129Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lección 7 Folleto Alternativa Graficar rapidez": {
+      "driveFileId": "1tTg30z3YA_3GXWoTic_nonSrYyenLnbqPEChMWmBkjQ",
+      "name": "8.1 Lección 7 Folleto Alternativa Graficar rapidez",
+      "modifiedTime": "2024-08-13T20:47:47.462Z"
+    },
+    "Lesson 7 - 8.1 Contact Forces/8.1 Lección 7 Folleto Alternativa Graficar masa": {
+      "driveFileId": "1_hrzTsoAf2Xsubf1NHlxS9N5O7tXXe2lKOdsOSlRYL4",
+      "name": "8.1 Lección 7 Folleto Alternativa Graficar masa",
+      "modifiedTime": "2024-08-13T20:47:44.841Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Teacher Edition": {
+      "driveFileId": "14knenlENgeuid7pKQ4MHP5DgyAjZY8nBfV6VG_yhLxg",
+      "name": "8.1 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:39.986Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1xOuTOkiGWm0gdGpExvhZP9uggewU2iZhbAN2ccHegPw",
+      "name": "8.1 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:36.116Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Student Procedure": {
+      "driveFileId": "1QlieskL748q-p9Ed-LBqEou2TclShdwCpPcK7SwfQqI",
+      "name": "8.1 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:32.987Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Slides": {
+      "driveFileId": "1srQ1rWwgTrApWEulUo4D6yhtqMk6l5JZ6pSovh41ZHs",
+      "name": "8.1 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:47:28.961Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Handout Reviewing Our Driving": {
+      "driveFileId": "1ltpkqXrR6fgUMSxZamkmxKpSzto_RH4_r1kPrM-YbL4",
+      "name": "8.1 Lesson 6 Handout Reviewing Our Driving",
+      "modifiedTime": "2024-08-13T20:47:14.780Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Assessment Soccer Assessment": {
+      "driveFileId": "1KfRu-HYEfwUOzZ5kFeFJEWTlglbNGgUq-zTHvugqL9c",
+      "name": "8.1 Lesson 6 Assessment Soccer Assessment",
+      "modifiedTime": "2024-08-13T20:47:12.099Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lesson 6 Answer Key Soccer Assessment Key": {
+      "driveFileId": "1Xdufy_RqN93-4jXnuEcwf-SGLaINt9lyaYtn7vmFbZ0",
+      "name": "8.1 Lesson 6 Answer Key Soccer Assessment Key",
+      "modifiedTime": "2024-08-13T20:47:08.508Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lección 6 Folleto Revisando nuestro Registro": {
+      "driveFileId": "1le4VtIsWM_Ov9YUGuKXgxJ_eNXFx1ne-l7p-z_ZfsZ0",
+      "name": "8.1 Lección 6 Folleto Revisando nuestro Registro",
+      "modifiedTime": "2024-08-13T20:47:03.944Z"
+    },
+    "Lesson 6 - 8.1 Contact Forces/8.1 Lección 6 Evaluación Evaluación de fútbol": {
+      "driveFileId": "15pzurEc6LAUY0oIfQzbWoKa33fvR13DWMJok4xJcqV0",
+      "name": "8.1 Lección 6 Evaluación Evaluación de fútbol",
+      "modifiedTime": "2024-08-13T20:47:01.282Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Reference Spring scale and": {
+      "driveFileId": "1JOAFxHavT7hDAIwCcf074UnSVdwnFgH59RgdrXJiLjc",
+      "name": "8.1 Lesson 5 Teacher Reference Spring scale and",
+      "modifiedTime": "2024-08-13T20:46:56.201Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Teacher Edition": {
+      "driveFileId": "1ZmM_cN7oVDVfhrhfxCP77-bwFsih2tAdZkYiNNcpS9A",
+      "name": "8.1 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:52.300Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1BKsvwVbKSFIyBUqMkfVd1kKn9UWTpr8rcBWaAco1zpo",
+      "name": "8.1 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:46:47.315Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Student Procedure": {
+      "driveFileId": "1OSJAln0EUKhsgZK7rqdZsDEJulFukyWWpT_SbkV0Yiw",
+      "name": "8.1 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:43.345Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Slides": {
+      "driveFileId": "1i0WT64Osr3Uj6yeQkL9VLMSUNTL9zbuTHSRtmUlHl7M",
+      "name": "8.1 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:46:39.175Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Reading How does touch": {
+      "driveFileId": "1ycStAWdt25hCoGid3pPW1aJZ7sHvhpj3AlwWBqpcFTA",
+      "name": "8.1 Lesson 5 Reading How does touch",
+      "modifiedTime": "2024-08-13T20:46:34.231Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Handout Reading How does": {
+      "driveFileId": "1leb8PAXDNjCdZGm9o2Xp3GEMDQhGtAEUj1N-0tLxxBw",
+      "name": "8.1 Lesson 5 Handout Reading How does",
+      "modifiedTime": "2024-08-13T20:46:30.463Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Handout Lesson 5 Independent,": {
+      "driveFileId": "1yN1BARXMrVWaKcPBrK6MYzu1QY_GIahnoq45w-wES9k",
+      "name": "8.1 Lesson 5 Handout Lesson 5 Independent,",
+      "modifiedTime": "2024-08-13T20:46:26.202Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lesson 5 Handout Comparing Forces on": {
+      "driveFileId": "1VNyjHmmrSNb75zML-MnTPUa6lOlCk_hzj0zfH_zJM58",
+      "name": "8.1 Lesson 5 Handout Comparing Forces on",
+      "modifiedTime": "2024-08-13T20:46:23.954Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lección 5 Lectura ¿Cómo funciona el": {
+      "driveFileId": "11jsHK7OfW9xefTu9pCC0UF-I0-cyO41KmUskAwI0kH0",
+      "name": "8.1 Lección 5 Lectura ¿Cómo funciona el",
+      "modifiedTime": "2024-08-13T20:46:21.157Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lección 5 Folleto Lectura ¿Cómo funciona": {
+      "driveFileId": "1S7ZOn5GxcTKP0BaKwb5fXCS2zxNJz_a1pt043NrLGH8",
+      "name": "8.1 Lección 5 Folleto Lectura ¿Cómo funciona",
+      "modifiedTime": "2024-08-13T20:46:16.445Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lección 5 Folleto Lección 5 Variables": {
+      "driveFileId": "1uuT50q0s6kHW2pq97Qmdr43MOGynoQKmKt2at1v5fPE",
+      "name": "8.1 Lección 5 Folleto Lección 5 Variables",
+      "modifiedTime": "2024-08-13T20:46:12.632Z"
+    },
+    "Lesson 5 - 8.1 Contact Forces/8.1 Lección 5 Folleto Comparación de fuerzas": {
+      "driveFileId": "1i8bj3OE50HVF6-_9NaC4G1Ne_6RTdoD_AdTjCT4hSmU",
+      "name": "8.1 Lección 5 Folleto Comparación de fuerzas",
+      "modifiedTime": "2024-08-13T20:46:10.346Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Reference Example Line of": {
+      "driveFileId": "1475tCzDKR6Q9JBI8DEASFvVzlPH2N8KFog5VWVhC9tU",
+      "name": "8.1 Lesson 4 Teacher Reference Example Line of",
+      "modifiedTime": "2024-08-13T20:46:01.173Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Teacher Edition": {
+      "driveFileId": "12gOSrh0PKOeoaIbX326y6BaMpUKaD-wmQ62ZostpF5I",
+      "name": "8.1 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:00.338Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1DWflyobPfEeLn8_RUS6UIP95TaRoXG9-BMzPjvDxwWE",
+      "name": "8.1 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:55.888Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Student Procedure": {
+      "driveFileId": "1LDucxVYMew-P8VmbPCGBx_dgGAHdZGPYWjnfZGtMOuM",
+      "name": "8.1 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:52.566Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Slides": {
+      "driveFileId": "1DnY_pSV-_dHa-dI9FVj6AdQ7j8YlDjRI7nSKT1F0VQo",
+      "name": "8.1 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:45:48.903Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Reference Investigation Procedures": {
+      "driveFileId": "1Zh9JY1F7f1b-Y126eZ3c7ndT4aDFs7duDhspJB2NuuI",
+      "name": "8.1 Lesson 4 Reference Investigation Procedures",
+      "modifiedTime": "2024-08-13T20:45:43.422Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Results from other": {
+      "driveFileId": "1nHYCVgHuUGMZv6bJgEFS5YAJcdGe0ZcFR7u6Du1q8gQ",
+      "name": "8.1 Lesson 4 Handout Results from other",
+      "modifiedTime": "2024-08-13T20:45:38.123Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Independent, Dependent, and": {
+      "driveFileId": "1imSkARaG4351GmmSbKDsK4AlfXGu1S16MaVCC78xv04",
+      "name": "8.1 Lesson 4 Handout Independent, Dependent, and",
+      "modifiedTime": "2024-08-13T20:45:35.091Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lesson 4 Handout Deformation Results": {
+      "driveFileId": "1PGNCadtCtpT3IWIrtr1X-RnraDUNxRCSPv1Wmh81U8M",
+      "name": "8.1 Lesson 4 Handout Deformation Results",
+      "modifiedTime": "2024-08-13T20:45:31.165Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lección 4 Referencia Procedimientos para la": {
+      "driveFileId": "1tLoNXNbN8lLKi2GbirW_OD1LJ2YMz59uSX4-HKg_iRM",
+      "name": "8.1 Lección 4 Referencia Procedimientos para la",
+      "modifiedTime": "2024-08-13T20:45:22.874Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lección 4 Folleto Variables independientes, dependientes": {
+      "driveFileId": "1pi1ccsGLeBzYg2DN7PzTZ_6Bx1GG9IO1K4aQK4zLutk",
+      "name": "8.1 Lección 4 Folleto Variables independientes, dependientes",
+      "modifiedTime": "2024-08-13T20:45:22.051Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lección 4 Folleto Resultados de pruebas": {
+      "driveFileId": "1sjfz7-8pw9wxYaok7YnQrAQKFIBG26D-Mo2tiTZQFXo",
+      "name": "8.1 Lección 4 Folleto Resultados de pruebas",
+      "modifiedTime": "2024-08-13T20:45:18.483Z"
+    },
+    "Lesson 4 - 8.1 Contact Forces/8.1 Lección 4 Folleto Resultados de deformación": {
+      "driveFileId": "1v0GTAaopnI2liFdDajsCvYGfbuPldMk2nt9g77mZTZg",
+      "name": "8.1 Lección 4 Folleto Resultados de deformación",
+      "modifiedTime": "2024-08-13T20:45:13.273Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Teacher Edition": {
+      "driveFileId": "1e1B90Ah7p15v1xAW_bLR0hBgk9mYZO7V0MKo5eJADHA",
+      "name": "8.1 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:08.911Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1OAO-6aGHonHav--Wnijko3VtOH0NCZSlXczRhIKv0jo",
+      "name": "8.1 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:04.709Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Student Procedure": {
+      "driveFileId": "1ILBgM6mzcDT1ESpo0-9nx86X-yEkQ9sVumk9qlKHi4c",
+      "name": "8.1 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:00.456Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Slides": {
+      "driveFileId": "1hyKY1mt8xq9Yexs46bKGnMyGLJdoTXkRsHtsVgV-74A",
+      "name": "8.1 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:44:56.719Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Handout Transcript Baseball and": {
+      "driveFileId": "1DaQrLRTV1H3nBx-FIHLNw3tmIjqmMBrpRb74Vziz4So",
+      "name": "8.1 Lesson 3 Handout Transcript Baseball and",
+      "modifiedTime": "2024-08-13T20:44:52.414Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lesson 3 Handout Claim and Observations": {
+      "driveFileId": "1x7FFSO1O_FBAFXVvwmdpyIEcDz_hmbcATn1-1OVf6wM",
+      "name": "8.1 Lesson 3 Handout Claim and Observations",
+      "modifiedTime": "2024-08-13T20:44:50.015Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lección 3 Folleto Transcripción Colisión de": {
+      "driveFileId": "1eGanIKuSuPsozjjMX7snnrqkzY7m7WjM0dQ-6OexUc8",
+      "name": "8.1 Lección 3 Folleto Transcripción Colisión de",
+      "modifiedTime": "2024-08-13T20:44:47.260Z"
+    },
+    "Lesson 3 - 8.1 Contact Forces/8.1 Lección 3 Folleto Organizador de reclamos": {
+      "driveFileId": "18_Op4ATv2I7uXlUz8FNzDGa5OCkI5Jy7tbdOL7Pz8uY",
+      "name": "8.1 Lección 3 Folleto Organizador de reclamos",
+      "modifiedTime": "2024-08-13T20:44:42.745Z"
+    },
+    "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Reference Making Sugar Glass": {
+      "driveFileId": "1IZCrb_fvUS78_sHMfDTv8ZzwIuZbT6Wv0GVXkm_K1IY",
+      "name": "8.1 Lesson 2 Teacher Reference Making Sugar Glass",
+      "modifiedTime": "2024-08-13T20:44:39.149Z"
+    },
+    "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Teacher Edition": {
+      "driveFileId": "19k5Gs_FEOXvb-DBJZS63MELmMUGoxBJJMxx7UKEx1Lw",
+      "name": "8.1 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:35.581Z"
+    },
+    "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1ML-KwTehJh3bNh5UDYb_MIL0p2Mk6zb2PuID1wojEYU",
+      "name": "8.1 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:31.027Z"
+    },
+    "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Student Procedure": {
+      "driveFileId": "110GpXzaLe7PW20AuBdMPEPjjEjF-w9C1g9mKnMNToW0",
+      "name": "8.1 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:26.740Z"
+    },
+    "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Slides": {
+      "driveFileId": "1lcy1YB5PYWsDGbgULDnMtx0t1_qdxT6msWrsgP4H5R4",
+      "name": "8.1 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:44:22.575Z"
+    },
+    "Lesson 2 - 8.1 Contact Forces/8.1 Lesson 2 Handout Exploring Horizontal Collisions": {
+      "driveFileId": "1HO5bgXbdx7_EoF7xkJvQQKStzP1WFBvXrmaoGKwBug8",
+      "name": "8.1 Lesson 2 Handout Exploring Horizontal Collisions",
+      "modifiedTime": "2024-08-13T20:44:17.664Z"
+    },
+    "Lesson 2 - 8.1 Contact Forces/8.1 Lección 2 Folleto Explorar colisiones horizontales": {
+      "driveFileId": "1gmsdVclI8Z4rd8gxYnuP4hFWeZW0ZTW7qio15SKgt0I",
+      "name": "8.1 Lección 2 Folleto Explorar colisiones horizontales",
+      "modifiedTime": "2024-08-13T20:44:15.165Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Reference Project Options Overview": {
+      "driveFileId": "1JafVxHOsLtxBR7YArwT94MzYED5q0yFlXdFDubW5bPM",
+      "name": "8.1 Lesson 16 Teacher Reference Project Options Overview",
+      "modifiedTime": "2024-08-13T20:44:11.959Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Reference Potential Accompanying Standards": {
+      "driveFileId": "1P4yklJWbNKkwfpG-jGqDAXV0qOXjHHuJXngMwskUcZ0",
+      "name": "8.1 Lesson 16 Teacher Reference Potential Accompanying Standards",
+      "modifiedTime": "2024-08-13T20:44:09.640Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Reference Investor Presentation Choice": {
+      "driveFileId": "185uDWxfwmznBzrquwt4na_ooVetvy5UL0A_r31qrsR8",
+      "name": "8.1 Lesson 16 Teacher Reference Investor Presentation Choice",
+      "modifiedTime": "2024-08-13T20:44:06.965Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Teacher Edition": {
+      "driveFileId": "1IqUsKk_8rNCMAWUzJ4n4CBlbLls1WyQ2I9N6EXgGFxw",
+      "name": "8.1 Lesson 16 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:03.960Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Slides": {
+      "driveFileId": "13hr2kNMOxjz_TJimZbwapWtawK9pdGx6Y3wlDHmfZTw",
+      "name": "8.1 Lesson 16 Slides",
+      "modifiedTime": "2024-08-13T20:44:00.771Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Presentation Format Options": {
+      "driveFileId": "1oSNh9XPedDs41fsg61fo97ubcaR-LHXPDT5Fbw2YHRE",
+      "name": "8.1 Lesson 16 Handout Presentation Format Options",
+      "modifiedTime": "2024-08-13T20:43:57.589Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Outlining an Investor": {
+      "driveFileId": "1d1xARzADkUW8H7erJ4rBoCu1k2X3ds35lJ28nNeT1m8",
+      "name": "8.1 Lesson 16 Handout Outlining an Investor",
+      "modifiedTime": "2024-08-13T20:43:55.010Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Optional Project Extensions": {
+      "driveFileId": "1XM3v-jYXHCC1Rd311pdWNkNw8gZ4vhbPV4fWuWLtoek",
+      "name": "8.1 Lesson 16 Handout Optional Project Extensions",
+      "modifiedTime": "2024-08-13T20:43:51.087Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Investor Design Feedback": {
+      "driveFileId": "13DSxr5jNObZ-2iD7Du-V5tsRKF3ZfR73Wi5CG82kOUg",
+      "name": "8.1 Lesson 16 Handout Investor Design Feedback",
+      "modifiedTime": "2024-08-13T20:43:48.792Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Determining Your Prototype": {
+      "driveFileId": "1qEp3UCZ_ICydXZ6S6P6tqyVD3RiXQhEIsOjf8le6mww",
+      "name": "8.1 Lesson 16 Handout Determining Your Prototype",
+      "modifiedTime": "2024-08-13T20:43:45.835Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lesson 16 Handout Creating a Scale": {
+      "driveFileId": "1a4vPZR-xZsd9O1Wd-oUKTQZxt5VkCEL3PFbddos3BzY",
+      "name": "8.1 Lesson 16 Handout Creating a Scale",
+      "modifiedTime": "2024-08-13T20:43:42.481Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lección 16 Folleto Opciones de formato": {
+      "driveFileId": "1pc6966iAh5UJF4Gp7o8VVcku1CS36QBTABhvZ1JI8Bc",
+      "name": "8.1 Lección 16 Folleto Opciones de formato",
+      "modifiedTime": "2024-08-13T20:43:38.179Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lección 16 Folleto Formulario de comentarios": {
+      "driveFileId": "14lxG3jgCZ5XqGuwF7rNoLorqZpeZBhDxJ7liwWWzPwM",
+      "name": "8.1 Lección 16 Folleto Formulario de comentarios",
+      "modifiedTime": "2024-08-13T20:43:35.485Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lección 16 Folleto Extensiones de proyecto": {
+      "driveFileId": "1xZC5bgDdl8JZw5qSiUXJzz3263HvZkHYdEE8-Br5JiM",
+      "name": "8.1 Lección 16 Folleto Extensiones de proyecto",
+      "modifiedTime": "2024-08-13T20:43:33.096Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lección 16 Folleto Determinación de las": {
+      "driveFileId": "1bBfZVqlTnWacYxw-uPXwkktYYRadTTx8lVnmJkp55k4",
+      "name": "8.1 Lección 16 Folleto Determinación de las",
+      "modifiedTime": "2024-08-13T20:43:29.935Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lección 16 Folleto Descripción de una": {
+      "driveFileId": "1M5Aehpk-FhBLc-4D8b3QDNS6PK5RmeNszPX_Sr9CvTM",
+      "name": "8.1 Lección 16 Folleto Descripción de una",
+      "modifiedTime": "2024-08-13T20:43:26.668Z"
+    },
+    "Lesson 16 - 8.1 Contact Forces/8.1 Lección 16 Folleto Crear un modelo": {
+      "driveFileId": "1cL1-GiroRd_oUjCRYoQaKbPefrW9lIR70FHDUte1pi8",
+      "name": "8.1 Lección 16 Folleto Crear un modelo",
+      "modifiedTime": "2024-08-13T20:43:23.074Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Reference Item alignment guide": {
+      "driveFileId": "175c-VpV0PRTWPnGXXJIDJipYGGcXX1EbMreQtQLQhsA",
+      "name": "8.1 Lesson 15 Teacher Reference Item alignment guide",
+      "modifiedTime": "2024-08-13T20:43:18.044Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Teacher Edition": {
+      "driveFileId": "1lPpwuxsquY0l1gY9ethXgmZ3loCZG-XKPF8ZuhesnCA",
+      "name": "8.1 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:43:14.777Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1POb-YCrQuOqBBd0hYVnagA5_zpnPf-_yEnFDlhMiZSE",
+      "name": "8.1 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:43:08.891Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Student Procedure": {
+      "driveFileId": "1xvFZRcFuw4LmUp4tAsEdRKq8gMt8o2UkctoSrQ1DJ5Y",
+      "name": "8.1 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-13T20:43:05.660Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Slides": {
+      "driveFileId": "1-nC4LXO2F8o8ADcxQ3f3D7AHEaWku-NEdkQ2sXFzdrY",
+      "name": "8.1 Lesson 15 Slides",
+      "modifiedTime": "2024-08-13T20:43:02.657Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Revisión de nuestro": {
+      "driveFileId": "1cAqXozaakaR-S9UeV885kcTtZKWsxDcraP2mI0ZuTdY",
+      "name": "8.1 Lesson 15 Handout Revisión de nuestro",
+      "modifiedTime": "2024-08-13T20:42:58.837Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Reviewing Our Driving": {
+      "driveFileId": "1EkIHaKc-HsO4LNg7053QqBeTYYa_NAcDMDsrckqJ1XM",
+      "name": "8.1 Lesson 15 Handout Reviewing Our Driving",
+      "modifiedTime": "2024-08-13T20:42:56.404Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Handout Final Design Proposal": {
+      "driveFileId": "1sKAKfZg-wwXkyiZajoqWQ_cTFYabKk1NkuTGqwH5m90",
+      "name": "8.1 Lesson 15 Handout Final Design Proposal",
+      "modifiedTime": "2024-08-13T20:42:53.423Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Assessment Part 2 Cheerleading": {
+      "driveFileId": "1Tkf96ekLhrL5mSCAd2eIoI-3__o3mHl01zEJp7eCl18",
+      "name": "8.1 Lesson 15 Assessment Part 2 Cheerleading",
+      "modifiedTime": "2024-08-13T20:42:50.130Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Assessment Part 1 Cheerleading": {
+      "driveFileId": "1DgwQ3xuMNrPElC1CL3AdLGFDFz9RhJqOb4Ab_lx4Pgg",
+      "name": "8.1 Lesson 15 Assessment Part 1 Cheerleading",
+      "modifiedTime": "2024-08-13T20:42:45.802Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Answer Key Part 2 Key": {
+      "driveFileId": "1KxTr9ErIRcKMrnibO0B2-xIIAH5jhGKeSBJq4xWMWNY",
+      "name": "8.1 Lesson 15 Answer Key Part 2 Key",
+      "modifiedTime": "2024-08-13T20:42:42.325Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lesson 15 Answer Key Part 1 Key": {
+      "driveFileId": "1HOOMmgKCrt2UBHCaq4ZeYjjeI6mmO7RvsbNaDR3KeV8",
+      "name": "8.1 Lesson 15 Answer Key Part 1 Key",
+      "modifiedTime": "2024-08-13T20:42:37.987Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lección 15 Folleto Revisión de nuestro": {
+      "driveFileId": "1XcDu5aE5gzEMOwEUdTNYI9iwPNapEKPCGrjHO2UATK0",
+      "name": "8.1 Lección 15 Folleto Revisión de nuestro",
+      "modifiedTime": "2024-08-13T20:42:33.764Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lección 15 Folleto Propuesta de diseño": {
+      "driveFileId": "1KOYEeiTeCKV-V7ZGGiH8kpKbUU2BrdQvDwXyVXiCGFw",
+      "name": "8.1 Lección 15 Folleto Propuesta de diseño",
+      "modifiedTime": "2024-08-13T20:42:31.370Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lección 15 Evaluación Parte 2 Evaluación": {
+      "driveFileId": "1sx3Y2Z-msTskjfUPFp-xwy2ioD3BmmPNriVvWDROhqs",
+      "name": "8.1 Lección 15 Evaluación Parte 2 Evaluación",
+      "modifiedTime": "2024-08-13T20:42:28.129Z"
+    },
+    "Lesson 15 - 8.1 Contact Forces/8.1 Lección 15 Evaluación Parte 1 Evaluación": {
+      "driveFileId": "1f8TrCWx7Cppvj11tD7AO3Iq4jtjBVbctSc4q3px_dF8",
+      "name": "8.1 Lección 15 Evaluación Parte 1 Evaluación",
+      "modifiedTime": "2024-08-13T20:42:23.740Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Teacher Edition": {
+      "driveFileId": "1WvLkfoqwK5rcsjPppbJcPyc3kPPkz0wwx9QGlLWOIkk",
+      "name": "8.1 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:42:19.475Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1qxA-b9eoleesDzakgwzgGee1XAhUf5ifFo6zTqqEOGo",
+      "name": "8.1 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:42:16.425Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Student Procedure": {
+      "driveFileId": "1D8c2dUyPtgDfOzOtna4Te93iMI80Q6d5kG_QgqkE82o",
+      "name": "8.1 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-13T20:42:12.456Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Slides": {
+      "driveFileId": "1HqROKuuyl5buD8crnD5fyjTDquDMlywZXW7z6GBSbpE",
+      "name": "8.1 Lesson 14 Slides",
+      "modifiedTime": "2024-08-13T20:42:08.710Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Reference Additional Material Considerations": {
+      "driveFileId": "18N5-hkbiFoa5U7jRjrtYxZtmahJrHEdSIAZsWHDNosI",
+      "name": "8.1 Lesson 14 Reference Additional Material Considerations",
+      "modifiedTime": "2024-08-13T20:42:04.703Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Handout Stakeholder Feedback Form": {
+      "driveFileId": "1M3u79En2uFEX8938XrrgCjBJ44ClFIIAF7rKOHBEwGc",
+      "name": "8.1 Lesson 14 Handout Stakeholder Feedback Form",
+      "modifiedTime": "2024-08-13T20:42:01.867Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Handout Redesigning Your Protective": {
+      "driveFileId": "1pQEh_PmoJK0qEdhEO4mBvnbCNBjCvoUMdl_CZu2sCPI",
+      "name": "8.1 Lesson 14 Handout Redesigning Your Protective",
+      "modifiedTime": "2024-08-13T20:41:56.728Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lesson 14 Handout Decision Matrix": {
+      "driveFileId": "1hzRbF9vjhfGeufbERnuIFBaOsfXBqs_Nh9SnD8_0X1w",
+      "name": "8.1 Lesson 14 Handout Decision Matrix",
+      "modifiedTime": "2024-08-13T20:41:53.973Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lección 14 Referencia Matriz de consideraciones": {
+      "driveFileId": "1I6Opo7551Cb03aGB-ETSP2r6I7NpaDAKxVkI9gqRaqE",
+      "name": "8.1 Lección 14 Referencia Matriz de consideraciones",
+      "modifiedTime": "2024-08-13T20:41:51.210Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lección 14 Folleto Rediseño de su": {
+      "driveFileId": "1yn4SeDHU2ACtuFchPKeUavMS6zi2ryDxu9NHfQ2yRI8",
+      "name": "8.1 Lección 14 Folleto Rediseño de su",
+      "modifiedTime": "2024-08-13T20:41:42.391Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lección 14 Folleto Matriz de decisiones": {
+      "driveFileId": "1iRvN8LcE7ZcPZJukzWBZcRqgwcM-rcfGLfUW2CLV5sg",
+      "name": "8.1 Lección 14 Folleto Matriz de decisiones",
+      "modifiedTime": "2024-08-13T20:41:39.562Z"
+    },
+    "Lesson 14 - 8.1 Contact Forces/8.1 Lección 14 Folleto Formulario de retroalimentación": {
+      "driveFileId": "14kDu6irVdp2fS9E238RLCPadjm3yyNAAvsoNAOP1uO8",
+      "name": "8.1 Lección 14 Folleto Formulario de retroalimentación",
+      "modifiedTime": "2024-08-13T20:41:36.496Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Teacher Edition": {
+      "driveFileId": "1M3UyPCCDHc5R3KMA8yvPk8pb4BYGa4NvQD85DbLSlM4",
+      "name": "8.1 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:41:32.525Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1GRfh4GVAVNkfYxUW_dh92xJwAKyVcwDX45MgO_kjyEo",
+      "name": "8.1 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:41:26.613Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Student Procedure": {
+      "driveFileId": "1PxKG1Be-L_mS12l3tzdmOFlcd2wuXdd358DFFTcgm9I",
+      "name": "8.1 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-13T20:41:22.935Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Slides": {
+      "driveFileId": "1ndFZh-rUGpyFzQEDRblqeiSWUFjyTl9wc27H5H9sR7g",
+      "name": "8.1 Lesson 13 Slides",
+      "modifiedTime": "2024-08-13T20:41:18.645Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Reading Anatomy of a": {
+      "driveFileId": "1pxmDZkZsiqwdDTQHZxd06JZ9SLU80bLsjsP0bUMBY94",
+      "name": "8.1 Lesson 13 Reading Anatomy of a",
+      "modifiedTime": "2024-08-13T20:41:14.179Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Handout Reading Anatomy of": {
+      "driveFileId": "1tm47hL6OsFyufDiwDj3Lz_VuVE5vgiyP_gY85ESQ6OY",
+      "name": "8.1 Lesson 13 Handout Reading Anatomy of",
+      "modifiedTime": "2024-08-13T20:41:10.446Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Handout Observations from Adding": {
+      "driveFileId": "1Gzyh5IMFx5huWdd0OzOx4AC26-JTGbB90vrOpl-f9pw",
+      "name": "8.1 Lesson 13 Handout Observations from Adding",
+      "modifiedTime": "2024-08-13T20:41:06.180Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Handout Free body diagrams": {
+      "driveFileId": "1jVcxLkEBY72uI4-7NEdEfq8HAXy1j75uYjZdDQHFgEg",
+      "name": "8.1 Lesson 13 Handout Free body diagrams",
+      "modifiedTime": "2024-08-13T20:41:02.955Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lesson 13 Handout Exploring shape of": {
+      "driveFileId": "1eVzmNyNSvs9_ed59TfhS2RYnOcPw7UWxtk_zonZORYg",
+      "name": "8.1 Lesson 13 Handout Exploring shape of",
+      "modifiedTime": "2024-08-13T20:40:59.079Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lección 13 Lectura Anatomía de un": {
+      "driveFileId": "1_dM5C1wAbLoRec8IIb7xoFTD3s0Z-4Mekh9rx9sTTAM",
+      "name": "8.1 Lección 13 Lectura Anatomía de un",
+      "modifiedTime": "2024-08-13T20:40:55.286Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lección 13 Folleto Observaciones de la": {
+      "driveFileId": "1gK7GAEMwfZh8HoZi-9ncEna_lzW-ISAu4oK1MZwlSQI",
+      "name": "8.1 Lección 13 Folleto Observaciones de la",
+      "modifiedTime": "2024-08-13T20:40:50.024Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lección 13 Folleto Lectura Anatomía de": {
+      "driveFileId": "1NtbeeVA5kx4fTO8xilriIHdfe9Kt5Qt-49Jz9FjEYpQ",
+      "name": "8.1 Lección 13 Folleto Lectura Anatomía de",
+      "modifiedTime": "2024-08-13T20:40:47.435Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lección 13 Folleto Explorando la forma": {
+      "driveFileId": "1pkAgBnDkyXeysv1fteXHQM8miuU9pI65XPQJszQW084",
+      "name": "8.1 Lección 13 Folleto Explorando la forma",
+      "modifiedTime": "2024-08-13T20:40:43.806Z"
+    },
+    "Lesson 13 - 8.1 Contact Forces/8.1 Lección 13 Folleto Diagramas de cuerpo": {
+      "driveFileId": "12IBwGkAPLYIt_Qw5__pjaxmADMAsp7Dm-ASAvE5qQXY",
+      "name": "8.1 Lección 13 Folleto Diagramas de cuerpo",
+      "modifiedTime": "2024-08-13T20:40:39.482Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Reference Setup for Collision": {
+      "driveFileId": "15DYiSLgGHsOMAuAvefJ-8iegPbffbeRF-ghTVHX6Xqw",
+      "name": "8.1 Lesson 12 Teacher Reference Setup for Collision",
+      "modifiedTime": "2024-08-13T20:40:30.253Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Reference Material Charts": {
+      "driveFileId": "133DewOFbSTlfmwrVVJHhxQnUdbKkuILfuz3W0IsY9yE",
+      "name": "8.1 Lesson 12 Teacher Reference Material Charts",
+      "modifiedTime": "2024-08-13T20:40:25.400Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Teacher Edition": {
+      "driveFileId": "1ashrdfmtLnHmQdi8M38Tx5kEKotdFy-Vmj0TpSdqn1E",
+      "name": "8.1 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:22.590Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1YJ4vP6NhhTKuvS31jvD7Nj6SlMVCON6gAZuKnw5DsHM",
+      "name": "8.1 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:18.279Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Student Procedure": {
+      "driveFileId": "1leUkWKrLBRteRHozDRMENB2rvsUsgoPUSNhE_0JOjq0",
+      "name": "8.1 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:13.496Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Slides": {
+      "driveFileId": "1k-S7eQLjXFXYYNME4ZxsYgrjq7E8TkSBa2T93Z8dBtI",
+      "name": "8.1 Lesson 12 Slides",
+      "modifiedTime": "2024-08-13T20:40:09.052Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Reference Up Close Images": {
+      "driveFileId": "1fAfx0t8YzKX9kEV_IdogvWJJ0t5aeSAFxkBlBvkU3JA",
+      "name": "8.1 Lesson 12 Reference Up Close Images",
+      "modifiedTime": "2024-08-13T20:40:04.562Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Reference Cushioning Materials Testing": {
+      "driveFileId": "123cQuUoa711uAb52unMkSBNdHZj_43Ecso_qatYNDIU",
+      "name": "8.1 Lesson 12 Reference Cushioning Materials Testing",
+      "modifiedTime": "2024-08-13T20:40:00.552Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Reading How do we": {
+      "driveFileId": "1Ovi4uR8tkKYJnmx_uWahaW0wXZhPhjIxKyGQSLCXEhM",
+      "name": "8.1 Lesson 12 Reading How do we",
+      "modifiedTime": "2024-08-13T20:39:56.774Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Handout Up Close Images": {
+      "driveFileId": "1tac52gpynGTXXAV16FKuCbzjR4QVxJJ_MDGnwovVEL4",
+      "name": "8.1 Lesson 12 Handout Up Close Images",
+      "modifiedTime": "2024-08-13T20:39:52.344Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Handout Reading How do": {
+      "driveFileId": "1PxspuThg8zCXYiHymP6UOSrUDv11tBEif-TZZVmGtwM",
+      "name": "8.1 Lesson 12 Handout Reading How do",
+      "modifiedTime": "2024-08-13T20:39:48.524Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Handout How can materials": {
+      "driveFileId": "1k8hXuCNKsVzAiJ6wc0KDNS1JJUasenyyKovAs5VYK24",
+      "name": "8.1 Lesson 12 Handout How can materials",
+      "modifiedTime": "2024-08-13T20:39:43.308Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lesson 12 Handout Cushioning Materials Testing": {
+      "driveFileId": "139Y3wcnKJYIGAWOUUOT1pxevSXBBM5ML7zrSNZb7OW8",
+      "name": "8.1 Lesson 12 Handout Cushioning Materials Testing",
+      "modifiedTime": "2024-08-13T20:39:39.642Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lección 12 Referencia Procedimientos de prueba": {
+      "driveFileId": "156CDY32L64NzK2fQ3h6fnl_B0ZYn-_oBAHfjj2rm98I",
+      "name": "8.1 Lección 12 Referencia Procedimientos de prueba",
+      "modifiedTime": "2024-08-13T20:39:35.303Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lección 12 Referencia Imágenes de cerca": {
+      "driveFileId": "1QtUOrKQEqROPaz9cxnWfQs2JrsnF7B4zphLKxOHsF0U",
+      "name": "8.1 Lección 12 Referencia Imágenes de cerca",
+      "modifiedTime": "2024-08-13T20:39:30.922Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lección 12 Lectura ¿Cómo percibimos las": {
+      "driveFileId": "1lziRMnYt-0B4EpM6sKIymWLfXka6jbkE_QSoNfU8cl8",
+      "name": "8.1 Lección 12 Lectura ¿Cómo percibimos las",
+      "modifiedTime": "2024-08-13T20:39:26.885Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lección 12 Folleto ¿Cómo pueden los": {
+      "driveFileId": "10XdlVk67fdPrL6eOlBfGBJf1IVd81U-1O5xW7v7tGdo",
+      "name": "8.1 Lección 12 Folleto ¿Cómo pueden los",
+      "modifiedTime": "2024-08-13T20:39:22.407Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lección 12 Folleto Procedimientos de prueba": {
+      "driveFileId": "1I8Rp1DUc8anHd1VqfBQJ9V2aJ9-wHILlynYr67kY1_w",
+      "name": "8.1 Lección 12 Folleto Procedimientos de prueba",
+      "modifiedTime": "2024-08-13T20:39:19.631Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lección 12 Folleto Lectura ¿Cómo percibimos": {
+      "driveFileId": "1bv8DD3m1nWbi1w2-U_H79kTNqnuiEvNRTJhgIrY4tbE",
+      "name": "8.1 Lección 12 Folleto Lectura ¿Cómo percibimos",
+      "modifiedTime": "2024-08-13T20:39:15.199Z"
+    },
+    "Lesson 12 - 8.1 Contact Forces/8.1 Lección 12 Folleto Imágenes de cerca": {
+      "driveFileId": "12l_HusBdHsC_7ipO7PzQdIu6wV17Hjc9_99etPMRytU",
+      "name": "8.1 Lección 12 Folleto Imágenes de cerca",
+      "modifiedTime": "2024-08-13T20:39:10.245Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Teacher Edition": {
+      "driveFileId": "1U5dvsUdkgbVPSbS5bd5pElPhw13saHsYFkwgt8e4N50",
+      "name": "8.1 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:39:05.158Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1OGu3uj7dr9jKFaZHbC7hgil0AnDGlaad1h8pJ0fp-fY",
+      "name": "8.1 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:38:59.364Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Student Procedure": {
+      "driveFileId": "1-vpSK8IX1PQBZTD5XnN1IbxA60Z2Z_UVzSpLEdL71UU",
+      "name": "8.1 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-13T20:38:55.177Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Slides": {
+      "driveFileId": "133L32kX6qIJWs5B--3yqSzFcIa6_Oy-jDHwduE7q4ME",
+      "name": "8.1 Lesson 11 Slides",
+      "modifiedTime": "2024-08-13T20:38:51.596Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Handout Protection Device Design": {
+      "driveFileId": "1Xx5ehNlpQQtoGfi5N4YNZboqPErbeA905p1pCzYG9jo",
+      "name": "8.1 Lesson 11 Handout Protection Device Design",
+      "modifiedTime": "2024-08-13T20:38:47.263Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lesson 11 Handout Drafting Our Protection": {
+      "driveFileId": "1OMhYR2u6ToBGX0il5Lj8BybhpnUko5fUKsljMf2Gyg8",
+      "name": "8.1 Lesson 11 Handout Drafting Our Protection",
+      "modifiedTime": "2024-08-13T20:38:44.237Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lección 11 Folleto Pensamientos de diseño": {
+      "driveFileId": "1R3_jgoqzJaTiG2t6ZbyryX-2DsXwxCXEQSrf_Jog3I8",
+      "name": "8.1 Lección 11 Folleto Pensamientos de diseño",
+      "modifiedTime": "2024-08-13T20:38:41.407Z"
+    },
+    "Lesson 11 - 8.1 Contact Forces/8.1 Lección 11 Folleto Borrador del diseño": {
+      "driveFileId": "1zFhBpUg4GMmac7auQos7ISzhlX9fshpS7R-mTle8arI",
+      "name": "8.1 Lección 11 Folleto Borrador del diseño",
+      "modifiedTime": "2024-08-13T20:38:37.636Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Reference Related Phenomena List": {
+      "driveFileId": "1Mp8uG9Zfsr-kS_DDykIVljS5vUNV3TSCAugZ2E3v8bs",
+      "name": "8.1 Lesson 10 Teacher Reference Related Phenomena List",
+      "modifiedTime": "2024-08-13T20:38:34.102Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Teacher Edition": {
+      "driveFileId": "1rPzQJpbxlukDMdYf7I75I3TL8cSprMrz_aE08CUlyFY",
+      "name": "8.1 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:38:31.837Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1r2-O03C68qTz63veau6pYakIT1rGFaqaFxVkhYKDndo",
+      "name": "8.1 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:38:27.684Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Student Procedure": {
+      "driveFileId": "1J5QUmx0G5R7cqgAVudS9KM-Flp7JTYwP3nCxfm84vJc",
+      "name": "8.1 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-13T20:38:24.407Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Slides": {
+      "driveFileId": "1sIYnybT-uz32rKW-jmbXJHOx-Z9lySzRrP_pOuLOzx8",
+      "name": "8.1 Lesson 10 Slides",
+      "modifiedTime": "2024-08-13T20:38:20.917Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Explaining a Collision": {
+      "driveFileId": "1rPO3Ud91pMW7w3A1fR9VCKI9Ky_wHORUY1Wg4dJ2eQE",
+      "name": "8.1 Lesson 10 Handout Explaining a Collision",
+      "modifiedTime": "2024-08-13T20:38:16.335Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Handout Big Ideas Table": {
+      "driveFileId": "1sYhEcmzGaDYiIXVHlaa5d3RrHJAOQbUv_ANZpW4CvJE",
+      "name": "8.1 Lesson 10 Handout Big Ideas Table",
+      "modifiedTime": "2024-08-13T20:38:13.757Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Assessment Baseball Assessment 2": {
+      "driveFileId": "18WZ41aA8LyMlmuL6wQQzTcV7hCNCmgJQ-YmW2Y624tE",
+      "name": "8.1 Lesson 10 Assessment Baseball Assessment 2",
+      "modifiedTime": "2024-08-13T20:38:05.224Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Assessment Baseball Assessment 1": {
+      "driveFileId": "1XKvz6d1M1zW3xYBBcIBHj4zbDUkSSmL4MtVZwd0PprU",
+      "name": "8.1 Lesson 10 Assessment Baseball Assessment 1",
+      "modifiedTime": "2024-08-13T20:38:04.287Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Answer Key Key 2 Baseball": {
+      "driveFileId": "1kKzHLYWUNbSwbjgNFyaxSrnxDATMdgj4i2p0TYoNPJM",
+      "name": "8.1 Lesson 10 Answer Key Key 2 Baseball",
+      "modifiedTime": "2024-08-13T20:38:00.718Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lesson 10 Answer Key Key 1 Baseball": {
+      "driveFileId": "1p41BOARXh4kEE-QdaqsYNNJHymPdv5YmiV4do32hpEs",
+      "name": "8.1 Lesson 10 Answer Key Key 1 Baseball",
+      "modifiedTime": "2024-08-13T20:37:56.899Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lección 10 Folleto Tabla de grandes": {
+      "driveFileId": "1ikF6r8Qs6glNPjOhStHKJGY8JwulhYSQk44y21fnKbI",
+      "name": "8.1 Lección 10 Folleto Tabla de grandes",
+      "modifiedTime": "2024-08-13T20:37:52.214Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lección 10 Folleto Explicando una colisión": {
+      "driveFileId": "1epdQtE2ZojJ3e4lSOyHP5v2_h-NlWf8kbMVvZzUCVn8",
+      "name": "8.1 Lección 10 Folleto Explicando una colisión",
+      "modifiedTime": "2024-08-13T20:37:45.904Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lección 10 Evaluación Evaluación de béisbol": {
+      "driveFileId": "1gaMTVJshVOXnYUjWn97oNeOUK0A_ACjiFXvyrt9KNk4",
+      "name": "8.1 Lección 10 Evaluación Evaluación de béisbol",
+      "modifiedTime": "2024-08-13T20:37:45.059Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lección 10 Evaluación 2 Evaluación de": {
+      "driveFileId": "1CEVia3w-XDTRs7C3f8mFFbpx-44u8G3HwMmXXWagKkM",
+      "name": "8.1 Lección 10 Evaluación 2 Evaluación de",
+      "modifiedTime": "2024-08-13T20:37:40.982Z"
+    },
+    "Lesson 10 - 8.1 Contact Forces/8.1 Lección 10 Evaluación 1 Evaluación de": {
+      "driveFileId": "1H5nLs2-i8zQ2GKZzuGN6DWYwjgfi52Yj8sJ3clVy5Uc",
+      "name": "8.1 Lección 10 Evaluación 1 Evaluación de",
+      "modifiedTime": "2024-08-13T20:37:36.972Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Teacher Edition": {
+      "driveFileId": "16onf3ANz7vloDZfeX7ynMZ_26bmrhXD-I5V5lN4Qouc",
+      "name": "8.1 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:37:32.461Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1sKRa0pOAV3iuxQEtPY2KVIBD6cAVW6_qI9THs_eHGz4",
+      "name": "8.1 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:37:28.236Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Student Procedure": {
+      "driveFileId": "1BoruqW98Ud_M3x2EWSC_6KpiwAWNj8rz3MSFHrPhLTM",
+      "name": "8.1 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:37:23.844Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Slides": {
+      "driveFileId": "1788rkgt8IoXUSiSlaWuaGWd4y7QVSNl5mVjVo0P79mw",
+      "name": "8.1 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:37:19.733Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Handout Science Classroom Norms": {
+      "driveFileId": "1MrgTUBmvE_xhwyDc2NjHuLGTIgRbe1L6bHYrRtYK-pE",
+      "name": "8.1 Lesson 1 Handout Science Classroom Norms",
+      "modifiedTime": "2024-08-13T20:37:15.044Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Handout Object Interactions During": {
+      "driveFileId": "1IWnxQGq7Z5H2HY7t78RNPD3VZt_frdI1p5yWpPhzrCI",
+      "name": "8.1 Lesson 1 Handout Object Interactions During",
+      "modifiedTime": "2024-08-13T20:37:12.975Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lesson 1 Handout Initial Model Objects": {
+      "driveFileId": "1kXCFJREVNs4LgEwFdicpj84NK0KWs6HbYyLu372zWiI",
+      "name": "8.1 Lesson 1 Handout Initial Model Objects",
+      "modifiedTime": "2024-08-13T20:37:10.269Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lección 1 Folleto Normas para la": {
+      "driveFileId": "1rqv8YufvrNPZ8g4jUWP_bA4nWo9nJ7tiO1DE81v9ok8",
+      "name": "8.1 Lección 1 Folleto Normas para la",
+      "modifiedTime": "2024-08-13T20:37:07.686Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lección 1 Folleto Modelo inicial objetos": {
+      "driveFileId": "10Y9SlJ--EITwZU522kSzxPgRSMvJMFHSACM-kIxdXF8",
+      "name": "8.1 Lección 1 Folleto Modelo inicial objetos",
+      "modifiedTime": "2024-08-13T20:37:04.847Z"
+    },
+    "Lesson 1 - 8.1 Contact Forces/8.1 Lección 1 Folleto Interacciones de objetos": {
+      "driveFileId": "1cP1Fjny1ajQT68-Tn9HomeGFndDSUOFfMsenvGhsbYU",
+      "name": "8.1 Lección 1 Folleto Interacciones de objetos",
+      "modifiedTime": "2024-08-13T20:37:02.206Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "17ziukHHLv7ycB5LOvlkqpmW0BEIOetX5",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:36:58.619Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1hfzdOhjTQHjnm74bsYJtT0BMAUecNsG6",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:36:57.656Z"
+    },
+    "8.1 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1lmExhH0MtJ7anMyMmh8iB9UaIQfgIt-R",
+      "name": "8.1 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:36:56.592Z"
+    }
+  }
+}

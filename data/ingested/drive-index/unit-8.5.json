@@ -1,0 +1,1344 @@
+{
+  "unitId": "8.5",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 8",
+  "unitFolder": "8.5 Genetics",
+  "unitDriveFolderId": "1qpgC26qvZAeC97FvFLjbvq38hAmAyp0F",
+  "indexedAt": "2026-08-17T15:18:06.973Z",
+  "fileCount": 190,
+  "manifestPathCount": 42,
+  "matchedCount": 42,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "85-1-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/8.5 Lesson 1 Handout Initial Model.docx",
+      "driveFileId": "1GrR460v0FOUes3aXGZg0e--cxEXoyYWhGfLTB6STEJA",
+      "driveRelativePath": "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Handout Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:00.462Z"
+    },
+    {
+      "assessmentId": "85-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1nPlruUvddf2YGAtVJanFmXJWky8fY9zqwcGdByAV0SM",
+      "driveRelativePath": "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:21.917Z"
+    },
+    {
+      "assessmentId": "85-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1nPlruUvddf2YGAtVJanFmXJWky8fY9zqwcGdByAV0SM",
+      "driveRelativePath": "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:21.917Z"
+    },
+    {
+      "assessmentId": "85-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1jV0AxuqIuSFbTP8Qjg8UNKByAsdW2oe78T78GRjxj1E",
+      "driveRelativePath": "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:40.233Z"
+    },
+    {
+      "assessmentId": "85-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1jV0AxuqIuSFbTP8Qjg8UNKByAsdW2oe78T78GRjxj1E",
+      "driveRelativePath": "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:40.233Z"
+    },
+    {
+      "assessmentId": "85-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1jV0AxuqIuSFbTP8Qjg8UNKByAsdW2oe78T78GRjxj1E",
+      "driveRelativePath": "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:40.233Z"
+    },
+    {
+      "assessmentId": "85-10-checklist-for-obtaining-information",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Checklist for Obtaining.docx",
+      "driveFileId": "1SgIT974EBbZkBwUoN3H37xuOGOyh7Z4Z61Zl-Up--t8",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Checklist for Obtaining",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:32:46.501Z"
+    },
+    {
+      "assessmentId": "85-10-checklist-for-obtaining-information",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1j553ZmtVOx0_dl46VDUidweku5QDFzMdpLWzVHPIAqI",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:33:09.446Z"
+    },
+    {
+      "assessmentId": "85-10-checklist-for-obtaining-information",
+      "field": "answerKey",
+      "manifestPath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Checklist.docx",
+      "driveFileId": "1RRTlGaCcwmqwfvMjSqbAYIvz2O3dCNMvLjVD8y4JIuc",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Checklist",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:32:37.874Z"
+    },
+    {
+      "assessmentId": "85-10-goldfish-assessment",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Goldfish Assessment.docx",
+      "driveFileId": "18dE9pc9o5Jc-4ugspSKtN_bn9Zs0_gdRjWpx7M_-1ic",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Goldfish Assessment",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:32:50.648Z"
+    },
+    {
+      "assessmentId": "85-10-goldfish-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1j553ZmtVOx0_dl46VDUidweku5QDFzMdpLWzVHPIAqI",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:33:09.446Z"
+    },
+    {
+      "assessmentId": "85-10-goldfish-assessment",
+      "field": "answerKey",
+      "manifestPath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Goldfish.docx",
+      "driveFileId": "1v2n1EjzU20I_sRmywVZZcfAKFgnqHmP5_jT8NP4uPMo",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Goldfish",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:32:43.456Z"
+    },
+    {
+      "assessmentId": "85-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1j553ZmtVOx0_dl46VDUidweku5QDFzMdpLWzVHPIAqI",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:09.446Z"
+    },
+    {
+      "assessmentId": "85-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.5 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1iBmrtyBLFKP3bB23PSnXXzR-DPOE_RjgIsqcPE3PtWE",
+      "driveRelativePath": "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:21.307Z"
+    },
+    {
+      "assessmentId": "85-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1KaxrUGCHA8crYPnIMX7DJKlAkw8idasQYykbA95vDD4",
+      "driveRelativePath": "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:02.522Z"
+    },
+    {
+      "assessmentId": "85-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1KaxrUGCHA8crYPnIMX7DJKlAkw8idasQYykbA95vDD4",
+      "driveRelativePath": "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:02.522Z"
+    },
+    {
+      "assessmentId": "85-12-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1KaxrUGCHA8crYPnIMX7DJKlAkw8idasQYykbA95vDD4",
+      "driveRelativePath": "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:02.522Z"
+    },
+    {
+      "assessmentId": "85-13-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/8.5 Lesson 13 Handout Reference Peer Feedback.docx",
+      "driveFileId": "1XDsL2y6bCJ5TtHJcUMit5-biWiQDGqD_MGkB6Rq_b7s",
+      "driveRelativePath": "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Reference Peer Feedback",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:01.474Z"
+    },
+    {
+      "assessmentId": "85-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.5 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1fRZhM0xp-cnTR2TmLMwjj2ZqG5CvkxdKFhGJ5bjB10g",
+      "driveRelativePath": "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:33.311Z"
+    },
+    {
+      "assessmentId": "85-14-self-assessment-for-obtaining-evaluating-and-communicating-information",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Assessment Self-assessment for Obtaining,.docx",
+      "driveFileId": "1tvr1W2U5NqrFIA798WDN7f4nNlRJ99ghGRrHNeHEFX8",
+      "driveRelativePath": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Assessment Self-assessment for Obtaining,",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:36:52.391Z"
+    },
+    {
+      "assessmentId": "85-14-self-assessment-for-obtaining-evaluating-and-communicating-information",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1_fBV-8zwZOgtamQlQo13rc5P2ynIY-f85wv00TRcBdk",
+      "driveRelativePath": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:37:12.645Z"
+    },
+    {
+      "assessmentId": "85-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.5 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1_fBV-8zwZOgtamQlQo13rc5P2ynIY-f85wv00TRcBdk",
+      "driveRelativePath": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:12.645Z"
+    },
+    {
+      "assessmentId": "85-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/8.5 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1-oshu09A6t7v50FOsTFq___jVmUsz7LV_syWW2S363w",
+      "driveRelativePath": "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:03.276Z"
+    },
+    {
+      "assessmentId": "85-16-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1ueMKlSEQSgC-XIqMd0E60alANUYRKKP2dzNsXNWjKAc",
+      "driveRelativePath": "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.146Z"
+    },
+    {
+      "assessmentId": "85-16-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1ueMKlSEQSgC-XIqMd0E60alANUYRKKP2dzNsXNWjKAc",
+      "driveRelativePath": "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.146Z"
+    },
+    {
+      "assessmentId": "85-16-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1ueMKlSEQSgC-XIqMd0E60alANUYRKKP2dzNsXNWjKAc",
+      "driveRelativePath": "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.146Z"
+    },
+    {
+      "assessmentId": "85-17-redwoods-assessment",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Assessment Redwoods Assessment.docx",
+      "driveFileId": "1mCvHgeHU39NclBN2DTfqAlw2fRLxkwzK_6O98lS1jzs",
+      "driveRelativePath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Assessment Redwoods Assessment",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:40:04.910Z"
+    },
+    {
+      "assessmentId": "85-17-redwoods-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1ApEB8F6JiSnlC2BE3RzwZjrn-nPyaBQe3sdhVMTNWfY",
+      "driveRelativePath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:40:35.167Z"
+    },
+    {
+      "assessmentId": "85-17-redwoods-assessment",
+      "field": "answerKey",
+      "manifestPath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Answer Key Key for Redwoods.docx",
+      "driveFileId": "1ectRAwBE3K-jxsHeZESJHGoS5YG-a9zcs-18LfIjM4U",
+      "driveRelativePath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Answer Key Key for Redwoods",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:39:58.464Z"
+    },
+    {
+      "assessmentId": "85-17-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/8.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1ApEB8F6JiSnlC2BE3RzwZjrn-nPyaBQe3sdhVMTNWfY",
+      "driveRelativePath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:35.167Z"
+    },
+    {
+      "assessmentId": "85-17-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/8.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1ApEB8F6JiSnlC2BE3RzwZjrn-nPyaBQe3sdhVMTNWfY",
+      "driveRelativePath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:35.167Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/8.5 Genetics Unit Overview Materials.docx",
+      "driveFileId": "1eU56BQUeQyzM_Nlnjhd65Gy9CzH8KhTd37euqAeCmtY",
+      "driveRelativePath": "8.5 Genetics Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-14T00:31:33.479Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/8.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1nPlruUvddf2YGAtVJanFmXJWky8fY9zqwcGdByAV0SM",
+      "driveRelativePath": "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:21.917Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/8.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1jV0AxuqIuSFbTP8Qjg8UNKByAsdW2oe78T78GRjxj1E",
+      "driveRelativePath": "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:40.233Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/8.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1j553ZmtVOx0_dl46VDUidweku5QDFzMdpLWzVHPIAqI",
+      "driveRelativePath": "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:09.446Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/8.5 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1iBmrtyBLFKP3bB23PSnXXzR-DPOE_RjgIsqcPE3PtWE",
+      "driveRelativePath": "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:21.307Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/8.5 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1KaxrUGCHA8crYPnIMX7DJKlAkw8idasQYykbA95vDD4",
+      "driveRelativePath": "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:02.522Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/8.5 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1fRZhM0xp-cnTR2TmLMwjj2ZqG5CvkxdKFhGJ5bjB10g",
+      "driveRelativePath": "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:33.311Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/8.5 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1_fBV-8zwZOgtamQlQo13rc5P2ynIY-f85wv00TRcBdk",
+      "driveRelativePath": "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:12.645Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/8.5 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1-oshu09A6t7v50FOsTFq___jVmUsz7LV_syWW2S363w",
+      "driveRelativePath": "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:03.276Z"
+    },
+    {
+      "assessmentId": "__lesson-16__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_16/original/8.5 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1ueMKlSEQSgC-XIqMd0E60alANUYRKKP2dzNsXNWjKAc",
+      "driveRelativePath": "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:38.146Z"
+    },
+    {
+      "assessmentId": "__lesson-17__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_17/original/8.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1ApEB8F6JiSnlC2BE3RzwZjrn-nPyaBQe3sdhVMTNWfY",
+      "driveRelativePath": "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:35.167Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Lesson 3 - 8.5 Genetics/8.5 Lesson 3 Handout Reading v1 How": {
+      "driveFileId": "11YN4cGp4vxEQxvvTeZPyaJhI_cWcRjANK6B9XxU2edw",
+      "name": "8.5 Lesson 3 Handout Reading v1 How",
+      "modifiedTime": "2024-08-14T00:43:38.055Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lesson 3 Handout Reading v1 Greek": {
+      "driveFileId": "1NlFQfLRc5hXg8514usB7VC4_6Rfsdy1yfpPiobUoRsY",
+      "name": "8.5 Lesson 3 Handout Reading v1 Greek",
+      "modifiedTime": "2024-08-14T00:43:35.142Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lesson 3 Handout Reading v1 Effect": {
+      "driveFileId": "1va68vJEO_lnIzrf-1AedalKmFCgRlWw5cisYl2DlDrc",
+      "name": "8.5 Lesson 3 Handout Reading v1 Effect",
+      "modifiedTime": "2024-08-14T00:43:32.824Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lesson 3 Handout Reading v1 Carbs": {
+      "driveFileId": "1MIW01x81pW0WyiOM1B_8AIAM6GnXU-4mTiCAbhPMA78",
+      "name": "8.5 Lesson 3 Handout Reading v1 Carbs",
+      "modifiedTime": "2024-08-14T00:43:30.121Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lesson 3 Handout Organizer for Obtaining": {
+      "driveFileId": "1jIR6SIxseZY5LAZUpjj1xPLKamdxr3L1Sme5G_NnraQ",
+      "name": "8.5 Lesson 3 Handout Organizer for Obtaining",
+      "modifiedTime": "2024-08-14T00:43:26.003Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lesson 3 Handout Exit Ticket -": {
+      "driveFileId": "1oYwPe5fG9kpoNsI1Wu9R_aMMsv2Sduflw4cRxP5iLwA",
+      "name": "8.5 Lesson 3 Handout Exit Ticket -",
+      "modifiedTime": "2024-08-14T00:43:23.170Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v2 Yogur griego": {
+      "driveFileId": "17fvuPj1pkman19HR-aOuz4-6APA3n5kZtYFVDg2GJPU",
+      "name": "8.5 Lección 3 Lectura v2 Yogur griego",
+      "modifiedTime": "2024-08-14T00:43:20.036Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v2 El efecto": {
+      "driveFileId": "12WmGxBP90l1OxePLmJmVxET1LFhpwWI4B7jwqaGB898",
+      "name": "8.5 Lección 3 Lectura v2 El efecto",
+      "modifiedTime": "2024-08-14T00:43:17.508Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v2 Efecto de": {
+      "driveFileId": "1abjDXwViuGMqh8yHmD4sBV9sL7NQjA86resJYRVprp8",
+      "name": "8.5 Lección 3 Lectura v2 Efecto de",
+      "modifiedTime": "2024-08-14T00:43:14.474Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v2 Cómo desarrollar": {
+      "driveFileId": "1pHx2Ed_8T0Z8kw_QVZ_jnW7tisTEnQnpDsq8W8vnhNU",
+      "name": "8.5 Lección 3 Lectura v2 Cómo desarrollar",
+      "modifiedTime": "2024-08-14T00:43:08.424Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v2 Carbohidratos o": {
+      "driveFileId": "1EBvmBm1rwsRbHzAmEM25AFkmRJtLRe8MZWiw8ykFHbk",
+      "name": "8.5 Lección 3 Lectura v2 Carbohidratos o",
+      "modifiedTime": "2024-08-14T00:43:07.383Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v1 Yogur griego": {
+      "driveFileId": "1iQHeZWzwe__0pw1ZxVE1k4LdRVr4sMre4gCr-juJ1zc",
+      "name": "8.5 Lección 3 Lectura v1 Yogur griego",
+      "modifiedTime": "2024-08-14T00:43:03.881Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v1 El efecto": {
+      "driveFileId": "1RlX5UCUrgwEQEzhuGrGnJ6rZWuefsvpgItigle_qGhw",
+      "name": "8.5 Lección 3 Lectura v1 El efecto",
+      "modifiedTime": "2024-08-14T00:43:01.595Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v1 Efecto de": {
+      "driveFileId": "1EyPpf8ZjzUHJvl5eKPyWqc8kUpOyI3ywCeX0qfGZdP0",
+      "name": "8.5 Lección 3 Lectura v1 Efecto de",
+      "modifiedTime": "2024-08-14T00:42:58.877Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v1 Cómo desarrollar": {
+      "driveFileId": "1HNOVz313wDFIEKyB3vo2jq7HM4Y0BwSLEHCVG-6nH9k",
+      "name": "8.5 Lección 3 Lectura v1 Cómo desarrollar",
+      "modifiedTime": "2024-08-14T00:42:55.447Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura v1 Carbohidratos o": {
+      "driveFileId": "1l_rmLKk20zDkSwBN0L-Acqf-fk9hIcLwk40EA8m9rpU",
+      "name": "8.5 Lección 3 Lectura v1 Carbohidratos o",
+      "modifiedTime": "2024-08-14T00:42:52.729Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 2Carbohidratos o": {
+      "driveFileId": "1XasaffH2DjAMyzT7skqPci0roP8n5dxVR776-J0QiIM",
+      "name": "8.5 Lección 3 Lectura Versión 2Carbohidratos o",
+      "modifiedTime": "2024-08-14T00:42:49.515Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 2 Yogur": {
+      "driveFileId": "1Xwmhz4I4mwR6s9y5_5Yd4fwdgPpDcn2KOCYupId3pBc",
+      "name": "8.5 Lección 3 Lectura Versión 2 Yogur",
+      "modifiedTime": "2024-08-14T00:42:45.366Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 2 El": {
+      "driveFileId": "1y7zAzPv7FH_YhSfaBUWUyefNLbnQguymr_B93WaomrQ",
+      "name": "8.5 Lección 3 Lectura Versión 2 El",
+      "modifiedTime": "2024-08-14T00:42:42.771Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 2 Cómo": {
+      "driveFileId": "1dEhyJVL2udk6cyG6mjPxkUbhza-rlFiFHwQLZKNHdBQ",
+      "name": "8.5 Lección 3 Lectura Versión 2 Cómo",
+      "modifiedTime": "2024-08-14T00:42:40.437Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 1 Yogur": {
+      "driveFileId": "1LdySqYoBdVceMjk-YQKPDRvggjNSg_wZXDCeQUZa-PM",
+      "name": "8.5 Lección 3 Lectura Versión 1 Yogur",
+      "modifiedTime": "2024-08-14T00:42:37.493Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 1 El": {
+      "driveFileId": "1sHERSaMoYk8ROAq3BH8O-IAmPqDhitrR7oxX478tqIM",
+      "name": "8.5 Lección 3 Lectura Versión 1 El",
+      "modifiedTime": "2024-08-14T00:42:34.788Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 1 Efecto": {
+      "driveFileId": "1Whp6aEBKVUrcOkZD0rhyNZQFJhD19au9eesSG2YKa74",
+      "name": "8.5 Lección 3 Lectura Versión 1 Efecto",
+      "modifiedTime": "2024-08-14T00:42:31.779Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 1 Cómo": {
+      "driveFileId": "1-4uda8tQUahffNk8cSucptARwNVA8_f7dMJh218qfmU",
+      "name": "8.5 Lección 3 Lectura Versión 1 Cómo",
+      "modifiedTime": "2024-08-14T00:42:27.940Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Lectura Versión 1 Carbohidratos": {
+      "driveFileId": "1BUYzqzBUvdNU03JLiOlQkXA949jLMeuDxDb2EX-7rNs",
+      "name": "8.5 Lección 3 Lectura Versión 1 Carbohidratos",
+      "modifiedTime": "2024-08-14T00:42:24.896Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto v2 Yogur griego": {
+      "driveFileId": "1GSIDvx1wLe3nrsNrqsMqISuNQiC7jytKAKJLmtdEFfs",
+      "name": "8.5 Lección 3 Folleto v2 Yogur griego",
+      "modifiedTime": "2024-08-14T00:42:19.711Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto v2 Cómo desarrollar": {
+      "driveFileId": "1e9PJkAHiELHE0czOqk5yfbxqwe-65ZflCz1NDfCllik",
+      "name": "8.5 Lección 3 Folleto v2 Cómo desarrollar",
+      "modifiedTime": "2024-08-14T00:42:17.417Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto v1 Yogur griego": {
+      "driveFileId": "1plqjR4cgTBL0paYRo77pfod--_ULwRP6OM6vnEIHSek",
+      "name": "8.5 Lección 3 Folleto v1 Yogur griego",
+      "modifiedTime": "2024-08-14T00:42:14.410Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto v1 El efecto": {
+      "driveFileId": "1USQ_cQaAF1EQpExKN0XLVa0mbZv08kbsKwBGX_uvLGY",
+      "name": "8.5 Lección 3 Folleto v1 El efecto",
+      "modifiedTime": "2024-08-14T00:42:12.123Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto v1 Efecto de": {
+      "driveFileId": "1OCROZ26VWGo8fgf0noZ-bThaznn7ibQCwByHzEtV6hA",
+      "name": "8.5 Lección 3 Folleto v1 Efecto de",
+      "modifiedTime": "2024-08-14T00:42:09.509Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto v1 Cómo desarrollar": {
+      "driveFileId": "1KMpPvRjP43J97EOorUqD1PhFbJkbjNpvEa_nUwBnzRE",
+      "name": "8.5 Lección 3 Folleto v1 Cómo desarrollar",
+      "modifiedTime": "2024-08-14T00:42:05.649Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto v1 Carbohidratos o": {
+      "driveFileId": "1CGNM88bGNxGPTwBTjTMf_db6aUKGPJ9U_8FU9VLRRjY",
+      "name": "8.5 Lección 3 Folleto v1 Carbohidratos o",
+      "modifiedTime": "2024-08-14T00:42:02.393Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto Organizador para obtener": {
+      "driveFileId": "1dAmsM7FgyWQ-BN-l7ULtlaExM3AFDqX4OHkOwdzOSH8",
+      "name": "8.5 Lección 3 Folleto Organizador para obtener",
+      "modifiedTime": "2024-08-14T00:41:59.470Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto Lectura v2 Carbohidratos": {
+      "driveFileId": "1Aaric_VIiTcyD8m1mZLTezKNsVTfxRc8nh8KJTUq5rk",
+      "name": "8.5 Lección 3 Folleto Lectura v2 Carbohidratos",
+      "modifiedTime": "2024-08-14T00:41:56.470Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto El efecto del": {
+      "driveFileId": "1Vjw8EnneSTwGHSh9eCQGo6u2drclNXsZHeliCluWZzo",
+      "name": "8.5 Lección 3 Folleto El efecto del",
+      "modifiedTime": "2024-08-14T00:41:53.219Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto El efecto de": {
+      "driveFileId": "1kLaA3VbUcFokYyBTZ4uNf5Tj1UA0SdhaUMqy7a8rIU8",
+      "name": "8.5 Lección 3 Folleto El efecto de",
+      "modifiedTime": "2024-08-14T00:41:50.909Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto Carbohidratos o proteínas": {
+      "driveFileId": "1eRSfhXfWVWwQwDWfYW96AqItPvjL2TAu5i4x2spktkU",
+      "name": "8.5 Lección 3 Folleto Carbohidratos o proteínas",
+      "modifiedTime": "2024-08-14T00:41:47.377Z"
+    },
+    "Lesson 3 - 8.5 Genetics/8.5 Lección 3 Folleto Boleto de salida": {
+      "driveFileId": "1gdxBgdGzpZ40k_Y0xabKHu6GcnNFI_Vs-LpL095qaRM",
+      "name": "8.5 Lección 3 Folleto Boleto de salida",
+      "modifiedTime": "2024-08-14T00:41:43.908Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Teacher Edition": {
+      "driveFileId": "1jV0AxuqIuSFbTP8Qjg8UNKByAsdW2oe78T78GRjxj1E",
+      "name": "8.5 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:41:40.233Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1gnGE7kvXHVP6zJEBjeSmlnAiI655LpAAWHqBOAwI4QQ",
+      "name": "8.5 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:41:35.771Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Student Procedure": {
+      "driveFileId": "1w1bJBnZXTTW_14J3dGzu16HV7QmviJXnpHVPcTEhbew",
+      "name": "8.5 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-14T00:41:31.908Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Slides": {
+      "driveFileId": "1hkihuHp3kvUNrGrbt1lm1A7Q5dZaesjpJRSPuLm9gY0",
+      "name": "8.5 Lesson 2 Slides",
+      "modifiedTime": "2024-08-14T00:41:28.684Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Reference How Muscles Contract": {
+      "driveFileId": "1iIHAE-Gy4TJqpsOnihd7fJK_BpxoA86PharTn7pMNtc",
+      "name": "8.5 Lesson 2 Reference How Muscles Contract",
+      "modifiedTime": "2024-08-14T00:41:24.066Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Handout Transcript Muscle Contraction": {
+      "driveFileId": "1mwsU920DeubFddDVqCHe-dOeC0sZjVCZr4n_Xp52KAg",
+      "name": "8.5 Lesson 2 Handout Transcript Muscle Contraction",
+      "modifiedTime": "2024-08-14T00:41:18.536Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Handout Reference How Muscles": {
+      "driveFileId": "18JZOi2KL_WU5x2PKsuURUUp97c8OObeB37NDe8Px0TU",
+      "name": "8.5 Lesson 2 Handout Reference How Muscles",
+      "modifiedTime": "2024-08-14T00:41:16.181Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Handout Muscle Protein Questions": {
+      "driveFileId": "1kH5N_WdncRASByuxdK-DwaZIJfj6s9dpnWWYFImEkII",
+      "name": "8.5 Lesson 2 Handout Muscle Protein Questions",
+      "modifiedTime": "2024-08-14T00:41:12.468Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Handout Model Update Handout": {
+      "driveFileId": "1f_pmij9-SofMpmuRGuwg3XhQfgcqZGkl_51UyiZVWRs",
+      "name": "8.5 Lesson 2 Handout Model Update Handout",
+      "modifiedTime": "2024-08-14T00:41:09.864Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Handout Comparing Muscles Gallery": {
+      "driveFileId": "10sjYzKVTFcX80Kilz4ExsiK1UmpzN_Uc6S3_hBPvvLA",
+      "name": "8.5 Lesson 2 Handout Comparing Muscles Gallery",
+      "modifiedTime": "2024-08-14T00:41:02.860Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lesson 2 Answer Key Key for Muscle": {
+      "driveFileId": "1ZUzYPRsZEl01QW62ej-p34YtLUO-umfBKjzPpb0T-Ao",
+      "name": "8.5 Lesson 2 Answer Key Key for Muscle",
+      "modifiedTime": "2024-08-14T00:40:59.032Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lección 2 Referencia Cómo se contraen": {
+      "driveFileId": "1lvDHSTTusGqh8D_a_-fmrsL7f7YwAeD4RvVWa4QCpkI",
+      "name": "8.5 Lección 2 Referencia Cómo se contraen",
+      "modifiedTime": "2024-08-14T00:40:56.268Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lección 2 Folleto Transcripción Contracción muscular": {
+      "driveFileId": "187txUFVce59QfnjL2SfmwQo124RG6-e2Ukzv_WMc22s",
+      "name": "8.5 Lección 2 Folleto Transcripción Contracción muscular",
+      "modifiedTime": "2024-08-14T00:40:52.189Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lección 2 Folleto Referencia Cómo se": {
+      "driveFileId": "1iztL1ofBx-OpzIZ7-EXS8S3_609N_15w2DEaoyJqWpY",
+      "name": "8.5 Lección 2 Folleto Referencia Cómo se",
+      "modifiedTime": "2024-08-14T00:40:49.419Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lección 2 Folleto Preguntas de proteínas": {
+      "driveFileId": "1LuB62HcmtIyWZPnmT6dkhevvMyNGT0aEd1WArl2CLwM",
+      "name": "8.5 Lección 2 Folleto Preguntas de proteínas",
+      "modifiedTime": "2024-08-14T00:40:45.926Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lección 2 Folleto Folleto de actualización": {
+      "driveFileId": "1AWqmJ3KlUYyr0qTArgWF7qeBXf4k8RqWFijTNxf_hgo",
+      "name": "8.5 Lección 2 Folleto Folleto de actualización",
+      "modifiedTime": "2024-08-14T00:40:42.982Z"
+    },
+    "Lesson 2 - 8.5 Genetics/8.5 Lección 2 Folleto Datos de Paseo": {
+      "driveFileId": "12MxJoZvXLxnHaqwPndN2_LjrpRDrTGHeIymvkJPNoGg",
+      "name": "8.5 Lección 2 Folleto Datos de Paseo",
+      "modifiedTime": "2024-08-14T00:40:39.495Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Teacher Edition": {
+      "driveFileId": "1ApEB8F6JiSnlC2BE3RzwZjrn-nPyaBQe3sdhVMTNWfY",
+      "name": "8.5 Lesson 17 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:40:35.167Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Student Procedure in Spanish": {
+      "driveFileId": "1br84qXUvtfS9xmau6eA3i9-1NqHryC2iZQkvSZP9kXk",
+      "name": "8.5 Lesson 17 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:40:25.382Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Student Procedure": {
+      "driveFileId": "1_pNoMUiGsuaqbjZZc07IRFaFEsB5zEJhIWfj9faGwbw",
+      "name": "8.5 Lesson 17 Student Procedure",
+      "modifiedTime": "2024-08-14T00:40:24.437Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Slides": {
+      "driveFileId": "1rZQYESdLtg4NeFAbrVPKlaH9-cqHUNQdMlxxptFP7gs",
+      "name": "8.5 Lesson 17 Slides",
+      "modifiedTime": "2024-08-14T00:40:20.509Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Rubric Rubric for Redwoods": {
+      "driveFileId": "14vR0Ola6zD2gRVzL_fNDQeCqtMp6w7mY04-VXm3qTLo",
+      "name": "8.5 Lesson 17 Rubric Rubric for Redwoods",
+      "modifiedTime": "2024-08-14T00:40:15.287Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Reference Reference Images for": {
+      "driveFileId": "1yVpFKCx_Z3AtA8rvxvOaDOPBWqc_iL3cuCRW6aEIsDs",
+      "name": "8.5 Lesson 17 Reference Reference Images for",
+      "modifiedTime": "2024-08-14T00:40:12.516Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Handout Questions and Answers": {
+      "driveFileId": "1CEjDZpYOxavU3vs_Bqeh6AQZd4vW9kyjdK7vje7oVow",
+      "name": "8.5 Lesson 17 Handout Questions and Answers",
+      "modifiedTime": "2024-08-14T00:40:08.560Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Assessment Redwoods Assessment": {
+      "driveFileId": "1mCvHgeHU39NclBN2DTfqAlw2fRLxkwzK_6O98lS1jzs",
+      "name": "8.5 Lesson 17 Assessment Redwoods Assessment",
+      "modifiedTime": "2024-08-14T00:40:04.910Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lesson 17 Answer Key Key for Redwoods": {
+      "driveFileId": "1ectRAwBE3K-jxsHeZESJHGoS5YG-a9zcs-18LfIjM4U",
+      "name": "8.5 Lesson 17 Answer Key Key for Redwoods",
+      "modifiedTime": "2024-08-14T00:39:58.464Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lección 17 Referencia Imágenes de referencia": {
+      "driveFileId": "1O9UOrqBamT0VYY-vN-pXmUQCXoVPtkKv8jOtBcs9M7w",
+      "name": "8.5 Lección 17 Referencia Imágenes de referencia",
+      "modifiedTime": "2024-08-14T00:39:54.564Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lección 17 Folleto Preguntas y respuestas": {
+      "driveFileId": "1_UdGbIAANUU2hzfUfqxs7GZt2sSreYFZUcPjs8Tsl_Y",
+      "name": "8.5 Lección 17 Folleto Preguntas y respuestas",
+      "modifiedTime": "2024-08-14T00:39:50.659Z"
+    },
+    "Lesson 17 - 8.5 Genetics/8.5 Lección 17 Evaluación Evaluación de secuoyas": {
+      "driveFileId": "1RcGOVAbjfb1bm3ORFb58wa2O1P8IsZdANTBc1sZVfz4",
+      "name": "8.5 Lección 17 Evaluación Evaluación de secuoyas",
+      "modifiedTime": "2024-08-14T00:39:47.696Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Teacher Reference Alternate Histogram Tool": {
+      "driveFileId": "1ag0lco2suXQBotAEI1p1abTKMK46TcXwew69eV9S9l0",
+      "name": "8.5 Lesson 16 Teacher Reference Alternate Histogram Tool",
+      "modifiedTime": "2024-08-14T00:39:41.379Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Teacher Edition": {
+      "driveFileId": "1ueMKlSEQSgC-XIqMd0E60alANUYRKKP2dzNsXNWjKAc",
+      "name": "8.5 Lesson 16 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:39:38.146Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Student Procedure in Spanish": {
+      "driveFileId": "1CiXnpFpH8iilT5eqhth0Fsbi1MZkI1nQTAHQc2yUwFU",
+      "name": "8.5 Lesson 16 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:33.187Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Student Procedure": {
+      "driveFileId": "1NccZj0Aw2LBx5d8QJ5sZv58sZ6QFfk6yQU9v0Yz0ITU",
+      "name": "8.5 Lesson 16 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:29.808Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Slides": {
+      "driveFileId": "1KwViDU0MofRVT75z-JFAoh9usSdnAEi9PJw5CyV-bvQ",
+      "name": "8.5 Lesson 16 Slides",
+      "modifiedTime": "2024-08-14T00:39:25.777Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Reading Color of Wheat": {
+      "driveFileId": "19mtOFYYit84Eu8qeBHaNADSgPo-tadoxyHC0rBOCF68",
+      "name": "8.5 Lesson 16 Reading Color of Wheat",
+      "modifiedTime": "2024-08-14T00:39:10.553Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Reading Arm Span Length": {
+      "driveFileId": "1sO0-6MLGgR3TqevKksfDuUwvKol4sJ1BhNCeQHloGbQ",
+      "name": "8.5 Lesson 16 Reading Arm Span Length",
+      "modifiedTime": "2024-08-14T00:39:06.266Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Wheat Kernel Environmental": {
+      "driveFileId": "1cYAi1JS3AKmIzkD23LUVu4Wq8NQCRd2yLFTjeKiM1YU",
+      "name": "8.5 Lesson 16 Handout Wheat Kernel Environmental",
+      "modifiedTime": "2024-08-14T00:39:02.669Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Steps for Using": {
+      "driveFileId": "1b79SfuvlhwYKWJ4VvO8Cp7rgdF6KJYIaLkNsKJmOonE",
+      "name": "8.5 Lesson 16 Handout Steps for Using",
+      "modifiedTime": "2024-08-14T00:38:57.546Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Reading Color of": {
+      "driveFileId": "1c_b6DXj4izhntkkKjE2buTE8W65FcyxX7J6BlFK6HN0",
+      "name": "8.5 Lesson 16 Handout Reading Color of",
+      "modifiedTime": "2024-08-14T00:38:53.887Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Reading Arm Span": {
+      "driveFileId": "1xBKujzmZQLo-SYJ3n2VX2rNr47SkSqp49FAnb-g7-rQ",
+      "name": "8.5 Lesson 16 Handout Reading Arm Span",
+      "modifiedTime": "2024-08-14T00:38:48.342Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Investigación de factores": {
+      "driveFileId": "1BttDO8MNZ6sFRikpHugtzEt7hThmcBpKpnYPnNuokWU",
+      "name": "8.5 Lesson 16 Handout Investigación de factores",
+      "modifiedTime": "2024-08-14T00:38:45.238Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Data Collection Wheat": {
+      "driveFileId": "1m8Q12Z5hpJr5llOC_39nazGuQ1NQKIvpGIuU0B0XM4E",
+      "name": "8.5 Lesson 16 Handout Data Collection Wheat",
+      "modifiedTime": "2024-08-14T00:38:41.117Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Arm Span Reading": {
+      "driveFileId": "1dvFVLGKVEgHU7xvziIWj7N_WS-8yYK3G4LtcQBWG2AM",
+      "name": "8.5 Lesson 16 Handout Arm Span Reading",
+      "modifiedTime": "2024-08-14T00:38:35.426Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lesson 16 Handout Arm Span Histogram": {
+      "driveFileId": "16JJKgziR2GgyBaUN-70d5Db2tX0smIR8_nlsDPXeMU4",
+      "name": "8.5 Lesson 16 Handout Arm Span Histogram",
+      "modifiedTime": "2024-08-14T00:38:32.972Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Lectura Longitud del brazo": {
+      "driveFileId": "17H7tlWXIAUhjtvpEOXqXFTRbIuDCcijY6pnoHVMBDjI",
+      "name": "8.5 Lección 16 Lectura Longitud del brazo",
+      "modifiedTime": "2024-08-14T00:38:29.241Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Lectura Color de los": {
+      "driveFileId": "1x1CRD0aICXyqQCYD19mD5fif1jhEnEJSr-zzK6fOXSo",
+      "name": "8.5 Lección 16 Lectura Color de los",
+      "modifiedTime": "2024-08-14T00:38:26.551Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Folleto Recopilación de datos": {
+      "driveFileId": "1kS5OioCZpykyokaJRPEOq8p2eB-aX4lW_mI177qr77g",
+      "name": "8.5 Lección 16 Folleto Recopilación de datos",
+      "modifiedTime": "2024-08-14T00:38:19.583Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Folleto Pasos para usar": {
+      "driveFileId": "1KITBme_ZDDPXYdccsoYpTpp7OxCsLoHEAu_OQDkXFBI",
+      "name": "8.5 Lección 16 Folleto Pasos para usar",
+      "modifiedTime": "2024-08-14T00:38:18.773Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Folleto Lectura y modelado": {
+      "driveFileId": "1i8O_ZQah3HJJACU421QTqnvnAWO5BAEQEdLXxniU_oQ",
+      "name": "8.5 Lección 16 Folleto Lectura y modelado",
+      "modifiedTime": "2024-08-14T00:38:16.532Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Folleto Lectura Longitud del": {
+      "driveFileId": "1WM6SOkH7cWNrRY7K9AF2RwAg58G3-Zrn7rYG86y3eeQ",
+      "name": "8.5 Lección 16 Folleto Lectura Longitud del",
+      "modifiedTime": "2024-08-14T00:38:13.986Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Folleto Lectura Color de": {
+      "driveFileId": "10Qj7DlGc-m4JR0G5krIdcn17ZD7EJrHbu2GXPQ0jq1o",
+      "name": "8.5 Lección 16 Folleto Lectura Color de",
+      "modifiedTime": "2024-08-14T00:38:11.523Z"
+    },
+    "Lesson 16 - 8.5 Genetics/8.5 Lección 16 Folleto Instrucciones de histograma": {
+      "driveFileId": "1W8foQ3TwpNacU46LfOfmNUEzlOI76eN830CaLDG8JD0",
+      "name": "8.5 Lección 16 Folleto Instrucciones de histograma",
+      "modifiedTime": "2024-08-14T00:38:08.104Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Teacher Edition": {
+      "driveFileId": "1-oshu09A6t7v50FOsTFq___jVmUsz7LV_syWW2S363w",
+      "name": "8.5 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:38:03.276Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1NvJu04uePsCGC8AGyRtCYe15Vg8eAtNkhuZXAJEkPRs",
+      "name": "8.5 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:59.178Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Student Procedure": {
+      "driveFileId": "1Ugr0xrLGt3wR9MiRHS_MSMBIgMBm7J8rl2uS7HpCmT0",
+      "name": "8.5 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:54.501Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Slides": {
+      "driveFileId": "1U8NkSAKdqHDg1cqucB1SYFju9e7iSFEvKWkKxf4Gn_U",
+      "name": "8.5 Lesson 15 Slides",
+      "modifiedTime": "2024-08-14T00:37:50.741Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Reading Two Examples of": {
+      "driveFileId": "1Ku_9JP8l-3S_yog_MrCAEhLPW4Ega5hTKGNQ7n0SK-A",
+      "name": "8.5 Lesson 15 Reading Two Examples of",
+      "modifiedTime": "2024-08-14T00:37:44.696Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Handout Reading Two Examples": {
+      "driveFileId": "1Yqdcz0W0OCpYPESlC_vuSuqGwCemaFUjS1IZTPoKDbg",
+      "name": "8.5 Lesson 15 Handout Reading Two Examples",
+      "modifiedTime": "2024-08-14T00:37:40.485Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Handout Planaria Study Data": {
+      "driveFileId": "19fxBRlmMeeDyUvijhQg9JnMCoJFnXlbqwd2m-UHYxzU",
+      "name": "8.5 Lesson 15 Handout Planaria Study Data",
+      "modifiedTime": "2024-08-14T00:37:36.484Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lesson 15 Handout Explaining Environmental Effects": {
+      "driveFileId": "1Ijwe4_CY2IZLT-4BcrAlhBRI7B8NiL9zjRF3KSAX9bc",
+      "name": "8.5 Lesson 15 Handout Explaining Environmental Effects",
+      "modifiedTime": "2024-08-14T00:37:32.322Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lección 15 Lectura Dos ejemplos de": {
+      "driveFileId": "17vZbISMKZ94wNvs_kOKZXI84nkvwi-222TAUpVhd9Fg",
+      "name": "8.5 Lección 15 Lectura Dos ejemplos de",
+      "modifiedTime": "2024-08-14T00:37:29.894Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lección 15 Folleto Lectura Dos ejemplos": {
+      "driveFileId": "1CSdg-vpas5Y1mx0yqBr3QrwYwAlg6nck0aKekRx5YNk",
+      "name": "8.5 Lección 15 Folleto Lectura Dos ejemplos",
+      "modifiedTime": "2024-08-14T00:37:25.864Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lección 15 Folleto Explicación de los": {
+      "driveFileId": "1yuSPIWj4CDb4ouIIchXOKHni13afhcytjWBXjENwqEA",
+      "name": "8.5 Lección 15 Folleto Explicación de los",
+      "modifiedTime": "2024-08-14T00:37:19.541Z"
+    },
+    "Lesson 15 - 8.5 Genetics/8.5 Lección 15 Folleto Datos de estudio": {
+      "driveFileId": "1DW99L5_4s5FEV2Mo_2LfzJCKBZ6YUV42OpyDGt_a6-s",
+      "name": "8.5 Lección 15 Folleto Datos de estudio",
+      "modifiedTime": "2024-08-14T00:37:16.796Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Teacher Edition": {
+      "driveFileId": "1_fBV-8zwZOgtamQlQo13rc5P2ynIY-f85wv00TRcBdk",
+      "name": "8.5 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:12.645Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1qm5Vnqm89lrXDt4a04Sm2oN0vcfKE5vh7SkJu_PUL8I",
+      "name": "8.5 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:07.887Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Student Procedure": {
+      "driveFileId": "12Qiqx7lTtkZE3vy-YPsULEXQj3rYshE_mc5qeVwP5eU",
+      "name": "8.5 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:03.926Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Slides": {
+      "driveFileId": "1rsb8xjPmaXPcYGIJTii_s9-BdjblJycBckCyaOfkHXY",
+      "name": "8.5 Lesson 14 Slides",
+      "modifiedTime": "2024-08-14T00:36:59.684Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Handout Asexual Reproduction Notes": {
+      "driveFileId": "11YyDc8nHJocne3MocIicr5q7uM2wba5adXnLY_P09hg",
+      "name": "8.5 Lesson 14 Handout Asexual Reproduction Notes",
+      "modifiedTime": "2024-08-14T00:36:55.491Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Assessment Self-assessment for Obtaining,": {
+      "driveFileId": "1tvr1W2U5NqrFIA798WDN7f4nNlRJ99ghGRrHNeHEFX8",
+      "name": "8.5 Lesson 14 Assessment Self-assessment for Obtaining,",
+      "modifiedTime": "2024-08-14T00:36:52.391Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lesson 14 Answer Key Asexual Reproduction Notes": {
+      "driveFileId": "1rzkFaXMJbuXnq8LjcCDvRKiW7j-T80Uvsihcf-GXTMU",
+      "name": "8.5 Lesson 14 Answer Key Asexual Reproduction Notes",
+      "modifiedTime": "2024-08-14T00:36:48.714Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lección 14 Folleto Notas sobre la": {
+      "driveFileId": "1uGuT4zd1EdI28RP4DSAvRHao4ikBg2LHwecLvD9P1s0",
+      "name": "8.5 Lección 14 Folleto Notas sobre la",
+      "modifiedTime": "2024-08-14T00:36:46.302Z"
+    },
+    "Lesson 14 - 8.5 Genetics/8.5 Lección 14 Evaluación Autoevaluación para obtener,": {
+      "driveFileId": "1HYOD9ppiFdMj12raMyTqEl8EuvocHU-JLj8Z5eYgp_8",
+      "name": "8.5 Lección 14 Evaluación Autoevaluación para obtener,",
+      "modifiedTime": "2024-08-14T00:36:43.673Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Teacher Reference Guidance for Flower": {
+      "driveFileId": "1vN7olemg72aMMZo3bb5-qq0B8QWhEIXUw8bxkvQM6PQ",
+      "name": "8.5 Lesson 13 Teacher Reference Guidance for Flower",
+      "modifiedTime": "2024-08-14T00:36:39.016Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Teacher Edition": {
+      "driveFileId": "1fRZhM0xp-cnTR2TmLMwjj2ZqG5CvkxdKFhGJ5bjB10g",
+      "name": "8.5 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:36:33.311Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1Pbvv7cOU6qYXUJHFQvTELIzziPc7GCCjXiFTTaPSyGs",
+      "name": "8.5 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:28.905Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Student Procedure": {
+      "driveFileId": "1UqTvcNQ97saiIt8ymLQJKt1sjSOicatAok8BHD0zM_Y",
+      "name": "8.5 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:25.182Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Slides": {
+      "driveFileId": "1q7qmGEi96_-sGKCMBPJ78O932z9o82x77D6kycITfFs",
+      "name": "8.5 Lesson 13 Slides",
+      "modifiedTime": "2024-08-14T00:36:21.904Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1oAMgfRd-EDsbNZONDNQKy8rY-dY5kHHb4mE9066M4nA",
+      "name": "8.5 Lesson 13 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:36:13.659Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Reading How do we": {
+      "driveFileId": "1dLVwOKbOczQmSfaMAGzvF4AeIJ6Rt7d0gtJGieFRZgc",
+      "name": "8.5 Lesson 13 Reading How do we",
+      "modifiedTime": "2024-08-14T00:36:11.219Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Transcript Pollinators": {
+      "driveFileId": "1yKj8ipH_M-of4gOZFUNvljKEMkbKQkxWSUtJ_4fEJRs",
+      "name": "8.5 Lesson 13 Handout Transcript Pollinators",
+      "modifiedTime": "2024-08-14T00:36:07.426Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Transcript Interview with": {
+      "driveFileId": "1HMKx8yZlxjidQr6xmTZeZeqSEhcmtujrl_F_6HJEjuE",
+      "name": "8.5 Lesson 13 Handout Transcript Interview with",
+      "modifiedTime": "2024-08-14T00:36:04.419Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Reference Peer Feedback": {
+      "driveFileId": "1XDsL2y6bCJ5TtHJcUMit5-biWiQDGqD_MGkB6Rq_b7s",
+      "name": "8.5 Lesson 13 Handout Reference Peer Feedback",
+      "modifiedTime": "2024-08-14T00:36:01.474Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Reading How do": {
+      "driveFileId": "1o-TjDefIB5512fTt49-nvU2Y4IdHeWKofHIhl06nOa8",
+      "name": "8.5 Lesson 13 Handout Reading How do",
+      "modifiedTime": "2024-08-14T00:35:58.418Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Flower Diagram": {
+      "driveFileId": "1jAgxS-dtaWcXqO-ZUvEWfeTLrS-vJgmP0CQvnqNRMPc",
+      "name": "8.5 Lesson 13 Handout Flower Diagram",
+      "modifiedTime": "2024-08-14T00:35:54.983Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Exit Ticket": {
+      "driveFileId": "1LOJf1iEmMgXKogB7pJsQlg8jQgWgZgSUJ61xqruAmLI",
+      "name": "8.5 Lesson 13 Handout Exit Ticket",
+      "modifiedTime": "2024-08-14T00:35:50.311Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Handout Breeding Tulips": {
+      "driveFileId": "1v9hW1oImwvn-GXjorDYbPaj4xY-hXZN20CGFM5fmS3E",
+      "name": "8.5 Lesson 13 Handout Breeding Tulips",
+      "modifiedTime": "2024-08-14T00:35:46.688Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lesson 13 Answer Key Key for Exit": {
+      "driveFileId": "1zzpNRWb0bQD_7eZti9Ll8L2gqKdraemBvPce8XtmJz0",
+      "name": "8.5 Lesson 13 Answer Key Key for Exit",
+      "modifiedTime": "2024-08-14T00:35:42.320Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Referencia Pautas para retroalimentación": {
+      "driveFileId": "17_rJHHM2HgaU8Zkf8JywLlY5J6wYzp83OrmU0Br_xeQ",
+      "name": "8.5 Lección 13 Referencia Pautas para retroalimentación",
+      "modifiedTime": "2024-08-14T00:35:38.799Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Lectura ¿Cómo obtenemos nuevas": {
+      "driveFileId": "1RPRsQoQVKeksYhz40cdnQWvSnEv7UqnBeeYQd6feU_g",
+      "name": "8.5 Lección 13 Lectura ¿Cómo obtenemos nuevas",
+      "modifiedTime": "2024-08-14T00:35:36.200Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Folleto Transcripción Polinizadores": {
+      "driveFileId": "1OyXSwp7FiaDa3JvRXoCMdUMVvku_w-cMqVWxTiXMYrI",
+      "name": "8.5 Lección 13 Folleto Transcripción Polinizadores",
+      "modifiedTime": "2024-08-14T00:35:31.760Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Folleto Transcripción Entrevista con": {
+      "driveFileId": "1m7Ben9k-0R4TZ_6dp7JlsL6NVxaARd0juJ70Yp02z3U",
+      "name": "8.5 Lección 13 Folleto Transcripción Entrevista con",
+      "modifiedTime": "2024-08-14T00:35:29.147Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Folleto Referencia Pautas para": {
+      "driveFileId": "1e7k7YxysB52ndKvwQQkdegOSMyXTlnrh5JRG2eWPJGY",
+      "name": "8.5 Lección 13 Folleto Referencia Pautas para",
+      "modifiedTime": "2024-08-14T00:35:26.299Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Folleto Lectura ¿Cómo obtenemos": {
+      "driveFileId": "1dfK3fSyXhTUeHlYIcad1koJCBHhptyE8kt1f-bLySJk",
+      "name": "8.5 Lección 13 Folleto Lectura ¿Cómo obtenemos",
+      "modifiedTime": "2024-08-14T00:35:23.819Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Folleto Diagrama de flor": {
+      "driveFileId": "1VP91YUVtxSFm4REGO1_i1HRs2uJOfusTnQqHY3fl6l8",
+      "name": "8.5 Lección 13 Folleto Diagrama de flor",
+      "modifiedTime": "2024-08-14T00:35:20.379Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Folleto Cultivo de tulipanes": {
+      "driveFileId": "19cPJTWkoArvCQNA155BCYneEYEJXHP1hcwTtheGvHc0",
+      "name": "8.5 Lección 13 Folleto Cultivo de tulipanes",
+      "modifiedTime": "2024-08-14T00:35:16.856Z"
+    },
+    "Lesson 13 - 8.5 Genetics/8.5 Lección 13 Folleto Boleto de salida": {
+      "driveFileId": "1w3AfTkqag5CzW2du7SLXV_gkDDqS9Txb30fFkwGy2oU",
+      "name": "8.5 Lección 13 Folleto Boleto de salida",
+      "modifiedTime": "2024-08-14T00:35:11.601Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Teacher Reference Negative Control Demonstration": {
+      "driveFileId": "1SRqho1aQe9HNp7S_PdnEHh-MXgdOKyOkBOPlsVf-rik",
+      "name": "8.5 Lesson 12 Teacher Reference Negative Control Demonstration",
+      "modifiedTime": "2024-08-14T00:35:07.579Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Teacher Edition": {
+      "driveFileId": "1KaxrUGCHA8crYPnIMX7DJKlAkw8idasQYykbA95vDD4",
+      "name": "8.5 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:02.522Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1dwrW1LJGxtuVVBW5nFybV53QnuwNNL0vnTQdJoLS6F4",
+      "name": "8.5 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:58.171Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Student Procedure": {
+      "driveFileId": "1ACPNkpZuoM9fMmGe3q9LAf0sItWWf9EzaWvQN1PG5_4",
+      "name": "8.5 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:54.243Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Slides": {
+      "driveFileId": "1XKVliPCVfvgZ-p_e91-IMY2SJK8K8BrUyqfRLBcD5wo",
+      "name": "8.5 Lesson 12 Slides",
+      "modifiedTime": "2024-08-14T00:34:50.775Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Handout Transcript Extracting Genetic": {
+      "driveFileId": "1Y7qBxLTM7qd__G9kpUXqT-yaAhuMe0hDHyoaiTsSMwk",
+      "name": "8.5 Lesson 12 Handout Transcript Extracting Genetic",
+      "modifiedTime": "2024-08-14T00:34:46.626Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Handout Lab v2 Extracting": {
+      "driveFileId": "1QU61aD35ax-1jFQlUTFD0y66etNSTD8nYYY7cB6n2rI",
+      "name": "8.5 Lesson 12 Handout Lab v2 Extracting",
+      "modifiedTime": "2024-08-14T00:34:42.593Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lesson 12 Handout Lab v1 Extracting": {
+      "driveFileId": "14UmdaLMAOmCaFWR0PHpkxx9IY3llTQaC1tqlO4OEXLo",
+      "name": "8.5 Lesson 12 Handout Lab v1 Extracting",
+      "modifiedTime": "2024-08-14T00:34:37.662Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lección 12 Folleto Transcripción Extracción de": {
+      "driveFileId": "14kX7rklTNrxW-L-kmiPrNRmhZVXb9ZZrHZ_jSLOPGpQ",
+      "name": "8.5 Lección 12 Folleto Transcripción Extracción de",
+      "modifiedTime": "2024-08-14T00:34:34.098Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lección 12 Folleto Laboratorio v2 Extracción": {
+      "driveFileId": "1EcVm4wQDk24yhvtLushTg4HOUWxSlXeWnPuEjcDfwgU",
+      "name": "8.5 Lección 12 Folleto Laboratorio v2 Extracción",
+      "modifiedTime": "2024-08-14T00:34:31.813Z"
+    },
+    "Lesson 12 - 8.5 Genetics/8.5 Lección 12 Folleto Laboratorio v1 Extracción": {
+      "driveFileId": "1cwaVh3F0mI8aUOtnCYL4KaL3nRTC9x6nYQZSzs9imJg",
+      "name": "8.5 Lección 12 Folleto Laboratorio v1 Extracción",
+      "modifiedTime": "2024-08-14T00:34:27.511Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Teacher Edition": {
+      "driveFileId": "1iBmrtyBLFKP3bB23PSnXXzR-DPOE_RjgIsqcPE3PtWE",
+      "name": "8.5 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:34:21.307Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1yLK-mj2K7uiOHxe44qPJR2zAG7HtuBmJ69djVIL4hrA",
+      "name": "8.5 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:17.071Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Student Procedure": {
+      "driveFileId": "1soQpSmUI_8qy2GJuM_vQEaVz0JdOlkwtD-gUtMJ0ui4",
+      "name": "8.5 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:13.705Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Slides": {
+      "driveFileId": "1kilTElsRteaPabXzmBclWyLeJ98T0P68BJcVtYqsl4M",
+      "name": "8.5 Lesson 11 Slides",
+      "modifiedTime": "2024-08-14T00:34:10.236Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Handout Wheat Kernel Photos": {
+      "driveFileId": "1DkanqS4bY_M9jU8hubg_DMe-rNmQzqa9fBti5eJ9UQ0",
+      "name": "8.5 Lesson 11 Handout Wheat Kernel Photos",
+      "modifiedTime": "2024-08-14T00:34:05.746Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Handout Strawberry Photos": {
+      "driveFileId": "1RoDiX7T4Oay7nnSQWhFivWmTRov7FraBUpTQDSpVvYc",
+      "name": "8.5 Lesson 11 Handout Strawberry Photos",
+      "modifiedTime": "2024-08-14T00:34:02.219Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Handout Questions from Our": {
+      "driveFileId": "1gOk3-VFPokx9PW1K3lgqttxhu9xmUuqOeznic0ALTx4",
+      "name": "8.5 Lesson 11 Handout Questions from Our",
+      "modifiedTime": "2024-08-14T00:33:57.237Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Handout Planaria Photos": {
+      "driveFileId": "1KVCnRjLzRFehh7cW5PZ5lHgi96l00CI9047aIT_QC7U",
+      "name": "8.5 Lesson 11 Handout Planaria Photos",
+      "modifiedTime": "2024-08-14T00:33:54.910Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Handout Flamingo Photos": {
+      "driveFileId": "1Bc-z95rMYlypJd0BT39DR7ng7dWboNjXhur2t4MM8K8",
+      "name": "8.5 Lesson 11 Handout Flamingo Photos",
+      "modifiedTime": "2024-08-14T00:33:51.626Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Handout Arms Photos": {
+      "driveFileId": "1nQGpqaKZy5sp6eiF2wbD12Uh18pAOiEEb0HQ2Wuee7Y",
+      "name": "8.5 Lesson 11 Handout Arms Photos",
+      "modifiedTime": "2024-08-14T00:33:47.887Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lesson 11 Handout Apple Photos": {
+      "driveFileId": "1Dx2Wh0ywSRhMwWcGJtVXiUopObJTBtgVaQabkSJTUN0",
+      "name": "8.5 Lesson 11 Handout Apple Photos",
+      "modifiedTime": "2024-08-14T00:33:42.908Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lección 11 Folleto Preguntas de nuestro": {
+      "driveFileId": "1XYuPGNIpHvFbug5ATzxFgSfa71WA-VPxaonxzQU27yo",
+      "name": "8.5 Lección 11 Folleto Preguntas de nuestro",
+      "modifiedTime": "2024-08-14T00:33:38.432Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lección 11 Folleto Fotos de planarias": {
+      "driveFileId": "1cTStLwfBHJj6OIn39nQXboYHBGbS9lWdWeweQA51bx8",
+      "name": "8.5 Lección 11 Folleto Fotos de planarias",
+      "modifiedTime": "2024-08-14T00:33:35.789Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lección 11 Folleto Fotos de manzanas": {
+      "driveFileId": "1S8Hvil_cVNYwDz8DPiRUHP-LtfnZXWfGn16lOVo0Cf0",
+      "name": "8.5 Lección 11 Folleto Fotos de manzanas",
+      "modifiedTime": "2024-08-14T00:33:30.652Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lección 11 Folleto Fotos de granos": {
+      "driveFileId": "1l-O0Ej6Q7-cz-60WSF2nK-WaJ_0q01do9x5wOetWi6M",
+      "name": "8.5 Lección 11 Folleto Fotos de granos",
+      "modifiedTime": "2024-08-14T00:33:26.711Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lección 11 Folleto Fotos de fresas": {
+      "driveFileId": "1fj-RToemQDKo0t_D8gLa15HQDXhspSiioomNB_qUMxI",
+      "name": "8.5 Lección 11 Folleto Fotos de fresas",
+      "modifiedTime": "2024-08-14T00:33:22.544Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lección 11 Folleto Fotos de flamencos": {
+      "driveFileId": "16qmGvE3695hdfP7SEbtnpG2MAF0-rZvSxzEkv21YLtk",
+      "name": "8.5 Lección 11 Folleto Fotos de flamencos",
+      "modifiedTime": "2024-08-14T00:33:19.238Z"
+    },
+    "Lesson 11 - 8.5 Genetics/8.5 Lección 11 Folleto Fotos de brazos": {
+      "driveFileId": "1w0U0pYrs-006tHpUo1SHFJGuNBYwM11ZXOpLVybbcLI",
+      "name": "8.5 Lección 11 Folleto Fotos de brazos",
+      "modifiedTime": "2024-08-14T00:33:13.875Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Teacher Edition": {
+      "driveFileId": "1j553ZmtVOx0_dl46VDUidweku5QDFzMdpLWzVHPIAqI",
+      "name": "8.5 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:33:09.446Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "15J4J_-p-T0R1jY90jrXw924TEMa7TDkosAsVqHiWQhY",
+      "name": "8.5 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:33:05.809Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Student Procedure": {
+      "driveFileId": "1PbVAc0GnEXai-Pk_wtYFkGN-4LcwlEfSG6BtkGLk3nk",
+      "name": "8.5 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-14T00:33:02.381Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Slides": {
+      "driveFileId": "1HsWqHpIFQDWcOTxh6GGL6DVQkreMclek_TEVDkklN_A",
+      "name": "8.5 Lesson 10 Slides",
+      "modifiedTime": "2024-08-14T00:32:57.532Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Rubric Rubric for Goldfish": {
+      "driveFileId": "1VPNyRlY0Mxvf6g8pB2bSudqtlDBf4p9x_oity1SgNeY",
+      "name": "8.5 Lesson 10 Rubric Rubric for Goldfish",
+      "modifiedTime": "2024-08-14T00:32:53.805Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Goldfish Assessment": {
+      "driveFileId": "18dE9pc9o5Jc-4ugspSKtN_bn9Zs0_gdRjWpx7M_-1ic",
+      "name": "8.5 Lesson 10 Assessment Goldfish Assessment",
+      "modifiedTime": "2024-08-14T00:32:50.648Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Assessment Checklist for Obtaining": {
+      "driveFileId": "1SgIT974EBbZkBwUoN3H37xuOGOyh7Z4Z61Zl-Up--t8",
+      "name": "8.5 Lesson 10 Assessment Checklist for Obtaining",
+      "modifiedTime": "2024-08-14T00:32:46.501Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Goldfish": {
+      "driveFileId": "1v2n1EjzU20I_sRmywVZZcfAKFgnqHmP5_jT8NP4uPMo",
+      "name": "8.5 Lesson 10 Answer Key Key for Goldfish",
+      "modifiedTime": "2024-08-14T00:32:43.456Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lesson 10 Answer Key Key for Checklist": {
+      "driveFileId": "1RRTlGaCcwmqwfvMjSqbAYIvz2O3dCNMvLjVD8y4JIuc",
+      "name": "8.5 Lesson 10 Answer Key Key for Checklist",
+      "modifiedTime": "2024-08-14T00:32:37.874Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lección 10 Evaluación Lista de verificación": {
+      "driveFileId": "1KY96DjvzcPt6d5Ke4GB9Vi8nIX5FnJeYIa5_IgeugYI",
+      "name": "8.5 Lección 10 Evaluación Lista de verificación",
+      "modifiedTime": "2024-08-14T00:32:35.099Z"
+    },
+    "Lesson 10 - 8.5 Genetics/8.5 Lección 10 Evaluación Evaluación de pez": {
+      "driveFileId": "1szwjdsX39BNmTcsVwWkUOGDvYdqBlNyacWZhiasbuGE",
+      "name": "8.5 Lección 10 Evaluación Evaluación de pez",
+      "modifiedTime": "2024-08-14T00:32:30.763Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Teacher Reference Unit-Wide Lesson-by-Lesson Model": {
+      "driveFileId": "1Jkz5GFV0NHfhZ33wDnxPGgfvYtCTUvCbgUkTklWJV0k",
+      "name": "8.5 Lesson 1 Teacher Reference Unit-Wide Lesson-by-Lesson Model",
+      "modifiedTime": "2024-08-14T00:32:26.183Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Teacher Edition": {
+      "driveFileId": "1nPlruUvddf2YGAtVJanFmXJWky8fY9zqwcGdByAV0SM",
+      "name": "8.5 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:32:21.917Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "18rNiUXHsRvoyt8TsshOlVyQkwO5l9SgyZanEtVWCswQ",
+      "name": "8.5 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:32:16.913Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Student Procedure": {
+      "driveFileId": "124VcwrIEsSoitzq04iTMuikXJOSriH_NshcBm28Bjf0",
+      "name": "8.5 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-14T00:32:13.124Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Slides": {
+      "driveFileId": "1LDqmyGi66q2xwe58xoVUr68P-HP1ZEutEmp8NZ4MV38",
+      "name": "8.5 Lesson 1 Slides",
+      "modifiedTime": "2024-08-14T00:32:09.458Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Handout Tulip Photo Cards": {
+      "driveFileId": "187gfpYrqhQKxiK8pOP2IVJX9wq6p6civWgy0X82OduI",
+      "name": "8.5 Lesson 1 Handout Tulip Photo Cards",
+      "modifiedTime": "2024-08-14T00:32:04.697Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Handout Initial Model": {
+      "driveFileId": "1GrR460v0FOUes3aXGZg0e--cxEXoyYWhGfLTB6STEJA",
+      "name": "8.5 Lesson 1 Handout Initial Model",
+      "modifiedTime": "2024-08-14T00:32:00.462Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lesson 1 Handout Cattle Photo Cards": {
+      "driveFileId": "1Ah2tDoTVjlucmXuX2N0XFVOvEy55Fk_raiiYnF2rzs4",
+      "name": "8.5 Lesson 1 Handout Cattle Photo Cards",
+      "modifiedTime": "2024-08-14T00:31:56.358Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lección 1 Folleto Tulipanes Tarjetas de": {
+      "driveFileId": "1YEa4CXuE2boSrPxqyCnAjXewJPUztc_e_Z9UQR-c3qM",
+      "name": "8.5 Lección 1 Folleto Tulipanes Tarjetas de",
+      "modifiedTime": "2024-08-14T00:31:51.869Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lección 1 Folleto Modelo inicial": {
+      "driveFileId": "1PE2r2HeH6mpxKKmH5STT6tC3JEmvAybWi_bpZIvawzs",
+      "name": "8.5 Lección 1 Folleto Modelo inicial",
+      "modifiedTime": "2024-08-14T00:31:45.246Z"
+    },
+    "Lesson 1 - 8.5 Genetics/8.5 Lección 1 Folleto Ganado Tarjetas de": {
+      "driveFileId": "1jr4xaHqRN6rqOlYIyZ4toNKS4Bf6HXubUVhUeXjZxKY",
+      "name": "8.5 Lección 1 Folleto Ganado Tarjetas de",
+      "modifiedTime": "2024-08-14T00:31:41.098Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1V59noFP0JIwoNboGSpiS-x7lXEMpUEv3",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-14T00:31:35.318Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1Kwof3CZ5KB7p6e9-3AskMUF8RbjpJSvl",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:31:34.276Z"
+    },
+    "8.5 Genetics Unit Overview Materials": {
+      "driveFileId": "1eU56BQUeQyzM_Nlnjhd65Gy9CzH8KhTd37euqAeCmtY",
+      "name": "8.5 Genetics Unit Overview Materials",
+      "modifiedTime": "2024-08-14T00:31:33.479Z"
+    },
+    "8.5 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1QCfYMwhopXCl0H7w7ZXRqQJA8bdq4pe_",
+      "name": "8.5 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-14T00:31:27.209Z"
+    }
+  }
+}

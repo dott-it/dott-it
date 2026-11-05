@@ -1,0 +1,1753 @@
+{
+  "unitId": "6.2",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 6",
+  "unitFolder": "6.2 Thermal Energy",
+  "unitDriveFolderId": "1oqC-DQWL6lRqhOJa0CKCbqVNk808M6Op",
+  "indexedAt": "2026-07-07T18:07:33.477Z",
+  "fileCount": 180,
+  "manifestPathCount": 93,
+  "matchedCount": 93,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "62-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1DSF9rQv3DbIlYNZSJaP4I70SXkyKwtYjye58eikNnpc",
+      "driveRelativePath": "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:45.430Z"
+    },
+    {
+      "assessmentId": "62-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1DSF9rQv3DbIlYNZSJaP4I70SXkyKwtYjye58eikNnpc",
+      "driveRelativePath": "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:45.430Z"
+    },
+    {
+      "assessmentId": "62-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1DSF9rQv3DbIlYNZSJaP4I70SXkyKwtYjye58eikNnpc",
+      "driveRelativePath": "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:45.430Z"
+    },
+    {
+      "assessmentId": "62-2-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "driveRelativePath": "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    {
+      "assessmentId": "62-2-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "driveRelativePath": "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    {
+      "assessmentId": "62-2-ao-6",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "driveRelativePath": "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    {
+      "assessmentId": "62-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "driveRelativePath": "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    {
+      "assessmentId": "62-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "driveRelativePath": "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    {
+      "assessmentId": "62-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "driveRelativePath": "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    {
+      "assessmentId": "62-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1n4RzRZrCclmlhoP6n5FR5QdC3am63zw1oAZdTo_5Z5M",
+      "driveRelativePath": "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:38.716Z"
+    },
+    {
+      "assessmentId": "62-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1n4RzRZrCclmlhoP6n5FR5QdC3am63zw1oAZdTo_5Z5M",
+      "driveRelativePath": "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:38.716Z"
+    },
+    {
+      "assessmentId": "62-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "10z4XUpCj1WoM8C3P48m2ZabfKTqAlSbBafyMokgn0Gs",
+      "driveRelativePath": "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:31.654Z"
+    },
+    {
+      "assessmentId": "62-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "10z4XUpCj1WoM8C3P48m2ZabfKTqAlSbBafyMokgn0Gs",
+      "driveRelativePath": "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:31.654Z"
+    },
+    {
+      "assessmentId": "62-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "10z4XUpCj1WoM8C3P48m2ZabfKTqAlSbBafyMokgn0Gs",
+      "driveRelativePath": "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:31.654Z"
+    },
+    {
+      "assessmentId": "62-5-6-2-lesson-5-teacher-reference-lesson-5-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Teacher Reference Lesson 5 Assessment.docx",
+      "driveFileId": "1OhNvUJnnPVgxUhxURamRBkvQmc0A84NmAl7wrcDDtQ0",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Reference Lesson 5 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:09.907Z"
+    },
+    {
+      "assessmentId": "62-5-6-2-lesson-5-teacher-reference-lesson-5-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1LAtMP34RJq6U2OWTiUmz8YynnXzlWRGLRhEzH6X0uGA",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:07.117Z"
+    },
+    {
+      "assessmentId": "62-5-6-2-lesson-5-teacher-reference-lesson-5-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Answer Key Lesson 5 Assessment.docx",
+      "driveFileId": "17-9Q7xg5xTnMKFXum-MA-VESoqBSFxG2ONoYOxV1tn8",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Answer Key Lesson 5 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:41.824Z"
+    },
+    {
+      "assessmentId": "62-5-cold-lemonade-on",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Assessment Cold Lemonade on.docx",
+      "driveFileId": "1w9N1NCcvfoy29W1N7UxA812hOx4WOSKbiiyPpWDOqVU",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Assessment Cold Lemonade on",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:45.962Z"
+    },
+    {
+      "assessmentId": "62-5-cold-lemonade-on",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1LAtMP34RJq6U2OWTiUmz8YynnXzlWRGLRhEzH6X0uGA",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:07.117Z"
+    },
+    {
+      "assessmentId": "62-5-cold-lemonade-on",
+      "field": "answerKey",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Answer Key Lesson 5 Assessment.docx",
+      "driveFileId": "17-9Q7xg5xTnMKFXum-MA-VESoqBSFxG2ONoYOxV1tn8",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Answer Key Lesson 5 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:41.824Z"
+    },
+    {
+      "assessmentId": "62-5-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1LAtMP34RJq6U2OWTiUmz8YynnXzlWRGLRhEzH6X0uGA",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:07.117Z"
+    },
+    {
+      "assessmentId": "62-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1LAtMP34RJq6U2OWTiUmz8YynnXzlWRGLRhEzH6X0uGA",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:07.117Z"
+    },
+    {
+      "assessmentId": "62-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1LAtMP34RJq6U2OWTiUmz8YynnXzlWRGLRhEzH6X0uGA",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:07.117Z"
+    },
+    {
+      "assessmentId": "62-6-6-2-lesson-6-teacher-reference-lesson-6-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Teacher Reference Lesson 6 Assessment.docx",
+      "driveFileId": "1TTVq7tXM6A6Db0ZNMJ4bF2iEkkwIUXlvrwHc3a-Yhfo",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Reference Lesson 6 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:00.576Z"
+    },
+    {
+      "assessmentId": "62-6-6-2-lesson-6-teacher-reference-lesson-6-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1y5SsLOusZ4f_AMuWz7uQjW-Ih-BPkbQzagSXajRVeus",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:54.807Z"
+    },
+    {
+      "assessmentId": "62-6-6-2-lesson-6-teacher-reference-lesson-6-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Answer Key Lesson 6 Assessment.docx",
+      "driveFileId": "156TvvMRM48iG-sxhLvKaF68goQ0HLXozAnfZsl816Sg",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Answer Key Lesson 6 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:23.804Z"
+    },
+    {
+      "assessmentId": "62-6-explaining-the-effect",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Assessment Explaining the Effect.docx",
+      "driveFileId": "11KlQFXlYaCn8ANa0zxeSdiniYLnueVfH6i4psR51Tjo",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Assessment Explaining the Effect",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:27.376Z"
+    },
+    {
+      "assessmentId": "62-6-explaining-the-effect",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1y5SsLOusZ4f_AMuWz7uQjW-Ih-BPkbQzagSXajRVeus",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:54.807Z"
+    },
+    {
+      "assessmentId": "62-6-explaining-the-effect",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Answer Key Lesson 6 Assessment.docx",
+      "driveFileId": "156TvvMRM48iG-sxhLvKaF68goQ0HLXozAnfZsl816Sg",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Answer Key Lesson 6 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:23.804Z"
+    },
+    {
+      "assessmentId": "62-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1y5SsLOusZ4f_AMuWz7uQjW-Ih-BPkbQzagSXajRVeus",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:54.807Z"
+    },
+    {
+      "assessmentId": "62-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1y5SsLOusZ4f_AMuWz7uQjW-Ih-BPkbQzagSXajRVeus",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:54.807Z"
+    },
+    {
+      "assessmentId": "62-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.2 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1t_EpErIjsYlix25d_LtIgLq_1ukZRCHasNIMQ-HYrzY",
+      "driveRelativePath": "Lesson 7 - 6.2 Thermal Energy/6.2 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:16.243Z"
+    },
+    {
+      "assessmentId": "62-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1nZuFDDIxKotobuy1kDSO8dq0iqXOWDvICHien9h0W1c",
+      "driveRelativePath": "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:00.965Z"
+    },
+    {
+      "assessmentId": "62-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1nZuFDDIxKotobuy1kDSO8dq0iqXOWDvICHien9h0W1c",
+      "driveRelativePath": "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:00.965Z"
+    },
+    {
+      "assessmentId": "62-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1eNWeyfAUAjykaVu7erBIJhdfFb-dBHynhOeevtiiWfE",
+      "driveRelativePath": "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:43.580Z"
+    },
+    {
+      "assessmentId": "62-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1fHEBaeN8bJJYB3evSiOxV7SIssbNxC6Ou4KE8fY5tfc",
+      "driveRelativePath": "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:19.380Z"
+    },
+    {
+      "assessmentId": "62-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1fHEBaeN8bJJYB3evSiOxV7SIssbNxC6Ou4KE8fY5tfc",
+      "driveRelativePath": "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:19.380Z"
+    },
+    {
+      "assessmentId": "62-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.2 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1b33QaCEKqf65COcnzFinwDICWZBOdauf2DbkNKSq4Ac",
+      "driveRelativePath": "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:38.337Z"
+    },
+    {
+      "assessmentId": "62-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.2 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1b33QaCEKqf65COcnzFinwDICWZBOdauf2DbkNKSq4Ac",
+      "driveRelativePath": "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:38.337Z"
+    },
+    {
+      "assessmentId": "62-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1cPydxO1Sw5589OK0APbDqxF1g8_oHmw3t2T65RyTsFQ",
+      "driveRelativePath": "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:10.333Z"
+    },
+    {
+      "assessmentId": "62-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1cPydxO1Sw5589OK0APbDqxF1g8_oHmw3t2T65RyTsFQ",
+      "driveRelativePath": "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:10.333Z"
+    },
+    {
+      "assessmentId": "62-12-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1cPydxO1Sw5589OK0APbDqxF1g8_oHmw3t2T65RyTsFQ",
+      "driveRelativePath": "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:10.333Z"
+    },
+    {
+      "assessmentId": "62-13-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/6.2 Lesson 13 Handout Investigating Particle Collisions.docx",
+      "driveFileId": "1Ewko4bqdLCRawOEm8sEvsJg2qGHClVG5lejSz_zcJAU",
+      "driveRelativePath": "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Handout Investigating Particle Collisions",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:22.806Z"
+    },
+    {
+      "assessmentId": "62-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.2 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1Fgh2PzhIy_0l6rq_jfC-ySkCUkvpejB_BpDrB-dtlGg",
+      "driveRelativePath": "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:47.252Z"
+    },
+    {
+      "assessmentId": "62-14-6-2-lesson-14-teacher-reference-lesson-14-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Teacher Reference Lesson 14 Assessment.docx",
+      "driveFileId": "1H7YViABBgRlw4RhO0LJmcgR5PoZ9uJjDzJdYJQmYUM4",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Reference Lesson 14 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:39.980Z"
+    },
+    {
+      "assessmentId": "62-14-6-2-lesson-14-teacher-reference-lesson-14-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1qjpCdVYvljDt0gCNoZ7gZujuXuWxwHQGoLr6AUOBuBw",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:28.986Z"
+    },
+    {
+      "assessmentId": "62-14-6-2-lesson-14-teacher-reference-lesson-14-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Answer Key Lesson 14 Assessment.docx",
+      "driveFileId": "1F_mdrX4hPi3LCvg9wAVZgpW3RDtNZXsBTosu7DEpVwE",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Answer Key Lesson 14 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:59.651Z"
+    },
+    {
+      "assessmentId": "62-14-icing-injuries-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Assessment Icing Injuries Assessment.docx",
+      "driveFileId": "1vsMGM7fkU0tm543YGvcP1oZSCR2v5hLiBlppbl6Fa8U",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Assessment Icing Injuries Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:03.435Z"
+    },
+    {
+      "assessmentId": "62-14-icing-injuries-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1qjpCdVYvljDt0gCNoZ7gZujuXuWxwHQGoLr6AUOBuBw",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:28.986Z"
+    },
+    {
+      "assessmentId": "62-14-icing-injuries-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Answer Key Lesson 14 Assessment.docx",
+      "driveFileId": "1F_mdrX4hPi3LCvg9wAVZgpW3RDtNZXsBTosu7DEpVwE",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Answer Key Lesson 14 Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:59.651Z"
+    },
+    {
+      "assessmentId": "62-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1qjpCdVYvljDt0gCNoZ7gZujuXuWxwHQGoLr6AUOBuBw",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:28.986Z"
+    },
+    {
+      "assessmentId": "62-14-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Handout Modeling What Is.docx",
+      "driveFileId": "1iQCgGloz_EJj3TazLlJgfE2FgXCPcJd2jhPfdeyC6eE",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Handout Modeling What Is",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:09.843Z"
+    },
+    {
+      "assessmentId": "62-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1qjpCdVYvljDt0gCNoZ7gZujuXuWxwHQGoLr6AUOBuBw",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:28.986Z"
+    },
+    {
+      "assessmentId": "62-15-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YWaykz5B_S0RsDstl4egDg5TyfRY8RDhMJxVPHw8tKg",
+      "driveRelativePath": "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.893Z"
+    },
+    {
+      "assessmentId": "62-15-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YWaykz5B_S0RsDstl4egDg5TyfRY8RDhMJxVPHw8tKg",
+      "driveRelativePath": "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.893Z"
+    },
+    {
+      "assessmentId": "62-15-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YWaykz5B_S0RsDstl4egDg5TyfRY8RDhMJxVPHw8tKg",
+      "driveRelativePath": "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.893Z"
+    },
+    {
+      "assessmentId": "62-15-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YWaykz5B_S0RsDstl4egDg5TyfRY8RDhMJxVPHw8tKg",
+      "driveRelativePath": "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.893Z"
+    },
+    {
+      "assessmentId": "62-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YWaykz5B_S0RsDstl4egDg5TyfRY8RDhMJxVPHw8tKg",
+      "driveRelativePath": "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.893Z"
+    },
+    {
+      "assessmentId": "62-16-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_16/original/6.2 Lesson 16 Handout Cold Cup Design.docx",
+      "driveFileId": "1Te4JzdmFnpORJkpC1FAvBagKRqWfA6I2cuyeStVBKK0",
+      "driveRelativePath": "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Handout Cold Cup Design",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.149Z"
+    },
+    {
+      "assessmentId": "62-16-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1wjsKgmOTX28gi6Qw0tMEN9WT1wUUVo3_69qsJzaS9Ic",
+      "driveRelativePath": "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:52.664Z"
+    },
+    {
+      "assessmentId": "62-16-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_16/original/6.2 Lesson 16 Handout Cold Cup Design.docx",
+      "driveFileId": "1Te4JzdmFnpORJkpC1FAvBagKRqWfA6I2cuyeStVBKK0",
+      "driveRelativePath": "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Handout Cold Cup Design",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.149Z"
+    },
+    {
+      "assessmentId": "62-16-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1wjsKgmOTX28gi6Qw0tMEN9WT1wUUVo3_69qsJzaS9Ic",
+      "driveRelativePath": "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:52.664Z"
+    },
+    {
+      "assessmentId": "62-16-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_16/original/6.2 Lesson 16 Handout Cold Cup Design.docx",
+      "driveFileId": "1Te4JzdmFnpORJkpC1FAvBagKRqWfA6I2cuyeStVBKK0",
+      "driveRelativePath": "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Handout Cold Cup Design",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.149Z"
+    },
+    {
+      "assessmentId": "62-16-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1wjsKgmOTX28gi6Qw0tMEN9WT1wUUVo3_69qsJzaS9Ic",
+      "driveRelativePath": "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:52.664Z"
+    },
+    {
+      "assessmentId": "62-17-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1fFIMfsNKnaza5Qb0Ae_oxWxK10HzWpA688ZI47pw5UQ",
+      "driveRelativePath": "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:10.297Z"
+    },
+    {
+      "assessmentId": "62-17-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1fFIMfsNKnaza5Qb0Ae_oxWxK10HzWpA688ZI47pw5UQ",
+      "driveRelativePath": "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:10.297Z"
+    },
+    {
+      "assessmentId": "62-17-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1fFIMfsNKnaza5Qb0Ae_oxWxK10HzWpA688ZI47pw5UQ",
+      "driveRelativePath": "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:10.297Z"
+    },
+    {
+      "assessmentId": "62-18-disaster-blanket-design",
+      "field": "studentHandout",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Assessment Disaster Blanket Design.docx",
+      "driveFileId": "1Xg5ePvTm6G7-VKqKdgmu6sBlmfxKgBlEyRXxh9zcgHE",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Assessment Disaster Blanket Design",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:28.843Z"
+    },
+    {
+      "assessmentId": "62-18-disaster-blanket-design",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "16TDid6lPdtQUEwawsYq3oVVJ0KRz-M7ufjjiUhJn2rE",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:47.854Z"
+    },
+    {
+      "assessmentId": "62-18-disaster-blanket-design",
+      "field": "answerKey",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Answer Key Reference for Disaster.docx",
+      "driveFileId": "1uIkqHWDPn2sSqLoyLhcFAi1Gcs4NRWpKsXFRPQ2Oy14",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Answer Key Reference for Disaster",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:24.432Z"
+    },
+    {
+      "assessmentId": "62-18-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "16TDid6lPdtQUEwawsYq3oVVJ0KRz-M7ufjjiUhJn2rE",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:47.854Z"
+    },
+    {
+      "assessmentId": "62-18-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "16TDid6lPdtQUEwawsYq3oVVJ0KRz-M7ufjjiUhJn2rE",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:47.854Z"
+    },
+    {
+      "assessmentId": "62-18-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "16TDid6lPdtQUEwawsYq3oVVJ0KRz-M7ufjjiUhJn2rE",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:47.854Z"
+    },
+    {
+      "assessmentId": "62-18-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "16TDid6lPdtQUEwawsYq3oVVJ0KRz-M7ufjjiUhJn2rE",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:47.854Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/6.2 Thermal Energy Unit Overview Materials.docx",
+      "driveFileId": "1HaNoTjVl1SgMaveL3QwBhItbsvsNbrW-lZuaFr70Y0I",
+      "driveRelativePath": "6.2 Thermal Energy Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-13T20:38:22.262Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/6.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1DSF9rQv3DbIlYNZSJaP4I70SXkyKwtYjye58eikNnpc",
+      "driveRelativePath": "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:45.430Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/6.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "driveRelativePath": "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/6.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1n4RzRZrCclmlhoP6n5FR5QdC3am63zw1oAZdTo_5Z5M",
+      "driveRelativePath": "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:38.716Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/6.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "10z4XUpCj1WoM8C3P48m2ZabfKTqAlSbBafyMokgn0Gs",
+      "driveRelativePath": "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:31.654Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/6.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1LAtMP34RJq6U2OWTiUmz8YynnXzlWRGLRhEzH6X0uGA",
+      "driveRelativePath": "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:07.117Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/6.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1y5SsLOusZ4f_AMuWz7uQjW-Ih-BPkbQzagSXajRVeus",
+      "driveRelativePath": "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:54.807Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/6.2 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1t_EpErIjsYlix25d_LtIgLq_1ukZRCHasNIMQ-HYrzY",
+      "driveRelativePath": "Lesson 7 - 6.2 Thermal Energy/6.2 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:16.243Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/6.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1nZuFDDIxKotobuy1kDSO8dq0iqXOWDvICHien9h0W1c",
+      "driveRelativePath": "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:00.965Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/6.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1eNWeyfAUAjykaVu7erBIJhdfFb-dBHynhOeevtiiWfE",
+      "driveRelativePath": "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:43.580Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/6.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1fHEBaeN8bJJYB3evSiOxV7SIssbNxC6Ou4KE8fY5tfc",
+      "driveRelativePath": "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:19.380Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/6.2 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1b33QaCEKqf65COcnzFinwDICWZBOdauf2DbkNKSq4Ac",
+      "driveRelativePath": "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:38.337Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/6.2 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1cPydxO1Sw5589OK0APbDqxF1g8_oHmw3t2T65RyTsFQ",
+      "driveRelativePath": "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:10.333Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/6.2 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1Fgh2PzhIy_0l6rq_jfC-ySkCUkvpejB_BpDrB-dtlGg",
+      "driveRelativePath": "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:47.252Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/6.2 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1qjpCdVYvljDt0gCNoZ7gZujuXuWxwHQGoLr6AUOBuBw",
+      "driveRelativePath": "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:28.986Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/6.2 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YWaykz5B_S0RsDstl4egDg5TyfRY8RDhMJxVPHw8tKg",
+      "driveRelativePath": "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.893Z"
+    },
+    {
+      "assessmentId": "__lesson-16__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_16/original/6.2 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1wjsKgmOTX28gi6Qw0tMEN9WT1wUUVo3_69qsJzaS9Ic",
+      "driveRelativePath": "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:52.664Z"
+    },
+    {
+      "assessmentId": "__lesson-17__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_17/original/6.2 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1fFIMfsNKnaza5Qb0Ae_oxWxK10HzWpA688ZI47pw5UQ",
+      "driveRelativePath": "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:10.297Z"
+    },
+    {
+      "assessmentId": "__lesson-18__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_18/original/6.2 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "16TDid6lPdtQUEwawsYq3oVVJ0KRz-M7ufjjiUhJn2rE",
+      "driveRelativePath": "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:47.854Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1stxtpGnsM2ZD2IzJ7zDdU3SMNP-twwYQ",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-13T20:49:54.064Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1Xa9WeMix2Sye9SI-kq87a5Ve22pYEPqv",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-13T20:49:52.745Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "15E2pb6I9DOdYa4l-FK8t9dJJ348RJdBI",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-13T20:49:51.714Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1IFkVDOB_Bs4K-94ua60A5x0RCh2_WPF_",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-13T20:49:50.661Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1vd37cZMA1oHS6EwHyFELVTgEgwXhDvs4",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-13T20:49:48.870Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Teacher Reference Sample Data Sets": {
+      "driveFileId": "1Jgp2FFrRAB-ZXjTaSAWswHpkTKa-1ZLM-vMA8iSFxdA",
+      "name": "6.2 Lesson 9 Teacher Reference Sample Data Sets",
+      "modifiedTime": "2024-08-13T20:49:48.154Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Teacher Edition": {
+      "driveFileId": "1eNWeyfAUAjykaVu7erBIJhdfFb-dBHynhOeevtiiWfE",
+      "name": "6.2 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:49:43.580Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1VIDurb22b-_1svpqTkWiortL0wBDNSdZgKePd4JR3xk",
+      "name": "6.2 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:49:39.893Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Student Procedure": {
+      "driveFileId": "1DQYbN4Hkyd79U9NruapvA0eCi2165fzywVELCPB6W7s",
+      "name": "6.2 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-13T20:49:29.471Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Slides": {
+      "driveFileId": "1TVqNTIar7yTr7o3PjraRwEFo2INoZxI525OnmM0nxzA",
+      "name": "6.2 Lesson 9 Slides",
+      "modifiedTime": "2024-08-13T20:49:28.581Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Handout Small-Group Investigation Heat": {
+      "driveFileId": "1opeJzA6Ynjfy_YoFMlXzfWd7IHDTXbY2_RH9OzJRPIQ",
+      "name": "6.2 Lesson 9 Handout Small-Group Investigation Heat",
+      "modifiedTime": "2024-08-13T20:49:23.666Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Handout Data Set and": {
+      "driveFileId": "1g0cbuYox3LQpkCTr6FGfT40xxAYd43szm2CiFVRpyxQ",
+      "name": "6.2 Lesson 9 Handout Data Set and",
+      "modifiedTime": "2024-08-13T20:49:20.562Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lesson 9 Handout Class Investigation Heat": {
+      "driveFileId": "1q1xJ-ETDtPeqovNDAcNzGvyNIcmWyUwltxDjdenBvCE",
+      "name": "6.2 Lesson 9 Handout Class Investigation Heat",
+      "modifiedTime": "2024-08-13T20:49:17.642Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lección 9 Folleto Investigación en grupos": {
+      "driveFileId": "1lAsiPdPpfUZLVM76Vl4s_irXaItalaty710zbXpjyZY",
+      "name": "6.2 Lección 9 Folleto Investigación en grupos",
+      "modifiedTime": "2024-08-13T20:49:15.012Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lección 9 Folleto Investigación de la": {
+      "driveFileId": "1Q4VXI29pRVLPQATdG9CwgACKSwq_uga6y7EAnewEgjY",
+      "name": "6.2 Lección 9 Folleto Investigación de la",
+      "modifiedTime": "2024-08-13T20:49:11.540Z"
+    },
+    "Lesson 9 - 6.2 Thermal Energy/6.2 Lección 9 Folleto Datos y análisis": {
+      "driveFileId": "1vxham5J5DyOk4ryX5TJZI1YrceACWt2f5tnnKtU4DYo",
+      "name": "6.2 Lección 9 Folleto Datos y análisis",
+      "modifiedTime": "2024-08-13T20:49:08.461Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Teacher Reference How to Make": {
+      "driveFileId": "11m_fXy7gehLOCZZChYtSBoZTadnFKFdfM991ntATf_8",
+      "name": "6.2 Lesson 8 Teacher Reference How to Make",
+      "modifiedTime": "2024-08-13T20:49:05.075Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Teacher Edition": {
+      "driveFileId": "1nZuFDDIxKotobuy1kDSO8dq0iqXOWDvICHien9h0W1c",
+      "name": "6.2 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:49:00.965Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1tczrgm4gUKSVTyuM7HGuVOAnqill_iwUnR3ziM1IqsQ",
+      "name": "6.2 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:56.753Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Student Procedure": {
+      "driveFileId": "1HAjJXKi7YX1m-r_BzDff3AYIyXSfK2m-v8p7xwf-yRE",
+      "name": "6.2 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:52.536Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Slides": {
+      "driveFileId": "1ve2MxWc3EihDydaQQ-swLiuTwKQdUvfN2KxyGLVJHXw",
+      "name": "6.2 Lesson 8 Slides",
+      "modifiedTime": "2024-08-13T20:48:43.905Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Handout Light Measurement Template": {
+      "driveFileId": "1hdwXaM2KPHD-K4eDACDZdaOqHmelRuQ1JlEAecw89KE",
+      "name": "6.2 Lesson 8 Handout Light Measurement Template",
+      "modifiedTime": "2024-08-13T20:48:42.929Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Handout Investigating Light’s Effect": {
+      "driveFileId": "16jd2VqOdlqwVtqqhXFlH86RuSA1wCEgsLG1AYWfZzrk",
+      "name": "6.2 Lesson 8 Handout Investigating Light’s Effect",
+      "modifiedTime": "2024-08-13T20:48:39.639Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lesson 8 Handout Explaining Temperature Changes": {
+      "driveFileId": "14VLcoFEt6qoT754P7o9PsWGwhcnydpirZnkNC7TdjTE",
+      "name": "6.2 Lesson 8 Handout Explaining Temperature Changes",
+      "modifiedTime": "2024-08-13T20:48:36.340Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lección 8 Folleto Papel de medición": {
+      "driveFileId": "1tmMdpqQBxgM4O0RokZM7iRMaA2EUvcFD3JmrOQ4JIBk",
+      "name": "6.2 Lección 8 Folleto Papel de medición",
+      "modifiedTime": "2024-08-13T20:48:31.877Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lección 8 Folleto Investigando el efecto": {
+      "driveFileId": "1kiMP2A2Enqn6-ZePB8zi39_HC1wUH1mdlGP0HUAuL60",
+      "name": "6.2 Lección 8 Folleto Investigando el efecto",
+      "modifiedTime": "2024-08-13T20:48:28.401Z"
+    },
+    "Lesson 8 - 6.2 Thermal Energy/6.2 Lección 8 Folleto Explicando cambios de": {
+      "driveFileId": "1Fo2AX_iFDW8HXihJJz7nSV1pu1I5PJB663QNhJGIuAo",
+      "name": "6.2 Lección 8 Folleto Explicando cambios de",
+      "modifiedTime": "2024-08-13T20:48:22.262Z"
+    },
+    "Lesson 7 - 6.2 Thermal Energy/6.2 Lesson 7 Teacher Edition": {
+      "driveFileId": "1t_EpErIjsYlix25d_LtIgLq_1ukZRCHasNIMQ-HYrzY",
+      "name": "6.2 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:16.243Z"
+    },
+    "Lesson 7 - 6.2 Thermal Energy/6.2 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1DKz9RoPvxhThJpoNYwbUBTEBoGb3B0gZ-ngjRQiF6kY",
+      "name": "6.2 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:09.471Z"
+    },
+    "Lesson 7 - 6.2 Thermal Energy/6.2 Lesson 7 Student Procedure": {
+      "driveFileId": "1NnJFwfy-HAa9jHYMipuJhLBWQNaZQ6i7wghluxf10Ug",
+      "name": "6.2 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:08.559Z"
+    },
+    "Lesson 7 - 6.2 Thermal Energy/6.2 Lesson 7 Slides": {
+      "driveFileId": "1mNCSFx-QOm4uwaDTMl0AkS1iPY4upbeD-rruI_3FhoU",
+      "name": "6.2 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:48:05.258Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Reference Lesson 6 Assessment": {
+      "driveFileId": "1TTVq7tXM6A6Db0ZNMJ4bF2iEkkwIUXlvrwHc3a-Yhfo",
+      "name": "6.2 Lesson 6 Teacher Reference Lesson 6 Assessment",
+      "modifiedTime": "2024-08-13T20:48:00.576Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Teacher Edition": {
+      "driveFileId": "1y5SsLOusZ4f_AMuWz7uQjW-Ih-BPkbQzagSXajRVeus",
+      "name": "6.2 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:54.807Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1mpxKQZVHA11clbUfa4v6DDIi5slXGzGDCispntBtC98",
+      "name": "6.2 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:48.692Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Student Procedure": {
+      "driveFileId": "13egz3Lih2-83pgJEaebXrIWALUrPiAeYBCiu6Op4Jlk",
+      "name": "6.2 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:45.279Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Slides": {
+      "driveFileId": "1gJ9n7sZK8Mx9v39Jzaygh5Oi7MFQINRlNsz9nj-VU4Y",
+      "name": "6.2 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:47:41.196Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Rubric Rubric for Model": {
+      "driveFileId": "146bYhoDHeOFXlcqAra8Xw3139iuwMJG_5wqW5KJT8OY",
+      "name": "6.2 Lesson 6 Rubric Rubric for Model",
+      "modifiedTime": "2024-08-13T20:47:36.448Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Handout Particle Representations for": {
+      "driveFileId": "1XiaWiLEI9U0H3Ep6QLJuXvRV4TbNqKqOdoUw4K4vEs0",
+      "name": "6.2 Lesson 6 Handout Particle Representations for",
+      "modifiedTime": "2024-08-13T20:47:34.145Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Handout Analogy Map for": {
+      "driveFileId": "110LTFPp-db8WnG2y2_DzCWH2m06b9Pe9sbW79BalJE0",
+      "name": "6.2 Lesson 6 Handout Analogy Map for",
+      "modifiedTime": "2024-08-13T20:47:30.164Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Assessment Explaining the Effect": {
+      "driveFileId": "11KlQFXlYaCn8ANa0zxeSdiniYLnueVfH6i4psR51Tjo",
+      "name": "6.2 Lesson 6 Assessment Explaining the Effect",
+      "modifiedTime": "2024-08-13T20:47:27.376Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lesson 6 Answer Key Lesson 6 Assessment": {
+      "driveFileId": "156TvvMRM48iG-sxhLvKaF68goQ0HLXozAnfZsl816Sg",
+      "name": "6.2 Lesson 6 Answer Key Lesson 6 Assessment",
+      "modifiedTime": "2024-08-13T20:47:23.804Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lección 6 Folleto Representaciones de partículas": {
+      "driveFileId": "1mvU5FLMs9N2-BmqwtdYs2OClcZ-HOylRKuQ3fIpNyWc",
+      "name": "6.2 Lección 6 Folleto Representaciones de partículas",
+      "modifiedTime": "2024-08-13T20:47:20.637Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lección 6 Folleto Mapa de analogías": {
+      "driveFileId": "1WNBodxD0f40uMjurPBbNtdR76l1rXG-q4rApdjBnlg0",
+      "name": "6.2 Lección 6 Folleto Mapa de analogías",
+      "modifiedTime": "2024-08-13T20:47:16.904Z"
+    },
+    "Lesson 6 - 6.2 Thermal Energy/6.2 Lección 6 Evaluación Explicando el efecto": {
+      "driveFileId": "1rsYl-Akv6eFBngeks2kqYQGWWiL7XPc75QbN7a2lLtc",
+      "name": "6.2 Lección 6 Evaluación Explicando el efecto",
+      "modifiedTime": "2024-08-13T20:47:14.200Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Reference Lesson 5 Assessment": {
+      "driveFileId": "1OhNvUJnnPVgxUhxURamRBkvQmc0A84NmAl7wrcDDtQ0",
+      "name": "6.2 Lesson 5 Teacher Reference Lesson 5 Assessment",
+      "modifiedTime": "2024-08-13T20:47:09.907Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Teacher Edition": {
+      "driveFileId": "1LAtMP34RJq6U2OWTiUmz8YynnXzlWRGLRhEzH6X0uGA",
+      "name": "6.2 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:07.117Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "18QAvsooAv1Wc1gaT0aCEpdMnuuFWiSqcZ-xYEG6_ycU",
+      "name": "6.2 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:03.057Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Student Procedure": {
+      "driveFileId": "15JgZJ9kxTS3Gx-0OXeQhh0WrnwOEAs5RkHy3HaN-2H8",
+      "name": "6.2 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:59.180Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Slides": {
+      "driveFileId": "13S0RWRvWdw94lyk702s8Q1MLGFqH65mJO0sBFD2VTtE",
+      "name": "6.2 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:46:54.948Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Handout Water Droplet Investigation": {
+      "driveFileId": "1eo2eeS7aynVyf14D5KKH05y9zG1J-Q1ngXT5ZMGBi9o",
+      "name": "6.2 Lesson 5 Handout Water Droplet Investigation",
+      "modifiedTime": "2024-08-13T20:46:48.890Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Assessment Cold Lemonade on": {
+      "driveFileId": "1w9N1NCcvfoy29W1N7UxA812hOx4WOSKbiiyPpWDOqVU",
+      "name": "6.2 Lesson 5 Assessment Cold Lemonade on",
+      "modifiedTime": "2024-08-13T20:46:45.962Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lesson 5 Answer Key Lesson 5 Assessment": {
+      "driveFileId": "17-9Q7xg5xTnMKFXum-MA-VESoqBSFxG2ONoYOxV1tn8",
+      "name": "6.2 Lesson 5 Answer Key Lesson 5 Assessment",
+      "modifiedTime": "2024-08-13T20:46:41.824Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lección 5 Folleto Investigación de gotas": {
+      "driveFileId": "1_gBB9w4t9bdAUCgBMh3F6AH9ok7qEAu-mMK3wDjOGGE",
+      "name": "6.2 Lección 5 Folleto Investigación de gotas",
+      "modifiedTime": "2024-08-13T20:46:39.699Z"
+    },
+    "Lesson 5 - 6.2 Thermal Energy/6.2 Lección 5 Evaluación ¡Limonada fría en": {
+      "driveFileId": "1COyL-aOhej_iCgY9aB90gXG20xRLu1uyi-RTo4Ml-QA",
+      "name": "6.2 Lección 5 Evaluación ¡Limonada fría en",
+      "modifiedTime": "2024-08-13T20:46:36.781Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Teacher Edition": {
+      "driveFileId": "10z4XUpCj1WoM8C3P48m2ZabfKTqAlSbBafyMokgn0Gs",
+      "name": "6.2 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:31.654Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1zogtTGGtKhE_J3wt9W5rXUPa4A-KdDIdI2lmRGswkTQ",
+      "name": "6.2 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:46:28.060Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Student Procedure": {
+      "driveFileId": "1jY8337WnW3dAKRvcU6IMf0bluJcpyADbpHJX7l14mXk",
+      "name": "6.2 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:24.333Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Slides": {
+      "driveFileId": "1tYXzIt96YK6HVktw6ZtyjPtDMzzNxsyeAj7fWVhfKE8",
+      "name": "6.2 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:46:18.792Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Handout Progress Tracker 2": {
+      "driveFileId": "1kNpbpuXc27D_3tscI5cKty98A6PUMmmQq8yrRvPXT4Q",
+      "name": "6.2 Lesson 4 Handout Progress Tracker 2",
+      "modifiedTime": "2024-08-13T20:46:14.331Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Handout Progress Tracker": {
+      "driveFileId": "1D-kMdsZQYmlYQF3ls03_EMv4_WhuhG11rMUhKeadxyc",
+      "name": "6.2 Lesson 4 Handout Progress Tracker",
+      "modifiedTime": "2024-08-13T20:46:12.326Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Handout Procedure Measuring Changes": {
+      "driveFileId": "1hXjZpqDQxCZkBr67hWT5nlZcF8_hili6Cr6j4bX9u4A",
+      "name": "6.2 Lesson 4 Handout Procedure Measuring Changes",
+      "modifiedTime": "2024-08-13T20:46:09.917Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Handout Manipulative Mat for": {
+      "driveFileId": "1Y-L_fuzXvPuK-E19hLGkUvpHxu043N352-rlz4kqNfs",
+      "name": "6.2 Lesson 4 Handout Manipulative Mat for",
+      "modifiedTime": "2024-08-13T20:46:06.877Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Handout Initial Model of": {
+      "driveFileId": "10YEeAqOkIxt-D9lQok5mtTxr9J5lkh349jk05dMrJ8I",
+      "name": "6.2 Lesson 4 Handout Initial Model of",
+      "modifiedTime": "2024-08-13T20:46:03.954Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lesson 4 Handout Explanations and Predictions": {
+      "driveFileId": "1uY-gGX1mq3TYuTpdFBcEgInfcP7ctqFPhJshOAkRS6g",
+      "name": "6.2 Lesson 4 Handout Explanations and Predictions",
+      "modifiedTime": "2024-08-13T20:45:59.189Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lección 4 Folleto Registro de Progreso": {
+      "driveFileId": "1tCz9QDrABE-vb8G1QoSzF_3Y35QIEF5IV5OUcl4insY",
+      "name": "6.2 Lección 4 Folleto Registro de Progreso",
+      "modifiedTime": "2024-08-13T20:45:56.473Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lección 4 Folleto Procedimiento midiendo cambios": {
+      "driveFileId": "1sRR9fstn3vBn-ydLj-rCk2VTNMI9OAnTsooAKPHk650",
+      "name": "6.2 Lección 4 Folleto Procedimiento midiendo cambios",
+      "modifiedTime": "2024-08-13T20:45:54.018Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lección 4 Folleto Modelo inicial de": {
+      "driveFileId": "1107uQve7fkzYO9rRTtXYJMuq8m2g81jPDn4vWmxcFyY",
+      "name": "6.2 Lección 4 Folleto Modelo inicial de",
+      "modifiedTime": "2024-08-13T20:45:51.537Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lección 4 Folleto Modelo de materia": {
+      "driveFileId": "13bB0eDA1Gs8E6N5HCbzPJ53kfaNzIB9539sc2hc7otk",
+      "name": "6.2 Lección 4 Folleto Modelo de materia",
+      "modifiedTime": "2024-08-13T20:45:47.817Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lección 4 Folleto Explicaciones y predicciones": {
+      "driveFileId": "1R_zTRoqYaaVM-7UMj95DdeC0Spv0wF8aSEqr5Mo25BU",
+      "name": "6.2 Lección 4 Folleto Explicaciones y predicciones",
+      "modifiedTime": "2024-08-13T20:45:44.504Z"
+    },
+    "Lesson 4 - 6.2 Thermal Energy/6.2 Lección 4 Folleto Alterno Registro de": {
+      "driveFileId": "18KAFT64LPtr_wieJbliYwcog2yjQ3FLpEQjW1Cug0ZQ",
+      "name": "6.2 Lección 4 Folleto Alterno Registro de",
+      "modifiedTime": "2024-08-13T20:45:41.386Z"
+    },
+    "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Teacher Edition": {
+      "driveFileId": "1n4RzRZrCclmlhoP6n5FR5QdC3am63zw1oAZdTo_5Z5M",
+      "name": "6.2 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:38.716Z"
+    },
+    "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1teGrnujOEcDMu0wO8BMSVbFBRjP12R2246g2ZECEOH4",
+      "name": "6.2 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:32.322Z"
+    },
+    "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Student Procedure": {
+      "driveFileId": "1s3y8PowxadtFjh2uDsxiSkhO2d5TetWst5RaguPZaoM",
+      "name": "6.2 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:27.116Z"
+    },
+    "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Slides": {
+      "driveFileId": "1o1lv830mO7Z8KY1VJbHj1xuB0afewRUqnudF5c9vHDM",
+      "name": "6.2 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:45:22.671Z"
+    },
+    "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Handout Investigation Plan _______________": {
+      "driveFileId": "1wPbSFiR4jzXQiahH6XW_DXDhCD_KDyRXTjJH6gu6L6s",
+      "name": "6.2 Lesson 3 Handout Investigation Plan _______________",
+      "modifiedTime": "2024-08-13T20:45:18.288Z"
+    },
+    "Lesson 3 - 6.2 Thermal Energy/6.2 Lesson 3 Handout Investigation Plan ___________": {
+      "driveFileId": "1MsnD-qHtuXXiJ9lfduVDiBJJ-fN0hlnMr6xdAxhevns",
+      "name": "6.2 Lesson 3 Handout Investigation Plan ___________",
+      "modifiedTime": "2024-08-13T20:45:15.288Z"
+    },
+    "Lesson 3 - 6.2 Thermal Energy/6.2 Lección 3 Folleto Plan de la": {
+      "driveFileId": "1HHtoIWbEZmH_M_vCm06yRC47ClEeGYR0ToRDumEq-Go",
+      "name": "6.2 Lección 3 Folleto Plan de la",
+      "modifiedTime": "2024-08-13T20:45:12.608Z"
+    },
+    "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Teacher Edition": {
+      "driveFileId": "1CbTMmp1Lzt2aJZwt0cj3zkNrpj2V7iOoPWDAqj3KIFs",
+      "name": "6.2 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:09.494Z"
+    },
+    "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1SCXNaFEZInrr1EJdegc-oMVHreHD83ZSpwNkaIHOsKM",
+      "name": "6.2 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:04.711Z"
+    },
+    "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Student Procedure": {
+      "driveFileId": "1zw7qZ9fYR_HdYpaJTKixWBcvI4E3gd99OgjoMG0eP54",
+      "name": "6.2 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:59.794Z"
+    },
+    "Lesson 2 - 6.2 Thermal Energy/6.2 Lesson 2 Slides": {
+      "driveFileId": "1vXiP-1bYTzhQ0ZjsFndGnuZEzVhkdHm16AUVN-F0LHM",
+      "name": "6.2 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:44:56.631Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Reference Reference for Disaster": {
+      "driveFileId": "1tDMwAPQvrzV0NuzIbf1hC2DQik14yQAhCyUJOYhi5z0",
+      "name": "6.2 Lesson 18 Teacher Reference Reference for Disaster",
+      "modifiedTime": "2024-08-13T20:44:51.204Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Teacher Edition": {
+      "driveFileId": "16TDid6lPdtQUEwawsYq3oVVJ0KRz-M7ufjjiUhJn2rE",
+      "name": "6.2 Lesson 18 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:47.854Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Student Procedure in Spanish": {
+      "driveFileId": "1lj47ZJIvntF3jN2i7x9vut36pcIfTBpPmJu9ClpDqrw",
+      "name": "6.2 Lesson 18 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:43.526Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Student Procedure": {
+      "driveFileId": "1rn6dk-aL_Wf1_6UXM_CLQJ-ayRy-sSnwpJT0a_YQp8o",
+      "name": "6.2 Lesson 18 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:39.385Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Slides": {
+      "driveFileId": "1FA1tf25J_8u-PDKFugRcWI2C3zN8upKBPoyM8NYice8",
+      "name": "6.2 Lesson 18 Slides",
+      "modifiedTime": "2024-08-13T20:44:35.870Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Handout Let’s Answer Questions": {
+      "driveFileId": "13n9ccBsQ71MVJjvh9NVNdWQs81eJ6TCjZe2IipVPOYk",
+      "name": "6.2 Lesson 18 Handout Let’s Answer Questions",
+      "modifiedTime": "2024-08-13T20:44:31.525Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Assessment Disaster Blanket Design": {
+      "driveFileId": "1Xg5ePvTm6G7-VKqKdgmu6sBlmfxKgBlEyRXxh9zcgHE",
+      "name": "6.2 Lesson 18 Assessment Disaster Blanket Design",
+      "modifiedTime": "2024-08-13T20:44:28.843Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lesson 18 Answer Key Reference for Disaster": {
+      "driveFileId": "1uIkqHWDPn2sSqLoyLhcFAi1Gcs4NRWpKsXFRPQ2Oy14",
+      "name": "6.2 Lesson 18 Answer Key Reference for Disaster",
+      "modifiedTime": "2024-08-13T20:44:24.432Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lección 18 Folleto ¡Vamos a contestar": {
+      "driveFileId": "19sEJCq16yYbcK4jo-HatZz0AeuyR-lTqplgxvosLUj8",
+      "name": "6.2 Lección 18 Folleto ¡Vamos a contestar",
+      "modifiedTime": "2024-08-13T20:44:16.194Z"
+    },
+    "Lesson 18 - 6.2 Thermal Energy/6.2 Lección 18 Evaluación Evaluación diseñar una": {
+      "driveFileId": "1av44DBGDs8mHgFxwOsXEc-iCf8Bl9e8C9RzJSXWepgU",
+      "name": "6.2 Lección 18 Evaluación Evaluación diseñar una",
+      "modifiedTime": "2024-08-13T20:44:15.362Z"
+    },
+    "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Teacher Edition": {
+      "driveFileId": "1fFIMfsNKnaza5Qb0Ae_oxWxK10HzWpA688ZI47pw5UQ",
+      "name": "6.2 Lesson 17 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:10.297Z"
+    },
+    "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Student Procedure in Spanish": {
+      "driveFileId": "16MDcR5yT1cn8tKuiQ-8OhKa-5oERmQtCeRGgWBinWt4",
+      "name": "6.2 Lesson 17 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:06.296Z"
+    },
+    "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Student Procedure": {
+      "driveFileId": "1FF7JYvjRQF0eQdSaBGy3NO2QwG87OzWg7AwD3H_9Kjw",
+      "name": "6.2 Lesson 17 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:01.945Z"
+    },
+    "Lesson 17 - 6.2 Thermal Energy/6.2 Lesson 17 Slides": {
+      "driveFileId": "1TPiO6yjYsMTwKGTXdzlfQkGCruELMBCSc5NUjnVlMQE",
+      "name": "6.2 Lesson 17 Slides",
+      "modifiedTime": "2024-08-13T20:43:57.755Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Teacher Edition": {
+      "driveFileId": "1wjsKgmOTX28gi6Qw0tMEN9WT1wUUVo3_69qsJzaS9Ic",
+      "name": "6.2 Lesson 16 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:43:52.664Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Student Procedure in Spanish": {
+      "driveFileId": "19jvuFM6UfTxL09kSJONMwTxDx3kWPRPzfKNvnJp_Czg",
+      "name": "6.2 Lesson 16 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:43:48.882Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Student Procedure": {
+      "driveFileId": "1sb2wRib1MO_K_TNfZ1PFbCAGT1IDTeTELFjGl6XlQG4",
+      "name": "6.2 Lesson 16 Student Procedure",
+      "modifiedTime": "2024-08-13T20:43:45.387Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Slides": {
+      "driveFileId": "1eVBc5eUGk_9XSIBaeuiTFfYkxHYnAsgFCfuFy3QGugA",
+      "name": "6.2 Lesson 16 Slides",
+      "modifiedTime": "2024-08-13T20:43:41.999Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Reference Regular light and": {
+      "driveFileId": "1W88kYiMJ7BwlZbYbxAhdg9skq1zFu9wHy0rHOLC3n5U",
+      "name": "6.2 Lesson 16 Reference Regular light and",
+      "modifiedTime": "2024-08-13T20:43:38.024Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Reference Price check test": {
+      "driveFileId": "1ENvVbAbBHB6p3Znwh4Cq_aHXW-UxbnFiuCIc-a5A9X4",
+      "name": "6.2 Lesson 16 Reference Price check test",
+      "modifiedTime": "2024-08-13T20:43:34.990Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Reference Environmental Impact Test": {
+      "driveFileId": "1LHuE0UkIaNKOwAvZpTrLs9Z3y1XX6jhRgcAKLB2WVJg",
+      "name": "6.2 Lesson 16 Reference Environmental Impact Test",
+      "modifiedTime": "2024-08-13T20:43:31.675Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Reference Diameter test": {
+      "driveFileId": "1tNJL-8aMHbGdho-yheBpS5uT1iBhgq2JhkFIkx4gJVQ",
+      "name": "6.2 Lesson 16 Reference Diameter test",
+      "modifiedTime": "2024-08-13T20:43:28.592Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Reference Bright light and": {
+      "driveFileId": "13FJV5ILuEwQNrD_gcsxOApCQ35aCMKbC0E9f1kW-C_M",
+      "name": "6.2 Lesson 16 Reference Bright light and",
+      "modifiedTime": "2024-08-13T20:43:24.992Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Handout Design Evaluation Peer": {
+      "driveFileId": "17Rm_1Is_cuoYCvCcZsObgZIIvEmmYjz_Jmz4jq7g8NE",
+      "name": "6.2 Lesson 16 Handout Design Evaluation Peer",
+      "modifiedTime": "2024-08-13T20:43:19.804Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lesson 16 Handout Cold Cup Design": {
+      "driveFileId": "1Te4JzdmFnpORJkpC1FAvBagKRqWfA6I2cuyeStVBKK0",
+      "name": "6.2 Lesson 16 Handout Cold Cup Design",
+      "modifiedTime": "2024-08-13T20:43:17.149Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lección 16 Referencia Prueba del impacto": {
+      "driveFileId": "1qAxOreGBP09Mne7U9iLG_w23ptpzhh4CuwgLNM52AeA",
+      "name": "6.2 Lección 16 Referencia Prueba del impacto",
+      "modifiedTime": "2024-08-13T20:43:12.434Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lección 16 Referencia Prueba del diámetro": {
+      "driveFileId": "1ghHfgGrcAtVWpBRYDPetI8sjgBWGzFEa5vWdhiejcWE",
+      "name": "6.2 Lección 16 Referencia Prueba del diámetro",
+      "modifiedTime": "2024-08-13T20:43:09.515Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lección 16 Referencia Prueba de verificación": {
+      "driveFileId": "1eeIHVGyS4fNtej_QKctf9uRLE63GxfPGj7yViJxYius",
+      "name": "6.2 Lección 16 Referencia Prueba de verificación",
+      "modifiedTime": "2024-08-13T20:43:05.227Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lección 16 Referencia Prueba de la": {
+      "driveFileId": "1kwMKekEFDmwJhEKNulea5Pe63ccVaUuN8N98F2qEjjc",
+      "name": "6.2 Lección 16 Referencia Prueba de la",
+      "modifiedTime": "2024-08-13T20:42:59.893Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lección 16 Folleto Evaluación de diseño": {
+      "driveFileId": "1io5yAEhsVO5hGnBv0xsEENwV9dxMyxzOPDrBtA5IEVE",
+      "name": "6.2 Lección 16 Folleto Evaluación de diseño",
+      "modifiedTime": "2024-08-13T20:42:59.021Z"
+    },
+    "Lesson 16 - 6.2 Thermal Energy/6.2 Lección 16 Folleto Concurso de diseño": {
+      "driveFileId": "18hwsEbVLGwFd8ktH66QW7e62kQatPZaMQZXXhpU8SAk",
+      "name": "6.2 Lección 16 Folleto Concurso de diseño",
+      "modifiedTime": "2024-08-13T20:42:56.658Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Teacher Edition": {
+      "driveFileId": "1YWaykz5B_S0RsDstl4egDg5TyfRY8RDhMJxVPHw8tKg",
+      "name": "6.2 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:42:51.893Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1vi0DwGzV6cIIorf6K_1H59_3UYJ7bj97G8inwhjoyLU",
+      "name": "6.2 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:42:47.228Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Student Procedure": {
+      "driveFileId": "1ysvFAaQcKgHBsDegTXAT9DlP1IEHi6PPS6FSrApEXYs",
+      "name": "6.2 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-13T20:42:40.911Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Slides": {
+      "driveFileId": "1gZk7K6nBM5nN7B12FWNBcmD4_j_dioc_BoEJ46aBiI8",
+      "name": "6.2 Lesson 15 Slides",
+      "modifiedTime": "2024-08-13T20:42:36.655Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Handout How Styrene, Neoprene,": {
+      "driveFileId": "1wKHotQJKxYGLOnHazp2uv7niU_xtNt_KVrgWf09oi7k",
+      "name": "6.2 Lesson 15 Handout How Styrene, Neoprene,",
+      "modifiedTime": "2024-08-13T20:42:27.392Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Handout How Light Warms": {
+      "driveFileId": "1xCFwWC5psWl5Jd7jX2wtND9d02tyZn-Ezb8cIHDx4T4",
+      "name": "6.2 Lesson 15 Handout How Light Warms",
+      "modifiedTime": "2024-08-13T20:42:26.528Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Handout How Double Walls": {
+      "driveFileId": "1qJog07qZ8YGNZZh39FoKxZ5GrdZl7hb27I_4yHdA9Y0",
+      "name": "6.2 Lesson 15 Handout How Double Walls",
+      "modifiedTime": "2024-08-13T20:42:21.840Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Handout Final Cup Consensus": {
+      "driveFileId": "1NrwWNqCEWHm3UQ_ZyPD4_faQ8tz3HPjl4uQ3GCcyYWY",
+      "name": "6.2 Lesson 15 Handout Final Cup Consensus",
+      "modifiedTime": "2024-08-13T20:42:18.104Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Handout Features of Cups": {
+      "driveFileId": "1Kn8Nid_WRVqyKuKOScVg-Whykp9EGvhjBxY-V86Y2No",
+      "name": "6.2 Lesson 15 Handout Features of Cups",
+      "modifiedTime": "2024-08-13T20:42:15.285Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lesson 15 Handout Evaporative Cooling": {
+      "driveFileId": "1XmVzGI-vln4WaKk8pYX-6-HgWK03MmiX0mobfB13O1E",
+      "name": "6.2 Lesson 15 Handout Evaporative Cooling",
+      "modifiedTime": "2024-08-13T20:42:12.517Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lección 15 Folleto Modelo de consenso": {
+      "driveFileId": "1N2UlMbpB61U1gRy00lolh5ccXbwt09QW5spDnsNn0ts",
+      "name": "6.2 Lección 15 Folleto Modelo de consenso",
+      "modifiedTime": "2024-08-13T20:42:08.026Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lección 15 Folleto Enfriamiento evaporativo": {
+      "driveFileId": "1zvVcNd4Gi-qF5jjvUNLaSPYsJeNd5V3xLj2PIxWuWow",
+      "name": "6.2 Lección 15 Folleto Enfriamiento evaporativo",
+      "modifiedTime": "2024-08-13T20:42:04.109Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lección 15 Folleto Cómo la luz": {
+      "driveFileId": "1ppHLrn7RZBpQ6JLd0a1FqIunjpbyqZEBHX8eOC04W8U",
+      "name": "6.2 Lección 15 Folleto Cómo la luz",
+      "modifiedTime": "2024-08-13T20:41:59.945Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lección 15 Folleto Cómo funcionan las": {
+      "driveFileId": "1D2-j6MaxTtCWiom4VntnjRvA7_LUyCeg70Gg0ioNdWg",
+      "name": "6.2 Lección 15 Folleto Cómo funcionan las",
+      "modifiedTime": "2024-08-13T20:41:55.710Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lección 15 Folleto Como funcionan las": {
+      "driveFileId": "1CETV0Wm5YrKyC1UQZkT_BMVLaaS0vyk6I8ONekJ21aM",
+      "name": "6.2 Lección 15 Folleto Como funcionan las",
+      "modifiedTime": "2024-08-13T20:41:51.342Z"
+    },
+    "Lesson 15 - 6.2 Thermal Energy/6.2 Lección 15 Folleto Características de vasos": {
+      "driveFileId": "1rAM-gdp7VIe34wYWwap9xU2_4EioMFWlGNWJ8afmbnc",
+      "name": "6.2 Lección 15 Folleto Características de vasos",
+      "modifiedTime": "2024-08-13T20:41:42.906Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Reference Lesson 14 Assessment": {
+      "driveFileId": "1H7YViABBgRlw4RhO0LJmcgR5PoZ9uJjDzJdYJQmYUM4",
+      "name": "6.2 Lesson 14 Teacher Reference Lesson 14 Assessment",
+      "modifiedTime": "2024-08-13T20:41:39.980Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Reference Evidence Cards 2": {
+      "driveFileId": "1kPUQH-EW7zN-cKw8Btjr7KWkodZ9JdaHdPGazUGJ0Og",
+      "name": "6.2 Lesson 14 Teacher Reference Evidence Cards 2",
+      "modifiedTime": "2024-08-13T20:41:36.943Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Reference Butter Demonstration": {
+      "driveFileId": "12DNZqVyRFfIXxoXsQpUm9EOWfEKcJWvjAqqsuaEzx2o",
+      "name": "6.2 Lesson 14 Teacher Reference Butter Demonstration",
+      "modifiedTime": "2024-08-13T20:41:32.741Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Teacher Edition": {
+      "driveFileId": "1qjpCdVYvljDt0gCNoZ7gZujuXuWxwHQGoLr6AUOBuBw",
+      "name": "6.2 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:41:28.986Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1wzHeAlTXvH_MahSS4b1s-MyUs9mdCBYOb3BBi7jRTG4",
+      "name": "6.2 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:41:25.168Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Student Procedure": {
+      "driveFileId": "1N7ZTY-0ParR-yafyfIuka5w4mAmFm0b3mnG40cf78ns",
+      "name": "6.2 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-13T20:41:20.331Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Slides": {
+      "driveFileId": "1zrAgc99u65n5bx5GX6iYFcPe8eJJXLQAibYkk6h_VG4",
+      "name": "6.2 Lesson 14 Slides",
+      "modifiedTime": "2024-08-13T20:41:16.729Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Rubric Rubric for Model": {
+      "driveFileId": "1hM8B9tQwQ7vbNvzFe2HhTbWc0YleJDHELUfZIuxHZ_U",
+      "name": "6.2 Lesson 14 Rubric Rubric for Model",
+      "modifiedTime": "2024-08-13T20:41:12.645Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Handout Modeling What Is": {
+      "driveFileId": "1iQCgGloz_EJj3TazLlJgfE2FgXCPcJd2jhPfdeyC6eE",
+      "name": "6.2 Lesson 14 Handout Modeling What Is",
+      "modifiedTime": "2024-08-13T20:41:09.843Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Handout Evidence Sorting chart": {
+      "driveFileId": "1E11DtxjGI8On1ExII1DUT76ab3RmMN4o_kxG2OCymss",
+      "name": "6.2 Lesson 14 Handout Evidence Sorting chart",
+      "modifiedTime": "2024-08-13T20:41:05.983Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Assessment Icing Injuries Assessment": {
+      "driveFileId": "1vsMGM7fkU0tm543YGvcP1oZSCR2v5hLiBlppbl6Fa8U",
+      "name": "6.2 Lesson 14 Assessment Icing Injuries Assessment",
+      "modifiedTime": "2024-08-13T20:41:03.435Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lesson 14 Answer Key Lesson 14 Assessment": {
+      "driveFileId": "1F_mdrX4hPi3LCvg9wAVZgpW3RDtNZXsBTosu7DEpVwE",
+      "name": "6.2 Lesson 14 Answer Key Lesson 14 Assessment",
+      "modifiedTime": "2024-08-13T20:40:59.651Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lección 14 Folleto Tabla de clasificación": {
+      "driveFileId": "1a-eZT29Ks-0Jp_PIVXkWeTYbNVwEqJ4IqT8u6MsLNI0",
+      "name": "6.2 Lección 14 Folleto Tabla de clasificación",
+      "modifiedTime": "2024-08-13T20:40:56.408Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lección 14 Folleto Modelar lo que": {
+      "driveFileId": "1XQTVrVI5OhgOheuoOhKLwJ0cEl0Yq9K4sckODhKx0Iw",
+      "name": "6.2 Lección 14 Folleto Modelar lo que",
+      "modifiedTime": "2024-08-13T20:40:54.215Z"
+    },
+    "Lesson 14 - 6.2 Thermal Energy/6.2 Lección 14 Evaluación Evaluación poner hielo": {
+      "driveFileId": "1FO49kGXsgyKDT0H0kdNG4TB7GCPyEIpUNkLVjV1sPJo",
+      "name": "6.2 Lección 14 Evaluación Evaluación poner hielo",
+      "modifiedTime": "2024-08-13T20:40:50.769Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Teacher Edition": {
+      "driveFileId": "1Fgh2PzhIy_0l6rq_jfC-ySkCUkvpejB_BpDrB-dtlGg",
+      "name": "6.2 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:47.252Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1NU_Lzl4PCxUzp1Vvr1vTSFg5YttKTIp9YV7loD_byn4",
+      "name": "6.2 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:41.910Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Student Procedure": {
+      "driveFileId": "1TWFHx_RD8FST764aZMNRGfrsAy7ijyzeM2-hRXC8Nng",
+      "name": "6.2 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:37.120Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Slides": {
+      "driveFileId": "1laFhPflkdGFC2IztIhtSGU1MyjqIIB_qXF7w5qTDr1Q",
+      "name": "6.2 Lesson 13 Slides",
+      "modifiedTime": "2024-08-13T20:40:26.268Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Handout Particle Collisions within": {
+      "driveFileId": "14-P1JV1m-8Iciw-icRlaLO_AwoRM5IIeqYpxvq5CZaQ",
+      "name": "6.2 Lesson 13 Handout Particle Collisions within",
+      "modifiedTime": "2024-08-13T20:40:25.090Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Handout Investigating Particle Collisions": {
+      "driveFileId": "1Ewko4bqdLCRawOEm8sEvsJg2qGHClVG5lejSz_zcJAU",
+      "name": "6.2 Lesson 13 Handout Investigating Particle Collisions",
+      "modifiedTime": "2024-08-13T20:40:22.806Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lesson 13 Answer Key Key for Investigating": {
+      "driveFileId": "1kOWxnJR9fxcg28Z1rrKuazzC2aWinqnc-X_tESTmBnI",
+      "name": "6.2 Lesson 13 Answer Key Key for Investigating",
+      "modifiedTime": "2024-08-13T20:40:19.821Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lección 13 Folleto Investigación de colisiones": {
+      "driveFileId": "1DDsoC5UzFmKGs8t3TLlJOwFKQXXU39LoZAVLhXvuUCw",
+      "name": "6.2 Lección 13 Folleto Investigación de colisiones",
+      "modifiedTime": "2024-08-13T20:40:17.487Z"
+    },
+    "Lesson 13 - 6.2 Thermal Energy/6.2 Lección 13 Folleto Colisiones de partículas": {
+      "driveFileId": "19FsqOM9wRcJeOW0uhsZrlLM1XcNXuGIGqpl3pYyimtg",
+      "name": "6.2 Lección 13 Folleto Colisiones de partículas",
+      "modifiedTime": "2024-08-13T20:40:14.226Z"
+    },
+    "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Teacher Edition": {
+      "driveFileId": "1cPydxO1Sw5589OK0APbDqxF1g8_oHmw3t2T65RyTsFQ",
+      "name": "6.2 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:10.333Z"
+    },
+    "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1cTNMKrIJiiYv7LGqUSvVCA-nXqx_pLxQuB4q1VS5Dxk",
+      "name": "6.2 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:03.783Z"
+    },
+    "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Student Procedure": {
+      "driveFileId": "1nOwCXT8GG-yUNvvATzM-70-ICjSP-NGMJKTsr2gcbWQ",
+      "name": "6.2 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-13T20:39:59.543Z"
+    },
+    "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Slides": {
+      "driveFileId": "1tYPE9TltzA2P_DiA1RZXnWFsHs1mEvajYTAiTHDZwjQ",
+      "name": "6.2 Lesson 12 Slides",
+      "modifiedTime": "2024-08-13T20:39:56.242Z"
+    },
+    "Lesson 12 - 6.2 Thermal Energy/6.2 Lesson 12 Handout Particle Interactions in": {
+      "driveFileId": "1K5FiWmjgj-bghN52etGTRm7hPZhUL1iwgbU7YFsZQ8A",
+      "name": "6.2 Lesson 12 Handout Particle Interactions in",
+      "modifiedTime": "2024-08-13T20:39:51.754Z"
+    },
+    "Lesson 12 - 6.2 Thermal Energy/6.2 Lección 12 Folleto Interacciones de partículas": {
+      "driveFileId": "1jrh6j5Yv1Qk4G1_6m01ykTCLiyInDEPLnOPoSzgnwUQ",
+      "name": "6.2 Lección 12 Folleto Interacciones de partículas",
+      "modifiedTime": "2024-08-13T20:39:47.717Z"
+    },
+    "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Teacher Reference Evidence Cards 1": {
+      "driveFileId": "1PUavOAk6nU-pDgD39iftwTFQkX-G86zs2sCAZxWrr0U",
+      "name": "6.2 Lesson 11 Teacher Reference Evidence Cards 1",
+      "modifiedTime": "2024-08-13T20:39:42.719Z"
+    },
+    "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Teacher Edition": {
+      "driveFileId": "1b33QaCEKqf65COcnzFinwDICWZBOdauf2DbkNKSq4Ac",
+      "name": "6.2 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:39:38.337Z"
+    },
+    "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1jSorVpthAajhJeOp5GKvSwz6EAnFYU6Sv2-StcYP-aE",
+      "name": "6.2 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:39:34.531Z"
+    },
+    "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Student Procedure": {
+      "driveFileId": "13j3aAklxKQlXVKFPq97f4sMxjiVBku0KuGkmXFnc8Vk",
+      "name": "6.2 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-13T20:39:30.325Z"
+    },
+    "Lesson 11 - 6.2 Thermal Energy/6.2 Lesson 11 Slides": {
+      "driveFileId": "14Z-5HwClV2DLpPktAAoXjLh2BD8o4S37iCPBIm2wKW8",
+      "name": "6.2 Lesson 11 Slides",
+      "modifiedTime": "2024-08-13T20:39:26.419Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Teacher Edition": {
+      "driveFileId": "1fHEBaeN8bJJYB3evSiOxV7SIssbNxC6Ou4KE8fY5tfc",
+      "name": "6.2 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:39:19.380Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1h_wJ-D9VtsyQHxS5l4AYyOfVWi7qfSAN3mRhcllCo2A",
+      "name": "6.2 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:39:14.745Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Student Procedure": {
+      "driveFileId": "1bUfZe1XMrj4ACf4l-96DBvdMlxFnOQ_aZqAIp6KnDus",
+      "name": "6.2 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-13T20:39:10.839Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Slides": {
+      "driveFileId": "1UtBqi1Mnd6rAAcXymIyPl-8zfvZUCmlGGk7Jf76DXak",
+      "name": "6.2 Lesson 10 Slides",
+      "modifiedTime": "2024-08-13T20:39:05.829Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Reading Reading on James": {
+      "driveFileId": "1dP0gAfxc8HS9XRddZxZHJJMl9fcuVI3lWBNSudQdmBw",
+      "name": "6.2 Lesson 10 Reading Reading on James",
+      "modifiedTime": "2024-08-13T20:39:00.797Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lesson 10 Handout James Joule’s Experiment": {
+      "driveFileId": "1VAb5hc86b-qlzwaBHF3wvfDjSIZtOFZDyZaAQBbqn60",
+      "name": "6.2 Lesson 10 Handout James Joule’s Experiment",
+      "modifiedTime": "2024-08-13T20:38:56.767Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lección 10 Lectura Lectura El experimento": {
+      "driveFileId": "1Av_sMSLYf1ad8Rh_AUTV0Bsp0YjnqHagc8OkZfcTjKA",
+      "name": "6.2 Lección 10 Lectura Lectura El experimento",
+      "modifiedTime": "2024-08-13T20:38:52.538Z"
+    },
+    "Lesson 10 - 6.2 Thermal Energy/6.2 Lección 10 Folleto El experimento de": {
+      "driveFileId": "1jT8OVL9OyqZjdj6Ap3DLQlVu_8g20KeLslDSy3eDlOE",
+      "name": "6.2 Lección 10 Folleto El experimento de",
+      "modifiedTime": "2024-08-13T20:38:49.686Z"
+    },
+    "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Teacher Edition": {
+      "driveFileId": "1DSF9rQv3DbIlYNZSJaP4I70SXkyKwtYjye58eikNnpc",
+      "name": "6.2 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:38:45.430Z"
+    },
+    "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "16r2fTw9rPjUgo6TL02twnuSxOGXG2E3MJOkm6szqQWc",
+      "name": "6.2 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:38:41.110Z"
+    },
+    "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Student Procedure": {
+      "driveFileId": "1X-8LR6pTFGthY9suRnAAt_YN8MWCy6XaBIci3K-rXoQ",
+      "name": "6.2 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:38:36.279Z"
+    },
+    "Lesson 1 - 6.2 Thermal Energy/6.2 Lesson 1 Slides": {
+      "driveFileId": "1nIDI7tndNE-EVrs1tpuari02J6ZbHwXp6bTp1cGrfhM",
+      "name": "6.2 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:38:31.459Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "11PSyib3XOsJOYbG8OZC8AAeB2eLsfYQn",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:38:26.475Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1vEmr0QhS8EloNS7AmDonYuIYLLKngp0M",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:38:24.215Z"
+    },
+    "6.2 Thermal Energy Video Links.pdf": {
+      "driveFileId": "1J2TnPxBe9kbAOrOI1glPp7WuhJrrqln5",
+      "name": "6.2 Thermal Energy Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:38:23.126Z"
+    },
+    "6.2 Thermal Energy Unit Overview Materials": {
+      "driveFileId": "1HaNoTjVl1SgMaveL3QwBhItbsvsNbrW-lZuaFr70Y0I",
+      "name": "6.2 Thermal Energy Unit Overview Materials",
+      "modifiedTime": "2024-08-13T20:38:22.262Z"
+    },
+    "6.2 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1gPx1LGHmq_TgafXb1hKvB7KTZ5yoZTcZ",
+      "name": "6.2 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:38:14.821Z"
+    }
+  }
+}

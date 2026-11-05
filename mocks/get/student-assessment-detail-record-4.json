@@ -1,0 +1,30 @@
+{
+  "student": {
+    "id": "student-4",
+    "name": "Green Turtle",
+    "email": "green.turtle@school.edu",
+    "status": "handed_in",
+    "submittedAt": "2024-01-19T16:45:00Z",
+    "score": null,
+    "classSection": "Period A",
+    "lastActionDate": "2024-01-19T16:45:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": null,
+    "grade": 8
+  },
+  "assessment": {
+    "id": "8-6-lesson-11-green-anole-lizard-explanation",
+    "title": "Lesson 11: Green Anole Lizard Explanation",
+    "unitName": "Unit 8.6",
+    "subject": "Science",
+    "grade": 8,
+    "type": "Formative Assessment",
+    "dueDate": "2024-01-22",
+    "status": "live",
+    "totalRecords": 18,
+    "pendingRecords": 3,
+    "description": "Assessment on green anole lizard adaptation and natural selection"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"The green anole lizard adapts by changing color to match its environment. This helps it hide from predators. When brown lizards came, the green lizards had to find new places to live. Some lizards might have longer legs to climb higher in trees.\",\"observationQuestion\":\"I saw the green lizards moving around when brown lizards were there. They seemed to be looking for safe places to hide. The green lizards that could climb better probably survived longer.\"}}",
+  "feedback": []
+}

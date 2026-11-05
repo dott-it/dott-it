@@ -1,0 +1,1553 @@
+{
+  "unitId": "7.1",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 7",
+  "unitFolder": "7.1 Chemical Reactions & Matter",
+  "unitDriveFolderId": "1sdUmBxrLXoJqzMg_Zo0hreWpPiYmifxH",
+  "indexedAt": "2026-07-07T18:08:13.824Z",
+  "fileCount": 176,
+  "manifestPathCount": 73,
+  "matchedCount": 73,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "71-1-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/7.1 Lesson 1 Handout Initial Model-based Explanation.docx",
+      "driveFileId": "1KUyXvJF8tg7aHgjLzhfXCb5_et6QsUt3otyGoOjUVHA",
+      "driveRelativePath": "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Handout Initial Model-based Explanation",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:36:43.103Z"
+    },
+    {
+      "assessmentId": "71-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1njG_jUQgRzeiNKs9VoziVrlKgSEjnpkDSAI8aHk-fgM",
+      "driveRelativePath": "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-10-28T18:29:44.569Z"
+    },
+    {
+      "assessmentId": "71-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1njG_jUQgRzeiNKs9VoziVrlKgSEjnpkDSAI8aHk-fgM",
+      "driveRelativePath": "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-10-28T18:29:44.569Z"
+    },
+    {
+      "assessmentId": "71-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s0_CZ5Y8mWV-vGPmHDDkkZd2eokkzNJXKNSoLDFO9hk",
+      "driveRelativePath": "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:08.620Z"
+    },
+    {
+      "assessmentId": "71-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s0_CZ5Y8mWV-vGPmHDDkkZd2eokkzNJXKNSoLDFO9hk",
+      "driveRelativePath": "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:08.620Z"
+    },
+    {
+      "assessmentId": "71-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s0_CZ5Y8mWV-vGPmHDDkkZd2eokkzNJXKNSoLDFO9hk",
+      "driveRelativePath": "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:08.620Z"
+    },
+    {
+      "assessmentId": "71-3-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1ewTATecM_xdLzN20V6-whfS_lKioDfORln3Tan5slGY",
+      "driveRelativePath": "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.200Z"
+    },
+    {
+      "assessmentId": "71-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1ewTATecM_xdLzN20V6-whfS_lKioDfORln3Tan5slGY",
+      "driveRelativePath": "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.200Z"
+    },
+    {
+      "assessmentId": "71-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1ewTATecM_xdLzN20V6-whfS_lKioDfORln3Tan5slGY",
+      "driveRelativePath": "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.200Z"
+    },
+    {
+      "assessmentId": "71-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1ewTATecM_xdLzN20V6-whfS_lKioDfORln3Tan5slGY",
+      "driveRelativePath": "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.200Z"
+    },
+    {
+      "assessmentId": "71-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-C01oC8AkkyTLW3esDJ42NxlVCrWEz07pJZNuSXvguo",
+      "driveRelativePath": "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:47.955Z"
+    },
+    {
+      "assessmentId": "71-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-C01oC8AkkyTLW3esDJ42NxlVCrWEz07pJZNuSXvguo",
+      "driveRelativePath": "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:47.955Z"
+    },
+    {
+      "assessmentId": "71-4-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-C01oC8AkkyTLW3esDJ42NxlVCrWEz07pJZNuSXvguo",
+      "driveRelativePath": "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:47.955Z"
+    },
+    {
+      "assessmentId": "71-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-C01oC8AkkyTLW3esDJ42NxlVCrWEz07pJZNuSXvguo",
+      "driveRelativePath": "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:47.955Z"
+    },
+    {
+      "assessmentId": "71-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1yPxXYy97cSnObn2Nt0zUy4LqTid7DlnDo9dOtaXPIgM",
+      "driveRelativePath": "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:50.998Z"
+    },
+    {
+      "assessmentId": "71-5-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1yPxXYy97cSnObn2Nt0zUy4LqTid7DlnDo9dOtaXPIgM",
+      "driveRelativePath": "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:50.998Z"
+    },
+    {
+      "assessmentId": "71-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1yPxXYy97cSnObn2Nt0zUy4LqTid7DlnDo9dOtaXPIgM",
+      "driveRelativePath": "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:50.998Z"
+    },
+    {
+      "assessmentId": "71-5-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1yPxXYy97cSnObn2Nt0zUy4LqTid7DlnDo9dOtaXPIgM",
+      "driveRelativePath": "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:50.998Z"
+    },
+    {
+      "assessmentId": "71-5-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1yPxXYy97cSnObn2Nt0zUy4LqTid7DlnDo9dOtaXPIgM",
+      "driveRelativePath": "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:50.998Z"
+    },
+    {
+      "assessmentId": "71-6-alternate-explaining-another",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Assessment Alternate Explaining another.docx",
+      "driveFileId": "1TQSMNi5zugDoemjhKXAos4DUX15Vw4CDRIzBVC7fLGo",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Assessment Alternate Explaining another",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:07.580Z"
+    },
+    {
+      "assessmentId": "71-6-alternate-explaining-another",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1HN4bmDy22kaK8E8zajD03kDRdxGx1jSfzrND5o6iqRY",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:26.438Z"
+    },
+    {
+      "assessmentId": "71-6-alternate-explaining-another",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Answer Key Elements to look.docx",
+      "driveFileId": "1Uqk3D2WiLpnPc-31MPgNlmhpzWG4nZP30aG0H5ic7KU",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Answer Key Elements to look",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:03.938Z"
+    },
+    {
+      "assessmentId": "71-6-explaining-another-phenomenon",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Assessment Explaining Another Phenomenon.docx",
+      "driveFileId": "1EbQr6WzfJiY3oieuxLTZbtDeRqBIZ-w456wnWFEggi0",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Assessment Explaining Another Phenomenon",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:11.977Z"
+    },
+    {
+      "assessmentId": "71-6-explaining-another-phenomenon",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1HN4bmDy22kaK8E8zajD03kDRdxGx1jSfzrND5o6iqRY",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:26.438Z"
+    },
+    {
+      "assessmentId": "71-6-explaining-another-phenomenon",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Answer Key Elements to look.docx",
+      "driveFileId": "1Uqk3D2WiLpnPc-31MPgNlmhpzWG4nZP30aG0H5ic7KU",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Answer Key Elements to look",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:03.938Z"
+    },
+    {
+      "assessmentId": "71-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1HN4bmDy22kaK8E8zajD03kDRdxGx1jSfzrND5o6iqRY",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:26.438Z"
+    },
+    {
+      "assessmentId": "71-7-self-evaluation-engaging-in",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/7.1 Lesson 7 Assessment Self-evaluation Engaging In.docx",
+      "driveFileId": "1foIEk4qz1ojAn2ZsquZop1nPeaSzKIInSH55mIiY2S8",
+      "driveRelativePath": "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Assessment Self-evaluation Engaging In",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:32.557Z"
+    },
+    {
+      "assessmentId": "71-7-self-evaluation-engaging-in",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1sp9m6g8tTiGHTyHZPJV3ij_haxehUQ_sC9FXjkX6wI0",
+      "driveRelativePath": "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:51.287Z"
+    },
+    {
+      "assessmentId": "71-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1sp9m6g8tTiGHTyHZPJV3ij_haxehUQ_sC9FXjkX6wI0",
+      "driveRelativePath": "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:51.287Z"
+    },
+    {
+      "assessmentId": "71-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1sp9m6g8tTiGHTyHZPJV3ij_haxehUQ_sC9FXjkX6wI0",
+      "driveRelativePath": "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:51.287Z"
+    },
+    {
+      "assessmentId": "71-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1M4Jk3OcLH5J8g3whtiK_FFDwXKUF7RTKDxAclyS56c4",
+      "driveRelativePath": "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:34.230Z"
+    },
+    {
+      "assessmentId": "71-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1V6Qx72hRrgq4c48nSf-5n3axsIDXIJy1H64czYozJdk",
+      "driveRelativePath": "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:08.539Z"
+    },
+    {
+      "assessmentId": "71-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1V6Qx72hRrgq4c48nSf-5n3axsIDXIJy1H64czYozJdk",
+      "driveRelativePath": "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:08.539Z"
+    },
+    {
+      "assessmentId": "71-9-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1V6Qx72hRrgq4c48nSf-5n3axsIDXIJy1H64czYozJdk",
+      "driveRelativePath": "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:08.539Z"
+    },
+    {
+      "assessmentId": "71-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "133jJNXgIGFy-eagVRYxyvPS3F9VzY70BSKJVFGkCld0",
+      "driveRelativePath": "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:37:36.776Z"
+    },
+    {
+      "assessmentId": "71-11-constructing-a-revised",
+      "field": "studentHandout",
+      "manifestPath": "lesson_11/original/7.1 Lesson 11 Assessment Constructing a revised.docx",
+      "driveFileId": "1QJ7KSPYfdBPvRx51UXuquuejXqDFO3bqaojXnCcgMh8",
+      "driveRelativePath": "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Assessment Constructing a revised",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:10.990Z"
+    },
+    {
+      "assessmentId": "71-11-constructing-a-revised",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1o4fAa3_Lxeu3MntEMXop5AIl6qvi7mF0mwifJIwITSs",
+      "driveRelativePath": "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-11-11T18:29:07.420Z"
+    },
+    {
+      "assessmentId": "71-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1o4fAa3_Lxeu3MntEMXop5AIl6qvi7mF0mwifJIwITSs",
+      "driveRelativePath": "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-11-11T18:29:07.420Z"
+    },
+    {
+      "assessmentId": "71-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1o4fAa3_Lxeu3MntEMXop5AIl6qvi7mF0mwifJIwITSs",
+      "driveRelativePath": "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-11-11T18:29:07.420Z"
+    },
+    {
+      "assessmentId": "71-12-explaining-new-aspects",
+      "field": "studentHandout",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Assessment Explaining New Aspects.docx",
+      "driveFileId": "1E8ZeAYrwpEJLhhkxw-JVFLEu7cFzuOz_AlBtYzZEAvM",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Assessment Explaining New Aspects",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:18.942Z"
+    },
+    {
+      "assessmentId": "71-12-explaining-new-aspects",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1LBkV2aU-BaEGhYXFh88Ax89-miBaWfJGzQhI36lPJtc",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:50.744Z"
+    },
+    {
+      "assessmentId": "71-12-explaining-new-aspects",
+      "field": "answerKey",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Answer Key Explaining New Aspects.docx",
+      "driveFileId": "1_lCLe_RboX-qceYmi6mZEsVqD5hFpVoh9vXo2bqV6LU",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Answer Key Explaining New Aspects",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:14.227Z"
+    },
+    {
+      "assessmentId": "71-12-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1LBkV2aU-BaEGhYXFh88Ax89-miBaWfJGzQhI36lPJtc",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:50.744Z"
+    },
+    {
+      "assessmentId": "71-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1LBkV2aU-BaEGhYXFh88Ax89-miBaWfJGzQhI36lPJtc",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:50.744Z"
+    },
+    {
+      "assessmentId": "71-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1LBkV2aU-BaEGhYXFh88Ax89-miBaWfJGzQhI36lPJtc",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:50.744Z"
+    },
+    {
+      "assessmentId": "71-12-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1LBkV2aU-BaEGhYXFh88Ax89-miBaWfJGzQhI36lPJtc",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:50.744Z"
+    },
+    {
+      "assessmentId": "71-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.1 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "19-EAGmNBjwskFOUZ5Mm_DA4YFPCRUBTGqOeQ_EXvqJE",
+      "driveRelativePath": "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:40.417Z"
+    },
+    {
+      "assessmentId": "71-14-part-1-explaining",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Assessment Part 1 Explaining.docx",
+      "driveFileId": "15CbGEI-x_pXvyJbePd2r1Dw-O3DOV8QYOw0LUTblkU0",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Assessment Part 1 Explaining",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:10.220Z"
+    },
+    {
+      "assessmentId": "71-14-part-1-explaining",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1SODVIOQCwZQEJwAEwl9xswvJEoIHHw8xXXlBMqe5x4U",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:30.735Z"
+    },
+    {
+      "assessmentId": "71-14-part-1-explaining",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Answer Key Part 1 of.docx",
+      "driveFileId": "1qrT6sOlTD_ui7_CxsS6zEwwX3Zqe5Q3w0Yb33Vib0z0",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Answer Key Part 1 of",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:58.880Z"
+    },
+    {
+      "assessmentId": "71-14-part-2a-explaining",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Assessment Part 2a Explaining.docx",
+      "driveFileId": "1JhFUJw-zPP_0Iog7wYll9s3rtdbCpr6lh3H40iHdbgs",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Assessment Part 2a Explaining",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:14.059Z"
+    },
+    {
+      "assessmentId": "71-14-part-2a-explaining",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1SODVIOQCwZQEJwAEwl9xswvJEoIHHw8xXXlBMqe5x4U",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:30.735Z"
+    },
+    {
+      "assessmentId": "71-14-part-2a-explaining",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Answer Key Part 2a of.docx",
+      "driveFileId": "1nl92O2WHV072h4pmrH9fi87kEcD6S2iXAGaybFYDjcw",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Answer Key Part 2a of",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:01.655Z"
+    },
+    {
+      "assessmentId": "71-14-part-2b-explaining",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Assessment Part 2b Explaining.docx",
+      "driveFileId": "1s-ggo6Jm5INtJIeQOiR4FHLKjtC3cn4hNkBWjgt1zRA",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Assessment Part 2b Explaining",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:17.825Z"
+    },
+    {
+      "assessmentId": "71-14-part-2b-explaining",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1SODVIOQCwZQEJwAEwl9xswvJEoIHHw8xXXlBMqe5x4U",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:30.735Z"
+    },
+    {
+      "assessmentId": "71-14-part-2b-explaining",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Answer Key Part 2a of.docx",
+      "driveFileId": "1nl92O2WHV072h4pmrH9fi87kEcD6S2iXAGaybFYDjcw",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Answer Key Part 2a of",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:01.655Z"
+    },
+    {
+      "assessmentId": "71-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1SODVIOQCwZQEJwAEwl9xswvJEoIHHw8xXXlBMqe5x4U",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:30.735Z"
+    },
+    {
+      "assessmentId": "71-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1SODVIOQCwZQEJwAEwl9xswvJEoIHHw8xXXlBMqe5x4U",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:30.735Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/7.1 Chemical Reactions & Matter Unit Overview Materials.docx",
+      "driveFileId": "1FgvSQIcDNxOOQnT8LPZ3RIk7F6KsQuKCrmS83qWVdo0",
+      "driveRelativePath": "7.1 Chemical Reactions & Matter Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-11-03T00:10:29.555Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/7.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1njG_jUQgRzeiNKs9VoziVrlKgSEjnpkDSAI8aHk-fgM",
+      "driveRelativePath": "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-10-28T18:29:44.569Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s0_CZ5Y8mWV-vGPmHDDkkZd2eokkzNJXKNSoLDFO9hk",
+      "driveRelativePath": "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:08.620Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1ewTATecM_xdLzN20V6-whfS_lKioDfORln3Tan5slGY",
+      "driveRelativePath": "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:17.200Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1-C01oC8AkkyTLW3esDJ42NxlVCrWEz07pJZNuSXvguo",
+      "driveRelativePath": "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:47.955Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1yPxXYy97cSnObn2Nt0zUy4LqTid7DlnDo9dOtaXPIgM",
+      "driveRelativePath": "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:50.998Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1HN4bmDy22kaK8E8zajD03kDRdxGx1jSfzrND5o6iqRY",
+      "driveRelativePath": "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:26.438Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1sp9m6g8tTiGHTyHZPJV3ij_haxehUQ_sC9FXjkX6wI0",
+      "driveRelativePath": "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:51.287Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/7.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1M4Jk3OcLH5J8g3whtiK_FFDwXKUF7RTKDxAclyS56c4",
+      "driveRelativePath": "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:34.230Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1V6Qx72hRrgq4c48nSf-5n3axsIDXIJy1H64czYozJdk",
+      "driveRelativePath": "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:08.539Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/7.1 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "133jJNXgIGFy-eagVRYxyvPS3F9VzY70BSKJVFGkCld0",
+      "driveRelativePath": "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:37:36.776Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1o4fAa3_Lxeu3MntEMXop5AIl6qvi7mF0mwifJIwITSs",
+      "driveRelativePath": "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-11-11T18:29:07.420Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1LBkV2aU-BaEGhYXFh88Ax89-miBaWfJGzQhI36lPJtc",
+      "driveRelativePath": "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:50.744Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/7.1 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "19-EAGmNBjwskFOUZ5Mm_DA4YFPCRUBTGqOeQ_EXvqJE",
+      "driveRelativePath": "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:40.417Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1SODVIOQCwZQEJwAEwl9xswvJEoIHHw8xXXlBMqe5x4U",
+      "driveRelativePath": "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:30.735Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "matches_review": {
+      "driveFileId": "13Y6hgQLvMqpVGvMcXG0hNKqxTPwaRQdBWqFvZ01E4-A",
+      "name": "matches_review",
+      "modifiedTime": "2025-09-05T17:05:25.397Z"
+    },
+    "matches_review.csv": {
+      "driveFileId": "1jBqV_g1rcC8bxM9gtSUlJO3llhwARzAD",
+      "name": "matches_review.csv",
+      "modifiedTime": "2025-09-05T15:40:19.000Z"
+    },
+    "7.1 Chemical Reactions & Matter Unit Overview Materials": {
+      "driveFileId": "1FgvSQIcDNxOOQnT8LPZ3RIk7F6KsQuKCrmS83qWVdo0",
+      "name": "7.1 Chemical Reactions & Matter Unit Overview Materials",
+      "modifiedTime": "2024-11-03T00:10:29.555Z"
+    },
+    "Unit 7.1 Chemical Reactions & Matter Video Links.pdf": {
+      "driveFileId": "1yYxIF91cQbLiEzvMz10tq-2TEAuHYcxP",
+      "name": "Unit 7.1 Chemical Reactions & Matter Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:47:17.962Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1yqGfUGWcqxqISkKaisC9o8dL4kZpE9H-",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-13T20:47:16.966Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1zZtUcO4qGwxAltpPnpQLY5Szmrz-pLI8",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-13T20:47:15.924Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1HxDjy4SZgJV_sppqhu1a5LNqQm8zOGnO",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-13T20:47:14.940Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1tElxOO1Kb3dV7gBhWFga3vMHeWl6J4YE",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-13T20:47:13.893Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "13nhViCzOJYKf1rb8LxnhTqyv1mrEm0jI",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-13T20:47:12.593Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Teacher Reference How to set": {
+      "driveFileId": "1_stOGH9s2Dm-QCiX_Fy1ukG7dqBEQ-HkyIcTkDlcszE",
+      "name": "7.1 Lesson 9 Teacher Reference How to set",
+      "modifiedTime": "2024-08-13T20:47:12.049Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Teacher Edition": {
+      "driveFileId": "1V6Qx72hRrgq4c48nSf-5n3axsIDXIJy1H64czYozJdk",
+      "name": "7.1 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:08.539Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1t7L08TivGaHDPxqthEJS644VHolhba42bavYChJHaOw",
+      "name": "7.1 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:04.267Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Student Procedure": {
+      "driveFileId": "1k6gi4BRbk82D8kcmAA69HLBXk5ByqnxQ50CRhoDAbZU",
+      "name": "7.1 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:00.441Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Slides": {
+      "driveFileId": "1QqRE5XDW2fU-U5ciazToS0Xa8INIXo_Ru0oBFD0rpPQ",
+      "name": "7.1 Lesson 9 Slides",
+      "modifiedTime": "2024-08-13T20:46:56.592Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Handout Evaluating and improving": {
+      "driveFileId": "1HrTH-rcQ-a0Zk0Xpn0fCz3GdT6VoYXOt5ubzDEp1C_Q",
+      "name": "7.1 Lesson 9 Handout Evaluating and improving",
+      "modifiedTime": "2024-08-13T20:46:51.822Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Handout Density calculations of": {
+      "driveFileId": "1EkbMpg7o1IFlhad-H2Tx68YEAESgcq2-Cf8UlpSsdFc",
+      "name": "7.1 Lesson 9 Handout Density calculations of",
+      "modifiedTime": "2024-08-13T20:46:47.211Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lesson 9 Answer Key Scoring Guidance Evaluating": {
+      "driveFileId": "17aRq9-m47Pf3ED9dUDYMpiKWFBbkQEel_79D3Ucgemo",
+      "name": "7.1 Lesson 9 Answer Key Scoring Guidance Evaluating",
+      "modifiedTime": "2024-08-13T20:46:43.476Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lección 9 Folleto Evaluar y mejorar": {
+      "driveFileId": "1bVaAmm9IGbcVtJ_yyiZrFQEBorSel4YSs8Ej9YfDAe8",
+      "name": "7.1 Lección 9 Folleto Evaluar y mejorar",
+      "modifiedTime": "2024-08-13T20:46:40.653Z"
+    },
+    "Lesson 9 - 7.1 Chemical Reactions & Matter/7.1 Lección 9 Folleto Cálculos de densidad": {
+      "driveFileId": "1hVyGGN4uAtK5hM5b223z3zZCxJzYuy5PWhSS3FatHXo",
+      "name": "7.1 Lección 9 Folleto Cálculos de densidad",
+      "modifiedTime": "2024-08-13T20:46:37.994Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Teacher Edition": {
+      "driveFileId": "1M4Jk3OcLH5J8g3whtiK_FFDwXKUF7RTKDxAclyS56c4",
+      "name": "7.1 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:34.230Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "14IH2mJFNI8KUI58wk8TVPs3gqlc8A6LQucPcZnPRqhE",
+      "name": "7.1 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:46:30.695Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Student Procedure": {
+      "driveFileId": "1TT7yw7Y5g4ex8Dn4UxGVmZXQnrgv_M_eP5vtx3GSDm8",
+      "name": "7.1 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:24.520Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Slides": {
+      "driveFileId": "1oYvEtNv1363JxJXftwEuYwkxf2c1-ZqvuU15nYI-xjQ",
+      "name": "7.1 Lesson 8 Slides",
+      "modifiedTime": "2024-08-13T20:46:21.204Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Reading Dalton’s Investigations": {
+      "driveFileId": "1S5N1LMGspFXsqR7QkatJ2yBaZVABrCvS5IuMy_x64g0",
+      "name": "7.1 Lesson 8 Reading Dalton’s Investigations",
+      "modifiedTime": "2024-08-13T20:46:17.409Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Handout Reading Dalton’s Investigations": {
+      "driveFileId": "17RX6lthVrK9uZ-vMX8W2xCadJTlNhuQB2W7XC2s6FRs",
+      "name": "7.1 Lesson 8 Handout Reading Dalton’s Investigations",
+      "modifiedTime": "2024-08-13T20:46:13.227Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lesson 8 Handout Circles as Particles": {
+      "driveFileId": "1faWLsy22uMkVK5CanolyXMGNTOKxr--QaeJXE4eJS_k",
+      "name": "7.1 Lesson 8 Handout Circles as Particles",
+      "modifiedTime": "2024-08-13T20:46:09.805Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lección 8 Lectura Las investigaciones de": {
+      "driveFileId": "1GbDml7ObLELJovWkOr8_AreZkc-F3qnngzct35DfE2E",
+      "name": "7.1 Lección 8 Lectura Las investigaciones de",
+      "modifiedTime": "2024-08-13T20:46:06.606Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lección 8 Folleto Lectura Las investigaciones": {
+      "driveFileId": "1kZZPlBRZPkd1cIh2iEFK7OrMPZn23O_B_Fxg10SCO5E",
+      "name": "7.1 Lección 8 Folleto Lectura Las investigaciones",
+      "modifiedTime": "2024-08-13T20:46:02.819Z"
+    },
+    "Lesson 8 - 7.1 Chemical Reactions & Matter/7.1 Lección 8 Folleto Círculos como partículas": {
+      "driveFileId": "1qVsA-BgIu8qcZ-Im01SXs2oFOWPhziC88vjf_bt4J0E",
+      "name": "7.1 Lección 8 Folleto Círculos como partículas",
+      "modifiedTime": "2024-08-13T20:45:59.389Z"
+    },
+    "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Teacher Reference Teacher Reference for": {
+      "driveFileId": "17fxtCMMOHsokgH6AoCblLi13R3vMDt54Obl2qcPXXCw",
+      "name": "7.1 Lesson 7 Teacher Reference Teacher Reference for",
+      "modifiedTime": "2024-08-13T20:45:55.518Z"
+    },
+    "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Teacher Edition": {
+      "driveFileId": "1sp9m6g8tTiGHTyHZPJV3ij_haxehUQ_sC9FXjkX6wI0",
+      "name": "7.1 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:51.287Z"
+    },
+    "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "19kIus7fmz3bM7Vx_6fWxpbrKnxwAaMkoQRV8NA1maTk",
+      "name": "7.1 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:47.657Z"
+    },
+    "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Student Procedure": {
+      "driveFileId": "1m97C0edzpLM9g1A5AzCoLlgjghi9Fzh5a5KTjHfQt-E",
+      "name": "7.1 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:42.593Z"
+    },
+    "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Slides": {
+      "driveFileId": "1H7DxUXghTHz86KfGZfdlA70irEstROPjIE7Ylv9Rkco",
+      "name": "7.1 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:45:38.791Z"
+    },
+    "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lesson 7 Assessment Self-evaluation Engaging In": {
+      "driveFileId": "1foIEk4qz1ojAn2ZsquZop1nPeaSzKIInSH55mIiY2S8",
+      "name": "7.1 Lesson 7 Assessment Self-evaluation Engaging In",
+      "modifiedTime": "2024-08-13T20:45:32.557Z"
+    },
+    "Lesson 7 - 7.1 Chemical Reactions & Matter/7.1 Lección 7 Evaluación Auto-evaluación Participar en": {
+      "driveFileId": "1q1XSalpUyUbB9HambhhJGinuubVq8Udzv0SQdknZdEg",
+      "name": "7.1 Lección 7 Evaluación Auto-evaluación Participar en",
+      "modifiedTime": "2024-08-13T20:45:31.630Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Teacher Edition": {
+      "driveFileId": "1HN4bmDy22kaK8E8zajD03kDRdxGx1jSfzrND5o6iqRY",
+      "name": "7.1 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:26.438Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "14auetC60fquPE3QeJmT_COFjuuWN5wd7XBdmKgRaWPM",
+      "name": "7.1 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:22.924Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Student Procedure": {
+      "driveFileId": "1mdOlAqVQzwregXLlTUW2sbK8BN95DDQZ-OonW5HLH-I",
+      "name": "7.1 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:19.082Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Slides": {
+      "driveFileId": "1c1Q6FmY9DhtE80l4AOeAq_ErH5tUZza1CUH1ul-BS1w",
+      "name": "7.1 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:45:16.193Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Assessment Explaining Another Phenomenon": {
+      "driveFileId": "1EbQr6WzfJiY3oieuxLTZbtDeRqBIZ-w456wnWFEggi0",
+      "name": "7.1 Lesson 6 Assessment Explaining Another Phenomenon",
+      "modifiedTime": "2024-08-13T20:45:11.977Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Assessment Alternate Explaining another": {
+      "driveFileId": "1TQSMNi5zugDoemjhKXAos4DUX15Vw4CDRIzBVC7fLGo",
+      "name": "7.1 Lesson 6 Assessment Alternate Explaining another",
+      "modifiedTime": "2024-08-13T20:45:07.580Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lesson 6 Answer Key Elements to look": {
+      "driveFileId": "1Uqk3D2WiLpnPc-31MPgNlmhpzWG4nZP30aG0H5ic7KU",
+      "name": "7.1 Lesson 6 Answer Key Elements to look",
+      "modifiedTime": "2024-08-13T20:45:03.938Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lección 6 Evaluación Explicando otro fenómeno": {
+      "driveFileId": "11ipDjNSdaKRrW-pn5-Epp_d8cJaf1LmSlM9t4Nu68T4",
+      "name": "7.1 Lección 6 Evaluación Explicando otro fenómeno",
+      "modifiedTime": "2024-08-13T20:45:00.482Z"
+    },
+    "Lesson 6 - 7.1 Chemical Reactions & Matter/7.1 Lección 6 Evaluación Alternativa Explicar otro": {
+      "driveFileId": "1rwD_cIFF4Wfo51HdxK4IdTVkgd69AOe6BO05Hw4PD1A",
+      "name": "7.1 Lección 6 Evaluación Alternativa Explicar otro",
+      "modifiedTime": "2024-08-13T20:44:55.567Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Teacher Edition": {
+      "driveFileId": "1yPxXYy97cSnObn2Nt0zUy4LqTid7DlnDo9dOtaXPIgM",
+      "name": "7.1 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:50.998Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "18g9Dbh1jgSn3KGBsRVTgy3BR_DHVAuu-jOtmzBrlO8U",
+      "name": "7.1 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:46.030Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Student Procedure": {
+      "driveFileId": "1YEXLLdYxPNQcJSRx_gRhIbfXVLORqVBLLp4g32y7F0Y",
+      "name": "7.1 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:42.254Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Slides": {
+      "driveFileId": "12lt0ZCsr31sJISiGttA3ubT_EYy_c8MPFcdFSucz8Z0",
+      "name": "7.1 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:44:37.457Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Handout Transcript Flammability of": {
+      "driveFileId": "11oHjtxdTTtw9oHwdmeQsYMZxiTvlQZLSMpO2Z3LvSRM",
+      "name": "7.1 Lesson 5 Handout Transcript Flammability of",
+      "modifiedTime": "2024-08-13T20:44:31.644Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Handout Transcript Density of": {
+      "driveFileId": "1ipHmBVew0xRd6bsTfEkbCkoY5IxB_AkS4N8FVZOdAGg",
+      "name": "7.1 Lesson 5 Handout Transcript Density of",
+      "modifiedTime": "2024-08-13T20:44:28.109Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Handout Some Common Gases": {
+      "driveFileId": "1iOLAiVDN-2VzJ8DmOQ7x23U2Ckyi6ohc2YJNLD1PAto",
+      "name": "7.1 Lesson 5 Handout Some Common Gases",
+      "modifiedTime": "2024-08-13T20:44:25.302Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Handout My Predictive Explanations": {
+      "driveFileId": "14yx5z8pe50LAYGOWg1msw_ObPYpa2Da9CXhucpHSpzk",
+      "name": "7.1 Lesson 5 Handout My Predictive Explanations",
+      "modifiedTime": "2024-08-13T20:44:21.449Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Handout Evaluación alternativa Mis": {
+      "driveFileId": "1CjwruDu08-lYhqbJjlAu_BixzQ7phqvRqGzesFygtVQ",
+      "name": "7.1 Lesson 5 Handout Evaluación alternativa Mis",
+      "modifiedTime": "2024-08-13T20:44:18.895Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Handout Discussion Protocol Density": {
+      "driveFileId": "1W8HrOgxP6SyAackcO1VYEWzsHzYNwv4gGZ443AI3r2A",
+      "name": "7.1 Lesson 5 Handout Discussion Protocol Density",
+      "modifiedTime": "2024-08-13T20:44:14.921Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Handout Alternate My Predictive": {
+      "driveFileId": "1tNNz2TyE551s5moFlTRwbMXYW1axWAJaNk3x-6sie_c",
+      "name": "7.1 Lesson 5 Handout Alternate My Predictive",
+      "modifiedTime": "2024-08-13T20:44:12.157Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lesson 5 Answer Key Elements to look": {
+      "driveFileId": "1BkAqGa4sNKM3eIzLynqS_RK1EC0cTnwbzcXEfHvxVLs",
+      "name": "7.1 Lesson 5 Answer Key Elements to look",
+      "modifiedTime": "2024-08-13T20:44:08.756Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lección 5 Folleto Transcripción Inflamabilidad del": {
+      "driveFileId": "12RKAK3FYxtCZk4fUyoRTpr7YLh6OyWkIYzeL8IzAcD0",
+      "name": "7.1 Lección 5 Folleto Transcripción Inflamabilidad del",
+      "modifiedTime": "2024-08-13T20:44:06.122Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lección 5 Folleto Transcripción Densidad del": {
+      "driveFileId": "1-S33pNVujcxBZBML5bwHFPUkkbDzOKX5MyrnBmm9Y-k",
+      "name": "7.1 Lección 5 Folleto Transcripción Densidad del",
+      "modifiedTime": "2024-08-13T20:44:03.549Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lección 5 Folleto Protocolo de discusión": {
+      "driveFileId": "1Pnm99_BcLjKKtFCcTQkxYCzKOV4FXOKaCsWvS4vvGFE",
+      "name": "7.1 Lección 5 Folleto Protocolo de discusión",
+      "modifiedTime": "2024-08-13T20:44:00.916Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lección 5 Folleto Mis explicaciones predictivas": {
+      "driveFileId": "1iNxbkOwKThKT7qtoiNfp3OjaEYLZWVW2WbsuIyZCHmo",
+      "name": "7.1 Lección 5 Folleto Mis explicaciones predictivas",
+      "modifiedTime": "2024-08-13T20:43:58.006Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lección 5 Folleto Evaluación alternativa Mis": {
+      "driveFileId": "13M4MqZlCIdf5tQO-cbwGnUKEw1r3Vr0-zfOybYGLuNg",
+      "name": "7.1 Lección 5 Folleto Evaluación alternativa Mis",
+      "modifiedTime": "2024-08-13T20:43:55.279Z"
+    },
+    "Lesson 5 - 7.1 Chemical Reactions & Matter/7.1 Lección 5 Folleto Algunos gases comunes": {
+      "driveFileId": "1uu8zcNPcjI2FlSoMeRtzoSGu2Jj5BKAC2IeU_NPwGzA",
+      "name": "7.1 Lección 5 Folleto Algunos gases comunes",
+      "modifiedTime": "2024-08-13T20:43:51.240Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Teacher Edition": {
+      "driveFileId": "1-C01oC8AkkyTLW3esDJ42NxlVCrWEz07pJZNuSXvguo",
+      "name": "7.1 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:43:47.955Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "19nfKIKgV2RSodMMbr9V01D628GGKH-nKpkHpTRCwgOc",
+      "name": "7.1 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:43:43.374Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Student Procedure": {
+      "driveFileId": "1UNgV34zuH-Rh1KmPpVjMY5kTl4zhHLvvL2Gl_aDiFG8",
+      "name": "7.1 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:43:40.075Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Slides": {
+      "driveFileId": "1fJlPLwpSVzk0l5dFZ3lt3nRRx44L2N9CPUj0Tj8ZMU0",
+      "name": "7.1 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:43:36.234Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Reference Lemonade Mix Labels": {
+      "driveFileId": "1e-01hckyHvPVrwn68P9-LlttSj3olArBQj-c8ypvdpg",
+      "name": "7.1 Lesson 4 Reference Lemonade Mix Labels",
+      "modifiedTime": "2024-08-13T20:43:32.346Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lesson 4 Handout Combinations of Ingredients": {
+      "driveFileId": "1Pn1jjk1MvOlT54w0ftVidfXU4mj5_uYnqIr-YyxFEsc",
+      "name": "7.1 Lesson 4 Handout Combinations of Ingredients",
+      "modifiedTime": "2024-08-13T20:43:28.298Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lección 4 Referencia Etiquetas de mezcla": {
+      "driveFileId": "1fmq5upy32KtaH3gKUxHc-0Tyq5J8sGGtT9Il73FS4Nk",
+      "name": "7.1 Lección 4 Referencia Etiquetas de mezcla",
+      "modifiedTime": "2024-08-13T20:43:25.346Z"
+    },
+    "Lesson 4 - 7.1 Chemical Reactions & Matter/7.1 Lección 4 Folleto Combinaciones de ingredientes": {
+      "driveFileId": "1KnjZYZav7701T52wSC4zksrHzZM_dh2f7uWo1vyYob0",
+      "name": "7.1 Lección 4 Folleto Combinaciones de ingredientes",
+      "modifiedTime": "2024-08-13T20:43:22.135Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Teacher Edition": {
+      "driveFileId": "1ewTATecM_xdLzN20V6-whfS_lKioDfORln3Tan5slGY",
+      "name": "7.1 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:43:17.200Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1hy9yQol1f8-Oe4Se7LH5_fRy9TFbFkOXmyigPHATML4",
+      "name": "7.1 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:43:12.302Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Student Procedure": {
+      "driveFileId": "1cUtKsV729W8ns61oN-MWlS0EiBfXw6ecGqAUGhE5IIA",
+      "name": "7.1 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:43:08.647Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Slides": {
+      "driveFileId": "1QzuS5rko1dXqe0NHbFGfrWc13BJgSfPZQ8N9-FSj6as",
+      "name": "7.1 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:43:04.787Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Reference Lab Procedure for": {
+      "driveFileId": "1m6NpxKx-k3ApN4KmYKD3KsT9S8g1w_wkh7wr2-Xlt3U",
+      "name": "7.1 Lesson 3 Reference Lab Procedure for",
+      "modifiedTime": "2024-08-13T20:43:00.358Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Handout Bath Bomb Recipes": {
+      "driveFileId": "1ucax7XkCIMgJFMEEZBwv8CfgKK3bs3fK11rH3Jee3qk",
+      "name": "7.1 Lesson 3 Handout Bath Bomb Recipes",
+      "modifiedTime": "2024-08-13T20:42:29.862Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lesson 3 Handout Bath Bomb Ingredient": {
+      "driveFileId": "13rYyvHnZeAffgZbGYbaItPuWYWWh2M5xaxMtaRpSs5s",
+      "name": "7.1 Lesson 3 Handout Bath Bomb Ingredient",
+      "modifiedTime": "2024-08-13T20:42:25.731Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lección 3 Referencia Procedimientos de laboratorio": {
+      "driveFileId": "1Uo_OVh5f0eNKJEAhBOW56XSvtON1GjgHR_7oZmNAl-4",
+      "name": "7.1 Lección 3 Referencia Procedimientos de laboratorio",
+      "modifiedTime": "2024-08-13T20:42:23.322Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lección 3 Folleto Recetas de bombas": {
+      "driveFileId": "1JkFuzCdapiMFxWj5_zQQSVFkGp7SbepZCKscaRm84Yg",
+      "name": "7.1 Lección 3 Folleto Recetas de bombas",
+      "modifiedTime": "2024-08-13T20:42:20.470Z"
+    },
+    "Lesson 3 - 7.1 Chemical Reactions & Matter/7.1 Lección 3 Folleto Datos de ingredientes": {
+      "driveFileId": "1vIpuVGa-hHd_XBPDFRhSEcd4ecYjVo78r6QVESrjO8k",
+      "name": "7.1 Lección 3 Folleto Datos de ingredientes",
+      "modifiedTime": "2024-08-13T20:42:16.477Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.2 Lesson 2 CER Handout.docx": {
+      "driveFileId": "1o30hzzYmMBDigIvbsEU0GR3QOdvyXCkm",
+      "name": "7.2 Lesson 2 CER Handout.docx",
+      "modifiedTime": "2025-09-05T15:58:55.925Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Teacher Reference Teacher Reference for": {
+      "driveFileId": "1uJxW0mpYNaHpwC_Qlvs70Ewh74oyO8lqYnCTScl4fKE",
+      "name": "7.1 Lesson 2 Teacher Reference Teacher Reference for",
+      "modifiedTime": "2024-08-13T20:42:12.851Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Teacher Edition": {
+      "driveFileId": "1s0_CZ5Y8mWV-vGPmHDDkkZd2eokkzNJXKNSoLDFO9hk",
+      "name": "7.1 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:42:08.620Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1IUMIBHdt8j0i8kBTJn9SO2_irp9u3yXYPaeCh0rO5BQ",
+      "name": "7.1 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:42:04.306Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Student Procedure": {
+      "driveFileId": "1j0QEDkae7v2ObiZ-KM9os8jemQw1v6k4t-TjxIT1KFI",
+      "name": "7.1 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:42:00.761Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Slides": {
+      "driveFileId": "1AR5XBuxrxaYp2oHHGOrtLTBlZ3WJNNdh8ogHOvWFOd0",
+      "name": "7.1 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:41:56.192Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Reference Investigating Gas from": {
+      "driveFileId": "1z-1tzQi7wVhieJHHcZf_KFu8ZtKXHNqgzgIbyh3z_Ao",
+      "name": "7.1 Lesson 2 Reference Investigating Gas from",
+      "modifiedTime": "2024-08-13T20:41:52.316Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lesson 2 Answer Key Sample Student Response": {
+      "driveFileId": "1kUDuL4BDDqSLt_Xsapwe4KXfx2JD4nK8SeUqRADYQ1Q",
+      "name": "7.1 Lesson 2 Answer Key Sample Student Response",
+      "modifiedTime": "2024-08-13T20:41:44.067Z"
+    },
+    "Lesson 2 - 7.1 Chemical Reactions & Matter/7.1 Lección 2 Referencia Investigando el gas": {
+      "driveFileId": "13C6LBYCeySJyQtAkP-HV4O8whFjfZc3ELtYjUb9OGSA",
+      "name": "7.1 Lección 2 Referencia Investigando el gas",
+      "modifiedTime": "2024-08-13T20:41:41.239Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Reference Item alignment guide": {
+      "driveFileId": "1jP5ZSYJYtjZZgpL48nQ2F8FK294_buLlu47B6sYExVY",
+      "name": "7.1 Lesson 14 Teacher Reference Item alignment guide",
+      "modifiedTime": "2024-08-13T20:41:37.334Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Teacher Edition": {
+      "driveFileId": "1SODVIOQCwZQEJwAEwl9xswvJEoIHHw8xXXlBMqe5x4U",
+      "name": "7.1 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:41:30.735Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "171Hbgl75EdpcWIyASf7Pl8M5G8aEJ4xmB3kE3SQXbmk",
+      "name": "7.1 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:41:29.823Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Student Procedure": {
+      "driveFileId": "1rrh_MwOUU1kwPIL31bHrZmggQGehcYinREIKhwSnP7I",
+      "name": "7.1 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-13T20:41:25.941Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Slides": {
+      "driveFileId": "1kDGR_kOOx8ZhokRi04UqeyuuvIEoipESu8SQfPnyVXY",
+      "name": "7.1 Lesson 14 Slides",
+      "modifiedTime": "2024-08-13T20:41:21.942Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Assessment Part 2b Explaining": {
+      "driveFileId": "1s-ggo6Jm5INtJIeQOiR4FHLKjtC3cn4hNkBWjgt1zRA",
+      "name": "7.1 Lesson 14 Assessment Part 2b Explaining",
+      "modifiedTime": "2024-08-13T20:41:17.825Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Assessment Part 2a Explaining": {
+      "driveFileId": "1JhFUJw-zPP_0Iog7wYll9s3rtdbCpr6lh3H40iHdbgs",
+      "name": "7.1 Lesson 14 Assessment Part 2a Explaining",
+      "modifiedTime": "2024-08-13T20:41:14.059Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Assessment Part 1 Explaining": {
+      "driveFileId": "15CbGEI-x_pXvyJbePd2r1Dw-O3DOV8QYOw0LUTblkU0",
+      "name": "7.1 Lesson 14 Assessment Part 1 Explaining",
+      "modifiedTime": "2024-08-13T20:41:10.220Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Answer Key Part 2b of": {
+      "driveFileId": "1LbFQztVzmjkvjuFWgdZS1RZuitMGiv7JWwgeEyUX-h4",
+      "name": "7.1 Lesson 14 Answer Key Part 2b of",
+      "modifiedTime": "2024-08-13T20:41:06.287Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Answer Key Part 2a of": {
+      "driveFileId": "1nl92O2WHV072h4pmrH9fi87kEcD6S2iXAGaybFYDjcw",
+      "name": "7.1 Lesson 14 Answer Key Part 2a of",
+      "modifiedTime": "2024-08-13T20:41:01.655Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lesson 14 Answer Key Part 1 of": {
+      "driveFileId": "1qrT6sOlTD_ui7_CxsS6zEwwX3Zqe5Q3w0Yb33Vib0z0",
+      "name": "7.1 Lesson 14 Answer Key Part 1 of",
+      "modifiedTime": "2024-08-13T20:40:58.880Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lección 14 Evaluación Parte 2b Explicando": {
+      "driveFileId": "1aqAGhocqzadQCafIc_4HoqHUVBzVc8BDWws4dioYjMI",
+      "name": "7.1 Lección 14 Evaluación Parte 2b Explicando",
+      "modifiedTime": "2024-08-13T20:40:56.170Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lección 14 Evaluación Parte 2a Explicando": {
+      "driveFileId": "1fWo9ELWHiF3932HXCtCqf7UYf2pJMEVr4-24kul033c",
+      "name": "7.1 Lección 14 Evaluación Parte 2a Explicando",
+      "modifiedTime": "2024-08-13T20:40:52.337Z"
+    },
+    "Lesson 14 - 7.1 Chemical Reactions & Matter/7.1 Lección 14 Evaluación Parte 1 Explicar": {
+      "driveFileId": "1_tfJODq-91i8N-fcwf77dleCxiIO6Q2KO1pcjt9eScI",
+      "name": "7.1 Lección 14 Evaluación Parte 1 Explicar",
+      "modifiedTime": "2024-08-13T20:40:48.148Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Handout CER What is an odor.docx": {
+      "driveFileId": "1DIbbth_2hbq3sKLAy45qEIgzhfO-aXRn",
+      "name": "7.1 Lesson 13 Handout CER What is an odor.docx",
+      "modifiedTime": "2025-09-05T16:11:01.655Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Handout Explanation What is an Odor.docx": {
+      "driveFileId": "1hRWoSe1ht9ZlDBZokPBVm1YJBu-XO6Op",
+      "name": "7.1 Lesson 13 Handout Explanation What is an Odor.docx",
+      "modifiedTime": "2025-09-05T16:08:55.067Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Teacher Reference Setting up Odor": {
+      "driveFileId": "1yiGxHsSryNYkReo0hSzgI4GdjyETXvrx1GJyW411EJI",
+      "name": "7.1 Lesson 13 Teacher Reference Setting up Odor",
+      "modifiedTime": "2024-08-13T20:40:44.346Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Teacher Edition": {
+      "driveFileId": "19-EAGmNBjwskFOUZ5Mm_DA4YFPCRUBTGqOeQ_EXvqJE",
+      "name": "7.1 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:40.417Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "195yq_Vpaoq-0dOROvF9XU7yhonb5QRtenYLOqewXHpw",
+      "name": "7.1 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:36.537Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Student Procedure": {
+      "driveFileId": "1gpl9rTpYrPjAzQM-mGlSGNw_t-UxY0709850tN3Z7hY",
+      "name": "7.1 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:32.787Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Slides": {
+      "driveFileId": "1VxmnlBQAg0Qzgy7ZIMK8bDNyNyGoYDnO09twhmWSm_M",
+      "name": "7.1 Lesson 13 Slides",
+      "modifiedTime": "2024-08-13T20:40:29.117Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Reading How do we": {
+      "driveFileId": "1N6Xuvsd0eM1xagh5r-HjXIvJu3Av8GVC__xGHO69hcs",
+      "name": "7.1 Lesson 13 Reading How do we",
+      "modifiedTime": "2024-08-13T20:40:25.133Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Handout Reading How do": {
+      "driveFileId": "1P6rg1p0kmL4D9n2bFkPumIC6T9XoycTncHoEf3PX4yA",
+      "name": "7.1 Lesson 13 Handout Reading How do",
+      "modifiedTime": "2024-08-13T20:40:21.468Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Handout Odor Lab": {
+      "driveFileId": "1ZrZrw2daBUIWWjV3CffskyQmnr_AUKMLZvM1NNGVLtk",
+      "name": "7.1 Lesson 13 Handout Odor Lab",
+      "modifiedTime": "2024-08-13T20:40:17.404Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Handout Molecular Models of": {
+      "driveFileId": "1jpB-2K359AsT70HDYfc4qvKo79drEjQIMHjL6i-9ARM",
+      "name": "7.1 Lesson 13 Handout Molecular Models of",
+      "modifiedTime": "2024-08-13T20:40:14.811Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lesson 13 Answer Key Sample Student Response": {
+      "driveFileId": "1XS7BIy01VC7nHoNEVKxc8WZoAsH69RaP-Qj7FFsn2wY",
+      "name": "7.1 Lesson 13 Answer Key Sample Student Response",
+      "modifiedTime": "2024-08-13T20:40:10.403Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lección 13 Lectura ¿Cómo detectamos los": {
+      "driveFileId": "1HOEcvqucvmwYHUXmJJ7t9lDBfhX4FonyD6UGDIK7BRc",
+      "name": "7.1 Lección 13 Lectura ¿Cómo detectamos los",
+      "modifiedTime": "2024-08-13T20:40:05.366Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lección 13 Folleto Modelos moleculares de": {
+      "driveFileId": "1ZUxyGtEXzEh6XMj7SBtIvDVRDpLZBa1H8yGIh7pSMj0",
+      "name": "7.1 Lección 13 Folleto Modelos moleculares de",
+      "modifiedTime": "2024-08-13T20:40:01.993Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lección 13 Folleto Lectura ¿Cómo detectamos": {
+      "driveFileId": "1McHyGKRvKuxQFt1-0YfmCXNEl-lwcoCEuA6UQLl5Xi0",
+      "name": "7.1 Lección 13 Folleto Lectura ¿Cómo detectamos",
+      "modifiedTime": "2024-08-13T20:39:58.354Z"
+    },
+    "Lesson 13 - 7.1 Chemical Reactions & Matter/7.1 Lección 13 Folleto Laboratorio de olor": {
+      "driveFileId": "1l-zp8Zk7V7_yOqU4LQVuvPqRW4sJQyO2JGSqh7VGKvk",
+      "name": "7.1 Lección 13 Folleto Laboratorio de olor",
+      "modifiedTime": "2024-08-13T20:39:54.951Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Teacher Edition": {
+      "driveFileId": "1LBkV2aU-BaEGhYXFh88Ax89-miBaWfJGzQhI36lPJtc",
+      "name": "7.1 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:39:50.744Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1wGpvXfAOOzOZ7O1SNsaFXAgWYRqX38xh_XDHeNu5yIM",
+      "name": "7.1 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:39:46.548Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Student Procedure": {
+      "driveFileId": "1_iJBFzuTZ9lJ8jctu84xhkoJQODEEnQdefDsKIvUyow",
+      "name": "7.1 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-13T20:39:42.436Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Slides": {
+      "driveFileId": "1laPRWwgQVv6NrX17P_OzVcKkYi5acpnhhR6BgrW2csA",
+      "name": "7.1 Lesson 12 Slides",
+      "modifiedTime": "2024-08-13T20:39:38.534Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Reference Comparing Molecular Ratios": {
+      "driveFileId": "1p_F9ANg2zDG03uL0FJ4cv3fX1BeuY57qLVTG6M2tuW4",
+      "name": "7.1 Lesson 12 Reference Comparing Molecular Ratios",
+      "modifiedTime": "2024-08-13T20:39:34.171Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Handout Water 2-D Molecule": {
+      "driveFileId": "1IFDH7Yb1eWCUyjzWPwb4K4pcFKhYS2S_EVRn3kpitq0",
+      "name": "7.1 Lesson 12 Handout Water 2-D Molecule",
+      "modifiedTime": "2024-08-13T20:39:29.905Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Handout Comparing Molecular Ratios": {
+      "driveFileId": "1ahre4hfTKIZLJYIaoWvrNK_plBi_YOH_MIRMGc08iXY",
+      "name": "7.1 Lesson 12 Handout Comparing Molecular Ratios",
+      "modifiedTime": "2024-08-13T20:39:24.922Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Handout 2-D Molecule Cutouts": {
+      "driveFileId": "1zzg7xVtMTPtFDa3vY9d3Q8oiKrCQHHZLsYZ4V9wbLWw",
+      "name": "7.1 Lesson 12 Handout 2-D Molecule Cutouts",
+      "modifiedTime": "2024-08-13T20:39:22.400Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Assessment Explaining New Aspects": {
+      "driveFileId": "1E8ZeAYrwpEJLhhkxw-JVFLEu7cFzuOz_AlBtYzZEAvM",
+      "name": "7.1 Lesson 12 Assessment Explaining New Aspects",
+      "modifiedTime": "2024-08-13T20:39:18.942Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lesson 12 Answer Key Explaining New Aspects": {
+      "driveFileId": "1_lCLe_RboX-qceYmi6mZEsVqD5hFpVoh9vXo2bqV6LU",
+      "name": "7.1 Lesson 12 Answer Key Explaining New Aspects",
+      "modifiedTime": "2024-08-13T20:39:14.227Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lección 12 Referencia Comparación de proporciones": {
+      "driveFileId": "1Zfik1CYTCEX1QjC5_eJ-gTxNYXmpNg_6P-ObWHX5T6Q",
+      "name": "7.1 Lección 12 Referencia Comparación de proporciones",
+      "modifiedTime": "2024-08-13T20:39:11.117Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lección 12 Folleto Recortes de moléculas": {
+      "driveFileId": "1_8CdCKbF0PbZYL5xDXM5Tq0MKSbQUvbXjlU81IL4k7U",
+      "name": "7.1 Lección 12 Folleto Recortes de moléculas",
+      "modifiedTime": "2024-08-13T20:39:07.740Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lección 12 Folleto Comparación de proporciones": {
+      "driveFileId": "1YGlFlVnHYLry8nrEniqp8KsrKq-2eHtDWPz3ACYN7yc",
+      "name": "7.1 Lección 12 Folleto Comparación de proporciones",
+      "modifiedTime": "2024-08-13T20:38:57.317Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lección 12 Folleto 2-D Recortes de": {
+      "driveFileId": "1WOGnUb17bRMgbli0YyiBzO50wTFWvFj745zZyBQjyr8",
+      "name": "7.1 Lección 12 Folleto 2-D Recortes de",
+      "modifiedTime": "2024-08-13T20:38:56.192Z"
+    },
+    "Lesson 12 - 7.1 Chemical Reactions & Matter/7.1 Lección 12 Evaluación Explicando nuevos aspectos": {
+      "driveFileId": "1oaqZfdNaNKMWV7MHkAfEliglY6252Ca4kMxFzHfm19o",
+      "name": "7.1 Lección 12 Evaluación Explicando nuevos aspectos",
+      "modifiedTime": "2024-08-13T20:38:52.876Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Teacher Edition": {
+      "driveFileId": "1o4fAa3_Lxeu3MntEMXop5AIl6qvi7mF0mwifJIwITSs",
+      "name": "7.1 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-11-11T18:29:07.420Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "17FCEO6c8W-ClbvrhfH2hRjlpbGhsKer3tCTkP2dNOzA",
+      "name": "7.1 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:38:44.022Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Student Procedure": {
+      "driveFileId": "1dhrt1YhxoPYvM3Fy6WGMTsjSW2yH5L_yVp2_i6dczNs",
+      "name": "7.1 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-13T20:38:40.323Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Slides": {
+      "driveFileId": "18kY3Eb_9KQyXr2lk2ZMfr_qDcHDjiwNyXt8lrh3F0uY",
+      "name": "7.1 Lesson 11 Slides",
+      "modifiedTime": "2024-08-13T20:38:36.189Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Reference Molecular Models of": {
+      "driveFileId": "1cGNHntLNg-69xflWFpLCZrzyhzaKAJWgSTdBzNBDsk8",
+      "name": "7.1 Lesson 11 Reference Molecular Models of",
+      "modifiedTime": "2024-08-13T20:38:31.872Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Reading A summary of": {
+      "driveFileId": "1koPBdMNZjDF_KriIT1HtLlYou3s4VAFE2-nfn4kstG0",
+      "name": "7.1 Lesson 11 Reading A summary of",
+      "modifiedTime": "2024-08-13T20:38:27.168Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Handout Representing Dalton’s Atoms": {
+      "driveFileId": "13Xa4M-yF4OYeJNrFlairPTbT5m3lCuCL73KQVVdl6Rk",
+      "name": "7.1 Lesson 11 Handout Representing Dalton’s Atoms",
+      "modifiedTime": "2024-08-13T20:38:23.082Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Handout Molecular Models of": {
+      "driveFileId": "1is2GMhwL6ggc4ybNvDLeBD893-OAc7N9Khlh2mZXjRM",
+      "name": "7.1 Lesson 11 Handout Molecular Models of",
+      "modifiedTime": "2024-08-13T20:38:18.737Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Handout A summary of": {
+      "driveFileId": "1lIlbbHwALi41Ri37a-oHywFhLfQmVsragjx5c6Bv4ss",
+      "name": "7.1 Lesson 11 Handout A summary of",
+      "modifiedTime": "2024-08-13T20:38:14.866Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lesson 11 Assessment Constructing a revised": {
+      "driveFileId": "1QJ7KSPYfdBPvRx51UXuquuejXqDFO3bqaojXnCcgMh8",
+      "name": "7.1 Lesson 11 Assessment Constructing a revised",
+      "modifiedTime": "2024-08-13T20:38:10.990Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lección 11 Referencia Modelos moleculares de": {
+      "driveFileId": "1aXwif15wHHn2OGcCBXQA3zSK8z2d4nL6lb0Befeawrg",
+      "name": "7.1 Lección 11 Referencia Modelos moleculares de",
+      "modifiedTime": "2024-08-13T20:38:07.496Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lección 11 Lectura Un resumen de": {
+      "driveFileId": "1EqZyhUOevAdqqmRfaJsMgr8QR1xya_BXu_oEHX26U58",
+      "name": "7.1 Lección 11 Lectura Un resumen de",
+      "modifiedTime": "2024-08-13T20:38:02.694Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lección 11 Folleto Representando los átomos": {
+      "driveFileId": "1NEC6fZqHSz4tg_yOMfnpRNVxasKICOFNYnLYruUyguI",
+      "name": "7.1 Lección 11 Folleto Representando los átomos",
+      "modifiedTime": "2024-08-13T20:37:58.626Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lección 11 Folleto Modelos moleculares de": {
+      "driveFileId": "1ZOgqJLimLqOr8OLjyd40vmGqw58DTr4wrSnZVtP7Svw",
+      "name": "7.1 Lección 11 Folleto Modelos moleculares de",
+      "modifiedTime": "2024-08-13T20:37:55.231Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lección 11 Folleto Lectura Un resumen": {
+      "driveFileId": "1yED5hY3gdvtVc22jx7j4Fhat-sPvN-C2v5NfEw6TIYo",
+      "name": "7.1 Lección 11 Folleto Lectura Un resumen",
+      "modifiedTime": "2024-08-13T20:37:48.843Z"
+    },
+    "Lesson 11 - 7.1 Chemical Reactions & Matter/7.1 Lección 11 Evaluación Construyendo una explicación": {
+      "driveFileId": "1anqPrxtkXsvzgY1Jz9RDn8AterUjXzvZNxB1JcqXI1Q",
+      "name": "7.1 Lección 11 Evaluación Construyendo una explicación",
+      "modifiedTime": "2024-08-13T20:37:45.372Z"
+    },
+    "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Explanation CER Battery.docx": {
+      "driveFileId": "1KTQw7ZMNTVRSLfaOolPCaojyh0999d7b",
+      "name": "7.1 Lesson 10 Explanation CER Battery.docx",
+      "modifiedTime": "2025-09-05T17:04:50.000Z"
+    },
+    "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Teacher Reference Setting Up the": {
+      "driveFileId": "1DNN2tjfyakgZF8c5eqJlKmJVFOnjIgprFiHHBTqyYTk",
+      "name": "7.1 Lesson 10 Teacher Reference Setting Up the",
+      "modifiedTime": "2024-08-13T20:37:41.036Z"
+    },
+    "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Teacher Edition": {
+      "driveFileId": "133jJNXgIGFy-eagVRYxyvPS3F9VzY70BSKJVFGkCld0",
+      "name": "7.1 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:37:36.776Z"
+    },
+    "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1iHN3qTnMtCrQnKg58HZsEw9QTKDoue9NNU3ZY9eCusg",
+      "name": "7.1 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:37:31.863Z"
+    },
+    "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Student Procedure": {
+      "driveFileId": "1ki3p8agSMbsp72X-b3F12Wy-UCorIdueTneI5b2GRJE",
+      "name": "7.1 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-13T20:37:28.352Z"
+    },
+    "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Slides": {
+      "driveFileId": "1SS4_yuJvQl8hDMNPD8Kilf3EMZVtydh281r1qDe7MA4",
+      "name": "7.1 Lesson 10 Slides",
+      "modifiedTime": "2024-08-13T20:37:21.421Z"
+    },
+    "Lesson 10 - 7.1 Chemical Reactions & Matter/7.1 Lesson 10 Answer Key Sample Student Response": {
+      "driveFileId": "19WHeMZskubhzqgnVP-Rrxg3IFwM7OHqBpClR48jSb4E",
+      "name": "7.1 Lesson 10 Answer Key Sample Student Response",
+      "modifiedTime": "2024-08-13T20:37:20.538Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Teacher Reference Recipes for Homemade Bath Bombs": {
+      "driveFileId": "10wVoS-HyhoqbhbHKO8pF_dPq7-mEBlZKYX2CSD474cM",
+      "name": "7.1 Lesson 1 Teacher Reference Recipes for Homemade Bath Bombs",
+      "modifiedTime": "2024-10-28T21:10:45.717Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Handout What Happens to a Bath Bomb When Put in Water?": {
+      "driveFileId": "17_Ay4yv54UmS7o16w3uoUumycxOhqV5BAivskxlxWm0",
+      "name": "7.1 Lesson 1 Handout What Happens to a Bath Bomb When Put in Water?",
+      "modifiedTime": "2024-10-28T21:09:38.577Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Teacher Edition": {
+      "driveFileId": "1njG_jUQgRzeiNKs9VoziVrlKgSEjnpkDSAI8aHk-fgM",
+      "name": "7.1 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-10-28T18:29:44.569Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "14aBn4UoTzFj7kVDbEFIzaopH3OpR1hOOQiWxKMLkB9g",
+      "name": "7.1 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:37:07.411Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Student Procedure": {
+      "driveFileId": "1eL0shtx6OdOS0tyThwWouy7P7q11D3Y6vh-Nt0swVdY",
+      "name": "7.1 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:37:02.943Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Slides": {
+      "driveFileId": "1KbP8iwZHStwk5QJwsp-NnXDmKRbsOqUW8CtpSaUJSGA",
+      "name": "7.1 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:36:59.510Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Handout Transcript Store-Bought Bath": {
+      "driveFileId": "11AX4UHj1o22wIbQVhz6BKo5SR8LrPM63KhoZYZd3cnc",
+      "name": "7.1 Lesson 1 Handout Transcript Store-Bought Bath",
+      "modifiedTime": "2024-08-13T20:36:50.443Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Handout Transcript Homemade Bath": {
+      "driveFileId": "1YRat7FxeakE0dI4JtYOkk_OmI9dfkxoPYKi0mIPIZaQ",
+      "name": "7.1 Lesson 1 Handout Transcript Homemade Bath",
+      "modifiedTime": "2024-08-13T20:36:48.234Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Handout Science Classroom Norms": {
+      "driveFileId": "1JAczogxpJBIAvtm-_Sad1KyLlJYqW59NNwEbumWiv28",
+      "name": "7.1 Lesson 1 Handout Science Classroom Norms",
+      "modifiedTime": "2024-08-13T20:36:45.117Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lesson 1 Handout Initial Model-based Explanation": {
+      "driveFileId": "1KUyXvJF8tg7aHgjLzhfXCb5_et6QsUt3otyGoOjUVHA",
+      "name": "7.1 Lesson 1 Handout Initial Model-based Explanation",
+      "modifiedTime": "2024-08-13T20:36:43.103Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lección 1 Folleto ¿Qué sucede con": {
+      "driveFileId": "1kcvXskoHUCHbk8s5jio9tYcTMCnBppnq545MD3eAeQg",
+      "name": "7.1 Lección 1 Folleto ¿Qué sucede con",
+      "modifiedTime": "2024-08-13T20:36:39.990Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lección 1 Folleto Transcripción opcional Bomba": {
+      "driveFileId": "12A2MARFjHds9xxijfkzU8lYjbnJSyDfBj76jn3X3rRg",
+      "name": "7.1 Lección 1 Folleto Transcripción opcional Bomba",
+      "modifiedTime": "2024-08-13T20:36:35.768Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lección 1 Folleto Transcripción Bomba de": {
+      "driveFileId": "1q0CiFKSxG3niqAb-tJWL8pkYbpomBuL3VzygrU4spwE",
+      "name": "7.1 Lección 1 Folleto Transcripción Bomba de",
+      "modifiedTime": "2024-08-13T20:36:33.126Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lección 1 Folleto Normas para la": {
+      "driveFileId": "1qzXLbKf_zS_kNmegltHIZlVwdpyeHQacXB5u5JcbYis",
+      "name": "7.1 Lección 1 Folleto Normas para la",
+      "modifiedTime": "2024-08-13T20:36:30.935Z"
+    },
+    "Lesson 1 - 7.1 Chemical Reactions & Matter/7.1 Lección 1 Folleto Explicación inicial basada": {
+      "driveFileId": "1FdGkNdTxROSS7E7w8NY4mPbBUP7gMx_Sr_5-LTv4v-4",
+      "name": "7.1 Lección 1 Folleto Explicación inicial basada",
+      "modifiedTime": "2024-08-13T20:36:27.526Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1QsBz7jBVpVDQG6_Sw0tpgz8ynppRnCdQ",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:36:21.774Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1gey1sDagxlDbRnfwyHlrs3ULLRA12Ly7",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:36:20.830Z"
+    },
+    "7.1 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1geqLKpQ9koGQ6BgiNN_msPr1q37ZtYWg",
+      "name": "7.1 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:36:18.602Z"
+    }
+  }
+}

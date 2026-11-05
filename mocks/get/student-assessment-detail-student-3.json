@@ -1,0 +1,91 @@
+{
+  "student": {
+    "id": "student-3",
+    "name": "Carol Davis",
+    "email": "carol.davis@school.edu",
+    "status": "ready_for_review",
+    "submittedAt": "2025-01-20T16:45:00Z",
+    "score": 92,
+    "classSection": "Period B",
+    "lastActionDate": "2025-01-21T11:20:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": "2025-01-21T11:20:00Z",
+    "grade": 10
+  },
+  "assessment": {
+    "id": "chemistry-assessment",
+    "title": "Chemistry Lab Safety Assessment",
+    "unitName": "Unit 3: Lab Safety",
+    "subject": "Chemistry",
+    "grade": 10,
+    "type": "Formative Assessment",
+    "dueDate": "2025-01-22",
+    "status": "live",
+    "totalRecords": 5,
+    "pendingRecords": 2,
+    "description": "Assessment on laboratory safety protocols and chemical handling"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"Chemical safety is paramount in laboratory settings. I understand that different chemicals require different handling procedures. For example, acids and bases must be stored separately, flammable chemicals need special storage conditions, and all chemicals must be properly labeled with hazard symbols. I also know that the Material Safety Data Sheet (MSDS) contains crucial information about toxicity, flammability, and emergency procedures.\",\"observationQuestion\":\"During our lab session, I observed the teacher demonstrating proper chemical disposal procedures. They showed us how to neutralize acids before disposal, how to handle broken glass safely, and the importance of using the fume hood for volatile substances. I also noticed how they always checked the chemical labels twice before use.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Understanding",
+      "content": "Excellent grasp of the fundamental concepts in this subject area."
+    },
+    {
+      "type": "strength",
+      "section": "Analysis",
+      "content": "Strong analytical thinking demonstrated in your response."
+    },
+    {
+      "type": "strength",
+      "section": "Communication",
+      "content": "Clear and well-structured explanation of your ideas and observations."
+    },
+    {
+      "type": "strength",
+      "section": "Critical Thinking",
+      "content": "Demonstrates good reasoning skills and logical connections between concepts."
+    },
+    {
+      "type": "strength",
+      "section": "Lab Safety",
+      "content": "Good understanding of laboratory safety protocols and procedures."
+    },
+    {
+      "type": "strength",
+      "section": "Chemical Knowledge",
+      "content": "Solid foundation in chemical principles and terminology."
+    },
+    {
+      "type": "improvement",
+      "section": "Examples",
+      "content": "Consider providing more specific examples to strengthen your arguments."
+    },
+    {
+      "type": "improvement",
+      "section": "Depth",
+      "content": "Expand on the practical applications and real-world implications."
+    },
+    {
+      "type": "improvement",
+      "section": "Evidence",
+      "content": "Include more supporting evidence and data to back up your claims."
+    },
+    {
+      "type": "improvement",
+      "section": "Connections",
+      "content": "Make stronger connections between different concepts and ideas presented."
+    },
+    {
+      "type": "improvement",
+      "section": "Chemical Reactions",
+      "content": "Consider discussing specific chemical reactions and their mechanisms."
+    },
+    {
+      "type": "improvement",
+      "section": "Experimental Design",
+      "content": "Think about how you would design experiments to test your hypotheses."
+    }
+  ]
+}

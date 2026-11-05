@@ -1,0 +1,1878 @@
+{
+  "unitId": "7.3",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 7",
+  "unitFolder": "7.3 Metabolic Reactions",
+  "unitDriveFolderId": "1ZplndC4C5Lz04gDWt6clRSbp9eDqdjiu",
+  "indexedAt": "2026-07-07T18:08:28.131Z",
+  "fileCount": 214,
+  "manifestPathCount": 88,
+  "matchedCount": 88,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "73-1-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/7.3 Lesson 1 Handout Initial model.docx",
+      "driveFileId": "1fjwmGa52OvIPKYDpcNfKv_xcRpRQhdxV0uEByUDk7To",
+      "driveRelativePath": "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Handout Initial model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:25:00.601Z"
+    },
+    {
+      "assessmentId": "73-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14H2-q4H0_X1xeIvxqIfJqyziUWiCCunigF64-lCQQdg",
+      "driveRelativePath": "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:25:39.227Z"
+    },
+    {
+      "assessmentId": "73-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14H2-q4H0_X1xeIvxqIfJqyziUWiCCunigF64-lCQQdg",
+      "driveRelativePath": "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:25:39.227Z"
+    },
+    {
+      "assessmentId": "73-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14H2-q4H0_X1xeIvxqIfJqyziUWiCCunigF64-lCQQdg",
+      "driveRelativePath": "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:25:39.227Z"
+    },
+    {
+      "assessmentId": "73-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1AUyPcmz6xDrHNnHKT6cfLgWHZeee2eYGmSAjoUTa0Vc",
+      "driveRelativePath": "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:55.541Z"
+    },
+    {
+      "assessmentId": "73-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1AUyPcmz6xDrHNnHKT6cfLgWHZeee2eYGmSAjoUTa0Vc",
+      "driveRelativePath": "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:55.541Z"
+    },
+    {
+      "assessmentId": "73-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1g_v-hj0epmqGxtIxnPk2ZUgdZBK3LpUUzdIR0sEFJEk",
+      "driveRelativePath": "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:59.423Z"
+    },
+    {
+      "assessmentId": "73-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1g_v-hj0epmqGxtIxnPk2ZUgdZBK3LpUUzdIR0sEFJEk",
+      "driveRelativePath": "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:59.423Z"
+    },
+    {
+      "assessmentId": "73-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1g_v-hj0epmqGxtIxnPk2ZUgdZBK3LpUUzdIR0sEFJEk",
+      "driveRelativePath": "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:59.423Z"
+    },
+    {
+      "assessmentId": "73-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "18iZMJq2T8rSVi0SMVUyyacUYpZq4q_C3ziBeBcwml6M",
+      "driveRelativePath": "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.149Z"
+    },
+    {
+      "assessmentId": "73-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "18iZMJq2T8rSVi0SMVUyyacUYpZq4q_C3ziBeBcwml6M",
+      "driveRelativePath": "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.149Z"
+    },
+    {
+      "assessmentId": "73-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1N1evsk4PEoNA5Ql52GXf2-RMuxpPVxdFH8aFg8AnplU",
+      "driveRelativePath": "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:42.440Z"
+    },
+    {
+      "assessmentId": "73-5-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1N1evsk4PEoNA5Ql52GXf2-RMuxpPVxdFH8aFg8AnplU",
+      "driveRelativePath": "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:42.440Z"
+    },
+    {
+      "assessmentId": "73-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1N1evsk4PEoNA5Ql52GXf2-RMuxpPVxdFH8aFg8AnplU",
+      "driveRelativePath": "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:42.440Z"
+    },
+    {
+      "assessmentId": "73-6-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1sQFM2sryif1L_jE2_2b-uFFG07l8OxnuuhL5sCzRW6o",
+      "driveRelativePath": "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:13.821Z"
+    },
+    {
+      "assessmentId": "73-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1sQFM2sryif1L_jE2_2b-uFFG07l8OxnuuhL5sCzRW6o",
+      "driveRelativePath": "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:13.821Z"
+    },
+    {
+      "assessmentId": "73-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1sQFM2sryif1L_jE2_2b-uFFG07l8OxnuuhL5sCzRW6o",
+      "driveRelativePath": "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:13.821Z"
+    },
+    {
+      "assessmentId": "73-7-7-3-lesson-7-handout-self-assessment-giving-and",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Handout Self-Assessment Giving and.docx",
+      "driveFileId": "1S9d9XU3GkO0en6LyIdx9D9CNqJ94auXP-zuh9KrF7nQ",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Handout Self-Assessment Giving and",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:57.845Z"
+    },
+    {
+      "assessmentId": "73-7-7-3-lesson-7-handout-self-assessment-giving-and",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    {
+      "assessmentId": "73-7-7-3-lesson-7-handout-self-assessment-giving-and",
+      "field": "answerKey",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Answer Key Key for Task.docx",
+      "driveFileId": "1rlg447NA4ZHk7wO5D57C5EkLxUtLkwTSVb9SQkpV6sM",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Answer Key Key for Task",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:38.846Z"
+    },
+    {
+      "assessmentId": "73-7-task-parts-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Assessment Task Parts 1.docx",
+      "driveFileId": "1-WuO6Bqx6vynQwB5g4xOI55vfHSgVBiRPVV_BP3x3Cg",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Assessment Task Parts 1",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:42.222Z"
+    },
+    {
+      "assessmentId": "73-7-task-parts-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    {
+      "assessmentId": "73-7-task-parts-1",
+      "field": "answerKey",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Answer Key Key for Task.docx",
+      "driveFileId": "1rlg447NA4ZHk7wO5D57C5EkLxUtLkwTSVb9SQkpV6sM",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Answer Key Key for Task",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:38.846Z"
+    },
+    {
+      "assessmentId": "73-7-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    {
+      "assessmentId": "73-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    {
+      "assessmentId": "73-7-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    {
+      "assessmentId": "73-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    {
+      "assessmentId": "73-8-7-3-lesson-8-handout-lesson-8-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Handout Lesson 8 Self-Assessment.docx",
+      "driveFileId": "1YRv8DI_VbmzIq6ERvuy7gZs0d-fgGgz7XJEvQOC8emA",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Handout Lesson 8 Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:59.288Z"
+    },
+    {
+      "assessmentId": "73-8-7-3-lesson-8-handout-lesson-8-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1mocJcFGIpLbRHnBNoFaz0a2pJvUGkyIYtRHoIR6iLC0",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:27.769Z"
+    },
+    {
+      "assessmentId": "73-8-7-3-lesson-8-handout-lesson-8-self-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Answer Key Connecting the Structure.docx",
+      "driveFileId": "17sHBMIeyTrbaOQRiaBgvNspmGQ80e5P4-Nkp_mux7GE",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Answer Key Connecting the Structure",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:45.206Z"
+    },
+    {
+      "assessmentId": "73-8-part-3-argue",
+      "field": "studentHandout",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Assessment Part 3 Argue.docx",
+      "driveFileId": "1AdEWNHZYe1nY68HIsiVPF1_SudfvN1XXRDyrZQRsThQ",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Assessment Part 3 Argue",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:52.471Z"
+    },
+    {
+      "assessmentId": "73-8-part-3-argue",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1mocJcFGIpLbRHnBNoFaz0a2pJvUGkyIYtRHoIR6iLC0",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:27.769Z"
+    },
+    {
+      "assessmentId": "73-8-part-3-argue",
+      "field": "answerKey",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Answer Key Connecting the Structure.docx",
+      "driveFileId": "17sHBMIeyTrbaOQRiaBgvNspmGQ80e5P4-Nkp_mux7GE",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Answer Key Connecting the Structure",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:45.206Z"
+    },
+    {
+      "assessmentId": "73-8-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1mocJcFGIpLbRHnBNoFaz0a2pJvUGkyIYtRHoIR6iLC0",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:27.769Z"
+    },
+    {
+      "assessmentId": "73-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1mocJcFGIpLbRHnBNoFaz0a2pJvUGkyIYtRHoIR6iLC0",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:27.769Z"
+    },
+    {
+      "assessmentId": "73-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1mocJcFGIpLbRHnBNoFaz0a2pJvUGkyIYtRHoIR6iLC0",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:27.769Z"
+    },
+    {
+      "assessmentId": "73-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.3 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TCuFhdiPpXnIuJss9GxAUnW629-14PB3fC4Zh-AmFmE",
+      "driveRelativePath": "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:55.385Z"
+    },
+    {
+      "assessmentId": "73-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.3 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TCuFhdiPpXnIuJss9GxAUnW629-14PB3fC4Zh-AmFmE",
+      "driveRelativePath": "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:55.385Z"
+    },
+    {
+      "assessmentId": "73-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1LF1RXtH6KTMOELazWTgNmMtNFPvhQMS2iF8B576EteM",
+      "driveRelativePath": "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:26:39.356Z"
+    },
+    {
+      "assessmentId": "73-10-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1LF1RXtH6KTMOELazWTgNmMtNFPvhQMS2iF8B576EteM",
+      "driveRelativePath": "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:26:39.356Z"
+    },
+    {
+      "assessmentId": "73-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1LF1RXtH6KTMOELazWTgNmMtNFPvhQMS2iF8B576EteM",
+      "driveRelativePath": "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:26:39.356Z"
+    },
+    {
+      "assessmentId": "73-10-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1LF1RXtH6KTMOELazWTgNmMtNFPvhQMS2iF8B576EteM",
+      "driveRelativePath": "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:26:39.356Z"
+    },
+    {
+      "assessmentId": "73-10-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1LF1RXtH6KTMOELazWTgNmMtNFPvhQMS2iF8B576EteM",
+      "driveRelativePath": "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:26:39.356Z"
+    },
+    {
+      "assessmentId": "73-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1k4o5iAYrcCLYrJKpmo9PgbCN6jHqj97Ygb659FUtNog",
+      "driveRelativePath": "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:27:22.183Z"
+    },
+    {
+      "assessmentId": "73-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1k4o5iAYrcCLYrJKpmo9PgbCN6jHqj97Ygb659FUtNog",
+      "driveRelativePath": "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:27:22.183Z"
+    },
+    {
+      "assessmentId": "73-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1v0LHXT3CPlNDG80I3bE5tpQ-Te86L56ba2NulwXp4jA",
+      "driveRelativePath": "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:08.997Z"
+    },
+    {
+      "assessmentId": "73-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1v0LHXT3CPlNDG80I3bE5tpQ-Te86L56ba2NulwXp4jA",
+      "driveRelativePath": "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:08.997Z"
+    },
+    {
+      "assessmentId": "73-12-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1v0LHXT3CPlNDG80I3bE5tpQ-Te86L56ba2NulwXp4jA",
+      "driveRelativePath": "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:08.997Z"
+    },
+    {
+      "assessmentId": "73-12-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1v0LHXT3CPlNDG80I3bE5tpQ-Te86L56ba2NulwXp4jA",
+      "driveRelativePath": "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:08.997Z"
+    },
+    {
+      "assessmentId": "73-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XX_Zm-28-o8LTX5c6A8xjjKwLMf1H3XNKPADuF8TZpg",
+      "driveRelativePath": "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:02.503Z"
+    },
+    {
+      "assessmentId": "73-13-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XX_Zm-28-o8LTX5c6A8xjjKwLMf1H3XNKPADuF8TZpg",
+      "driveRelativePath": "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:02.503Z"
+    },
+    {
+      "assessmentId": "73-13-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XX_Zm-28-o8LTX5c6A8xjjKwLMf1H3XNKPADuF8TZpg",
+      "driveRelativePath": "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:02.503Z"
+    },
+    {
+      "assessmentId": "73-14-7-3-lesson-14-handout-self-assessment-giving-and",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/7.3 Lesson 14 Handout Self-Assessment Giving and.docx",
+      "driveFileId": "107VyaDwnOJRIbNtP1uo9d7h0ACKA_RHVHxXMos6_JxE",
+      "driveRelativePath": "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Handout Self-Assessment Giving and",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:45.575Z"
+    },
+    {
+      "assessmentId": "73-14-7-3-lesson-14-handout-self-assessment-giving-and",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1VnyXs4k7O-31PV0AQts84fy22GfU7BzhWsGC_ehpYN4",
+      "driveRelativePath": "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.617Z"
+    },
+    {
+      "assessmentId": "73-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1VnyXs4k7O-31PV0AQts84fy22GfU7BzhWsGC_ehpYN4",
+      "driveRelativePath": "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.617Z"
+    },
+    {
+      "assessmentId": "73-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1VnyXs4k7O-31PV0AQts84fy22GfU7BzhWsGC_ehpYN4",
+      "driveRelativePath": "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.617Z"
+    },
+    {
+      "assessmentId": "73-15-7-3-lesson-15-rubric-bears-assessment-modeling",
+      "field": "studentHandout",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Rubric Bears Assessment Modeling.docx",
+      "driveFileId": "1XkRlz01NsyOFtsCwppJZRU1ORPdvjW9-gHg_i-HWcrM",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Rubric Bears Assessment Modeling",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:03.603Z"
+    },
+    {
+      "assessmentId": "73-15-7-3-lesson-15-rubric-bears-assessment-modeling",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    },
+    {
+      "assessmentId": "73-15-7-3-lesson-15-rubric-bears-assessment-modeling",
+      "field": "answerKey",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+      "driveFileId": "1HUav9_yDHZgRLpGsDqAsS7M6KNvYJFIkSuW6kaajl_8",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Answer Key Key for Brown",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:45.040Z"
+    },
+    {
+      "assessmentId": "73-15-brown-bear-hibernation",
+      "field": "studentHandout",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Assessment Brown Bear Hibernation.docx",
+      "driveFileId": "1ie74ghBad4mEmDlyyKyK7SCySkuVq-JeSY_zvhYQCaw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Brown Bear Hibernation",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:48.338Z"
+    },
+    {
+      "assessmentId": "73-15-brown-bear-hibernation",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    },
+    {
+      "assessmentId": "73-15-brown-bear-hibernation",
+      "field": "answerKey",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+      "driveFileId": "1HUav9_yDHZgRLpGsDqAsS7M6KNvYJFIkSuW6kaajl_8",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Answer Key Key for Brown",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:45.040Z"
+    },
+    {
+      "assessmentId": "73-15-modified-brown-bear",
+      "field": "studentHandout",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Assessment Modified Brown Bear.docx",
+      "driveFileId": "1wkXW23DKf5Y0OZtfN-oavNfxghy6uD6ZTaJ2psQhE8w",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Modified Brown Bear",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:52.041Z"
+    },
+    {
+      "assessmentId": "73-15-modified-brown-bear",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    },
+    {
+      "assessmentId": "73-15-modified-brown-bear",
+      "field": "answerKey",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+      "driveFileId": "1HUav9_yDHZgRLpGsDqAsS7M6KNvYJFIkSuW6kaajl_8",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Answer Key Key for Brown",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:45.040Z"
+    },
+    {
+      "assessmentId": "73-15-version-1-brown",
+      "field": "studentHandout",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Assessment Version 1 Brown.docx",
+      "driveFileId": "1n5ACv8BcZCk599OZ2D0L8ZMNZmPg9tKZMpeh4_kSwCs",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Version 1 Brown",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:56.939Z"
+    },
+    {
+      "assessmentId": "73-15-version-1-brown",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    },
+    {
+      "assessmentId": "73-15-version-1-brown",
+      "field": "answerKey",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+      "driveFileId": "1HUav9_yDHZgRLpGsDqAsS7M6KNvYJFIkSuW6kaajl_8",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Answer Key Key for Brown",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:45.040Z"
+    },
+    {
+      "assessmentId": "73-15-version-2-brown",
+      "field": "studentHandout",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Assessment Version 2 Brown.docx",
+      "driveFileId": "1CYcDEjj0tDgBK3CPkOTIs9mLLoHiqpWslE_U_O9ub90",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Version 2 Brown",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:01.290Z"
+    },
+    {
+      "assessmentId": "73-15-version-2-brown",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    },
+    {
+      "assessmentId": "73-15-version-2-brown",
+      "field": "answerKey",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Answer Key Key for Brown.docx",
+      "driveFileId": "1HUav9_yDHZgRLpGsDqAsS7M6KNvYJFIkSuW6kaajl_8",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Answer Key Key for Brown",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:45.040Z"
+    },
+    {
+      "assessmentId": "73-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/7.3 Metabolic Reactions Unit Overview Materials.docx",
+      "driveFileId": "17IdM31Fzgadugdh6PyX5bR8h48SVV2rNh9hp5LBApFg",
+      "driveRelativePath": "7.3 Metabolic Reactions Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-14T00:24:30.299Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/7.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14H2-q4H0_X1xeIvxqIfJqyziUWiCCunigF64-lCQQdg",
+      "driveRelativePath": "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:25:39.227Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/7.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1AUyPcmz6xDrHNnHKT6cfLgWHZeee2eYGmSAjoUTa0Vc",
+      "driveRelativePath": "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:55.541Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/7.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1g_v-hj0epmqGxtIxnPk2ZUgdZBK3LpUUzdIR0sEFJEk",
+      "driveRelativePath": "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:59.423Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/7.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "18iZMJq2T8rSVi0SMVUyyacUYpZq4q_C3ziBeBcwml6M",
+      "driveRelativePath": "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:37.149Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/7.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1N1evsk4PEoNA5Ql52GXf2-RMuxpPVxdFH8aFg8AnplU",
+      "driveRelativePath": "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:42.440Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/7.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1sQFM2sryif1L_jE2_2b-uFFG07l8OxnuuhL5sCzRW6o",
+      "driveRelativePath": "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:13.821Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/7.3 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "driveRelativePath": "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/7.3 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1mocJcFGIpLbRHnBNoFaz0a2pJvUGkyIYtRHoIR6iLC0",
+      "driveRelativePath": "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:27.769Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/7.3 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1TCuFhdiPpXnIuJss9GxAUnW629-14PB3fC4Zh-AmFmE",
+      "driveRelativePath": "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:55.385Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/7.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1LF1RXtH6KTMOELazWTgNmMtNFPvhQMS2iF8B576EteM",
+      "driveRelativePath": "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:26:39.356Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/7.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1k4o5iAYrcCLYrJKpmo9PgbCN6jHqj97Ygb659FUtNog",
+      "driveRelativePath": "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:27:22.183Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/7.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1v0LHXT3CPlNDG80I3bE5tpQ-Te86L56ba2NulwXp4jA",
+      "driveRelativePath": "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:28:08.997Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/7.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1XX_Zm-28-o8LTX5c6A8xjjKwLMf1H3XNKPADuF8TZpg",
+      "driveRelativePath": "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:02.503Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/7.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1VnyXs4k7O-31PV0AQts84fy22GfU7BzhWsGC_ehpYN4",
+      "driveRelativePath": "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:22.617Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/7.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "driveRelativePath": "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Unit 7.3 Metabolic Reactions Video Links.pdf": {
+      "driveFileId": "1mzpAw4SMNH-akjoM6yDxJtxyp6JpdeLr",
+      "name": "Unit 7.3 Metabolic Reactions Video Links.pdf",
+      "modifiedTime": "2024-08-14T00:38:02.469Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1UzgDyR5DUT96SXpERjMYNZGtuXSGxdXm",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-14T00:38:01.615Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1eo2F0aKjC9AqXzmApl3eU1FBVO61t--F",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-14T00:37:59.889Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1_cSy0RzumsdTPxrVySLdSMslNrYfLgqw",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-14T00:37:58.823Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1xXlW3eEjxYu1zQsjLQv9YfMJZpIuYMaJ",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-14T00:37:57.864Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1A5DPhfqrHFkAFF1G8ULVoUPfa8Av1_CK",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-14T00:37:56.233Z"
+    },
+    "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Teacher Edition": {
+      "driveFileId": "1TCuFhdiPpXnIuJss9GxAUnW629-14PB3fC4Zh-AmFmE",
+      "name": "7.3 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:55.385Z"
+    },
+    "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1PACif5XI98tz6JpxYJ1vGv9LJHdcDbTz50QtK3h5Z1g",
+      "name": "7.3 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:50.740Z"
+    },
+    "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Student Procedure": {
+      "driveFileId": "1--2Zt0KIYmg6FbvuehDdnbjBgwYJxD8nwzWUxnwubpQ",
+      "name": "7.3 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:45.802Z"
+    },
+    "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Slides": {
+      "driveFileId": "1i4fTnuXVI2gTfDWciUEP1sT0AMI_zTLVvpLfjejd1IY",
+      "name": "7.3 Lesson 9 Slides",
+      "modifiedTime": "2024-08-14T00:37:41.679Z"
+    },
+    "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Handout Symptoms and Systems": {
+      "driveFileId": "19MThxUCfduzDpp19U9AypXtH5WDfvEEGq5wVCIk1ukM",
+      "name": "7.3 Lesson 9 Handout Symptoms and Systems",
+      "modifiedTime": "2024-08-14T00:37:36.056Z"
+    },
+    "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lesson 9 Answer Key Key for Symptoms": {
+      "driveFileId": "1DbEn_MkjvZrE3tOK7ZDUP-99cOz0xrZ02KoD5kXwly4",
+      "name": "7.3 Lesson 9 Answer Key Key for Symptoms",
+      "modifiedTime": "2024-08-14T00:37:33.346Z"
+    },
+    "Lesson 9 - 7.3 Metabolic Reactions/7.3 Lección 9 Folleto Síntomas y sistemas": {
+      "driveFileId": "1jc7xDBIkOc91b5qCkWTwBqZI--S6Bqah1wAPTz6Eoig",
+      "name": "7.3 Lección 9 Folleto Síntomas y sistemas",
+      "modifiedTime": "2024-08-14T00:37:30.641Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Teacher Edition": {
+      "driveFileId": "1mocJcFGIpLbRHnBNoFaz0a2pJvUGkyIYtRHoIR6iLC0",
+      "name": "7.3 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:27.769Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "11duD7KrkhrJJu8BshObCpcdGXsc5V9hppzc-uK36X78",
+      "name": "7.3 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:23.213Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Student Procedure": {
+      "driveFileId": "1JRgGp4bC0Op-09XYpRYBe0dKJB9rVEVQOZsxRGM8_1I",
+      "name": "7.3 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:18.724Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Slides": {
+      "driveFileId": "1USHVnV7wkVJFuHkBCcXweXAg8oCG-WQ4CNMju8unKtw",
+      "name": "7.3 Lesson 8 Slides",
+      "modifiedTime": "2024-08-14T00:37:15.570Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Rubric Argument Rubric -": {
+      "driveFileId": "1CgvvWdP-KPppxAQGaIa9QaAQppqKAz-txlWaoRbtizA",
+      "name": "7.3 Lesson 8 Rubric Argument Rubric -",
+      "modifiedTime": "2024-08-14T00:37:11.273Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Reference Zoomed-In Images of": {
+      "driveFileId": "1BMuXUfkYz2cBjKyBsmmklU5-vdMSP5cGBWHcxfiY82s",
+      "name": "7.3 Lesson 8 Reference Zoomed-In Images of",
+      "modifiedTime": "2024-08-14T00:37:08.289Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1kn71awfRt8hmMPHrML50XYuwUtMDLDbeLXetGaxzYY0",
+      "name": "7.3 Lesson 8 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:37:04.631Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Handout Revisit Questions from": {
+      "driveFileId": "1QprL-hATYMh3aa2UHhk1LoE1qzp7n86J5VagmnJXgVg",
+      "name": "7.3 Lesson 8 Handout Revisit Questions from",
+      "modifiedTime": "2024-08-14T00:37:02.123Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Handout Lesson 8 Self-Assessment": {
+      "driveFileId": "1YRv8DI_VbmzIq6ERvuy7gZs0d-fgGgz7XJEvQOC8emA",
+      "name": "7.3 Lesson 8 Handout Lesson 8 Self-Assessment",
+      "modifiedTime": "2024-08-14T00:36:59.288Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Handout Connecting the Structure": {
+      "driveFileId": "1voMWhbO_Ybz6QTFnolJ5DaqlhSj5bTskMKZph4MzMZA",
+      "name": "7.3 Lesson 8 Handout Connecting the Structure",
+      "modifiedTime": "2024-08-14T00:36:56.704Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Assessment Part 3 Argue": {
+      "driveFileId": "1AdEWNHZYe1nY68HIsiVPF1_SudfvN1XXRDyrZQRsThQ",
+      "name": "7.3 Lesson 8 Assessment Part 3 Argue",
+      "modifiedTime": "2024-08-14T00:36:52.471Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Answer Key Part 3 Sample": {
+      "driveFileId": "1A2JuEqc91NI_eqIGP1QB_gAeFYMQQaXSEnGT7XwZU1k",
+      "name": "7.3 Lesson 8 Answer Key Part 3 Sample",
+      "modifiedTime": "2024-08-14T00:36:47.837Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lesson 8 Answer Key Connecting the Structure": {
+      "driveFileId": "17sHBMIeyTrbaOQRiaBgvNspmGQ80e5P4-Nkp_mux7GE",
+      "name": "7.3 Lesson 8 Answer Key Connecting the Structure",
+      "modifiedTime": "2024-08-14T00:36:45.206Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lección 8 Referencia Lección 8 Pautas": {
+      "driveFileId": "1mShvG7uAXA9tQKuTa9AviHXcVpp-ZjzKKJLw3-xHKuk",
+      "name": "7.3 Lección 8 Referencia Lección 8 Pautas",
+      "modifiedTime": "2024-08-14T00:36:40.588Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lección 8 Referencia Imágenes ampliadas del": {
+      "driveFileId": "1R7qFYHR10F066k4cD85ZbnYXcWQ1ms4xOvCfreUULL8",
+      "name": "7.3 Lección 8 Referencia Imágenes ampliadas del",
+      "modifiedTime": "2024-08-14T00:36:37.835Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lección 8 Folleto ¡Revise las preguntas": {
+      "driveFileId": "1kCVKn8CJOWtw3x5vFsV2vPL_wfy1OUIzslhK7HQMy7Q",
+      "name": "7.3 Lección 8 Folleto ¡Revise las preguntas",
+      "modifiedTime": "2024-08-14T00:36:33.795Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lección 8 Folleto Conectando la estructura": {
+      "driveFileId": "1aq6TL4b2HVsqnbART7i3CZH-1zB01NmUpOdhdIcqKTM",
+      "name": "7.3 Lección 8 Folleto Conectando la estructura",
+      "modifiedTime": "2024-08-14T00:36:30.821Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lección 8 Folleto Autoevaluación de la": {
+      "driveFileId": "1jtijjiSmgBHCdLLvXOXylNQCNrFyM_9q0vKcwKikqxM",
+      "name": "7.3 Lección 8 Folleto Autoevaluación de la",
+      "modifiedTime": "2024-08-14T00:36:26.268Z"
+    },
+    "Lesson 8 - 7.3 Metabolic Reactions/7.3 Lección 8 Evaluación Parte 3 Argumente": {
+      "driveFileId": "1aFo0ZerNOVtN6FQ1GNmKcodjEKX6nSgX3c5uD6ZtDMY",
+      "name": "7.3 Lección 8 Evaluación Parte 3 Argumente",
+      "modifiedTime": "2024-08-14T00:36:23.234Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Teacher Edition": {
+      "driveFileId": "1SMrELtVS3pTYgnflKQzuPMMEXZyw5G23db2R8TY0nJ8",
+      "name": "7.3 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:36:18.708Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "17kaFhQTRjIqBW7EeITpVplXc8j46gBWEicQ8ya3F9RI",
+      "name": "7.3 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:14.265Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Student Procedure": {
+      "driveFileId": "1yAYHhRbcQ-sfJgbZsKbaS3-JmDPFjpq9y0AHhuIiHRA",
+      "name": "7.3 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:10.329Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Slides": {
+      "driveFileId": "1kvf2M5-JNNj3MeU819wf3A96dMy0odSp1Y0pwvY8KdM",
+      "name": "7.3 Lesson 7 Slides",
+      "modifiedTime": "2024-08-14T00:36:05.242Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Rubric Rubric for Giving": {
+      "driveFileId": "1O7zmG15IR4_3enOAsJs83zX-sjmKQHbKRqC3tcB1gNI",
+      "name": "7.3 Lesson 7 Rubric Rubric for Giving",
+      "modifiedTime": "2024-08-14T00:36:00.290Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Handout Self-Assessment Giving and": {
+      "driveFileId": "1S9d9XU3GkO0en6LyIdx9D9CNqJ94auXP-zuh9KrF7nQ",
+      "name": "7.3 Lesson 7 Handout Self-Assessment Giving and",
+      "modifiedTime": "2024-08-14T00:35:57.845Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Handout Revised Model (optional)": {
+      "driveFileId": "1DYWP3tpZLCqIFU_SNO-vJfkS47Q4jvIp5iEl0I5v4fo",
+      "name": "7.3 Lesson 7 Handout Revised Model (optional)",
+      "modifiedTime": "2024-08-14T00:35:54.850Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Handout Lesson 7 Peer": {
+      "driveFileId": "1qkgQNDtYOc-sleOoOb95sES8vJMoPttVL_6V5aVzgsk",
+      "name": "7.3 Lesson 7 Handout Lesson 7 Peer",
+      "modifiedTime": "2024-08-14T00:35:50.637Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Handout Gotta-Have-It Checklist": {
+      "driveFileId": "1o7i7Xcu_3n7isj_fQ-5gPA17K6W_YBCjCd7be5uROgU",
+      "name": "7.3 Lesson 7 Handout Gotta-Have-It Checklist",
+      "modifiedTime": "2024-08-14T00:35:47.719Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Handout Compiled Models from": {
+      "driveFileId": "102jcs3G3HxBKadwutj5125Ijxtq1YrVxKne2lWKGq7E",
+      "name": "7.3 Lesson 7 Handout Compiled Models from",
+      "modifiedTime": "2024-08-14T00:35:45.150Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Assessment Task Parts 1": {
+      "driveFileId": "1-WuO6Bqx6vynQwB5g4xOI55vfHSgVBiRPVV_BP3x3Cg",
+      "name": "7.3 Lesson 7 Assessment Task Parts 1",
+      "modifiedTime": "2024-08-14T00:35:42.222Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lesson 7 Answer Key Key for Task": {
+      "driveFileId": "1rlg447NA4ZHk7wO5D57C5EkLxUtLkwTSVb9SQkpV6sM",
+      "name": "7.3 Lesson 7 Answer Key Key for Task",
+      "modifiedTime": "2024-08-14T00:35:38.846Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lección 7 Folleto Pautas para la": {
+      "driveFileId": "1iNSDAug31WNxwnFfgV6wwin3XS4qdL6f8L3LEYtRIrE",
+      "name": "7.3 Lección 7 Folleto Pautas para la",
+      "modifiedTime": "2024-08-14T00:35:33.184Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lección 7 Folleto Modelos compilados del": {
+      "driveFileId": "1u4IZkT-pgMMvr0P4yOlhF4e2aOhAegB_m_NTlcs2klo",
+      "name": "7.3 Lección 7 Folleto Modelos compilados del",
+      "modifiedTime": "2024-08-14T00:35:30.043Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lección 7 Folleto Modelo revisado (opcional)": {
+      "driveFileId": "1y81QxF99SzOC_BSCWs8I0gQGtujz1SaJo-iu7lUCwiY",
+      "name": "7.3 Lección 7 Folleto Modelo revisado (opcional)",
+      "modifiedTime": "2024-08-14T00:35:27.227Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lección 7 Folleto Lista de necesidades": {
+      "driveFileId": "1SAD1TOse3Y8KHWGu4IJSTL9a3l9vPkbLzN4Y7wENHYc",
+      "name": "7.3 Lección 7 Folleto Lista de necesidades",
+      "modifiedTime": "2024-08-14T00:35:23.937Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lección 7 Folleto Autoevaluación de la": {
+      "driveFileId": "13oJBK7HDyVk4p3BVqOIHq75PpWq1D2qE8sgThdNoWM4",
+      "name": "7.3 Lección 7 Folleto Autoevaluación de la",
+      "modifiedTime": "2024-08-14T00:35:21.210Z"
+    },
+    "Lesson 7 - 7.3 Metabolic Reactions/7.3 Lección 7 Evaluación Tarea Partes 1": {
+      "driveFileId": "1BCIQS3aMZfDadkdOzX4DnQHz4CHLyyOXvEsUZ9DUEkg",
+      "name": "7.3 Lección 7 Evaluación Tarea Partes 1",
+      "modifiedTime": "2024-08-14T00:35:18.832Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Teacher Edition": {
+      "driveFileId": "1sQFM2sryif1L_jE2_2b-uFFG07l8OxnuuhL5sCzRW6o",
+      "name": "7.3 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:13.821Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1mOhtGJPXhEYxvc4run9I8kYzAZWn3_A-Ym8HmYTVPBs",
+      "name": "7.3 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:09.634Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Student Procedure": {
+      "driveFileId": "1SDgry9yShcEit1irfh-BxHTq4irrH-MT50kt4vYQWws",
+      "name": "7.3 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:05.247Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Slides": {
+      "driveFileId": "1RQNBuSX8A4gJ-HJ0sQbMswxS-JYrInkaTyYDroq0VNY",
+      "name": "7.3 Lesson 6 Slides",
+      "modifiedTime": "2024-08-14T00:35:02.122Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Reference Food Molecule Data": {
+      "driveFileId": "1xOWzCpn6pC3apXCxuu4SF9xDRvhTLSNB3iiufnsV-Fs",
+      "name": "7.3 Lesson 6 Reference Food Molecule Data",
+      "modifiedTime": "2024-08-14T00:34:56.336Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lesson 6 Handout Table to Organize": {
+      "driveFileId": "1luoXgcBAwoewyJhz8SogESwUE5Lfcaq0okd4UuBXKrc",
+      "name": "7.3 Lesson 6 Handout Table to Organize",
+      "modifiedTime": "2024-08-14T00:34:52.417Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lección 6 Referencia Datos de moléculas": {
+      "driveFileId": "1Xk5ME_E-OqzKy8hFoY00JZR2SrREVg62sbRB0ncREVM",
+      "name": "7.3 Lección 6 Referencia Datos de moléculas",
+      "modifiedTime": "2024-08-14T00:34:50.081Z"
+    },
+    "Lesson 6 - 7.3 Metabolic Reactions/7.3 Lección 6 Folleto Tabla para organizar": {
+      "driveFileId": "1RJ_vwIM0tUZZHCWewEN6l13eXm9FpbE_HA7arFH9mi0",
+      "name": "7.3 Lección 6 Folleto Tabla para organizar",
+      "modifiedTime": "2024-08-14T00:34:45.651Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Teacher Edition": {
+      "driveFileId": "1N1evsk4PEoNA5Ql52GXf2-RMuxpPVxdFH8aFg8AnplU",
+      "name": "7.3 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:34:42.440Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1s0fqBxOQFiIMuuRF8x5P5fJT7Ic52RcatpzewTCme-0",
+      "name": "7.3 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:38.250Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Student Procedure": {
+      "driveFileId": "1pILSoD-kIuTz17lH13jnDUzWOJDLTlZ-A1qNJ1PgTYg",
+      "name": "7.3 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:34.215Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Slides": {
+      "driveFileId": "1xGExXCt5gA7CL_CSWJkDUm4eLmxefXi0hHHL7iRXh3M",
+      "name": "7.3 Lesson 5 Slides",
+      "modifiedTime": "2024-08-14T00:34:30.125Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Reference Food Molecule Cards": {
+      "driveFileId": "1G4TrP6vii0cr1Ii_X1kbG5r2d3S33ei8bUJiaUrtmxQ",
+      "name": "7.3 Lesson 5 Reference Food Molecule Cards",
+      "modifiedTime": "2024-08-14T00:34:24.610Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Reference Chemical Reactions in": {
+      "driveFileId": "1j_kclXhFL956QS8KxkQr5K-8_EhrwWfIQ4CtsFH5-PE",
+      "name": "7.3 Lesson 5 Reference Chemical Reactions in",
+      "modifiedTime": "2024-08-14T00:34:21.238Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Reference Analyze Data from": {
+      "driveFileId": "1FTg4tUNU2UKC7E4J4kDdgZGFY_el-6XBWL0hQP3GOvo",
+      "name": "7.3 Lesson 5 Reference Analyze Data from",
+      "modifiedTime": "2024-08-14T00:34:16.949Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Reading What’s Spit": {
+      "driveFileId": "1SXglJghSi3u0occMkrcmS02JSwnDTB3d0prWp0IhR4s",
+      "name": "7.3 Lesson 5 Reading What’s Spit",
+      "modifiedTime": "2024-08-14T00:34:12.412Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Handout What’s Spit": {
+      "driveFileId": "1PE09qgI9uV--mP17TOB0w6On6l1AEM3orf9iEGXqd3U",
+      "name": "7.3 Lesson 5 Handout What’s Spit",
+      "modifiedTime": "2024-08-14T00:34:09.631Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Handout Data Table for": {
+      "driveFileId": "18WkMRITx6XiAwZPmSxcNHKCalSrNHaTBkPizkUKYoL0",
+      "name": "7.3 Lesson 5 Handout Data Table for",
+      "modifiedTime": "2024-08-14T00:34:03.571Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lesson 5 Answer Key Key for Chemical": {
+      "driveFileId": "1vIMGWoqXtwrTHgYQwrMjTt4rPsqvufroBgxqHPUfZBI",
+      "name": "7.3 Lesson 5 Answer Key Key for Chemical",
+      "modifiedTime": "2024-08-14T00:34:02.736Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lección 5 Referencia Tarjetas de moléculas": {
+      "driveFileId": "11_m52pIfn7_rXSkUkj7BTqZCfN7a4juo8WEvgVeWYco",
+      "name": "7.3 Lección 5 Referencia Tarjetas de moléculas",
+      "modifiedTime": "2024-08-14T00:33:58.982Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lección 5 Referencia Investigación de reacciones": {
+      "driveFileId": "19d6XxTrgko9qhh-i8Vy5IFpwe432QAEIVq7Yu99lwmk",
+      "name": "7.3 Lección 5 Referencia Investigación de reacciones",
+      "modifiedTime": "2024-08-14T00:33:55.511Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lección 5 Referencia Analizar datos de": {
+      "driveFileId": "1imzXladuvF1R-wvLfKneVyrq2xM-2UomVYgGYI7-hk4",
+      "name": "7.3 Lección 5 Referencia Analizar datos de",
+      "modifiedTime": "2024-08-14T00:33:50.947Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lección 5 Lectura ¿Qué es la": {
+      "driveFileId": "1-cuQpi5jtBQbscDa-PRWKq7LpLFJT0KjKZFZratUgOM",
+      "name": "7.3 Lección 5 Lectura ¿Qué es la",
+      "modifiedTime": "2024-08-14T00:33:47.204Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lección 5 Folleto ¿Qué es la": {
+      "driveFileId": "1hiPpEWpOD_Tl0xZ9huld3eHR6PDOnkXKHxQhxYW6yrw",
+      "name": "7.3 Lección 5 Folleto ¿Qué es la",
+      "modifiedTime": "2024-08-14T00:33:44.842Z"
+    },
+    "Lesson 5 - 7.3 Metabolic Reactions/7.3 Lección 5 Folleto Tabla de datos": {
+      "driveFileId": "19Ir0mcLuKM4auwG1rNSuyTEddq94Hy3EHlzDo9owv2U",
+      "name": "7.3 Lección 5 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-14T00:33:42.174Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Teacher Edition": {
+      "driveFileId": "18iZMJq2T8rSVi0SMVUyyacUYpZq4q_C3ziBeBcwml6M",
+      "name": "7.3 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:33:37.149Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1eDdjy6U87fDUvsYaKLZ8j3XPS1u-ngmtU6RyOHJ3l7w",
+      "name": "7.3 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:33:31.813Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Student Procedure": {
+      "driveFileId": "1eiuPDS2HIiETANmVScWVCYxJN7ZEN8ICYjPUqXVrvCM",
+      "name": "7.3 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-14T00:33:26.937Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Slides": {
+      "driveFileId": "1oGh-VjlK6YxvJTS9AQOzJVNFNtq-jLbTh3dqkyYewFw",
+      "name": "7.3 Lesson 4 Slides",
+      "modifiedTime": "2024-08-14T00:33:21.881Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Reference Graham Cracker Data": {
+      "driveFileId": "1YSeCKWdMxiczPwVdjyVcgIsjoJJlsA7MqkU4WVMn9u8",
+      "name": "7.3 Lesson 4 Reference Graham Cracker Data",
+      "modifiedTime": "2024-08-14T00:33:16.658Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lesson 4 Handout Analysis Strategy for": {
+      "driveFileId": "1GjUsNQoBdxaDFL0oZ013AWHKF9ChvUKBj_kAwm9sMOI",
+      "name": "7.3 Lesson 4 Handout Analysis Strategy for",
+      "modifiedTime": "2024-08-14T00:33:13.008Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lección 4 Referencia Datos de galletas": {
+      "driveFileId": "1jg4fWvUCIuFuOtUnt9VTfxlVnzB80sL74OGCInwtH-I",
+      "name": "7.3 Lección 4 Referencia Datos de galletas",
+      "modifiedTime": "2024-08-14T00:33:08.146Z"
+    },
+    "Lesson 4 - 7.3 Metabolic Reactions/7.3 Lección 4 Folleto Estrategia de análisis": {
+      "driveFileId": "1z7KFe9XAUS9pDuoFa3b1eCrrtFoH8OAVSWbOVbuDvBM",
+      "name": "7.3 Lección 4 Folleto Estrategia de análisis",
+      "modifiedTime": "2024-08-14T00:33:03.650Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Teacher Edition": {
+      "driveFileId": "1g_v-hj0epmqGxtIxnPk2ZUgdZBK3LpUUzdIR0sEFJEk",
+      "name": "7.3 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:32:59.423Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1asNZYcOtR6L-X9dj9en3-JfhIFpt3TdNhXX7sL_Xla8",
+      "name": "7.3 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:32:49.511Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Student Procedure": {
+      "driveFileId": "1qq094pMpREQcAMMdnLDSPGlsCralT4d3EJ-zx6yvNOs",
+      "name": "7.3 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-14T00:32:45.605Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Slides": {
+      "driveFileId": "1Iizxyi9A8uOGQm9ZUfNf3anLGxdXIORKbFgyODPceeI",
+      "name": "7.3 Lesson 3 Slides",
+      "modifiedTime": "2024-08-14T00:32:40.618Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Reference Starch and Glucose": {
+      "driveFileId": "10RFcSW1DfoZ3tJDYZ-zyAhEJLMORKcnwtuGF1KLrmSo",
+      "name": "7.3 Lesson 3 Reference Starch and Glucose",
+      "modifiedTime": "2024-08-14T00:32:33.462Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Reference Day 2 Dialysis": {
+      "driveFileId": "1lH-Qgi4On3kI09BXrWRtWfs4XkdQHcKx0MC3UO1wj-g",
+      "name": "7.3 Lesson 3 Reference Day 2 Dialysis",
+      "modifiedTime": "2024-08-14T00:32:29.324Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Reference Day 1 Dialysis": {
+      "driveFileId": "1NdN6sWHPwboE8Y9U3E3XdR_Rsv45XzV0noMM6BzHXro",
+      "name": "7.3 Lesson 3 Reference Day 1 Dialysis",
+      "modifiedTime": "2024-08-14T00:32:25.467Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Handout Progress Tracker": {
+      "driveFileId": "14wCLritR5i-Rj30mZWQgvKMX2erHjSYiIqGz4KeK6SU",
+      "name": "7.3 Lesson 3 Handout Progress Tracker",
+      "modifiedTime": "2024-08-14T00:32:21.187Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Handout Dialysis Tube Investigation": {
+      "driveFileId": "14FFVHF_AOPhGGSSWy0ynfV6Qil1wJNZ0jIEfMYulN_s",
+      "name": "7.3 Lesson 3 Handout Dialysis Tube Investigation",
+      "modifiedTime": "2024-08-14T00:32:18.416Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lesson 3 Answer Key Key for Dialysis": {
+      "driveFileId": "1wVST3jCALF-nn4Iut2TcyzoxuJPUpVkQFROZnR-JXkg",
+      "name": "7.3 Lesson 3 Answer Key Key for Dialysis",
+      "modifiedTime": "2024-08-14T00:32:15.609Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lección 3 Referencia Moléculas de almidón": {
+      "driveFileId": "1ET6Z30oL-fYu0rjQ38IGXZ04hdOd_FIuUY-1wrbaeKc",
+      "name": "7.3 Lección 3 Referencia Moléculas de almidón",
+      "modifiedTime": "2024-08-14T00:32:13.263Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lección 3 Referencia Día 2 Instrucciones": {
+      "driveFileId": "11ydiRceI5MdRraGA7YuPRehv2Qpq576LDmDcNyp6D4U",
+      "name": "7.3 Lección 3 Referencia Día 2 Instrucciones",
+      "modifiedTime": "2024-08-14T00:32:09.845Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lección 3 Referencia Día 1 Instrucciones": {
+      "driveFileId": "1b9GUFYdSUuDCH6HQTAkT8hufWYprSwB-EqNA9Te7-0g",
+      "name": "7.3 Lección 3 Referencia Día 1 Instrucciones",
+      "modifiedTime": "2024-08-14T00:32:05.905Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lección 3 Folleto Registro de progreso": {
+      "driveFileId": "1SzK3FDpU9JcONsLdLtCspwJLu-c9YOpRhBYhRpUosNY",
+      "name": "7.3 Lección 3 Folleto Registro de progreso",
+      "modifiedTime": "2024-08-14T00:32:01.941Z"
+    },
+    "Lesson 3 - 7.3 Metabolic Reactions/7.3 Lección 3 Folleto Investigación del tubo": {
+      "driveFileId": "1quynI2vUERchgKcKaXzCkN0t1eEPzu02UDaoKU8Yrdw",
+      "name": "7.3 Lección 3 Folleto Investigación del tubo",
+      "modifiedTime": "2024-08-14T00:31:59.097Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Teacher Edition": {
+      "driveFileId": "1AUyPcmz6xDrHNnHKT6cfLgWHZeee2eYGmSAjoUTa0Vc",
+      "name": "7.3 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:31:55.541Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "13mPUJweR7HrMZqFRh-s5NHYnlj-A35WuOfZl2Z0Yrg0",
+      "name": "7.3 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:31:51.465Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Student Procedure": {
+      "driveFileId": "1hQdqPo4K0o_63977ZgUFg83X_EoUpw18OoVPl4mh9Y4",
+      "name": "7.3 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-14T00:31:47.460Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Slides": {
+      "driveFileId": "1qyYeQv7sp3KAEnySMhnTx3cMb-s4x1yQ1cjSlt7bikg",
+      "name": "7.3 Lesson 2 Slides",
+      "modifiedTime": "2024-08-14T00:31:43.168Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Handout What happens in": {
+      "driveFileId": "1u-URjnQ78W8kMJXLhE5PpMJ21Pv84dp1pQmecWm-Wl4",
+      "name": "7.3 Lesson 2 Handout What happens in",
+      "modifiedTime": "2024-08-14T00:31:39.301Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Handout Analyzing Endoscopy Images": {
+      "driveFileId": "1zgi7wCVwel3uBIbTC5H7I_jHuPA57dtGWaOFmUXiBgs",
+      "name": "7.3 Lesson 2 Handout Analyzing Endoscopy Images",
+      "modifiedTime": "2024-08-14T00:31:35.099Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Answer Key Key for Analyzing": {
+      "driveFileId": "1xpq9TvCTS9osxBK8iK-dy3k88D4sWADPLDL8uWvxAfA",
+      "name": "7.3 Lesson 2 Answer Key Key for Analyzing",
+      "modifiedTime": "2024-08-14T00:31:32.355Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lesson 2 Answer Key Analyzing Endoscopy Images": {
+      "driveFileId": "1MKoJs3OPrhwNIQ55fApZjyf_oSgfQR1vrT3dqrUN7OM",
+      "name": "7.3 Lesson 2 Answer Key Analyzing Endoscopy Images",
+      "modifiedTime": "2024-08-14T00:31:29.274Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lección 2 Folleto ¿Qué pasa en": {
+      "driveFileId": "1-cb7Sp3ucKUSQvM7XMNyYlQsJrjFCL7Vm65OHhz8qUw",
+      "name": "7.3 Lección 2 Folleto ¿Qué pasa en",
+      "modifiedTime": "2024-08-14T00:31:26.834Z"
+    },
+    "Lesson 2 - 7.3 Metabolic Reactions/7.3 Lección 2 Folleto Analizando imágenes endoscópicas": {
+      "driveFileId": "1vN1ECb9WPj2AQCwhWoqoQSt9-1Jlh0na81dKuVcKn54",
+      "name": "7.3 Lección 2 Folleto Analizando imágenes endoscópicas",
+      "modifiedTime": "2024-08-14T00:31:23.091Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Teacher Edition": {
+      "driveFileId": "1YR1alUVR8bL82o3QVeGjHDgfLsbE_Sw17zrDZk7QPfw",
+      "name": "7.3 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:31:20.006Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1bSgLgKPm4XF2B8gP6G5zmtgLfg63JN0TSerIkJRAy20",
+      "name": "7.3 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:31:15.716Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Student Procedure": {
+      "driveFileId": "1ONpq6G0m-Q78R2SkyiZ4B-Muou44voE4nIPrLI4CsxM",
+      "name": "7.3 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-14T00:31:12.384Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Slides": {
+      "driveFileId": "17XmaEUqq08Dn3id34YCnnLZWG-rjkARnrUEG_MQKIvA",
+      "name": "7.3 Lesson 15 Slides",
+      "modifiedTime": "2024-08-14T00:31:09.186Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Rubric Bears Assessment Modeling": {
+      "driveFileId": "1XkRlz01NsyOFtsCwppJZRU1ORPdvjW9-gHg_i-HWcrM",
+      "name": "7.3 Lesson 15 Rubric Bears Assessment Modeling",
+      "modifiedTime": "2024-08-14T00:31:03.603Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Version 2 Brown": {
+      "driveFileId": "1CYcDEjj0tDgBK3CPkOTIs9mLLoHiqpWslE_U_O9ub90",
+      "name": "7.3 Lesson 15 Assessment Version 2 Brown",
+      "modifiedTime": "2024-08-14T00:31:01.290Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Version 1 Brown": {
+      "driveFileId": "1n5ACv8BcZCk599OZ2D0L8ZMNZmPg9tKZMpeh4_kSwCs",
+      "name": "7.3 Lesson 15 Assessment Version 1 Brown",
+      "modifiedTime": "2024-08-14T00:30:56.939Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Modified Brown Bear": {
+      "driveFileId": "1wkXW23DKf5Y0OZtfN-oavNfxghy6uD6ZTaJ2psQhE8w",
+      "name": "7.3 Lesson 15 Assessment Modified Brown Bear",
+      "modifiedTime": "2024-08-14T00:30:52.041Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Assessment Brown Bear Hibernation": {
+      "driveFileId": "1ie74ghBad4mEmDlyyKyK7SCySkuVq-JeSY_zvhYQCaw",
+      "name": "7.3 Lesson 15 Assessment Brown Bear Hibernation",
+      "modifiedTime": "2024-08-14T00:30:48.338Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lesson 15 Answer Key Key for Brown": {
+      "driveFileId": "1HUav9_yDHZgRLpGsDqAsS7M6KNvYJFIkSuW6kaajl_8",
+      "name": "7.3 Lesson 15 Answer Key Key for Brown",
+      "modifiedTime": "2024-08-14T00:30:45.040Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lección 15 Evaluación Versión 2 Hibernación": {
+      "driveFileId": "1y-JJEV-6VBKAmkXKN1p2UL-2KHB24_nqP2AW6NXezS4",
+      "name": "7.3 Lección 15 Evaluación Versión 2 Hibernación",
+      "modifiedTime": "2024-08-14T00:30:40.937Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lección 15 Evaluación Versión 1 Hibernación": {
+      "driveFileId": "1zZRVG33eAH-1_K2kCRGJApkNZJRSJouwSoKyhPZsbPo",
+      "name": "7.3 Lección 15 Evaluación Versión 1 Hibernación",
+      "modifiedTime": "2024-08-14T00:30:36.740Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lección 15 Evaluación Tarea modificada Hibernación": {
+      "driveFileId": "1SJkHKC9F7floItEMV9n_1PQ-6zENdoyXELjQ5NAQp54",
+      "name": "7.3 Lección 15 Evaluación Tarea modificada Hibernación",
+      "modifiedTime": "2024-08-14T00:30:32.258Z"
+    },
+    "Lesson 15 - 7.3 Metabolic Reactions/7.3 Lección 15 Evaluación Tarea Hibernación del": {
+      "driveFileId": "1_e3kxXwNFM9pirUErasE2WL44l9nCELFeLb9Ldy4faY",
+      "name": "7.3 Lección 15 Evaluación Tarea Hibernación del",
+      "modifiedTime": "2024-08-14T00:30:28.312Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Teacher Edition": {
+      "driveFileId": "1VnyXs4k7O-31PV0AQts84fy22GfU7BzhWsGC_ehpYN4",
+      "name": "7.3 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:30:22.617Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1qPdv3OwkXcsOIoQ-qhBvRVlWEPYeGArk6koQi4wWj-0",
+      "name": "7.3 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:30:16.034Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Student Procedure": {
+      "driveFileId": "1XRYEFvN0QQBGksB6L-gvFJJmGkKeMQncb54EZxhDjm0",
+      "name": "7.3 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-14T00:30:12.224Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Slides": {
+      "driveFileId": "13kFyHzlYx0rwjqPxdNFl4jij-kqdORr8UW_kqU0osjk",
+      "name": "7.3 Lesson 14 Slides",
+      "modifiedTime": "2024-08-14T00:30:07.717Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Rubric Rubric Giving and": {
+      "driveFileId": "1LWzW3BzswU6ug-wbl24vGsI0MHm9Ip3wkHvKcew-504",
+      "name": "7.3 Lesson 14 Rubric Rubric Giving and",
+      "modifiedTime": "2024-08-14T00:30:03.867Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Rubric Rubric Engaging in": {
+      "driveFileId": "1BH9l893JCr7PONcQV_j71IV_wcHNBIijFfz6VbbanAY",
+      "name": "7.3 Lesson 14 Rubric Rubric Engaging in",
+      "modifiedTime": "2024-08-14T00:29:59.686Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1bR7H42yimigi8L7GBSKZjsMPmBlR2maomGKQsRfh-lQ",
+      "name": "7.3 Lesson 14 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:29:56.585Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Reading Investigating Other Organisms": {
+      "driveFileId": "1BHJNTxuzEJ_TrU_KlOIb06ZVj1tiWX7itL9r2lHudcg",
+      "name": "7.3 Lesson 14 Reading Investigating Other Organisms",
+      "modifiedTime": "2024-08-14T00:29:53.737Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Reading Investigating Other Animals": {
+      "driveFileId": "1WWcGB6eNKt_oMu1a_HBsQRPkWRK3rai80nZ45NOrPWE",
+      "name": "7.3 Lesson 14 Reading Investigating Other Animals",
+      "modifiedTime": "2024-08-14T00:29:49.504Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Handout Self-Assessment Giving and": {
+      "driveFileId": "107VyaDwnOJRIbNtP1uo9d7h0ACKA_RHVHxXMos6_JxE",
+      "name": "7.3 Lesson 14 Handout Self-Assessment Giving and",
+      "modifiedTime": "2024-08-14T00:29:45.575Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Handout Let’s Answer Questions": {
+      "driveFileId": "1PwOijQ6AxwqzlNWQ3yGg4M5Kt2IcztSHv-CRLTF8NBk",
+      "name": "7.3 Lesson 14 Handout Let’s Answer Questions",
+      "modifiedTime": "2024-08-14T00:29:42.672Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Handout Investigating Other Organisms": {
+      "driveFileId": "17ir2kjEJ0qpvHJpRIsFUQtHSsVLDMEhYT_MzVJ8Cc-k",
+      "name": "7.3 Lesson 14 Handout Investigating Other Organisms",
+      "modifiedTime": "2024-08-14T00:29:39.686Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lesson 14 Handout Engaging in Argument": {
+      "driveFileId": "1waVDJHC0q_Fnbd6OttAT6hUAnw3r678jhmK9e9JGnQ8",
+      "name": "7.3 Lesson 14 Handout Engaging in Argument",
+      "modifiedTime": "2024-08-14T00:29:34.878Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Rubric Rúbrica Dar y": {
+      "driveFileId": "1kiHYhPYNoQi804_UzKZP88AWuKEixsYZ5yHQyJ385go",
+      "name": "7.3 Lección 14 Rubric Rúbrica Dar y",
+      "modifiedTime": "2024-08-14T00:29:31.954Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Referencia Pautas para la": {
+      "driveFileId": "1BFSo7zQwQ8zNuRIxQYeJdgZPTnhDXNmDcilj9I19ep8",
+      "name": "7.3 Lección 14 Referencia Pautas para la",
+      "modifiedTime": "2024-08-14T00:29:29.177Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Lectura Investigando otros organismos": {
+      "driveFileId": "1OiItELfCddGIstG5krY-0cJdnhkBkf9lZLXkL2AgIBg",
+      "name": "7.3 Lección 14 Lectura Investigando otros organismos",
+      "modifiedTime": "2024-08-14T00:29:26.129Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Lectura Investigando otros animales": {
+      "driveFileId": "1gMcD7FAhZbDBeMwZDxGG7dCQCbKzcnngtTd1QrDr1W0",
+      "name": "7.3 Lección 14 Lectura Investigando otros animales",
+      "modifiedTime": "2024-08-14T00:29:21.917Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Folleto ¡Respondamos las preguntas": {
+      "driveFileId": "1DxnepyXW7n7jkSA4FNMdxtQUaV3Ot1kNk_GKPLio8Cw",
+      "name": "7.3 Lección 14 Folleto ¡Respondamos las preguntas",
+      "modifiedTime": "2024-08-14T00:29:17.278Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Folleto Investigando otros organismos": {
+      "driveFileId": "1PNM6S4T1XPSYk8oeTCFdJBeyfiDkbH17PlxNz7TiAA0",
+      "name": "7.3 Lección 14 Folleto Investigando otros organismos",
+      "modifiedTime": "2024-08-14T00:29:14.232Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Folleto Autoevaluación Dar y": {
+      "driveFileId": "1c_BcJdP391qAFJZV0dLGGHT3fcxKSz2oDojrgkoZcfw",
+      "name": "7.3 Lección 14 Folleto Autoevaluación Dar y",
+      "modifiedTime": "2024-08-14T00:29:10.540Z"
+    },
+    "Lesson 14 - 7.3 Metabolic Reactions/7.3 Lección 14 Folleto Argumentación usando evidencia": {
+      "driveFileId": "1jW4U9vvJqbf2_gI4tTZK5N7Q-NdZ4OPWrziFbYXhR3Q",
+      "name": "7.3 Lección 14 Folleto Argumentación usando evidencia",
+      "modifiedTime": "2024-08-14T00:29:07.911Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Teacher Edition": {
+      "driveFileId": "1XX_Zm-28-o8LTX5c6A8xjjKwLMf1H3XNKPADuF8TZpg",
+      "name": "7.3 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:29:02.503Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1kepbkckbV0DsIw48XhHGLhBSs5hqGaUKtXIMY_4Li0E",
+      "name": "7.3 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:28:54.423Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Student Procedure": {
+      "driveFileId": "13BeltJwM82d4H9cBFJXfJH04RUjX2Bk1ZLcetFqXsRo",
+      "name": "7.3 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-14T00:28:50.051Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Slides": {
+      "driveFileId": "1cSglTVHoQMieYO_cw9z03CbD3RYGD0OWU02zrILTTFI",
+      "name": "7.3 Lesson 13 Slides",
+      "modifiedTime": "2024-08-14T00:28:45.711Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Handout Who is M’Kenna,": {
+      "driveFileId": "1wxMmDtx1PPlhiHu6h5GeL1gONfElr-xNoYXcdndrTtY",
+      "name": "7.3 Lesson 13 Handout Who is M’Kenna,",
+      "modifiedTime": "2024-08-14T00:28:40.883Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Handout Three Pathways Inside": {
+      "driveFileId": "1enxFAxzE-E-I15yz7rBG-Y1kwfI9XlmwgR-oc26Be40",
+      "name": "7.3 Lesson 13 Handout Three Pathways Inside",
+      "modifiedTime": "2024-08-14T00:28:36.836Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lesson 13 Handout Gotta-Have-It Checklist": {
+      "driveFileId": "1_pRxA846sDSx8JwCXTPte83F5uU3H4_fn4AEu6Qsns4",
+      "name": "7.3 Lesson 13 Handout Gotta-Have-It Checklist",
+      "modifiedTime": "2024-08-14T00:28:32.514Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lección 13 Folleto ¿Quién es M\\'Kenna": {
+      "driveFileId": "12fn6iidPsFSfWBdbnNs4Z4blxXk07soiL-YNMQTZdqs",
+      "name": "7.3 Lección 13 Folleto ¿Quién es M\\'Kenna",
+      "modifiedTime": "2024-08-14T00:28:29.681Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lección 13 Folleto ¿Quién es M'Kenna": {
+      "driveFileId": "18ykC213sWXbCBFzFN1LGB_awGn9IKhdtTODLFopg9qo",
+      "name": "7.3 Lección 13 Folleto ¿Quién es M'Kenna",
+      "modifiedTime": "2024-08-14T00:28:25.215Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lección 13 Folleto Tres rutas dentro": {
+      "driveFileId": "1WChdzT314rkTBtHu8nEvuB856-pJq0C0MTJeADICOBs",
+      "name": "7.3 Lección 13 Folleto Tres rutas dentro",
+      "modifiedTime": "2024-08-14T00:28:21.482Z"
+    },
+    "Lesson 13 - 7.3 Metabolic Reactions/7.3 Lección 13 Folleto Lista de necesidades": {
+      "driveFileId": "1K5A1TycVvhp1t892dn84J6ULpkuryGXSqpxDn2gWaeI",
+      "name": "7.3 Lección 13 Folleto Lista de necesidades",
+      "modifiedTime": "2024-08-14T00:28:17.207Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Teacher Reference BTB Teacher Demonstration": {
+      "driveFileId": "1bvVu5A0gUuUoJXmVlJsPJS0JG-O9XEeJgivp-1edQgw",
+      "name": "7.3 Lesson 12 Teacher Reference BTB Teacher Demonstration",
+      "modifiedTime": "2024-08-14T00:28:13.360Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Teacher Edition": {
+      "driveFileId": "1v0LHXT3CPlNDG80I3bE5tpQ-Te86L56ba2NulwXp4jA",
+      "name": "7.3 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:28:08.997Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1XRVa0efrcAI4HVTD5XMs4GpqoMuwG_kn9v7xgurIN4U",
+      "name": "7.3 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:28:04.027Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Student Procedure": {
+      "driveFileId": "1tYN2Jf5jgYSP_UcP0npGCWQbfsdtsddjSg-tz9Pkamo",
+      "name": "7.3 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-14T00:27:58.556Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Slides": {
+      "driveFileId": "1sE2yAG5VrfHKHo9v3c0ymMXLUtUq4lsAR-nzhHZaiVI",
+      "name": "7.3 Lesson 12 Slides",
+      "modifiedTime": "2024-08-14T00:27:54.499Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Handout Revisiting Symptoms and": {
+      "driveFileId": "1aWGR5ZDAiqVVGSMaaXZaQ2oCwGGuAAmPfNX2CWzxbE4",
+      "name": "7.3 Lesson 12 Handout Revisiting Symptoms and",
+      "modifiedTime": "2024-08-14T00:27:49.293Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Handout Oxygen and Carbon": {
+      "driveFileId": "10BduhppEiHdNRlN_8X4cQsD_4gjq_FyAA8rYUvI78L8",
+      "name": "7.3 Lesson 12 Handout Oxygen and Carbon",
+      "modifiedTime": "2024-08-14T00:27:46.181Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lesson 12 Handout Interpreting Activity Data": {
+      "driveFileId": "138G_T9_S6Wce7uex1G0DH9Bdx-UiSDdjJgSi4wvPtwg",
+      "name": "7.3 Lesson 12 Handout Interpreting Activity Data",
+      "modifiedTime": "2024-08-14T00:27:42.474Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lección 12 Folleto Revisando síntomas y": {
+      "driveFileId": "1xJoej9r_p08sKdvjDT3ODecdZoSA_f_IeE7ZZzsKBE0",
+      "name": "7.3 Lección 12 Folleto Revisando síntomas y",
+      "modifiedTime": "2024-08-14T00:27:38.292Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lección 12 Folleto Oxígeno y dióxido": {
+      "driveFileId": "1jMcmGke9Z7EAnbw0MSNSnV1FPszvJB9nfqegSmB4c6E",
+      "name": "7.3 Lección 12 Folleto Oxígeno y dióxido",
+      "modifiedTime": "2024-08-14T00:27:35.516Z"
+    },
+    "Lesson 12 - 7.3 Metabolic Reactions/7.3 Lección 12 Folleto Interpretar datos de": {
+      "driveFileId": "1-U_cjryIL_wUg3P32zzYznsnXKPh2ZhfrDfvCK9DauQ",
+      "name": "7.3 Lección 12 Folleto Interpretar datos de",
+      "modifiedTime": "2024-08-14T00:27:31.265Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Teacher Reference Instructions for Teacher": {
+      "driveFileId": "1AyCscGuXB5ICZCqIUCSE3F8Te7vm7d8xeAmZ318Lmqw",
+      "name": "7.3 Lesson 11 Teacher Reference Instructions for Teacher",
+      "modifiedTime": "2024-08-14T00:27:26.088Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Teacher Edition": {
+      "driveFileId": "1k4o5iAYrcCLYrJKpmo9PgbCN6jHqj97Ygb659FUtNog",
+      "name": "7.3 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:27:22.183Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1wd8jTNZthdgFDIvfC9s9YOZCp-Q878JNHwtVZHcg41Y",
+      "name": "7.3 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:27:17.889Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Student Procedure": {
+      "driveFileId": "1SYz2ynYxyPY_tDmNy-lxwrKPzhENlaVOByMVyTyOHGM",
+      "name": "7.3 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-14T00:27:13.535Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Slides": {
+      "driveFileId": "1_Q4pMJM_YWd-E3Rbz_X4fHiPVUgbjYtV1woS-hxm3VM",
+      "name": "7.3 Lesson 11 Slides",
+      "modifiedTime": "2024-08-14T00:27:08.036Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Reference Air Molecule Reference": {
+      "driveFileId": "11Id1vsryabEas-YTi3bKDzb6HnuxQn2JaSi7uN5qS78",
+      "name": "7.3 Lesson 11 Reference Air Molecule Reference",
+      "modifiedTime": "2024-08-14T00:27:03.201Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Handout Transcript Burning in": {
+      "driveFileId": "1W-9OYcXWbVJ3MoRwq5QwOEXH4Oo7fk_cEbYDcsgg5hg",
+      "name": "7.3 Lesson 11 Handout Transcript Burning in",
+      "modifiedTime": "2024-08-14T00:26:59.609Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Handout Making Sense of": {
+      "driveFileId": "1bmek6rG6h9wIEdnh7mwumvonK_H2DZjuPlYHsU-dnc4",
+      "name": "7.3 Lesson 11 Handout Making Sense of",
+      "modifiedTime": "2024-08-14T00:26:56.916Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lesson 11 Handout Burning Fat in": {
+      "driveFileId": "1wemQ_w5UOzceyXV8ieckJKu_mkZ3ySLTe4zwNMCWu8k",
+      "name": "7.3 Lesson 11 Handout Burning Fat in",
+      "modifiedTime": "2024-08-14T00:26:54.325Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lección 11 Referencia Referencia de las": {
+      "driveFileId": "1RSJce4PcmNz3UDaR4Zj2Feqtan_8HBMEqL59FiGyVzQ",
+      "name": "7.3 Lección 11 Referencia Referencia de las",
+      "modifiedTime": "2024-08-14T00:26:51.725Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lección 11 Folleto Transcripción Quemar en": {
+      "driveFileId": "1Zuiw_BG729R0ph2OkaQaJLp3WwbRvjBlD-_M18cmiAk",
+      "name": "7.3 Lección 11 Folleto Transcripción Quemar en",
+      "modifiedTime": "2024-08-14T00:26:48.262Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lección 11 Folleto Quema de grasa": {
+      "driveFileId": "1T359RjIcTM4skjn-EmlZF0JHlaAQVgN7M3RFdfSh-7I",
+      "name": "7.3 Lección 11 Folleto Quema de grasa",
+      "modifiedTime": "2024-08-14T00:26:45.630Z"
+    },
+    "Lesson 11 - 7.3 Metabolic Reactions/7.3 Lección 11 Folleto Hacer sentido de": {
+      "driveFileId": "1XPqnk5WFaB5fRJkGAI1p22cloonsvofbfzQiBYuGzMY",
+      "name": "7.3 Lección 11 Folleto Hacer sentido de",
+      "modifiedTime": "2024-08-14T00:26:42.527Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Teacher Edition": {
+      "driveFileId": "1LF1RXtH6KTMOELazWTgNmMtNFPvhQMS2iF8B576EteM",
+      "name": "7.3 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:26:39.356Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1kXkB0lmamI4nYs5kUhPpmdEwrv-H3b1TxXa-J6KuLIQ",
+      "name": "7.3 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:26:34.122Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Student Procedure": {
+      "driveFileId": "1MIjgsNZ1XjJTapI9wuXWBQueHSInJmIrAAOhTkdIs0g",
+      "name": "7.3 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-14T00:26:30.223Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Slides": {
+      "driveFileId": "1saddB5eSEScm5U1rTPpts5bTKeqga2_1PLkLBcJBfEY",
+      "name": "7.3 Lesson 10 Slides",
+      "modifiedTime": "2024-08-14T00:26:25.619Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Reference Fat Burning Lab": {
+      "driveFileId": "1_LyxOlKQEN4tFUI-uG6D4_KmStUxLekoggRh6oWuUSM",
+      "name": "7.3 Lesson 10 Reference Fat Burning Lab",
+      "modifiedTime": "2024-08-14T00:26:21.354Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Reading Children Need More": {
+      "driveFileId": "1RCjCDdTdVzIjE1Xh2gTdSgPK6W-c2gmlQJgtF3Muigg",
+      "name": "7.3 Lesson 10 Reading Children Need More",
+      "modifiedTime": "2024-08-14T00:26:17.370Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Handout What Happens to": {
+      "driveFileId": "1RDdpjbNSRJaVyXKsv9MsRmsd2c2gd4MOWDU_lteU7sM",
+      "name": "7.3 Lesson 10 Handout What Happens to",
+      "modifiedTime": "2024-08-14T00:26:13.342Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Handout Patterns in M’Kenna’s": {
+      "driveFileId": "15KaBVBm7OwnowIzlWXBTULRoDFP2gRd8p8ja1upukAs",
+      "name": "7.3 Lesson 10 Handout Patterns in M’Kenna’s",
+      "modifiedTime": "2024-08-14T00:26:11.245Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Handout Children Need More": {
+      "driveFileId": "1F7aDWBV68c7TRSox3CfMqx4Qglg-SR-WjnujmKs2Pf4",
+      "name": "7.3 Lesson 10 Handout Children Need More",
+      "modifiedTime": "2024-08-14T00:26:07.679Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lesson 10 Answer Key Key Patterns in": {
+      "driveFileId": "15h8Ct31Cut1c3Dd3WxBKRRxc1psC_kowvrOpEgVjLUI",
+      "name": "7.3 Lesson 10 Answer Key Key Patterns in",
+      "modifiedTime": "2024-08-14T00:26:03.252Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lección 10 Referencia Protocolo de la": {
+      "driveFileId": "1SNCuNlj25JP3Hv1YSiMl1KJvivt2zg-I95J0WgyvYMQ",
+      "name": "7.3 Lección 10 Referencia Protocolo de la",
+      "modifiedTime": "2024-08-14T00:25:58.807Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lección 10 Lectura Los niños necesitan": {
+      "driveFileId": "1e-YBW1WOr5FrFvlgNYJKZVx-arxaCqmy01VJ5F5kqX0",
+      "name": "7.3 Lección 10 Lectura Los niños necesitan",
+      "modifiedTime": "2024-08-14T00:25:55.054Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lección 10 Folleto ¿Qué le sucede": {
+      "driveFileId": "1BxMVypcHR3l7UkqifoGJ2hVYGWNVmzzRJvpgHJqAcvw",
+      "name": "7.3 Lección 10 Folleto ¿Qué le sucede",
+      "modifiedTime": "2024-08-14T00:25:50.004Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lección 10 Folleto Patrones en el": {
+      "driveFileId": "1KZ-fBTlF7Z7nSzBO5KivowqvXmE8C__uebkF2QfLRVA",
+      "name": "7.3 Lección 10 Folleto Patrones en el",
+      "modifiedTime": "2024-08-14T00:25:47.684Z"
+    },
+    "Lesson 10 - 7.3 Metabolic Reactions/7.3 Lección 10 Folleto Los niños necesitan": {
+      "driveFileId": "1uDiaNgUqdhyxMxPuvSoa3tc1xz17dQVm_ddScair_Ys",
+      "name": "7.3 Lección 10 Folleto Los niños necesitan",
+      "modifiedTime": "2024-08-14T00:25:44.044Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Teacher Edition": {
+      "driveFileId": "14H2-q4H0_X1xeIvxqIfJqyziUWiCCunigF64-lCQQdg",
+      "name": "7.3 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:25:39.227Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1vBsUoLgkK9eycwEmFj2bPNenfwiXwiFYXkTIo9WGMLk",
+      "name": "7.3 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:25:34.631Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Student Procedure": {
+      "driveFileId": "1tAJGZk43GTJ01WANbfCYWQ__kgZC7HXJiWd5RwT_6fs",
+      "name": "7.3 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-14T00:25:30.674Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Slides": {
+      "driveFileId": "128iE_DB0uQTRj52S7DqN3h_RJY2hX3cqHgt4GcB-LEg",
+      "name": "7.3 Lesson 1 Slides",
+      "modifiedTime": "2024-08-14T00:25:25.534Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Reference Transcript of M’Kenna’s": {
+      "driveFileId": "1qPHyZEUI9JqgSPdGAf-d2Avv7TpKcpT0A8GkIYi55P0",
+      "name": "7.3 Lesson 1 Reference Transcript of M’Kenna’s",
+      "modifiedTime": "2024-08-14T00:25:20.192Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Reference Reference Map M’Kenna’s": {
+      "driveFileId": "1q9rysVT-FPfnKGGHtmu1r-Qpb74_VWWjbnBzZxagPSg",
+      "name": "7.3 Lesson 1 Reference Reference Map M’Kenna’s",
+      "modifiedTime": "2024-08-14T00:25:14.646Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Handout Transcript M’Kenna Symptoms": {
+      "driveFileId": "146HEfYKjhgo4A1MlNEMYDn_pvFo5O2cfqAj2VuX-P6s",
+      "name": "7.3 Lesson 1 Handout Transcript M’Kenna Symptoms",
+      "modifiedTime": "2024-08-14T00:25:13.729Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Handout Science Classroom Norms": {
+      "driveFileId": "1p7U_X_6JITbqlmwomfPlJuIUtI7iWmdx_CwW3lLUowA",
+      "name": "7.3 Lesson 1 Handout Science Classroom Norms",
+      "modifiedTime": "2024-08-14T00:25:10.955Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Handout M’Kenna’s Doctor’s Note": {
+      "driveFileId": "1qD-CwMN6injnZyqUhZvSyHEwcKYwc7N5Ar47II4psq8",
+      "name": "7.3 Lesson 1 Handout M’Kenna’s Doctor’s Note",
+      "modifiedTime": "2024-08-14T00:25:07.481Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Handout Map M’Kenna’s Symptoms": {
+      "driveFileId": "12JRkVz7J0unFVN6Acq0D2b61bmHlQhG1f5n8FAfJzz8",
+      "name": "7.3 Lesson 1 Handout Map M’Kenna’s Symptoms",
+      "modifiedTime": "2024-08-14T00:25:04.450Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lesson 1 Handout Initial model": {
+      "driveFileId": "1fjwmGa52OvIPKYDpcNfKv_xcRpRQhdxV0uEByUDk7To",
+      "name": "7.3 Lesson 1 Handout Initial model",
+      "modifiedTime": "2024-08-14T00:25:00.601Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lección 1 Referencia Transcripción de los": {
+      "driveFileId": "1o6QzcQSflUBEHn_RZTpgXVQePKmx7tL00ks-eZiczqY",
+      "name": "7.3 Lección 1 Referencia Transcripción de los",
+      "modifiedTime": "2024-08-14T00:24:56.755Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lección 1 Referencia Referencia Mapear los": {
+      "driveFileId": "112q6pKEIlZC1S55cwLi1Me_pBtPqaYI5MTdiDmwThlM",
+      "name": "7.3 Lección 1 Referencia Referencia Mapear los",
+      "modifiedTime": "2024-08-14T00:24:53.589Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lección 1 Folleto Nota del médico": {
+      "driveFileId": "1zcqhnGvX4FFMZVL7NTOc-iFtBqgdm0Roht0rfDsAxe0",
+      "name": "7.3 Lección 1 Folleto Nota del médico",
+      "modifiedTime": "2024-08-14T00:24:48.568Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lección 1 Folleto Normas de la": {
+      "driveFileId": "1xVCgcdm0DEqPjJnUajkSYeYRdksZ09Oq1zLxyyAuAy0",
+      "name": "7.3 Lección 1 Folleto Normas de la",
+      "modifiedTime": "2024-08-14T00:24:45.406Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lección 1 Folleto Modelo inicial": {
+      "driveFileId": "1IIM2GnERdDnWCBrKw2uoVWIvt0HL3iBE8v0N7QhVafo",
+      "name": "7.3 Lección 1 Folleto Modelo inicial",
+      "modifiedTime": "2024-08-14T00:24:42.451Z"
+    },
+    "Lesson 1 - 7.3 Metabolic Reactions/7.3 Lección 1 Folleto Mapear los síntomas": {
+      "driveFileId": "12oIx6o1_orYwqk_EnbKVZQBXBI-lnuLL7KyzetmL-io",
+      "name": "7.3 Lección 1 Folleto Mapear los síntomas",
+      "modifiedTime": "2024-08-14T00:24:38.446Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1sIgnMhGUxJKaxjqURbo9jGPdlfJd8qyt",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-14T00:24:32.384Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1vZWp32Q8SJqoneUGPp7-zc9wg4GRaDo6",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:24:31.121Z"
+    },
+    "7.3 Metabolic Reactions Unit Overview Materials": {
+      "driveFileId": "17IdM31Fzgadugdh6PyX5bR8h48SVV2rNh9hp5LBApFg",
+      "name": "7.3 Metabolic Reactions Unit Overview Materials",
+      "modifiedTime": "2024-08-14T00:24:30.299Z"
+    },
+    "7.3 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1BC03YnZAKupFSXmjU6xB7ws6lI3yb8M_",
+      "name": "7.3 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-14T00:24:23.856Z"
+    }
+  }
+}

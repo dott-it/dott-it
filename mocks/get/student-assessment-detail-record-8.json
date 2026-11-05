@@ -1,0 +1,41 @@
+{
+  "student": {
+    "id": "student-8",
+    "name": "Henry Chen",
+    "email": "henry.chen@school.edu",
+    "status": "ready_for_review",
+    "submittedAt": "2025-01-17T12:00:00Z",
+    "score": null,
+    "classSection": "Period C",
+    "lastActionDate": "2025-01-17T12:00:00Z",
+    "totalResponses": 1,
+    "lastFeedbackDate": "2025-01-17T15:30:00Z",
+    "grade": 8
+  },
+  "assessment": {
+    "id": "ecosystem-assessment",
+    "title": "Ecosystem Interactions Assessment",
+    "unitName": "Unit 8.6",
+    "subject": "Biology",
+    "grade": 8,
+    "type": "Formative Assessment",
+    "dueDate": "2025-01-20",
+    "status": "live",
+    "totalRecords": 28,
+    "pendingRecords": 12,
+    "description": "Assessment on ecosystem interactions and food webs"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"In the ecosystem, I observed that the removal of the top predator (wolves) led to an increase in the deer population. This caused overgrazing of vegetation, which affected other herbivores and the overall ecosystem balance. The wolves play a crucial role as a keystone species by controlling the deer population and maintaining biodiversity.\",\"observationQuestion\":\"I noticed that when wolves were reintroduced to the ecosystem, the deer population decreased, allowing vegetation to recover. This created a cascade effect where other species like birds and small mammals also benefited from the increased plant diversity.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Ecosystem Analysis",
+      "content": "Good understanding of predator-prey relationships and their impact on ecosystem balance."
+    },
+    {
+      "type": "improvement",
+      "section": "Food Web Analysis",
+      "content": "Good start, but consider the impact of keystone species on the ecosystem. Provide more specific examples of how the wolf reintroduction affected other species in the food web."
+    }
+  ]
+}

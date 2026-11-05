@@ -1,0 +1,890 @@
+{
+  "unitId": "6.5",
+  "unitTitle": "Natural Hazards",
+  "description": "Students investigate natural hazard patterns and develop emergency preparedness plans. They analyze data to understand where and why natural hazards occur.",
+  "lessonCount": 10,
+  "suggestedPacingDays": 21,
+  "unitOverviewPath": "unit_materials/original/6.5 Natural Hazards Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/6/6.5",
+  "ingestedAt": "2026-07-01T13:38:38.212Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "What happens to a community when a tsunami occurs",
+      "title": "What happens to a community when a tsunami occurs?",
+      "teacherEditionPath": "lesson_1/original/6.5 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "Where do tsunamis happen and what causes them",
+      "title": "Where do tsunamis happen and what causes them?",
+      "teacherEditionPath": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "What causes a tsunami to form and move",
+      "title": "What causes a tsunami to form and move?",
+      "teacherEditionPath": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "How can we forecast where and when tsunamis will happen and which communities are at risk",
+      "title": "How can we forecast where and when tsunamis will happen and which communities are at risk?",
+      "teacherEditionPath": "lesson_4/original/6.5 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How can we reduce damage from a tsunami wave",
+      "title": "How can we reduce damage from a tsunami wave?",
+      "teacherEditionPath": "lesson_5/original/6.5 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How are tsunamis detected and warning signals sent",
+      "title": "How are tsunamis detected and warning signals sent?",
+      "teacherEditionPath": "lesson_6/original/6.5 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "What are ways we can communicate with people before and during a tsunami",
+      "title": "What are ways we can communicate with people before and during a tsunami?",
+      "teacherEditionPath": "lesson_7/original/6.5 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "Which emergency communication systems are the most reliable in a hazard",
+      "title": "Which emergency communication systems are the most reliable in a hazard?",
+      "teacherEditionPath": "lesson_8/original/6.5 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "How can we model the systems put into place to protect communities",
+      "title": "How can we model the systems put into place to protect communities?",
+      "teacherEditionPath": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "How can we effectively prepare our communities for a natural hazard",
+      "title": "How can we effectively prepare our communities for a natural hazard?",
+      "teacherEditionPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 4
+    }
+  ],
+  "assessments": [
+    {
+      "id": "65-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Observations or questions about…",
+      "shortTitle": "Look for: /listen for: Observations or questions about…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Ask questions that arise from careful observations of a sudden natural event that causes damage to communities.",
+      "lookListenFor": "What to look for/listen for: Observations or questions about (1) size or speed of tsunamis or type of damage to communities, (2) disagreement or uncertainty about what causes tsunamis, (3) disagreement or uncertainty about why a tsunami possesses such destructive power, and (4) how communities could be protected from tsunamis.",
+      "whatToDo": "What to do: Encourage students to share their observations and related questions from the reading and videos. Prompt them by asking Where did you see that happen? and What kinds of questions do you have about ____?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.5 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L01-AO1.html"
+      }
+    },
+    {
+      "id": "65-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: At least one drawing or written description o…",
+      "shortTitle": "Look for: At least one drawing or written description o…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Apply scientific ideas to design an object, tool, process, or system that detects a tsunami when it starts (cause) and warns people, or reduces damage to communities (effect).",
+      "lookListenFor": "What to look for/listen for (in the initial designs):\nAt least one drawing or written description of an idea to either help detect tsunamis, give people more advance warning, or help reduce the damage caused by tsunamis.\nIdeas that indicate a characteristic of the tsunami wave that would be important to consider in the design, such as the start of the hazard (e.g., earthquake); or how fast, big, or intense the wave becomes; or a method for blocking the wave from reaching a community.\nThroughout Lesson 1, look for/listen for these things: (1) agreement that though tsunamis may cause devastation, their effects can be reduced by solutions that detect, warn people, and reduce damage; (2) agreement that some engineering solutions may be more promising or challenging than others; and (3) uncertainty or disagreement about what makes one solution more promising or challenging than another.",
+      "whatToDo": "What to do: If your students struggle to think of engineering ideas, ask them to consider what might be dangerous about the giant waves reaching land. Use a physical analogy to help them recognize the weight of water: Ask whether they think water is heavy or light. Fill a 5-gallon bucket or similar container with water and ask a student to pick it up. Ask them what it might feel like to get hit by that much water. Remind them that a tsunami wave carries millions of times more water than the bucket. Remind them of the cars, airplanes, and helicopters they saw swept away during the second video clip.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.5 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L01-AO2.html"
+      }
+    },
+    {
+      "id": "65-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students should notice that the…",
+      "shortTitle": "Look for: /listen for: Students should notice that the…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Use graphical displays of large data sets to identify spatial and temporal patterns in historical tsunami occurrence.",
+      "lookListenFor": "What to look for/listen for: Students should notice that the locations of tsunamis are similar to the locations of earthquakes shown in the Everest Unit. They all occur in oceans or other large bodies of water, but not all parts of the ocean have tsunamis. Tsunamis occur along some coasts and are most frequently caused by earthquakes.",
+      "whatToDo": "What to do: Some students may struggle with interpreting spatial patterns of historical tsunami occurrence or may be confused by symbols on the map. Use the sketch on Where do tsunamis happen? to help them record the spatial pattern they notice. Ask, What parts of the world have had tsunamis in the past? Encourage them to point to parts of the map that provide evidence for their thinking and then sketch that onto their handout. Support their interpretation of the symbols by saying, And what did that circle (triangle, square) on the map represent again? This will support all students in developing a shared understanding of the data representation.\nAlso challenge students by asking, Where do we not see tsunamis? This is an important perspective to help develop their forecasting ideas by identifying places (e.g., land and parts of the oceans) that do not have tsunamis.\nMotivate the transition to the next map by saying, We noticed that most tsunamis are caused by earthquakes. And we are wondering if all earthquakes cause tsunamis. We’ve seen earthquake data before in the Everest Unit. Let’s look at that data again and compare it to where tsunamis happen.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L02-AO1.html"
+      }
+    },
+    {
+      "id": "65-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: ideas about a causal relationship between sha…",
+      "shortTitle": "Look for: ideas about a causal relationship between sha…",
+      "peCode": "2.C",
+      "buildingTowards": "Building towards: 2.C Integrate quantitative and qualitative scientific information to connect cause-and-effect relationships to predict communities at risk for future tsunami occurrence.",
+      "lookListenFor": "What to look for/listen for:\nideas about a causal relationship between shallow, strong earthquakes along colliding boundaries and the formation of tsunamis (and specifically, tsunami wave height increasing)\npredictions that communities in regions where these types of earthquakes occur are most at risk, and that communities in regions that don’t have these earthquakes are not likely to experience tsunamis",
+      "whatToDo": "What to do: Students’ revised predictions are a good indicator of how well they have incorporated the new ideas about cause-and-effect relationships between earthquakes and tsunamis. If students struggle with updating predictions, ask these questions:\nAre communities along the Atlantic coast at risk for tsunamis? Why not? (Tsunamis haven’t happened there; they don’t have high-magnitude earthquakes; it is a spreading boundary in the middle of the Atlantic.)\nWhere would we find earthquakes that are strong enough and shallow enough to possibly form a tsunami? Let’s look back at the data again...\nAnother option to help students piece together the evidence from all three data sources is to include a cause-and-effect diagram during the day 2 whole-class share out, to make the relationship more visible.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L02-AO3.html"
+      }
+    },
+    {
+      "id": "65-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: On the first map, students gather evidence th…",
+      "shortTitle": "Look for: On the first map, students gather evidence th…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Use maps (digital tools) to analyze large data sets to identify cause-and-effect relationships between related geologic forces and resulting tsunamis.",
+      "lookListenFor": "What to look for/listen for:\nOn the first map, students gather evidence that tsunamis occur in only certain parts of the world, in the oceans, and are mostly caused by earthquakes.\nOn the second swipe map, students compare recent earthquake data to earthquakes historically related to tsunamis. Interpretations should include the idea that tsunamis occur in the same place as some earthquakes, but earthquakes also occur in places where tsunamis do not.\nThese observed patterns motivate looking more closely at earthquake types to understand where tsunamis occur and why. On day 2, students will use a series of graphs about earthquake characteristics to determine which specific kinds of earthquakes are related to (and might cause) tsunamis.",
+      "whatToDo": "What to do: If students struggle with the swipe map, point them to specific familiar locations (e.g., mid-Atlantic ridge, west coast of South America) and ask if earthquakes occur there or not, and also if tsunamis occur there or not. This will help them notice that not all earthquakes cause tsunamis. This key idea motivates the next investigation of the earthquakes that do cause tsunamis.\nRevisit how we talk about apparent relationships between things or events.✱✱ Remind students of previous words they earned in the Everest Unit: correlation, or when two things seem to be related to each other, and causation, when one thing causes another thing to happen. Place these words on the Word Wall if they are not there.\nAt this point, students have figured out that earthquakes and tsunamis are related, but they must keep in mind that correlation does not always mean causation. Although not all earthquakes are associated with tsunamis, it seems that some are. The next step is to investigate the causal link between earthquakes and tsunamis. Similarly, tsunamis seem to occur on colliding plate boundaries, but we have not established a causal relationship, so this is also only a correlation.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L02-AO2.html"
+      }
+    },
+    {
+      "id": "65-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "3.A.1 Analyze and interpret data from different wave…",
+      "shortTitle": "3.A.1 Analyze and interpret data from different wave…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A.1 Analyze and interpret data from different wave models to identify patterns in how the wave forms initially and moves toward shore, changing the height (amplitude) of the wave as it interacts with the ocean floor.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Some students may struggle with recording observations while watching the video of this model. Make the video available to students to watch repeatedly on their own outside of class, so they have enough time to make sense of what they are observing and can find patterns of cause and effect to explain how a tsunami forms and moves. Another option, if the technology is available in your classroom, is to watch the video once as a class and then have students play it again in small groups to make their observations. As they rewatch the video, encourage them to focus on the interactions between the waves and the sides of the pan. Also, encourage them to think about the movement of the bottom of the pan as the earthquake. This will help them make stronger connections between an earthquake on the ocean floor and a tsunami forming and moving.\nIn addition to these ideas, if time is available and you have the materials, this model can be shown as a live demonstration in the classroom, where students would gather around the pan and make observations in small groups or as a class. This demonstration could be repeated multiple times.\nCombine analyses of the model and connect to tsunamis. Display slide D. Say, I heard some of you mention that the waves in the foil pan are many times smaller than a tsunami in the ocean, but I also heard some of you describe how analyzing the waves in this model can help us figure out more about tsunamis. Let’s share our thinking. Facilitate a Building Understandings Discussion using prompts like those below. Remind students that they can add notes to their handout about each other’s observations and interpretations.\nSuggested prompt\nSample student response\nWhat were some connections that you and your partner captured about how the wave moved in the Foil Pan Model?\nThe wave began when the bottom of the pan was moved.\nOnce it started, the wave continued until it reached the edge of the pan.\nThe wave moved out in all directions from the point where it started.\nWhen the wave reached the edge, it collided and reflected back toward the middle.\nAnd, how does this compare to a tsunami? What can this tell us about how tsunamis form and move?\nWe think tsunamis also move like these waves, but are much bigger because the ocean is so big.\nThe tsunami also probably starts where the ocean floor is moved by the earthquake.\nThe tsunami probably moves away from this spot in all directions like the wave in the pan, until it reaches the shore or an island.\nIn the pan, we saw the waves reach the edge and then reflect back, and over time get smaller and smaller. We also thought the wave transferred some energy to the pan edge. How might a tsunami be similar to this?\nMaybe when the wave reaches the shore, it transfers energy to the shore.\nYeah…like waves on the shore of the ocean or lake, they move back and forth…maybe that is like the waves reflecting off the edge of the pan.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L03-AO2.html"
+      }
+    },
+    {
+      "id": "65-3-ao-5",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students’ ability to identify th…",
+      "shortTitle": "Look for: /listen for: Students’ ability to identify th…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Evaluate the limitations and benefits of different wave models for explaining how tsunamis form from a movement in the ocean floor (causes), and how they move and change as they approach the shore (effect).",
+      "lookListenFor": "What to look for/listen for: Students’ ability to identify the benefits and limitations of the three wave models used to explain how an earthquake can cause a tsunami. Students work with a partner initially to look back through what they have recorded about waves, earthquakes, and tsunamis from the models analyzed on days 1 and 2, and they identify benefits and limitations in partners and as a class. See the example Comparing Different Wave Models chart in this Teacher Guide.",
+      "whatToDo": "What to do: Students may struggle to identify limitations, as this term may be unfamiliar in this context. Encourage them to revisit what they observed and recorded in Wave Investigationsto help them realize that the word limitations refers to the models’ inability to give us a complete picture of what happens during a tsunami. Provide example(s) to help them see that none of these models alone is a full explanation, but if they put together the pieces they observed in each simulation, they have a more complete picture of how a tsunami forms and moves.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L03-AO5.html"
+      }
+    },
+    {
+      "id": "65-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: The up-and-down motion of the pan bottom (or…",
+      "shortTitle": "Look for: The up-and-down motion of the pan bottom (or…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A.1 Analyze and interpret data from different wave models to identify patterns in how the wave forms initially and moves toward shore, changing the height (amplitude) of the wave as it interacts with the ocean floor.",
+      "lookListenFor": "What to look for: Students use three different wave models in this lesson. After analyzing each model, the class pauses to share what has been figured out about the waves in the model and real-life tsunamis in the ocean. From the Foil Pan Model, listen for students to identify the following key ideas:\nThe up-and-down motion of the pan bottom (or ocean floor) causes the water above it to move in a similar pattern (up and down), causing large waves to form.\nWaves form above the spot where the pan bottom is disturbed (moved). These waves move outward in a circular or ripple pattern from that location.\nThese waves continue to move out in all directions until they reach the edge of the pan.\nAt the edge of the pan, the waves collide with the pan wall and then reflect back away from the wall.\nThe waves get smaller over time. Waves seem to transfer energy to the pan wall.",
+      "whatToDo": "What to do: Some students may struggle with recording observations while watching the video of this model. Make the video available to students to watch repeatedly on their own outside of class, so they have enough time to make sense of what they are observing and can find patterns of cause and effect to explain how a tsunami forms and moves. Another option, if the technology is available in your classroom, is to watch the video once as a class and then have students play it again in small groups to make their observations. As they rewatch the video, encourage them to focus on the interactions between the waves and the sides of the pan. Also, encourage them to think about the movement of the bottom of the pan as the earthquake. This will help them make stronger connections between an earthquake on the ocean floor and a tsunami forming and moving.\nIn addition to these ideas, if time is available and you have the materials, this model can be shown as a live demonstration in the classroom, where students would gather around the pan and make observations in small groups or as a class. This demonstration could be repeated multiple times.\nCombine analyses of the model and connect to tsunamis. Display slide D. Say, I heard some of you mention that the waves in the foil pan are many times smaller than a tsunami in the ocean, but I also heard some of you describe how analyzing the waves in this model can help us figure out more about tsunamis. Let’s share our thinking. Facilitate a Building Understandings Discussion using prompts like those below. Remind students that they can add notes to their handout about each other’s observations and interpretations.\nSuggested prompt\nSample student response\nWhat were some connections that you and your partner captured about how the wave moved in the Foil Pan Model?\nThe wave began when the bottom of the pan was moved.\nOnce it started, the wave continued until it reached the edge of the pan.\nThe wave moved out in all directions from the point where it started.\nWhen the wave reached the edge, it collided and reflected back toward the middle.\nAnd, how does this compare to a tsunami? What can this tell us about how tsunamis form and move?\nWe think tsunamis also move like these waves, but are much bigger because the ocean is so big.\nThe tsunami also probably starts where the ocean floor is moved by the earthquake.\nThe tsunami probably moves away from this spot in all directions like the wave in the pan, until it reaches the shore or an island.\nIn the pan, we saw the waves reach the edge and then reflect back, and over time get smaller and smaller. We also thought the wave transferred some energy to the pan edge. How might a tsunami be similar to this?\nMaybe when the wave reaches the shore, it transfers energy to the shore.\nYeah…like waves on the shore of the ocean or lake, they move back and forth…maybe that is like the waves reflecting off the edge of the pan.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L03-AO1.html"
+      }
+    },
+    {
+      "id": "65-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: These waves move out from the location where…",
+      "shortTitle": "Look for: These waves move out from the location where…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A.2 Analyze and interpret data from different wave models to identify patterns in how the wave forms initially and moves toward shore, changing height (amplitude) as it interacts with the ocean floor.",
+      "lookListenFor": "What to look for/listen for: After analyzing the NOAA Tsunami Model, listen for students to identify the following key ideas:\nThese waves move out from the location where the plates move and collide with one another (the earthquake’s epicenter) in all directions.\nThe waves farther out in the ocean where the earthquake first happens (nearer to the epicenter) are not as big as the ones near the shore.\nAs the waves move toward the shore, their height (amplitude) changes (based on the color scale in the model), in most cases getting taller as they get closer to land.\nThe waves that reach land closer to where the earthquake happens are taller than those that reach land farther from the epicenter.\nWaves reflect off (or bounce off) things they collide with in the ocean, like shorelines and islands.",
+      "whatToDo": "What to do: This visualization model is complex due to the amount of different measurements being represented. Some students may struggle with recording observations while watching. Watch the visualization several times so they have enough time to make sense of what they are observing and are able to find patterns of cause and effect. If possible, watch the video once as a class and then have students play it again in small groups to make their observations. If students do not develop all the ideas listed above, their engagement with the two other wave models may support the development of these ideas from a different perspective.\nCombine analyses of the second model and connect to tsunamis. Show slide G. Say, What were some connections you and your partner made between the model we analyzed and how a tsunami behaves? Ask different pairs to share what they discussed, and encourage students to add to their handout if they hear ideas they agree with but had not recorded yet.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L03-AO3.html"
+      }
+    },
+    {
+      "id": "65-3-ao-4",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: When a strong, shallow earthquake happens and…",
+      "shortTitle": "Look for: When a strong, shallow earthquake happens and…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A.3 Analyze and interpret data from different wave models to identify patterns in how the wave forms initially and moves toward shore, changing height (amplitude) as it interacts with the ocean floor.",
+      "lookListenFor": "What to look for/listen for: After analyzing the Tsunami Wave Model, listen for students to identify the following key ideas:\nWhen a strong, shallow earthquake happens and causes part of the ocean floor to move up and another part to move down (vertically), a tsunami can happen.\nThese waves move out from the location where the ocean floor moves.\nThe height (amplitude) of the waves that are farther out in the ocean (closer to the epicenter) is less than the ones that reach the shore.\nAs the waves move toward the shore where the water above the ocean floor is shallower, the amplitude increases.\nWhen the wave reaches shore, it seems to fall over itself and spread out or run up onto the land.\nThe bigger the wave that reaches the shore, the more it will move onto land.",
+      "whatToDo": "What to do: Some students may struggle with recording observations while watching, as this visualization model changes perspectives and location of what is being represented. It may help to play the video once all the way through, telling students to simply watch and not take notes. Then play it a second and perhaps a third time, pausing at incremental places to allow students to reflect on three segments of the model as they record their observations: The beginning of the video shows the ocean floor snapping and breaking, then a flyover shows the wave moving out from the epicenter. The next part shifts to show how the wave amplitude changes as the water above the ocean floor becomes shallower. The last part shows the wave reaching the shore. . Another option, if the technology is available, is to watch the video once as a class and then have students play it again in small groups to make observations.\nCombine analyses of the third model and connect to tsunamis. Show slide K. Say, What were some connections you and your partner made between the model and how an actual tsunami behaves? Ask a few pairs to share what they discussed and encourage students to add to their handout if they hear ideas they agree with but have not recorded. Some students may wish to have you play the Tsunami Wave Model again so they can come up and point out things they discussed with their partner.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L03-AO4.html"
+      }
+    },
+    {
+      "id": "65-4-explaining-and-forecasting",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "title": "Explaining and Forecasting",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 04 — Explaining and Forecasting.",
+      "files": {
+        "studentHandout": "lesson_4/original/6.5 Lesson 4 Assessment Explaining and Forecasting.docx",
+        "teacherGuide": "lesson_4/original/6.5 Lesson 4 Teacher Edition.docx",
+        "answerKey": "lesson_4/original/6.5 Lesson 4 Answer Key Scoring Guidance for.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdZv4QIcQ_xs3xLHcvOABTqrz1xIkszJNR_Ck9xubRLEIsYfQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "65-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students should make connections…",
+      "shortTitle": "Look for: /listen for: Students should make connections…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Apply scientific ideas to construct an explanation for how sudden changes in the ocean floor during an earthquake lead to the formation of a tsunami.",
+      "lookListenFor": "What to look for/listen for: Students should make connections that when sudden shifts in the ocean floor form a tsunami, it can move quickly across the ocean and cause damage when it reaches the coastlines. They should use scientific ideas of how waves move and qualitative variables such as relative distance to the epicenter and local shoreline topography to rank order the risk of four places, determine which place needs immediate action, and determine where tsunami-mitigation funds should be prioritized.",
+      "whatToDo": "What to do: If students struggle in developing explanations and/or ranking the risk of different places, call attention to supports embedded in the assessment, such as pictures and descriptions. Also consider these prompts to help their sensemaking:\nRemind students to support their claims with evidence from their Tsunami Chain of Events poster and observations made during the first 3 lessons of the unit.\nProvide sentence stems (on a sheet of chart paper) to help students write a claim supported by evidence. For example, “Place ___ is most at risk for damage from a tsunami. I know this because __________.”\nRemind students that damage resulting from a tsunami is associated with the loss of lives and properties; they should consider the potential people and property that might be impacted in each place.\nUse Scoring Guidance for Explaining and Forecasting Tsunami Risk to help you assess students’ ability to construct an explanation that describes how sudden geologic forces (i.e., an earthquake) in the ocean floor can cause a tsunami, how different communities may be at varying risk of damage, and which communities should be prioritized for tsunami mitigation resources.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.5 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L04-AO1.html"
+      }
+    },
+    {
+      "id": "65-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: The design solution must account for relevant…",
+      "shortTitle": "Look for: The design solution must account for relevant…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Make an oral argument based on a systematic evaluation process using relevant scientific principles, to support or refute the ability of different existing solutions (structure) to mitigate the effects of tsunamis and meet the needs of at-risk communities (function).",
+      "lookListenFor": "What to look for/listen for: Listen for students to use criteria and constraints to evaluate existing tsunami-mitigation solutions using a systematic process that accounts for community needs and the stated performance of the design solutions. Important ideas include:\nThe design solution must account for relevant scientific principles (e.g., it dissipates the wave’s energy), the needs of the community (e.g., economic activity), how well the structure would function for surrounding communities (how well it will function in this scenario vs. its proposed functionality), and its environmental impacts (e.g., on marine life).\nClearly defining and prioritizing criteria and constraints is necessary when evaluating and choosing a solution for a given community.\nCommunities have different criteria and constraints, so the evaluation process should also consider impacts on neighboring communities. Students should realize that the proposed performance of a structure in one area may affect other areas in ways that might negate the intended result, such as the seawall at Kamaishi having a negative effect on Ryoishi.",
+      "whatToDo": "What to do: There are multiple opportunities on day 3 to assess this lesson-level performance expectation. This Consensus Discussion is the first opportunity to press students to use evidence and reasoning from the investigations on days 1 and 2 to support their claims about which solutions might be most effective. Through argumentation, students refine their thinking about which solutions are more or less effective for Ryoishi and the surrounding areas. However, it is not important to come to agreement on one particular solution; rather, the purpose is to develop an understanding that engineers use systematic processes to decide which solutions might be most promising and must also consider their broader effects on surrounding areas. Throughout day 3, as students argue for their chosen solutions, press them with questions such as, “What is your reasoning for that?” “Why do you think that criterion or constraint is more important than others?” and “How might that solution work for Ryoishi and what would be the trade-offs, either for Ryoishi or the surrounding communities?”",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.5 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L05-AO1.html"
+      }
+    },
+    {
+      "id": "65-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Make an oral argument based on a systematic evaluatio…",
+      "shortTitle": "Make an oral argument based on a systematic evaluatio…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Make an oral argument based on a systematic evaluation process using relevant scientific principles, to support or refute the ability of different existing solutions (structure) to mitigate the effects of tsunamis and meet the needs of at-risk communities (function).",
+      "lookListenFor": "",
+      "whatToDo": "What to do: There are multiple opportunities on day 3 to assess this lesson-level performance expectation. This Consensus Discussion is the first opportunity to press students to use evidence and reasoning from the investigations on days 1 and 2 to support their claims about which solutions might be most effective. Through argumentation, students refine their thinking about which solutions are more or less effective for Ryoishi and the surrounding areas. However, it is not important to come to agreement on one particular solution; rather, the purpose is to develop an understanding that engineers use systematic processes to decide which solutions might be most promising and must also consider their broader effects on surrounding areas. Throughout day 3, as students argue for their chosen solutions, press them with questions such as, “What is your reasoning for that?” “Why do you think that criterion or constraint is more important than others?” and “How might that solution work for Ryoishi and what would be the trade-offs, either for Ryoishi or the surrounding communities?”",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.5 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L05-AO2.html"
+      }
+    },
+    {
+      "id": "65-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: After the third paragraph in the…",
+      "shortTitle": "Look for: /listen for: After the third paragraph in the…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Critically read scientific text to understand how a system designed to detect tsunamis follows specific criteria (related to earthquake activity) and constraints (related to signal transmission).",
+      "lookListenFor": "What to look for/listen for: After the third paragraph in the reading, students should understand that this tsunami detection system is only triggered if an earthquake meets specific criteria (the earthquake must be underwater, strong, and shallow). After the fifth paragraph, they should identify one constraint of the system, as the signals must be able to travel through air, water, and space, thus requiring the use of both satellite and sonar signals. Finally, in the “How does a tsunameter work” paragraph, students should offer a range of explanations for why the tsunameter is designed to have both “sleep” and “active” modes, including that the instrument uses more power while active, which may reduce its effective lifetime. They should identify this as a constraint on the system.",
+      "whatToDo": "What to do: If students struggle to identify criteria and constraints in the tsunami detection system, pause and reflect on how these have been discussed up to this point. To help specifically with the tsunameter in “sleep” and “active” mode, make the analogy to whether a person requires more energy when they are asleep or when they are active. If they struggle to see why energy consumption is problematic, have them consider where the instrument gets energy to function: First, ask where most appliances or machines get their energy. Then, ask how getting energy down to the tsunameter many thousands of meters below the ocean surface may be problematic (i.e., its location is completely dark, freezing, and under immense pressure). Finally, ask students to think about this in terms of cost and danger (i.e., Why might extending the life of a tsunameter be better than having one that is always in active mode? Why is it not safe to send people down to replace the batteries?).",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.5 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L06-AO1.html"
+      }
+    },
+    {
+      "id": "65-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Community Stakeholders",
+      "shortTitle": "Community Stakeholders",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Integrate written text with multimedia displays of tsunami warning and preparedness systems to clarify additional ways communities at-risk of tsunami can mitigate potential future effects.",
+      "lookListenFor": "What to look for/listen for: Look for clearly identified stakeholders with particular needs for emergency communication, and then look for corresponding criteria and constraints that address those needs but might limit what can be used to develop or evaluate potential solutions. Use the previous example table to see specific example student responses.",
+      "whatToDo": "What to do: If students are struggling to connect stakeholder needs with criteria and constraints of communication systems, use a local or relevant example to walk them through the process. For example, ask students: If there is a fire in our school, how do we, the stakeholders, receive the warning? Would all people in our class receive the alert? What might prevent someone from receiving it? Is there only one alert style or more than one (e.g., sound, lights, vibrations, others)? Using an example familiar to students might help access their knowledge about different criteria and constraints for communication systems. Other examples could be Amber alerts or tornado warnings; consider also using non-emergency communications, such as the school announcements or announcements at sporting events or theme parks.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.5 Lesson 7 Handout Community Stakeholders.docx",
+        "teacherGuide": "lesson_7/original/6.5 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L07-AO1.html"
+      }
+    },
+    {
+      "id": "65-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Community Stakeholders",
+      "shortTitle": "Community Stakeholders",
+      "peCode": "7.B",
+      "buildingTowards": "Building towards: 7.B Evaluate communication options using a systematic process and agreed-upon criteria and constraints to determine how well the design (structure) serves to communicate to stakeholders (function).",
+      "lookListenFor": "What to look for/listen for: Listen for agreement within the jigsaw groups about what their assigned communication option does well and what are its limitations. Then, across all groups, as a whole class, listen for ideas about how some communication options meet some criteria very well, while others meet other criteria well. The purpose of this work is to better understand that by combining multiple forms of communication, systems can address multiple stakeholder needs.",
+      "whatToDo": "What to do: If students struggle to come to an agreement within the group, ask students, Does that fit the criteria we laid out? how do you know? Or, Does it fit some criteria well, but not others? When combining work across the groups, encourage students to consider patterns in what they are noticing, such as, Which of these options does ____ well? Which of these options does not do ______ well?\nDiscuss the benefits of having multiple options available. Come back together as a whole class and pose this question using slide K: Why would it be important to have multiple modes of communication in the event of a hazard? Would you know what to do when you hear a warning signal?\nSuggested prompt\nSample student response\nWhy would it be important to have multiple modes of communication in the event of a hazard?\nTo reach the largest number of people.\nTo have a backup in case one thing fails.\nWould you know what to do when you hear a warning signal?\nMaybe if I had heard it before and knew where to go.\nI am not sure if I would know what to do. Stay here or leave? I don’t know.\nTransition to the next reading. Say, We have great communication options, and they do some things well and other things not as well. Having multiple options in place provides a back up, especially when one thing fails. We are going to read about some students’ experiences during the tsunami when their warning system broke, and we are going to see what back up plan they had in place.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.5 Lesson 7 Handout Community Stakeholders.docx",
+        "teacherGuide": "lesson_7/original/6.5 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L07-AO2.html"
+      }
+    },
+    {
+      "id": "65-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: Ideas of how technologies have changed over t…",
+      "shortTitle": "Look for: Ideas of how technologies have changed over t…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A.1 Use digital tools and/or mathematical concepts to integrate and synthesize information to compare the reliability of emergency communication systems.",
+      "lookListenFor": "What to look/listen for: Use students’ individual handouts and small group discussions:\nIdeas of how technologies have changed over time, but some technologies are still used today to alert people in a hazard.\nIdeas about how technologies use different systems for communication.\nWired v. Wireless\nBroadcast to each individual household v. broadcast across an entire area\nIdeas for why some signals (i.e. digital) are more reliable than others.\nIdeas for what causes some communication technologies to be limited in their ability to warn people.",
+      "whatToDo": "What to do: The reading contains sophisticated ideas and concepts for students, and many students will not have developed middle school ideas about different waves and technologies that use waves to transmit signals. That is OK. Students will build additional ideas in later OpenSciEd units and in high school about different waves and technologies that use waves to send signals. For now, focus students’ noticings and ideas about how different technologies have evolved and improved over time. In particular, the use of digital signals allows for a more reliable means of communication, which is the goal of an emergency communication system.\nSupporting Universal Design for Learning: The reading in the StoryMap is long and includes several embedded audio-visual assets to help depict concepts presented in the map. The combinations of text, audio, and visual information can assist students in perceiving information through multiple means of representation.\nHowever, some students may benefit from using the paper version of the reading in order to write or highlight different aspects that are important or that they have questions about. If they use the paper version of the reading, be sure to play the audio portions from the StoryMap map to augment their understanding of the concepts presented in the reading.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.5 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L08-AO1.html"
+      }
+    },
+    {
+      "id": "65-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: Ideas of how technologies have changed over t…",
+      "shortTitle": "Look for: Ideas of how technologies have changed over t…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A.2 Use digital tools and/or mathematical concepts to integrate and synthesize information to compare the reliability of emergency communication systems.",
+      "lookListenFor": "What to look/listen for:\nIdeas of how technologies have changed over time, but some technologies are still used today to alert people in a hazard.\nIdeas about how technologies use different systems for communication.\nWired v. Wireless\nBroadcast to each individual household v. broadcast across an entire area\nIdeas for why some signals (i.e. digital) are more reliable than others.\nIdeas for what causes some communication technologies to be limited in their ability to warn people.",
+      "whatToDo": "What to do: If students are struggling comparing communication systems, ask students about very specific communication systems, such as morse code versus push notifications. Ask students about how they are similar or different, and their benefits and drawbacks for each stakeholder group. If students are struggling with comparing analog and digital signals, have students focus on the types of technologies that use each type of signal. Ask students to compare their reliability and utility in a natural hazard. If students are struggling with what system may be more reliable for certain stakeholder groups versus others, ask students how that stakeholder group generally receives their information, and what type of information that stakeholder group would need. Consider if that form of communication is analog or digital, and then ask students the pros and cons of it being in that form. Ask students to then determine how reliable that would be in a hazard, and if that is the only method of communication needed for that stakeholder group. If students are struggling with identifying digital as a more reliable method of communication, focus students back on the storymap. Ask students to consider those that live in remote locations or those that are not in a place to hear sirens or others and determine which method is more likely to reach that stakeholder group with a clean signal.\nTurn and talk about communication types (optional). Say, It sounds like there are a variety of warnings that would work during a hazard, both analog and digital. Project slide E. Ask students to turn and talk to a partner about the question on the slide. If your students have already arrived at the conclusions below, proceed on to the navigation into the next lesson.\nWhat type(s) of signals should we use during a natural hazard?\nShould we use only one method, analog or digital?\nWhy or why not?\nAllow students to respond. Guide students to determine that a digital signal is an option that meets the needs of many stakeholders, but multiple methods of communication are a good idea during a natural hazard. Students should suggest that we need a variety of communication methods, both analog and digital, to alert people during a natural hazard such as a tsunami. Students should also conclude that while we have the ability to use both analog and digital signals, digital signals tend to be the most reliable and reach the most people in a short period of time.\nSupporting Universal Design for Learning: Teachers can support all students in forming a deeper understanding of newly “earned” or “encountered” vocabulary by representing the new term in several ways. For example, students can (1) write the term, (2) draw a representation of the term, (3) use their own words to write an explanation for what the term means, and (4) use the new term in a sentence.\nThis strategy is particularly helpful for emerging multilingual students.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.5 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L08-AO2.html"
+      }
+    },
+    {
+      "id": "65-9-6-5-lesson-9-handout-engineering-self-assessment-rubric",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "title": "6.5 Lesson 9 Handout Engineering Self-Assessment Rubric",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 09 — 6.5 Lesson 9 Handout Engineering Self-Assessment Rubric.",
+      "files": {
+        "studentHandout": "lesson_9/original/6.5 Lesson 9 Handout Engineering Self-Assessment Rubric.docx",
+        "teacherGuide": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null
+      }
+    },
+    {
+      "id": "65-9-6-5-lesson-9-rubric-engineering-self-assessment-rubric",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "title": "6.5 Lesson 9 Rubric Engineering Self-Assessment Rubric",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 09 — 6.5 Lesson 9 Rubric Engineering Self-Assessment Rubric.",
+      "files": {
+        "studentHandout": "lesson_9/original/6.5 Lesson 9 Rubric Engineering Self-Assessment Rubric.docx",
+        "teacherGuide": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null
+      }
+    },
+    {
+      "id": "65-9-engineering-self-assessment",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "title": "Engineering Self-Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 09 — Engineering Self-Assessment.",
+      "files": {
+        "studentHandout": "lesson_9/original/6.5 Lesson 9 Assessment Engineering Self-Assessment.docx",
+        "teacherGuide": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScUlPrh368VqK9rLU2oKFrCD7EaF3UMC9IzP_9-caoFplj_eg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "65-9-ao-2",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Lesson 09 · Check-in 2",
+      "shortTitle": "Lesson 09 · Check-in 2",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "Self-assessments are valuable tools to gauge student understanding. Students rely on a feedback loop involving the student and teacher for personal academic growth. Use this assessment to determine any perceived areas of challenges and successes from a student’s perspective, and provide timely feedback for the students (either on the front or back of this paper) regarding their perceptions and reality. Remember to give some positive feedback for every critique to help build the student’s self-efficacy in the engineering process.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L09-AO2.html"
+      }
+    },
+    {
+      "id": "65-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Connections should be determined…",
+      "shortTitle": "Look for: /listen for: Connections should be determined…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Construct a system model to represent the interactions of subsystems designed to detect, warn communities, and reduce damage from a tsunami hazard.",
+      "lookListenFor": "What to look for/listen for: Connections should be determined between various parts of the subsystem. Students should be able to articulate: (1) systems are comprised of subsystems that work together as a system, (2) parts of the subsystem cannot fully protect a community on their own, and some rely on feedback from other parts of the system, and (3) while the system works to meet the needs of the individual community, the system components and interactions may have to be altered when applied to other communities or situations.",
+      "whatToDo": "What to do: If students are struggling with:\nSubsystems working together as a system to meet the needs of the community, press students to explain how the system would be affected if the larger subsystem was taken out of the system and if the system could still meet the criteria of the community as effectively.\nConsidering the importance of the subsystems to meet the goals of the larger system, place a hand or a sticky note over a single component of a subsystem. Ask students how the subsystem would change if the component was removed and what effects it would have on the larger system.\nSeeing the potential changes to the system to address the needs of other communities, push students to consider a change in location, like a crowded tourist destination. Ask students what new constraints would be prioritized, if the system would have new constraints based upon the location, and what parts of the system would most likely have to be altered to meet the constraints of the community.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L09-AO1.html"
+      }
+    },
+    {
+      "id": "65-10-6-5-lesson-10-handout-self-assessment-giving-and",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "6.5 Lesson 10 Handout Self-Assessment Giving and",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 10 — 6.5 Lesson 10 Handout Self-Assessment Giving and.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.5 Lesson 10 Handout Self-Assessment Giving and.docx",
+        "teacherGuide": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/6.5 Lesson 10 Answer Key Assessing Hazard Risk.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScfdno7nklwwQiupzzlS9AMD4PMIZUPXkN-1aAZXAeHyrnT4Q/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "65-10-assessing-hazard-risk",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Assessing Hazard Risk",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 10 — Assessing Hazard Risk.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.5 Lesson 10 Assessment Assessing Hazard Risk.docx",
+        "teacherGuide": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/6.5 Lesson 10 Answer Key Assessing Hazard Risk.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSekEY9oySFaqjiDM_74fGrctFqvuOtUWKhoPjtDaFX6ghCcNA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "65-10-obtaining-and-communicating",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Obtaining and Communicating",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 10 — Obtaining and Communicating.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.5 Lesson 10 Assessment Obtaining and Communicating.docx",
+        "teacherGuide": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/6.5 Lesson 10 Answer Key Assessing Hazard Risk.docx",
+        "googleForm": null,
+        "rubric": null
+      }
+    },
+    {
+      "id": "65-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Determining Stakeholder Needs",
+      "shortTitle": "Determining Stakeholder Needs",
+      "peCode": null,
+      "buildingTowards": "Building towards:",
+      "lookListenFor": "What to look for/listen for:\nIdeas about obtaining information and communicating about hazards (the causes of the hazard, locations at risk, how to design solutions, and how to respond when it happens).\nIdeas about how effective communication and response plans account for the people living in their community and the resources the community has to respond.\nIdeas about how different communication strategies include educating the community before a natural hazard happens and then also alerting people when the hazard is happening with a variety of different modes of communication.",
+      "whatToDo": "10.B Critically read scientific texts adapted for classroom use to obtain scientific and technical information related to predicting the locations and severity of a hazard and understanding the response systems designed to mitigate the effects.\n10.C Communicate scientific and technical information in writing and/or oral presentations about a system designed to meet the criteria and constraints for communicating with identified stakeholder groups about a natural hazard.\nStudents are working on these two lesson-level performance expectations over the course of days 1–3.\nWhat to do: Use the Progress Tracker to help students recall ideas figured out from previous lessons, and then apply those ideas to a new hazard and a new community. Use Obtaining and Communicating Information about Natural Hazards to help students understand the expectations for their final project.\nPrepare for feedback on communication criteria and constraints. When projects have been completed, distribute a copy of Stakeholder Criteria and Constraints Peer Feedback Form to students. Direct students to look back at Determining Stakeholder Needs and focus on the second and third columns. Remind students that in those two columns they identified their criteria and constraints for communication with their stakeholder group(s). Explain that students will be given a chance to get feedback on how well their communication plans have met the needs of their stakeholder groups.\nProject slide O. Point out the column headers to students. Explain that students will use their previously identified criteria and constraints to complete the first column on Stakeholder Criteria and Constraints Peer Feedback Form by adding each separate criteria or constraint to its own row on the handout.\nEngage in peer feedback using the Stakeholder Criteria and Constraints Peer Feedback Form handout. Move on to column 2 with students and explain that this column will be used to cite specific places where the communication plan addressed that criteria or constraint. Partners will look through the communication plan and record on the handout where they see evidence of the communication plan clearly using or addressing the criteria or constraint. Explain that column 3 is where students will give feedback about the use of the criteria and constraints within the communication plan, and also provide ideas for how to either incorporate or enhance the criteria and constraints used in the communication plan.\nPlace students in partner pairs and ask students to trade their Stakeholder Criteria and Constraints Peer Feedback Form handouts. Direct students to share their communication plan with their partners. Give time for each partner to complete the peer feedback and instruct students to present that feedback to their partners. Give students time to make any needed enhancements or changes to their projects after the peer feedback has been reviewed.\nShare Communication Plans. If time allows, provide students time to present their communication plans to another audience. Audiences can include community members, school administrators, and peers.\nAs students communicate their projects, peers can use guidance in Peer Feedback Guidelines to provide overall feedback on one another’s communication plans. Use Teacher Instructions for Peer Feedback and student-facing material Self-Assessment: Giving and Receiving Feedback to allow students to self-assess how well they give and receive feedback during and after student presentations.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.5 Lesson 10 Handout Determining Stakeholder Needs.docx",
+        "teacherGuide": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L10-AO2.html"
+      }
+    },
+    {
+      "id": "65-10-ao-3",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Determining Stakeholder Needs",
+      "shortTitle": "Determining Stakeholder Needs",
+      "peCode": null,
+      "buildingTowards": "Building towards:",
+      "lookListenFor": "What to look for/listen for:\nIdeas about obtaining information and communicating about hazards (the causes of the hazard, locations at risk, how to design solutions, and how to respond when it happens).\nIdeas about how effective communication and response plans account for the people living in their community and the resources the community has to respond.\nIdeas about how different communication strategies include educating the community before a natural hazard happens and then also alerting people when the hazard is happening with a variety of different modes of communication.",
+      "whatToDo": "What to do: Use the Progress Tracker to help students recall ideas figured out from previous lessons, and then apply those ideas to a new hazard and a new community. Use Obtaining and Communicating Information about Natural Hazards to help students understand the expectations for their final project.\nPrepare for feedback on communication criteria and constraints. When projects have been completed, distribute a copy of Stakeholder Criteria and Constraints Peer Feedback Form to students. Direct students to look back at Determining Stakeholder Needs and focus on the second and third columns. Remind students that in those two columns they identified their criteria and constraints for communication with their stakeholder group(s). Explain that students will be given a chance to get feedback on how well their communication plans have met the needs of their stakeholder groups.\nProject slide O. Point out the column headers to students. Explain that students will use their previously identified criteria and constraints to complete the first column on Stakeholder Criteria and Constraints Peer Feedback Form by adding each separate criteria or constraint to its own row on the handout.\nEngage in peer feedback using the Stakeholder Criteria and Constraints Peer Feedback Form handout. Move on to column 2 with students and explain that this column will be used to cite specific places where the communication plan addressed that criteria or constraint. Partners will look through the communication plan and record on the handout where they see evidence of the communication plan clearly using or addressing the criteria or constraint. Explain that column 3 is where students will give feedback about the use of the criteria and constraints within the communication plan, and also provide ideas for how to either incorporate or enhance the criteria and constraints used in the communication plan.\nPlace students in partner pairs and ask students to trade their Stakeholder Criteria and Constraints Peer Feedback Form handouts. Direct students to share their communication plan with their partners. Give time for each partner to complete the peer feedback and instruct students to present that feedback to their partners. Give students time to make any needed enhancements or changes to their projects after the peer feedback has been reviewed.\nShare Communication Plans. If time allows, provide students time to present their communication plans to another audience. Audiences can include community members, school administrators, and peers.\nAs students communicate their projects, peers can use guidance in Peer Feedback Guidelines to provide overall feedback on one another’s communication plans. Use Teacher Instructions for Peer Feedback and student-facing material Self-Assessment: Giving and Receiving Feedback to allow students to self-assess how well they give and receive feedback during and after student presentations.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_10/original/6.5 Lesson 10 Handout Determining Stakeholder Needs.docx",
+        "teacherGuide": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L10-AO3.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "65-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Students identify general regional patterns i…",
+      "shortTitle": "Look for: Students identify general regional patterns i…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Use digital tools to analyze patterns in large data sets (maps) of the history of natural hazards in regions and use this information to forecast future risk.",
+      "lookListenFor": "What to look for/listen for:\nStudents identify general regional patterns in different natural hazards.\nExample: A general pattern for coastal flooding would be limited to places along the coast only (and not anywhere interior to the United States), whereas thunderstorms show a pattern of greater risk in the eastern/central portion of the United States and Florida.\nStudents assess their local risk for various natural hazards.\nWill vary based on your local community.\nStudents identify future risk for a local hazard.\nResponse should include level of risk of a hazard, their ideas or experiences with severity or frequency of a hazard, and ideas for additional data they would need (e.g., how big or intense it could be, how fast it might happen, how well can people respond).\nStudents should justify why it is important to communicate to a community about a natural hazard.\nUse Assessing Hazard Risk as an example for student ideas to look and listen for.",
+      "whatToDo": "What to do: For Question 1, model one hazard as a whole class to set the expectations for how groups should work through the remaining hazards. Talk aloud the general regional pattern you notice related to the hazard, including where it doesn’t happen often. For Questions 2 and 3, if students struggle to identify one hazard that their community is at risk for (or choose one from several natural hazards), have students group the hazards into high-, medium-, and low-risk categories (to help them prioritize higher risk hazards or tell them to highlight the natural hazards where the risk is moderate to very high for their community). Then, prompt students to consider their own experiences or wonderings about a hazard with which they are at higher risk for Question 2. For Question 3, students may choose any natural hazard but must identify a community at moderate to high risk and why a communication plan would be important based on the data.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-2",
+        "MS-ESS3-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.5 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-5/L10-AO1.html"
+      }
+    }
+  ]
+}

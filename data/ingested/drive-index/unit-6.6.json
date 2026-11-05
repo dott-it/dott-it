@@ -1,0 +1,1732 @@
+{
+  "unitId": "6.6",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 6",
+  "unitFolder": "6.6 Cells & Systems",
+  "unitDriveFolderId": "1ISMedZoO-JRNrReCMmhcVUKdylKaYEWH",
+  "indexedAt": "2026-07-07T18:08:06.012Z",
+  "fileCount": 228,
+  "manifestPathCount": 64,
+  "matchedCount": 64,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "66-1-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/6.6 Lesson 1 Handout Healing Initial Model.docx",
+      "driveFileId": "1K4X2_HV3EmuuLL0I8LHbKB4umNnL2kz36hzbrf7eAik",
+      "driveRelativePath": "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Healing Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:51.568Z"
+    },
+    {
+      "assessmentId": "66-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "19IJ5yAP-awLYZkjV4Xvx7qjux1FrdrfkUmf2zaRAgh0",
+      "driveRelativePath": "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:27.228Z"
+    },
+    {
+      "assessmentId": "66-1-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/6.6 Lesson 1 Handout Healing Initial Model.docx",
+      "driveFileId": "1K4X2_HV3EmuuLL0I8LHbKB4umNnL2kz36hzbrf7eAik",
+      "driveRelativePath": "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Healing Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:51.568Z"
+    },
+    {
+      "assessmentId": "66-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "19IJ5yAP-awLYZkjV4Xvx7qjux1FrdrfkUmf2zaRAgh0",
+      "driveRelativePath": "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:27.228Z"
+    },
+    {
+      "assessmentId": "66-1-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "19IJ5yAP-awLYZkjV4Xvx7qjux1FrdrfkUmf2zaRAgh0",
+      "driveRelativePath": "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:27.228Z"
+    },
+    {
+      "assessmentId": "66-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "19IJ5yAP-awLYZkjV4Xvx7qjux1FrdrfkUmf2zaRAgh0",
+      "driveRelativePath": "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:27.228Z"
+    },
+    {
+      "assessmentId": "66-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1a7juKQSDEKBu9qou_ncJeEApZ4bM9NK38uhd3CE2A7A",
+      "driveRelativePath": "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:58.995Z"
+    },
+    {
+      "assessmentId": "66-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1a7juKQSDEKBu9qou_ncJeEApZ4bM9NK38uhd3CE2A7A",
+      "driveRelativePath": "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:58.995Z"
+    },
+    {
+      "assessmentId": "66-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1a7juKQSDEKBu9qou_ncJeEApZ4bM9NK38uhd3CE2A7A",
+      "driveRelativePath": "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:58.995Z"
+    },
+    {
+      "assessmentId": "66-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1_BFhPjmqvg21723vWzKdk2SxhU3Oiu28S437NbjHRWM",
+      "driveRelativePath": "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:16.887Z"
+    },
+    {
+      "assessmentId": "66-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "14Y9P-SCIEBj5cvA3ZqmJWgdjf4-gDB1N9oFhQ4XePSM",
+      "driveRelativePath": "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:30.365Z"
+    },
+    {
+      "assessmentId": "66-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "14Y9P-SCIEBj5cvA3ZqmJWgdjf4-gDB1N9oFhQ4XePSM",
+      "driveRelativePath": "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:30.365Z"
+    },
+    {
+      "assessmentId": "66-4-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_4/original/6.6 Lesson 4 Handout mm Graph Paper.docx",
+      "driveFileId": "1D0oKb8axQkbREDaer-ft4fOlUt9zYRwZKd0FA30B3SU",
+      "driveRelativePath": "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Handout mm Graph Paper",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:54.712Z"
+    },
+    {
+      "assessmentId": "66-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "14Y9P-SCIEBj5cvA3ZqmJWgdjf4-gDB1N9oFhQ4XePSM",
+      "driveRelativePath": "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:30.365Z"
+    },
+    {
+      "assessmentId": "66-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1Kh8f9h3-UQBnDJ7CCThCte_2OfGShDZWOeEKYCrc7OY",
+      "driveRelativePath": "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:53.062Z"
+    },
+    {
+      "assessmentId": "66-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1Kh8f9h3-UQBnDJ7CCThCte_2OfGShDZWOeEKYCrc7OY",
+      "driveRelativePath": "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:53.062Z"
+    },
+    {
+      "assessmentId": "66-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "12FsxtKHaesQz545FjfDZXlaOz_ojWUE55YY9_QQzD3Y",
+      "driveRelativePath": "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:53:39.622Z"
+    },
+    {
+      "assessmentId": "66-7-part-1-are",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Assessment Part 1 Are.docx",
+      "driveFileId": "1Q-SjD7Dg2oN409JkBePKeQ4hs1ju_tJAu9deyNYSxqk",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Assessment Part 1 Are",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:08.591Z"
+    },
+    {
+      "assessmentId": "66-7-part-1-are",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "10sLBlhKL31PbEVi155P9EwyZA0TM8q_F7qYX78r7vs8",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:41.285Z"
+    },
+    {
+      "assessmentId": "66-7-part-2-are",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Assessment Part 2 Are.docx",
+      "driveFileId": "1rgmuUIxLfRvEOr_fUdB3O9oYp4zp5ZlA-gLOItIpIF8",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Assessment Part 2 Are",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:12.772Z"
+    },
+    {
+      "assessmentId": "66-7-part-2-are",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "10sLBlhKL31PbEVi155P9EwyZA0TM8q_F7qYX78r7vs8",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:41.285Z"
+    },
+    {
+      "assessmentId": "66-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "10sLBlhKL31PbEVi155P9EwyZA0TM8q_F7qYX78r7vs8",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:41.285Z"
+    },
+    {
+      "assessmentId": "66-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "10sLBlhKL31PbEVi155P9EwyZA0TM8q_F7qYX78r7vs8",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:41.285Z"
+    },
+    {
+      "assessmentId": "66-7-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "10sLBlhKL31PbEVi155P9EwyZA0TM8q_F7qYX78r7vs8",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:41.285Z"
+    },
+    {
+      "assessmentId": "66-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.6 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1YtOKkhMvnLZC_1gi_dydDx8ZRWUPM_AKOVW9AFTLzVU",
+      "driveRelativePath": "Lesson 8 - 6.6 Cells & Systems/6.6 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:55:10.097Z"
+    },
+    {
+      "assessmentId": "66-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.6 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1pGyXykpf7uxtxY7IA50hByXsYD-7JwtcGMFtTw2ayKc",
+      "driveRelativePath": "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:55:41.774Z"
+    },
+    {
+      "assessmentId": "66-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.6 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1pGyXykpf7uxtxY7IA50hByXsYD-7JwtcGMFtTw2ayKc",
+      "driveRelativePath": "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:55:41.774Z"
+    },
+    {
+      "assessmentId": "66-10-6-6-lesson-10-handout-self-assessment-and-peer",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Handout Self-Assessment and Peer.docx",
+      "driveFileId": "1Haz5JAFkQQV9KXhvZQ0bOViImpDlxk4qizVfPDIlybs",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Self-Assessment and Peer",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:23.306Z"
+    },
+    {
+      "assessmentId": "66-10-6-6-lesson-10-handout-self-assessment-and-peer",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1PSbTXNri7o2c6QDrtJBMl9LNY7YKEgq3D_xtqtSdoCc",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:04.194Z"
+    },
+    {
+      "assessmentId": "66-10-6-6-lesson-10-handout-self-assessment-and-peer",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Answer Key Key What do.docx",
+      "driveFileId": "1i7snG2sfw30BQE8VXGbzQamWWEB0W84aoJLukbB_yRc",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Answer Key Key What do",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:45.095Z"
+    },
+    {
+      "assessmentId": "66-10-what-do-bacteria",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Assessment What do bacteria.docx",
+      "driveFileId": "1XrA792EemIYgKOtIDAj7LpJ6eruqC3OElnaW_CrH2a8",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Assessment What do bacteria",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:49.518Z"
+    },
+    {
+      "assessmentId": "66-10-what-do-bacteria",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1PSbTXNri7o2c6QDrtJBMl9LNY7YKEgq3D_xtqtSdoCc",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:04.194Z"
+    },
+    {
+      "assessmentId": "66-10-what-do-bacteria",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Answer Key Key What do.docx",
+      "driveFileId": "1i7snG2sfw30BQE8VXGbzQamWWEB0W84aoJLukbB_yRc",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Answer Key Key What do",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:45.095Z"
+    },
+    {
+      "assessmentId": "66-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1PSbTXNri7o2c6QDrtJBMl9LNY7YKEgq3D_xtqtSdoCc",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:04.194Z"
+    },
+    {
+      "assessmentId": "66-10-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Handout Peer Feedback Guidelines.docx",
+      "driveFileId": "1BRZTmPEa_2a84bRFFShgJL9WTe6ZnYhxdIV7sq7cZqw",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Peer Feedback Guidelines",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:54.934Z"
+    },
+    {
+      "assessmentId": "66-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1PSbTXNri7o2c6QDrtJBMl9LNY7YKEgq3D_xtqtSdoCc",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:04.194Z"
+    },
+    {
+      "assessmentId": "66-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1-RZl21-Otk62-FNncyXPKK8PXpgZ-pQu9dNCstgeX3c",
+      "driveRelativePath": "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:59.884Z"
+    },
+    {
+      "assessmentId": "66-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1-RZl21-Otk62-FNncyXPKK8PXpgZ-pQu9dNCstgeX3c",
+      "driveRelativePath": "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:59.884Z"
+    },
+    {
+      "assessmentId": "66-12-how-do-the",
+      "field": "studentHandout",
+      "manifestPath": "lesson_12/original/6.6 Lesson 12 Assessment How do the.docx",
+      "driveFileId": "11Roy71xslY6p5ETv8NL2_RPl2RoWL6bxyuhjUj9B-fU",
+      "driveRelativePath": "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Assessment How do the",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:29.995Z"
+    },
+    {
+      "assessmentId": "66-12-how-do-the",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1VPexBQPy4JqMEb8Lo4PcUEL6iD4lOlDVLpihp7HCJuM",
+      "driveRelativePath": "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:00.456Z"
+    },
+    {
+      "assessmentId": "66-12-how-do-the",
+      "field": "answerKey",
+      "manifestPath": "lesson_12/original/6.6 Lesson 12 Answer Key Key How do.docx",
+      "driveFileId": "1CIGPDOGRL7kQ5P0Z8fe2G4CfHxXrq15Y5hi7RYzlGjo",
+      "driveRelativePath": "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Answer Key Key How do",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:24.532Z"
+    },
+    {
+      "assessmentId": "66-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1VPexBQPy4JqMEb8Lo4PcUEL6iD4lOlDVLpihp7HCJuM",
+      "driveRelativePath": "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:00.456Z"
+    },
+    {
+      "assessmentId": "66-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1VPexBQPy4JqMEb8Lo4PcUEL6iD4lOlDVLpihp7HCJuM",
+      "driveRelativePath": "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:00.456Z"
+    },
+    {
+      "assessmentId": "66-13-growth-summative-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/6.6 Lesson 13 Assessment Growth Summative Assessment.docx",
+      "driveFileId": "1pnj4qpciIYcJrVs-PG9qQj5qnb_Ox4Mju3v2wrnxFG0",
+      "driveRelativePath": "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Assessment Growth Summative Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:16.746Z"
+    },
+    {
+      "assessmentId": "66-13-growth-summative-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1aopU-WBbGZxq_LqN7yFvCbXusl2w5aZW2gKVBSGz2P8",
+      "driveRelativePath": "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:35.629Z"
+    },
+    {
+      "assessmentId": "66-13-growth-summative-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_13/original/6.6 Lesson 13 Answer Key Scoring Guidance Growth.docx",
+      "driveFileId": "1XR2h_KNXnze76KOfkJUdxJ8flel5Fgt6XEvIVxfO5-A",
+      "driveRelativePath": "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Answer Key Scoring Guidance Growth",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:12.478Z"
+    },
+    {
+      "assessmentId": "66-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1aopU-WBbGZxq_LqN7yFvCbXusl2w5aZW2gKVBSGz2P8",
+      "driveRelativePath": "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:35.629Z"
+    },
+    {
+      "assessmentId": "66-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1FgP9Rb9XsU65N1VjINbZOoQrmhi4kZr5jsIvY_3esEI",
+      "driveRelativePath": "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:23.598Z"
+    },
+    {
+      "assessmentId": "66-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1FgP9Rb9XsU65N1VjINbZOoQrmhi4kZr5jsIvY_3esEI",
+      "driveRelativePath": "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:23.598Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/6.6 Cells & Systems Unit Overview Materials.docx",
+      "driveFileId": "1erv9DV52Nuq95KH1xE6_XcEdRBBUgGkdu_x76mGnhCE",
+      "driveRelativePath": "6.6 Cells & Systems Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-13T20:41:03.767Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/6.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "19IJ5yAP-awLYZkjV4Xvx7qjux1FrdrfkUmf2zaRAgh0",
+      "driveRelativePath": "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:27.228Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/6.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1a7juKQSDEKBu9qou_ncJeEApZ4bM9NK38uhd3CE2A7A",
+      "driveRelativePath": "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:58.995Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/6.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1_BFhPjmqvg21723vWzKdk2SxhU3Oiu28S437NbjHRWM",
+      "driveRelativePath": "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:16.887Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/6.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "14Y9P-SCIEBj5cvA3ZqmJWgdjf4-gDB1N9oFhQ4XePSM",
+      "driveRelativePath": "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:30.365Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/6.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1Kh8f9h3-UQBnDJ7CCThCte_2OfGShDZWOeEKYCrc7OY",
+      "driveRelativePath": "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:53.062Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/6.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "12FsxtKHaesQz545FjfDZXlaOz_ojWUE55YY9_QQzD3Y",
+      "driveRelativePath": "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:53:39.622Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/6.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "10sLBlhKL31PbEVi155P9EwyZA0TM8q_F7qYX78r7vs8",
+      "driveRelativePath": "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:54:41.285Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/6.6 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1YtOKkhMvnLZC_1gi_dydDx8ZRWUPM_AKOVW9AFTLzVU",
+      "driveRelativePath": "Lesson 8 - 6.6 Cells & Systems/6.6 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:55:10.097Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/6.6 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1pGyXykpf7uxtxY7IA50hByXsYD-7JwtcGMFtTw2ayKc",
+      "driveRelativePath": "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:55:41.774Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/6.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1PSbTXNri7o2c6QDrtJBMl9LNY7YKEgq3D_xtqtSdoCc",
+      "driveRelativePath": "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:04.194Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/6.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1-RZl21-Otk62-FNncyXPKK8PXpgZ-pQu9dNCstgeX3c",
+      "driveRelativePath": "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:59.884Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/6.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1VPexBQPy4JqMEb8Lo4PcUEL6iD4lOlDVLpihp7HCJuM",
+      "driveRelativePath": "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:00.456Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/6.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1aopU-WBbGZxq_LqN7yFvCbXusl2w5aZW2gKVBSGz2P8",
+      "driveRelativePath": "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:35.629Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/6.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1FgP9Rb9XsU65N1VjINbZOoQrmhi4kZr5jsIvY_3esEI",
+      "driveRelativePath": "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:23.598Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Unit 6.6 Cells Video Links.pdf": {
+      "driveFileId": "1UGMgYz2R3DFQgS6-jQRA9LvaqDuD9hPv",
+      "name": "Unit 6.6 Cells Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:55:49.027Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1srWp8ZXM_hcaV6EAEHB15grYLMNFsxqz",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-13T20:55:48.026Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1U3aQh5RGxnSgOXPEAYxeo0Dd9ZVdwuSZ",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-13T20:55:46.007Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1IrNqgl7i0MRHJ6ebP6g2loSriOpno29l",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-13T20:55:45.055Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1DkP4eD1oAHFtVUUsm2fZH_25IN8u1_or",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-13T20:55:44.055Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1b3bfPOSznWvIZCHgzUwYghLx2HT4lFNL",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-13T20:55:42.502Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Teacher Edition": {
+      "driveFileId": "1pGyXykpf7uxtxY7IA50hByXsYD-7JwtcGMFtTw2ayKc",
+      "name": "6.6 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:55:41.774Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1xEec-2SqzIaARAkY99bOlmn3v0MCrE2U4eYW0Rh385Q",
+      "name": "6.6 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:55:36.864Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Student Procedure": {
+      "driveFileId": "17gP3AU9svMcYnTqCW4c8bUy1D8s2DAj_K7xdGVnUxDQ",
+      "name": "6.6 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-13T20:55:32.851Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Slides": {
+      "driveFileId": "1yIbX3rl2xxdaK69GHC4zjqfIpeQ5HQxMjc5X23dLQww",
+      "name": "6.6 Lesson 9 Slides",
+      "modifiedTime": "2024-08-13T20:55:28.382Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Handout Observations to Evaluate": {
+      "driveFileId": "1K6HkNFxURbSmvx_r0zzaMs3epGb7b5I5hwrhKY7WRyY",
+      "name": "6.6 Lesson 9 Handout Observations to Evaluate",
+      "modifiedTime": "2024-08-13T20:55:23.684Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lesson 9 Handout Microscopic Images of": {
+      "driveFileId": "1PhUKiVP2nObtS8FzF1J8G_3AmFFLVQRu7VgyLFS6GcU",
+      "name": "6.6 Lesson 9 Handout Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:55:21.246Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lección 9 Folleto Observaciones para evaluar": {
+      "driveFileId": "1CowTr9j-0xDjRIEiTbmS4u9dYClb21YQMBoU8YC9r4E",
+      "name": "6.6 Lección 9 Folleto Observaciones para evaluar",
+      "modifiedTime": "2024-08-13T20:55:17.136Z"
+    },
+    "Lesson 9 - 6.6 Cells & Systems/6.6 Lección 9 Folleto Imágenes microscópicas de": {
+      "driveFileId": "1P9brXvB_HBswCSptl5Wkg1_K_vB_5Bhb2JzgIP_qM18",
+      "name": "6.6 Lección 9 Folleto Imágenes microscópicas de",
+      "modifiedTime": "2024-08-13T20:55:14.958Z"
+    },
+    "Lesson 8 - 6.6 Cells & Systems/6.6 Lesson 8 Teacher Edition": {
+      "driveFileId": "1YtOKkhMvnLZC_1gi_dydDx8ZRWUPM_AKOVW9AFTLzVU",
+      "name": "6.6 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:55:10.097Z"
+    },
+    "Lesson 8 - 6.6 Cells & Systems/6.6 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1zXEcdxPEBnoIyGkIStZliwYprO2393Ucn1djp5MIJ1M",
+      "name": "6.6 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:55:05.222Z"
+    },
+    "Lesson 8 - 6.6 Cells & Systems/6.6 Lesson 8 Student Procedure": {
+      "driveFileId": "1-aOqmwm0yNrG8vPrjN3Yc-BM3hQwI-X_J7VxdceCPaQ",
+      "name": "6.6 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-13T20:54:59.307Z"
+    },
+    "Lesson 8 - 6.6 Cells & Systems/6.6 Lesson 8 Slides": {
+      "driveFileId": "1TQXOJRU8nkmvqiBxO1GSHeZ7FaduoQMkocJv4Tt0ErM",
+      "name": "6.6 Lesson 8 Slides",
+      "modifiedTime": "2024-08-13T20:54:55.030Z"
+    },
+    "Lesson 8 - 6.6 Cells & Systems/6.6 Lesson 8 Handout Time-Lapse Video of": {
+      "driveFileId": "1_HCnPyOjakvj_X_QjoaH9kSRUIyUEw3OBwmCBwKTTKk",
+      "name": "6.6 Lesson 8 Handout Time-Lapse Video of",
+      "modifiedTime": "2024-08-13T20:54:49.846Z"
+    },
+    "Lesson 8 - 6.6 Cells & Systems/6.6 Lección 8 Folleto Video de lapso": {
+      "driveFileId": "19VntHregNipgNgnxT8JRhswDnSWq5snNxdfkgQBWp78",
+      "name": "6.6 Lección 8 Folleto Video de lapso",
+      "modifiedTime": "2024-08-13T20:54:45.477Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Teacher Edition": {
+      "driveFileId": "10sLBlhKL31PbEVi155P9EwyZA0TM8q_F7qYX78r7vs8",
+      "name": "6.6 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:54:41.285Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1ZfehaeHI-74PKLmydsMqNVmiV24vKUt6SVLlewNuloI",
+      "name": "6.6 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:54:37.429Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Student Procedure": {
+      "driveFileId": "1n7BR4MpdZtODIyM7qh-8UNVreyv8nVDf5V6L4C-as7Q",
+      "name": "6.6 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T20:54:32.918Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Slides": {
+      "driveFileId": "1uG6R5puS5rctmXTB-8mWdyWk3ZGYk2VnNq7wLaJs5cI",
+      "name": "6.6 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:54:29.584Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Reference Microscopic Images of": {
+      "driveFileId": "162zt_wQR-kyTzO_YGls1oM6OOSuvTR444erqjDP7nrE",
+      "name": "6.6 Lesson 7 Reference Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:54:25.191Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Reference Microscopic Images Various": {
+      "driveFileId": "1hs-oMW-H6w5TTrXBM0Wo30MNA7JSX6BiXQaEEG8Q28k",
+      "name": "6.6 Lesson 7 Reference Microscopic Images Various",
+      "modifiedTime": "2024-08-13T20:54:20.986Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Handout DQB Questions or": {
+      "driveFileId": "1P2bfQd-wkk2C19c0MNW22v3EoQq6zTMf9Q_K9P6bjl8",
+      "name": "6.6 Lesson 7 Handout DQB Questions or",
+      "modifiedTime": "2024-08-13T20:54:16.030Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Assessment Part 2 Are": {
+      "driveFileId": "1rgmuUIxLfRvEOr_fUdB3O9oYp4zp5ZlA-gLOItIpIF8",
+      "name": "6.6 Lesson 7 Assessment Part 2 Are",
+      "modifiedTime": "2024-08-13T20:54:12.772Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Assessment Part 1 Are": {
+      "driveFileId": "1Q-SjD7Dg2oN409JkBePKeQ4hs1ju_tJAu9deyNYSxqk",
+      "name": "6.6 Lesson 7 Assessment Part 1 Are",
+      "modifiedTime": "2024-08-13T20:54:08.591Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lesson 7 Answer Key Key Are Other": {
+      "driveFileId": "1ga5TRC8UANSr534WOUW8U5XZ1W2tQAlE8sKWKpU66nM",
+      "name": "6.6 Lesson 7 Answer Key Key Are Other",
+      "modifiedTime": "2024-08-13T20:54:04.807Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lección 7 Referencia Imágenes microscópicas de": {
+      "driveFileId": "1oYCqVCjX-yy2D6x5Sdf-Z_SE9jssXfSCjFxH2Y8SaqM",
+      "name": "6.6 Lección 7 Referencia Imágenes microscópicas de",
+      "modifiedTime": "2024-08-13T20:54:01.102Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lección 7 Folleto Preguntas o partes": {
+      "driveFileId": "1mDF0FXmt3ahrJ_66ep6ZQCHBe2dDrp4MCRzhN2etyvo",
+      "name": "6.6 Lección 7 Folleto Preguntas o partes",
+      "modifiedTime": "2024-08-13T20:53:55.300Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lección 7 Evaluación Parte 2 ¿Otras": {
+      "driveFileId": "1F5NTjEIjdpvyNRylthAUC9I7Wqqh4Mexdmq5eFs1iYs",
+      "name": "6.6 Lección 7 Evaluación Parte 2 ¿Otras",
+      "modifiedTime": "2024-08-13T20:53:52.757Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lección 7 Evaluación Parte 1 ¿Otras": {
+      "driveFileId": "1omvMwsi01eGLt7pXNHgA50NsOzUCaajujwtI-sSwdzs",
+      "name": "6.6 Lección 7 Evaluación Parte 1 ¿Otras",
+      "modifiedTime": "2024-08-13T20:53:48.380Z"
+    },
+    "Lesson 7 - 6.6 Cells & Systems/6.6 Lección 7 Evaluación Parte 1 ¿Están": {
+      "driveFileId": "1fAIHZRvQFbObykyVKvRc92xu4MwpdmyraeNAvcKmIYQ",
+      "name": "6.6 Lección 7 Evaluación Parte 1 ¿Están",
+      "modifiedTime": "2024-08-13T20:53:44.418Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Teacher Edition": {
+      "driveFileId": "12FsxtKHaesQz545FjfDZXlaOz_ojWUE55YY9_QQzD3Y",
+      "name": "6.6 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:53:39.622Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1Hx2IRvw_ZzbgGvsgra6lt3ROaAN3JFfBkRydmuyoTVw",
+      "name": "6.6 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:53:34.560Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Student Procedure": {
+      "driveFileId": "1d980PBfGiOmrL8BPoTGcdPCnjWG4_5mS9L6wkBfries",
+      "name": "6.6 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:53:31.190Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Slides": {
+      "driveFileId": "1J61yLWSsPKyP3HYIT4f83aRNFoPdMZ2MddzfZ7qfOsM",
+      "name": "6.6 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:53:27.170Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Reference Microscopic Images of": {
+      "driveFileId": "1UJjSz_wqcRCs_meLgXls8V6fXrqDCAi434ZAMCOu3fE",
+      "name": "6.6 Lesson 6 Reference Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:53:23.315Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Reference Microscopic Images Muscle,": {
+      "driveFileId": "1jc-DXAD7kgFBIIZKlRev2HzqeKRoCvlWC8ZBlNLBRhE",
+      "name": "6.6 Lesson 6 Reference Microscopic Images Muscle,",
+      "modifiedTime": "2024-08-13T20:53:19.060Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lesson 6 Handout Investigating Skin, Bone,": {
+      "driveFileId": "1s3mEmagRkekuz1_ORSsPkZKnXUU_rdwU5c9Fl2l8e6E",
+      "name": "6.6 Lesson 6 Handout Investigating Skin, Bone,",
+      "modifiedTime": "2024-08-13T20:53:15.512Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lección 6 Referencia Microscopic Images of": {
+      "driveFileId": "14JWDqR0166qsHehoDDMKRxNKh1NaWQi0IffIhBkQw_8",
+      "name": "6.6 Lección 6 Referencia Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:53:12.420Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lección 6 Referencia Imágenes microscópicas de": {
+      "driveFileId": "1Y4ZrWkRa-ZweouKxhMpg2FAHsx5JysbC9AzJCbghsdo",
+      "name": "6.6 Lección 6 Referencia Imágenes microscópicas de",
+      "modifiedTime": "2024-08-13T20:53:08.247Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lección 6 Folleto Investigating Skin, Bone,": {
+      "driveFileId": "1ilG6Km7ff_N_ICqc3aIZtrZfJvMUc1T4dAwE3zcOTB0",
+      "name": "6.6 Lección 6 Folleto Investigating Skin, Bone,",
+      "modifiedTime": "2024-08-13T20:53:03.194Z"
+    },
+    "Lesson 6 - 6.6 Cells & Systems/6.6 Lección 6 Folleto Investigando la piel,": {
+      "driveFileId": "1Hk3CFdRTj7Oc_jfftEZDXstEU70FCnoy7z6WGESdXD0",
+      "name": "6.6 Lección 6 Folleto Investigando la piel,",
+      "modifiedTime": "2024-08-13T20:53:00.229Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Teacher Reference Nerve System Image": {
+      "driveFileId": "1atoRhpszz0_lCImYqDPhURWJLNRotR-PeapkVPS9UMA",
+      "name": "6.6 Lesson 5 Teacher Reference Nerve System Image",
+      "modifiedTime": "2024-08-13T20:52:56.454Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Teacher Edition": {
+      "driveFileId": "1Kh8f9h3-UQBnDJ7CCThCte_2OfGShDZWOeEKYCrc7OY",
+      "name": "6.6 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:52:53.062Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1MKtYL1lRw1q-iGQ27cDeekTaInN0wmjHTYnhgXiw0vE",
+      "name": "6.6 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:52:44.492Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Student Procedure": {
+      "driveFileId": "1CnnNKh2wqEIkSgh4k6SIIdXW7lU-YHU1IkVJA0FsPsk",
+      "name": "6.6 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:52:43.090Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Slides": {
+      "driveFileId": "1glE-pRj1Rb5ShtmY9rzZSDUG1eNwmnI0eKJB3xZAayE",
+      "name": "6.6 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:52:40.025Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Reference Microscopic Images of": {
+      "driveFileId": "1GZOp5L9tMxX5BHfuXL_n-GxkJ2FlSrQk4nsSMnEt0AU",
+      "name": "6.6 Lesson 5 Reference Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:52:35.641Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Reference Microscopic Images Nerves": {
+      "driveFileId": "19EYlz_PbZc-6z9bFzdjFZqDnUwIQzGWBx5bzF14wf68",
+      "name": "6.6 Lesson 5 Reference Microscopic Images Nerves",
+      "modifiedTime": "2024-08-13T20:52:31.480Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Reading The Body’s Nerves": {
+      "driveFileId": "1yMIE68_n2KUUkqUqS-Mww2S6DprAGpVsWNdFYQ9jOF8",
+      "name": "6.6 Lesson 5 Reading The Body’s Nerves",
+      "modifiedTime": "2024-08-13T20:52:26.514Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Handout Reading The Body’s": {
+      "driveFileId": "1hMNC0cfG2rxyt3ibsgIa_RpRBkJuHBEyVr2yCS7RYL8",
+      "name": "6.6 Lesson 5 Handout Reading The Body’s",
+      "modifiedTime": "2024-08-13T20:52:22.010Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Handout Obtaining Information from": {
+      "driveFileId": "1QwNXiwixSbxO64DLXDEskSJtBAPZvPrzElXZtWZieSM",
+      "name": "6.6 Lesson 5 Handout Obtaining Information from",
+      "modifiedTime": "2024-08-13T20:52:18.491Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Handout Microscopic Images of": {
+      "driveFileId": "1DVejxkL9XreuoRQMmPox-7n8b7uMn_Ekzi-r82ICXh0",
+      "name": "6.6 Lesson 5 Handout Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:52:16.222Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lesson 5 Handout Microscopic Images Nerves": {
+      "driveFileId": "1ycIlMR1A6jm4BDhBp6yhvK2CGjwW3Vr2J1wif8KFE78",
+      "name": "6.6 Lesson 5 Handout Microscopic Images Nerves",
+      "modifiedTime": "2024-08-13T20:52:10.784Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Referencia Microscopic Images of": {
+      "driveFileId": "1HOefHQozoAZ9No4ALgeIaO41I0pRk2a3HthMzWwutjk",
+      "name": "6.6 Lección 5 Referencia Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:52:07.635Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Referencia Imágenes microscópicas de": {
+      "driveFileId": "1TvFbIx3xlOIrMGqEjR5IXcJDglS6o0IM8up36nfqTxI",
+      "name": "6.6 Lección 5 Referencia Imágenes microscópicas de",
+      "modifiedTime": "2024-08-13T20:52:03.738Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Lectura The Body’s Nerves": {
+      "driveFileId": "1AQQozuOfOBpWH1JBEZl-PDfrWrqS0kj2TNQ2x6_dWbE",
+      "name": "6.6 Lección 5 Lectura The Body’s Nerves",
+      "modifiedTime": "2024-08-13T20:52:00.064Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Lectura Los nervios del": {
+      "driveFileId": "1kd0366ocMElDQAqFiDKE7SgEhWJQq1P-fTUtl6hse8w",
+      "name": "6.6 Lección 5 Lectura Los nervios del",
+      "modifiedTime": "2024-08-13T20:51:55.347Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Folleto Obtener información de": {
+      "driveFileId": "1cB_WXVt1EuHaOwTbrBIkMzlLnFswnSBv4gARl5IDUbc",
+      "name": "6.6 Lección 5 Folleto Obtener información de",
+      "modifiedTime": "2024-08-13T20:51:50.873Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Folleto Obtaining Information from": {
+      "driveFileId": "1t26kc9L7UKdPwY5gpLJgBYIH9acT2RsfZCJOoXPBOjA",
+      "name": "6.6 Lección 5 Folleto Obtaining Information from",
+      "modifiedTime": "2024-08-13T20:51:47.762Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Folleto Lectura El sistema": {
+      "driveFileId": "1MDLhZhCEtgSG3wvZ25ardUV_UgmUQ2Vyg-HBdMjuE-c",
+      "name": "6.6 Lección 5 Folleto Lectura El sistema",
+      "modifiedTime": "2024-08-13T20:51:44.716Z"
+    },
+    "Lesson 5 - 6.6 Cells & Systems/6.6 Lección 5 Folleto Imágenes microscópicas de": {
+      "driveFileId": "1532PVb3hd920JT6cR_7i54oNvLHHP0m8vwVFaBXc3Vc",
+      "name": "6.6 Lección 5 Folleto Imágenes microscópicas de",
+      "modifiedTime": "2024-08-13T20:51:40.711Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Teacher Reference Blood System Image": {
+      "driveFileId": "1feX_KOFLiKr02sxnfhVS1KWoRONvWqLDTvSoYrB9C4M",
+      "name": "6.6 Lesson 4 Teacher Reference Blood System Image",
+      "modifiedTime": "2024-08-13T20:51:35.451Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Teacher Edition": {
+      "driveFileId": "14Y9P-SCIEBj5cvA3ZqmJWgdjf4-gDB1N9oFhQ4XePSM",
+      "name": "6.6 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:51:30.365Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1RdWTxfThG2pQs5RmNjRZslJR2zTsV0KarcmFUXcCwJg",
+      "name": "6.6 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:51:25.459Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Student Procedure": {
+      "driveFileId": "1UtVaoBNN4_WNDQbIBA8PXc4bK73GiF3mvYotZZoFbDM",
+      "name": "6.6 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:51:21.107Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Slides": {
+      "driveFileId": "1ccHKPQo4xIzRom7nZAuQn7N96tDmyvVf1c3fQ83IZDk",
+      "name": "6.6 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:51:16.489Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Reference Procedures for Investigating": {
+      "driveFileId": "1yU5gJGJSVMISEIalX1JEDgrJdO1RcKIu6j7CKGGfgZw",
+      "name": "6.6 Lesson 4 Reference Procedures for Investigating",
+      "modifiedTime": "2024-08-13T20:51:11.130Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Reference Microscopic Images of": {
+      "driveFileId": "1QJQOkYM2izvkOC_jeCckf-Qw-d3Rd9IGysJfFGkeSD0",
+      "name": "6.6 Lesson 4 Reference Microscopic Images of",
+      "modifiedTime": "2024-08-13T20:51:08.868Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Reference Microscopic Images Human": {
+      "driveFileId": "1VCIy4zbxz6E2W09b_R6MLegIuPVB9Ij0XYJrxfabrYI",
+      "name": "6.6 Lesson 4 Reference Microscopic Images Human",
+      "modifiedTime": "2024-08-13T20:51:05.296Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Reference Microscopic Images Animal": {
+      "driveFileId": "1KV0TN-MoKO1TE_9eQEefXH69h8eU87yIX-QQjBeyPM4",
+      "name": "6.6 Lesson 4 Reference Microscopic Images Animal",
+      "modifiedTime": "2024-08-13T20:51:01.814Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Reading What Is Blood": {
+      "driveFileId": "1cJj_VvJzpvR-Wf0i7USwuVlzacNeD-Ls1jcto-ygrso",
+      "name": "6.6 Lesson 4 Reading What Is Blood",
+      "modifiedTime": "2024-08-13T20:50:58.017Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Handout mm Graph Paper": {
+      "driveFileId": "1D0oKb8axQkbREDaer-ft4fOlUt9zYRwZKd0FA30B3SU",
+      "name": "6.6 Lesson 4 Handout mm Graph Paper",
+      "modifiedTime": "2024-08-13T20:50:54.712Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Handout Reading What Is": {
+      "driveFileId": "1kLLmKSIIuph4ZLmeT9JVm5jOUt4r8b0PWgdgKcc-8iQ",
+      "name": "6.6 Lesson 4 Handout Reading What Is",
+      "modifiedTime": "2024-08-13T20:50:50.291Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Handout Papel cuadriculado de": {
+      "driveFileId": "1pXz7hXyOWdA8_Vz-HUJOzm2aXoFt7iDhyFk0JY4KiXI",
+      "name": "6.6 Lesson 4 Handout Papel cuadriculado de",
+      "modifiedTime": "2024-08-13T20:50:46.207Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lesson 4 Handout Guidance for Reading": {
+      "driveFileId": "1TSe-QXlKIfSu9zR-y1EmVyBVMISVVKnhiGbtRuKdJ94",
+      "name": "6.6 Lesson 4 Handout Guidance for Reading",
+      "modifiedTime": "2024-08-13T20:50:41.930Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lección 4 Referencia Procedimientos para investigar": {
+      "driveFileId": "1Fk2x-wo2tuVinLK2b_ZE6jGKAmpHO2-Hm15ZmGTbusc",
+      "name": "6.6 Lección 4 Referencia Procedimientos para investigar",
+      "modifiedTime": "2024-08-13T20:50:36.037Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lección 4 Referencia Imágenes microscópicas de": {
+      "driveFileId": "1HsRK9qtXnTv9QsOUQAg4BpaC7pQsqXof65StWYf6DKY",
+      "name": "6.6 Lección 4 Referencia Imágenes microscópicas de",
+      "modifiedTime": "2024-08-13T20:50:32.396Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lección 4 Lectura ¿Qué es la": {
+      "driveFileId": "1_-lWLRgandFX7YZYZN1KKQsBCnoniNv6M3s3F5NACTc",
+      "name": "6.6 Lección 4 Lectura ¿Qué es la",
+      "modifiedTime": "2024-08-13T20:50:28.199Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lección 4 Folleto Lectura ¿Qué es": {
+      "driveFileId": "1thdKPDlUd239ecCZHQnpJ1puMx4YWAITDM-w2RyexB0",
+      "name": "6.6 Lección 4 Folleto Lectura ¿Qué es",
+      "modifiedTime": "2024-08-13T20:50:24.554Z"
+    },
+    "Lesson 4 - 6.6 Cells & Systems/6.6 Lección 4 Folleto Guía para lectura": {
+      "driveFileId": "1qkTIaoqR0LOMP4wQ91a_vYXGPU7DzsmhqGPsyoebMC0",
+      "name": "6.6 Lección 4 Folleto Guía para lectura",
+      "modifiedTime": "2024-08-13T20:50:20.832Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Teacher Edition": {
+      "driveFileId": "1_BFhPjmqvg21723vWzKdk2SxhU3Oiu28S437NbjHRWM",
+      "name": "6.6 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:50:16.887Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "11-ypdYyCv09zdP1GW4_v6C7w370FK7WKU2uY5PbALzc",
+      "name": "6.6 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:50:13.141Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Student Procedure": {
+      "driveFileId": "1Hpo6OVxpbco734qL89cwWXWuKhEi5V5WbTD8CtP-h2M",
+      "name": "6.6 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:50:10.132Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Slides": {
+      "driveFileId": "11S2SxQJHIlJxNmJDn8RvmGJosY6yex9ATEiX3sIV5uM",
+      "name": "6.6 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:50:06.600Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Reference Interpreting MRI": {
+      "driveFileId": "1DUJHE8grnlKTL6H8GAUD_KD594a95dwBKPZVqkyjbTg",
+      "name": "6.6 Lesson 3 Reference Interpreting MRI",
+      "modifiedTime": "2024-08-13T20:50:01.305Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Reference Close-up Diagrams of": {
+      "driveFileId": "1IyBrEHhMQaiNDfjcbi3BYMlnCPx3wLtN86nwcoZDHWQ",
+      "name": "6.6 Lesson 3 Reference Close-up Diagrams of",
+      "modifiedTime": "2024-08-13T20:49:57.296Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Reference A Medical Professional’s": {
+      "driveFileId": "12EATwE5n3diypxAjrv3-rrcrx0734y1KTyGvrNFpqqs",
+      "name": "6.6 Lesson 3 Reference A Medical Professional’s",
+      "modifiedTime": "2024-08-13T20:49:53.241Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Handout Reference Interpreting MRI": {
+      "driveFileId": "1Lkeq6VEFbTa2xQ2qreIzkgW4-h9ky4SyqxpRukYsY1w",
+      "name": "6.6 Lesson 3 Handout Reference Interpreting MRI",
+      "modifiedTime": "2024-08-13T20:49:48.818Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Handout Reference Close-Up Diagrams": {
+      "driveFileId": "1qrkXguSBYud4GHnWe3tZuRBaA5aDshbcm2xhj6DApuM",
+      "name": "6.6 Lesson 3 Handout Reference Close-Up Diagrams",
+      "modifiedTime": "2024-08-13T20:49:45.509Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lesson 3 Handout Reference A Medical": {
+      "driveFileId": "1q8I8s_wMESffuIG2C1r2UhusSQNz7kR47PCNQkRXufI",
+      "name": "6.6 Lesson 3 Handout Reference A Medical",
+      "modifiedTime": "2024-08-13T20:49:41.974Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lección 3 Referencia Vistas ampliadas de": {
+      "driveFileId": "1GdW9wtkwU3PF0WMDn_BoKxNK0H6Jul0W7Pc2brsuhIQ",
+      "name": "6.6 Lección 3 Referencia Vistas ampliadas de",
+      "modifiedTime": "2024-08-13T20:49:38.086Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lección 3 Referencia La visión de": {
+      "driveFileId": "1vn0DHzX9vwsg5It0koLuaSifu7rNXglKl01tknaHGko",
+      "name": "6.6 Lección 3 Referencia La visión de",
+      "modifiedTime": "2024-08-13T20:49:33.783Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lección 3 Referencia Interpretar imágenes de": {
+      "driveFileId": "1so0sL3PVAN_gz8lta0Q1SqZVUdgn3cy-zCTurtNhQ9I",
+      "name": "6.6 Lección 3 Referencia Interpretar imágenes de",
+      "modifiedTime": "2024-08-13T20:49:28.980Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lección 3 Folleto Referencia Vistas ampliadas": {
+      "driveFileId": "1ITZXv4XrAy9E4P_X7f02iIAjB612lBftwZxqLXLXY18",
+      "name": "6.6 Lección 3 Folleto Referencia Vistas ampliadas",
+      "modifiedTime": "2024-08-13T20:49:25.145Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lección 3 Folleto Referencia La visión": {
+      "driveFileId": "1OEAJEqrl1b_QLxBEiKpb_d-4j38Elr9BW1Xykd4L-iQ",
+      "name": "6.6 Lección 3 Folleto Referencia La visión",
+      "modifiedTime": "2024-08-13T20:49:21.240Z"
+    },
+    "Lesson 3 - 6.6 Cells & Systems/6.6 Lección 3 Folleto Referencia Interpretar imágenes": {
+      "driveFileId": "1LmXloviDEa_BavaTvY8t8Kyh7UDMiM6J8Pr4JJj2f_Q",
+      "name": "6.6 Lección 3 Folleto Referencia Interpretar imágenes",
+      "modifiedTime": "2024-08-13T20:49:17.426Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Reference Teacher Instructions for": {
+      "driveFileId": "19rfLNa0i5UG_T9_a1M9-uRjmAOuPT-jMY0r1wMRLAg8",
+      "name": "6.6 Lesson 2 Teacher Reference Teacher Instructions for",
+      "modifiedTime": "2024-08-13T20:49:11.120Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Reference Development of the": {
+      "driveFileId": "1qb8567pdapD7HBZAtXVgEG0H0YQJ2S0zMO8hHmSYkK4",
+      "name": "6.6 Lesson 2 Teacher Reference Development of the",
+      "modifiedTime": "2024-08-13T20:49:03.990Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Reference Chicken Wing Structures": {
+      "driveFileId": "1pjxgPFULChQPO2ftgLfB09Ty0Wk86qpJDOOlwkvwi-Q",
+      "name": "6.6 Lesson 2 Teacher Reference Chicken Wing Structures",
+      "modifiedTime": "2024-08-13T20:49:03.143Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Teacher Edition": {
+      "driveFileId": "1a7juKQSDEKBu9qou_ncJeEApZ4bM9NK38uhd3CE2A7A",
+      "name": "6.6 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:58.995Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "13WW-GkW7mFE5tk4WgawgO00zAxOg4H4_Hs9yrFPzxpY",
+      "name": "6.6 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:52.155Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Student Procedure": {
+      "driveFileId": "14LSaa-VhUZjZUJ3TAKoGHO8cjDVkgLzbIgCKJ3inkKY",
+      "name": "6.6 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:47.907Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Slides": {
+      "driveFileId": "1KpeW1pDvZ55-zYy1zrekxjqIJYiyNntQ8lIDED6FbJw",
+      "name": "6.6 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:48:43.712Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Handout Skin, Muscle, and": {
+      "driveFileId": "1q90Trre3_VN3QvU20r4SbvtGxrXIwNzXW6kdr5M8Nws",
+      "name": "6.6 Lesson 2 Handout Skin, Muscle, and",
+      "modifiedTime": "2024-08-13T20:48:38.468Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lesson 2 Handout Mapping the Chicken": {
+      "driveFileId": "1jQPAdGjvDk82s21A7oCsWw26a-0lCADcTknGuvIjukI",
+      "name": "6.6 Lesson 2 Handout Mapping the Chicken",
+      "modifiedTime": "2024-08-13T20:48:33.884Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lección 2 Folleto Sistemas de piel,": {
+      "driveFileId": "17txsbLldV8T8a9YfA9D4ZW5AK2uRVCzyndv2BWOom-M",
+      "name": "6.6 Lección 2 Folleto Sistemas de piel,",
+      "modifiedTime": "2024-08-13T20:48:31.318Z"
+    },
+    "Lesson 2 - 6.6 Cells & Systems/6.6 Lección 2 Folleto Mapear el ala": {
+      "driveFileId": "1I-lQOXHnTp_cpesl_p0lxvHcloLh-Xvj6JpcUgSgGvQ",
+      "name": "6.6 Lección 2 Folleto Mapear el ala",
+      "modifiedTime": "2024-08-13T20:48:27.142Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Teacher Edition": {
+      "driveFileId": "1FgP9Rb9XsU65N1VjINbZOoQrmhi4kZr5jsIvY_3esEI",
+      "name": "6.6 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:23.598Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "16CCbi6OwPokCvyLEU-gnTG-XkB9PW11pawLAa6PrY80",
+      "name": "6.6 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:19.242Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Student Procedure": {
+      "driveFileId": "1bTf_cURWU2qBmxJlzpfEl9gJZnLly9ZYJfAS_lFvJA8",
+      "name": "6.6 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:15.341Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Slides": {
+      "driveFileId": "1oOR3OWxlfnq61ombKgwzQdu1A2Ti-_tvf6fDG17ns6Q",
+      "name": "6.6 Lesson 14 Slides",
+      "modifiedTime": "2024-08-13T20:48:12.018Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Handout Wheelchair Icons": {
+      "driveFileId": "1ma5sWdmiJC85FmeF9BQxqDo08fQbx7_CnY7Jywi2Uco",
+      "name": "6.6 Lesson 14 Handout Wheelchair Icons",
+      "modifiedTime": "2024-08-13T20:48:07.705Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Handout Transcript of Sinéad": {
+      "driveFileId": "1h6Wx46011Y8ZZdps_W16pwKQqlxh0g6anYVUOVAupqk",
+      "name": "6.6 Lesson 14 Handout Transcript of Sinéad",
+      "modifiedTime": "2024-08-13T20:48:03.811Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Handout Transcript of Rosie": {
+      "driveFileId": "1zM33yF88kpqiyZwaroC_NtTkvIrAh1e1IBdV3PdcWA8",
+      "name": "6.6 Lesson 14 Handout Transcript of Rosie",
+      "modifiedTime": "2024-08-13T20:48:00.347Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Handout Transcript Wheelchair Basketball": {
+      "driveFileId": "1dgzSoU_8kH45XxTmtYOJs1nm178dUBunqHnn517tdLQ",
+      "name": "6.6 Lesson 14 Handout Transcript Wheelchair Basketball",
+      "modifiedTime": "2024-08-13T20:47:57.474Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Handout Transcript Interview with": {
+      "driveFileId": "1hO_JHWOTTUZt7wSRlURV5puUsTHyDB5CFpPBRLMpHGA",
+      "name": "6.6 Lesson 14 Handout Transcript Interview with",
+      "modifiedTime": "2024-08-13T20:47:54.528Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lesson 14 Handout Sinéad Burke’s TED": {
+      "driveFileId": "1yBepxg3SmLHgFOrkwKdD0_1EtAnELn4qPRwcCCoTnOY",
+      "name": "6.6 Lesson 14 Handout Sinéad Burke’s TED",
+      "modifiedTime": "2024-08-13T20:47:51.345Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lección 14 Folleto Íconos de silla": {
+      "driveFileId": "1oH25GKaAtPC4tBr3WAieeQBR-fLy_xZYM6Fn0lT6awQ",
+      "name": "6.6 Lección 14 Folleto Íconos de silla",
+      "modifiedTime": "2024-08-13T20:47:49.301Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lección 14 Folleto Transcripción Entrevista con": {
+      "driveFileId": "1bs_H-s8zs358SxA4W6AdT8x7pt5eUrxFC9vxCvjCyvw",
+      "name": "6.6 Lección 14 Folleto Transcripción Entrevista con",
+      "modifiedTime": "2024-08-13T20:47:44.405Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lección 14 Folleto Transcripción Baloncesto en": {
+      "driveFileId": "1HrKLyqLH5Nd_AM77CctME3u-ZgTiv1kAakc9GQXXOnM",
+      "name": "6.6 Lección 14 Folleto Transcripción Baloncesto en",
+      "modifiedTime": "2024-08-13T20:47:41.568Z"
+    },
+    "Lesson 14 - 6.6 Cells & Systems/6.6 Lección 14 Folleto Charla TED de": {
+      "driveFileId": "1asx4AgqPIWPOCHUIvPWQ3GLj-TGM422S5Ov5XTp6NBM",
+      "name": "6.6 Lección 14 Folleto Charla TED de",
+      "modifiedTime": "2024-08-13T20:47:38.656Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Teacher Edition": {
+      "driveFileId": "1aopU-WBbGZxq_LqN7yFvCbXusl2w5aZW2gKVBSGz2P8",
+      "name": "6.6 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:35.629Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1I8Ob5lhNBAnmqW4Jvok8k4tQnr6eVHTduVSuhIDCQio",
+      "name": "6.6 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:31.949Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Student Procedure": {
+      "driveFileId": "1ERX2MR5hxOSLYzCDFLMcgtyHyY_p6Lx44gDb_enKTeA",
+      "name": "6.6 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:27.766Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Slides": {
+      "driveFileId": "166WH6fgXhcmDO_h7dhZrUzhyKgqVYo5ZUIQF7cqt1tc",
+      "name": "6.6 Lesson 13 Slides",
+      "modifiedTime": "2024-08-13T20:47:23.799Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Handout Home Learning How": {
+      "driveFileId": "1SiKS6dSL7PNgUVFxWh-yTT6CHGpl4PrIIRXxC7UsdfQ",
+      "name": "6.6 Lesson 13 Handout Home Learning How",
+      "modifiedTime": "2024-08-13T20:47:19.178Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Assessment Growth Summative Assessment": {
+      "driveFileId": "1pnj4qpciIYcJrVs-PG9qQj5qnb_Ox4Mju3v2wrnxFG0",
+      "name": "6.6 Lesson 13 Assessment Growth Summative Assessment",
+      "modifiedTime": "2024-08-13T20:47:16.746Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lesson 13 Answer Key Scoring Guidance Growth": {
+      "driveFileId": "1XR2h_KNXnze76KOfkJUdxJ8flel5Fgt6XEvIVxfO5-A",
+      "name": "6.6 Lesson 13 Answer Key Scoring Guidance Growth",
+      "modifiedTime": "2024-08-13T20:47:12.478Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lección 13 Folleto Aprendizaje en el": {
+      "driveFileId": "1zZwHCXyDue94qWaB3Rwh63WByqIMUB7cOJ77MBF_rWQ",
+      "name": "6.6 Lección 13 Folleto Aprendizaje en el",
+      "modifiedTime": "2024-08-13T20:47:08.119Z"
+    },
+    "Lesson 13 - 6.6 Cells & Systems/6.6 Lección 13 Evaluación Evaluación sumativa de": {
+      "driveFileId": "1-RKY9cFFgL4j7Pef4AT7-qNCYUc9tlJlkJmwixVju0k",
+      "name": "6.6 Lección 13 Evaluación Evaluación sumativa de",
+      "modifiedTime": "2024-08-13T20:47:05.352Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Teacher Edition": {
+      "driveFileId": "1VPexBQPy4JqMEb8Lo4PcUEL6iD4lOlDVLpihp7HCJuM",
+      "name": "6.6 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:00.456Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "10tXFW-IJZaw2ochMg8rXrHWVqtRJkZ-OzY7VbyCpdn8",
+      "name": "6.6 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:46:56.142Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Student Procedure": {
+      "driveFileId": "1hOOExIB6VEs0q2P69MmmopzSsyIXNVS1livL5lQoOxE",
+      "name": "6.6 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:52.621Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Slides": {
+      "driveFileId": "1a6r8yaNcjM62vxEpdlV35gAkpan4LCQkT9Kr5PShJRs",
+      "name": "6.6 Lesson 12 Slides",
+      "modifiedTime": "2024-08-13T20:46:47.399Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Reference Doctor Report re": {
+      "driveFileId": "1SHgOlPpOVYlpjJhNdGwGS1caKQXcHmjGAqD17X3qdSE",
+      "name": "6.6 Lesson 12 Reference Doctor Report re",
+      "modifiedTime": "2024-08-13T20:46:43.479Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Handout Lizard and Sea": {
+      "driveFileId": "1yGXSMlUH3ugvaUHVts7nhwpZu9s8G3YkuOWEyeBwimE",
+      "name": "6.6 Lesson 12 Handout Lizard and Sea",
+      "modifiedTime": "2024-08-13T20:46:41.012Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Handout Images of Swelling": {
+      "driveFileId": "1T3fT40PgOJK970HOfhzf9Pc5L9Hlu6g1k6RC3W4wgBo",
+      "name": "6.6 Lesson 12 Handout Images of Swelling",
+      "modifiedTime": "2024-08-13T20:46:36.432Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Handout How Healing Happened": {
+      "driveFileId": "1MxMMbWSf1pFMql-tA60LRt962ZB8vyLW28Xvxp8qRVs",
+      "name": "6.6 Lesson 12 Handout How Healing Happened",
+      "modifiedTime": "2024-08-13T20:46:32.401Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Assessment How do the": {
+      "driveFileId": "11Roy71xslY6p5ETv8NL2_RPl2RoWL6bxyuhjUj9B-fU",
+      "name": "6.6 Lesson 12 Assessment How do the",
+      "modifiedTime": "2024-08-13T20:46:29.995Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Answer Key Sample Responses for": {
+      "driveFileId": "1vp_t1lAEk0Ruu_SBPD3EQUOFuiMmL7TftTQXQBtXYpE",
+      "name": "6.6 Lesson 12 Answer Key Sample Responses for",
+      "modifiedTime": "2024-08-13T20:46:26.905Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lesson 12 Answer Key Key How do": {
+      "driveFileId": "1CIGPDOGRL7kQ5P0Z8fe2G4CfHxXrq15Y5hi7RYzlGjo",
+      "name": "6.6 Lesson 12 Answer Key Key How do",
+      "modifiedTime": "2024-08-13T20:46:24.532Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lección 12 Referencia Informe médico re": {
+      "driveFileId": "1aEN8lXJ_WIPbm41VZFbY1RU-j5jvXLRGX_zPEu43t1s",
+      "name": "6.6 Lección 12 Referencia Informe médico re",
+      "modifiedTime": "2024-08-13T20:46:22.007Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lección 12 Folleto Imágenes de hinchazón": {
+      "driveFileId": "1TZ5i6ylOOCX-wEN2NVSal4aUCSCOBRMV5hw_fZBnnFQ",
+      "name": "6.6 Lección 12 Folleto Imágenes de hinchazón",
+      "modifiedTime": "2024-08-13T20:46:18.883Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lección 12 Folleto Gráfico de Cómo": {
+      "driveFileId": "1Ae60tzvMw4N-CNaWczcJzPlkveo2RlobUmRFWiMxWNw",
+      "name": "6.6 Lección 12 Folleto Gráfico de Cómo",
+      "modifiedTime": "2024-08-13T20:46:15.492Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lección 12 Folleto Casos de lesiones": {
+      "driveFileId": "10IOSMG62kOFPEza9_R6v_0EbePtaet-dxzoI51-vBfQ",
+      "name": "6.6 Lección 12 Folleto Casos de lesiones",
+      "modifiedTime": "2024-08-13T20:46:13.381Z"
+    },
+    "Lesson 12 - 6.6 Cells & Systems/6.6 Lección 12 Evaluación ¿Cómo interactúan los": {
+      "driveFileId": "1n82um4maJQ_Jgat_UVVmaXu7kSQd2UEmKGqamwBQF-0",
+      "name": "6.6 Lección 12 Evaluación ¿Cómo interactúan los",
+      "modifiedTime": "2024-08-13T20:46:08.118Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Teacher Reference Guidance for Viewing": {
+      "driveFileId": "1KH0k3dGuaUE33UArxMCVqZZ7TRC_L0D1Qoei3801k_0",
+      "name": "6.6 Lesson 11 Teacher Reference Guidance for Viewing",
+      "modifiedTime": "2024-08-13T20:46:03.888Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Teacher Edition": {
+      "driveFileId": "1-RZl21-Otk62-FNncyXPKK8PXpgZ-pQu9dNCstgeX3c",
+      "name": "6.6 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:59.884Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1pV7HYCSarm9-A-bNCiBUIhLIc-LWadNyJGSRqHzg7tQ",
+      "name": "6.6 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:55.010Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Student Procedure": {
+      "driveFileId": "1vLi7-fULlxK5-W_TR0EII3eNALAGg__9t2t7sYJiryU",
+      "name": "6.6 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:50.735Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Slides": {
+      "driveFileId": "1fAeOEFAiPCG_t6nrUD7d8qrMnvZ_XmlLqYXegkbDwbw",
+      "name": "6.6 Lesson 11 Slides",
+      "modifiedTime": "2024-08-13T20:45:47.734Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Reference Reference Red Onion": {
+      "driveFileId": "1t32Y_wnLqlvfpE-2HxhvUgTeq_bK5bqpBG1j3-SgRLI",
+      "name": "6.6 Lesson 11 Reference Reference Red Onion",
+      "modifiedTime": "2024-08-13T20:45:43.743Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Reference Reference Animal and": {
+      "driveFileId": "1AHHeUj6-kJ0UqlC2oT2oFI04paSfn-rgiHKds7QpUR0",
+      "name": "6.6 Lesson 11 Reference Reference Animal and",
+      "modifiedTime": "2024-08-13T20:45:39.768Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Reference Procedure to Investigate": {
+      "driveFileId": "1m5zlabQZsv0LZn4VvSNNpmBGtAmppERNGzQLT-4_sgk",
+      "name": "6.6 Lesson 11 Reference Procedure to Investigate",
+      "modifiedTime": "2024-08-13T20:45:35.942Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Handout Data from Investigating": {
+      "driveFileId": "1pyr6pvkY2E4_l4LKE9hlCC_-rMMamEF2zCRw4SZq53A",
+      "name": "6.6 Lesson 11 Handout Data from Investigating",
+      "modifiedTime": "2024-08-13T20:45:32.285Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Handout Alternate--Preparing Red Onion": {
+      "driveFileId": "1NwVgdxz8xwKwK7XCARLr3ow2j73mz1ecL9Oq2XG2ul8",
+      "name": "6.6 Lesson 11 Handout Alternate--Preparing Red Onion",
+      "modifiedTime": "2024-08-13T20:45:29.378Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lesson 11 Answer Key Data from Investigating": {
+      "driveFileId": "1TiazTJFdE09PYC1ipm8jQIUEbMrKhKf8stVAgWF68Ec",
+      "name": "6.6 Lesson 11 Answer Key Data from Investigating",
+      "modifiedTime": "2024-08-13T20:45:24.903Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lección 11 Referencia Referencia Imágenes de": {
+      "driveFileId": "1rJxBVYslXLjzuAwOo2ztg-GuechZf8YZWl58IgXlqbo",
+      "name": "6.6 Lección 11 Referencia Referencia Imágenes de",
+      "modifiedTime": "2024-08-13T20:45:22.643Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lección 11 Referencia Procedimiento para investigar": {
+      "driveFileId": "18APhL8rGLjFDWBlAcPD5rDlQrwbEek4O-HD-gCqVJ_Q",
+      "name": "6.6 Lección 11 Referencia Procedimiento para investigar",
+      "modifiedTime": "2024-08-13T20:45:19.631Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lección 11 Folleto Datos de la": {
+      "driveFileId": "1HJn3Zs-24UxrWZlBcJOLR9bszYimej4uyidUz-d-nqI",
+      "name": "6.6 Lección 11 Folleto Datos de la",
+      "modifiedTime": "2024-08-13T20:45:15.979Z"
+    },
+    "Lesson 11 - 6.6 Cells & Systems/6.6 Lección 11 Folleto Alternativo--Preparación de portaobjetos": {
+      "driveFileId": "1U9y6aAOt15Du_CkJGEcYVfrjdCikk3574Z7DSh0eeNU",
+      "name": "6.6 Lección 11 Folleto Alternativo--Preparación de portaobjetos",
+      "modifiedTime": "2024-08-13T20:45:13.246Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Teacher Reference Procedure for growing": {
+      "driveFileId": "1xngKGyekppTRAPaqGvQBS_W2KQ7rCJ8KagEh8IaY0mI",
+      "name": "6.6 Lesson 10 Teacher Reference Procedure for growing",
+      "modifiedTime": "2024-08-13T20:45:07.919Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Teacher Edition": {
+      "driveFileId": "1PSbTXNri7o2c6QDrtJBMl9LNY7YKEgq3D_xtqtSdoCc",
+      "name": "6.6 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:04.194Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1etPohB5PVuEReaEVXJXanUXheaEkcrz6TZZQ3i8cP_0",
+      "name": "6.6 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:59.938Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Student Procedure": {
+      "driveFileId": "1EGrrE_1OPh-DERLbCOmDnHCJSuQQ_7VD3gXrok5T9PY",
+      "name": "6.6 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:55.852Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Slides": {
+      "driveFileId": "1CtMnv_CvI5QYEDv8qudSBAmNZU7vGmOYofh6WzI6r3M",
+      "name": "6.6 Lesson 10 Slides",
+      "modifiedTime": "2024-08-13T20:44:52.274Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Reference Secondary Data for": {
+      "driveFileId": "1BoxZVze8RO07hQK6qBsRmmXzTyRuEjFd5ciKPN53m3g",
+      "name": "6.6 Lesson 10 Reference Secondary Data for",
+      "modifiedTime": "2024-08-13T20:44:47.104Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Reference Lifespan of Cells": {
+      "driveFileId": "12uEktBxegIdpmpPev3HpctaJKnwcBJLuN5aqNOqrCfk",
+      "name": "6.6 Lesson 10 Reference Lifespan of Cells",
+      "modifiedTime": "2024-08-13T20:44:42.727Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Reading Yeast Why are": {
+      "driveFileId": "1Q8KraiPiH3pp-alkieaxReyW19w3SSgcxZaQA-khQbA",
+      "name": "6.6 Lesson 10 Reading Yeast Why are",
+      "modifiedTime": "2024-08-13T20:44:39.695Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Reading What Are Bacteria": {
+      "driveFileId": "1id39sddPPHJRSKUXMokxMD6TyGClHtJhFLXLdD_3urU",
+      "name": "6.6 Lesson 10 Reading What Are Bacteria",
+      "modifiedTime": "2024-08-13T20:44:35.151Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Reading Archaea Extreme Living": {
+      "driveFileId": "1r7uNwIrcIxbOPf5NNBKZTR92lMj7nR9hqNH4Akwrjgc",
+      "name": "6.6 Lesson 10 Reading Archaea Extreme Living",
+      "modifiedTime": "2024-08-13T20:44:30.750Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Reading Algae What’s making": {
+      "driveFileId": "1MMw9MfVDBGPLpCD1V5QiJyEWcdpqLEc-sm1R1louUNE",
+      "name": "6.6 Lesson 10 Reading Algae What’s making",
+      "modifiedTime": "2024-08-13T20:44:26.685Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Self-Assessment and Peer": {
+      "driveFileId": "1Haz5JAFkQQV9KXhvZQ0bOViImpDlxk4qizVfPDIlybs",
+      "name": "6.6 Lesson 10 Handout Self-Assessment and Peer",
+      "modifiedTime": "2024-08-13T20:44:23.306Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Reference Secondary Data": {
+      "driveFileId": "1V6fpqtGiTH1YwVkMTp0dZIIAD00uOOCh5MG494XH3qE",
+      "name": "6.6 Lesson 10 Handout Reference Secondary Data",
+      "modifiedTime": "2024-08-13T20:44:18.432Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Reference Lifespan of": {
+      "driveFileId": "1DmkVDwL3zfVsOOZM4lie7DlJ-3xAkhS6sSh_xyMV3yY",
+      "name": "6.6 Lesson 10 Handout Reference Lifespan of",
+      "modifiedTime": "2024-08-13T20:44:14.603Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Reading Yeast": {
+      "driveFileId": "1QdaXL0V1XjwUU2Oyzn8TYFpje1FJ_b93sIT6G-lIvZA",
+      "name": "6.6 Lesson 10 Handout Reading Yeast",
+      "modifiedTime": "2024-08-13T20:44:11.294Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Reading Bacteria": {
+      "driveFileId": "1-ETeY4423vX-KKAzPLhagFpEebg3OIKoObn9LVBR4OE",
+      "name": "6.6 Lesson 10 Handout Reading Bacteria",
+      "modifiedTime": "2024-08-13T20:44:07.048Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Reading Archaea": {
+      "driveFileId": "10cMiOZirj3579Y3IPMzCXtUtP0nnUpgFXpDSZgSdtk8",
+      "name": "6.6 Lesson 10 Handout Reading Archaea",
+      "modifiedTime": "2024-08-13T20:44:02.902Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Reading Algae": {
+      "driveFileId": "1yCdfYgm7xcpmax1HCeX3rCw3yi_E2qjmVYNk9N7rqXE",
+      "name": "6.6 Lesson 10 Handout Reading Algae",
+      "modifiedTime": "2024-08-13T20:43:59.216Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Peer Feedback Guidelines": {
+      "driveFileId": "1BRZTmPEa_2a84bRFFShgJL9WTe6ZnYhxdIV7sq7cZqw",
+      "name": "6.6 Lesson 10 Handout Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-13T20:43:54.934Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Handout Lesson 10 Obtaining": {
+      "driveFileId": "1EmnuzVhc-Ln3TTNx4JYcvFHwMuMiZAq0Ay8UkjY_UPI",
+      "name": "6.6 Lesson 10 Handout Lesson 10 Obtaining",
+      "modifiedTime": "2024-08-13T20:43:52.014Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Assessment What do bacteria": {
+      "driveFileId": "1XrA792EemIYgKOtIDAj7LpJ6eruqC3OElnaW_CrH2a8",
+      "name": "6.6 Lesson 10 Assessment What do bacteria",
+      "modifiedTime": "2024-08-13T20:43:49.518Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lesson 10 Answer Key Key What do": {
+      "driveFileId": "1i7snG2sfw30BQE8VXGbzQamWWEB0W84aoJLukbB_yRc",
+      "name": "6.6 Lesson 10 Answer Key Key What do",
+      "modifiedTime": "2024-08-13T20:43:45.095Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Referencia Vida útil de": {
+      "driveFileId": "19posm9LYnRKcz1TxpDohWf1FCbpxXizlEvAmV8Mrm8M",
+      "name": "6.6 Lección 10 Referencia Vida útil de",
+      "modifiedTime": "2024-08-13T20:43:42.763Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Referencia Datos secundarios para": {
+      "driveFileId": "1TV2DSbI9x7XBDLbwecYNPeM9apcbs6nEc-AP1Vu4Sq4",
+      "name": "6.6 Lección 10 Referencia Datos secundarios para",
+      "modifiedTime": "2024-08-13T20:43:38.739Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Lectura ¿Qué son las": {
+      "driveFileId": "19tCBfjsKgwAZBzCENBN0XGe85imEgNBe1qEwLJyX46k",
+      "name": "6.6 Lección 10 Lectura ¿Qué son las",
+      "modifiedTime": "2024-08-13T20:43:33.446Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Lectura Levadura ¿Por qué": {
+      "driveFileId": "1WRL30F1SNGutbjMZLDNVTlrhRtC6Jhq4SEnjvLdhV98",
+      "name": "6.6 Lección 10 Lectura Levadura ¿Por qué",
+      "modifiedTime": "2024-08-13T20:43:28.834Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Lectura Arquea vida extrema": {
+      "driveFileId": "1nvyFeSH5Ex2nmydUqyKXXro2bBWZ2khBsWKYTWzARgw",
+      "name": "6.6 Lección 10 Lectura Arquea vida extrema",
+      "modifiedTime": "2024-08-13T20:43:25.181Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Lectura Algas ¿Qué hace": {
+      "driveFileId": "1paiRtOCV4bF0BRfrfzLt7kLm-n1sXljtKJ3Qxy6NWaM",
+      "name": "6.6 Lección 10 Lectura Algas ¿Qué hace",
+      "modifiedTime": "2024-08-13T20:43:21.230Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Referencia Vida útil": {
+      "driveFileId": "1KyXmbmuIIP_HPFuS7cVSPwL6KhvvUDwM1R6jwx094vo",
+      "name": "6.6 Lección 10 Folleto Referencia Vida útil",
+      "modifiedTime": "2024-08-13T20:43:15.189Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Referencia Datos secundarios": {
+      "driveFileId": "1MsVA1vs9iLTl5a_KcHc2UdWimzRjgCKp-AYC6p-r504",
+      "name": "6.6 Lección 10 Folleto Referencia Datos secundarios",
+      "modifiedTime": "2024-08-13T20:43:11.833Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Pautas para retroalimentación": {
+      "driveFileId": "1U-B3_6AlabFUBrLGLAMtIPypsI3eU8wFAUBGBQqUju8",
+      "name": "6.6 Lección 10 Folleto Pautas para retroalimentación",
+      "modifiedTime": "2024-08-13T20:43:06.684Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Lectura Levadura": {
+      "driveFileId": "1M-XX8bZYBXkcuoffeS0DguK_6iIquI6GnEc7ihEBjK8",
+      "name": "6.6 Lección 10 Folleto Lectura Levadura",
+      "modifiedTime": "2024-08-13T20:43:03.610Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Lectura Bacteria": {
+      "driveFileId": "1prYiNRqtV8O0aXkOeXdiW_jB0DH-tNKnZUrHrto8r10",
+      "name": "6.6 Lección 10 Folleto Lectura Bacteria",
+      "modifiedTime": "2024-08-13T20:42:58.997Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Lectura Archaea": {
+      "driveFileId": "1TGrBOHhAT0UiOJMUSAWnRFYfcDGOYmEs8rfMGye5CWY",
+      "name": "6.6 Lección 10 Folleto Lectura Archaea",
+      "modifiedTime": "2024-08-13T20:42:55.307Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Lectura Algas": {
+      "driveFileId": "1jMa--V9wuGDU45MqOHt-VWHAxKYCmN8Nfzd2ScHczFs",
+      "name": "6.6 Lección 10 Folleto Lectura Algas",
+      "modifiedTime": "2024-08-13T20:42:51.929Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Lección 10 Obtener": {
+      "driveFileId": "1Oxqd9NDEoirI5mKDmmM3DculvzfAzWYpwNx7ryzDfHM",
+      "name": "6.6 Lección 10 Folleto Lección 10 Obtener",
+      "modifiedTime": "2024-08-13T20:42:47.931Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Folleto Autoevaluación y retroalimentación": {
+      "driveFileId": "1qIZUGTI-AwbJRytdZleXRl_yCbG32xRls8eNxxTYalg",
+      "name": "6.6 Lección 10 Folleto Autoevaluación y retroalimentación",
+      "modifiedTime": "2024-08-13T20:42:44.109Z"
+    },
+    "Lesson 10 - 6.6 Cells & Systems/6.6 Lección 10 Evaluación ¿Qué necesitan las": {
+      "driveFileId": "1-OICsGGal6XuJEfDd85VJZnfwmw_eFPP8Xqg9zkXOX0",
+      "name": "6.6 Lección 10 Evaluación ¿Qué necesitan las",
+      "modifiedTime": "2024-08-13T20:42:40.487Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Reference Printouts of the": {
+      "driveFileId": "1_-Nh6lMxJ5U6-vm-m63BCs6c2-YoXS8pHO2ymgn9EEc",
+      "name": "6.6 Lesson 1 Teacher Reference Printouts of the",
+      "modifiedTime": "2024-08-13T20:42:35.178Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Reference Disability and Inclusion": {
+      "driveFileId": "1EUnD1nHDxdGrGP4syNBOFuSguv24Y8hP_MxmhV7208o",
+      "name": "6.6 Lesson 1 Teacher Reference Disability and Inclusion",
+      "modifiedTime": "2024-08-13T20:42:28.094Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Teacher Edition": {
+      "driveFileId": "19IJ5yAP-awLYZkjV4Xvx7qjux1FrdrfkUmf2zaRAgh0",
+      "name": "6.6 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:42:27.228Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1W5Ex-a1pWwJ43St-BCh8m5o_08E8uOp-9BzPQq6q81U",
+      "name": "6.6 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:42:22.645Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Student Procedure": {
+      "driveFileId": "1OiiQn7S7_O6BAEr9t8zfKYr9r7pHvX2F73zYi2WNqEg",
+      "name": "6.6 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:42:18.787Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Slides": {
+      "driveFileId": "1ZTvTdxxh66wsLwNuVvvsrYQWaQICgiAdVhggrpvXF_g",
+      "name": "6.6 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:42:13.493Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Recovery Reports": {
+      "driveFileId": "11Wb6Xy_amaduI1A3wZIg2qLgRX90hislllyRzGaELGY",
+      "name": "6.6 Lesson 1 Handout Recovery Reports",
+      "modifiedTime": "2024-08-13T20:42:07.589Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Pre-Unit Letter Home": {
+      "driveFileId": "10VpL6RfLyIcCi9lWp85EeIt1B4XXhDsP6uYOO9u_Q38",
+      "name": "6.6 Lesson 1 Handout Pre-Unit Letter Home",
+      "modifiedTime": "2024-08-13T20:42:04.940Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Post-Operation Report": {
+      "driveFileId": "1MrBZsvYYc-fFRNM3WYXbNkol2ESKgCD7JKGJstPTUZY",
+      "name": "6.6 Lesson 1 Handout Post-Operation Report",
+      "modifiedTime": "2024-08-13T20:41:59.387Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Healing Phenomena Stories": {
+      "driveFileId": "1DL8RQjS2xi0UlHjbbXISBzTkGd_PXfDOazH64zvrI7E",
+      "name": "6.6 Lesson 1 Handout Healing Phenomena Stories",
+      "modifiedTime": "2024-08-13T20:41:54.825Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Healing Initial Model": {
+      "driveFileId": "1K4X2_HV3EmuuLL0I8LHbKB4umNnL2kz36hzbrf7eAik",
+      "name": "6.6 Lesson 1 Handout Healing Initial Model",
+      "modifiedTime": "2024-08-13T20:41:51.568Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Evidence for Healing": {
+      "driveFileId": "1shliB8iRCe-vcB7ljB0grl_VqQ9lWmpQLyLeqcbWCW4",
+      "name": "6.6 Lesson 1 Handout Evidence for Healing",
+      "modifiedTime": "2024-08-13T20:41:43.454Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lesson 1 Handout Emergency Room Report": {
+      "driveFileId": "1Zx_9bxdXNzK3ehFqXf5fZj_wyk-jMgfMYjfrcFoO0m0",
+      "name": "6.6 Lesson 1 Handout Emergency Room Report",
+      "modifiedTime": "2024-08-13T20:41:40.576Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lección 1 Folleto Modelo inicial de": {
+      "driveFileId": "1kD9Yx60cltM3_ptA5Jv4K3xyEzpM9cfaN2AvWKTPp6w",
+      "name": "6.6 Lección 1 Folleto Modelo inicial de",
+      "modifiedTime": "2024-08-13T20:41:36.655Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lección 1 Folleto Informes de recuperación": {
+      "driveFileId": "1IgX8AXZpq8Gv8IiwnXzDpVj_d3V0LaHKbZ9s9I-gI2c",
+      "name": "6.6 Lección 1 Folleto Informes de recuperación",
+      "modifiedTime": "2024-08-13T20:41:29.657Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lección 1 Folleto Informe postoperatorio": {
+      "driveFileId": "1p5j1FVLjk_L3yZ3KLqC0J-2yHdLEBIvAY8Ylko6v7q8",
+      "name": "6.6 Lección 1 Folleto Informe postoperatorio",
+      "modifiedTime": "2024-08-13T20:41:28.700Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lección 1 Folleto Informe de sala": {
+      "driveFileId": "1BvBAsc9ku1cqYZmh-du7RdnzsKNX_VLjKLO0CztVXtg",
+      "name": "6.6 Lección 1 Folleto Informe de sala",
+      "modifiedTime": "2024-08-13T20:41:24.840Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lección 1 Folleto Historias de fenómenos": {
+      "driveFileId": "1TUvvo334fr8hPJ-mQmNdiCPe-IUD2j_PA8g4EMerDIQ",
+      "name": "6.6 Lección 1 Folleto Historias de fenómenos",
+      "modifiedTime": "2024-08-13T20:41:14.821Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lección 1 Folleto Evidencia de curación": {
+      "driveFileId": "1RuMRgdiy51vjqcpEqLFOUEiAwhEKn6H2ETILHoOkCLA",
+      "name": "6.6 Lección 1 Folleto Evidencia de curación",
+      "modifiedTime": "2024-08-13T20:41:13.808Z"
+    },
+    "Lesson 1 - 6.6 Cells & Systems/6.6 Lección 1 Folleto Carta a casa": {
+      "driveFileId": "1R6p9PGNG6j29k5jUEpo1Cz796TirvyPliI09G31ChRU",
+      "name": "6.6 Lección 1 Folleto Carta a casa",
+      "modifiedTime": "2024-08-13T20:41:10.930Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1iRgWP9q9AcbVo-auOKNfpJwBpVyabbod",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:41:06.657Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1jB6csK_X9tt_5pKK-4acN3pGjITb_cwr",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:41:05.614Z"
+    },
+    "6.6 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1VAaNjvEplBcm2LAMFdEiOSxEh-TzK3mM",
+      "name": "6.6 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:41:04.604Z"
+    },
+    "6.6 Cells & Systems Unit Overview Materials": {
+      "driveFileId": "1erv9DV52Nuq95KH1xE6_XcEdRBBUgGkdu_x76mGnhCE",
+      "name": "6.6 Cells & Systems Unit Overview Materials",
+      "modifiedTime": "2024-08-13T20:41:03.767Z"
+    }
+  }
+}

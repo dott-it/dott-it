@@ -1,0 +1,993 @@
+{
+  "unitId": "6.4",
+  "unitTitle": "Plate Tectonics & Rock Cycling",
+  "description": "Students analyze evidence for plate tectonics and explain how rock cycling shapes Earth's surface. They investigate the processes that create and destroy Earth materials.",
+  "lessonCount": 14,
+  "suggestedPacingDays": 25,
+  "unitOverviewPath": "unit_materials/original/6.4 Plate Tectonics & Rock Cycling Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/6/6.4",
+  "ingestedAt": "2026-07-01T13:38:37.406Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "What is causing Mt. Everest and other mountains to move, grow, or shrink",
+      "title": "What is causing Mt. Everest and other mountains to move, grow, or shrink?",
+      "teacherEditionPath": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "How are earthquakes related to where mountains are located",
+      "title": "How are earthquakes related to where mountains are located?",
+      "teacherEditionPath": "lesson_2/original/6.4 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "How does what we find on and below Earth’s surface compare in different places",
+      "title": "How does what we find on and below Earth’s surface compare in different places?",
+      "teacherEditionPath": "lesson_3/original/6.4 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "What is happening to Earths’ surface and the material below it during an earthquake",
+      "title": "What is happening to Earths’ surface and the material below it during an earthquake?",
+      "teacherEditionPath": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How does plate movement affect the land around mountains such as Mt. Everest",
+      "title": "How does plate movement affect the land around mountains such as Mt. Everest?",
+      "teacherEditionPath": "lesson_5/original/6.4 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How could plate movement help us explain how Mt. Everest and other locations are changing in elevation",
+      "title": "How could plate movement help us explain how Mt. Everest and other locations are changing in elevation?",
+      "teacherEditionPath": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "What happens at mountains where we see volcanic activity",
+      "title": "What happens at mountains where we see volcanic activity?",
+      "teacherEditionPath": "lesson_7/original/6.4 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "What is occurring at locations where two plates are moving away from each other",
+      "title": "What is occurring at locations where two plates are moving away from each other?",
+      "teacherEditionPath": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "What causes mountains to change",
+      "title": "What causes mountains to change?",
+      "teacherEditionPath": "lesson_9/original/6.4 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "Where were Africa and South America in the past",
+      "title": "Where were Africa and South America in the past?",
+      "teacherEditionPath": "lesson_10/original/6.4 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "Where were the other plates located in the distant past",
+      "title": "Where were the other plates located in the distant past?",
+      "teacherEditionPath": "lesson_11/original/6.4 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "Where did mountains that aren’t at plate boundaries today, like the Appalachians and Urals, come from",
+      "title": "Where did mountains that aren’t at plate boundaries today, like the Appalachians and Urals, come from?",
+      "teacherEditionPath": "lesson_12/original/6.4 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "What causes mountains to shrink in elevation",
+      "title": "What causes mountains to shrink in elevation?",
+      "teacherEditionPath": "lesson_13/original/6.4 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "How is there an exposed marine fossil on Mt. Everest? And, what other remaining questions from our Driving Question Board can we now answer",
+      "title": "How is there an exposed marine fossil on Mt. Everest? And, what other remaining questions from our Driving Question Board can we now answer?",
+      "teacherEditionPath": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "64-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Alternate Initial Model",
+      "shortTitle": "Alternate Initial Model",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.1 Develop a model showing what is happening at a scale larger than we can see to explain what happened to the different mountains to cause them to change in elevation.",
+      "lookListenFor": "What to look for/listen for: Students include a variety of mechanisms for the changes to Mt. Everest. We want to get as many student ideas as possible at this point. Included here are some examples of student suggestions, but this list is not inclusive or exhaustive: rocks moving from one side of the mountain to the other, snow building up on the mountain top, strong wind moving the mountain, (tectonic) plates under the mountain, hills colliding causing the mountain to grow, and earthquakes pushing mountains together.\nThis first initial model represents students’ ideas for how Mt. Everest moves to the northeast and increases in elevation. Later it will become a more general model to explain any mountain’s change in elevation and movement on Earth. For now, any ideas students have at this point in the unit is acceptable. Over the course of the unit, each of these ideas will be explored by figuring out what tectonic plates are and how they move, weathering factors and erosion factors.",
+      "whatToDo": "What to do: If a student is struggling to get started on their model, remind them that our initial model is just that - our first attempt at explaining what we think is causing the changes to the mountains. Use Alternate: Initial Model to help students begin to develop their model so they have a scaffold to use as they think about the large and small scale causes for Mt. Everest to move and grow.\nUniversal Design for Learning: Developing a model for something as large as a mountain to capture how it could be moving may be challenging for some students and they may not know where to begin. In addition, some students may benefit from seeing the location of Mt. Everest on a map as they are developing their model. Alternate: Initial Model has a mountain template from a side perspective. This handout can be used as an alternative to Explain How Mt. Everest Moves And Grows by providing a representation that allows students access to a place to represent their ideas about how Mt. Everest is changing.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/6.4 Lesson 1 Handout Alternate Initial Model.docx",
+        "teacherGuide": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L01-AO1.html"
+      }
+    },
+    {
+      "id": "64-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Alternate Initial Model",
+      "shortTitle": "Alternate Initial Model",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.2 Develop a model showing what is happening at a scale larger than we can see to explain what happened to the different mountains to cause them to change in elevation.",
+      "lookListenFor": "What to look for/listen for: Students including a variety of mechanisms for the changes to cause a mountain to shrink such as: snow melting up on the mountain top, strong wind moving the mountain, (tectonic) plates under the mountain, and earthquakes separating mountains.\nAny ideas students have at this point in the unit are acceptable. Over the course of the unit all of these will be explored through figuring out what tectonic plates are and how they move, as well as weathering and erosion factors.",
+      "whatToDo": "What to do: If a student is struggling to get started on their model, remind them that our initial model is just that - our first attempt at explaining what we think is causing the changes to the mountains. Encourage students to look back at the initial model they developed for Mt. Everest and think about what they would change in the model to represent a decrease in elevation.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/6.4 Lesson 1 Handout Alternate Initial Model.docx",
+        "teacherGuide": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L01-AO2.html"
+      }
+    },
+    {
+      "id": "64-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Lesson 01 · Check-in 3",
+      "shortTitle": "Lesson 01 · Check-in 3",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "You can read students’ questions as a formative assessment prior to the next class and then again later in the unit to see how students’ questions are developing. Look for students to be asking questions about what causes could lead to land and landforms, such as mountains to change over time.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L01-AO3.html"
+      }
+    },
+    {
+      "id": "64-1-ao-4",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students contributing questions…",
+      "shortTitle": "Look for: /listen for: Students contributing questions…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from our analysis of information showing that Mt. Everest and four other mountain peaks are changing to seek additional information about what caused the changes (effects) we read about.",
+      "lookListenFor": "What to look for/listen for: Students contributing questions about the event on Mt. Everest, about mountains changing in elevation, mountains moving, about earthquakes, and other landforms (eg: volcanoes). Look for students' questions to (1) move between different spatial and temporal scales, (2) focus on the Mt. Everest event, and (3) focus on the similar and different patterns of change for other mountains.",
+      "whatToDo": "What to do: If students are struggling to generate questions in each of these areas, cue them to use the crosscutting concepts of Patterns and Cause and Effect as a lens to help them brainstorm different kinds of questions to ask. (Note: You do not need to use these words explicitly, for example, cause and effect, but can refer to them as the “cause of the mountain getting taller”).\nAn example of one such DQB is shown here.\nPoint out that many of the questions are connected to how and why different mechanisms could be the cause of similar changes and how the same mechanisms could cause different things to happen at different places. Suggest that including these questions under a single driving question could remind us of how the work on any one question is in the service of all our questions. Propose that “What causes mountains to move, grow or shrink?” could be a single driving question that most of our questions could fit under.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L01-AO4.html"
+      }
+    },
+    {
+      "id": "64-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look and listen for students to write and orally argue…",
+      "shortTitle": "Look and listen for students to write and orally argue…",
+      "peCode": "2.A",
+      "buildingTowards": "Building Towards: 2.A Present an oral and written argument that earthquakes either caused or are correlated to the elevation and location changes of the mountain cases and Ridgecrest, California.",
+      "lookListenFor": "What to look/listen for:\nLook and listen for students to write and orally argue that data and observations support a correlation, not a causal relationship, between earthquakes and mountain growth and movement.\nStudents should cite changes to the surface after an earthquake as evidence of a correlational relationship, and evidence from the videos as not showing direct changes occurring during the earthquakes to make a causal relationship.",
+      "whatToDo": "What to do:\nIf students try to create a causal relationship between the events, ask students if any ground cracked or changed in elevation or location during the videos watched.\nStudents should state that the ground momentarily moved, but did not visibly change.\nPoint out that while we were looking for potential connections between the surface changes and earthquakes, we also found some interesting earthquake patterns. Ask students to share out any patterns and new questions that they have related to those patterns, and what we might learn by investigating earthquake location, size, and depth. Example prompts and responses are below.\nSuggested prompt\nSample student response\nWhat other patterns or observations did we identify as we looked at the earthquake data?\nThe earthquakes happen in lines.\nThe earthquakes happen at different depths.\nSome earthquakes are bigger than others.\nWhat did those observations and patterns make you wonder about?\nWhy do they happen in lines?\nWhat causes the earthquakes to be bigger in some areas?\nWhat is happening to start an earthquake?\nIs this line related to lines of mountains? Is this how they are growing?\nWhat type of earthquakes are where the ground changes the most?\nHow deep do some of the earthquakes go?\nGo over the Seismic Explorer Key and add depth and magnitude to the Word Wall. Reopen Seismic Explorer for students. Ask, Did everyone make sense of what these different circle sizes and colors mean?\nAs a class, go over the Key and what each of the features means.\nClick the “Key” in the upper right hand corner. Discuss briefly what the circles and colors represent.\nCompare the larger and smaller circles - students should explain that the larger circles have a larger magnitude, according to the key.\nAsk students what magnitude means. Students should make the connection that a larger circle is a greater magnitude, and that it represents an earthquake that was bigger or affected a larger area. Explain that magnitude is a word used to describe how big the earthquake is.\nAdd magnitude to the Word Wall.\nLook at the different colors of earthquakes, and ask students what they think the different colors mean. Students should identify that the colors correspond with the depth of the earthquake.\nAsk students what depth means. Students should identify that the depth is how far down into Earth the earthquake is occuring.\nAdd earthquake depth to the Word Wall.\nUse Mt. Everest to make a prediction. Zoom in on Mt. Everest. Ask students what earthquake depth and magnitude data we would expect to see at Mt. Everest if it were to display the large earthquake from 2015. Project the 2015 map data for students. Ask students what they notice about the depth and magnitude of the earthquake. Students should note that the earthquake was large, but shallow. Ask students what they think they will find if they were to look at other mountains and the earthquakes around them. Example prompts and responses are below.\nSuggested prompt\nSample student response\nIt looks like Mt. Everest experiences a range of earthquakes, and some of them are higher in magnitude. Do you think we would find the same data at all the mountains in our case sites that are moving or growing?\nI think so. We see earthquakes happening and also signs of movement at those locations.\nDo we think there will be a relationship between how large the earthquakes are and the locations where our mountains are moving?\nPossibly?\nI think some of the earthquakes in lines were the same color.\nMaybe in areas where it is growing they are really high magnitude.\nMt. Everest’s earthquakes were also shallow. Do you think that all earthquakes around our mountains are shallow?\nI don’t think so. We saw some darker colors on our map.\nMaybe they are next to the mountains, and the deeper ones happen in places that are just deeper to begin with.\nWould the depth of the earthquake be related to where mountains are growing?\nMaybe?\nSome seemed to be deeper than others when I clicked…",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L02-AO1.html"
+      }
+    },
+    {
+      "id": "64-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for students to locate mountain regions identified…",
+      "shortTitle": "Look for students to locate mountain regions identified…",
+      "peCode": "2.B",
+      "buildingTowards": "Building Towards: 2.B Use digital tools to examine a large data set at different spatial and temporal scales to compare global earthquake activity to local activity.",
+      "lookListenFor": "What to look/listen for:\nLook for students to locate mountain regions identified in case site information and narrow focus to earthquake data that applies to those areas that would not be discernible at a larger scale.\nStudents should filter through earthquake data and analyze the large sets of earthquake data for any patterns in depth, location, frequency, or magnitude at the regional scale for evidence of earthquakes being causal or correlational to mountain movement and growth.",
+      "whatToDo": "What to do:\nIf students are not able to narrow the focus of their research to specific mountains, guide students to identify each mountain and range, and help students zoom into the data specific to those ranges.\nIf students are having trouble discerning the data, help students adjust the earthquakes by magnitude to limit the amount of data shown, and reference the key to show differences in magnitude and depth.\nIf there is too much data for students to analyze, instruct students to narrow the year range for their data by only playing a certain portion of the data slider.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L02-AO2.html"
+      }
+    },
+    {
+      "id": "64-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for students to adjust their models to include sol…",
+      "shortTitle": "Look for students to adjust their models to include sol…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for: Look for students to adjust their models to include solid rock at or just below the surface of Mt.Everest, and they should also indicate that the temperature of the rock deep below the surface is increasing with depth. They might include a thin layer of loose sediments (soil, dirt, broken rocks) at the surface, but may not, since the image they have seen of Mt. Everest shows exposed rock at the surface.\nWhat do do: If students’ revisions to their models do not reflect things figured out from the information gathered from video, images, and readings from the storymap and the slides, have them revisit: Materials Found at and Below the Surface, images on slides I-M or Earth Materials Found at the Mountain Sites cards, and Data Cards for Other Mountains and Mt. Everest from Lesson 1.\nAdd key ideas to Materials Found At and Below the Surface of Earth. After students finish sharing their revisions with their partners, ask if anyone would like to summarize what we figured out from the data we collected from the storymap, the images on the slides and on the Earth Materials Found at the Mountain Sites cards, and the information and images on the Data Cards for Other Mountains and Mt. Everest. Look for the following ideas to surface and document on a sheet of chart paper titled Materials Found At and Below the Surface of Earth.\nSediments-dirt, soil, sand, broken rocks-can be found at the surface in some places on Earth.\nAs we dig down below the surface, we often find solid rock.\nSometimes solid rock is found at the surface.\nThe type of solid rock we find varies in different places.\nAs we dig deeper underground, the temperature inside Earth increases.\nAdd to the Word Wall. Say, We need to take a few moments to add to our Word Wall. We were introduced to the word sediment in our home learning from Lesson 2, and we have used the word today to refer to the soil, sand, dirt, and broken rock that we find at the surface in many places on Earth. So, let’s move sediment from “Words We Encounter” to “Words We Earn” on the Word Wall. Move the sediment card with the term, definition, and a simple diagram to the appropriate part of the Word Wall.\nThen say, The solid rock we sometimes see at the surface or come across as we dig below the surface is called bedrock. Write the word and its definition and draw a simple diagram on a piece of paper. Add the word to the class Word Wall.\nComplete the exit ticket. Distribute a piece of paper to students and have them write their names at the top of the cards. Show slide P and say, All the sites we analyzed showed evidence of solid rock--or bedrock--at some point below the surface of Earth. Think about where you live.\nDo you see any evidence of solid rock, or bedrock, at the surface where you live? If so, describe the evidence.\nDo you think we would find solid rock, or bedrock, below the surface where you live? Why or why not?\nTake a few minutes to write down your responses to the questions on the index card. Don’t forget to use evidence to support your thinking.\nCollect the exit tickets and tell students to tape their data table on the page opposite their predictions in their science notebooks.\nIf students need additional support as they examine the given sources of information--video, images, and information on Data Cards for Other Mountains and Mt. Everest and in the Drilling and Digging Underground Storymap--you can have them work in pairs or triads to discuss and document information they gather from the data sources.\nSupporting emergent multilinguals: This would be especially helpful for emergent multilingual students and those who need additional scaffolding for reading and/or writing.\nProviding color copies of the Earth Materials Found at the Mountain Sites cards (which have the same images as slides I-M) and making them available to students to look at closely may allow students to make better observations of the size of the mountains based on the scale of the mine in comparison to…",
+      "whatToDo": "Building towards 3.A.1: Develop and use models to describe the structure, composition, and temperature of materials below the surface of Earth, and some of the processes (pressure and heat) that cause changes to those earth materials.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L03-AO1.html"
+      }
+    },
+    {
+      "id": "64-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: ​: Students’ completed Progress Trackers give…",
+      "shortTitle": "Look for: ​: Students’ completed Progress Trackers give…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for​: Students’ completed Progress Trackers give an opportunity to assess what they have figured out during this lesson. In students’ models, you should look for representation of the ideas and supporting evidence called out in the sample Progress Tracker above.",
+      "whatToDo": "What to do: If students’ models have incomplete or missing ideas, or if sources of evidence are not complete, students can review the same resources previously listed. Encourage them to add new ideas or information from those resources.\nNavigate to the next lesson. Quickly close the lesson by saying, We wanted to know what is on and and under the surface of the earth. We have figured out that there is bedrock everywhere below the surface of Earth. We’ve revisited and revised our model of Everest, and we developed a model and documented evidence in our Progress Trackers to explain how what we find at and below Earth’s surface compares at different places. We next need to think about what might be happening to the bedrock when an earthquake occurs.\nAdditional Lesson 3 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-Literacy.SL.6.1\nEngage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others’ ideas and expressing their own clearly.\nThere are a number of opportunities in this lesson for students to engage in discussions in pairs, small groups, and as a class. Some discussions are teacher-led, but not all. Students should be encouraged to share their prior understandings, observations, and current thinking while working collaboratively with their peers to figure out the structure, composition, and temperature of materials found at and below the surface of Earth, as well as the changes that pressure and heat cause to bedrock deep below the surface. As much as possible, questions and prompts are used by the teacher, and students are given multiple opportunities to share their current thinking and build on the thinking of others. Additional strategies that can be used include:\nStrategically pair and group students, keeping their individual needs in mind.\nSupply several opportunities for students to respond to questions and share their thinking (e.g., in pairs or small groups before class discussion).\nAllow students to use drawings, symbols, writing, and gestures to express their ideas.\nCCSS.ELA-Literacy.SL.6.1.A\nCome to discussions prepared, having read or studied required material; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.\nIn this lesson, students obtain information from a home reading and are expected to use that information to support their thinking. At the opening of day 2, students are asked to share information in that text about the structure, composition, and temperature of materials at and below the surface of Earth. To support students in sharing and using the information they gather from the reading, key ideas are documented on a chart that students can reference when needed.\nUniversal Design for Learning: When adding the science term sedimentary to the Word Wall, you can provide options for language and for comprehension by:\nPointing out, highlighting, or underlining the root word sediment and referring to its definition that was added to our Word Wall earlier today.\nPointing out, highlighting, or circling the suffix -ary and telling students that it means “of, relating to, or connected with.” Then you can further explain that sedimentary rock is made “of sediment.”\nMaking an explicit connection between the two terms--sediment and sedimentary--and the relationship between the concepts, such as the example statement, Sedimentary is a type of rock made when sediments--soil, sand, dirt, and broken rock-- are deposited by wind or water and then compressed into rock over time by heavy layers of sediment above them.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L03-AO2.html"
+      }
+    },
+    {
+      "id": "64-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students to include",
+      "shortTitle": "Look for: /listen for: Students to include",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Students to include\ndifferences in elevation across the North American plate\nsome type of sediment at the surface in the lower elevation areas\nbedrock exposed on some of the higher elevations\nbedrock underneath everything going down deep\nadditionally, they may represent rock beginning to shift or move far under the surface due to temperature",
+      "whatToDo": "What to do: Encourage students to come up and look at the class relief map if they are not sure about the elevation of certain areas on the map. If students can’t remember what the different colors on the map represent, remind them what the class shared in Lesson 2.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L04-AO2.html"
+      }
+    },
+    {
+      "id": "64-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: That the break looks like it is pretty far down",
+      "shortTitle": "Look for: That the break looks like it is pretty far down",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B.1 Construct an explanation using qualitative evidence from class investigations to explain what is happening to the bedrock below the observable surface when an earthquake causes a shift or break in the land.",
+      "lookListenFor": "What to look for/listen for: Students arguing using a chain of logic to make the connection between the crack at the surface and what must be happening under the surface. Some arguments you may hear them debate with their partner:\nThat the break looks like it is pretty far down.\nIf the land was broken pretty far down below the surface, the bedrock was also broken apart here.\nThe land at Ridgecrest not only broke apart, but it shifted up half a meter.\nThe section of land that shifted up was about 10 miles long.\nFor such a large section of land to shift up so much, it must mean the break is all the way through the bedrock to where the rock begins to move or melt.",
+      "whatToDo": "What to do: As students are constructing their explanation with their small group, and if they are struggling to come to an agreement, encourage them to think back through the images they saw of the crack near Ridgecrest, how much the land shifted here, and what they have figured out about what it is like under the surface. In addition, using an analogy to help them visualize a break of this size in something solid might help. For example, you might ask the students to think of a large solid food like a pizza, or a pan of brownies or cake. We can use a knife to create an opening in the surface of the brownie, like we saw at the crack in the land near Ridgecrest, but if we want to remove a piece (like shifting it vertically), we need to cut all the way through the brownie. Encourage them to think about this in relation to the land at Ridgecrest shifting half a meter upward.\nReconvene the class. Explain that we will use the pink foam to represent the bedrock. Ask students how this is different from the bedrock we see on the surface of the Earth. Probe students to consider how this is spatially and structurally similar and different.\nSuggested prompt\nSample student response\nWe are using this piece of pink foam to represent the bedrock that makes up this section of Earth where Ridgecrest is. How is this similar to the bedrock?\nIt is solid.\nIt is kind of bendy.\nIt is kind of thick.\nIt can probably still crack like what happened at Ridgecrest.\nHow is this different than the bedrock that we find on Earth’s surface?\nIt’s definitely smaller- Ridgecrest is a much larger area.\nIt’s a different color.\nIt may be softer or more bendy.\nThe bedrock is made of rock- I wonder if that makes a difference?\nSo it is much smaller than Ridgecrest. How might using something smaller like this to model that area help us in our investigation?\nSometimes we can’t make changes on something as big as pieces of land. But we can use this to model what might happen at a different scale.\nWe can see it without having to go to Ridgecrest or get heavy machinery or cause an earthquake, and still figure out what might be happening using this smaller item.\nIf we want to use this to help us make sense of what happens to the bedrock when there is an earthquake like near Ridgecrest, do you think this will provide us some evidence that we can use to help us figure this out?\nYes… it is way smaller and it doesn’t have sediment, like sand on it, but we can use it to see how it breaks.\nIt can still probably crack and move like the ground at Ridgecrest.\nIt’s smaller, but we can’t move the ground at Ridgecrest on our own. We can move this and see what happens.\nAsk students to share what they discussed with their partner(s). Students should argue that the bedrock either broke or was already broken before the earthquake occurred.✱\nUse the foam board to demonstrate this by slowly pulling up on one corner of it and bending it up on a diagonal. Say, OK, I am starting to bend the foam board (bedrock ) slightly… which in reality is something that rocks can do up to a point before they break. Typically it’s hard to see such bending unless the forces on them are very great or the size of the rock being bent is very large.\nSnap the board in half and then say, OK, so that is one thing that could have happened from the earthquake, the solid bedrock broke. But what if the bedrock was already broken along this line, can someone show me how these two pieces of bedrock would have shifted from the earthquake to result in the motion and change in elevation?\nStudents should conclude that a break all the way through the bedrock would have to happen during the earthquake, or would have had to exist before the earthquake happened in order to explain what they observed at the surface of the land: shifting half a meter upward and moving northwest and southeast.\nSay, Let’s add to our model to represent what we just determined.\nAdd the representation of a crack below the surface all the way through the…",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L04-AO1.html"
+      }
+    },
+    {
+      "id": "64-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: The land cracks apart or breaks open",
+      "shortTitle": "Look for: The land cracks apart or breaks open",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Look for students to explain using words and/or pictures that when there is an earthquake, the land at and below the surface can be affected. Some ways it can be affected include:\nThe land cracks apart or breaks open.\nThe land shifts in elevation with part of the land increasing and/or decreasing in elevation.\nThe land moves horizontally to be in a different location .\nThe bedrock below the surface is also cracked or broken.\nThe long breaks in the bedrock are called fault lines.\nThe large sections or chunks of bedrock in between these fault lines are called plates.",
+      "whatToDo": "What to do: Use this Progress Tracker entry as a formative assessment to see what students are able to synthesize from this lesson. If students struggle to get started answering this, encourage them to look back over the profile models that have been developed over the last two class periods, and use them to answer this question.\nIt is important that what the students write in the two-column tracker reflects their own thinking at that particular moment in time. This is an opportunity for students to express their understanding and reasoning in their own way. Encourage students to express what they’ve learned using a mode that makes sense for them. For some emergent multilingual students, encourage them to use this space to make sense in the language that they feel most comfortable using. The individual Progress Tracker is a space for students to be creative and to synthesize learning in their own words. It is not supposed to follow a prescriptive plan or structure and should be a low-stakes opportunity for students’ to make sense of what they are learning without the worry and anxiety that comes with knowing their work will be graded. Use the Progress Tracker for formative assessment only.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L04-AO3.html"
+      }
+    },
+    {
+      "id": "64-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students use Seismic Explorer da…",
+      "shortTitle": "Look for: /listen for: Students use Seismic Explorer da…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.2 Analyze a graphical display of a large data set of plate movement in order to determine whether a causal or correlational relationship exists between plate movement and mountain movement.",
+      "lookListenFor": "What to look for/listen for: Students use Seismic Explorer data to make the claim that all plates are moving, and conclude that each case of mountain movement is due to plate movement. On the Potential Causes for Mountain Movement chart, students will change the link between plate movement and mountain movement from a dashed line (representing correlation) to a solid line (representing causation).",
+      "whatToDo": "What to do: After students revisit Seismic Explorer to explore a larger set of GPS data (slides K-L), they should uncover patterns establishing a causal link between plate movement and mountain movement. If students struggle to make this connection, consider giving students more time to investigate plate movement using Seismic Explorer. Prompt students to pay particular attention to the direction of the arrows near the specific mountain peaks from the case studies. Ask students whether it seems like the mountain peak is moving in the same direction indicated by the arrows on the map. Students should see that in each case the mountain peak seems to move in the same direction as the arrows immediately nearby, further reinforcing the causal link that plate movement is causing the corresponding mountain to move.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.4 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L05-AO2.html"
+      }
+    },
+    {
+      "id": "64-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Using North American Plate Manip…",
+      "shortTitle": "Look for: /listen for: Using North American Plate Manip…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.1 Analyze a graphical display of a large data set of plate movement in order to determine whether a causal or correlational relationship exists between plate movement and mountain movement.",
+      "lookListenFor": "What to look for/listen for: Using North American Plate Manipulative, students place the North American plate slightly to the west of its original location, and rotate it slightly counterclockwise. Students should be able to support this prediction by referring to the arrows shown on the Seismic Explorer map of the North American plate.",
+      "whatToDo": "What to do: As students work with a partner, they will use GPS data regarding the North American plate (after slide F) to predict that the North American plate will twist counterclockwise. The exact amount of rotation is not important since no numerical values have been attached to the arrows on the map. If students are struggling to see how the arrows on the plate indicate a general counterclockwise rotation, ask students to use a pencil or dry/wet erase marker to connect adjacent arrows in a dot-to-dot fashion, starting to the east of Mt. Mitchell and moving towards the west. The end result should resemble a semicircle moving from west to east.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.4 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L05-AO1.html"
+      }
+    },
+    {
+      "id": "64-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "6.A",
+      "shortTitle": "6.A",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A. Develop and use models showing what is happening at varying spatial and time scales to describe how plates interact at plate boundaries.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: If students do not readily make the connections, cue them to tell you what is represented by the parts they are handling, and the movements they are making with them (or comment on those in the observations they recorded). Use the names of the real-world objects as you talk with them about their models (e.g. How are you moving the plate?, rather than, How are you moving the foam?)\nDisplay slide J. Allow sufficient time to clean up the lab by rinsing and setting the foam pieces out to dry and disposing of the water in the aluminum pans. It can be very difficult to carry the shallow pans without spilling. You may want to circulate with a large tray or bucket to collect the water and then have students set the pans up to dry as well. Or if available, have students do this investigation near a sink.\nBegin to plan their models. If time permits after groups have cleaned up the materials from the investigation, have students take a few minutes to start to identify which components and interactions they need to include and how they will represent them in each of their models in note form or with sketches on Record Your Observations or in their science notebooks. If you are assessing the observations they recorded, collect Record Your Observations.\nHOME LEARNING OPPORTUNITY\nIf you run out of time to have students start to think with their groups about how they will represent what they observed in their models, let them know that during the next class period, they will be developing diagrammatic models of everything they observed. Ask them to make some notes and sketches in their science notebooks showing how they might represent what they observed. This will give them a bit of a head start on the activity in the next class period.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L06-AO2.html"
+      }
+    },
+    {
+      "id": "64-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: Referring to the foam pieces as “plates” as t…",
+      "shortTitle": "Look for: Referring to the foam pieces as “plates” as t…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A. Develop and use models showing what is happening at varying spatial and time scales to describe how plates interact at plate boundaries.",
+      "lookListenFor": "What to look/listen for: As students use their physical models, listen for them to make connections between the components and relationships in their models and the real-world phenomena they represent, such as the following:\nReferring to the foam pieces as “plates” as they work with them\nDescribing a change in height of a foam piece as a “change in elevation”\nProposing surface phenomena that might be explained by the observations they are making as they manipulate their models\nWondering about how the model interactions they are observing would look (or feel) at an Earth-sized scale\nLabeling and describing components of their models with the real-world phenomena they represent (e.g. plate rather than foam piece; liquidy rock layer rather than water; arrows labeled as plate movement)",
+      "whatToDo": "What to do: If students do not readily make the connections, cue them to tell you what is represented by the parts they are handling, and the movements they are making with them (or comment on those in the observations they recorded). Use the names of the real-world objects as you talk with them about their models (e.g. How are you moving the plate?, rather than, How are you moving the foam?)\nDisplay slide J. Allow sufficient time to clean up the lab by rinsing and setting the foam pieces out to dry and disposing of the water in the aluminum pans. It can be very difficult to carry the shallow pans without spilling. You may want to circulate with a large tray or bucket to collect the water and then have students set the pans up to dry as well. Or if available, have students do this investigation near a sink.\nBegin to plan their models. If time permits after groups have cleaned up the materials from the investigation, have students take a few minutes to start to identify which components and interactions they need to include and how they will represent them in each of their models in note form or with sketches on Record Your Observations or in their science notebooks. If you are assessing the observations they recorded, collect Record Your Observations.\nHOME LEARNING OPPORTUNITY\nIf you run out of time to have students start to think with their groups about how they will represent what they observed in their models, let them know that during the next class period, they will be developing diagrammatic models of everything they observed. Ask them to make some notes and sketches in their science notebooks showing how they might represent what they observed. This will give them a bit of a head start on the activity in the next class period.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L06-AO1.html"
+      }
+    },
+    {
+      "id": "64-6-ao-3",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students’ written ar…",
+      "shortTitle": "Look for: What to look/listen for: Students’ written ar…",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B.1 Construct an argument supporting a model of how plate interactions could cause mountains and earthquakes.",
+      "lookListenFor": "What to look/listen for: Students’ written arguments should include multiple examples of evidence from specific models that directly supports the claim that increases in the elevation of Mt. Everest can be caused by plate movement and plate interactions. The evidence should come from the ways that plate shape and elevation was affected in their models, and what they know about the real characteristics of surface phenomena involving Mt. Everest. These pieces of evidence will have been discussed or referenced in the lesson before students are called to use them in their writing. Through writing their written arguments, they are identifying those pieces as evidence and articulating why the evidence supports the claim of causation.",
+      "whatToDo": "What to do: If students struggle to put the pieces together, refer them to the model that the class agreed on, the list of reasons why that model best represents what’s happening at Mt. Everest, and the list of characteristics of Mt. Everest that need to be explained, and encourage them to articulate how those ideas are connected.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L06-AO3.html"
+      }
+    },
+    {
+      "id": "64-6-ao-4",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students’ written ar…",
+      "shortTitle": "Look for: What to look/listen for: Students’ written ar…",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B.2 Construct an argument supporting a model of how plate interactions could cause mountains and earthquakes.",
+      "lookListenFor": "What to look/listen for: Students’ written arguments should include clear descriptions of specific evidence from models that directly supports the claim that earthquakes can be caused by plate movement and plate interactions. The evidence should come from the ways that the rough edges of plates catch on each other as they move by each other, building tension that resolves when the edges suddenly slip past each other. These pieces of evidence will have been discussed in the lesson before students are called to use them in their writing. Through writing their written arguments, they are identifying those pieces as evidence and articulating why the evidence supports the claim of causation.",
+      "whatToDo": "What to do: If students struggle to put the pieces together, refer them to the discussion about how sudden movements occur, and the demonstration of when the surface of the plates moved the most, as well as the characteristics of earthquakes that they are familiar with from Lessons 2 and 3, and encourage them to articulate how those ideas are connected.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L06-AO4.html"
+      }
+    },
+    {
+      "id": "64-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: We know that volcanoes do not cause mountains…",
+      "shortTitle": "Look for: We know that volcanoes do not cause mountains…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for: Look for students to use evidence from the Seismic Explorer map images, the Data Cards for Other Mountains and Mt. Everest from Lesson 1, and How are Volcanoes Formed and What Kinds of Changes Do They Cause? to describe the processes that play a role in the development of volcanoes and the changes that volcanoes cause to the surface of Earth. (See the key ideas listed above.) Some examples of what students might argue:\nWe know that volcanoes do not cause mountains to move, so we can claim that none of the changes in location were caused by volcanoes at or near any of the mountain sites.\nWe also know that volcanoes can create new landforms or build up existing land when lava flows out and over the top of a volcano.\nBut a volcano can only add to its own height, not the height of surrounding mountains.\nSo, the only mountain that might possibly be increasing in elevation because of volcanic eruptions is Mt. Hotaka because it is the only active volcano in our list of 6 mountain sites.\nWhat do do: If students do not correctly describe the interaction between the oceanic plate and the continental plate, you can:\nHave students work with partners or in small groups to review the reading and look for evidence of the processes that play a role in the development of volcanoes and the changes that volcanoes cause to Earth’s surface.\nHave partners or small groups develop models using pictures, words, and/or symbols that show:\nhow volcanoes are created from the collision between a denser oceanic plate and a less dense continental plate; and\nthe constructive and destructive changes that volcanoes cause at the surface.\nUniversal Design for Learning: It is important to support students to clarify academic language they encounter in the text to develop their ability to learn and use linguistic representation. Most of these terms are words we encounter that students need only understand to make sense of the text at this moment. However, a few terms, such as “solidified,” “destructive,” and “constructive” can become words we earn if students continue to use and develop an understanding of those terms beyond this reading.\nSupporting Emerging Multilingual Learners: Provide opportunities for emerging multilingual students to break down the meaning of scientific terms used in the lesson. Provide an opportunity to discuss any preconceptions about the meaning of each term and draw upon their personal experiences to make sense of them.\nFor example:\nUse students’ prior knowledge of the word solid to help them understand that solidified means to become solid, and use examples, such as water solidifying into ice when it is placed in a freezer.\nUse students’ personal experiences with words such as construct and construction to help them make sense of constructive processes, which build up or create new land or landforms.\nUse students’ experiences with words like destroy and destruction to help them understand that destructive processes are those that break down landforms and earth materials.",
+      "whatToDo": "Building towards 7.A: Apply scientific ideas and evidence to construct an explanation for the processes that cause some of the large scale interactions of Earth’s plates that result in the effects (volcanoes) of those interactions.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/6.4 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L07-AO1.html"
+      }
+    },
+    {
+      "id": "64-8-ao-3",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Listen: students should state that while there is evide…",
+      "shortTitle": "Listen: students should state that while there is evide…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to listen for: Students should state that while there is evidence of volcanoes at some of our mountain cases, this evidence does not exist at all of the class mountain locations. We also see magma and volcanoes at some locations at the Ridge, but it is not always correlated with increases in elevation in the landscape that it is currently in. While volcanoes can cause changes to mountain elevation, this is not seen at all of our mountain cases or in all cases on our Ridge. Students should confirm with this evidence that volcanoes are correlated, but not causing changes in location and elevation to all mountain cases.",
+      "whatToDo": "What to do:\nIf students are uncertain about the evidence from each mountain supporting volcanic activity, revisit the cards for evidence of volcanic activity at each mountain card.\nIf students are not sure if volcanoes are correlated or causing changes, revisit the data from the cards and what correlation and causation mean.\nRevisit this completed chart to determine that we cannot say that volcanoes cause these mountain changes at all locations, so volcanoes must be correlated.\nReflect on the correlation shown on our Potential Causes for Mountain Movement chart. Say, Let’s look back at our chart now that we have confirmed the dotted line between volcanoes and plate movement.\nSuggested prompt\nSample student response\nWhere else do we have a dotted line to plate movement that represents a correlation?\nWe see a dotted line showing earthquakes are correlated to plate movement.\nWhy are we certain that earthquakes are correlated to plate movement?\nBecause in Lesson 6 we figured out that when plates run into each other, it causes the ground to shake, or an earthquake to happen.\nSo, if we have a dotted line for volcanoes too, then do we think the correlation is the same - that when plates run into each other a volcano happens?\nNo… it seems like volcanoes happen when there is an opening between the plates and the magma comes up.\nIf both are due to plate movement, what could be causing those plates to move? Do we see anything moving that could move these plates at these locations?\nThe difference is that with volcanoes we see magma coming up...so maybe that has something to do with this?\nYeah… and isn't magma rock that is really hot and melty?\nDetermine the reason for the correlation between volcanoes and plate boundaries. Lead a brief discussion to determine that volcanoes signify the presence of magma from the mantle pushing on and up through the plates causing the plates to move, which in turn causes mountains to change in elevation and location. Example prompts and responses are below.\nSuggested prompts\nSample student responses\nFollow-up questions\nWhat do we see happening to the surface of Earth where we see volcanoes and earthquakes changing the surface?\nAt volcanoes we see magma coming out of the ground as lava.\nSometimes we see magma exploding/coming out of the ground, like we did last lesson.\nAt places with earthquakes we see cracks and damage.\nAt some earthquake places we see cracks really far down.\nBesides where we find volcanoes, where else did we see magma coming to the surface? Is this the only place we see magma coming out of the ground?\nDo we have any evidence from Lessons 6 and 7 on what could be under those earthquake locations causing them to move?\nWe saw magma and lava come out at some places where there are volcanoes. We also used a liquid under our plates to recreate plate movement in Lesson 6 like the liquidy rock the plates are on. Think about what we know happens to solids or liquids as they heat up. How do you think that liquidy rock behaves? What could that liquidy rock be doing to our plates?\nMaybe it’s pushing on them.\nThe rock and magma spews up at volcanoes that explode, so there’s something with a lot of pressure to make it squirt up.\nWe know that as the rock heats up it shifts and moves, so if it gets even hotter further down it might begin to flow?\nSo do things like magma just rise to the surface from the mantle? Or do you think that it has to get pushed up?\nStudents should determine that we see the magma moving at these locations where we have volcanoes, and that the magma comes from underneath the crust material.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L08-AO3.html"
+      }
+    },
+    {
+      "id": "64-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Listen for students…",
+      "shortTitle": "Look for: What to look/listen for: Listen for students…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: Listen for students to explain whether the evidence supports or refutes their claims, and give feedback to their partners on whether their evidence is sufficient for supporting or refuting their claims. See Individual Potential Claims and Evidence for further guidance on what evidence to look for to support and refute claims.",
+      "whatToDo": "What to do:\nAs students are sharing their claims, ask students if their partner’s cited evidence would help to support or refute their claim, and to explain why.\nPoint to specific evidence that would help students either support or refute their claims and ask them to critically consider how the collected piece of evidence applies to their claim.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L08-AO2.html"
+      }
+    },
+    {
+      "id": "64-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: Look for students to cite evidence that is relevant to their claim and use the evidence to explain whether their claim is supported or refuted. See Individual Potential Claims and Evidence for further guidance on what evidence to look for to support and refute claims.",
+      "whatToDo": "What to do:\nIf students have cited evidence that incorrectly supports or refutes their claim, press students to explain how the evidence is related to their claim. Point to specific evidence that would help students support or refute their claims, and ask them to critically consider how the collected piece of evidence helps them to explain the validity of their claim.\nIf students have listed irrelevant evidence in their chart, revisit the evidence collected with the student, and ask if the evidence helps the student try to explain what is happening at the ridge, or if it is a disconnected observation. Push students to explain the connection and how it could be used to support or refute a claim.\nCollect Evidence Tracker from students prior to day 2 to formatively assess their claims. This assessment can also occur quickly at the beginning of day 2 as students are orally sharing their claims with a partner and the teacher circulates to question students and observe their thinking.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L08-AO1.html"
+      }
+    },
+    {
+      "id": "64-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: Magma is far below the surface and is liquidy…",
+      "shortTitle": "Look for: Magma is far below the surface and is liquidy…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for:\nStudents explaining that:\nMagma is far below the surface and is liquidy rock that moves\nWhen magma moves, everything above it moves\nMagma movings makes the plates on the surface of Earth move\nPlate movement changes the surface of Earth when they interact or spread apart",
+      "whatToDo": "What to do: Some students may include correlational events as part of their causal explanation, such as earthquakes or volcanoes. If they do, encourage them to look back at the Causal Chain of Events for Changes to Mountains poster to remind themselves what we figured out about earthquakes and volcanoes in relation to mountains changing. Have them think about the causes for volcanoes forming, earthquakes happening, or mountains changing. In each of these cases, they should say that it’s due to magma moving and plate movement. Thus, they all have a common event that occurs, so volcanoes and earthquakes can’t be the ultimate cause for mountains changing.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/6.4 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L09-AO1.html"
+      }
+    },
+    {
+      "id": "64-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for students to state in their claim that the two…",
+      "shortTitle": "Look for students to state in their claim that the two…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Analyze maps displaying patterns of large sets of data to determine that Africa and South America could have been touching at the Mid-Atlantic Ridge (spatial relationship) between roughly 125 and 146 million years ago.",
+      "lookListenFor": "What to look/listen for:\nLook for students to state in their claim that the two continents were once touching at the Mid-Atlantic Ridge.\nStudents should cite all datasets to show that the plates were touching.\nStudents should include the following reasons when justifying how the data supports their claim:\nSimilar rock types, rock strata, and land formations: some areas that show similarities can be traced directly across from one continent to another, specifically at the top and middle of the two continents.\nEvidence of past glaciers: glacier data fits like a puzzle piece if the continents were moved together.\nLocation of fossils: fossils of the same type are found at the middle and bottom sections of both continents.\nRocks of similar types and ages: the top-middle of each rock layer are very similar across the two continents.\nAreas where coral fossils have been found: coral fossils were found on the outside of the two continents, meaning that when they were formed there was no ocean in between the continents.",
+      "whatToDo": "What to do:\nStudents should be able to make multiple connections between datasets and the continents touching. If students do not provide evidence from more than their original dataset, guide students to individually look at the dataset from another partner.\nUse the pre-cut pieces of continents with the data on them to move the continents back together so that they touch. Ask students if the data shown on the cards presents any patterns that span the two continents.\nAfter students have identified that the data shows a pattern across the two continents, allow students to revise their work.\nAdditional Lesson 10 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.CONTENT.6.NS.C.5\nUnderstand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.\nAs students are creating a model of where continents would have been located millions of years ago, they are working with positive and negative rates of motion. Initially, students use four meter sticks to represent the space between two continents, Africa and South America - this space representing the Atlantic Ocean and Mid-Atlantic Ridge - would represent the starting point, or location “0.” Using manipulative representations (cut outs) of the two continents, they discuss what it would look like in a year from now, and 10 years from now, etc., as they continue to move apart the two continent representations - this represents positive movement. In an effort to figure out if these two continents were together in the past, students work backwards in time, moving the manipulatives back towards each other, or in a negative movement.\nCCSS.MATH.CONTENT.6.EE.B.7\nSolve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q and x are all nonnegative rational numbers.\nStudents use approximated numeric data for yearly movement from the Mid-Atlantic Ridge between Africa and South America to determine if these two continents could have been touching in the past. On Calculating Plate Movement, students use this data to solve equations that result in how long ago these two continents may have been together.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.4 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L10-AO1.html"
+      }
+    },
+    {
+      "id": "64-11-evaluating-two-models",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "title": "Evaluating Two Models",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 11 — Evaluating Two Models.",
+      "files": {
+        "studentHandout": "lesson_11/original/6.4 Lesson 11 Assessment Evaluating Two Models.docx",
+        "teacherGuide": "lesson_11/original/6.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": "lesson_11/original/6.4 Lesson 11 Answer Key Teacher Key for.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeR5f94PWGHhHSDj9yBtYXY4xAeMHXHewe6hKgEyYFNMD6JrA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "64-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: The model that students draw on…",
+      "shortTitle": "Look for: /listen for: The model that students draw on…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: The model that students draw on the first page of Evaluating Two Models is likely to represent a single large landmass, though that is not absolutely necessary. They should represent that at least most of the landmass are touching or adjacent to each other in a way that matches according to shape. Their diagram should include labeled regions representing each of the 7 land masses, and at least 3 or 4 different kinds of data represented graphically or with labeling. Look for data to be located near and across boundaries where land masses are next to each other. For responses to the written assessment questions, see Teacher Key for Evaluating Two Models for details.",
+      "whatToDo": "What to do: There are multiple elements in the written answers to the assessment questions that would provide an adequate answer. Not every element must be present in a student answer for a question to be answered sufficiently. See Teacher Key for Evaluating Two Models for scoring guidance. If students have not included any of the listed elements in their answer, list possible elements for them to consider. Also, provide feedback to students on their written work and models that calls out any missing elements in order to bring these to students’ attention.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/6.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L11-AO1.html"
+      }
+    },
+    {
+      "id": "64-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: The Appalachian Mountains were formed approxi…",
+      "shortTitle": "Look for: The Appalachian Mountains were formed approxi…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Now that students have observed the formation of the Appalachian Mountains, the Ural Mountains, and the Himalayan Mountains using the virtual simulation, students can use the evidence they have collected to collaboratively construct a scientific explanation of the formation of the Appalachians and the Urals and make comparisons to the formation of the Himalayas. Students’ scientific explanation should include the following key ideas:\nThe Appalachian Mountains were formed approximately 470 million years ago and the Ural Mountains were formed more than 300 million years ago by the same processes that continue to cause the formation and growth of mountains today--the collision of plates.\nThe Appalachian and Ural Mountains are much, much older than the Himalayan Mountains, which were formed between 35 and 50 million years ago.\nThe Appalachians and the Urals were once growing mountain ranges, even though they are no longer growing.",
+      "whatToDo": "What to do: If students’ scientific explanation does not include the key ideas listed above, you can:\nRevisit the simulation, stopping at strategic points and ask students to describe what they observe and how it can be used as evidence to explain how and when the Appalachians and the Urals were formed.\nGuide students to look for similarities between the formation of the Himalayan Mountains and the formation of the Appalachians and the Urals, which can be observed using the virtual simulation.\nLet students work in small groups to revisit the simulation and write a claim supported by evidence about the formation of the Appalachian and the Ural Mountains. After small groups share their claims and evidence, the class can work together to collaboratively develop a scientific explanation that describes the formation of these two mountain ranges.\nSuggested prompt\nSample student response\nWhat claim can we make about the formation of the Appalachians and the Urals, and how does their formation compare to the formation of the Himalayas?\nThe Appalachian Mountains, which were formed about 470 million years ago, and the Ural Mountains, which were formed more than 300 million years ago, are much older than the Himalayan Mountains, which were formed sometime between 35 and 50 million years ago.\nThe Appalachian Mountains, the Ural Mountains, and the Himalayan Mountains were formed by plate collisions.\nThe Appalachians and the Urals were both growing mountain ranges for a period of time, even though they are no longer growing.\nWhat evidence do we have to support our claim?\nWe made observations and collected data from the Ancient Earth simulation.\nHow does the evidence support our claim?\nFrom our observations and the data we collected, we know about how long ago the Appalachians, the Urals, and the Himalayas were formed.\nThe simulation allowed us to observe the changes that have occurred at each mountain range over millions of years up to the present day.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.4 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L12-AO1.html"
+      }
+    },
+    {
+      "id": "64-13-erosion-rates-vs",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "title": "Erosion Rates vs.",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 13 — Erosion Rates vs..",
+      "files": {
+        "studentHandout": "lesson_13/original/6.4 Lesson 13 Assessment Erosion Rates vs..docx",
+        "teacherGuide": "lesson_13/original/6.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": "lesson_13/original/6.4 Lesson 13 Answer Key Erosion Rates vs..docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeHY_RfVAHWyOveHnnvksNht3YiDJB992gnLMPPLTeEzOm3og/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "64-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: See Erosion Rates vs",
+      "shortTitle": "Look for: /listen for: See Erosion Rates vs",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: See Erosion Rates vs. Uplift Rates for guidance.",
+      "whatToDo": "What to do: Depending on when in the year you teach this unit, your students may need more or less scaffolding with the mathematics used in this assessment. Unit rate and ratios are part of the Common Core State Standards for Mathematics in 6th grade. (CCSS.MATH.CONTENT.6.RP.A.3). Because the rates of change for Mt. Mitchell are per 1,000 years, students will need to do some conversions to figure out how much this mountain will be affected per year in order to be able to successfully make comparisons between Mt. Everest and Mt. Mitchell. Some students may need some scaffolding in these conversions. See Erosion Rates vs. Uplift Rates for more guidance.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/6.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L13-AO1.html"
+      }
+    },
+    {
+      "id": "64-14-fossil-assessment",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Fossil Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 14 — Fossil Assessment.",
+      "files": {
+        "studentHandout": "lesson_14/original/6.4 Lesson 14 Assessment Fossil Assessment.docx",
+        "teacherGuide": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/6.4 Lesson 14 Answer Key Key for the.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfam4be79skParfCsbSzOftW7-WwCZ5pAgPDWsrCeNQeA9rrA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "64-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Develop and use a model to show the tectonic process…",
+      "shortTitle": "Develop and use a model to show the tectonic process…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Develop and use a model to show the tectonic process of uplift can create mountains at a time scale too large to see.",
+      "lookListenFor": "",
+      "whatToDo": "What to do:\nRevisit the puzzle pieces from Lesson 11 and consider the placement of the Indian and Eurasian plates. Determine what had to occur over time for the two plates to have merged together.\nLook back at data (specifically coral reef data) to determine that there was once an ocean between India and Eurasia.\nDiscuss what must have happened to the oceanic plate material that used to exist between the two plates based upon the plate movement arrows on the basemap and GPS data, and what life would have once existed in that space.\nRevisit the slow plate folding processes from Lessons 6-9 to determine what occurred when the two plates collided to create the mountains we now see today.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L14-AO2.html"
+      }
+    },
+    {
+      "id": "64-14-ao-3",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for students to identify that the slow process of…",
+      "shortTitle": "Look for students to identify that the slow process of…",
+      "peCode": "14.B",
+      "buildingTowards": "Building towards: 14.B Construct an explanation based upon prior investigations and evidence that gradual changes have caused fish fossils to become exposed on mountains due to erosion (accumulating) over time and those gradual changes will lead to the destruction of the marine fossils due to erosional processes over time.",
+      "lookListenFor": "What to look for: Look for students to identify that the slow process of erosion on the mountain sides has caused the marine fossils to become exposed over time, and over time the currently exposed marine fossils will be eroded away, exposing matter from underneath the marine fossils. See Key for the Fossil Assessment for further guidance.",
+      "whatToDo": "What to do:\nRevisit science ideas listed by the class as evidence that can help to explain the sea lily fossil on Mt. Everest. Go over each piece of evidence independently and ask the students to explain how the data helps to answer the question.\nLook back at erosional data from Lesson 13 and have the students consider the changes to the fossil over time with the proposed erosional rate.\nAsk students to consider if the mountain range will always be as tall as it is, and if it will ever look like Mt. Mitchell. Determine that eventually it will erode away once uplift ceases, and along with it, the marine fossil will also erode away.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L14-AO3.html"
+      }
+    },
+    {
+      "id": "64-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for students to show an ancient ocean between the…",
+      "shortTitle": "Look for students to show an ancient ocean between the…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Develop and use a model to show the tectonic process of uplift can create mountains at a time scale too large to see.",
+      "lookListenFor": "What to look for: Look for students to show an ancient ocean between the Indian and Eurasian plate. Students should model the tectonic plate movement of the Indian plate from the Southern region of a world map to the Northern region over millions of years. Look for students to show that during this process, the oceanic plate material is broken up and some of that material is pushed up during the collision of the Indian plate and Eurasia over a scale that spans millions of years. This slow process of plate material folding should be modeled and explained, condensing millions of years into three distinct models. See Key for the Fossil Assessment for further guidance.",
+      "whatToDo": "What to do:\nRevisit the puzzle pieces from Lesson 11 and consider the placement of the Indian and Eurasian plates. Determine what had to occur over time for the two plates to have merged together.\nLook back at data (specifically coral reef data) to determine that there was once an ocean between India and Eurasia.\nDiscuss what must have happened to the oceanic plate material that used to exist between the two plates based upon the plate movement arrows on the basemap and GPS data, and what life would have once existed in that space.\nRevisit the slow plate folding processes from Lessons 6-9 to determine what occurred when the two plates collided to create the mountains we now see today.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-4",
+        "MS-ESS2-1"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-4/L14-AO1.html"
+      }
+    }
+  ]
+}

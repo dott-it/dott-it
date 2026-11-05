@@ -1,0 +1,849 @@
+{
+  "unitId": "6.1",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 6",
+  "unitFolder": "6.1 Light & Matter",
+  "unitDriveFolderId": "1Rtn_4v6Z2zAjFT5mHoTV5I6exLuAq5Kb",
+  "indexedAt": "2026-07-07T18:07:23.359Z",
+  "fileCount": 100,
+  "manifestPathCount": 37,
+  "matchedCount": 37,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "61-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1q-lCs5cP6FW0Xpxkv441p6PgK0XevWBx4aHDMg_Qi-k",
+      "driveRelativePath": "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:04.764Z"
+    },
+    {
+      "assessmentId": "61-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1q-lCs5cP6FW0Xpxkv441p6PgK0XevWBx4aHDMg_Qi-k",
+      "driveRelativePath": "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:04.764Z"
+    },
+    {
+      "assessmentId": "61-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1q-lCs5cP6FW0Xpxkv441p6PgK0XevWBx4aHDMg_Qi-k",
+      "driveRelativePath": "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:04.764Z"
+    },
+    {
+      "assessmentId": "61-2-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s3_1nHic_5_RW4Mb_hMQ5HYuQjmceUyMZlxiPQM8ewE",
+      "driveRelativePath": "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:50.709Z"
+    },
+    {
+      "assessmentId": "61-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s3_1nHic_5_RW4Mb_hMQ5HYuQjmceUyMZlxiPQM8ewE",
+      "driveRelativePath": "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:50.709Z"
+    },
+    {
+      "assessmentId": "61-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s3_1nHic_5_RW4Mb_hMQ5HYuQjmceUyMZlxiPQM8ewE",
+      "driveRelativePath": "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:50.709Z"
+    },
+    {
+      "assessmentId": "61-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s3_1nHic_5_RW4Mb_hMQ5HYuQjmceUyMZlxiPQM8ewE",
+      "driveRelativePath": "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:50.709Z"
+    },
+    {
+      "assessmentId": "61-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1xH_YlJ_f310JnKd4HPMLTn1cg0yjn2l0eVXi-VcIKjM",
+      "driveRelativePath": "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:36:50.662Z"
+    },
+    {
+      "assessmentId": "61-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1xH_YlJ_f310JnKd4HPMLTn1cg0yjn2l0eVXi-VcIKjM",
+      "driveRelativePath": "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:36:50.662Z"
+    },
+    {
+      "assessmentId": "61-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1xH_YlJ_f310JnKd4HPMLTn1cg0yjn2l0eVXi-VcIKjM",
+      "driveRelativePath": "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:36:50.662Z"
+    },
+    {
+      "assessmentId": "61-3-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1xH_YlJ_f310JnKd4HPMLTn1cg0yjn2l0eVXi-VcIKjM",
+      "driveRelativePath": "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:36:50.662Z"
+    },
+    {
+      "assessmentId": "61-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1vRsMBUhPZ9veue8v7zuKfGBtGIqdDIPVjKq-y6vvFAo",
+      "driveRelativePath": "Lesson 4 - 6.1 Light & Matter/6.1 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:37:20.461Z"
+    },
+    {
+      "assessmentId": "61-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "124HWvEZHjlhijWjkfK7bfm9TsWfhCLv2MURADRNv5pw",
+      "driveRelativePath": "Lesson 5 - 6.1 Light & Matter/6.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:37:47.701Z"
+    },
+    {
+      "assessmentId": "61-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1Z8DoXD5deblq13XcquaUfzzmacXwoIEWXeYrNCciqXI",
+      "driveRelativePath": "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:57.141Z"
+    },
+    {
+      "assessmentId": "61-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1Z8DoXD5deblq13XcquaUfzzmacXwoIEWXeYrNCciqXI",
+      "driveRelativePath": "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:57.141Z"
+    },
+    {
+      "assessmentId": "61-7-6-1-lesson-7-handout-self-assessment-and",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.1 Lesson 7 Handout Self Assessment and.docx",
+      "driveFileId": "1X6u3-qxMnJov6AT_be7BtVZ0CYO90P01WIPD7VBIfQw",
+      "driveRelativePath": "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Handout Self Assessment and",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:30.478Z"
+    },
+    {
+      "assessmentId": "61-7-6-1-lesson-7-handout-self-assessment-and",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1tAfL9m3KpVU0xBFdt8dmJxCP9VOw7m7UFbZqUbBrnsc",
+      "driveRelativePath": "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:59.191Z"
+    },
+    {
+      "assessmentId": "61-7-final-explanation-one-way",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.1 Lesson 7 Assessment Final explanation One-way.docx",
+      "driveFileId": "19tPcJm3Ec4iF3bCTm3zLvCVP3A29QL1vLs1N2EgV1KA",
+      "driveRelativePath": "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Assessment Final explanation One-way",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:23.078Z"
+    },
+    {
+      "assessmentId": "61-7-final-explanation-one-way",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1tAfL9m3KpVU0xBFdt8dmJxCP9VOw7m7UFbZqUbBrnsc",
+      "driveRelativePath": "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:59.191Z"
+    },
+    {
+      "assessmentId": "61-7-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.1 Lesson 7 Handout Peer Feedback Guidelines.docx",
+      "driveFileId": "1IpE-q42qQhshiwYteK1fBzzFn684S5bMTpMjcd7hDok",
+      "driveRelativePath": "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Handout Peer Feedback Guidelines",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:28.220Z"
+    },
+    {
+      "assessmentId": "61-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1tAfL9m3KpVU0xBFdt8dmJxCP9VOw7m7UFbZqUbBrnsc",
+      "driveRelativePath": "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:59.191Z"
+    },
+    {
+      "assessmentId": "61-8-portraits-through-glass",
+      "field": "studentHandout",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Assessment Portraits Through Glass.docx",
+      "driveFileId": "1Rz77CATNkAttTkFGGY_k7uzoP_4w-bQp8EbqnZwdlMY",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Assessment Portraits Through Glass",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:23.636Z"
+    },
+    {
+      "assessmentId": "61-8-portraits-through-glass",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1y3kXR9cfH25L19zFFTlNWw0iVy2O-GeJO-5aEnU_rs8",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:55.529Z"
+    },
+    {
+      "assessmentId": "61-8-portraits-through-glass",
+      "field": "answerKey",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Answer Key Portraits Through Glass.docx",
+      "driveFileId": "1hyumF3FF1TtN7Pka1IGZ4k-irIjROc5oN4gXKQsyIYk",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Answer Key Portraits Through Glass",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:19.342Z"
+    },
+    {
+      "assessmentId": "61-8-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1y3kXR9cfH25L19zFFTlNWw0iVy2O-GeJO-5aEnU_rs8",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:55.529Z"
+    },
+    {
+      "assessmentId": "61-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1y3kXR9cfH25L19zFFTlNWw0iVy2O-GeJO-5aEnU_rs8",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:55.529Z"
+    },
+    {
+      "assessmentId": "61-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1y3kXR9cfH25L19zFFTlNWw0iVy2O-GeJO-5aEnU_rs8",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:55.529Z"
+    },
+    {
+      "assessmentId": "61-8-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1y3kXR9cfH25L19zFFTlNWw0iVy2O-GeJO-5aEnU_rs8",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:55.529Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/6.1 Light & Matter Unit Overview Materials.docx",
+      "driveFileId": "1JJvX5K4aIdt-Bd1samDfV_RQ8a4VJlStgyiARLQUknA",
+      "driveRelativePath": "6.1 Light & Matter Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2025-08-22T23:25:40.196Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/6.1 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1q-lCs5cP6FW0Xpxkv441p6PgK0XevWBx4aHDMg_Qi-k",
+      "driveRelativePath": "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:04.764Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/6.1 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1s3_1nHic_5_RW4Mb_hMQ5HYuQjmceUyMZlxiPQM8ewE",
+      "driveRelativePath": "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:35:50.709Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/6.1 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1xH_YlJ_f310JnKd4HPMLTn1cg0yjn2l0eVXi-VcIKjM",
+      "driveRelativePath": "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:36:50.662Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/6.1 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1vRsMBUhPZ9veue8v7zuKfGBtGIqdDIPVjKq-y6vvFAo",
+      "driveRelativePath": "Lesson 4 - 6.1 Light & Matter/6.1 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:37:20.461Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/6.1 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "124HWvEZHjlhijWjkfK7bfm9TsWfhCLv2MURADRNv5pw",
+      "driveRelativePath": "Lesson 5 - 6.1 Light & Matter/6.1 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:37:47.701Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/6.1 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1Z8DoXD5deblq13XcquaUfzzmacXwoIEWXeYrNCciqXI",
+      "driveRelativePath": "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:38:57.141Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/6.1 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1tAfL9m3KpVU0xBFdt8dmJxCP9VOw7m7UFbZqUbBrnsc",
+      "driveRelativePath": "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:59.191Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/6.1 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1y3kXR9cfH25L19zFFTlNWw0iVy2O-GeJO-5aEnU_rs8",
+      "driveRelativePath": "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:55.529Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "6.1 Light & Matter Unit Overview Materials": {
+      "driveFileId": "1JJvX5K4aIdt-Bd1samDfV_RQ8a4VJlStgyiARLQUknA",
+      "name": "6.1 Light & Matter Unit Overview Materials",
+      "modifiedTime": "2025-08-22T23:25:40.196Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1dUHpHzvXPeydwLQ6y9HrItuB0JJWxC5a",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-13T20:41:16.137Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1Pih6rtwZN0BwG2eGUqgjSAAN4dMPx3jN",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-13T20:41:14.727Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1FGVpDZjRGSKZOIpZla-2hKu26FyABMHx",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-13T20:41:13.121Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1TaQZ2Rva-gCdb5CTlZ8rQD4QMyRTZuu3",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-13T20:41:12.173Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1kYSfT2hQ0VRhHKh-Axww9txPfkwTwufd",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-13T20:41:10.018Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Reference Testable Questions (Asking": {
+      "driveFileId": "1_hSF71brEyU4DeVBAHwzl5m3AKLlQ5ZGkTHKHvRbCAY",
+      "name": "6.1 Lesson 8 Teacher Reference Testable Questions (Asking",
+      "modifiedTime": "2024-08-13T20:41:09.311Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Reference Open and Closed": {
+      "driveFileId": "15Tb5CydqiTIe4XvnsgTeeoCmX1tp8WVkVIcg9appKkA",
+      "name": "6.1 Lesson 8 Teacher Reference Open and Closed",
+      "modifiedTime": "2024-08-13T20:41:03.427Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Reference Extension Opportunity Surface": {
+      "driveFileId": "1mTjvcdOe0T08WJKa34bgXzrJ_HxIQFq9UEKXtEfoOEo",
+      "name": "6.1 Lesson 8 Teacher Reference Extension Opportunity Surface",
+      "modifiedTime": "2024-08-13T20:41:02.327Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Reference Experimental Questions (Asking": {
+      "driveFileId": "1NmjW1uFKy1nbw1pokn9fD0SnWwgRLmgTPCEXZD6Q3aM",
+      "name": "6.1 Lesson 8 Teacher Reference Experimental Questions (Asking",
+      "modifiedTime": "2024-08-13T20:40:57.941Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Teacher Edition": {
+      "driveFileId": "1y3kXR9cfH25L19zFFTlNWw0iVy2O-GeJO-5aEnU_rs8",
+      "name": "6.1 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:55.529Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1pJ3hASTCQpAh-3PrBPFKoz4KD1lGAeSQSyKXnqF0Q2Y",
+      "name": "6.1 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:51.119Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Student Procedure": {
+      "driveFileId": "1Hj_scf2B2LcRnXFBs3fT9Q2Z7WNpyGpUVTmInHA97xY",
+      "name": "6.1 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:46.116Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Slides": {
+      "driveFileId": "1po6_D9cZmDgzw-qiS5BxkEkDGWTb2aJiNJTlNxIbDYI",
+      "name": "6.1 Lesson 8 Slides",
+      "modifiedTime": "2024-08-13T20:40:41.461Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Handout Reading Walt Disney": {
+      "driveFileId": "1Y17vWNH5MaR25B5-94xKk4IDiaSGZxjjrZOZZqLV8Us",
+      "name": "6.1 Lesson 8 Handout Reading Walt Disney",
+      "modifiedTime": "2024-08-13T20:40:33.948Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Handout Let’s Answer Questions": {
+      "driveFileId": "1lZuxsWSen0Z_mBapwywwsCVqe4NncsXjvsCg1C7SBWQ",
+      "name": "6.1 Lesson 8 Handout Let’s Answer Questions",
+      "modifiedTime": "2024-08-13T20:40:30.726Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Handout Explaining New Phenomena": {
+      "driveFileId": "12Q19_WUPseIXtMuJUCbYu6s5301zNp0cwrmWbMoG79E",
+      "name": "6.1 Lesson 8 Handout Explaining New Phenomena",
+      "modifiedTime": "2024-08-13T20:40:27.719Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Assessment Portraits Through Glass": {
+      "driveFileId": "1Rz77CATNkAttTkFGGY_k7uzoP_4w-bQp8EbqnZwdlMY",
+      "name": "6.1 Lesson 8 Assessment Portraits Through Glass",
+      "modifiedTime": "2024-08-13T20:40:23.636Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lesson 8 Answer Key Portraits Through Glass": {
+      "driveFileId": "1hyumF3FF1TtN7Pka1IGZ4k-irIjROc5oN4gXKQsyIYk",
+      "name": "6.1 Lesson 8 Answer Key Portraits Through Glass",
+      "modifiedTime": "2024-08-13T20:40:19.342Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lección 8 Folleto ¡Respondamos preguntas de": {
+      "driveFileId": "1RBIPJnhg6Y6G62bxqa2Zh6Lc6tigr8USwaVTvtZ35x4",
+      "name": "6.1 Lección 8 Folleto ¡Respondamos preguntas de",
+      "modifiedTime": "2024-08-13T20:40:14.308Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lección 8 Folleto Lectura Estudio de": {
+      "driveFileId": "1vnk6cbsmx5g1KLSlpbGb8eekOgjHztwX3EZNbGrHUgQ",
+      "name": "6.1 Lección 8 Folleto Lectura Estudio de",
+      "modifiedTime": "2024-08-13T20:40:11.202Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lección 8 Folleto Explicando nuevos fenómenos": {
+      "driveFileId": "1WNfY1yhLe8E6RJ8061VYSrj_HQ39sQ3I5Gx3Utp-nlA",
+      "name": "6.1 Lección 8 Folleto Explicando nuevos fenómenos",
+      "modifiedTime": "2024-08-13T20:40:08.034Z"
+    },
+    "Lesson 8 - 6.1 Light & Matter/6.1 Lección 8 Evaluación Retratos a través": {
+      "driveFileId": "1bhT4qSUAZyNVrTQ9gqHas9zrdvHjfMkST2ZcmJIlxJE",
+      "name": "6.1 Lección 8 Evaluación Retratos a través",
+      "modifiedTime": "2024-08-13T20:40:00.787Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Teacher Edition": {
+      "driveFileId": "1tAfL9m3KpVU0xBFdt8dmJxCP9VOw7m7UFbZqUbBrnsc",
+      "name": "6.1 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:39:59.191Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1uuFJPrtta89sSD5c8_uDtWlSk1NaOwSqOIyYvP5BpU8",
+      "name": "6.1 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:39:54.636Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Student Procedure": {
+      "driveFileId": "1aUhBonmVW3IV1_CdC_74RxakOvfFg1k-Wj4P7N16Lik",
+      "name": "6.1 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T20:39:48.389Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Slides": {
+      "driveFileId": "1br0TZqJrF6Wsd-mOH9NuHZ5WPN_wGSUNj23o_b1hhd8",
+      "name": "6.1 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:39:37.120Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Rubric Rubric Explaining the": {
+      "driveFileId": "1Atm-1m8rRRb6ovt_QZczEXJatBTaPFRZZ2kmUiqHCJo",
+      "name": "6.1 Lesson 7 Rubric Rubric Explaining the",
+      "modifiedTime": "2024-08-13T20:39:36.168Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1JGY2bGbN1BNoGZT5q71YPoefh7-dnpJYa6djNlOPj7w",
+      "name": "6.1 Lesson 7 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-13T20:39:33.410Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Handout Self Assessment and": {
+      "driveFileId": "1X6u3-qxMnJov6AT_be7BtVZ0CYO90P01WIPD7VBIfQw",
+      "name": "6.1 Lesson 7 Handout Self Assessment and",
+      "modifiedTime": "2024-08-13T20:39:30.478Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Handout Peer Feedback Guidelines": {
+      "driveFileId": "1IpE-q42qQhshiwYteK1fBzzFn684S5bMTpMjcd7hDok",
+      "name": "6.1 Lesson 7 Handout Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-13T20:39:28.220Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Handout Explaining the one-way": {
+      "driveFileId": "12kWqn6lv7cpgDI1TgUzlpDOL-OLVXQ1-6H30mDfeuW4",
+      "name": "6.1 Lesson 7 Handout Explaining the one-way",
+      "modifiedTime": "2024-08-13T20:39:25.506Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lesson 7 Assessment Final explanation One-way": {
+      "driveFileId": "19tPcJm3Ec4iF3bCTm3zLvCVP3A29QL1vLs1N2EgV1KA",
+      "name": "6.1 Lesson 7 Assessment Final explanation One-way",
+      "modifiedTime": "2024-08-13T20:39:23.078Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lección 7 Referencia Pautas para la": {
+      "driveFileId": "1umvCaN11pJFVduwmUKOCPOojwd0eMxsUhSWNF2KxXyo",
+      "name": "6.1 Lección 7 Referencia Pautas para la",
+      "modifiedTime": "2024-08-13T20:39:19.941Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lección 7 Folleto Pautas para la": {
+      "driveFileId": "1IQqbLaBaCpy3uFFQnSbJN3m4aO-QyXXIGiYqlGM8qtY",
+      "name": "6.1 Lección 7 Folleto Pautas para la",
+      "modifiedTime": "2024-08-13T20:39:17.072Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lección 7 Folleto Explicando el fenómeno": {
+      "driveFileId": "1rrv34giOqXcJ0sJoaR6UZ17nwVeIhzLLWRy9MS3QmpM",
+      "name": "6.1 Lección 7 Folleto Explicando el fenómeno",
+      "modifiedTime": "2024-08-13T20:39:09.677Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lección 7 Folleto Autoevaluación y retroalimentación": {
+      "driveFileId": "1wdU_IdN6k-xUwaik9_Ymfiw4eIcdRTm8M-U6t1OkxEY",
+      "name": "6.1 Lección 7 Folleto Autoevaluación y retroalimentación",
+      "modifiedTime": "2024-08-13T20:39:08.826Z"
+    },
+    "Lesson 7 - 6.1 Light & Matter/6.1 Lección 7 Evaluación Explicación final fenómeno": {
+      "driveFileId": "1gWSb9igIHMZMOXtGbHMcaIDEB3XdUFFCrVf2qKrqZq8",
+      "name": "6.1 Lección 7 Evaluación Explicación final fenómeno",
+      "modifiedTime": "2024-08-13T20:39:05.559Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Teacher Reference Extension Opportunity Refraction": {
+      "driveFileId": "1XdDIrEw_hYuDsortFgKhJ0s7ZCVV_l_RHWToDsFlVHw",
+      "name": "6.1 Lesson 6 Teacher Reference Extension Opportunity Refraction",
+      "modifiedTime": "2024-08-13T20:39:00.516Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Teacher Edition": {
+      "driveFileId": "1Z8DoXD5deblq13XcquaUfzzmacXwoIEWXeYrNCciqXI",
+      "name": "6.1 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:38:57.141Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1UfAgo798N_CoPBSnZQ9Z8RgiwjysbpgXBME9hOxMmoc",
+      "name": "6.1 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:38:53.018Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Student Procedure": {
+      "driveFileId": "1Jo967gBRTndCEh9w2GMUidrywncB1-IcxCf9OJvw4UI",
+      "name": "6.1 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:38:47.675Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Slides": {
+      "driveFileId": "1gdt14TxbgB0FopG0L6_TOs3I1ncxOD72rDkDJeYkPyY",
+      "name": "6.1 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:38:43.033Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Handout Why does the": {
+      "driveFileId": "1V9TKkks-k4DopE19aKmwjb1sPyEv8utX-6wK9Rv1k5E",
+      "name": "6.1 Lesson 6 Handout Why does the",
+      "modifiedTime": "2024-08-13T20:38:14.133Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Handout Transcript How the": {
+      "driveFileId": "1cfbA2yVosht4VqX4S3ef4UHVLp2z_Lup-bNwA9kUBd0",
+      "name": "6.1 Lesson 6 Handout Transcript How the",
+      "modifiedTime": "2024-08-13T20:38:08.322Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lesson 6 Handout Reading How do": {
+      "driveFileId": "1buWhkJkAp9zD2qAJSjEtuVpl0XIcaXSzwRj8nc003YY",
+      "name": "6.1 Lesson 6 Handout Reading How do",
+      "modifiedTime": "2024-08-13T20:38:04.279Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lección 6 Folleto ¿Por qué el": {
+      "driveFileId": "1I5rSskKQuUxM7xOxzpPJ22gUlEzbZlgGk8R2EcMAS5U",
+      "name": "6.1 Lección 6 Folleto ¿Por qué el",
+      "modifiedTime": "2024-08-13T20:38:00.397Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lección 6 Folleto Transcripción Cómo funcionan": {
+      "driveFileId": "1xuEPyS9JYT4mJde5vxT5IpSDElrczBJP3GmqLwjq-Hs",
+      "name": "6.1 Lección 6 Folleto Transcripción Cómo funcionan",
+      "modifiedTime": "2024-08-13T20:37:55.540Z"
+    },
+    "Lesson 6 - 6.1 Light & Matter/6.1 Lección 6 Folleto Lectura ¿Cómo ayudan": {
+      "driveFileId": "1OrzUvMWgHJDQYgUxtcO0iBY1Ljj8w4mdHbRqoyxgkLA",
+      "name": "6.1 Lección 6 Folleto Lectura ¿Cómo ayudan",
+      "modifiedTime": "2024-08-13T20:37:53.035Z"
+    },
+    "Lesson 5 - 6.1 Light & Matter/6.1 Lesson 5 Teacher Edition": {
+      "driveFileId": "124HWvEZHjlhijWjkfK7bfm9TsWfhCLv2MURADRNv5pw",
+      "name": "6.1 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:37:47.701Z"
+    },
+    "Lesson 5 - 6.1 Light & Matter/6.1 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1zN3SmnuXGFR0FdM-0_hsAWVEw6Y8WAKIhrH7veh0_7s",
+      "name": "6.1 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:37:42.004Z"
+    },
+    "Lesson 5 - 6.1 Light & Matter/6.1 Lesson 5 Student Procedure": {
+      "driveFileId": "1qck3DabOp3QTNg78wg3Cdkan46Z-GzuurK2zl0UfoEA",
+      "name": "6.1 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:37:38.523Z"
+    },
+    "Lesson 5 - 6.1 Light & Matter/6.1 Lesson 5 Slides": {
+      "driveFileId": "1loDzQvPX4wroLM4x-JlV_mXC9pADs29k3a0PhJaU9Og",
+      "name": "6.1 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:37:34.899Z"
+    },
+    "Lesson 5 - 6.1 Light & Matter/6.1 Lesson 5 Handout Why do the": {
+      "driveFileId": "1lakARRLycB3cIZK9WjmRWCdjSfr_p4gBTV4gXQLghB4",
+      "name": "6.1 Lesson 5 Handout Why do the",
+      "modifiedTime": "2024-08-13T20:37:31.436Z"
+    },
+    "Lesson 5 - 6.1 Light & Matter/6.1 Lección 5 Folleto ¿Por qué el": {
+      "driveFileId": "1BC1yCUggq0sM7CjKMwwh98pnmmOPA2bhg_YW2mN_XRw",
+      "name": "6.1 Lección 5 Folleto ¿Por qué el",
+      "modifiedTime": "2024-08-13T20:37:22.122Z"
+    },
+    "Lesson 4 - 6.1 Light & Matter/6.1 Lesson 4 Teacher Edition": {
+      "driveFileId": "1vRsMBUhPZ9veue8v7zuKfGBtGIqdDIPVjKq-y6vvFAo",
+      "name": "6.1 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:37:20.461Z"
+    },
+    "Lesson 4 - 6.1 Light & Matter/6.1 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1rFYeBmmtA21_6mCJxgWYpc9iMdGn_wb0M7e7eLmIyhE",
+      "name": "6.1 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:37:16.124Z"
+    },
+    "Lesson 4 - 6.1 Light & Matter/6.1 Lesson 4 Student Procedure": {
+      "driveFileId": "19aHjDeT7umkt066voRzPXQNDPBS8qyMUa8nBD7lunOQ",
+      "name": "6.1 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:37:11.659Z"
+    },
+    "Lesson 4 - 6.1 Light & Matter/6.1 Lesson 4 Slides": {
+      "driveFileId": "1rWP3hZeJSSf-Qi-ehhw2U3tmt6NHJXVF6Rk0ryo7ZWc",
+      "name": "6.1 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:37:06.116Z"
+    },
+    "Lesson 4 - 6.1 Light & Matter/6.1 Lesson 4 Handout Reading How is": {
+      "driveFileId": "1AScObO-NRilZuB8B5-8uvzodV4RiYZqT7IIyG3zrEJk",
+      "name": "6.1 Lesson 4 Handout Reading How is",
+      "modifiedTime": "2024-08-13T20:37:02.556Z"
+    },
+    "Lesson 4 - 6.1 Light & Matter/6.1 Lección 4 Folleto Lectura ¿Cómo se": {
+      "driveFileId": "1eY1NSljjR1d6ggHigvJx6LdEjDofQA4cccoDbx2pQDc",
+      "name": "6.1 Lección 4 Folleto Lectura ¿Cómo se",
+      "modifiedTime": "2024-08-13T20:36:59.156Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Teacher Reference Measuring Light Investigation": {
+      "driveFileId": "1FHxCiB2Jy-NC0zhVyYKrXvvKslXoeOsZj31w9H5f6Sg",
+      "name": "6.1 Lesson 3 Teacher Reference Measuring Light Investigation",
+      "modifiedTime": "2024-08-13T20:36:54.582Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Teacher Edition": {
+      "driveFileId": "1xH_YlJ_f310JnKd4HPMLTn1cg0yjn2l0eVXi-VcIKjM",
+      "name": "6.1 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:36:50.662Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1PZKKxJyVQvk5iTWmhCWYKnGfdFJyiCTRQfRFthu0KX0",
+      "name": "6.1 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:36:40.243Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Student Procedure": {
+      "driveFileId": "1m2nm-8gMEMSOjCqaNwj6FtUM6AG_FDijVwhlO5xatac",
+      "name": "6.1 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:36:39.311Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Slides": {
+      "driveFileId": "1umSWq9DfP41W3MZXv2W6RDs4C5n0K_txIhiYg4eHU8M",
+      "name": "6.1 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:36:33.391Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Handout Template for the": {
+      "driveFileId": "1mmFO9oNFClcIwvWXGIQHbLYXcWSWmvrvo_AfoSgPkTI",
+      "name": "6.1 Lesson 3 Handout Template for the",
+      "modifiedTime": "2024-08-13T20:36:28.768Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Handout Measuring Light Investigation": {
+      "driveFileId": "1AbUiDwgdAQUIi2ux_U5S1-gQjaY_dwOirxHpI2NcfZ4",
+      "name": "6.1 Lesson 3 Handout Measuring Light Investigation",
+      "modifiedTime": "2024-08-13T20:36:24.481Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Handout Asking Questions Tool": {
+      "driveFileId": "1ZXbe4Gomn4dF_RIdEF4NVyOnJ6VF8vJFRcFpXVwM0RY",
+      "name": "6.1 Lesson 3 Handout Asking Questions Tool",
+      "modifiedTime": "2024-08-13T20:36:15.366Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lesson 3 Answer Key Asking Questions Tool": {
+      "driveFileId": "1QN3g0awNVuBpVwSFR-vi7LhBbUg1XXXZ2V_vVsaTKME",
+      "name": "6.1 Lesson 3 Answer Key Asking Questions Tool",
+      "modifiedTime": "2024-08-13T20:36:14.489Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lección 3 Folleto Procedimientos de Investigaciones": {
+      "driveFileId": "1matUBOv378KnJeTAtEgYKuLqXY0uMO7EPBN9Svy_E6s",
+      "name": "6.1 Lección 3 Folleto Procedimientos de Investigaciones",
+      "modifiedTime": "2024-08-13T20:36:11.342Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lección 3 Folleto Modelo para la": {
+      "driveFileId": "1vK4vOw8MsXz22rvJi1NCabbak7MJdJXOE2NPlhX0QI4",
+      "name": "6.1 Lección 3 Folleto Modelo para la",
+      "modifiedTime": "2024-08-13T20:36:08.379Z"
+    },
+    "Lesson 3 - 6.1 Light & Matter/6.1 Lección 3 Folleto Guía para hacer": {
+      "driveFileId": "1iRKag70QulJsGOXMZABB5P_hfyg98FKP30u-NdLS_Ro",
+      "name": "6.1 Lección 3 Folleto Guía para hacer",
+      "modifiedTime": "2024-08-13T20:36:05.160Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Reference Building Prerequisite Understanding": {
+      "driveFileId": "1Suq4msTQ4_Uiw98qpNiMXP9lkIeO7FxfoN-aghdBz9s",
+      "name": "6.1 Lesson 2 Teacher Reference Building Prerequisite Understanding",
+      "modifiedTime": "2024-08-13T20:36:01.687Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Reference Box Model Modification": {
+      "driveFileId": "1DHhHwql6PWsYpX7FbsDU-IUSFWoykknsu5kaEczi05I",
+      "name": "6.1 Lesson 2 Teacher Reference Box Model Modification",
+      "modifiedTime": "2024-08-13T20:35:51.634Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Teacher Edition": {
+      "driveFileId": "1s3_1nHic_5_RW4Mb_hMQ5HYuQjmceUyMZlxiPQM8ewE",
+      "name": "6.1 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:35:50.709Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1Fy6hNleK5jHbPdequVNvI5a6RQbrP4Rr4WPowI4sYPM",
+      "name": "6.1 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:35:46.357Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Student Procedure": {
+      "driveFileId": "16OxERxq5D3iiz_l8-POmBOsfRSogHXtPlzeTQ_ymF1U",
+      "name": "6.1 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:35:42.712Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Slides": {
+      "driveFileId": "1O4xqEOy8IS3apedh4T8vY_ctMSOG4l8ee95YnKM-44o",
+      "name": "6.1 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:35:38.641Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Handout Testing Light Scenarios": {
+      "driveFileId": "1ybNfpxaKVTwDjxGpUqcpU2dPVXSAPhq6t8LIYB4Qfcc",
+      "name": "6.1 Lesson 2 Handout Testing Light Scenarios",
+      "modifiedTime": "2024-08-13T20:35:30.669Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Handout Representing the Path": {
+      "driveFileId": "1bkDhqVJzkIuk6DNU2NJcidzTlwEwxkDhzm1LYW5YYPQ",
+      "name": "6.1 Lesson 2 Handout Representing the Path",
+      "modifiedTime": "2024-08-13T20:35:27.794Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lesson 2 Answer Key Key Representing the": {
+      "driveFileId": "1DTh5rAH7sljkU6x_sGUWtH5U6EqZv93SC_iEXouIVbw",
+      "name": "6.1 Lesson 2 Answer Key Key Representing the",
+      "modifiedTime": "2024-08-13T20:35:23.921Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lección 2 Folleto Representando el camino": {
+      "driveFileId": "1dkQNKy8nNEQU8MuyKnGxfjfDHgCP7B-0AnOL9115KIA",
+      "name": "6.1 Lección 2 Folleto Representando el camino",
+      "modifiedTime": "2024-08-13T20:35:19.490Z"
+    },
+    "Lesson 2 - 6.1 Light & Matter/6.1 Lección 2 Folleto Probando escenarios de": {
+      "driveFileId": "1H4F7htwxsEzHSOvK35Qu6Ht4_1Dgdx24xRNX7YdF0gw",
+      "name": "6.1 Lección 2 Folleto Probando escenarios de",
+      "modifiedTime": "2024-08-13T20:35:15.746Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Teacher Reference Example Student Ideas": {
+      "driveFileId": "18pWy1j1iC6fHjexRTHMRiqMjrBPhzegzAslU1O57pRI",
+      "name": "6.1 Lesson 1 Teacher Reference Example Student Ideas",
+      "modifiedTime": "2024-08-13T20:35:11.930Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Teacher Reference Box Model Assembly": {
+      "driveFileId": "1q2yXORAvmzKWYqk5jitcxgHrBDGzJj3ZL5RE7Mbuajw",
+      "name": "6.1 Lesson 1 Teacher Reference Box Model Assembly",
+      "modifiedTime": "2024-08-13T20:35:09.335Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Teacher Edition": {
+      "driveFileId": "1q-lCs5cP6FW0Xpxkv441p6PgK0XevWBx4aHDMg_Qi-k",
+      "name": "6.1 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:35:04.764Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "13zQgrvU8MTjB1asWGYwx4iRJaWZHrRH1XH8EynVKD-Q",
+      "name": "6.1 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:35:00.761Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Student Procedure": {
+      "driveFileId": "10UmDGpxtMtkV85PaPFvqEkwegOoAJo5HMSt4CWvS_uc",
+      "name": "6.1 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:34:56.972Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Slides": {
+      "driveFileId": "1p9KGJBEIsOV85r99Rwyiqv2XHmp6c14jS09zDsHZaHo",
+      "name": "6.1 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:34:52.090Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Handout Transcript Box Model": {
+      "driveFileId": "1sWvm9Hz-B5Wd861CjeNLY6XhNiY0qBHQAf_ZNwOM8v0",
+      "name": "6.1 Lesson 1 Handout Transcript Box Model",
+      "modifiedTime": "2024-08-13T20:34:47.489Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Handout Science Classroom Norms": {
+      "driveFileId": "15bORvsr5_tTF9vtqXGpBL3RyNxnFofPrEzivDGoE6WI",
+      "name": "6.1 Lesson 1 Handout Science Classroom Norms",
+      "modifiedTime": "2024-08-13T20:34:45.058Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lesson 1 Handout Initial diagram to": {
+      "driveFileId": "1sbANIRYhQ7ndAqzy61-ziJ4jIFXsOWZpRXpN8Fe5qqI",
+      "name": "6.1 Lesson 1 Handout Initial diagram to",
+      "modifiedTime": "2024-08-13T20:34:42.215Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lección 1 Folleto Transcripción Investigación del": {
+      "driveFileId": "1jRwOMbLcwKkkjUP7VGCXZR8mw73-ZtRHr1fjEaujvvQ",
+      "name": "6.1 Lección 1 Folleto Transcripción Investigación del",
+      "modifiedTime": "2024-08-13T20:34:38.064Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lección 1 Folleto Normas en la": {
+      "driveFileId": "1YyqGZEup4TAihueToNR19Ril03hpqjuPKocdWEZPmMk",
+      "name": "6.1 Lección 1 Folleto Normas en la",
+      "modifiedTime": "2024-08-13T20:34:35.716Z"
+    },
+    "Lesson 1 - 6.1 Light & Matter/6.1 Lección 1 Folleto Diagrama inicial para": {
+      "driveFileId": "1Q2nGc1yK5Ds74h7Dv4M5AEkFQp7cTzQ7w2m2MeReOv0",
+      "name": "6.1 Lección 1 Folleto Diagrama inicial para",
+      "modifiedTime": "2024-08-13T20:34:33.054Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1KWRCR2zXp0K_DGaXCQWXiG7ZpOWG5ZM9",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:34:28.616Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1y7hO5th76zlQZPkMrXnSGXOGIvdLk4sX",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:34:27.607Z"
+    },
+    "6.1 Light & Matter Video Links.pdf": {
+      "driveFileId": "1MoVdSc2LF37AEINCoqYZlhF-9n_VQfIo",
+      "name": "6.1 Light & Matter Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:34:26.558Z"
+    },
+    "6.1 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1CMlo8YXGAlfcMiqvRF6aPUNdwdiZT1GH",
+      "name": "6.1 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:34:19.325Z"
+    }
+  }
+}

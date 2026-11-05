@@ -1,0 +1,1811 @@
+{
+  "unitId": "8.6",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 8",
+  "unitFolder": "8.6 Natural Selection & Common Ancestry",
+  "unitDriveFolderId": "12N_5LT5k-eu_GHE7k-H77_ROui0cePrp",
+  "indexedAt": "2026-08-17T15:35:50.513Z",
+  "fileCount": 242,
+  "manifestPathCount": 65,
+  "matchedCount": 65,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "86-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1fJrwJWrCky_Kfr-16S5B2dKRXPSkKtL_xgoMXFq7t2M",
+      "driveRelativePath": "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:38.756Z"
+    },
+    {
+      "assessmentId": "86-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1fJrwJWrCky_Kfr-16S5B2dKRXPSkKtL_xgoMXFq7t2M",
+      "driveRelativePath": "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:38.756Z"
+    },
+    {
+      "assessmentId": "86-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1fJrwJWrCky_Kfr-16S5B2dKRXPSkKtL_xgoMXFq7t2M",
+      "driveRelativePath": "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:38.756Z"
+    },
+    {
+      "assessmentId": "86-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1KQAbKOGLKqCK957uBqBDAGtG3U4cxqWmyg_8TexbQnY",
+      "driveRelativePath": "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:06.973Z"
+    },
+    {
+      "assessmentId": "86-2-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1KQAbKOGLKqCK957uBqBDAGtG3U4cxqWmyg_8TexbQnY",
+      "driveRelativePath": "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:06.973Z"
+    },
+    {
+      "assessmentId": "86-2-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1KQAbKOGLKqCK957uBqBDAGtG3U4cxqWmyg_8TexbQnY",
+      "driveRelativePath": "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:06.973Z"
+    },
+    {
+      "assessmentId": "86-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1KQAbKOGLKqCK957uBqBDAGtG3U4cxqWmyg_8TexbQnY",
+      "driveRelativePath": "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:06.973Z"
+    },
+    {
+      "assessmentId": "86-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1KQAbKOGLKqCK957uBqBDAGtG3U4cxqWmyg_8TexbQnY",
+      "driveRelativePath": "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:06.973Z"
+    },
+    {
+      "assessmentId": "86-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13fAL0sYvIpgjaOqFtO77GA0dqzS6faBW97Mj-EXV604",
+      "driveRelativePath": "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:42:53.683Z"
+    },
+    {
+      "assessmentId": "86-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13fAL0sYvIpgjaOqFtO77GA0dqzS6faBW97Mj-EXV604",
+      "driveRelativePath": "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:42:53.683Z"
+    },
+    {
+      "assessmentId": "86-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13fAL0sYvIpgjaOqFtO77GA0dqzS6faBW97Mj-EXV604",
+      "driveRelativePath": "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:42:53.683Z"
+    },
+    {
+      "assessmentId": "86-3-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13fAL0sYvIpgjaOqFtO77GA0dqzS6faBW97Mj-EXV604",
+      "driveRelativePath": "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:42:53.683Z"
+    },
+    {
+      "assessmentId": "86-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1ZstJvjBQsrFOnhIXxlA5nOHc_Bw6VPlqzzIHQ5imFfg",
+      "driveRelativePath": "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:43:44.535Z"
+    },
+    {
+      "assessmentId": "86-4-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1ZstJvjBQsrFOnhIXxlA5nOHc_Bw6VPlqzzIHQ5imFfg",
+      "driveRelativePath": "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:43:44.535Z"
+    },
+    {
+      "assessmentId": "86-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1ZstJvjBQsrFOnhIXxlA5nOHc_Bw6VPlqzzIHQ5imFfg",
+      "driveRelativePath": "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:43:44.535Z"
+    },
+    {
+      "assessmentId": "86-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1ZstJvjBQsrFOnhIXxlA5nOHc_Bw6VPlqzzIHQ5imFfg",
+      "driveRelativePath": "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:43:44.535Z"
+    },
+    {
+      "assessmentId": "86-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1qiTJfa59r2xn9NVRkqddjuok3A2CdqxBNG3nlFNqkxw",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:46:42.989Z"
+    },
+    {
+      "assessmentId": "86-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1qiTJfa59r2xn9NVRkqddjuok3A2CdqxBNG3nlFNqkxw",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:46:42.989Z"
+    },
+    {
+      "assessmentId": "86-5-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1qiTJfa59r2xn9NVRkqddjuok3A2CdqxBNG3nlFNqkxw",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:46:42.989Z"
+    },
+    {
+      "assessmentId": "86-5-ao-4",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Handout Reference Peer Feedback.docx",
+      "driveFileId": "1Z2cZRPGfq-tbnwWAAcCycWUhJDVmGiY6kBo-YThtrEk",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Reference Peer Feedback",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:45:44.067Z"
+    },
+    {
+      "assessmentId": "86-5-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1qiTJfa59r2xn9NVRkqddjuok3A2CdqxBNG3nlFNqkxw",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:46:42.989Z"
+    },
+    {
+      "assessmentId": "86-5-ao-5",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Handout Reference Peer Feedback.docx",
+      "driveFileId": "1Z2cZRPGfq-tbnwWAAcCycWUhJDVmGiY6kBo-YThtrEk",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Reference Peer Feedback",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:45:44.067Z"
+    },
+    {
+      "assessmentId": "86-5-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1qiTJfa59r2xn9NVRkqddjuok3A2CdqxBNG3nlFNqkxw",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:46:42.989Z"
+    },
+    {
+      "assessmentId": "86-6-how-are-penguins-and-polar-bears-adapted-to-where-they-live",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Assessment “How are penguins.docx",
+      "driveFileId": "19coghXM6wKrXfxyAa6uR76J82Jw8AmOQLHjU6Yxm3Y4",
+      "driveRelativePath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Assessment “How are penguins",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:46:54.523Z"
+    },
+    {
+      "assessmentId": "86-6-how-are-penguins-and-polar-bears-adapted-to-where-they-live",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1OYw3-cmaFoDXIdiNBykALAYmW8rt4ZP5U_xV6O15tSc",
+      "driveRelativePath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:47:09.933Z"
+    },
+    {
+      "assessmentId": "86-6-how-are-penguins-and-polar-bears-adapted-to-where-they-live",
+      "field": "answerKey",
+      "manifestPath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Answer Key Key Argument for.docx",
+      "driveFileId": "1WvAuKX6R1orl20eIF07Hk7SWFoK6hxk5MOfo9D9DPRA",
+      "driveRelativePath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Answer Key Key Argument for",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:46:50.834Z"
+    },
+    {
+      "assessmentId": "86-6-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1OYw3-cmaFoDXIdiNBykALAYmW8rt4ZP5U_xV6O15tSc",
+      "driveRelativePath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:47:09.933Z"
+    },
+    {
+      "assessmentId": "86-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1OYw3-cmaFoDXIdiNBykALAYmW8rt4ZP5U_xV6O15tSc",
+      "driveRelativePath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:47:09.933Z"
+    },
+    {
+      "assessmentId": "86-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1OYw3-cmaFoDXIdiNBykALAYmW8rt4ZP5U_xV6O15tSc",
+      "driveRelativePath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:47:09.933Z"
+    },
+    {
+      "assessmentId": "86-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1cf8mmIKVuYe-YqGFd5gnc9e7SZctGp48yWl6P0X3K6U",
+      "driveRelativePath": "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:23.718Z"
+    },
+    {
+      "assessmentId": "86-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1cf8mmIKVuYe-YqGFd5gnc9e7SZctGp48yWl6P0X3K6U",
+      "driveRelativePath": "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:23.718Z"
+    },
+    {
+      "assessmentId": "86-11-green-anole-lizard-assessment",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Assessment Green Anole Lizard.docx",
+      "driveFileId": "1aD7ck1VTTPsiLwpUya90G4flz_hCpRHGPd-C77fTURI",
+      "driveRelativePath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Assessment Green Anole Lizard",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:35:48.235Z"
+    },
+    {
+      "assessmentId": "86-11-green-anole-lizard-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1HMGLayqY5JEkhAe792zQcMTB8nx31auPl-VSsGahxBI",
+      "driveRelativePath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:36:16.590Z"
+    },
+    {
+      "assessmentId": "86-11-green-anole-lizard-assessment",
+      "field": "answerKey",
+      "manifestPath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Answer Key Key Green Anole.docx",
+      "driveFileId": "1OG5D5vVSpgOG-G5GgTmqzdRPTqDE5hr_RFwCuAPOG14",
+      "driveRelativePath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Answer Key Key Green Anole",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:35:44.587Z"
+    },
+    {
+      "assessmentId": "86-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1HMGLayqY5JEkhAe792zQcMTB8nx31auPl-VSsGahxBI",
+      "driveRelativePath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:16.590Z"
+    },
+    {
+      "assessmentId": "86-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1HMGLayqY5JEkhAe792zQcMTB8nx31auPl-VSsGahxBI",
+      "driveRelativePath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:16.590Z"
+    },
+    {
+      "assessmentId": "86-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1F1oOXY2ACUhkolsHH79jb-tGM0YwpVVvmpFHMJFSqs0",
+      "driveRelativePath": "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:44.830Z"
+    },
+    {
+      "assessmentId": "86-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1F1oOXY2ACUhkolsHH79jb-tGM0YwpVVvmpFHMJFSqs0",
+      "driveRelativePath": "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:44.830Z"
+    },
+    {
+      "assessmentId": "86-13-ancient-ancestry-assessment-version-1",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Assessment Version 1 Ancient.docx",
+      "driveFileId": "10gbbmw-OraG2QY80Sl-MDIHH6v69V4sbNbl-_JOkRik",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Assessment Version 1 Ancient",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:38:07.523Z"
+    },
+    {
+      "assessmentId": "86-13-ancient-ancestry-assessment-version-1",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "15N57cDdTIix_v-UjhNOkZDmIjgvbZzF-nAZ6L4gr4vE",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:38:40.535Z"
+    },
+    {
+      "assessmentId": "86-13-ancient-ancestry-assessment-version-1",
+      "field": "answerKey",
+      "manifestPath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Answer Key Key for Ancient.docx",
+      "driveFileId": "1mE-vkDNNHodaTC4iJqdkD6REneSae0f8wvvSIs148Lc",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Answer Key Key for Ancient",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:38:04.665Z"
+    },
+    {
+      "assessmentId": "86-13-ancient-ancestry-assessment-version-2",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Assessment Version 2 Ancient.docx",
+      "driveFileId": "1Kfw92MCEEKk27V0Hi4G2_B6plTJg4bjhM9Ky-IBu6V8",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Assessment Version 2 Ancient",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:38:12.314Z"
+    },
+    {
+      "assessmentId": "86-13-ancient-ancestry-assessment-version-2",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "15N57cDdTIix_v-UjhNOkZDmIjgvbZzF-nAZ6L4gr4vE",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:38:40.535Z"
+    },
+    {
+      "assessmentId": "86-13-ancient-ancestry-assessment-version-2",
+      "field": "answerKey",
+      "manifestPath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Answer Key Key for Ancient.docx",
+      "driveFileId": "1mE-vkDNNHodaTC4iJqdkD6REneSae0f8wvvSIs148Lc",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Answer Key Key for Ancient",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-14T00:38:04.665Z"
+    },
+    {
+      "assessmentId": "86-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "15N57cDdTIix_v-UjhNOkZDmIjgvbZzF-nAZ6L4gr4vE",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:40.535Z"
+    },
+    {
+      "assessmentId": "86-13-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "15N57cDdTIix_v-UjhNOkZDmIjgvbZzF-nAZ6L4gr4vE",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:40.535Z"
+    },
+    {
+      "assessmentId": "86-14-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "112CMF6OgPn86e9lq7vvl80TVkhhkR52qmtyQOGrgrp4",
+      "driveRelativePath": "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:37.122Z"
+    },
+    {
+      "assessmentId": "86-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "112CMF6OgPn86e9lq7vvl80TVkhhkR52qmtyQOGrgrp4",
+      "driveRelativePath": "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:37.122Z"
+    },
+    {
+      "assessmentId": "86-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "112CMF6OgPn86e9lq7vvl80TVkhhkR52qmtyQOGrgrp4",
+      "driveRelativePath": "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:37.122Z"
+    },
+    {
+      "assessmentId": "86-14-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "112CMF6OgPn86e9lq7vvl80TVkhhkR52qmtyQOGrgrp4",
+      "driveRelativePath": "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:37.122Z"
+    },
+    {
+      "assessmentId": "86-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/8.6 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "103DJvjZHVGR1XAAxDXnBN27TCLq38cRnw1GvgL5DFoE",
+      "driveRelativePath": "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:01.103Z"
+    },
+    {
+      "assessmentId": "86-15-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/8.6 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "103DJvjZHVGR1XAAxDXnBN27TCLq38cRnw1GvgL5DFoE",
+      "driveRelativePath": "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:01.103Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/8.6 Natural Selection & Common Ancestry Unit Overview Materials.docx",
+      "driveFileId": "1h948gl4UqFL7Io_uhZkwIrHZtJC6IcBmX2xP4L9EGlY",
+      "driveRelativePath": "8.6 Natural Selection & Common Ancestry Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-14T00:33:30.136Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/8.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1fJrwJWrCky_Kfr-16S5B2dKRXPSkKtL_xgoMXFq7t2M",
+      "driveRelativePath": "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:38.756Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/8.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1KQAbKOGLKqCK957uBqBDAGtG3U4cxqWmyg_8TexbQnY",
+      "driveRelativePath": "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:41:06.973Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/8.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13fAL0sYvIpgjaOqFtO77GA0dqzS6faBW97Mj-EXV604",
+      "driveRelativePath": "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:42:53.683Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/8.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1ZstJvjBQsrFOnhIXxlA5nOHc_Bw6VPlqzzIHQ5imFfg",
+      "driveRelativePath": "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:43:44.535Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/8.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1qiTJfa59r2xn9NVRkqddjuok3A2CdqxBNG3nlFNqkxw",
+      "driveRelativePath": "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:46:42.989Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/8.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1OYw3-cmaFoDXIdiNBykALAYmW8rt4ZP5U_xV6O15tSc",
+      "driveRelativePath": "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:47:09.933Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/8.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1cf8mmIKVuYe-YqGFd5gnc9e7SZctGp48yWl6P0X3K6U",
+      "driveRelativePath": "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:23.718Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/8.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1HMGLayqY5JEkhAe792zQcMTB8nx31auPl-VSsGahxBI",
+      "driveRelativePath": "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:16.590Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/8.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1F1oOXY2ACUhkolsHH79jb-tGM0YwpVVvmpFHMJFSqs0",
+      "driveRelativePath": "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:44.830Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/8.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "15N57cDdTIix_v-UjhNOkZDmIjgvbZzF-nAZ6L4gr4vE",
+      "driveRelativePath": "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:38:40.535Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/8.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "112CMF6OgPn86e9lq7vvl80TVkhhkR52qmtyQOGrgrp4",
+      "driveRelativePath": "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:39:37.122Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/8.6 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "103DJvjZHVGR1XAAxDXnBN27TCLq38cRnw1GvgL5DFoE",
+      "driveRelativePath": "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:40:01.103Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1EoQ-s0xIlwEkhrINsK5JH6X6ivbMBvEY",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-14T00:33:31.857Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "16c9-APXaaLYKoprndV4iOOQQ96cLGrzG",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:33:30.947Z"
+    },
+    "8.6 Natural Selection & Common Ancestry Unit Overview Materials": {
+      "driveFileId": "1h948gl4UqFL7Io_uhZkwIrHZtJC6IcBmX2xP4L9EGlY",
+      "name": "8.6 Natural Selection & Common Ancestry Unit Overview Materials",
+      "modifiedTime": "2024-08-14T00:33:30.136Z"
+    },
+    "8.6 Lesson 5 Whale Stickers.pdf": {
+      "driveFileId": "18z0mHx3ubkso6zwPkPbAXnd5HPHivTiq",
+      "name": "8.6 Lesson 5 Whale Stickers.pdf",
+      "modifiedTime": "2024-08-14T00:33:23.541Z"
+    },
+    "8.6 Lesson 5 Horseshoe Crab Stickers.pdf": {
+      "driveFileId": "1dkwcihrBdR3epATo6MwqLlPrRpEkmLe-",
+      "name": "8.6 Lesson 5 Horseshoe Crab Stickers.pdf",
+      "modifiedTime": "2024-08-14T00:33:22.494Z"
+    },
+    "8.6 Lesson 5 Horse Stickers.pdf": {
+      "driveFileId": "1XmiGYisDtygrBDL4pLSY112ibG2QE2au",
+      "name": "8.6 Lesson 5 Horse Stickers.pdf",
+      "modifiedTime": "2024-08-14T00:33:21.516Z"
+    },
+    "8.6 Lesson 2 Penguin Stickers.pdf": {
+      "driveFileId": "1JZAQVTj5maK-3CoJE74Ev4ZVobRHhVRF",
+      "name": "8.6 Lesson 2 Penguin Stickers.pdf",
+      "modifiedTime": "2024-08-14T00:33:20.190Z"
+    },
+    "8.6 Lesson 2 Penguin Stickers - Spanish.pdf": {
+      "driveFileId": "1sqY9cRx08Vv5b9YsLHYTnap7zqpCzgF1",
+      "name": "8.6 Lesson 2 Penguin Stickers - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:33:19.169Z"
+    },
+    "8.6 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1q8uSfPOJUmCrFihyinQElKyDbg6Hb-m9",
+      "name": "8.6 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-14T00:33:18.128Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Polilla moteada (paquete": {
+      "driveFileId": "129Z0M_WqcxBOwM42zk43SFTDU6PDXOYNvqAOGBnNybM",
+      "name": "8.6 Lección 7 Folleto Polilla moteada (paquete",
+      "modifiedTime": "2024-08-14T00:47:58.387Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Planta de mostaza": {
+      "driveFileId": "1JwbXyrUM2wk9xrpxepkdu-72dIuLdl5FW6KD-LrCMMg",
+      "name": "8.6 Lección 7 Folleto Planta de mostaza",
+      "modifiedTime": "2024-08-14T00:47:53.388Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Pinzón (paquete de": {
+      "driveFileId": "1wYgcLmCfd-juPog-Kor2ueFWq_6NcLdpA37_yzEgj3Y",
+      "name": "8.6 Lección 7 Folleto Pinzón (paquete de",
+      "modifiedTime": "2024-08-14T00:47:49.280Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Los pinzones (descripción": {
+      "driveFileId": "1mKAByl8A2UOk4gfGHrpjc8CJK1P8Xwi8IM4KwaHoIiQ",
+      "name": "8.6 Lección 7 Folleto Los pinzones (descripción",
+      "modifiedTime": "2024-08-14T00:47:44.906Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto La polilla moteada": {
+      "driveFileId": "1bKTP5nbjdRhU8LrHDqprnvCs4ct_EUSk-vscusGDdUI",
+      "name": "8.6 Lección 7 Folleto La polilla moteada",
+      "modifiedTime": "2024-08-14T00:47:38.072Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto La planta de": {
+      "driveFileId": "1YlxFJqMuJ1QMDYgrOiQNpaohTTy2950lXP_Sp15Xgqc",
+      "name": "8.6 Lección 7 Folleto La planta de",
+      "modifiedTime": "2024-08-14T00:47:33.980Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto La golondrina de": {
+      "driveFileId": "1uj0zvEEIkntuBKE4v9jmsXNie_W60ydImup1VVcJcWA",
+      "name": "8.6 Lección 7 Folleto La golondrina de",
+      "modifiedTime": "2024-08-14T00:47:29.249Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Golondrina de acantilado": {
+      "driveFileId": "1qbQKKoJ38FcJyZ7UL16KgeSFywEPUpQWSdu8maQhOjQ",
+      "name": "8.6 Lección 7 Folleto Golondrina de acantilado",
+      "modifiedTime": "2024-08-14T00:47:25.304Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Espinoso (descripción general": {
+      "driveFileId": "18ImkrvOkurBn2JOPnXsnIAAFVI60WoZnYWDgm96wiqo",
+      "name": "8.6 Lección 7 Folleto Espinoso (descripción general",
+      "modifiedTime": "2024-08-14T00:47:19.645Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Espinoso (Paquete de": {
+      "driveFileId": "1yGltzUNqx6QRy7cQ5I2ewPHl0oXTnznDCyYICNATZNQ",
+      "name": "8.6 Lección 7 Folleto Espinoso (Paquete de",
+      "modifiedTime": "2024-08-14T00:47:16.830Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Desarrollar un modelo": {
+      "driveFileId": "1U6bUtvLVkYKf-a0AT1m3N3kIXffFJWfeurdgJMP3DEo",
+      "name": "8.6 Lección 7 Folleto Desarrollar un modelo",
+      "modifiedTime": "2024-08-14T00:47:13.259Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 7 Answer Key Key for Developing": {
+      "driveFileId": "12Oh-FiN7Xwh5fV6Pag1_EBMyCpgB-OZDPgLUcjyOeUw",
+      "name": "8.6 Lesson 7 Answer Key Key for Developing",
+      "modifiedTime": "2024-08-14T01:04:25.175Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 7 Answer Key Key for All": {
+      "driveFileId": "1TsZUuezWZ3WZBXiRlbsN5D4uf1VuzYs5G7hKO7SacMg",
+      "name": "8.6 Lesson 7 Answer Key Key for All",
+      "modifiedTime": "2024-08-14T01:04:20.803Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Referencia Polilla moteada (paquete": {
+      "driveFileId": "1RVNGnnhKGsitnYT0mqsTYDyv9PuzhKN0voJhnEZKFKY",
+      "name": "8.6 Lección 7 Referencia Polilla moteada (paquete",
+      "modifiedTime": "2024-08-14T01:04:17.233Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Referencia Pinzón (paquete de": {
+      "driveFileId": "18752qARHi7abaFwXSK-fkxq-DzQcBoFxaQzFEadsyBk",
+      "name": "8.6 Lección 7 Referencia Pinzón (paquete de",
+      "modifiedTime": "2024-08-14T00:48:17.312Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Referencia La planta de": {
+      "driveFileId": "1_68U0hPkcJC1RopRNOyJoYTkCfI3drtaz_JeVhSd6LI",
+      "name": "8.6 Lección 7 Referencia La planta de",
+      "modifiedTime": "2024-08-14T00:48:12.803Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Referencia Golondrina de acantilado": {
+      "driveFileId": "1qTM8jgKdg2h56czcTNOjDbdj9qPWmFvAEJ78lpeN7Ik",
+      "name": "8.6 Lección 7 Referencia Golondrina de acantilado",
+      "modifiedTime": "2024-08-14T00:48:09.166Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Referencia Espinoso (paquete de": {
+      "driveFileId": "1BUwhQYwNr04yFBsZioo516dzrco9W2NOZFRCzbo2x0E",
+      "name": "8.6 Lección 7 Referencia Espinoso (paquete de",
+      "modifiedTime": "2024-08-14T00:48:05.005Z"
+    },
+    "Lesson 7 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 7 Folleto Uso del lente": {
+      "driveFileId": "1lolw619LBlxhOZSpJjYuhbMK_600p_msOlS1sz9meaY",
+      "name": "8.6 Lección 7 Folleto Uso del lente",
+      "modifiedTime": "2024-08-14T00:48:01.471Z"
+    },
+    "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Teacher Edition": {
+      "driveFileId": "1OYw3-cmaFoDXIdiNBykALAYmW8rt4ZP5U_xV6O15tSc",
+      "name": "8.6 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:47:09.933Z"
+    },
+    "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1ZVR9YRSaM_RDrjOS-Sn1tEtPszh2vtWIZ4bwPLkM60M",
+      "name": "8.6 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:47:05.716Z"
+    },
+    "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Student Procedure": {
+      "driveFileId": "1VcmmZp5gQCpm8p7dE6v17tgJwgCTjVQPwuooxFWgu-A",
+      "name": "8.6 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-14T00:47:01.880Z"
+    },
+    "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Slides": {
+      "driveFileId": "1uKaMvm91ohZCBxUIjmTYcFSVlZzBOYAKTUhtI6QcPGI",
+      "name": "8.6 Lesson 6 Slides",
+      "modifiedTime": "2024-08-14T00:46:58.571Z"
+    },
+    "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Assessment “How are penguins": {
+      "driveFileId": "19coghXM6wKrXfxyAa6uR76J82Jw8AmOQLHjU6Yxm3Y4",
+      "name": "8.6 Lesson 6 Assessment “How are penguins",
+      "modifiedTime": "2024-08-14T00:46:54.523Z"
+    },
+    "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 6 Answer Key Key Argument for": {
+      "driveFileId": "1WvAuKX6R1orl20eIF07Hk7SWFoK6hxk5MOfo9D9DPRA",
+      "name": "8.6 Lesson 6 Answer Key Key Argument for",
+      "modifiedTime": "2024-08-14T00:46:50.834Z"
+    },
+    "Lesson 6 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 6 Evaluación Argumento y autoevaluación": {
+      "driveFileId": "15bY4rD2SPdPAvpFtQfpDyBP8m55WTnwi_u87ownl8Yg",
+      "name": "8.6 Lección 6 Evaluación Argumento y autoevaluación",
+      "modifiedTime": "2024-08-14T00:46:48.268Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Teacher Edition": {
+      "driveFileId": "1qiTJfa59r2xn9NVRkqddjuok3A2CdqxBNG3nlFNqkxw",
+      "name": "8.6 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:46:42.989Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1_ujlndk6b2X2Omg_x5Lp_BbtvyP7tTZ4zhVFLAiQCH0",
+      "name": "8.6 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:46:37.124Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Student Procedure": {
+      "driveFileId": "1dBw8KZBTGNeRCMeHSXoC7OZzJooPNvwKSzMbEKEbhhQ",
+      "name": "8.6 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-14T00:46:33.945Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Slides": {
+      "driveFileId": "1XMY3ELiQuWYb3Hs05dXcv7MuTJA59qW6EkJMds2cP-M",
+      "name": "8.6 Lesson 5 Slides",
+      "modifiedTime": "2024-08-14T00:46:29.490Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1yT3-6N3rPDip8YuILSIoBpoSixyyNgInnwu11Vm7jHE",
+      "name": "8.6 Lesson 5 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:46:25.524Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Maps of Earth’s": {
+      "driveFileId": "1I_PF9EVkVShZV30K8O1y5rwehW82Vr72dezvxuqmDFQ",
+      "name": "8.6 Lesson 5 Reference Maps of Earth’s",
+      "modifiedTime": "2024-08-14T00:46:22.933Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Day 2 Whale": {
+      "driveFileId": "1A9EPOBvI4CDq7Dd6xwy1vEYren_ny4Il-Wb4XkV9u1s",
+      "name": "8.6 Lesson 5 Reference Day 2 Whale",
+      "modifiedTime": "2024-08-14T00:46:19.747Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Day 2 Horseshoe": {
+      "driveFileId": "1ygKWF7JGwJDKIi5-SGfsyeow1S0Xj1j77qDsoE9SM3E",
+      "name": "8.6 Lesson 5 Reference Day 2 Horseshoe",
+      "modifiedTime": "2024-08-14T00:46:16.016Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Day 2 Horse": {
+      "driveFileId": "1OGofb13YBNUYxbSKIUfgM-RThUTSnglrgkz4RRGfF1s",
+      "name": "8.6 Lesson 5 Reference Day 2 Horse",
+      "modifiedTime": "2024-08-14T00:46:11.884Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Day 1 Whale": {
+      "driveFileId": "1arc7nNY3GYVTPdcImIofW5FwyMpEFoYhHZyaGjWCj-M",
+      "name": "8.6 Lesson 5 Reference Day 1 Whale",
+      "modifiedTime": "2024-08-14T00:46:07.224Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Day 1 Horseshoe": {
+      "driveFileId": "10Bq7DdBm682rgK6NHOibq-yEhITStJRUzWWiofVrCKs",
+      "name": "8.6 Lesson 5 Reference Day 1 Horseshoe",
+      "modifiedTime": "2024-08-14T00:46:03.592Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Reference Day 1 Horse": {
+      "driveFileId": "1rmSCYCHRxDf047IXNAPC3RvAF8vn9FI-ZOAB7mwle40",
+      "name": "8.6 Lesson 5 Reference Day 1 Horse",
+      "modifiedTime": "2024-08-14T00:45:48.296Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Reference Peer Feedback": {
+      "driveFileId": "1Z2cZRPGfq-tbnwWAAcCycWUhJDVmGiY6kBo-YThtrEk",
+      "name": "8.6 Lesson 5 Handout Reference Peer Feedback",
+      "modifiedTime": "2024-08-14T00:45:44.067Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Patterns for My": {
+      "driveFileId": "1xHii8HQtkvET3dsRsEkOCSair_h2k28KIXGUpfj7swU",
+      "name": "8.6 Lesson 5 Handout Patterns for My",
+      "modifiedTime": "2024-08-14T00:45:41.832Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Maps of Earth’s": {
+      "driveFileId": "1WrS1GEnKSb17hW9d_P6-M5jatqTGv2ks_x4nyT1fdqc",
+      "name": "8.6 Lesson 5 Handout Maps of Earth’s",
+      "modifiedTime": "2024-08-14T00:45:39.358Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Guiding Questions to": {
+      "driveFileId": "1pKtgNZowcDTyuLmCehotYvExpD1Y0yroej8X81cBHf8",
+      "name": "8.6 Lesson 5 Handout Guiding Questions to",
+      "modifiedTime": "2024-08-14T00:45:32.731Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Día 1 Cangrejo": {
+      "driveFileId": "1H2sVaymkCj4bPWJUkJkEai1U-ECe0oI0fj36xn7NtQo",
+      "name": "8.6 Lesson 5 Handout Día 1 Cangrejo",
+      "modifiedTime": "2024-08-14T00:45:30.293Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Day 2 Whale": {
+      "driveFileId": "1IfpBkGPy5zZCpqjGO-cpTbr1O_6xCp4sG5J161Q2WBk",
+      "name": "8.6 Lesson 5 Handout Day 2 Whale",
+      "modifiedTime": "2024-08-14T00:45:26.137Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Day 2 Horseshoe": {
+      "driveFileId": "1L6T7UVFnMj_bvTmarMl2hW3WyossItWsP6ILs7llrrk",
+      "name": "8.6 Lesson 5 Handout Day 2 Horseshoe",
+      "modifiedTime": "2024-08-14T00:45:22.249Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Day 2 Horse": {
+      "driveFileId": "1aV-9JEVArf57sfJauKPXf7jSZDtwVOLwU9rBgPndTRY",
+      "name": "8.6 Lesson 5 Handout Day 2 Horse",
+      "modifiedTime": "2024-08-14T00:45:18.644Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Day 1 Whale": {
+      "driveFileId": "1H5x-b_HbGE9hmOU2jDQKzckyHa18o3CC4cId79nfVHA",
+      "name": "8.6 Lesson 5 Handout Day 1 Whale",
+      "modifiedTime": "2024-08-14T00:45:12.596Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Day 1 Horseshoe": {
+      "driveFileId": "1u6h_KZuA0TCUKrwkqmZkZm3bjJEqLH7MrP2m21vlKmo",
+      "name": "8.6 Lesson 5 Handout Day 1 Horseshoe",
+      "modifiedTime": "2024-08-14T00:45:08.691Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Handout Day 1 Horse": {
+      "driveFileId": "1EzdcDbau7crGRmcZuDhA5qoC-tvhlpZ-ZUdXVyGNWZI",
+      "name": "8.6 Lesson 5 Handout Day 1 Horse",
+      "modifiedTime": "2024-08-14T00:45:04.587Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 5 Answer Key Key Guiding Questions": {
+      "driveFileId": "1tjGxjNoNQcx8NR0oi2fLML9Kl0sYXJzSkVCElKLDL9o",
+      "name": "8.6 Lesson 5 Answer Key Key Guiding Questions",
+      "modifiedTime": "2024-08-14T00:45:00.616Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Pautas de retroalimentación": {
+      "driveFileId": "1UD7ZBUesJvUKb7CoE-1NQRoAG7R-f63ShTE4qG7hO_g",
+      "name": "8.6 Lección 5 Referencia Pautas de retroalimentación",
+      "modifiedTime": "2024-08-14T00:44:57.883Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Mapas de la": {
+      "driveFileId": "1w24Auj2c-SCMn139ZbZYGztn5lsiTDDTUs3X8SEXrvI",
+      "name": "8.6 Lección 5 Referencia Mapas de la",
+      "modifiedTime": "2024-08-14T00:44:55.381Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Día 2 Cangrejo": {
+      "driveFileId": "1sxiX2j2W9KGb6M7lLl8rqRr2wr9mvEY9wTAJCvjhj6s",
+      "name": "8.6 Lección 5 Referencia Día 2 Cangrejo",
+      "modifiedTime": "2024-08-14T00:44:49.248Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Día 2 Caballos": {
+      "driveFileId": "1TFhXnfelneuIxv7o1SI2cKKOP1TJo_1JKgvdRlQR7hw",
+      "name": "8.6 Lección 5 Referencia Día 2 Caballos",
+      "modifiedTime": "2024-08-14T00:44:44.213Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Día 2 Ballenas": {
+      "driveFileId": "1fOdMGNtM8SI8KECkvvl0uM7Ek75SGzY_D2S8laZxOQ4",
+      "name": "8.6 Lección 5 Referencia Día 2 Ballenas",
+      "modifiedTime": "2024-08-14T00:44:39.892Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Día 1 Cangrejo": {
+      "driveFileId": "1qxOUo0BA-WaYhiGWy2CBGMEtTYfSwaO61V1RpeTa9ZM",
+      "name": "8.6 Lección 5 Referencia Día 1 Cangrejo",
+      "modifiedTime": "2024-08-14T00:44:36.038Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Día 1 Caballos": {
+      "driveFileId": "15wda7UBdgONd2dh0m80Nc62mjQdW9EU53953ebC6y0w",
+      "name": "8.6 Lección 5 Referencia Día 1 Caballos",
+      "modifiedTime": "2024-08-14T00:44:29.437Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Referencia Día 1 Ballenas": {
+      "driveFileId": "1DtjVRXRV_y-2T9ImZCnAjWyFH0KvFEUoWFJUAu_oPbA",
+      "name": "8.6 Lección 5 Referencia Día 1 Ballenas",
+      "modifiedTime": "2024-08-14T00:44:25.629Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Referencia Pautas de": {
+      "driveFileId": "1mo6Yppm11tHLhxSciDBx0RqilRVGbEVU3MqmFHKrrpA",
+      "name": "8.6 Lección 5 Folleto Referencia Pautas de",
+      "modifiedTime": "2024-08-14T00:44:21.361Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Preguntas guía para": {
+      "driveFileId": "1O3ChETTrhhn1VxnauFVX26KlOt6zeD3iTy4yXBJxweE",
+      "name": "8.6 Lección 5 Folleto Preguntas guía para",
+      "modifiedTime": "2024-08-14T00:44:18.946Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Patrones para mi": {
+      "driveFileId": "1oFjv__EvsdqY3PMZbzYxfmRTWaoXnQTtwzncRHQa0vI",
+      "name": "8.6 Lección 5 Folleto Patrones para mi",
+      "modifiedTime": "2024-08-14T00:44:16.481Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Mapas de la": {
+      "driveFileId": "1gFphsEVg8_h2YKeX3EtNFgRmktQTYyCUrVLieiBArRw",
+      "name": "8.6 Lección 5 Folleto Mapas de la",
+      "modifiedTime": "2024-08-14T00:44:13.336Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Día 2 Cangrejo": {
+      "driveFileId": "1mmSbJoOAtkhVxV63hptUFTJc3MU2rf7N_eCzD5nefgo",
+      "name": "8.6 Lección 5 Folleto Día 2 Cangrejo",
+      "modifiedTime": "2024-08-14T00:44:09.161Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Día 2 Caballos": {
+      "driveFileId": "1AK2a1im5KEQt420oiQWoxUKlAd6oPU2DrAvvw4s9G3A",
+      "name": "8.6 Lección 5 Folleto Día 2 Caballos",
+      "modifiedTime": "2024-08-14T00:44:04.176Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Día 2 Ballenas": {
+      "driveFileId": "1DjNpMl_8gJPTOSEo6JGpleq0L7UMhxm5RhLIzHyXwqw",
+      "name": "8.6 Lección 5 Folleto Día 2 Ballenas",
+      "modifiedTime": "2024-08-14T00:43:59.275Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Día 1 Caballos": {
+      "driveFileId": "1Gr7oUxafo2zfmcTMyCoJCXn2GLl_ScLzOREC1HVgLpQ",
+      "name": "8.6 Lección 5 Folleto Día 1 Caballos",
+      "modifiedTime": "2024-08-14T00:43:54.048Z"
+    },
+    "Lesson 5 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 5 Folleto Día 1 Ballenas": {
+      "driveFileId": "1OdWRtVcHeoadfdi0J_Rdp9uQWssYMF-qy1kp_z83rcM",
+      "name": "8.6 Lección 5 Folleto Día 1 Ballenas",
+      "modifiedTime": "2024-08-14T00:43:49.160Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Teacher Edition": {
+      "driveFileId": "1ZstJvjBQsrFOnhIXxlA5nOHc_Bw6VPlqzzIHQ5imFfg",
+      "name": "8.6 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:43:44.535Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1zIrXY0GhsvNBvoF8Vl2Bjilwbo9ZppVRdXXzuj3JIKE",
+      "name": "8.6 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:43:39.585Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Student Procedure": {
+      "driveFileId": "1EjiMtrpg3X-9ybOMpHE_oZiyRbATVDddmMgAeaVhPkQ",
+      "name": "8.6 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-14T00:43:36.526Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Slides": {
+      "driveFileId": "1jzuzsFRJuUdtd5LraT1pmPdIEhGbNUJQtB2tGpq8dHY",
+      "name": "8.6 Lesson 4 Slides",
+      "modifiedTime": "2024-08-14T00:43:32.608Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Reference Analyzing and Interpreting": {
+      "driveFileId": "1F3abBqsClhUOAV5Pgs6xoS_hNJQvhrTJ1htk8YvGm8o",
+      "name": "8.6 Lesson 4 Reference Analyzing and Interpreting",
+      "modifiedTime": "2024-08-14T00:43:28.337Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Handout Word Wall Image": {
+      "driveFileId": "1T2KfVRT9qXhaVdl12YOq9jwka2ECoDLZJa5IXZVxnyg",
+      "name": "8.6 Lesson 4 Handout Word Wall Image",
+      "modifiedTime": "2024-08-14T00:43:25.202Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Handout Three Explanations": {
+      "driveFileId": "1TijNSB7BRBfw540s0gILegUOM53g6VLsLzBD_zL-pbI",
+      "name": "8.6 Lesson 4 Handout Three Explanations",
+      "modifiedTime": "2024-08-14T00:43:19.820Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Handout Reference Analyzing and": {
+      "driveFileId": "1bYZw0ayC_NLKDkQApRprXPS8SB1-WPFdeUqa6QuwanA",
+      "name": "8.6 Lesson 4 Handout Reference Analyzing and",
+      "modifiedTime": "2024-08-14T00:43:17.379Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Handout Exit Ticket -": {
+      "driveFileId": "1tvyAt2WMw8oa5sl8Hj1g_fQciJllRvH2DvdtIwhUkhU",
+      "name": "8.6 Lesson 4 Handout Exit Ticket -",
+      "modifiedTime": "2024-08-14T00:43:15.274Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 4 Answer Key Lesson 4 Three": {
+      "driveFileId": "1Be40GrAm6XI_ekXHA_o8j4MwJbd4qSUUaL1O9qwkOQs",
+      "name": "8.6 Lesson 4 Answer Key Lesson 4 Three",
+      "modifiedTime": "2024-08-14T00:43:12.722Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 4 Referencia Análisis e interpretación": {
+      "driveFileId": "1TYlAG_WXDSy4nbwRcmLB8ptI6YGZrOfngT9cPwPbs2w",
+      "name": "8.6 Lección 4 Referencia Análisis e interpretación",
+      "modifiedTime": "2024-08-14T00:43:09.897Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 4 Folleto Tres explicaciones": {
+      "driveFileId": "1yNJr_NRy_wBO5HLwWdJcTo9zLcD1kU7nOtHzPRuNyB8",
+      "name": "8.6 Lección 4 Folleto Tres explicaciones",
+      "modifiedTime": "2024-08-14T00:43:07.303Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 4 Folleto Referencia Análisis e": {
+      "driveFileId": "1WMhsYRHzPCDObc6LGFPHw7arhOaBGtTxp62J3aKYWQU",
+      "name": "8.6 Lección 4 Folleto Referencia Análisis e",
+      "modifiedTime": "2024-08-14T00:43:04.571Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 4 Folleto Imagen para el": {
+      "driveFileId": "1u044Hg__CTpuMV_-ojFd-bX0C5Gs1rg_w-b3txWh_EU",
+      "name": "8.6 Lección 4 Folleto Imagen para el",
+      "modifiedTime": "2024-08-14T00:43:02.489Z"
+    },
+    "Lesson 4 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 4 Folleto Boleto de salida": {
+      "driveFileId": "1EaCCvyeoBvy3M8dyOpBRTTaJ65KLzaHhRS7zmzLUFq4",
+      "name": "8.6 Lección 4 Folleto Boleto de salida",
+      "modifiedTime": "2024-08-14T00:42:59.380Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Teacher Reference Penguin Taxon vs.": {
+      "driveFileId": "1wkA1BntBOMZSjrFs3H3W0DVzwvWFJ3s_J9tRCEW5TGo",
+      "name": "8.6 Lesson 3 Teacher Reference Penguin Taxon vs.",
+      "modifiedTime": "2024-08-14T00:42:56.273Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Teacher Edition": {
+      "driveFileId": "13fAL0sYvIpgjaOqFtO77GA0dqzS6faBW97Mj-EXV604",
+      "name": "8.6 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:42:53.683Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1f4FIV7nsNg-VtJrTiev8cv5-yXA9fhgwK8J9XPsylGs",
+      "name": "8.6 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:42:49.551Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Student Procedure": {
+      "driveFileId": "1D--25LfP8M_XH2Js35P3GSWGwIhpHFRXPpGMc6oV0CU",
+      "name": "8.6 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-14T00:42:45.816Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Slides": {
+      "driveFileId": "1_wzJttWO0UnUoH4gKixXKjXhJl4is2X8aPEDX7joO4Q",
+      "name": "8.6 Lesson 3 Slides",
+      "modifiedTime": "2024-08-14T00:42:41.859Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Reference Reference Ancient Penguin": {
+      "driveFileId": "1zRqZQun1DKR40x1ugqpD6kQy29oUh2FKUEiSi63BogM",
+      "name": "8.6 Lesson 3 Reference Reference Ancient Penguin",
+      "modifiedTime": "2024-08-14T00:42:37.766Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Reference Maps of Earth’s": {
+      "driveFileId": "1S4JAP1Z1cKuFrW4q6GDyG220iab9nAjKu7lxvrCqSM0",
+      "name": "8.6 Lesson 3 Reference Maps of Earth’s",
+      "modifiedTime": "2024-08-14T00:42:34.278Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Reading How do scientists": {
+      "driveFileId": "1oQsXVfObscIfm8s37DVk36kcAaUQ_D-ZtiEQ7VWFF_M",
+      "name": "8.6 Lesson 3 Reading How do scientists",
+      "modifiedTime": "2024-08-14T00:42:30.102Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Timeline Sections": {
+      "driveFileId": "1N4xs9EtXRo1Dg_6VCBP7dc_Qrdxr9so4qDCcLlne2zY",
+      "name": "8.6 Lesson 3 Handout Timeline Sections",
+      "modifiedTime": "2024-08-14T00:42:26.646Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Reference Internal Structures": {
+      "driveFileId": "1m5CXxpmykSJWvwYi8629ITI7ZyhiXes9eq8U4GJWjDM",
+      "name": "8.6 Lesson 3 Handout Reference Internal Structures",
+      "modifiedTime": "2024-08-14T00:42:23.038Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Reading How do": {
+      "driveFileId": "1QI-k_Qzzbhul8R4onPpJ1V2xZd0UPXCW4jbAvARHfec",
+      "name": "8.6 Lesson 3 Handout Reading How do",
+      "modifiedTime": "2024-08-14T00:42:20.461Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Maps of Earth’s": {
+      "driveFileId": "1qrXm19FVW9Ehw8XPubvmmtXeW5XiGnMbbD3MkO1audQ",
+      "name": "8.6 Lesson 3 Handout Maps of Earth’s",
+      "modifiedTime": "2024-08-14T00:42:16.747Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Extension Data strips": {
+      "driveFileId": "1JE4MHEGILuFDC_nGgtXu89bsJ6oIofiAmXOzf0WMIWQ",
+      "name": "8.6 Lesson 3 Handout Extension Data strips",
+      "modifiedTime": "2024-08-14T00:42:12.934Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Data strips for": {
+      "driveFileId": "1zPojllG3aT82YbQEdCLpRQDOTSAkAc8qLX8NprBqtlc",
+      "name": "8.6 Lesson 3 Handout Data strips for",
+      "modifiedTime": "2024-08-14T00:42:10.264Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Consumable Lesson 3": {
+      "driveFileId": "1Gt5o5jBJ-vSawUdAde2Nf-O6ETJXBJR6x_CC4xuml4c",
+      "name": "8.6 Lesson 3 Handout Consumable Lesson 3",
+      "modifiedTime": "2024-08-14T00:42:06.864Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Ancient Penguin Sorting": {
+      "driveFileId": "1dB_OdXTOci9DbXj9WBbWX9_x9WA4yrMvwzJjw7ZhZBM",
+      "name": "8.6 Lesson 3 Handout Ancient Penguin Sorting",
+      "modifiedTime": "2024-08-14T00:42:02.801Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 3 Handout Ancient Penguin Data": {
+      "driveFileId": "1un7S7tIpu9fGjGsNAm92QpuX6oPxl-gg48vXtC4EnAA",
+      "name": "8.6 Lesson 3 Handout Ancient Penguin Data",
+      "modifiedTime": "2024-08-14T00:41:59.496Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Referencia Referencia Tarjetas de": {
+      "driveFileId": "1RXjNgVhlcOKyqBL7vR3v4cOqiOOrpO5DYkmeE1hGWjY",
+      "name": "8.6 Lección 3 Referencia Referencia Tarjetas de",
+      "modifiedTime": "2024-08-14T00:41:53.930Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Referencia Mapas de la": {
+      "driveFileId": "1wJHKrz6isPXluo_jZ0W9NUoW3xzxU5R3KloxpRHECuQ",
+      "name": "8.6 Lección 3 Referencia Mapas de la",
+      "modifiedTime": "2024-08-14T00:41:50.274Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Lectura ¿Cómo usan los": {
+      "driveFileId": "1sGwzPKKJArdZpPkudBB1zAmpchLz9JuhjKJoUEosP6c",
+      "name": "8.6 Lección 3 Lectura ¿Cómo usan los",
+      "modifiedTime": "2024-08-14T00:41:46.353Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Tiras de datos": {
+      "driveFileId": "1g4AweawxIo8bPbwA_IzvnJcS_OC6lbumxXlb3wTRR_M",
+      "name": "8.6 Lección 3 Folleto Tiras de datos",
+      "modifiedTime": "2024-08-14T00:41:42.417Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Tarjetas de datos": {
+      "driveFileId": "1vfUcwPWJ814CIaYJ16ImbRc579tz4kzEpjOirN8Yp8g",
+      "name": "8.6 Lección 3 Folleto Tarjetas de datos",
+      "modifiedTime": "2024-08-14T00:41:39.551Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Secciones de línea": {
+      "driveFileId": "1iTNQNF6bCmnR1luyQ7usgRHkmAf1s0EmcwSe6zcdcbE",
+      "name": "8.6 Lección 3 Folleto Secciones de línea",
+      "modifiedTime": "2024-08-14T00:41:35.230Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Referencia Clave para": {
+      "driveFileId": "1RepaqOoamYCqE2uBq4GtntISWOEpkj6vtS65dZcmNn8",
+      "name": "8.6 Lección 3 Folleto Referencia Clave para",
+      "modifiedTime": "2024-08-14T00:41:30.934Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Mapas de la": {
+      "driveFileId": "1PFTHGHFq6-rsqMecVQhlLLXk3PNMUq62VL6-PFQNuUo",
+      "name": "8.6 Lección 3 Folleto Mapas de la",
+      "modifiedTime": "2024-08-14T00:41:28.172Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Lectura ¿Cómo usan": {
+      "driveFileId": "1xbXI6NjBhsBv6tKyDLjFcNlkqOdJgVD1Qc2tAm3kQI8",
+      "name": "8.6 Lección 3 Folleto Lectura ¿Cómo usan",
+      "modifiedTime": "2024-08-14T00:41:23.991Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Extensión Tiras de": {
+      "driveFileId": "1MGsWuoHG3SQqsGuEw_2Crl-daPFzVqDi4po_iigof7U",
+      "name": "8.6 Lección 3 Folleto Extensión Tiras de",
+      "modifiedTime": "2024-08-14T00:41:20.901Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Estructuras internas y": {
+      "driveFileId": "18DEuAVThqO8rqeZCWX0udJo7HsOMyxTRe0YmdasaUhE",
+      "name": "8.6 Lección 3 Folleto Estructuras internas y",
+      "modifiedTime": "2024-08-14T00:41:18.010Z"
+    },
+    "Lesson 3 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 3 Folleto Boleto de salida": {
+      "driveFileId": "1RWtswVdeELmIEeQwOswD98jyN5fngOlMObf1sqdNyNM",
+      "name": "8.6 Lección 3 Folleto Boleto de salida",
+      "modifiedTime": "2024-08-14T00:41:13.775Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Reference Extended Key for": {
+      "driveFileId": "10v5Ld0hCWlP2G5w4m2RKHjtEaAylMIEGeaOnJE_GN7M",
+      "name": "8.6 Lesson 2 Teacher Reference Extended Key for",
+      "modifiedTime": "2024-08-14T00:41:10.104Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Teacher Edition": {
+      "driveFileId": "1KQAbKOGLKqCK957uBqBDAGtG3U4cxqWmyg_8TexbQnY",
+      "name": "8.6 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:41:06.973Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1YRFXtexUF8nHpzr8NY_g3RDKKdyHUvSMDr85uYyFA7g",
+      "name": "8.6 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:41:02.161Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Student Procedure": {
+      "driveFileId": "1iLiKNqbQxc_lxxEyM-4ygQbo9sJUND6_VAx9awKUiWg",
+      "name": "8.6 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-14T00:40:58.086Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Slides": {
+      "driveFileId": "1wnkEKdZRsdfV9IRXjYR7lbn8rrMhFMAnX6VHrObSc3c",
+      "name": "8.6 Lesson 2 Slides",
+      "modifiedTime": "2024-08-14T00:40:54.887Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Reference Internal Structures Key": {
+      "driveFileId": "1Svk52CPqOYNwnNTJn1Ybdd8UVOcaMn-v_e5TDKm5Whg",
+      "name": "8.6 Lesson 2 Reference Internal Structures Key",
+      "modifiedTime": "2024-08-14T00:40:49.203Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Reference External Structures and": {
+      "driveFileId": "1A2QvsR-BbFYZReBBQbQKoWQWBVMLZhcN74NM-bfnqGk",
+      "name": "8.6 Lesson 2 Reference External Structures and",
+      "modifiedTime": "2024-08-14T00:40:46.551Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Handout Nonconsumable Lesson 2": {
+      "driveFileId": "1szX2BKMpgUFnrYPQW1_EvvxLzjuxp93-9q8uamz7Y-M",
+      "name": "8.6 Lesson 2 Handout Nonconsumable Lesson 2",
+      "modifiedTime": "2024-08-14T00:40:43.427Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Handout New Questions and": {
+      "driveFileId": "1MGDjaWLMrosrjhf2UHrX4uZmQ2DrIq9ivVoNIx_z_XI",
+      "name": "8.6 Lesson 2 Handout New Questions and",
+      "modifiedTime": "2024-08-14T00:40:39.022Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Handout Internal Structures Key": {
+      "driveFileId": "1o0oiRvVjUFwyqEegKZ5m8NiqnsuuzRU8dTgZTGL6rpE",
+      "name": "8.6 Lesson 2 Handout Internal Structures Key",
+      "modifiedTime": "2024-08-14T00:40:36.628Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Handout External Structures and": {
+      "driveFileId": "1ylBHVhHGBU3k9wI6vDUoDjcNndZnk62qDS4GMMJZqSo",
+      "name": "8.6 Lesson 2 Handout External Structures and",
+      "modifiedTime": "2024-08-14T00:40:34.060Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 2 Handout Data Strips External": {
+      "driveFileId": "1TvtwNihXq3Ed5gswqMhYmrVFH9eAqdl6PSu4zVvAHqk",
+      "name": "8.6 Lesson 2 Handout Data Strips External",
+      "modifiedTime": "2024-08-14T00:40:31.474Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 2 Referencia Clave Estructuras internas": {
+      "driveFileId": "1MBpTybBxlTqXBPlFpeUhkejhMrh-tKg8pHPcWykNUrM",
+      "name": "8.6 Lección 2 Referencia Clave Estructuras internas",
+      "modifiedTime": "2024-08-14T00:40:27.689Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 2 Referencia Clave Estructuras externas": {
+      "driveFileId": "1i2ojiyMJl89HSCP0Ki6ZkBdQ79i22UH4hDK7j3CvfJ8",
+      "name": "8.6 Lección 2 Referencia Clave Estructuras externas",
+      "modifiedTime": "2024-08-14T00:40:22.390Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 2 Folleto Nuevas preguntas e": {
+      "driveFileId": "11tO8wgBxIVN9UYJu4wrU4WACrgn-TvFbJlePjqpFZzU",
+      "name": "8.6 Lección 2 Folleto Nuevas preguntas e",
+      "modifiedTime": "2024-08-14T00:40:19.333Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 2 Folleto Estructuras internas y": {
+      "driveFileId": "1ilh4NCq6FjjUhUECGk_TOazNi5kxXeEywC4Z4S02Jsk",
+      "name": "8.6 Lección 2 Folleto Estructuras internas y",
+      "modifiedTime": "2024-08-14T00:40:15.770Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 2 Folleto Estructuras externas en": {
+      "driveFileId": "1ZaPHOscrEC0-y8T2JFFppr-73YkBRrGo3XBjofYVNVI",
+      "name": "8.6 Lección 2 Folleto Estructuras externas en",
+      "modifiedTime": "2024-08-14T00:40:11.975Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 2 Folleto Clave Estructuras internas": {
+      "driveFileId": "1LReTxJNlzq-3MPvAxldepMz_N7v2uWcDkIb6FpobA0U",
+      "name": "8.6 Lección 2 Folleto Clave Estructuras internas",
+      "modifiedTime": "2024-08-14T00:40:08.026Z"
+    },
+    "Lesson 2 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 2 Folleto Clave Estructuras externas": {
+      "driveFileId": "1AyXxXJAfPHoJ4RlEPTlfRtnlyddi1k62USCzVPR_B_w",
+      "name": "8.6 Lección 2 Folleto Clave Estructuras externas",
+      "modifiedTime": "2024-08-14T00:40:05.224Z"
+    },
+    "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Teacher Edition": {
+      "driveFileId": "103DJvjZHVGR1XAAxDXnBN27TCLq38cRnw1GvgL5DFoE",
+      "name": "8.6 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:40:01.103Z"
+    },
+    "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1slZt3NlPfHXyE0SuaLbLAiv2jeimVq9esb8sd0OZe28",
+      "name": "8.6 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:57.547Z"
+    },
+    "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Student Procedure": {
+      "driveFileId": "11dc8pHJaWrGsOYBW8u9JR7a9hkviQV46-CY0wuzDwfE",
+      "name": "8.6 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:52.649Z"
+    },
+    "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Slides": {
+      "driveFileId": "1rDY6fk4jTMTx28QRXEb7SOHaQ9LdMS9dkrC6CkhJbCA",
+      "name": "8.6 Lesson 15 Slides",
+      "modifiedTime": "2024-08-14T00:39:48.194Z"
+    },
+    "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 15 Handout Reviewing Our Driving": {
+      "driveFileId": "1l_nSDnxsuSmBLSIImcCDjNVSd4lEBPsKp4WFCDE4Odg",
+      "name": "8.6 Lesson 15 Handout Reviewing Our Driving",
+      "modifiedTime": "2024-08-14T00:39:43.663Z"
+    },
+    "Lesson 15 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 15 Folleto Revisión de nuestro": {
+      "driveFileId": "1k-Q61OlcSIF--6zF1XjCSjC0_ZCcvqYxSTZ8-0AM39M",
+      "name": "8.6 Lección 15 Folleto Revisión de nuestro",
+      "modifiedTime": "2024-08-14T00:39:40.581Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Teacher Edition": {
+      "driveFileId": "112CMF6OgPn86e9lq7vvl80TVkhhkR52qmtyQOGrgrp4",
+      "name": "8.6 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:39:37.122Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1KQ1j3pXkV8KLWvAn9_c0G7qrvDnfCBt27bDrISGl2wo",
+      "name": "8.6 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:39:31.528Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Student Procedure": {
+      "driveFileId": "1o35BzJVBSp9A4b36qAriIz8O6-5D9sB2nwZ9wYXM-ng",
+      "name": "8.6 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-14T00:39:27.758Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Slides": {
+      "driveFileId": "1nYuL1BYgms-VbuW2djYLZKR9FMOekvyxH_i8gIaH0rM",
+      "name": "8.6 Lesson 14 Slides",
+      "modifiedTime": "2024-08-14T00:39:23.902Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Handout New Ideas and": {
+      "driveFileId": "1OZToWeiPLJ4QyUOOnWy4Jk8-wEKjic2MwWbr4DDFdbQ",
+      "name": "8.6 Lesson 14 Handout New Ideas and",
+      "modifiedTime": "2024-08-14T00:39:19.739Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Handout Live Birth Embryos": {
+      "driveFileId": "15mqGuGbOmKOewBVaPQVI9ro_Cft1KXc-mCqbt7GBA_s",
+      "name": "8.6 Lesson 14 Handout Live Birth Embryos",
+      "modifiedTime": "2024-08-14T00:39:16.923Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Handout Egg-Laying Embryos": {
+      "driveFileId": "1dBXwWC-PqLDMtR3CzJWbiE6Oqrc_9DUA6ugxu8T8KGo",
+      "name": "8.6 Lesson 14 Handout Egg-Laying Embryos",
+      "modifiedTime": "2024-08-14T00:39:13.693Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Handout Alternate Non-egg-laying Embryos": {
+      "driveFileId": "1qu8xHfUrr8Oax3jG8b17YWVXeGKASB_2gKPKucixOY4",
+      "name": "8.6 Lesson 14 Handout Alternate Non-egg-laying Embryos",
+      "modifiedTime": "2024-08-14T00:39:10.147Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 14 Answer Key Key How could": {
+      "driveFileId": "1DTKMGzKkhuPY2efzRsuMjr6ypZtpE6OuWgoQy91--gQ",
+      "name": "8.6 Lesson 14 Answer Key Key How could",
+      "modifiedTime": "2024-08-14T00:39:06.907Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 14 Folleto Nuevas ideas y": {
+      "driveFileId": "1YAT4hIxZ-EJqfOSfCMFgE_84YF4X0v6Kegwqsyh5fjo",
+      "name": "8.6 Lección 14 Folleto Nuevas ideas y",
+      "modifiedTime": "2024-08-14T00:39:04.369Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 14 Folleto Embriones de ponedores": {
+      "driveFileId": "1GCq654ryKjaDhhD0BuMwOGu9F3gbojY2_ZRh4FFTiKU",
+      "name": "8.6 Lección 14 Folleto Embriones de ponedores",
+      "modifiedTime": "2024-08-14T00:39:02.317Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 14 Folleto Embriones de nacimientos": {
+      "driveFileId": "1A9Rnhxr13eGDv1i5t7_RPFDcTmSp3QJILEc0KIbsn88",
+      "name": "8.6 Lección 14 Folleto Embriones de nacimientos",
+      "modifiedTime": "2024-08-14T00:38:57.995Z"
+    },
+    "Lesson 14 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 14 Folleto Alternativo Embriones de": {
+      "driveFileId": "126YlmAX8LCOLDZOWjn9lBX1WuLXyIpBe3yfSADGRDYk",
+      "name": "8.6 Lección 14 Folleto Alternativo Embriones de",
+      "modifiedTime": "2024-08-14T00:38:53.866Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Reference Student Examples of": {
+      "driveFileId": "1bC2gNHDf7tg7Ch7wM9vUDVjYW37RUJ-5Y3WlxhMi-lI",
+      "name": "8.6 Lesson 13 Teacher Reference Student Examples of",
+      "modifiedTime": "2024-08-14T00:38:48.912Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Reference Body Structure Similarities": {
+      "driveFileId": "1JLT4tyj9HwwyPLrVWZML3_1qeU5htMxX4XBdidQSVL8",
+      "name": "8.6 Lesson 13 Teacher Reference Body Structure Similarities",
+      "modifiedTime": "2024-08-14T00:38:44.211Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Teacher Edition": {
+      "driveFileId": "15N57cDdTIix_v-UjhNOkZDmIjgvbZzF-nAZ6L4gr4vE",
+      "name": "8.6 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:38:40.535Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1yIlgS2wyUwJV6niih8kFVdRToVBvAcfARztD74vYrJM",
+      "name": "8.6 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:38:31.287Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Student Procedure": {
+      "driveFileId": "1HpUurglFMNQVy-qsnpRgr-0-dtfay0R-m5H1q2BiIPw",
+      "name": "8.6 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-14T00:38:26.677Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Slides": {
+      "driveFileId": "1NLvQTSnvtcn4Kj8CFvO8q-Dk1SxhBcrmMJFV965ZPm4",
+      "name": "8.6 Lesson 13 Slides",
+      "modifiedTime": "2024-08-14T00:38:23.662Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Reading Penguin Environments -": {
+      "driveFileId": "1C5rrDytB1I5E4bPJERWSW0Ij1iAPxht8Ao7v6j0aJoQ",
+      "name": "8.6 Lesson 13 Reading Penguin Environments -",
+      "modifiedTime": "2024-08-14T00:38:19.758Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Handout Extension Reading Penguin": {
+      "driveFileId": "1NPOhCHhQqAJ8EMyXbgSywO8CX79oS1UntfTM6Uxrq7M",
+      "name": "8.6 Lesson 13 Handout Extension Reading Penguin",
+      "modifiedTime": "2024-08-14T00:38:16.027Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Assessment Version 2 Ancient": {
+      "driveFileId": "1Kfw92MCEEKk27V0Hi4G2_B6plTJg4bjhM9Ky-IBu6V8",
+      "name": "8.6 Lesson 13 Assessment Version 2 Ancient",
+      "modifiedTime": "2024-08-14T00:38:12.314Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Assessment Version 1 Ancient": {
+      "driveFileId": "10gbbmw-OraG2QY80Sl-MDIHH6v69V4sbNbl-_JOkRik",
+      "name": "8.6 Lesson 13 Assessment Version 1 Ancient",
+      "modifiedTime": "2024-08-14T00:38:07.523Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 13 Answer Key Key for Ancient": {
+      "driveFileId": "1mE-vkDNNHodaTC4iJqdkD6REneSae0f8wvvSIs148Lc",
+      "name": "8.6 Lesson 13 Answer Key Key for Ancient",
+      "modifiedTime": "2024-08-14T00:38:04.665Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 13 Lectura Entornos de pingüinos--": {
+      "driveFileId": "1ibyrABZrV3kZcRO2inuX5oQrOFVFvYHdKLKXWm4sXVA",
+      "name": "8.6 Lección 13 Lectura Entornos de pingüinos--",
+      "modifiedTime": "2024-08-14T00:38:01.734Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 13 Folleto Lectura de extensión": {
+      "driveFileId": "1JMxi-rLBJhIJIFKU2g8VeBNBLripnwrrxUiBHls4lRE",
+      "name": "8.6 Lección 13 Folleto Lectura de extensión",
+      "modifiedTime": "2024-08-14T00:37:58.884Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 13 Evaluación Versión 2 Explicación": {
+      "driveFileId": "1aB2z_rIDqnRa0Cx_cfjJZA1z11zRfsobaVFLx3vgR98",
+      "name": "8.6 Lección 13 Evaluación Versión 2 Explicación",
+      "modifiedTime": "2024-08-14T00:37:55.045Z"
+    },
+    "Lesson 13 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 13 Evaluación Versión 1 Explicación": {
+      "driveFileId": "1ITyY1VHyzDq_Sy2H8oUjoQDh1GdMch_OAs0CVH2svaI",
+      "name": "8.6 Lección 13 Evaluación Versión 1 Explicación",
+      "modifiedTime": "2024-08-14T00:37:51.797Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Teacher Reference Mutation Story from": {
+      "driveFileId": "1j11gSH-h1RL330ueCKZRq9IBEt59-hIxN_hwBSMg4-o",
+      "name": "8.6 Lesson 12 Teacher Reference Mutation Story from",
+      "modifiedTime": "2024-08-14T00:37:47.333Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Teacher Edition": {
+      "driveFileId": "1F1oOXY2ACUhkolsHH79jb-tGM0YwpVVvmpFHMJFSqs0",
+      "name": "8.6 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:44.830Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "13Luowhh0gIgH2LeV-MPRtmr_iAVRxm2mmL9eKFC8AnE",
+      "name": "8.6 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:40.509Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Student Procedure": {
+      "driveFileId": "1U45arKeR_vk2pDEuk52QUQ-kZLDjSOa9TGSDVYS5emI",
+      "name": "8.6 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:36.483Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Slides": {
+      "driveFileId": "19b3Uy4WVxRvAwtegj_Kp4OQj8Cjq1MP-swuh82_GmIQ",
+      "name": "8.6 Lesson 12 Slides",
+      "modifiedTime": "2024-08-14T00:37:33.239Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Reading Version 2 Horseshoe": {
+      "driveFileId": "1cZJN4UjAIMRLFJ7L5kQB-6EyoHeOzzey9zwPSZPP7gA",
+      "name": "8.6 Lesson 12 Reading Version 2 Horseshoe",
+      "modifiedTime": "2024-08-14T00:37:28.868Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Reading Version 2 Horses--Ancient": {
+      "driveFileId": "15nLxhsl07LglkQowdiBSx_MPsFP9-YJwVobWSAOkcJ8",
+      "name": "8.6 Lesson 12 Reading Version 2 Horses--Ancient",
+      "modifiedTime": "2024-08-14T00:37:26.026Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Reading Version 1 Horseshoe": {
+      "driveFileId": "1WKdgSVfNfRB63BJOme-hkJ-cpDKT_wva4izW91uF_xw",
+      "name": "8.6 Lesson 12 Reading Version 1 Horseshoe",
+      "modifiedTime": "2024-08-14T00:37:21.139Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Reading Version 1 Horses--Ancient": {
+      "driveFileId": "1oakl0q59c1ddgQvJN-KEAnR57hzUtMh3qM3oDsEiblQ",
+      "name": "8.6 Lesson 12 Reading Version 1 Horses--Ancient",
+      "modifiedTime": "2024-08-14T00:37:17.224Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Handout Reading v2 Horseshoe": {
+      "driveFileId": "1kghyyDKFz0-NYE3uXfMP5qHTPyK2VFKaIoTEcBM8W-o",
+      "name": "8.6 Lesson 12 Handout Reading v2 Horseshoe",
+      "modifiedTime": "2024-08-14T00:37:13.883Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Handout Reading v2 Horses--Ancient": {
+      "driveFileId": "12xnXgM1_07PiLg7V_yVvcxED3iy9pLpW2QPfoNjUm9I",
+      "name": "8.6 Lesson 12 Handout Reading v2 Horses--Ancient",
+      "modifiedTime": "2024-08-14T00:37:08.605Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Handout Reading v1 Horseshoe": {
+      "driveFileId": "1YiFerc7pMQxCNRK0aPrfj3FQx5XgL-5dtGlhdWV-Fgg",
+      "name": "8.6 Lesson 12 Handout Reading v1 Horseshoe",
+      "modifiedTime": "2024-08-14T00:37:04.776Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Handout Reading v1 Horses--Ancient": {
+      "driveFileId": "1JH0FrJwe9fHHlOd2xwul5dFNBd4IJHRU0IwL4K_9u7U",
+      "name": "8.6 Lesson 12 Handout Reading v1 Horses--Ancient",
+      "modifiedTime": "2024-08-14T00:37:01.393Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Handout Lectura v1 Caballos": {
+      "driveFileId": "1Vy4la2tx4v6-SySgDSGZ5Ib9wts9WcmgbDE2GykKQlE",
+      "name": "8.6 Lesson 12 Handout Lectura v1 Caballos",
+      "modifiedTime": "2024-08-14T00:36:57.496Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 12 Answer Key Student Examples of": {
+      "driveFileId": "1ksHvsHJLeSF6yiaVfqzo0TVoeW7Ef16mkteTxHUxfDY",
+      "name": "8.6 Lesson 12 Answer Key Student Examples of",
+      "modifiedTime": "2024-08-14T00:36:53.557Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 12 Lectura Versión 2 Cangrejos": {
+      "driveFileId": "1ZRLuOI0YD7NixU2ufMA0IZkXRnwqvQakt_G46wYjzic",
+      "name": "8.6 Lección 12 Lectura Versión 2 Cangrejos",
+      "modifiedTime": "2024-08-14T00:36:49.734Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 12 Lectura Versión 2 Caballos": {
+      "driveFileId": "1BdT_9WK22nokq8lKN2EA2s4W9NdD3wmVqG8FiQA58g0",
+      "name": "8.6 Lección 12 Lectura Versión 2 Caballos",
+      "modifiedTime": "2024-08-14T00:36:46.593Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 12 Lectura Versión 1 Cangrejos": {
+      "driveFileId": "1ox55Ewjsa3_X_sFwnjlw9DN5LJBSJY9K2u0j2KWemzA",
+      "name": "8.6 Lección 12 Lectura Versión 1 Cangrejos",
+      "modifiedTime": "2024-08-14T00:36:36.985Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 12 Lectura Versión 1 Caballos": {
+      "driveFileId": "1uQVCpYBAvvxDqPDJF48PXCPSIMujWm8yIIuHi2uvN8Y",
+      "name": "8.6 Lección 12 Lectura Versión 1 Caballos",
+      "modifiedTime": "2024-08-14T00:36:32.835Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 12 Folleto Lectura v2 Cangrejos": {
+      "driveFileId": "1KEY_SHXMB3BFHK_1DwvsZTQlCul3PzlhJsRSoQSxtGc",
+      "name": "8.6 Lección 12 Folleto Lectura v2 Cangrejos",
+      "modifiedTime": "2024-08-14T00:36:28.438Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 12 Folleto Lectura v2 Caballos": {
+      "driveFileId": "150blvStnYe9yJPwgkdn_W0dGpwjRlSeg-wThCqFDnos",
+      "name": "8.6 Lección 12 Folleto Lectura v2 Caballos",
+      "modifiedTime": "2024-08-14T00:36:24.703Z"
+    },
+    "Lesson 12 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 12 Folleto Lectura v1 Cangrejos": {
+      "driveFileId": "1ZzlzM5TrEUzpHg_WLfL2oLSn4r8Tw4Xanzm8Bori3w4",
+      "name": "8.6 Lección 12 Folleto Lectura v1 Cangrejos",
+      "modifiedTime": "2024-08-14T00:36:21.405Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/Copy of 8.6 Lesson 11 Assessment Green Anole Lizard": {
+      "driveFileId": "1xAvOjZs756Wbk3kf6OZ0Fjs7frQF6BEE9BEJW7q_kVc",
+      "name": "Copy of 8.6 Lesson 11 Assessment Green Anole Lizard",
+      "modifiedTime": "2025-04-24T14:04:04.963Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Teacher Edition": {
+      "driveFileId": "1HMGLayqY5JEkhAe792zQcMTB8nx31auPl-VSsGahxBI",
+      "name": "8.6 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:36:16.590Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1IG8Pjjxmg6MgNDf0pF2-Ic7NDppMlpEMjpVpdAJGU7o",
+      "name": "8.6 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:12.686Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Student Procedure": {
+      "driveFileId": "15ofwwRVqsDtzfItLESzDP9DtxfWb-P992EQQ2VrcgWI",
+      "name": "8.6 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:08.728Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Slides": {
+      "driveFileId": "1Le_wPMvKSiX2PbmE1pwzsjdHCaP_RQ2mJydqca_vamU",
+      "name": "8.6 Lesson 11 Slides",
+      "modifiedTime": "2024-08-14T00:36:05.281Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1GHednHfOy5uklfImiCCZ5XkZyCrTjiKWLovTtvKjch0",
+      "name": "8.6 Lesson 11 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:36:01.558Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Handout Peer Feedback Self-Assessment": {
+      "driveFileId": "1Epy6Zs-F4ddEkKesB7t2EracS1IdVk-BqndqcXX2zgI",
+      "name": "8.6 Lesson 11 Handout Peer Feedback Self-Assessment",
+      "modifiedTime": "2024-08-14T00:35:58.621Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Handout Peer Feedback Guidelines": {
+      "driveFileId": "1-gTKSYenB-0Z49Y6ZtnDeEuPrWAzPAL8s3iyL6qndJY",
+      "name": "8.6 Lesson 11 Handout Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-14T00:35:56.140Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Handout Model Scaffold for": {
+      "driveFileId": "1T1shPi8VQg7YpQzpYzJUKxXURrq8PC9r8BpwWZhk6u8",
+      "name": "8.6 Lesson 11 Handout Model Scaffold for",
+      "modifiedTime": "2024-08-14T00:35:52.054Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Assessment Green Anole Lizard": {
+      "driveFileId": "1aD7ck1VTTPsiLwpUya90G4flz_hCpRHGPd-C77fTURI",
+      "name": "8.6 Lesson 11 Assessment Green Anole Lizard",
+      "modifiedTime": "2024-08-14T00:35:48.235Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 11 Answer Key Key Green Anole": {
+      "driveFileId": "1OG5D5vVSpgOG-G5GgTmqzdRPTqDE5hr_RFwCuAPOG14",
+      "name": "8.6 Lesson 11 Answer Key Key Green Anole",
+      "modifiedTime": "2024-08-14T00:35:44.587Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 11 Referencia Pautas para retroalimentación": {
+      "driveFileId": "1lFw8Jnf11vov3fbDPPNa2rWQl_fBnT7Nmzk3z576KBg",
+      "name": "8.6 Lección 11 Referencia Pautas para retroalimentación",
+      "modifiedTime": "2024-08-14T00:35:40.968Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 11 Folleto Pautas para retroalimentación": {
+      "driveFileId": "1cOhlzYrrx7UkgGx8wRYRI4XfLhjIL9r4xIhhzgxcwXU",
+      "name": "8.6 Lección 11 Folleto Pautas para retroalimentación",
+      "modifiedTime": "2024-08-14T00:35:38.120Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 11 Folleto Autoevaluación de retroalimentación": {
+      "driveFileId": "16PIJQ-MtTDlDtkUbN9_jAQCKKVYlOCgW1Baijb8GkkY",
+      "name": "8.6 Lección 11 Folleto Autoevaluación de retroalimentación",
+      "modifiedTime": "2024-08-14T00:35:35.674Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 11 Folleto Andamio para Modelo": {
+      "driveFileId": "1Ln2ff6mTZfPNYoKdq-t_xYvSQoHVr62YiN3Rfap6fMM",
+      "name": "8.6 Lección 11 Folleto Andamio para Modelo",
+      "modifiedTime": "2024-08-14T00:35:33.279Z"
+    },
+    "Lesson 11 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 11 Evaluación Explicación de lagarto": {
+      "driveFileId": "1FFgIOQlxV9d3pq6wAcAEwdU6uy4W4zwtQsPI_Vdb_fY",
+      "name": "8.6 Lección 11 Evaluación Explicación de lagarto",
+      "modifiedTime": "2024-08-14T00:35:29.267Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Teacher Edition": {
+      "driveFileId": "1cf8mmIKVuYe-YqGFd5gnc9e7SZctGp48yWl6P0X3K6U",
+      "name": "8.6 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:23.718Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1emuvUO1ifPN4c8wbR-WwA4aGYc2JmqUgRJUdxyuTY8Y",
+      "name": "8.6 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:19.584Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Student Procedure": {
+      "driveFileId": "1MHqKuCvUXpXYm4PgV2jmRzM0sQP2cm13lvxv3Eq8bnU",
+      "name": "8.6 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:15.809Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Slides": {
+      "driveFileId": "1Lzg5HwiVh6UxlaixJ8de-nO2anon3MStz5pfNo1Zhno",
+      "name": "8.6 Lesson 10 Slides",
+      "modifiedTime": "2024-08-14T00:35:11.366Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Handout Transcript Comparing Bacteria": {
+      "driveFileId": "1_b6DySv7Oe3VBFv9WmDW_CZfdNUBJlPrJf4GlM5KVbo",
+      "name": "8.6 Lesson 10 Handout Transcript Comparing Bacteria",
+      "modifiedTime": "2024-08-14T00:35:07.284Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Handout My Model for": {
+      "driveFileId": "1Ua2e7RZ79b2PxXy0lKN3EorEVjC9g9DCH9CPwjqdyRQ",
+      "name": "8.6 Lesson 10 Handout My Model for",
+      "modifiedTime": "2024-08-14T00:35:04.285Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Handout Different Environmental Conditions": {
+      "driveFileId": "1d2GOR2ct5ayto8inReul1NvpL-o9JmdaI0lxbjyhwLM",
+      "name": "8.6 Lesson 10 Handout Different Environmental Conditions",
+      "modifiedTime": "2024-08-14T00:35:00.922Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Answer Key My Model for": {
+      "driveFileId": "1O0-5r9q0pdfHLYkE0V62Ffy-hy4tcJwdxGbMnGRhQg4",
+      "name": "8.6 Lesson 10 Answer Key My Model for",
+      "modifiedTime": "2024-08-14T00:34:58.201Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 10 Answer Key Key for Different": {
+      "driveFileId": "1LK3G9ji4M1xoDcJFsRGO-Jj4URDjbIH1wCypK-gj5Nw",
+      "name": "8.6 Lesson 10 Answer Key Key for Different",
+      "modifiedTime": "2024-08-14T00:34:55.283Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 10 Folleto Transcripción Comparación de": {
+      "driveFileId": "1eHSa8UhWfDEYvjINbCx5fezaHWyWk-x1-rj-U15zvCk",
+      "name": "8.6 Lección 10 Folleto Transcripción Comparación de",
+      "modifiedTime": "2024-08-14T00:34:52.268Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 10 Folleto Mi modelo para": {
+      "driveFileId": "1_k1d4AWKel_sN8fhnDFX8Hd-dcG_1wkYoxs5eGfgHOM",
+      "name": "8.6 Lección 10 Folleto Mi modelo para",
+      "modifiedTime": "2024-08-14T00:34:49.855Z"
+    },
+    "Lesson 10 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 10 Folleto Diferentes condiciones ambientales": {
+      "driveFileId": "1KlcPcbdxknBg_t-s4B-CsmE4xJiq74X6C85Ev-Hi0gA",
+      "name": "8.6 Lección 10 Folleto Diferentes condiciones ambientales",
+      "modifiedTime": "2024-08-14T00:34:45.931Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Teacher Reference Unit Materials Planning": {
+      "driveFileId": "1HEwfg-jzdOUZxm3eqBwOSOZDVq4rrboRFQslVObZn6U",
+      "name": "8.6 Lesson 1 Teacher Reference Unit Materials Planning",
+      "modifiedTime": "2024-08-14T00:34:42.457Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Teacher Edition": {
+      "driveFileId": "1fJrwJWrCky_Kfr-16S5B2dKRXPSkKtL_xgoMXFq7t2M",
+      "name": "8.6 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:34:38.756Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "18EWJBePPGdpkufsrQeVkAML9iA5cSCgZ_a0tWtW0Fjg",
+      "name": "8.6 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:33.246Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Student Procedure": {
+      "driveFileId": "1wYzSGIJT1AgFn1caHtsForS_MEzqw0N8W_nWoIaMz_U",
+      "name": "8.6 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:29.863Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Slides": {
+      "driveFileId": "1QaFmnDU7fS4CYeJlOkJsL6_ZkO2mVOAN8brsLuWXa0o",
+      "name": "8.6 Lesson 1 Slides",
+      "modifiedTime": "2024-08-14T00:34:25.338Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Reference Podcast Transcript and": {
+      "driveFileId": "1ACL_0bLChK-9B_9s2Rg_xwuOj06KJ1_5zA6zK3XfRBY",
+      "name": "8.6 Lesson 1 Reference Podcast Transcript and",
+      "modifiedTime": "2024-08-14T00:34:20.371Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Reference Data Cards for": {
+      "driveFileId": "1BVPSmdHTHe2pOfEvw8obUfoSi-m0bYRttis624ZHtzQ",
+      "name": "8.6 Lesson 1 Reference Data Cards for",
+      "modifiedTime": "2024-08-14T00:34:16.294Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Handout Reference Podcast Transcript": {
+      "driveFileId": "1JIXlHyOmZO5o9pyZx3epWIdYEv-UIos10vVmladj3po",
+      "name": "8.6 Lesson 1 Handout Reference Podcast Transcript",
+      "modifiedTime": "2024-08-14T00:34:12.122Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Handout Predictions on Other": {
+      "driveFileId": "10gp5Owdz5RaeV60-R9qfi73h-m8XT8FW2XUziOwNPeU",
+      "name": "8.6 Lesson 1 Handout Predictions on Other",
+      "modifiedTime": "2024-08-14T00:34:07.834Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Handout Penguin Comparison": {
+      "driveFileId": "1_kuGPOg_op9go-Kmc523GMgCOuR_e_XFWBd0XP04VB8",
+      "name": "8.6 Lesson 1 Handout Penguin Comparison",
+      "modifiedTime": "2024-08-14T00:34:05.190Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Handout Initial Explanations": {
+      "driveFileId": "15DFe4-8foAZxeC_KNTkwg0Ne-cmrYAnPh4L4U2THwio",
+      "name": "8.6 Lesson 1 Handout Initial Explanations",
+      "modifiedTime": "2024-08-14T00:34:02.315Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lesson 1 Handout Data Cards for": {
+      "driveFileId": "1YeCfjtFmSqFXXO8Cp5cIcDc91QPqsSNbBsgMno7Ci7c",
+      "name": "8.6 Lesson 1 Handout Data Cards for",
+      "modifiedTime": "2024-08-14T00:33:59.673Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 1 Referencia Transcripción de podcast": {
+      "driveFileId": "1q_JKbWDz54YDjXKMNSgNd9x93F-2SqQKitxXggktK28",
+      "name": "8.6 Lección 1 Referencia Transcripción de podcast",
+      "modifiedTime": "2024-08-14T00:33:55.381Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 1 Referencia Tarjetas de datos": {
+      "driveFileId": "12d32wfwyqyAgnDntkNcAL7XOsXMQVQDlhUP4BK4PKKo",
+      "name": "8.6 Lección 1 Referencia Tarjetas de datos",
+      "modifiedTime": "2024-08-14T00:33:51.829Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 1 Folleto Tarjetas de datos": {
+      "driveFileId": "1R4-soWFhhd7W6LY6zaZuknvr7yYyjlru28LMKUfH25w",
+      "name": "8.6 Lección 1 Folleto Tarjetas de datos",
+      "modifiedTime": "2024-08-14T00:33:48.106Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 1 Folleto Referencia Transcripción de": {
+      "driveFileId": "1E1k9GKbVoD7k_k8e2lFjsT_bbSryRBKO6SRNAT_t3gY",
+      "name": "8.6 Lección 1 Folleto Referencia Transcripción de",
+      "modifiedTime": "2024-08-14T00:33:44.070Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 1 Folleto Predicciones sobre otros": {
+      "driveFileId": "1IVIP23jsN_ismDS8OA7Ilclygkh7KmIhNJLAE9qA3A0",
+      "name": "8.6 Lección 1 Folleto Predicciones sobre otros",
+      "modifiedTime": "2024-08-14T00:33:39.881Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 1 Folleto Explicaciones iniciales": {
+      "driveFileId": "1G3485rh0P8i14ZgLVgU3khjBRgHkKyON9nd7OFNtiG8",
+      "name": "8.6 Lección 1 Folleto Explicaciones iniciales",
+      "modifiedTime": "2024-08-14T00:33:37.467Z"
+    },
+    "Lesson 1 - 8.6 Natural Selection & Common Ancestry/8.6 Lección 1 Folleto Comparación de pingüinos": {
+      "driveFileId": "1zYSHoUnWPpPsunRfqppZ1oGElDhB_XIH-v9bl3HdcN0",
+      "name": "8.6 Lección 1 Folleto Comparación de pingüinos",
+      "modifiedTime": "2024-08-14T00:33:35.008Z"
+    }
+  }
+}

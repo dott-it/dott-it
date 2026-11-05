@@ -1,0 +1,2 @@
+# Ignore specific files that have manual formatting
+components/ui/assessment-history/feedback-cards-message.tsx

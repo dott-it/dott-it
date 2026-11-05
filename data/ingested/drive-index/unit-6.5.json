@@ -1,0 +1,1275 @@
+{
+  "unitId": "6.5",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 6",
+  "unitFolder": "6.5 Natural Hazards",
+  "unitDriveFolderId": "15bc6zLR_A0q-VxmB-n_fMLhmsHo3G8gC",
+  "indexedAt": "2026-07-07T18:07:57.992Z",
+  "fileCount": 151,
+  "manifestPathCount": 56,
+  "matchedCount": 56,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "65-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1sdaNQ6VBSk6Xgk5LP3z0YWBGjw0pkqbGZnSlbt1orw0",
+      "driveRelativePath": "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:58.238Z"
+    },
+    {
+      "assessmentId": "65-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1sdaNQ6VBSk6Xgk5LP3z0YWBGjw0pkqbGZnSlbt1orw0",
+      "driveRelativePath": "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:58.238Z"
+    },
+    {
+      "assessmentId": "65-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1PobZ8wSNfpByEdF9Y_2KnhQR-7DbP-dMZaGt_CmRd60",
+      "driveRelativePath": "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:14.087Z"
+    },
+    {
+      "assessmentId": "65-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1PobZ8wSNfpByEdF9Y_2KnhQR-7DbP-dMZaGt_CmRd60",
+      "driveRelativePath": "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:14.087Z"
+    },
+    {
+      "assessmentId": "65-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1PobZ8wSNfpByEdF9Y_2KnhQR-7DbP-dMZaGt_CmRd60",
+      "driveRelativePath": "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:14.087Z"
+    },
+    {
+      "assessmentId": "65-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "10gduyO6AjK7khb3wVMg8Av5fRW1IWmxik93orQ4OxkM",
+      "driveRelativePath": "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:39.442Z"
+    },
+    {
+      "assessmentId": "65-3-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "10gduyO6AjK7khb3wVMg8Av5fRW1IWmxik93orQ4OxkM",
+      "driveRelativePath": "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:39.442Z"
+    },
+    {
+      "assessmentId": "65-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "10gduyO6AjK7khb3wVMg8Av5fRW1IWmxik93orQ4OxkM",
+      "driveRelativePath": "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:39.442Z"
+    },
+    {
+      "assessmentId": "65-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "10gduyO6AjK7khb3wVMg8Av5fRW1IWmxik93orQ4OxkM",
+      "driveRelativePath": "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:39.442Z"
+    },
+    {
+      "assessmentId": "65-3-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "10gduyO6AjK7khb3wVMg8Av5fRW1IWmxik93orQ4OxkM",
+      "driveRelativePath": "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:39.442Z"
+    },
+    {
+      "assessmentId": "65-4-explaining-and-forecasting",
+      "field": "studentHandout",
+      "manifestPath": "lesson_4/original/6.5 Lesson 4 Assessment Explaining and Forecasting.docx",
+      "driveFileId": "1mrR84dQh14vv_9smyC8Lt-Rwe2RcF8fdg_JKFDanksY",
+      "driveRelativePath": "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Assessment Explaining and Forecasting",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:54.637Z"
+    },
+    {
+      "assessmentId": "65-4-explaining-and-forecasting",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.5 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1t0A9Tb3-VDfkto1xWakij2cAXd3n-fRR9Fi2CyTDLY8",
+      "driveRelativePath": "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:16.226Z"
+    },
+    {
+      "assessmentId": "65-4-explaining-and-forecasting",
+      "field": "answerKey",
+      "manifestPath": "lesson_4/original/6.5 Lesson 4 Answer Key Scoring Guidance for.docx",
+      "driveFileId": "1nuMKcGN-srwnir2HGm4INt5hUVu4uintyGpnzLPv3Sw",
+      "driveRelativePath": "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Answer Key Scoring Guidance for",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:50.537Z"
+    },
+    {
+      "assessmentId": "65-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.5 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1t0A9Tb3-VDfkto1xWakij2cAXd3n-fRR9Fi2CyTDLY8",
+      "driveRelativePath": "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:16.226Z"
+    },
+    {
+      "assessmentId": "65-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.5 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1r_HuE_IBWon-meJimNGWpx1V7PnV4EPt-0nxjgp7Z-A",
+      "driveRelativePath": "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:46.551Z"
+    },
+    {
+      "assessmentId": "65-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.5 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1r_HuE_IBWon-meJimNGWpx1V7PnV4EPt-0nxjgp7Z-A",
+      "driveRelativePath": "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:46.551Z"
+    },
+    {
+      "assessmentId": "65-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.5 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1hrKLE1Mt1jVbryuFH-HHsDKW7OmOOYYbVMR0tznK2AU",
+      "driveRelativePath": "Lesson 6 - 6.5 Natural Hazards/6.5 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:13.410Z"
+    },
+    {
+      "assessmentId": "65-7-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.5 Lesson 7 Handout Community Stakeholders.docx",
+      "driveFileId": "14pCjbJMHBAVovzuZMpcVLrKh7RUkU-_v96WLvIWgnPs",
+      "driveRelativePath": "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Community Stakeholders",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:36.217Z"
+    },
+    {
+      "assessmentId": "65-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.5 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1FIwadmqZR4ooQXU4v8dc6myrIn1ma_M6CB6QdeBnG-8",
+      "driveRelativePath": "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:10.775Z"
+    },
+    {
+      "assessmentId": "65-7-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.5 Lesson 7 Handout Community Stakeholders.docx",
+      "driveFileId": "14pCjbJMHBAVovzuZMpcVLrKh7RUkU-_v96WLvIWgnPs",
+      "driveRelativePath": "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Community Stakeholders",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:36.217Z"
+    },
+    {
+      "assessmentId": "65-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.5 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1FIwadmqZR4ooQXU4v8dc6myrIn1ma_M6CB6QdeBnG-8",
+      "driveRelativePath": "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:10.775Z"
+    },
+    {
+      "assessmentId": "65-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.5 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1PjdeP_tcARCRrteL98bJq_XpxJwhhgqSZd3FKm_siZM",
+      "driveRelativePath": "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:40.254Z"
+    },
+    {
+      "assessmentId": "65-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.5 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1PjdeP_tcARCRrteL98bJq_XpxJwhhgqSZd3FKm_siZM",
+      "driveRelativePath": "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:40.254Z"
+    },
+    {
+      "assessmentId": "65-9-6-5-lesson-9-handout-engineering-self-assessment-rubric",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Handout Engineering Self-Assessment Rubric.docx",
+      "driveFileId": "1-bdtvNBv8VyU7YuToxaTu9i2F_Oldjd0ha9rpv4gjK8",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Handout Engineering Self-Assessment Rubric",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:54.258Z"
+    },
+    {
+      "assessmentId": "65-9-6-5-lesson-9-handout-engineering-self-assessment-rubric",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1m6nA5nRG2gcnIkXRL2c9r9ll6JUCPncsgXY0DvIaJoA",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:12.361Z"
+    },
+    {
+      "assessmentId": "65-9-6-5-lesson-9-rubric-engineering-self-assessment-rubric",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Rubric Engineering Self-Assessment Rubric.docx",
+      "driveFileId": "1Sf1BfcXKIaCuPpst220214O-4viGiGrSYYCQSlpVkQs",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Rubric Engineering Self-Assessment Rubric",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:57.493Z"
+    },
+    {
+      "assessmentId": "65-9-6-5-lesson-9-rubric-engineering-self-assessment-rubric",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1m6nA5nRG2gcnIkXRL2c9r9ll6JUCPncsgXY0DvIaJoA",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:12.361Z"
+    },
+    {
+      "assessmentId": "65-9-engineering-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Assessment Engineering Self-Assessment.docx",
+      "driveFileId": "1dmi8fAJbzin9dbYZUIsihInA1betVDr4VeNaAi3bmvc",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Assessment Engineering Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:51.728Z"
+    },
+    {
+      "assessmentId": "65-9-engineering-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1m6nA5nRG2gcnIkXRL2c9r9ll6JUCPncsgXY0DvIaJoA",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:12.361Z"
+    },
+    {
+      "assessmentId": "65-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1m6nA5nRG2gcnIkXRL2c9r9ll6JUCPncsgXY0DvIaJoA",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:12.361Z"
+    },
+    {
+      "assessmentId": "65-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1m6nA5nRG2gcnIkXRL2c9r9ll6JUCPncsgXY0DvIaJoA",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:12.361Z"
+    },
+    {
+      "assessmentId": "65-10-6-5-lesson-10-handout-self-assessment-giving-and",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Handout Self-Assessment Giving and.docx",
+      "driveFileId": "1gWq0Rnk_5cijhAJPRwc5d8irSGFU3Ygd2inAy6fDx3A",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Self-Assessment Giving and",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:13.369Z"
+    },
+    {
+      "assessmentId": "65-10-6-5-lesson-10-handout-self-assessment-giving-and",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    },
+    {
+      "assessmentId": "65-10-6-5-lesson-10-handout-self-assessment-giving-and",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Answer Key Assessing Hazard Risk.docx",
+      "driveFileId": "198eEbPZQy3No258zfnLrWfkY1V5I0G4o1uBIiLgVUVY",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Answer Key Assessing Hazard Risk",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:51.462Z"
+    },
+    {
+      "assessmentId": "65-10-assessing-hazard-risk",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Assessment Assessing Hazard Risk.docx",
+      "driveFileId": "1qC3iC8ULBY_tpjdkH7JKALWZB67UXKMt0QUPhYGQ-GE",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Assessment Assessing Hazard Risk",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:54.634Z"
+    },
+    {
+      "assessmentId": "65-10-assessing-hazard-risk",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    },
+    {
+      "assessmentId": "65-10-assessing-hazard-risk",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Answer Key Assessing Hazard Risk.docx",
+      "driveFileId": "198eEbPZQy3No258zfnLrWfkY1V5I0G4o1uBIiLgVUVY",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Answer Key Assessing Hazard Risk",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:51.462Z"
+    },
+    {
+      "assessmentId": "65-10-obtaining-and-communicating",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Assessment Obtaining and Communicating.docx",
+      "driveFileId": "1iUrXePcTkX6mkbrHJIuXC7fkNAfBw5YPrLZL8HuXbbg",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Assessment Obtaining and Communicating",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:58.559Z"
+    },
+    {
+      "assessmentId": "65-10-obtaining-and-communicating",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    },
+    {
+      "assessmentId": "65-10-obtaining-and-communicating",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Answer Key Assessing Hazard Risk.docx",
+      "driveFileId": "198eEbPZQy3No258zfnLrWfkY1V5I0G4o1uBIiLgVUVY",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Answer Key Assessing Hazard Risk",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:51.462Z"
+    },
+    {
+      "assessmentId": "65-10-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Handout Determining Stakeholder Needs.docx",
+      "driveFileId": "1nUEcksuyTyuKKh8NoeO9XjM_L2LG9hfEJy352geTn0U",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Determining Stakeholder Needs",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:01.155Z"
+    },
+    {
+      "assessmentId": "65-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    },
+    {
+      "assessmentId": "65-10-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Handout Determining Stakeholder Needs.docx",
+      "driveFileId": "1nUEcksuyTyuKKh8NoeO9XjM_L2LG9hfEJy352geTn0U",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Determining Stakeholder Needs",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:01.155Z"
+    },
+    {
+      "assessmentId": "65-10-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    },
+    {
+      "assessmentId": "65-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/6.5 Natural Hazards Unit Overview Materials.docx",
+      "driveFileId": "1kB6uPJvOSQEi1rMg7HsAko7j-5IVXYbqGs0atFemG8o",
+      "driveRelativePath": "6.5 Natural Hazards Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-13T20:40:17.749Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/6.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1sdaNQ6VBSk6Xgk5LP3z0YWBGjw0pkqbGZnSlbt1orw0",
+      "driveRelativePath": "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:58.238Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/6.5 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1PobZ8wSNfpByEdF9Y_2KnhQR-7DbP-dMZaGt_CmRd60",
+      "driveRelativePath": "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:14.087Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/6.5 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "10gduyO6AjK7khb3wVMg8Av5fRW1IWmxik93orQ4OxkM",
+      "driveRelativePath": "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:39.442Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/6.5 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1t0A9Tb3-VDfkto1xWakij2cAXd3n-fRR9Fi2CyTDLY8",
+      "driveRelativePath": "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:16.226Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/6.5 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1r_HuE_IBWon-meJimNGWpx1V7PnV4EPt-0nxjgp7Z-A",
+      "driveRelativePath": "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:46.551Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/6.5 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1hrKLE1Mt1jVbryuFH-HHsDKW7OmOOYYbVMR0tznK2AU",
+      "driveRelativePath": "Lesson 6 - 6.5 Natural Hazards/6.5 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:13.410Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/6.5 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1FIwadmqZR4ooQXU4v8dc6myrIn1ma_M6CB6QdeBnG-8",
+      "driveRelativePath": "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:10.775Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/6.5 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1PjdeP_tcARCRrteL98bJq_XpxJwhhgqSZd3FKm_siZM",
+      "driveRelativePath": "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:40.254Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/6.5 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1m6nA5nRG2gcnIkXRL2c9r9ll6JUCPncsgXY0DvIaJoA",
+      "driveRelativePath": "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:12.361Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/6.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "driveRelativePath": "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1Z16ktfso41r0tIZH3mwS1aDzmLn1t0Su",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-13T20:49:18.121Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1vIIbkqZJM7kVyHBrqHfZl_snIXGzBN91",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-13T20:49:16.777Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1BU3UsFBOaw5B0Z-enTWFbFPHKnwCxgym",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-13T20:49:15.712Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1GdWDK5cmL6DE0baoo0f-uJ1xwU1X_jA0",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-13T20:49:14.665Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1UFlS0GQQLmIsfExDco7srbe5kdnICFFg",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-13T20:49:13.387Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Teacher Edition": {
+      "driveFileId": "1m6nA5nRG2gcnIkXRL2c9r9ll6JUCPncsgXY0DvIaJoA",
+      "name": "6.5 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:49:12.361Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1ISX4BmGMSVIL3H5ZfVq6gEADmLqVshzkr1HxczuqXLE",
+      "name": "6.5 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:49:08.665Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Student Procedure": {
+      "driveFileId": "1LG-wMNBh0iESuncvhAJHsIKay831UsBam3mJZwT5B10",
+      "name": "6.5 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-13T20:49:05.548Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Slides": {
+      "driveFileId": "1Qf5F2voCndWij18E-H5wBRPMYSE_Jn1ccn7kQykwwkY",
+      "name": "6.5 Lesson 9 Slides",
+      "modifiedTime": "2024-08-13T20:49:02.127Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Rubric Engineering Self-Assessment Rubric": {
+      "driveFileId": "1Sf1BfcXKIaCuPpst220214O-4viGiGrSYYCQSlpVkQs",
+      "name": "6.5 Lesson 9 Rubric Engineering Self-Assessment Rubric",
+      "modifiedTime": "2024-08-13T20:48:57.493Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Handout Engineering Self-Assessment Rubric": {
+      "driveFileId": "1-bdtvNBv8VyU7YuToxaTu9i2F_Oldjd0ha9rpv4gjK8",
+      "name": "6.5 Lesson 9 Handout Engineering Self-Assessment Rubric",
+      "modifiedTime": "2024-08-13T20:48:54.258Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lesson 9 Assessment Engineering Self-Assessment": {
+      "driveFileId": "1dmi8fAJbzin9dbYZUIsihInA1betVDr4VeNaAi3bmvc",
+      "name": "6.5 Lesson 9 Assessment Engineering Self-Assessment",
+      "modifiedTime": "2024-08-13T20:48:51.728Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lección 9 Folleto Rúbrica de autoevaluación": {
+      "driveFileId": "1InzPEFvQuCQ29_rQk3tEFHoDBDtz6HFwtT7znEjVGdU",
+      "name": "6.5 Lección 9 Folleto Rúbrica de autoevaluación",
+      "modifiedTime": "2024-08-13T20:48:47.378Z"
+    },
+    "Lesson 9 - 6.5 Natural Hazards/6.5 Lección 9 Evaluación Autoevaluación de ingeniería": {
+      "driveFileId": "1B8fO591NN3lhnC3YAciZN3V36F0RfzIzHx2AQLqWtFs",
+      "name": "6.5 Lección 9 Evaluación Autoevaluación de ingeniería",
+      "modifiedTime": "2024-08-13T20:48:44.282Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Teacher Edition": {
+      "driveFileId": "1PjdeP_tcARCRrteL98bJq_XpxJwhhgqSZd3FKm_siZM",
+      "name": "6.5 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:40.254Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1hANJMb1UkOmwM6nnn34wQJBqYM4-fO5ufhXEjDBGBic",
+      "name": "6.5 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:36.679Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Student Procedure": {
+      "driveFileId": "1gaRiVDjSE5RIQ30qSce8HpWCW7gCda7rXoIcvUpuk_U",
+      "name": "6.5 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:33.007Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Slides": {
+      "driveFileId": "1lJF3DfihxzV6d6pO--fxPD-I6O4DnXofx5WMcLrVyPc",
+      "name": "6.5 Lesson 8 Slides",
+      "modifiedTime": "2024-08-13T20:48:29.655Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Handout Sending Warning Signals": {
+      "driveFileId": "1yMc2xPNGU4KIr52J-Fd-Qr1wo7PATPxFhKj3LB-sXOk",
+      "name": "6.5 Lesson 8 Handout Sending Warning Signals",
+      "modifiedTime": "2024-08-13T20:48:25.110Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lesson 8 Handout Obtaining Information Notetaking": {
+      "driveFileId": "1zkCRmGlGQ7fjmwQ_st38xFyYZDEHlVOryfMIT8Tbc_M",
+      "name": "6.5 Lesson 8 Handout Obtaining Information Notetaking",
+      "modifiedTime": "2024-08-13T20:48:21.322Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lección 8 Folleto Guía para tomar": {
+      "driveFileId": "1OSguBVLrQnNtnKpMESIVqJtPb_8QZcSlkEXxqFshfBE",
+      "name": "6.5 Lección 8 Folleto Guía para tomar",
+      "modifiedTime": "2024-08-13T20:48:18.554Z"
+    },
+    "Lesson 8 - 6.5 Natural Hazards/6.5 Lección 8 Folleto Envío de señales": {
+      "driveFileId": "1f_j0QhsF6DxTkHf2wlBzlnEi9VG1C91KqxcxxKV-i2o",
+      "name": "6.5 Lección 8 Folleto Envío de señales",
+      "modifiedTime": "2024-08-13T20:48:16.011Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Teacher Edition": {
+      "driveFileId": "1FIwadmqZR4ooQXU4v8dc6myrIn1ma_M6CB6QdeBnG-8",
+      "name": "6.5 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:10.775Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1lumwybiD158uA9qv23f-6Ty_GmyF3lcgGso4UliRKCU",
+      "name": "6.5 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:07.127Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Student Procedure": {
+      "driveFileId": "1iIDglXXezlKmidb4l0FrGRhiScvZ3_EwrcmYhHT_aNs",
+      "name": "6.5 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:03.291Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Slides": {
+      "driveFileId": "1MDYTYWhLJiTRr046Bdcmk11HAqBI847rhVvGWuBXwlY",
+      "name": "6.5 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:47:59.706Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Reference Tsunami Communication Examples": {
+      "driveFileId": "1YjzaAuxe6cpk7tgcca32FQdOSqMvvAEzAb2DNdaQoZg",
+      "name": "6.5 Lesson 7 Reference Tsunami Communication Examples",
+      "modifiedTime": "2024-08-13T20:47:56.221Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Voices from Japan": {
+      "driveFileId": "1cus4sfZNAaS3Ltmx80FpIcBe1meXtYfJSAHvp7mbyFM",
+      "name": "6.5 Lesson 7 Handout Voices from Japan",
+      "modifiedTime": "2024-08-13T20:47:51.798Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Transcript Audio Public": {
+      "driveFileId": "14fEvUJwQLClRk762vtftxrG8ftkABT57K16vWGUAWqA",
+      "name": "6.5 Lesson 7 Handout Transcript Audio Public",
+      "modifiedTime": "2024-08-13T20:47:48.258Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Transcript Audio Alerts": {
+      "driveFileId": "1COvn56vqunxPxrxIXBpzRryvpluKv3QyDM7gynmsaYs",
+      "name": "6.5 Lesson 7 Handout Transcript Audio Alerts",
+      "modifiedTime": "2024-08-13T20:47:44.776Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Reading Kamaishi East": {
+      "driveFileId": "1BIcd2YfJeKBOHGqsrVcpiCPBc81jB8TgkxlgSlYBkLk",
+      "name": "6.5 Lesson 7 Handout Reading Kamaishi East",
+      "modifiedTime": "2024-08-13T20:47:42.509Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Evaluation Matrix": {
+      "driveFileId": "1zfqxxxcpqD4bUjzcQzkrz_FGrHa8ObzjBSCThSxEyDw",
+      "name": "6.5 Lesson 7 Handout Evaluation Matrix",
+      "modifiedTime": "2024-08-13T20:47:38.708Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lesson 7 Handout Community Stakeholders": {
+      "driveFileId": "14pCjbJMHBAVovzuZMpcVLrKh7RUkU-_v96WLvIWgnPs",
+      "name": "6.5 Lesson 7 Handout Community Stakeholders",
+      "modifiedTime": "2024-08-13T20:47:36.217Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lección 7 Referencia Ejemplos de comunicación": {
+      "driveFileId": "1xR8v-YvUK0338dzawc9dtmyiJB3Gz1o7D1Ev88pfs_g",
+      "name": "6.5 Lección 7 Referencia Ejemplos de comunicación",
+      "modifiedTime": "2024-08-13T20:47:33.651Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lección 7 Folleto Voces de los": {
+      "driveFileId": "1hzo-Z4bpfK_INJrAzzPTG3PKw4U42yiXojTI-ZdCBZk",
+      "name": "6.5 Lección 7 Folleto Voces de los",
+      "modifiedTime": "2024-08-13T20:47:29.479Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lección 7 Folleto Transcripción Anuncio de": {
+      "driveFileId": "1rnjtKCZzbrv-U3-2OmXyEZgNRY8__c3uYLORKXY-pxw",
+      "name": "6.5 Lección 7 Folleto Transcripción Anuncio de",
+      "modifiedTime": "2024-08-13T20:47:27.226Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lección 7 Folleto Transcripción Alertas de": {
+      "driveFileId": "1j50EUrrGMfNYZubFcbhwozbhVrDT2cyqpMbj7LN6AAY",
+      "name": "6.5 Lección 7 Folleto Transcripción Alertas de",
+      "modifiedTime": "2024-08-13T20:47:24.922Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lección 7 Folleto Partes interesadas de": {
+      "driveFileId": "1h73U_2enIdkV8kIa_0le5RxoarOLA1X7hLPC7pPjUDw",
+      "name": "6.5 Lección 7 Folleto Partes interesadas de",
+      "modifiedTime": "2024-08-13T20:47:22.008Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lección 7 Folleto Matriz de evaluación": {
+      "driveFileId": "1ncATN-9icR7jjXiZQO4yakvRc3qYjt1TK82W4imgkXM",
+      "name": "6.5 Lección 7 Folleto Matriz de evaluación",
+      "modifiedTime": "2024-08-13T20:47:19.451Z"
+    },
+    "Lesson 7 - 6.5 Natural Hazards/6.5 Lección 7 Folleto Lectura Escuela intermedia": {
+      "driveFileId": "1WrADd3wh6T_1Szi4_cAAVM13Pi-Ma71n7Tw4WdnSF_M",
+      "name": "6.5 Lección 7 Folleto Lectura Escuela intermedia",
+      "modifiedTime": "2024-08-13T20:47:16.965Z"
+    },
+    "Lesson 6 - 6.5 Natural Hazards/6.5 Lesson 6 Teacher Edition": {
+      "driveFileId": "1hrKLE1Mt1jVbryuFH-HHsDKW7OmOOYYbVMR0tznK2AU",
+      "name": "6.5 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:13.410Z"
+    },
+    "Lesson 6 - 6.5 Natural Hazards/6.5 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1TAP4CmZD8IyVYCAvbkMWID0CWAdBGdgGBvxrQZBvT00",
+      "name": "6.5 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:08.438Z"
+    },
+    "Lesson 6 - 6.5 Natural Hazards/6.5 Lesson 6 Student Procedure": {
+      "driveFileId": "1i5pExh2dH57HS3WrxMphZs5Fpd_U9C_1e2knwMu0l3Y",
+      "name": "6.5 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:03.932Z"
+    },
+    "Lesson 6 - 6.5 Natural Hazards/6.5 Lesson 6 Slides": {
+      "driveFileId": "1tLKgv3duf8zrOG2UUhJtR7iU7TR3OHmjj6pS0edlmLo",
+      "name": "6.5 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:47:00.570Z"
+    },
+    "Lesson 6 - 6.5 Natural Hazards/6.5 Lesson 6 Handout Reading How are": {
+      "driveFileId": "1asNYUmRgzcR834XHYnGcqqEDzK-gOlVAkU-b3AdegLY",
+      "name": "6.5 Lesson 6 Handout Reading How are",
+      "modifiedTime": "2024-08-13T20:46:57.539Z"
+    },
+    "Lesson 6 - 6.5 Natural Hazards/6.5 Lección 6 Folleto Lectura ¿Cómo se": {
+      "driveFileId": "1xAEkvpRFlXoelKqPF2oR2D2nGbGNJGBI24J7JgP7qJI",
+      "name": "6.5 Lección 6 Folleto Lectura ¿Cómo se",
+      "modifiedTime": "2024-08-13T20:46:53.603Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Teacher Reference Questions for Solution": {
+      "driveFileId": "1f-I0T_yJy5w5xgxF8URwnWnUGUOSQpjQjLmPa2IOQzc",
+      "name": "6.5 Lesson 5 Teacher Reference Questions for Solution",
+      "modifiedTime": "2024-08-13T20:46:49.228Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Teacher Edition": {
+      "driveFileId": "1r_HuE_IBWon-meJimNGWpx1V7PnV4EPt-0nxjgp7Z-A",
+      "name": "6.5 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:46.551Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1av7bHm2IMUXK6SjdTmUXsl8-uVH3iN2qAjEvhbKsxY4",
+      "name": "6.5 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:46:42.165Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Student Procedure": {
+      "driveFileId": "1gG_29F0NTS4pD0TwAm8z3cE0Mk2H4V6IcFvakqrGTSk",
+      "name": "6.5 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:37.816Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Slides": {
+      "driveFileId": "1hcxocyAb2xcaWd5V9kkoVJJwtTrzE8tnTwfLEkerh3o",
+      "name": "6.5 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:46:33.803Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Reference Existing Solutions for": {
+      "driveFileId": "1v6ufzDKyVg58cLsWWnUwfCHjvg6BCrZAZyJiKL0AWoE",
+      "name": "6.5 Lesson 5 Reference Existing Solutions for",
+      "modifiedTime": "2024-08-13T20:46:28.679Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout What happened in": {
+      "driveFileId": "1RgmmItz49JfcG20x43ZlmQ8EnJ0PDFx06rR-GUhyric",
+      "name": "6.5 Lesson 5 Handout What happened in",
+      "modifiedTime": "2024-08-13T20:46:23.648Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Tsunami Solution Ranking": {
+      "driveFileId": "16oLcQ__mvAG0b5MUYwXRJJkTwzqwPl4JmSvf9y83Jmc",
+      "name": "6.5 Lesson 5 Handout Tsunami Solution Ranking",
+      "modifiedTime": "2024-08-13T20:46:19.161Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Transcript Testing Wave": {
+      "driveFileId": "1-54dZxvd9VuaSB-m47ugHznLg7LGteB5BR6EeauCtvg",
+      "name": "6.5 Lesson 5 Handout Transcript Testing Wave",
+      "modifiedTime": "2024-08-13T20:46:14.212Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Transcript Fisherman’s Experience": {
+      "driveFileId": "1R1LwJS1XnbzlnrDXjkYpFqjM8bHr8i9fQauyM3oex1o",
+      "name": "6.5 Lesson 5 Handout Transcript Fisherman’s Experience",
+      "modifiedTime": "2024-08-13T20:46:10.586Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Existing Solutions for": {
+      "driveFileId": "1ECA_BfkJtDNWzPNZmvcOiBiv9uPTU4UuYc7PUirAOr8",
+      "name": "6.5 Lesson 5 Handout Existing Solutions for",
+      "modifiedTime": "2024-08-13T20:46:08.149Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Evaluating Solutions to": {
+      "driveFileId": "1qMRtNipjmzlCIxcdWqAE2odm9hup_kW0W-ybHpV3TTY",
+      "name": "6.5 Lesson 5 Handout Evaluating Solutions to",
+      "modifiedTime": "2024-08-13T20:46:04.487Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Decision Matrix": {
+      "driveFileId": "1h4TkScRDsB2k8qMVC0Gi2DFBFJ2hNe-mh3TyIJAvQ1A",
+      "name": "6.5 Lesson 5 Handout Decision Matrix",
+      "modifiedTime": "2024-08-13T20:46:01.509Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Completed Decision Matrix": {
+      "driveFileId": "1R0xY5_k_wiEzGFsM1vf_5O4miH9jp2M7s-PVr7GqYqE",
+      "name": "6.5 Lesson 5 Handout Completed Decision Matrix",
+      "modifiedTime": "2024-08-13T20:45:58.807Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lesson 5 Handout Comparing Ryoishi to": {
+      "driveFileId": "16TH-_bAH8LcF7u54-6HdPadjqZslb84TUtjGLyjjzvc",
+      "name": "6.5 Lesson 5 Handout Comparing Ryoishi to",
+      "modifiedTime": "2024-08-13T20:45:55.800Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Referencia Soluciones existentes para": {
+      "driveFileId": "17Da2xKePymGBtTAlQDdXuBBGAZRxYauxyCmsbLG1alU",
+      "name": "6.5 Lección 5 Referencia Soluciones existentes para",
+      "modifiedTime": "2024-08-13T20:45:52.729Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto ¿Qué pasó en": {
+      "driveFileId": "1U_cuLeLaB7Iyzh43LIi-DRbH6zQtPKGjrt5A8VN5pN8",
+      "name": "6.5 Lección 5 Folleto ¿Qué pasó en",
+      "modifiedTime": "2024-08-13T20:45:48.113Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto Transcripción Prueba de": {
+      "driveFileId": "17foiIw3gIqLNNF2xRZJ6rB1wOq_fc6pRAtA2HogkIvY",
+      "name": "6.5 Lección 5 Folleto Transcripción Prueba de",
+      "modifiedTime": "2024-08-13T20:45:43.358Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto Transcripción Experiencia del": {
+      "driveFileId": "1p7-qAbKgkdf9h4XxOpmR9Ywo3EZ-jmP7g-j57GX9r0Q",
+      "name": "6.5 Lección 5 Folleto Transcripción Experiencia del",
+      "modifiedTime": "2024-08-13T20:45:40.794Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto Tarjetas de calificación": {
+      "driveFileId": "1mMOcULAQsB5w2BUoJl9NHb_C-gJxNawikL3nFcs_t3I",
+      "name": "6.5 Lección 5 Folleto Tarjetas de calificación",
+      "modifiedTime": "2024-08-13T20:45:38.552Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto Soluciones existentes para": {
+      "driveFileId": "19s6tQ8a4EiXC1XrPdJVL0U6Nc5YZh1svlB_1GMKjTYU",
+      "name": "6.5 Lección 5 Folleto Soluciones existentes para",
+      "modifiedTime": "2024-08-13T20:45:34.018Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto Matriz de decisiones": {
+      "driveFileId": "1x4XH4L91iF3OMkJJhE0EulhLJbLcQkr-sMfKcMBmrgY",
+      "name": "6.5 Lección 5 Folleto Matriz de decisiones",
+      "modifiedTime": "2024-08-13T20:45:30.030Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto Evaluar soluciones para": {
+      "driveFileId": "1Q-wCUlYYO1zcq45TmXMrIHqsaVoxyNPyawBdoanRfQA",
+      "name": "6.5 Lección 5 Folleto Evaluar soluciones para",
+      "modifiedTime": "2024-08-13T20:45:27.297Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto Comparación de Ryoishi": {
+      "driveFileId": "1lmD-nfuk8DI8xj04h3e4i-bysC7uR1l7pY0NPu_hYrI",
+      "name": "6.5 Lección 5 Folleto Comparación de Ryoishi",
+      "modifiedTime": "2024-08-13T20:45:23.639Z"
+    },
+    "Lesson 5 - 6.5 Natural Hazards/6.5 Lección 5 Folleto 2 Matriz de": {
+      "driveFileId": "1QRS_QSVZwMSeT9-hguwQfaD8YK9JKu85ErpAsikBHlM",
+      "name": "6.5 Lección 5 Folleto 2 Matriz de",
+      "modifiedTime": "2024-08-13T20:45:19.559Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Teacher Edition": {
+      "driveFileId": "1t0A9Tb3-VDfkto1xWakij2cAXd3n-fRR9Fi2CyTDLY8",
+      "name": "6.5 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:16.226Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "10ic2vXaGQ3-_9GI8b2tGu6nL8T3Rl35jUbGJc2I_9tg",
+      "name": "6.5 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:11.929Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Student Procedure": {
+      "driveFileId": "14IW2OUCZNN8Weq2MHGW8rmQvffbpWxu9ABp6tM23R98",
+      "name": "6.5 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:07.576Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Slides": {
+      "driveFileId": "1glU-bgUmaG8CPNKbSeJQwihlXGB5JtUBLeNQixluR7M",
+      "name": "6.5 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:45:02.752Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Handout Forecasting Risk to": {
+      "driveFileId": "1osWHlWqJO4YruUHZnBhniynNPCH5uxR3K_Y3iJzSJ1M",
+      "name": "6.5 Lesson 4 Handout Forecasting Risk to",
+      "modifiedTime": "2024-08-13T20:44:59.626Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Assessment Explaining and Forecasting": {
+      "driveFileId": "1mrR84dQh14vv_9smyC8Lt-Rwe2RcF8fdg_JKFDanksY",
+      "name": "6.5 Lesson 4 Assessment Explaining and Forecasting",
+      "modifiedTime": "2024-08-13T20:44:54.637Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lesson 4 Answer Key Scoring Guidance for": {
+      "driveFileId": "1nuMKcGN-srwnir2HGm4INt5hUVu4uintyGpnzLPv3Sw",
+      "name": "6.5 Lesson 4 Answer Key Scoring Guidance for",
+      "modifiedTime": "2024-08-13T20:44:50.537Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lección 4 Folleto Pronóstico del riesgo": {
+      "driveFileId": "1PQiaXcz50TLEHctHtV3XdJYQi_zj2uthR2Z6BO_rq6A",
+      "name": "6.5 Lección 4 Folleto Pronóstico del riesgo",
+      "modifiedTime": "2024-08-13T20:44:47.133Z"
+    },
+    "Lesson 4 - 6.5 Natural Hazards/6.5 Lección 4 Evaluación Explicación y pronóstico": {
+      "driveFileId": "1vY7GFJr_9KlAy9X6xbSG2zdLD1mjzMwMEUUQH6ta440",
+      "name": "6.5 Lección 4 Evaluación Explicación y pronóstico",
+      "modifiedTime": "2024-08-13T20:44:43.620Z"
+    },
+    "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Teacher Edition": {
+      "driveFileId": "10gduyO6AjK7khb3wVMg8Av5fRW1IWmxik93orQ4OxkM",
+      "name": "6.5 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:39.442Z"
+    },
+    "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1r5OtEdQMSUh-VJSH4HGu8ATQic02-7soeub9HiI6jWU",
+      "name": "6.5 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:35.250Z"
+    },
+    "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Student Procedure": {
+      "driveFileId": "1Zd50C7EYaCWJkGM2tFHoOYm-EFdXcKRJY_ZU2XtHFCc",
+      "name": "6.5 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:31.978Z"
+    },
+    "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Slides": {
+      "driveFileId": "1CDvF3yaKhaRLQ1oVS_2ZwqbRNKErYZ75aRPmx-_mRHk",
+      "name": "6.5 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:44:28.008Z"
+    },
+    "Lesson 3 - 6.5 Natural Hazards/6.5 Lesson 3 Handout Wave Investigations": {
+      "driveFileId": "1tS6tW7j0hPCqJTAWCUvfBajXU1R7hGJBV1_t9mdPGAs",
+      "name": "6.5 Lesson 3 Handout Wave Investigations",
+      "modifiedTime": "2024-08-13T20:44:24.452Z"
+    },
+    "Lesson 3 - 6.5 Natural Hazards/6.5 Lección 3 Folleto Investigaciones de olas": {
+      "driveFileId": "1-etT_O1h-uX_uKB8L5qIkJMdqVKNtW1PmP21hct3MiM",
+      "name": "6.5 Lección 3 Folleto Investigaciones de olas",
+      "modifiedTime": "2024-08-13T20:44:21.836Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Teacher Reference How to Build": {
+      "driveFileId": "11Ie7qZtQ-S8Jwq7sHUzAm5CvsJ7UlxThU-mERpLUtCs",
+      "name": "6.5 Lesson 2 Teacher Reference How to Build",
+      "modifiedTime": "2024-08-13T20:44:17.796Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Teacher Edition": {
+      "driveFileId": "1PobZ8wSNfpByEdF9Y_2KnhQR-7DbP-dMZaGt_CmRd60",
+      "name": "6.5 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:14.087Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1t7XLGp2LK7J6IXNnZMXl3OXWIa6Yw49zGlkMKmbcQGQ",
+      "name": "6.5 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:09.665Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Student Procedure": {
+      "driveFileId": "1ac99n5fXlLUCCYJRa9UVGXu5DIoiwTD_K6XMTZnT99Y",
+      "name": "6.5 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:06.013Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Slides": {
+      "driveFileId": "1yn5H1P9jOMpOYDHipgIBGaKKoyb2Eu4irYzCSEYC5CE",
+      "name": "6.5 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:44:02.484Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Reference Tuva Graphing Instructions": {
+      "driveFileId": "1OScyoJhDwdU2znOGuQ9lR6lt9FofBNp0rXHL98ie0RA",
+      "name": "6.5 Lesson 2 Reference Tuva Graphing Instructions",
+      "modifiedTime": "2024-08-13T20:43:57.999Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Reference Historical Data of": {
+      "driveFileId": "1GkhcXzxxpcvYT-JwgnK-8sJJ1IIoGMLaS6esI_Y4Krg",
+      "name": "6.5 Lesson 2 Reference Historical Data of",
+      "modifiedTime": "2024-08-13T20:43:54.283Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Handout Where do tsunamis": {
+      "driveFileId": "1of4Nflaj1EbryVnOpHBB1aBuUCYAMekuPnirCH7WsDU",
+      "name": "6.5 Lesson 2 Handout Where do tsunamis",
+      "modifiedTime": "2024-08-13T20:43:50.355Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Handout Tsunami Predictions": {
+      "driveFileId": "1IpFitTD-t7jQaXGn7-R0pPlCJG76H-9iFl9mulHykWk",
+      "name": "6.5 Lesson 2 Handout Tsunami Predictions",
+      "modifiedTime": "2024-08-13T20:43:44.495Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Handout Connecting Earthquakes and": {
+      "driveFileId": "1wdBBz3lCjkAvHrF8avSprjZXtGxXSbKJRzcncSMtK3M",
+      "name": "6.5 Lesson 2 Handout Connecting Earthquakes and",
+      "modifiedTime": "2024-08-13T20:43:41.634Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lesson 2 Handout Comparing All Earthquakes": {
+      "driveFileId": "1gIBorKL2QMuMW3gapvt3S8TdK3KvcXx8U6-r8UnXQC8",
+      "name": "6.5 Lesson 2 Handout Comparing All Earthquakes",
+      "modifiedTime": "2024-08-13T20:43:37.474Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lección 2 Referencia Instrucciones para graficar": {
+      "driveFileId": "1weyGbQRxY1TpypT6xL2MPbgauPUmYr-pDnUDqX0YW7Y",
+      "name": "6.5 Lección 2 Referencia Instrucciones para graficar",
+      "modifiedTime": "2024-08-13T20:43:33.298Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lección 2 Referencia Datos históricos de": {
+      "driveFileId": "1A03oYa-IVbkfNgoak_CEHL-dHs_X9tNbdwNxviXuzDM",
+      "name": "6.5 Lección 2 Referencia Datos históricos de",
+      "modifiedTime": "2024-08-13T20:43:27.082Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lección 2 Folleto ¿Dónde ocurren los": {
+      "driveFileId": "1J2C4nDD4QW7atrlepmch18Ol-jVwg2Pbo0UfMoi96wA",
+      "name": "6.5 Lección 2 Folleto ¿Dónde ocurren los",
+      "modifiedTime": "2024-08-13T20:43:22.511Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lección 2 Folleto Predicciones de tsunamis": {
+      "driveFileId": "1xTyGmHmK68Oc8Ynh8qbKSqB5GPDOvFxqwCwGklNL8_c",
+      "name": "6.5 Lección 2 Folleto Predicciones de tsunamis",
+      "modifiedTime": "2024-08-13T20:43:19.082Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lección 2 Folleto Conectando terremotos y": {
+      "driveFileId": "1zh1WM3tMSlVT7fFiIYB3TFQ00i07JAAHPXyEM0MT_gM",
+      "name": "6.5 Lección 2 Folleto Conectando terremotos y",
+      "modifiedTime": "2024-08-13T20:43:15.003Z"
+    },
+    "Lesson 2 - 6.5 Natural Hazards/6.5 Lección 2 Folleto Comparación de todos": {
+      "driveFileId": "17dHerlD7XlQvz6vuhR5uQauM72_5H_9VlpWXafvCYkQ",
+      "name": "6.5 Lección 2 Folleto Comparación de todos",
+      "modifiedTime": "2024-08-13T20:43:09.109Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Reference Teacher Instructions for": {
+      "driveFileId": "1RyIDayIgb94saJ2SSPybnLVinnCMo5jZk-LkonwrKM4",
+      "name": "6.5 Lesson 10 Teacher Reference Teacher Instructions for",
+      "modifiedTime": "2024-08-13T20:43:07.590Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Reference Potential Accompanying Standards": {
+      "driveFileId": "1gXCH7N_LgTHG5SEHJtsEcBzaMzKsudfurfEakQaGvVI",
+      "name": "6.5 Lesson 10 Teacher Reference Potential Accompanying Standards",
+      "modifiedTime": "2024-08-13T20:43:04.883Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Reference Hazard Communication Project": {
+      "driveFileId": "1askQV0jgMtVILQSUn83cSDhxKmeoXkvGb4XroaXk9Dc",
+      "name": "6.5 Lesson 10 Teacher Reference Hazard Communication Project",
+      "modifiedTime": "2024-08-13T20:43:02.395Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Teacher Edition": {
+      "driveFileId": "1egRR1QL1-H4gFQaolM3MAMwC-GmWZWT29S6Q1srcow4",
+      "name": "6.5 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:42:59.122Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1-7eq5ELhl7nCRVjHetYU8Nfe4261LninAaZPePK_5aU",
+      "name": "6.5 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:42:49.090Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Student Procedure": {
+      "driveFileId": "1GkI9kJ9KCE_N9kLQbUIWwjBizGU5NcsgFMNGKUDlHco",
+      "name": "6.5 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-13T20:42:48.247Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Slides": {
+      "driveFileId": "1uCWe8mFD5kdmy9i8Fn03Xm5SJ01cN-JZQVdiTsEvlUM",
+      "name": "6.5 Lesson 10 Slides",
+      "modifiedTime": "2024-08-13T20:42:43.486Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Rubric Obtaining and Communicating": {
+      "driveFileId": "1i63d5SqfnI6ArNBz3eWlUSV3zDsbFjP_5JvlI4H1Ql8",
+      "name": "6.5 Lesson 10 Rubric Obtaining and Communicating",
+      "modifiedTime": "2024-08-13T20:42:37.300Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1qmgltXJwH6iCccaGechZkkAo1RkQviwBOR6mp4odUbg",
+      "name": "6.5 Lesson 10 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-13T20:42:34.534Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Reference Natural Hazards Around": {
+      "driveFileId": "1UHYxG0sLYIs08zs1sFh1F__Cno8rzxnA68b0rv_exGg",
+      "name": "6.5 Lesson 10 Reference Natural Hazards Around",
+      "modifiedTime": "2024-08-13T20:42:31.693Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Reference Hazard Risk Maps": {
+      "driveFileId": "1NWrdbt-QVtv9rVqkuu5i2BfGxTDaygGiAqtubTr2Yjs",
+      "name": "6.5 Lesson 10 Reference Hazard Risk Maps",
+      "modifiedTime": "2024-08-13T20:42:26.618Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Reference Family Hazard Plan": {
+      "driveFileId": "18Dkj0ZImASVHYP66VSNa2Utj701-6qs5SWbrNgK_33U",
+      "name": "6.5 Lesson 10 Reference Family Hazard Plan",
+      "modifiedTime": "2024-08-13T20:42:22.230Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Reference Developing a Family": {
+      "driveFileId": "10iv1_s0z3g4xgvEd5gfpOQGONKBBdHLSJBYGgihDPB0",
+      "name": "6.5 Lesson 10 Reference Developing a Family",
+      "modifiedTime": "2024-08-13T20:42:19.672Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Stakeholder Criteria and": {
+      "driveFileId": "17lJfsuFxwa8TcC__nNY-D87xBm1gvcxEIXMHO8AOuXU",
+      "name": "6.5 Lesson 10 Handout Stakeholder Criteria and",
+      "modifiedTime": "2024-08-13T20:42:16.354Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Self-Assessment Giving and": {
+      "driveFileId": "1gWq0Rnk_5cijhAJPRwc5d8irSGFU3Ygd2inAy6fDx3A",
+      "name": "6.5 Lesson 10 Handout Self-Assessment Giving and",
+      "modifiedTime": "2024-08-13T20:42:13.369Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Project Options": {
+      "driveFileId": "19CHc2ZWe8wAuXQQxz99Ll4SoGc-EW0e64zuSxwsIp8A",
+      "name": "6.5 Lesson 10 Handout Project Options",
+      "modifiedTime": "2024-08-13T20:42:09.990Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Hazard Communication Planning": {
+      "driveFileId": "1dtjoeIWHcVaimgTtgN8qKXtGJU0LWyeTy_pI2GyNK8w",
+      "name": "6.5 Lesson 10 Handout Hazard Communication Planning",
+      "modifiedTime": "2024-08-13T20:42:07.019Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Family Hazard Plan": {
+      "driveFileId": "1iKs3tRGrm_GaH5m-TnY_f3brRdY0a21GHAnDN4U1o3o",
+      "name": "6.5 Lesson 10 Handout Family Hazard Plan",
+      "modifiedTime": "2024-08-13T20:42:04.302Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Handout Determining Stakeholder Needs": {
+      "driveFileId": "1nUEcksuyTyuKKh8NoeO9XjM_L2LG9hfEJy352geTn0U",
+      "name": "6.5 Lesson 10 Handout Determining Stakeholder Needs",
+      "modifiedTime": "2024-08-13T20:42:01.155Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Assessment Obtaining and Communicating": {
+      "driveFileId": "1iUrXePcTkX6mkbrHJIuXC7fkNAfBw5YPrLZL8HuXbbg",
+      "name": "6.5 Lesson 10 Assessment Obtaining and Communicating",
+      "modifiedTime": "2024-08-13T20:41:58.559Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Assessment Assessing Hazard Risk": {
+      "driveFileId": "1qC3iC8ULBY_tpjdkH7JKALWZB67UXKMt0QUPhYGQ-GE",
+      "name": "6.5 Lesson 10 Assessment Assessing Hazard Risk",
+      "modifiedTime": "2024-08-13T20:41:54.634Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lesson 10 Answer Key Assessing Hazard Risk": {
+      "driveFileId": "198eEbPZQy3No258zfnLrWfkY1V5I0G4o1uBIiLgVUVY",
+      "name": "6.5 Lesson 10 Answer Key Assessing Hazard Risk",
+      "modifiedTime": "2024-08-13T20:41:51.462Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Referencia Plan familiar para": {
+      "driveFileId": "1gy6oefvU6KyGQYyVFXByOEYWFfezI42Amb0WPqdCWtg",
+      "name": "6.5 Lección 10 Referencia Plan familiar para",
+      "modifiedTime": "2024-08-13T20:41:44.228Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Referencia Peligros naturales en": {
+      "driveFileId": "1bZZ3a5Y6jHTWOBgyu_1Y7Aqbfju4xr3spHNzB1YNffo",
+      "name": "6.5 Lección 10 Referencia Peligros naturales en",
+      "modifiedTime": "2024-08-13T20:41:40.943Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Referencia Pautas para la": {
+      "driveFileId": "1nBJ_udVR72k95FN1gfClOA1YYBsSdNsxGxEz0YYuv70",
+      "name": "6.5 Lección 10 Referencia Pautas para la",
+      "modifiedTime": "2024-08-13T20:41:35.275Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Referencia Mapas de riesgo": {
+      "driveFileId": "18BX6zBBwjAWV5gO5vSiw77j4q-FR8YMXcYRnKR-_SMI",
+      "name": "6.5 Lección 10 Referencia Mapas de riesgo",
+      "modifiedTime": "2024-08-13T20:41:31.912Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Referencia Desarrollo de un": {
+      "driveFileId": "1TMjumrd0mMbyK2YUkB1hMI2fZCMI0YjUh_tuNNn8tO4",
+      "name": "6.5 Lección 10 Referencia Desarrollo de un",
+      "modifiedTime": "2024-08-13T20:41:27.923Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Folleto Planificación de comunicación": {
+      "driveFileId": "1Gq_huB__2MlM1jzMHB-0kAzd7vGq1WIk2LDYaJ_oLVQ",
+      "name": "6.5 Lección 10 Folleto Planificación de comunicación",
+      "modifiedTime": "2024-08-13T20:41:25.129Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Folleto Plan familiar para": {
+      "driveFileId": "1O75GpepZmobhaeKI89jq7LTNM8obsuGKHo_7vIFbjKs",
+      "name": "6.5 Lección 10 Folleto Plan familiar para",
+      "modifiedTime": "2024-08-13T20:41:22.381Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Folleto Opciones de proyecto": {
+      "driveFileId": "19f6RXthRjswFtEcjDD-3UQV7mtEvHX2Ng6Pyr8cBMTI",
+      "name": "6.5 Lección 10 Folleto Opciones de proyecto",
+      "modifiedTime": "2024-08-13T20:41:18.750Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Folleto Formulario de comentarios": {
+      "driveFileId": "1dD5fS1rA3wTvI93Mr543m983KX2ou9G0EBxiBbgpijU",
+      "name": "6.5 Lección 10 Folleto Formulario de comentarios",
+      "modifiedTime": "2024-08-13T20:41:15.790Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Folleto Determinación de las": {
+      "driveFileId": "1Shgejej9nbWfNC2Lwkb2hH9M6n8RZ36_teP0AGEN_bU",
+      "name": "6.5 Lección 10 Folleto Determinación de las",
+      "modifiedTime": "2024-08-13T20:41:13.099Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Folleto Autoevaluación dar y": {
+      "driveFileId": "1y7x_htAv9kGnybJjcNWNgeroqPCjxCpIEI6sVbsvTrQ",
+      "name": "6.5 Lección 10 Folleto Autoevaluación dar y",
+      "modifiedTime": "2024-08-13T20:41:10.626Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Evaluación Obtención y comunicación": {
+      "driveFileId": "1dsorGxI8PcdseC3xUgv3KlTQyxREvNXsdKnCpWi9n7M",
+      "name": "6.5 Lección 10 Evaluación Obtención y comunicación",
+      "modifiedTime": "2024-08-13T20:41:07.680Z"
+    },
+    "Lesson 10 - 6.5 Natural Hazards/6.5 Lección 10 Evaluación Evaluación de riesgo": {
+      "driveFileId": "1xLfyIrByk86tUxnvNr0mn7UKH7Lb3qHkYrrQsptLkGY",
+      "name": "6.5 Lección 10 Evaluación Evaluación de riesgo",
+      "modifiedTime": "2024-08-13T20:41:02.698Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Teacher Edition": {
+      "driveFileId": "1sdaNQ6VBSk6Xgk5LP3z0YWBGjw0pkqbGZnSlbt1orw0",
+      "name": "6.5 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:58.238Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1Q1Jd3jgk-pV12ntczzG2ER9at3xx_x_EygoMBswmmhg",
+      "name": "6.5 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:53.601Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Student Procedure": {
+      "driveFileId": "142dJQHhCBGh9M7Vw-5vwKbPGccUOwHhvnse8vJr6jGs",
+      "name": "6.5 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:48.910Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Slides": {
+      "driveFileId": "1HnkaKCrB3MKa35DjmXzZvzdwWBqVv-dDhFZ4-I-b_-k",
+      "name": "6.5 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:40:45.455Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Reference Tsunami Images": {
+      "driveFileId": "1w8Yqv0y43bS336C6NuXGyegwKOFQymDtb3DCSBxvvP4",
+      "name": "6.5 Lesson 1 Reference Tsunami Images",
+      "modifiedTime": "2024-08-13T20:40:41.426Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lesson 1 Handout Tsunami Japan 2011": {
+      "driveFileId": "1YnaL9yzCIcw7e-2iVO9WhJ3bmUL_Tu6ZBeMWMnn9Dlo",
+      "name": "6.5 Lesson 1 Handout Tsunami Japan 2011",
+      "modifiedTime": "2024-08-13T20:40:37.791Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lección 1 Referencia Imágenes de tsunami": {
+      "driveFileId": "1FsHWVCbk0sKGU1F8t93Xn5_qF__Hi1pueg7Jm1YB_DA",
+      "name": "6.5 Lección 1 Referencia Imágenes de tsunami",
+      "modifiedTime": "2024-08-13T20:40:32.016Z"
+    },
+    "Lesson 1 - 6.5 Natural Hazards/6.5 Lección 1 Folleto Tsunami Japón 2011": {
+      "driveFileId": "1B2HGCACek0rhx-MVWd7yDbtQVCIzxjoAhXm9WuAV1ME",
+      "name": "6.5 Lección 1 Folleto Tsunami Japón 2011",
+      "modifiedTime": "2024-08-13T20:40:27.447Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1J47uHlmILUagr7u26lnOF6st8G9Kfwil",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:40:20.758Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1FCMjjJ2q_hpLb56hC-cnUt5QqWAXxF8G",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:40:19.773Z"
+    },
+    "6.5 Natural Hazards Video Links.pdf": {
+      "driveFileId": "1LPbtmqSENkFhwBqYQWG0BzFjSGt6YDCD",
+      "name": "6.5 Natural Hazards Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:40:18.533Z"
+    },
+    "6.5 Natural Hazards Unit Overview Materials": {
+      "driveFileId": "1kB6uPJvOSQEi1rMg7HsAko7j-5IVXYbqGs0atFemG8o",
+      "name": "6.5 Natural Hazards Unit Overview Materials",
+      "modifiedTime": "2024-08-13T20:40:17.749Z"
+    },
+    "6.5 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1_UhUtKhhnj_dZPE2vge3yDHihLL959ss",
+      "name": "6.5 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:40:10.531Z"
+    }
+  }
+}

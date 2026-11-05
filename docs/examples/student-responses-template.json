@@ -1,0 +1,98 @@
+{
+  "format": "eddo-student-responses-v1",
+  "notes": [
+    "Provide 10–20 responses per assessment (Spotlight needs at least 10).",
+    "Column headers / answer titles should match the Google Form question text.",
+    "Fake names are fine. Vary Hour / Section across rows.",
+    "CSV is preferred; use this JSON only if spreadsheet export is awkward.",
+    "This is input for import — not a direct DB dump. A loader script adds assessmentId, learnerId, formSubmissionID, etc."
+  ],
+  "assessmentHint": {
+    "title": "Alaska Wildfires and Sea Ice (example entrance/exit ticket)",
+    "unitCode": "7.6",
+    "lessonNumber": "11"
+  },
+  "responses": [
+    {
+      "timestamp": "2025-09-02T09:12:00",
+      "studentName": "Anderson, Alex",
+      "classSection": "Period 1",
+      "answers": [
+        {
+          "questionId": "q-student-name",
+          "title": "Student Name",
+          "value": "Anderson, Alex"
+        },
+        {
+          "questionId": "q-hour",
+          "title": "Hour",
+          "value": "Period 1"
+        },
+        {
+          "questionId": "q-1",
+          "title": "1. What do you notice about the relationship between wildfires in Alaska and sea ice coverage?",
+          "value": "When sea ice melts there is less white surface to reflect sunlight, so more heat stays in the ocean and land."
+        },
+        {
+          "questionId": "q-2",
+          "title": "2. Use cause and effect to explain how changes in one system might affect the other.",
+          "value": "Less sea ice means more open water absorbs heat, which can dry out forests and make wildfires more likely in Alaska."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-09-02T09:18:00",
+      "studentName": "Baker, Jordan",
+      "classSection": "Period 1",
+      "answers": [
+        {
+          "questionId": "q-student-name",
+          "title": "Student Name",
+          "value": "Baker, Jordan"
+        },
+        {
+          "questionId": "q-hour",
+          "title": "Hour",
+          "value": "Period 1"
+        },
+        {
+          "questionId": "q-1",
+          "title": "1. What do you notice about the relationship between wildfires in Alaska and sea ice coverage?",
+          "value": "The graphs show sea ice going down over time while wildfire activity goes up in some years."
+        },
+        {
+          "questionId": "q-2",
+          "title": "2. Use cause and effect to explain how changes in one system might affect the other.",
+          "value": "When sea ice decreases, then more heat is absorbed by the ocean, which can raise temperatures on land and cause more wildfires."
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-09-02T10:05:00",
+      "studentName": "Davis, Morgan",
+      "classSection": "Period 2",
+      "answers": [
+        {
+          "questionId": "q-student-name",
+          "title": "Student Name",
+          "value": "Davis, Morgan"
+        },
+        {
+          "questionId": "q-hour",
+          "title": "Hour",
+          "value": "Period 2"
+        },
+        {
+          "questionId": "q-1",
+          "title": "1. What do you notice about the relationship between wildfires in Alaska and sea ice coverage?",
+          "value": "Sea ice and wildfires both changed a lot after 2000 on the graph."
+        },
+        {
+          "questionId": "q-2",
+          "title": "2. Use cause and effect to explain how changes in one system might affect the other.",
+          "value": "If the Arctic warms because there is less sea ice, then plants and soil dry out faster, which can lead to bigger wildfires."
+        }
+      ]
+    }
+  ]
+}

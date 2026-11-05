@@ -1,0 +1,1431 @@
+{
+  "unitId": "6.4",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 6",
+  "unitFolder": "6.4 Plate Tectonics & Rock Cycling",
+  "unitDriveFolderId": "1blL1L6D9J4G9YiEhgujR3RRJraFpo0qu",
+  "indexedAt": "2026-07-07T18:07:51.681Z",
+  "fileCount": 184,
+  "manifestPathCount": 55,
+  "matchedCount": 55,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "64-1-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/6.4 Lesson 1 Handout Alternate Initial Model.docx",
+      "driveFileId": "13lySIo1lKdBt-Fvk43iGrXI3nB74JfQRhw5JYhyIszs",
+      "driveRelativePath": "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Handout Alternate Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:11.897Z"
+    },
+    {
+      "assessmentId": "64-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1P-vjM9hztp3tvAEIOP46UCW8T2LQlPX4Q-s1aMscoBw",
+      "driveRelativePath": "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:56.949Z"
+    },
+    {
+      "assessmentId": "64-1-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/6.4 Lesson 1 Handout Alternate Initial Model.docx",
+      "driveFileId": "13lySIo1lKdBt-Fvk43iGrXI3nB74JfQRhw5JYhyIszs",
+      "driveRelativePath": "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Handout Alternate Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:11.897Z"
+    },
+    {
+      "assessmentId": "64-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1P-vjM9hztp3tvAEIOP46UCW8T2LQlPX4Q-s1aMscoBw",
+      "driveRelativePath": "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:56.949Z"
+    },
+    {
+      "assessmentId": "64-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1P-vjM9hztp3tvAEIOP46UCW8T2LQlPX4Q-s1aMscoBw",
+      "driveRelativePath": "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:56.949Z"
+    },
+    {
+      "assessmentId": "64-1-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1P-vjM9hztp3tvAEIOP46UCW8T2LQlPX4Q-s1aMscoBw",
+      "driveRelativePath": "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:56.949Z"
+    },
+    {
+      "assessmentId": "64-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JAGjO8Vji3Pxx-xlGIcoozxUd2NceTsvM5Bq4JZOl5k",
+      "driveRelativePath": "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:01.230Z"
+    },
+    {
+      "assessmentId": "64-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JAGjO8Vji3Pxx-xlGIcoozxUd2NceTsvM5Bq4JZOl5k",
+      "driveRelativePath": "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:01.230Z"
+    },
+    {
+      "assessmentId": "64-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1IlyE7qa0KbkCgZOkhAN4isE4r4T3-dVwANc-ud7jDVA",
+      "driveRelativePath": "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:53.224Z"
+    },
+    {
+      "assessmentId": "64-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1IlyE7qa0KbkCgZOkhAN4isE4r4T3-dVwANc-ud7jDVA",
+      "driveRelativePath": "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:53.224Z"
+    },
+    {
+      "assessmentId": "64-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1u2UatJ77eN5TvQlDE4aRHj5mFaXc0RoJWcmEn6JIs2w",
+      "driveRelativePath": "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:40.328Z"
+    },
+    {
+      "assessmentId": "64-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1u2UatJ77eN5TvQlDE4aRHj5mFaXc0RoJWcmEn6JIs2w",
+      "driveRelativePath": "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:40.328Z"
+    },
+    {
+      "assessmentId": "64-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1u2UatJ77eN5TvQlDE4aRHj5mFaXc0RoJWcmEn6JIs2w",
+      "driveRelativePath": "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:40.328Z"
+    },
+    {
+      "assessmentId": "64-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1h_GT0Qncneqg7SbeRg0FsbZo_a66MJdtFfW3QV2llOo",
+      "driveRelativePath": "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:07.616Z"
+    },
+    {
+      "assessmentId": "64-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1h_GT0Qncneqg7SbeRg0FsbZo_a66MJdtFfW3QV2llOo",
+      "driveRelativePath": "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:07.616Z"
+    },
+    {
+      "assessmentId": "64-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1vm6TVZZIDTL1b75GeyFLmzKmkwdvCtUSbYfHxlXFYkk",
+      "driveRelativePath": "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:46.771Z"
+    },
+    {
+      "assessmentId": "64-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1vm6TVZZIDTL1b75GeyFLmzKmkwdvCtUSbYfHxlXFYkk",
+      "driveRelativePath": "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:46.771Z"
+    },
+    {
+      "assessmentId": "64-6-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1vm6TVZZIDTL1b75GeyFLmzKmkwdvCtUSbYfHxlXFYkk",
+      "driveRelativePath": "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:46.771Z"
+    },
+    {
+      "assessmentId": "64-6-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1vm6TVZZIDTL1b75GeyFLmzKmkwdvCtUSbYfHxlXFYkk",
+      "driveRelativePath": "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:46.771Z"
+    },
+    {
+      "assessmentId": "64-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/6.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Npn85d6eC_1xWrP5uontlg04fOcjxpghmLclCb9qzPw",
+      "driveRelativePath": "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:39.039Z"
+    },
+    {
+      "assessmentId": "64-8-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "16OJUlr71r9hbifTKsGap6OQj2iFxoi-TaV1Np6jEcAo",
+      "driveRelativePath": "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:33.394Z"
+    },
+    {
+      "assessmentId": "64-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "16OJUlr71r9hbifTKsGap6OQj2iFxoi-TaV1Np6jEcAo",
+      "driveRelativePath": "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:33.394Z"
+    },
+    {
+      "assessmentId": "64-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "16OJUlr71r9hbifTKsGap6OQj2iFxoi-TaV1Np6jEcAo",
+      "driveRelativePath": "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:33.394Z"
+    },
+    {
+      "assessmentId": "64-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/6.4 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1J4JvYt9Wjp2z4s2gmh_Rnu28JYkcr-RKH7ODZhSMjck",
+      "driveRelativePath": "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:13.823Z"
+    },
+    {
+      "assessmentId": "64-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1V8ONszzYkrLjkW-PaEs4OgvpO8XnzLLlS7TNsccuUTI",
+      "driveRelativePath": "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:56.365Z"
+    },
+    {
+      "assessmentId": "64-11-evaluating-two-models",
+      "field": "studentHandout",
+      "manifestPath": "lesson_11/original/6.4 Lesson 11 Assessment Evaluating Two Models.docx",
+      "driveFileId": "1SiNQ4vrjAgYjwT8iTCx-RjuMmOZH2o1C8EhKRcDTKGo",
+      "driveRelativePath": "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Assessment Evaluating Two Models",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:11.311Z"
+    },
+    {
+      "assessmentId": "64-11-evaluating-two-models",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1x9uEZ33IJpfD2yQ2fWVFGBJBqR97nhNp4fZQ7n_mqqM",
+      "driveRelativePath": "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:29.287Z"
+    },
+    {
+      "assessmentId": "64-11-evaluating-two-models",
+      "field": "answerKey",
+      "manifestPath": "lesson_11/original/6.4 Lesson 11 Answer Key Teacher Key for.docx",
+      "driveFileId": "12DDEVeC2iINU0sxj23lXmwhdcMG7pJ1LLcgGJ-xSLAM",
+      "driveRelativePath": "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Answer Key Teacher Key for",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:07.954Z"
+    },
+    {
+      "assessmentId": "64-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1x9uEZ33IJpfD2yQ2fWVFGBJBqR97nhNp4fZQ7n_mqqM",
+      "driveRelativePath": "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:29.287Z"
+    },
+    {
+      "assessmentId": "64-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1eHtNPRJFnwH6Im0NYkByOkWsqmHlWYoP4_Y75IzbWCA",
+      "driveRelativePath": "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:29.179Z"
+    },
+    {
+      "assessmentId": "64-13-erosion-rates-vs",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/6.4 Lesson 13 Assessment Erosion Rates vs..docx",
+      "driveFileId": "13QwUDUfhO-EfoRIngn_6WCUcFtdj9tUorjJJlFsNN2c",
+      "driveRelativePath": "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Assessment Erosion Rates vs.",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:49.408Z"
+    },
+    {
+      "assessmentId": "64-13-erosion-rates-vs",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1J_kti3L_MyCq4Zfgz0DPqWcmHsOn1D-V4NTireadFas",
+      "driveRelativePath": "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:16.846Z"
+    },
+    {
+      "assessmentId": "64-13-erosion-rates-vs",
+      "field": "answerKey",
+      "manifestPath": "lesson_13/original/6.4 Lesson 13 Answer Key Erosion Rates vs..docx",
+      "driveFileId": "1ukCNEuXvFQrUiTW872-AMeyke4SMhPRURdatbPXariE",
+      "driveRelativePath": "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Answer Key Erosion Rates vs.",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:44.359Z"
+    },
+    {
+      "assessmentId": "64-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1J_kti3L_MyCq4Zfgz0DPqWcmHsOn1D-V4NTireadFas",
+      "driveRelativePath": "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:16.846Z"
+    },
+    {
+      "assessmentId": "64-14-fossil-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/6.4 Lesson 14 Assessment Fossil Assessment.docx",
+      "driveFileId": "1Kf-1-NROrD-Mc5qYnS0HAREDHhwjMpJ07ix0qpY4Zdc",
+      "driveRelativePath": "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Assessment Fossil Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:33.858Z"
+    },
+    {
+      "assessmentId": "64-14-fossil-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iC3p0M1XGfN6ehZwuhq7jFeMQhv0uDVp4i-rA8bn5ns",
+      "driveRelativePath": "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:54.191Z"
+    },
+    {
+      "assessmentId": "64-14-fossil-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_14/original/6.4 Lesson 14 Answer Key Key for the.docx",
+      "driveFileId": "1N6RVJGoMXVRjtzFBaRyMQi-ivgZIddwR6I-1NBfFT9Y",
+      "driveRelativePath": "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Answer Key Key for the",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:29.715Z"
+    },
+    {
+      "assessmentId": "64-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iC3p0M1XGfN6ehZwuhq7jFeMQhv0uDVp4i-rA8bn5ns",
+      "driveRelativePath": "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:54.191Z"
+    },
+    {
+      "assessmentId": "64-14-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iC3p0M1XGfN6ehZwuhq7jFeMQhv0uDVp4i-rA8bn5ns",
+      "driveRelativePath": "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:54.191Z"
+    },
+    {
+      "assessmentId": "64-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iC3p0M1XGfN6ehZwuhq7jFeMQhv0uDVp4i-rA8bn5ns",
+      "driveRelativePath": "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:54.191Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/6.4 Plate Tectonics & Rock Cycling Unit Overview Materials.docx",
+      "driveFileId": "1mRBxZb0SwfKvEz3eklPD7OQcQG1-zvzpfVrg_2KXnpw",
+      "driveRelativePath": "6.4 Plate Tectonics & Rock Cycling Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-13T20:39:46.258Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/6.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1P-vjM9hztp3tvAEIOP46UCW8T2LQlPX4Q-s1aMscoBw",
+      "driveRelativePath": "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:56.949Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/6.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1JAGjO8Vji3Pxx-xlGIcoozxUd2NceTsvM5Bq4JZOl5k",
+      "driveRelativePath": "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:01.230Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/6.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1IlyE7qa0KbkCgZOkhAN4isE4r4T3-dVwANc-ud7jDVA",
+      "driveRelativePath": "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:53.224Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/6.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1u2UatJ77eN5TvQlDE4aRHj5mFaXc0RoJWcmEn6JIs2w",
+      "driveRelativePath": "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:40.328Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/6.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1h_GT0Qncneqg7SbeRg0FsbZo_a66MJdtFfW3QV2llOo",
+      "driveRelativePath": "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:07.616Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/6.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1vm6TVZZIDTL1b75GeyFLmzKmkwdvCtUSbYfHxlXFYkk",
+      "driveRelativePath": "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:46.771Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/6.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "1Npn85d6eC_1xWrP5uontlg04fOcjxpghmLclCb9qzPw",
+      "driveRelativePath": "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:39.039Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/6.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "16OJUlr71r9hbifTKsGap6OQj2iFxoi-TaV1Np6jEcAo",
+      "driveRelativePath": "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:33.394Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/6.4 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1J4JvYt9Wjp2z4s2gmh_Rnu28JYkcr-RKH7ODZhSMjck",
+      "driveRelativePath": "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:13.823Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/6.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1V8ONszzYkrLjkW-PaEs4OgvpO8XnzLLlS7TNsccuUTI",
+      "driveRelativePath": "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:56.365Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/6.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1x9uEZ33IJpfD2yQ2fWVFGBJBqR97nhNp4fZQ7n_mqqM",
+      "driveRelativePath": "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:29.287Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/6.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1eHtNPRJFnwH6Im0NYkByOkWsqmHlWYoP4_Y75IzbWCA",
+      "driveRelativePath": "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:29.179Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/6.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1J_kti3L_MyCq4Zfgz0DPqWcmHsOn1D-V4NTireadFas",
+      "driveRelativePath": "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:16.846Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/6.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1iC3p0M1XGfN6ehZwuhq7jFeMQhv0uDVp4i-rA8bn5ns",
+      "driveRelativePath": "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:54.191Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1XVBTdIQKMijUniL-58IZpdTS30Tydrxv",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-13T20:51:19.421Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1mY9njpcp16Gp_fxCaJEaoUTmD2XPmNbf",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-13T20:51:18.224Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1UyZhOGw8oYWH-1P_G_Q7axMnD7VjMVkn",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-13T20:51:17.213Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1QTFQP1InJEIAXvO969F6LOx1jG3H6M82",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-13T20:51:16.151Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1XJqu84Ew4jQeQS7p9rQcxoaVnPihHMRf",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-13T20:51:14.799Z"
+    },
+    "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 9 Teacher Edition": {
+      "driveFileId": "1J4JvYt9Wjp2z4s2gmh_Rnu28JYkcr-RKH7ODZhSMjck",
+      "name": "6.4 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:51:13.823Z"
+    },
+    "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1fJiJostex6y7yAEyOlNLqVPmDvZQC0uChbx83DDSjiE",
+      "name": "6.4 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:51:09.825Z"
+    },
+    "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 9 Student Procedure": {
+      "driveFileId": "1zNHqudDkxT7rWPurEd-Pr3yBbnQ_GuqGJQcdyTtQp9M",
+      "name": "6.4 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-13T20:50:57.316Z"
+    },
+    "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 9 Slides": {
+      "driveFileId": "12ptSOtB6zGr3oKInxxyehgamkrj1KckkNSzwKdHctHE",
+      "name": "6.4 Lesson 9 Slides",
+      "modifiedTime": "2024-08-13T20:50:53.435Z"
+    },
+    "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 9 Handout Making Predictions": {
+      "driveFileId": "1BT8D4YwqzmtIvedn9kOY-nlhlwdXECaqPM_o_kw8G7w",
+      "name": "6.4 Lesson 9 Handout Making Predictions",
+      "modifiedTime": "2024-08-13T20:50:49.363Z"
+    },
+    "Lesson 9 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 9 Folleto Hacer predicciones": {
+      "driveFileId": "1aqYnYegmjenoUfV2oWYyuUT8PZklrngtNki6l1ujrHY",
+      "name": "6.4 Lección 9 Folleto Hacer predicciones",
+      "modifiedTime": "2024-08-13T20:50:44.119Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Teacher Reference Potential Ridge Claims": {
+      "driveFileId": "1FWwfJYcEgfcqGsjZlM3_F9knPfyTnzxIMubIMZOZFhc",
+      "name": "6.4 Lesson 8 Teacher Reference Potential Ridge Claims",
+      "modifiedTime": "2024-08-13T20:50:39.571Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Teacher Reference Mid-Atlantic Ridge Artifact": {
+      "driveFileId": "1wK1LOfhmDZ_ffuWpiEPuTRmAJqUJx3GPzgqiYnZVZzk",
+      "name": "6.4 Lesson 8 Teacher Reference Mid-Atlantic Ridge Artifact",
+      "modifiedTime": "2024-08-13T20:50:36.467Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Teacher Edition": {
+      "driveFileId": "16OJUlr71r9hbifTKsGap6OQj2iFxoi-TaV1Np6jEcAo",
+      "name": "6.4 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:50:33.394Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1os7OINKdBUho_htSEeTOllHghd5ibMPwBfHa5qKL3HQ",
+      "name": "6.4 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:50:28.572Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Student Procedure": {
+      "driveFileId": "1zD1KTEgvX4cCwR8QsjRjNi-3TI5xRZjB73Fq5up_6ZM",
+      "name": "6.4 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-13T20:50:24.900Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Slides": {
+      "driveFileId": "1aO4rTj_ooukMxEFJXThaQQE61XIagrNgr__wVv1CGg0",
+      "name": "6.4 Lesson 8 Slides",
+      "modifiedTime": "2024-08-13T20:50:19.914Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Reference Seismic Explorer Plate": {
+      "driveFileId": "1SnU8nkvAUkS6PygadTX_ONaK2XvUen0yg74R5B7NQBg",
+      "name": "6.4 Lesson 8 Reference Seismic Explorer Plate",
+      "modifiedTime": "2024-08-13T20:50:15.750Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Reference Mid-Atlantic Ridge Storymap": {
+      "driveFileId": "1ZTz9dmfwqzB8v2fWyMmoRldA8KyYM4e4tL7BrKYWAmQ",
+      "name": "6.4 Lesson 8 Reference Mid-Atlantic Ridge Storymap",
+      "modifiedTime": "2024-08-13T20:50:12.768Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Handout Seismic Explorer Plate": {
+      "driveFileId": "18lU9B8KYAWXYQiuwYAnMAcxJVMA5VCdN5WcuOOtFcRQ",
+      "name": "6.4 Lesson 8 Handout Seismic Explorer Plate",
+      "modifiedTime": "2024-08-13T20:50:08.910Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Handout Plate Movement Map": {
+      "driveFileId": "1S6iReuL9jF7Y9s5bYNdHiL02iy-eZTYcEQEnN6dyqls",
+      "name": "6.4 Lesson 8 Handout Plate Movement Map",
+      "modifiedTime": "2024-08-13T20:50:06.352Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Handout Evidence Tracker": {
+      "driveFileId": "1jkDBP1bWMsSIK7gRAXPGk4ywUsu2Twzm3SoLUzTsrYA",
+      "name": "6.4 Lesson 8 Handout Evidence Tracker",
+      "modifiedTime": "2024-08-13T20:50:01.851Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 8 Answer Key Individual Potential Claims": {
+      "driveFileId": "1WfEvn3VnYpMLE8Va16qSXHE--jWAHJZ-DhxOcqaTERo",
+      "name": "6.4 Lesson 8 Answer Key Individual Potential Claims",
+      "modifiedTime": "2024-08-13T20:49:59.618Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 8 Referencia Mapa de movimiento": {
+      "driveFileId": "14dI1uRk5rQ5iXckmZPC8difkXnJREmxd3ENpvT6ntCQ",
+      "name": "6.4 Lección 8 Referencia Mapa de movimiento",
+      "modifiedTime": "2024-08-13T20:49:56.076Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 8 Referencia Imágenes de mapa": {
+      "driveFileId": "1N77bVtMXcbPY5-koALgpJZbhFZoyLmp_Nz0CrRIyTvA",
+      "name": "6.4 Lección 8 Referencia Imágenes de mapa",
+      "modifiedTime": "2024-08-13T20:49:50.735Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 8 Folleto Registro de evidencia": {
+      "driveFileId": "1iI0s9pNNOjSk2SxdbG-lUG8Hnw1sueLiEIrhXnIkIx4",
+      "name": "6.4 Lección 8 Folleto Registro de evidencia",
+      "modifiedTime": "2024-08-13T20:49:47.517Z"
+    },
+    "Lesson 8 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 8 Folleto Mapa de movimiento": {
+      "driveFileId": "1kfAztduDY7oqzpUGUWvsiDD3uo92CtbCbdYfgo4RmMI",
+      "name": "6.4 Lección 8 Folleto Mapa de movimiento",
+      "modifiedTime": "2024-08-13T20:49:44.867Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Teacher Edition": {
+      "driveFileId": "1Npn85d6eC_1xWrP5uontlg04fOcjxpghmLclCb9qzPw",
+      "name": "6.4 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:49:39.039Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1rg7JkcNeNLdIe9_1biGkokQRQClVkcb0s7uL8RoirCU",
+      "name": "6.4 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:49:34.759Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Student Procedure": {
+      "driveFileId": "1WGAQTNLTonxetScaJUgj9JUKYWZJL1t7RFfiUHI_UCA",
+      "name": "6.4 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T20:49:31.061Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Slides": {
+      "driveFileId": "1ROwCUeG6lg9cNikZu_KctKAq_ywsGZ5YRsvZ_t-YW8s",
+      "name": "6.4 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:49:27.327Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Reference Gathering Data from": {
+      "driveFileId": "1Ry1Ve4mlubkhK0sOaWjlzQKMpNwacAKvb8CgiPhf6aw",
+      "name": "6.4 Lesson 7 Reference Gathering Data from",
+      "modifiedTime": "2024-08-13T20:49:21.764Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Reading How are Volcanoes": {
+      "driveFileId": "1INdY5xUfoeWx-gy8YcFCjjpHbE-qD9qSOgxyTge-IEg",
+      "name": "6.4 Lesson 7 Reading How are Volcanoes",
+      "modifiedTime": "2024-08-13T20:49:17.828Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Handout Volcano and Earthquake": {
+      "driveFileId": "1n2eLvxoIu8wNYHdXKCMh08oiZFTp6DzmikLo_kB3WOw",
+      "name": "6.4 Lesson 7 Handout Volcano and Earthquake",
+      "modifiedTime": "2024-08-13T20:49:14.286Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 7 Handout Reading How are": {
+      "driveFileId": "1ZiWQR7CabPdxEDOGj1_6VnKTzpye0jF44GqPQEZZ-5o",
+      "name": "6.4 Lesson 7 Handout Reading How are",
+      "modifiedTime": "2024-08-13T20:49:11.241Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 7 Referencia Recopilación de datos": {
+      "driveFileId": "1c-pLgdkZdeFxyQuqeAyA3mZbQOUFHZ1XNjxERXTCIoY",
+      "name": "6.4 Lección 7 Referencia Recopilación de datos",
+      "modifiedTime": "2024-08-13T20:49:06.982Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 7 Lectura ¿Cómo se forman": {
+      "driveFileId": "15L3lcwuyA3E4eH5yT4Dv-C-7jExKtcr83IL3rJrojMw",
+      "name": "6.4 Lección 7 Lectura ¿Cómo se forman",
+      "modifiedTime": "2024-08-13T20:49:02.686Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 7 Folleto Tabla de datos": {
+      "driveFileId": "1hWZ_I7VjabweWnuCLEjqepguVrKuPJx-_0jjNh6qUv4",
+      "name": "6.4 Lección 7 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-13T20:48:59.297Z"
+    },
+    "Lesson 7 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 7 Folleto Lectura ¿Cómo se": {
+      "driveFileId": "1fuqkitw-8PDYmEQEOCqoPPpgU_MsDc3D7q5rlu6zqys",
+      "name": "6.4 Lección 7 Folleto Lectura ¿Cómo se",
+      "modifiedTime": "2024-08-13T20:48:56.352Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Teacher Reference Guidance for Physical": {
+      "driveFileId": "1Yb-BHWuHLr7zejGwI37QMxMhy_F1fllAA3JvlX370EI",
+      "name": "6.4 Lesson 6 Teacher Reference Guidance for Physical",
+      "modifiedTime": "2024-08-13T20:48:50.262Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Teacher Edition": {
+      "driveFileId": "1vm6TVZZIDTL1b75GeyFLmzKmkwdvCtUSbYfHxlXFYkk",
+      "name": "6.4 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:46.771Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1bx5DM6nLdlKSjpqnPBXcBVN9vrkod1MmgQn1HaT6Wl0",
+      "name": "6.4 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:42.018Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Student Procedure": {
+      "driveFileId": "1DK8O0JrqiAWxPpEvVpG_4XvkZIe2xAZ2Vbo1veZ4W68",
+      "name": "6.4 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:38.536Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Slides": {
+      "driveFileId": "1x51xunGzL_urIAGySZIdVZB7X3ogQe9wC6aaJWt6qg0",
+      "name": "6.4 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:48:34.432Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Handout Record Your Observations": {
+      "driveFileId": "1pXqXDcg_zN0QoBdwvZMKpzYt1-iJ-SYQkD--5SMygX4",
+      "name": "6.4 Lesson 6 Handout Record Your Observations",
+      "modifiedTime": "2024-08-13T20:48:28.532Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Handout Plate Movement Maps": {
+      "driveFileId": "1ye-f2F5s6fI7n_89tgSMRXea-zXm_eYT3G6axx46WqI",
+      "name": "6.4 Lesson 6 Handout Plate Movement Maps",
+      "modifiedTime": "2024-08-13T20:48:26.254Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 6 Handout Blank World Map": {
+      "driveFileId": "1JqUoC9VnwYAyeUZEnN4vV0vM3hsbekVjIranQmdni_Q",
+      "name": "6.4 Lesson 6 Handout Blank World Map",
+      "modifiedTime": "2024-08-13T20:48:23.126Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 6 Folleto Registre sus observaciones": {
+      "driveFileId": "1pNoVG5N_mpOsLOYVi5mQJz3P5Gi1PuolTfHE8YaXJQs",
+      "name": "6.4 Lección 6 Folleto Registre sus observaciones",
+      "modifiedTime": "2024-08-13T20:48:19.745Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 6 Folleto Mapas de movimiento": {
+      "driveFileId": "1kNR0_9HjYZ1kkZZu8lIx7c-CTqt3DXHCIzVGua5Xf60",
+      "name": "6.4 Lección 6 Folleto Mapas de movimiento",
+      "modifiedTime": "2024-08-13T20:48:15.932Z"
+    },
+    "Lesson 6 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 6 Folleto Mapa del mundo": {
+      "driveFileId": "19jKd6mrF6eeWnFU_P48HwaAS_sSJVgQjrTfPI2fqoiY",
+      "name": "6.4 Lección 6 Folleto Mapa del mundo",
+      "modifiedTime": "2024-08-13T20:48:11.704Z"
+    },
+    "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Teacher Edition": {
+      "driveFileId": "1h_GT0Qncneqg7SbeRg0FsbZo_a66MJdtFfW3QV2llOo",
+      "name": "6.4 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:07.616Z"
+    },
+    "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1hHZs5xWVpwKZ-dqQtfhcsqmXT-xLg7mw0yz32T0HQvU",
+      "name": "6.4 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:03.630Z"
+    },
+    "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Student Procedure": {
+      "driveFileId": "182vYnRFIdEj3IOXcpz-twfi6bUrf85O_v-uwsYGJE4I",
+      "name": "6.4 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:59.767Z"
+    },
+    "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Slides": {
+      "driveFileId": "1UOYzQti_GKuSvcAIQY_Di4ADskkAdW59cf_vLf3v1Cw",
+      "name": "6.4 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:47:56.135Z"
+    },
+    "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 5 Handout North American Plate": {
+      "driveFileId": "1V2Ib_P5l3FLnYv9HHpjCCv2egZbxjPuDUzp3O8gB1eo",
+      "name": "6.4 Lesson 5 Handout North American Plate",
+      "modifiedTime": "2024-08-13T20:47:50.505Z"
+    },
+    "Lesson 5 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 5 Folleto Manipulativo de Placa": {
+      "driveFileId": "1-x4VrkpjW9EvyBj_TJwNhntDyuQFXW0lfODMnfpYd5A",
+      "name": "6.4 Lección 5 Folleto Manipulativo de Placa",
+      "modifiedTime": "2024-08-13T20:47:45.464Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Teacher Edition": {
+      "driveFileId": "1u2UatJ77eN5TvQlDE4aRHj5mFaXc0RoJWcmEn6JIs2w",
+      "name": "6.4 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:40.328Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "18XgZEBvSoOQs_20dhHT36bnscfBWpfp3dtBhWA2h-wM",
+      "name": "6.4 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:35.735Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Student Procedure": {
+      "driveFileId": "1w21ImSlddSIaT37oLPiK9h8z_2od97V8bMXvRofHaUc",
+      "name": "6.4 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:31.527Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Slides": {
+      "driveFileId": "1zKsgZmNK5ImWpqBFElBQMk0dQg9ABlfipx-I126BDR4",
+      "name": "6.4 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:47:28.401Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Reference 10-Year and 30-Year": {
+      "driveFileId": "1l_WzgEhkA7WTd5ejSqo8YQ7CwkcqvChKs0qbRpiR140",
+      "name": "6.4 Lesson 4 Reference 10-Year and 30-Year",
+      "modifiedTime": "2024-08-13T20:47:15.354Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Handout Constructing Profile Model": {
+      "driveFileId": "1EeT-ypK18S4lwlPYOlHzyCJsp-Hpcd__DltcmkXCUN8",
+      "name": "6.4 Lesson 4 Handout Constructing Profile Model",
+      "modifiedTime": "2024-08-13T20:47:14.370Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 4 Handout 10-Year and 30-Year": {
+      "driveFileId": "1hL21S4X5ehSSkwpZ6QkXFafWka7fzAZrnqaDJb3FfYQ",
+      "name": "6.4 Lesson 4 Handout 10-Year and 30-Year",
+      "modifiedTime": "2024-08-13T20:47:11.379Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 4 Referencia 10 y 30": {
+      "driveFileId": "1ihs3-pWiWDCF16VTG77PvYrDbOQK6fo6LWFWu7J8bQ4",
+      "name": "6.4 Lección 4 Referencia 10 y 30",
+      "modifiedTime": "2024-08-13T20:47:08.298Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 4 Folleto Construcción del modelo": {
+      "driveFileId": "1p0N4XH662gcnf89GOHsKxjX8rRdUstuKwYhDfDOcnqE",
+      "name": "6.4 Lección 4 Folleto Construcción del modelo",
+      "modifiedTime": "2024-08-13T20:47:03.938Z"
+    },
+    "Lesson 4 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 4 Folleto 10 y 30": {
+      "driveFileId": "1hecmMWWnMu8MRNvaXift9hB74oP0hqdoJxMxG5XYbKI",
+      "name": "6.4 Lección 4 Folleto 10 y 30",
+      "modifiedTime": "2024-08-13T20:47:00.354Z"
+    },
+    "Lesson 3 Earth Materials Cards Print 1 set per group.pdf": {
+      "driveFileId": "13jtPyjRbfELytE5xEDP_GPwz88gv85G6",
+      "name": "Lesson 3 Earth Materials Cards Print 1 set per group.pdf",
+      "modifiedTime": "2024-08-13T20:46:55.482Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/Lesson 3 Earth Materials Cards Print 1 set per group.pdf": {
+      "driveFileId": "1fHb3ip4qOo7IFLsjJlMuCu1GuUDA7Ztg",
+      "name": "Lesson 3 Earth Materials Cards Print 1 set per group.pdf",
+      "modifiedTime": "2024-08-13T20:46:54.231Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Teacher Edition": {
+      "driveFileId": "1IlyE7qa0KbkCgZOkhAN4isE4r4T3-dVwANc-ud7jDVA",
+      "name": "6.4 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:53.224Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1OgBJH0OyaIaw_YJu4c8fOVyGI_iPIkkvpRcjWF-taCc",
+      "name": "6.4 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:46:49.170Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Student Procedure": {
+      "driveFileId": "1Kj_jEj35nP2r9jGtdWNFPBADpl2zg5p3CM1QAULaJHQ",
+      "name": "6.4 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:45.221Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Slides Earth Materials": {
+      "driveFileId": "1vjzYKHOiJUQMvwm7gYOwcMmASJlkiw5VXQwGmSsR62s",
+      "name": "6.4 Lesson 3 Slides Earth Materials",
+      "modifiedTime": "2024-08-13T20:46:40.470Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Slides": {
+      "driveFileId": "15UUQfsdCpF_JubIEns-yOI9dx4bDEhDSzj02mGBzX1c",
+      "name": "6.4 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:46:35.169Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Handout Rock Investigations Data": {
+      "driveFileId": "13kwgmmeJbM3olSL0BuT7S3mko34p4QqqT9xCZQs07iM",
+      "name": "6.4 Lesson 3 Handout Rock Investigations Data",
+      "modifiedTime": "2024-08-13T20:46:28.675Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Handout Rock Investigations Cards": {
+      "driveFileId": "1JUd-yi43Br7XEV5SAs53YBVoxwPGNXRoHxR-iY-9OSk",
+      "name": "6.4 Lesson 3 Handout Rock Investigations Cards",
+      "modifiedTime": "2024-08-13T20:46:26.053Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Handout Materials Found at": {
+      "driveFileId": "1ygxx3SspJjM_5kAMxtgiF9tcku1LoE9b-jQMTqPK3_8",
+      "name": "6.4 Lesson 3 Handout Materials Found at",
+      "modifiedTime": "2024-08-13T20:46:21.847Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 3 Handout Community Connections": {
+      "driveFileId": "1_S_PrYaAR1wyBlGUv-2OSqiJm9BT4ZjWYzo1_xpJ0HY",
+      "name": "6.4 Lesson 3 Handout Community Connections",
+      "modifiedTime": "2024-08-13T20:46:19.583Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 3 Folleto Tarjetas de investigaciones": {
+      "driveFileId": "14WUWArp34VT-wrhhggcZlNF4P573ztyzd5BoIoj965E",
+      "name": "6.4 Lección 3 Folleto Tarjetas de investigaciones",
+      "modifiedTime": "2024-08-13T20:46:17.178Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 3 Folleto Tabla de datos": {
+      "driveFileId": "1sR_O3180ngp7j3lrkIiEQw1THTOvGcTsHh9PfsYXWjw",
+      "name": "6.4 Lección 3 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-13T20:46:12.899Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 3 Folleto Materiales encontrados en": {
+      "driveFileId": "1CpaDeAQfQdwmY3opEOoJOyDH1RSJqeW-XMG1S3K9_Zk",
+      "name": "6.4 Lección 3 Folleto Materiales encontrados en",
+      "modifiedTime": "2024-08-13T20:46:09.915Z"
+    },
+    "Lesson 3 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 3 Folleto Conexiones comunitarias": {
+      "driveFileId": "1VEHGY3svbuBzYZXufpMWA2Cj2aSO63IDGBuzQsjehfE",
+      "name": "6.4 Lección 3 Folleto Conexiones comunitarias",
+      "modifiedTime": "2024-08-13T20:46:07.626Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Teacher Reference Student Mountain Observations": {
+      "driveFileId": "10fxY4gGiWbTdpNr8B7HhtXWGOZnxew3NyQnysrYypo0",
+      "name": "6.4 Lesson 2 Teacher Reference Student Mountain Observations",
+      "modifiedTime": "2024-08-13T20:46:03.745Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Teacher Edition": {
+      "driveFileId": "1JAGjO8Vji3Pxx-xlGIcoozxUd2NceTsvM5Bq4JZOl5k",
+      "name": "6.4 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:01.230Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1YZ75x7ModhShMZY801NtfkuwTL2mkM-QE2CaPn9VIXQ",
+      "name": "6.4 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:56.497Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Student Procedure": {
+      "driveFileId": "1O8_HCtlaV5K3jktpMCCF01mApliTN9aXJsnlrh4Zyno",
+      "name": "6.4 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:52.741Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Slides": {
+      "driveFileId": "1UKoksiQ1rOj2nCaiFZjHuNUES0L-jIjhYiH0X4HPL3E",
+      "name": "6.4 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:45:48.687Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Reading What Do We": {
+      "driveFileId": "1_YG1wEKJqYdDr0faickStcx1QHxY2VO8qxH6Kjqqyb8",
+      "name": "6.4 Lesson 2 Reading What Do We",
+      "modifiedTime": "2024-08-13T20:45:42.498Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Handout Transcript Experience at": {
+      "driveFileId": "1wEQEBArus3uV7ta7JdXQoD-Hy23_31xLX_zDuX8joaE",
+      "name": "6.4 Lesson 2 Handout Transcript Experience at",
+      "modifiedTime": "2024-08-13T20:45:38.150Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Handout Reading What Do": {
+      "driveFileId": "10xveC8hGxX4uwj-ZNyHxSED-A_5DQVSBQSWcoZHt8DE",
+      "name": "6.4 Lesson 2 Handout Reading What Do",
+      "modifiedTime": "2024-08-13T20:45:35.440Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Handout How Are Earthquakes": {
+      "driveFileId": "1gG3V7ttAdi3A3l13bSMJ1JcpZBB75Wew3std6RqAr1g",
+      "name": "6.4 Lesson 2 Handout How Are Earthquakes",
+      "modifiedTime": "2024-08-13T20:45:30.006Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Handout Experience at Mt.": {
+      "driveFileId": "1xp3CfDQGh5jdhGCIe0xcWNjPJF1AL2oJrzyuW2_jPV8",
+      "name": "6.4 Lesson 2 Handout Experience at Mt.",
+      "modifiedTime": "2024-08-13T20:45:23.845Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 2 Handout Earthquake Investigations": {
+      "driveFileId": "1Hv40eueV_Djewl0GmhaTcENKXvkcoTpsW4avhx1ATsA",
+      "name": "6.4 Lesson 2 Handout Earthquake Investigations",
+      "modifiedTime": "2024-08-13T20:45:21.004Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 2 Lectura ¿Qué vemos en": {
+      "driveFileId": "17ZLrMsEedXqyMcK0AhKaG_19CTME7CHqO9W0skCpvKw",
+      "name": "6.4 Lección 2 Lectura ¿Qué vemos en",
+      "modifiedTime": "2024-08-13T20:45:10.983Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 2 Folleto ¿Cómo se relacionan": {
+      "driveFileId": "18_EaB6YBh0BVLONFWl9ZSo76_cDDEL30eIrshYdLBuU",
+      "name": "6.4 Lección 2 Folleto ¿Cómo se relacionan",
+      "modifiedTime": "2024-08-13T20:45:08.897Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 2 Folleto Transcripción Experiencia en": {
+      "driveFileId": "125OouohcKGlAoHHqRgBFs_U9XEtdOp09_-bhZTrJujQ",
+      "name": "6.4 Lección 2 Folleto Transcripción Experiencia en",
+      "modifiedTime": "2024-08-13T20:45:04.849Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 2 Folleto Lectura ¿Qué vemos": {
+      "driveFileId": "1f9UED83gJiHlCn7e8FAEojbFfgKJnBas6mxpWgLiWXs",
+      "name": "6.4 Lección 2 Folleto Lectura ¿Qué vemos",
+      "modifiedTime": "2024-08-13T20:45:02.462Z"
+    },
+    "Lesson 2 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 2 Folleto Earthquake Investigations": {
+      "driveFileId": "1ot1DfFHqPdbkDheC3BPJTYg7zf96vOnsAUuwq3ZPnf8",
+      "name": "6.4 Lección 2 Folleto Earthquake Investigations",
+      "modifiedTime": "2024-08-13T20:44:58.852Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Teacher Edition": {
+      "driveFileId": "1iC3p0M1XGfN6ehZwuhq7jFeMQhv0uDVp4i-rA8bn5ns",
+      "name": "6.4 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:54.191Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1aLCVTM3pi3Gv7H7lDosNNERtwB9AT4FCymEyMPH6WZ4",
+      "name": "6.4 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:50.139Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Student Procedure": {
+      "driveFileId": "1A_2T7J_PGZiMZStCDWMyTcnuSJIrZcwj8COx5jCMqh8",
+      "name": "6.4 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:46.140Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Slides": {
+      "driveFileId": "1izBPghRbg3dYB9Yo-wegAlyDAZxoqiM7ytBfL2YR0TM",
+      "name": "6.4 Lesson 14 Slides",
+      "modifiedTime": "2024-08-13T20:44:41.864Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Handout Comparing Related Phenomena": {
+      "driveFileId": "1-AjGozZRFdT47ChpWOVxIdnIZChQVZY1peLZ9xzuigY",
+      "name": "6.4 Lesson 14 Handout Comparing Related Phenomena",
+      "modifiedTime": "2024-08-13T20:44:36.540Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Assessment Fossil Assessment": {
+      "driveFileId": "1Kf-1-NROrD-Mc5qYnS0HAREDHhwjMpJ07ix0qpY4Zdc",
+      "name": "6.4 Lesson 14 Assessment Fossil Assessment",
+      "modifiedTime": "2024-08-13T20:44:33.858Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 14 Answer Key Key for the": {
+      "driveFileId": "1N6RVJGoMXVRjtzFBaRyMQi-ivgZIddwR6I-1NBfFT9Y",
+      "name": "6.4 Lesson 14 Answer Key Key for the",
+      "modifiedTime": "2024-08-13T20:44:29.715Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 14 Folleto Comparación de fenómenos": {
+      "driveFileId": "1hY76HcDP_BuE8rW4ZMDWa9_YhTL6FdmuZR1JTW0GdQg",
+      "name": "6.4 Lección 14 Folleto Comparación de fenómenos",
+      "modifiedTime": "2024-08-13T20:44:25.365Z"
+    },
+    "Lesson 14 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 14 Evaluación Evaluación de fósil": {
+      "driveFileId": "1nQpnXVRJN4Hfdrnj22zTg4XF2fDjdHZYd0G38Vt6RRM",
+      "name": "6.4 Lección 14 Evaluación Evaluación de fósil",
+      "modifiedTime": "2024-08-13T20:44:22.572Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Teacher Edition": {
+      "driveFileId": "1J_kti3L_MyCq4Zfgz0DPqWcmHsOn1D-V4NTireadFas",
+      "name": "6.4 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:16.846Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1wSq-fc422o37WE-p0EU80mCotRtuJHghHMWU11jWbKc",
+      "name": "6.4 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:11.905Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Student Procedure": {
+      "driveFileId": "16QcoeIyxi8tP-qbtLw4o_fbe7E8HhKyQUvBdKQTZe5E",
+      "name": "6.4 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:08.654Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Slides": {
+      "driveFileId": "1NBsl0F85gWVAKqmdilmcpT3Cc8euhoguqbv9yshOI2E",
+      "name": "6.4 Lesson 13 Slides",
+      "modifiedTime": "2024-08-13T20:44:05.085Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Handout Uplift Rates vs.": {
+      "driveFileId": "1-7xViLFn2cYWaf6g1XNw4nqWEL0RGhEPQ4Wc_0uoyJ8",
+      "name": "6.4 Lesson 13 Handout Uplift Rates vs.",
+      "modifiedTime": "2024-08-13T20:43:59.588Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Handout Erosion Rates vs.": {
+      "driveFileId": "1ANHmJXKMHuwPVFq92lgbZHsMoNRHgvJy90u8moQLS_8",
+      "name": "6.4 Lesson 13 Handout Erosion Rates vs.",
+      "modifiedTime": "2024-08-13T20:43:56.327Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Handout Erosion Rates": {
+      "driveFileId": "1k_k1E7KjIBrsFzTUPMJ-SPFTnf2AdopDlNSacVasyCM",
+      "name": "6.4 Lesson 13 Handout Erosion Rates",
+      "modifiedTime": "2024-08-13T20:43:53.536Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Assessment Erosion Rates vs.": {
+      "driveFileId": "13QwUDUfhO-EfoRIngn_6WCUcFtdj9tUorjJJlFsNN2c",
+      "name": "6.4 Lesson 13 Assessment Erosion Rates vs.",
+      "modifiedTime": "2024-08-13T20:43:49.408Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 13 Answer Key Erosion Rates vs.": {
+      "driveFileId": "1ukCNEuXvFQrUiTW872-AMeyke4SMhPRURdatbPXariE",
+      "name": "6.4 Lesson 13 Answer Key Erosion Rates vs.",
+      "modifiedTime": "2024-08-13T20:43:44.359Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 13 Folleto Tasas de levantamiento": {
+      "driveFileId": "1LbzIm19NOGzxD3SBeloU99L5B5q2A6duPRcm5mjWOiQ",
+      "name": "6.4 Lección 13 Folleto Tasas de levantamiento",
+      "modifiedTime": "2024-08-13T20:43:41.494Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 13 Folleto Tasas de erosión": {
+      "driveFileId": "1ORZauytph2Zpy2wZK6_z5S13aAjUaXbjEDymVr_PmUY",
+      "name": "6.4 Lección 13 Folleto Tasas de erosión",
+      "modifiedTime": "2024-08-13T20:43:38.413Z"
+    },
+    "Lesson 13 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 13 Evaluación Tasas de erosión": {
+      "driveFileId": "1jaoA9yXq7soltzFSpx5CdCxMjPLTmyJwEHJe7k_BzT0",
+      "name": "6.4 Lección 13 Evaluación Tasas de erosión",
+      "modifiedTime": "2024-08-13T20:43:34.213Z"
+    },
+    "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Teacher Edition": {
+      "driveFileId": "1eHtNPRJFnwH6Im0NYkByOkWsqmHlWYoP4_Y75IzbWCA",
+      "name": "6.4 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:43:29.179Z"
+    },
+    "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1X7vfH2KzFmzfdSlzs84cF1r5Htg17sIDVcwiMni1bNU",
+      "name": "6.4 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:43:23.534Z"
+    },
+    "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Student Procedure": {
+      "driveFileId": "1d8ieleZoxJyG-chNwGFFI90S6foJ2-8AcYsVbebt87E",
+      "name": "6.4 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-13T20:43:19.291Z"
+    },
+    "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Slides Formation of the Appalachians": {
+      "driveFileId": "1yJQH8LZkZHPSWbZaNGwBWLR70KoKLwefrfZfLE0CSWg",
+      "name": "6.4 Lesson 12 Slides Formation of the Appalachians",
+      "modifiedTime": "2024-08-13T20:43:09.295Z"
+    },
+    "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Slides": {
+      "driveFileId": "1F2PjyDHEFbiqqo6HYRK0HbGkzUFavaKYJvHGdkkTkyY",
+      "name": "6.4 Lesson 12 Slides",
+      "modifiedTime": "2024-08-13T20:43:07.573Z"
+    },
+    "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Reference Satellite and Relief": {
+      "driveFileId": "1VUmlyZM9-_tKYZWuXawQ27coZrfMk6bTvPXQJfayw2k",
+      "name": "6.4 Lesson 12 Reference Satellite and Relief",
+      "modifiedTime": "2024-08-13T20:43:02.555Z"
+    },
+    "Lesson 12 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 12 Reference Mapas Satelitales y": {
+      "driveFileId": "1BhYcyCaazQZck1vq-Vi_mofo3HgTtSv6T0bRS22eKJg",
+      "name": "6.4 Lesson 12 Reference Mapas Satelitales y",
+      "modifiedTime": "2024-08-13T20:42:58.141Z"
+    },
+    "Lesson 11 Antarctica Cards Print 5 sets.pdf": {
+      "driveFileId": "1PgB_Pnm3B5oDNjYX_lL6JaMAJbkJ5Ydw",
+      "name": "Lesson 11 Antarctica Cards Print 5 sets.pdf",
+      "modifiedTime": "2024-08-13T20:42:53.821Z"
+    },
+    "Lesson 11 8.5 x 11 Landmass Data Sets Print 5 copies.pdf": {
+      "driveFileId": "1nB40-PZ8mg5HUJM1RH9BDSbFzk_5CiN0",
+      "name": "Lesson 11 8.5 x 11 Landmass Data Sets Print 5 copies.pdf",
+      "modifiedTime": "2024-08-13T20:42:52.753Z"
+    },
+    "Lesson 11 11x17 Landmass Data Cards Print 5 sets.pdf": {
+      "driveFileId": "1zc9GiRJN35m5NVKkUrIGI_2OmQsalouW",
+      "name": "Lesson 11 11x17 Landmass Data Cards Print 5 sets.pdf",
+      "modifiedTime": "2024-08-13T20:42:51.547Z"
+    },
+    "Lesson 11 11 x 17 World Map Base Print 1 per student.pdf": {
+      "driveFileId": "1b25THwt14khSAXJGBlebALwWl9E1dzj-",
+      "name": "Lesson 11 11 x 17 World Map Base Print 1 per student.pdf",
+      "modifiedTime": "2024-08-13T20:42:50.326Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/Lesson 11 Antarctica Cards Print 5 sets.pdf": {
+      "driveFileId": "1z6WZIxTsur81oYMYDuBCGZ2teGD47lpP",
+      "name": "Lesson 11 Antarctica Cards Print 5 sets.pdf",
+      "modifiedTime": "2024-08-13T20:42:49.228Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/Lesson 11 8.5 x 11 Landmass Data Sets Print 5 copies.pdf": {
+      "driveFileId": "1f2eYWXY4nbnH1RK6MbV3UhUid-5uFToZ",
+      "name": "Lesson 11 8.5 x 11 Landmass Data Sets Print 5 copies.pdf",
+      "modifiedTime": "2024-08-13T20:42:48.016Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/Lesson 11 8.5 x 11 Landmass Data Cards Print 5 sets.pdf": {
+      "driveFileId": "137PV2JResIrYgygwNB3qYfWGyU1-T83t",
+      "name": "Lesson 11 8.5 x 11 Landmass Data Cards Print 5 sets.pdf",
+      "modifiedTime": "2024-08-13T20:42:46.760Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/Lesson 11 11x17 Landmass Data Cards Print 5 sets.pdf": {
+      "driveFileId": "1-MmdOOoq7G708lpKGNDA3Usdy2Atk45N",
+      "name": "Lesson 11 11x17 Landmass Data Cards Print 5 sets.pdf",
+      "modifiedTime": "2024-08-13T20:42:45.629Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/Lesson 11 11 x 17 World Map Base Print 1 per student.pdf": {
+      "driveFileId": "1fa6nyeQBqUiX8nBHC1LoHbLeqozZMrpV",
+      "name": "Lesson 11 11 x 17 World Map Base Print 1 per student.pdf",
+      "modifiedTime": "2024-08-13T20:42:44.261Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Teacher Reference Teacher Prep for": {
+      "driveFileId": "1Fwfu8WbFUrdh2HusZ6Jda8Aj6paccr0RydSjuuxUkO0",
+      "name": "6.4 Lesson 11 Teacher Reference Teacher Prep for",
+      "modifiedTime": "2024-08-13T20:42:43.442Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Teacher Reference Instructions for Labeling": {
+      "driveFileId": "1GVES-lwtf4l76AFPLuTmuNADcwB3jraOyVNyrkI9og4",
+      "name": "6.4 Lesson 11 Teacher Reference Instructions for Labeling",
+      "modifiedTime": "2024-08-13T20:42:38.714Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Teacher Reference Instructions for Assembling": {
+      "driveFileId": "1kEI4OvJggofuZyIs4fmOqvdPx-7OOw72ti1aRkBv1Cg",
+      "name": "6.4 Lesson 11 Teacher Reference Instructions for Assembling",
+      "modifiedTime": "2024-08-13T20:42:33.467Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Teacher Edition": {
+      "driveFileId": "1x9uEZ33IJpfD2yQ2fWVFGBJBqR97nhNp4fZQ7n_mqqM",
+      "name": "6.4 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:42:29.287Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1LD0qEebBqukGso_nnGUZSHSEM0AeRIAseH15YX3GaSg",
+      "name": "6.4 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:42:24.936Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Student Procedure": {
+      "driveFileId": "1yamEPLiVWwyYLQw5G1HQr0dhfR4lGxjfJejlI-fPXfs",
+      "name": "6.4 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-13T20:42:20.618Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Slides": {
+      "driveFileId": "1PmLbv6Wpp6Jv3NzoSWXdi3USEJRc1BCkhY1FnswgKl0",
+      "name": "6.4 Lesson 11 Slides",
+      "modifiedTime": "2024-08-13T20:42:16.411Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Assessment Evaluating Two Models": {
+      "driveFileId": "1SiNQ4vrjAgYjwT8iTCx-RjuMmOZH2o1C8EhKRcDTKGo",
+      "name": "6.4 Lesson 11 Assessment Evaluating Two Models",
+      "modifiedTime": "2024-08-13T20:42:11.311Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 11 Answer Key Teacher Key for": {
+      "driveFileId": "12DDEVeC2iINU0sxj23lXmwhdcMG7pJ1LLcgGJ-xSLAM",
+      "name": "6.4 Lesson 11 Answer Key Teacher Key for",
+      "modifiedTime": "2024-08-13T20:42:07.954Z"
+    },
+    "Lesson 11 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 11 Evaluación Evaluación de dos": {
+      "driveFileId": "1EupplXyn_vi2dfqK5UPaxZmSnhsWueT2pEmvT57is2I",
+      "name": "6.4 Lección 11 Evaluación Evaluación de dos",
+      "modifiedTime": "2024-08-13T20:42:03.523Z"
+    },
+    "Lesson 10 Mid-Atlantic Data Cards Print 5 sets.pdf": {
+      "driveFileId": "19XLyAylgk0lMHZZweG1hWog9MTPQxuZn",
+      "name": "Lesson 10 Mid-Atlantic Data Cards Print 5 sets.pdf",
+      "modifiedTime": "2024-08-13T20:41:59.212Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/Lesson 10 Mid-Atlantic Data Cards Print 5 sets.pdf": {
+      "driveFileId": "1Ks8cMLVGB0aW4a2EZNil23VmVhAQI5S7",
+      "name": "Lesson 10 Mid-Atlantic Data Cards Print 5 sets.pdf",
+      "modifiedTime": "2024-08-13T20:41:57.160Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Teacher Edition": {
+      "driveFileId": "1V8ONszzYkrLjkW-PaEs4OgvpO8XnzLLlS7TNsccuUTI",
+      "name": "6.4 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:41:56.365Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "11cvcc1QqRhEHvlQ8s-p6QLBM-LGWFyX7BbbklHkKvqg",
+      "name": "6.4 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:41:52.584Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Student Procedure": {
+      "driveFileId": "1uOms-eU1nRZKS79dmXI4j_gJT-IFRHsmT5ay1WbA9XE",
+      "name": "6.4 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-13T20:41:43.679Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Slides": {
+      "driveFileId": "15janknbnBh6EDyjU7nrEOMlH8L9EqZeCOqGA8KVLocY",
+      "name": "6.4 Lesson 10 Slides",
+      "modifiedTime": "2024-08-13T20:41:36.881Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Reference South America and": {
+      "driveFileId": "1dxbIIeMtJJ6GZ2OX5Pu3KTM1S1WAdTo85QGZgDaBBEw",
+      "name": "6.4 Lesson 10 Reference South America and",
+      "modifiedTime": "2024-08-13T20:41:35.907Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Handout Talking Sticks Protocol": {
+      "driveFileId": "1ur9q6zBRy8fcdfX3CcA36qQITOWF1hpaWH0iPEYRYl4",
+      "name": "6.4 Lesson 10 Handout Talking Sticks Protocol",
+      "modifiedTime": "2024-08-13T20:41:31.650Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Handout South America and": {
+      "driveFileId": "1Gm4mEK2PWS88YBzY0GDi5aw2jfu3GlW-E_49_cf8Q30",
+      "name": "6.4 Lesson 10 Handout South America and",
+      "modifiedTime": "2024-08-13T20:41:29.267Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Handout Lesson 10 Exit": {
+      "driveFileId": "118omNKvPKGiq9uuIoOOK80GUPPi_0vjwmTwOia1kbF0",
+      "name": "6.4 Lesson 10 Handout Lesson 10 Exit",
+      "modifiedTime": "2024-08-13T20:41:24.872Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 10 Handout Calculating Plate Movement": {
+      "driveFileId": "1vV1nGkBDZncLawKncupD7ANS950-kpXIO4uS4CYEFBw",
+      "name": "6.4 Lesson 10 Handout Calculating Plate Movement",
+      "modifiedTime": "2024-08-13T20:41:21.631Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 10 Referencia Mapas de evidencia": {
+      "driveFileId": "1oMgXYQUisZgzBhU9lcerIEHgkqp8-S6DlWKxiu022kQ",
+      "name": "6.4 Lección 10 Referencia Mapas de evidencia",
+      "modifiedTime": "2024-08-13T20:41:18.218Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 10 Folleto Protocolo de pieza": {
+      "driveFileId": "1UbTYpe_UyMJ4HZJgyD1DzricaX4FWMfiiLILVP4ivdI",
+      "name": "6.4 Lección 10 Folleto Protocolo de pieza",
+      "modifiedTime": "2024-08-13T20:41:14.028Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 10 Folleto Mapas de evidencia": {
+      "driveFileId": "18WoDEQQQRrlPw5vFPMSTKugda3pRBl1jK9oOoaAYzcU",
+      "name": "6.4 Lección 10 Folleto Mapas de evidencia",
+      "modifiedTime": "2024-08-13T20:41:11.479Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 10 Folleto Calcular el movimiento": {
+      "driveFileId": "1GZyNiBk1DN4HuKOw5_qzHEhLtz9NGOYgfy7IXrekFbk",
+      "name": "6.4 Lección 10 Folleto Calcular el movimiento",
+      "modifiedTime": "2024-08-13T20:41:08.181Z"
+    },
+    "Lesson 10 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 10 Folleto Boleto de salida": {
+      "driveFileId": "1TMpaNxvHmD3JJrfYHkL8qs_o4eITegt8_xKjuqUy9IY",
+      "name": "6.4 Lección 10 Folleto Boleto de salida",
+      "modifiedTime": "2024-08-13T20:41:04.903Z"
+    },
+    "Lesson 1 Mountain Cards Print 1 per student.pdf": {
+      "driveFileId": "1LlcLdEZ7Wl7B5TdB2kOC3yiFbFxx7m99",
+      "name": "Lesson 1 Mountain Cards Print 1 per student.pdf",
+      "modifiedTime": "2024-08-13T20:40:59.270Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/Lesson 1 Mountain Cards Print 1 per student.pdf": {
+      "driveFileId": "1W2E7xchGG-igt8_NWpRl2vMVRwgzuqQX",
+      "name": "Lesson 1 Mountain Cards Print 1 per student.pdf",
+      "modifiedTime": "2024-08-13T20:40:58.033Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Teacher Edition": {
+      "driveFileId": "1P-vjM9hztp3tvAEIOP46UCW8T2LQlPX4Q-s1aMscoBw",
+      "name": "6.4 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:56.949Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "11KwWx46VkblvRm0Ip2wNzLE4fdYN_DrCbwoJ8VmbADg",
+      "name": "6.4 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:51.764Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Student Procedure": {
+      "driveFileId": "1qlaRNkPND-ui0uf1M6V5tfM4HVAyIOHHT1h8Cq0LEHU",
+      "name": "6.4 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:47.859Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Slides Mountain Cards": {
+      "driveFileId": "1sB29ZSxelN2Nld9OCV3d1BDnqDv4scEO6XOfQItPz2Y",
+      "name": "6.4 Lesson 1 Slides Mountain Cards",
+      "modifiedTime": "2024-08-13T20:40:43.666Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Slides": {
+      "driveFileId": "1ttmXDODcwHoGZAMGpAit2FxMepYVT0aVav2VCukX_5o",
+      "name": "6.4 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:40:37.344Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Reference Data Cards on": {
+      "driveFileId": "1Us1AopnAD3j83GsbwcU0dlva9192VJzV5Y5EklbutdQ",
+      "name": "6.4 Lesson 1 Reference Data Cards on",
+      "modifiedTime": "2024-08-13T20:40:31.832Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Handout What is happening": {
+      "driveFileId": "1NabtcWNnxovOjBp95pRm4AvRQecnP_yweYeKFRzZH2U",
+      "name": "6.4 Lesson 1 Handout What is happening",
+      "modifiedTime": "2024-08-13T20:40:24.741Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Handout Patterns Of Change": {
+      "driveFileId": "1X019rVscD_Bt-GC7woR5W7k25MwSf5HQH2mqEQxgonw",
+      "name": "6.4 Lesson 1 Handout Patterns Of Change",
+      "modifiedTime": "2024-08-13T20:40:20.776Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Handout Explaining Other Mountains": {
+      "driveFileId": "1cARX-sGFOE85xBcBsiBdsAtvjIN-DzliIrul4SrqHeg",
+      "name": "6.4 Lesson 1 Handout Explaining Other Mountains",
+      "modifiedTime": "2024-08-13T20:40:17.984Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Handout Explain How Mt.": {
+      "driveFileId": "1XKxapU6-kIYMTdmquvw3AVlybyxXt4840NonnX6z9yg",
+      "name": "6.4 Lesson 1 Handout Explain How Mt.",
+      "modifiedTime": "2024-08-13T20:40:14.453Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lesson 1 Handout Alternate Initial Model": {
+      "driveFileId": "13lySIo1lKdBt-Fvk43iGrXI3nB74JfQRhw5JYhyIszs",
+      "name": "6.4 Lesson 1 Handout Alternate Initial Model",
+      "modifiedTime": "2024-08-13T20:40:11.897Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 1 Referencia Tarjetas de datos": {
+      "driveFileId": "1m2ci3keEhxxCyYnu1XATpIlUcPB2lzq1n8hKVHgW6Xw",
+      "name": "6.4 Lección 1 Referencia Tarjetas de datos",
+      "modifiedTime": "2024-08-13T20:40:08.767Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 1 Folleto ¿Qué está pasando": {
+      "driveFileId": "1AnRLte4b0D8XSoDV0KQLyNXmEazKm7dfSU_fm5p5_iM",
+      "name": "6.4 Lección 1 Folleto ¿Qué está pasando",
+      "modifiedTime": "2024-08-13T20:40:05.186Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 1 Folleto Patrones de cambio": {
+      "driveFileId": "14ZrqdEBqUxxCLCYiqm2as5WTkAvXEyRsYm0i423rPVA",
+      "name": "6.4 Lección 1 Folleto Patrones de cambio",
+      "modifiedTime": "2024-08-13T20:40:01.823Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 1 Folleto Explicar cómo se": {
+      "driveFileId": "1SZ6H9xqfgmG_Aesx4ZgAk1wAdIcmcYE5VjTdiJ-44E4",
+      "name": "6.4 Lección 1 Folleto Explicar cómo se",
+      "modifiedTime": "2024-08-13T20:39:59.502Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 1 Folleto Explicando otras montañas": {
+      "driveFileId": "1vURNj9WoSSmWeND27vgCoYOIx9JRpMIlulAstkGOdes",
+      "name": "6.4 Lección 1 Folleto Explicando otras montañas",
+      "modifiedTime": "2024-08-13T20:39:56.998Z"
+    },
+    "Lesson 1 - 6.4 Plate Tectonics & Rock Cycling/6.4 Lección 1 Folleto Alternativo Modelo inicial": {
+      "driveFileId": "1ns9khVyS7Ul8CX4RgLauospBw7TIe9Ug-fuRumMOmo8",
+      "name": "6.4 Lección 1 Folleto Alternativo Modelo inicial",
+      "modifiedTime": "2024-08-13T20:39:54.142Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1iYqrXYl4p47Diq1sOHw8MV7Wik9VM7G6",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:39:49.212Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "17cIa7TIxpKsjfKe_I5n1D4PjIw_0JJIr",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:39:48.133Z"
+    },
+    "6.4 Plate Tectonics & Rock Cycling Video Links.pdf": {
+      "driveFileId": "10FLFKvHJOGLPVIby-RV40O6yPF7dDeZN",
+      "name": "6.4 Plate Tectonics & Rock Cycling Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:39:47.114Z"
+    },
+    "6.4 Plate Tectonics & Rock Cycling Unit Overview Materials": {
+      "driveFileId": "1mRBxZb0SwfKvEz3eklPD7OQcQG1-zvzpfVrg_2KXnpw",
+      "name": "6.4 Plate Tectonics & Rock Cycling Unit Overview Materials",
+      "modifiedTime": "2024-08-13T20:39:46.258Z"
+    },
+    "6.4 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1pmAWHUU1J3cpucs-qxP0uOs8fgSPquz8",
+      "name": "6.4 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:39:38.442Z"
+    }
+  }
+}

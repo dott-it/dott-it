@@ -1,0 +1,1396 @@
+{
+  "unitId": "7.4",
+  "unitTitle": "Matter Cycling & Photosynthesis",
+  "description": "Students investigate photosynthesis and matter cycling in ecosystems. They explore how matter moves through living and nonliving components of ecosystems.",
+  "lessonCount": 15,
+  "suggestedPacingDays": 29,
+  "unitOverviewPath": "unit_materials/original/7.4 Matter Cycling & Photosynthesis Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/7/7.4",
+  "ingestedAt": "2026-07-01T13:38:43.629Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "Where does this stuff come from",
+      "title": "Where does this stuff come from?",
+      "teacherEditionPath": "lesson_1/original/7.4 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "Do plants get their food molecules by taking them in",
+      "title": "Do plants get their food molecules by taking them in?",
+      "teacherEditionPath": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "What other inputs could be sources of food molecules for the plant",
+      "title": "What other inputs could be sources of food molecules for the plant?",
+      "teacherEditionPath": "lesson_3/original/7.4 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "Are any parts that make up food molecules coming into the plant from above the surface",
+      "title": "Are any parts that make up food molecules coming into the plant from above the surface?",
+      "teacherEditionPath": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How are these gases getting into and out of leaves",
+      "title": "How are these gases getting into and out of leaves?",
+      "teacherEditionPath": "lesson_5/original/7.4 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How are all these things interacting together in this part of the plant",
+      "title": "How are all these things interacting together in this part of the plant?",
+      "teacherEditionPath": "lesson_6/original/7.4 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "Why do plants need light",
+      "title": "Why do plants need light?",
+      "teacherEditionPath": "lesson_7/original/7.4 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "Where are plants getting food from",
+      "title": "Where are plants getting food from?",
+      "teacherEditionPath": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "Where do the food molecules in the maple tree come from",
+      "title": "Where do the food molecules in the maple tree come from?",
+      "teacherEditionPath": "lesson_9/original/7.4 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "Why don’t plants die at night",
+      "title": "Why don’t plants die at night?",
+      "teacherEditionPath": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "Why don’t plants die when they can’t make food",
+      "title": "Why don’t plants die when they can’t make food?",
+      "teacherEditionPath": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "Where does the rest of our food come from",
+      "title": "Where does the rest of our food come from?",
+      "teacherEditionPath": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "What happens to food that doesn’t get eaten",
+      "title": "What happens to food that doesn’t get eaten?",
+      "teacherEditionPath": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "Where does food come from and where does it go next",
+      "title": "Where does food come from and where does it go next?",
+      "teacherEditionPath": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "Where does food come from, and where does it go next",
+      "title": "Where does food come from, and where does it go next?",
+      "teacherEditionPath": "lesson_15/original/7.4 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "74-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Accept all initial m…",
+      "shortTitle": "Look for: What to look/listen for: Accept all initial m…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop an initial model to describe the inputs of the system where plants get food molecules (matter).",
+      "lookListenFor": "What to look/listen for: Accept all initial models, but here are some components you may find: inputs (and possibly outputs) to the plant or a source of food molecules for the plant, food molecules inside the the plant, or different parts of the plant (used for getting food molecules or parts of food molecules).",
+      "whatToDo": "What to do: Note that student models might not have all elements identified above. Use students’ initial models to highlight the range and diversity of ideas the class as a whole has when building the initial whole-class consensus model to explain where the plant’s food molecules might be coming from. If student initial models are not showing food molecules inside the plant or any inputs to the plant ask them about what they noticed in the food labels and how those food molecules came to be inside the plant. Also, ask students if there are any additional parts of the system that we noticed when watching the video of the maple syrup being tapped.\nStudents’ initial models can be collected and used as a formative pre-assessment. They can help identify what science ideas students are bringing to the table and where students are at in their development of the practice of modeling. This is a great opportunity to see the resources your students are bringing into this unit.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L01-AO1.html"
+      }
+    },
+    {
+      "id": "74-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for the kinds o…",
+      "shortTitle": "Look for: What to look/listen for: Look for the kinds o…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from careful observation of food-related phenomena that the class can investigate to explain how plants get matter and energy to make food molecules.",
+      "lookListenFor": "What to look/listen for: Look for the kinds of questions students are asking. Are they all about one aspect of the maple syrup (plant food) phenomenon? Are their questions only focused on energy? Or matter? Are there parts of the cycle of matter or flow of energy with no questions?",
+      "whatToDo": "What to do: When students are sharing their questions with their partners, ask students which part of the phenomenon their question comes from and if there are any other parts of the phenomenon they are curious about. As students ask and then later post their questions, have them reflect on any parts of the matter cycle or energy flow that have few or no questions posted on the DQB. Prompt students to generate more questions in this space so that each important part of the cycle has some questions that we can investigate to help figure out how energy and matter flow are part of this process.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L01-AO2.html"
+      }
+    },
+    {
+      "id": "74-2-7-4-lesson-2-handout-self-assessment-for-classroom",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "title": "7.4 Lesson 2 Handout Self-Assessment for Classroom",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 02 — 7.4 Lesson 2 Handout Self-Assessment for Classroom.",
+      "files": {
+        "studentHandout": "lesson_2/original/7.4 Lesson 2 Handout Self-Assessment for Classroom.docx",
+        "teacherGuide": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfzgx5KWHBc4itrz_P_iPsbsN5tMWW8NruCzrI11TfZj4n3xA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-2-ao-4",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Lesson 02 · Check-in 4",
+      "shortTitle": "Lesson 02 · Check-in 4",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "This is a great opportunity for students to self assess their engagement in classroom discussions using Self-Assessment for Classroom Discussions. This discussion rubric can be used anytime after a discussion to help students reflect on their participation in the class that day.\nSay, Wait… now that we have investigated the candidates that are potential sources of food molecules, we have moved them all to the eliminated column. So if none of our candidates below the surface are inputs into the plant for food molecules, then what else might be going on for the plant to have food molecules? This is confusing. Where else could the stuff that makes up the food molecules be coming from?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L02-AO4.html"
+      }
+    },
+    {
+      "id": "74-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: There are no food molecules found in the hydr…",
+      "shortTitle": "Look for: There are no food molecules found in the hydr…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.1 Engage in argument from evidence to support or refute possible inputs of where plants get their food molecules from, such as hydroponic plant food or soil.",
+      "lookListenFor": "What to look/listen for: In the two questions in Part 5 of Which food molecules are in the hydroponic plant food? students should be able to argue that:\nThere are no food molecules found in the hydroponic plant food solution using evidence from the investigation such as, “When the food indicator for carbohydrates was added to the hydroponic plant food, the color of the indicator did not change,” the example is for carbohydrates but this would work for any of the indicators.\nThe hydroponic plant food can not be the source of the food molecules we find in plants. The evidence they could use to support this argument could be something similar to, “Since the food indicator for carbohydrates didn’t change color when the hydroponic plant food was added to it, there are not any carbohydrate molecules in the hydroponic plant food. So the plant food can’t be the source of the food molecules”",
+      "whatToDo": "What to do: If students argue they found evidence of food molecules in the hydroponic plant food solution sample they tested, it might be helpful to talk through with them how they conducted their investigation and ask them for the data they collected (no color change or a color change when the food indicator was added to the solution).\nCompile class data. Present slide Q. When students are finished running their experiments, compile the class data. Draw a data table on the board, and whenever a group is finished, each student should come to the board and record his or her findings by putting “Y” (if there was a change) and an “N” (if there was no change) in an open box for the type of food molecule tested for. This way, each student can see how his or her individual sample contributed to the community’s interpretation. The hydroponic plant food solution should not have any food molecules inside and therefore none of the indicators should change color. See the example class data table.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L02-AO2.html"
+      }
+    },
+    {
+      "id": "74-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: There is not any soil in the hydroponic system",
+      "shortTitle": "Look for: There is not any soil in the hydroponic system",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.2 Engage in argument from evidence to support or refute possible inputs of where plants get their food molecules from, such as hydroponic plant food or soil.",
+      "lookListenFor": "What to look/listen for: As different students share what they figured out about the inputs that are below the surface and whether these can be sources of food molecules, listen for students to share ideas such as:\nThere is not any soil in the hydroponic system.\nWhen the hydroponic plant food was tested with food indicators, there were not any of the food molecules.\nPlain water does not contain food molecules.\nNone of the inputs we looked at that are below the surface contain food molecules.",
+      "whatToDo": "What to do: When the class is explaining what they have figured out so far and the evidence they have to support this, some students might suggest that pieces of the food molecules might be in the inputs we looked at even if whole food molecules are not found in the inputs. This is great thinking! Suggest it sounds like we still have more to investigate, and encourage the class to focus on what we have figured out for the current discussion.\nProject slide S. In their notebooks, students should draw a three-box Progress Tracker to help the class come to an agreement about the evidence and what the class has figured out in words and pictures. First, have students write down the question they have been trying to answer, Were any of the below the surface inputs sources of food molecules? Ask students what evidence they have been working with to answer this question (e.g., the set up of the hydroponic plant system, the hydroponic plant food, water, etc.).✱ Give students an opportunity to generate a list of ideas they have figured out now.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L02-AO3.html"
+      }
+    },
+    {
+      "id": "74-2-ao-5",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.3 Engage in argument from evidence to support or refute possible inputs of where plants get their food molecules from, such as hydroponic plant food or soil.",
+      "lookListenFor": "What to look/listen for: Look for students to say they think we should investigate things above the surface that could be inputs, like air or sunlight. They might question why plant food has different things in it than food for us.",
+      "whatToDo": "What to do: If students do not suggest investigating looking above the surface for other inputs, suggest they think about other parts of the plant that might come in contact with other potential inputs and remind them we only looked at what the plant interacts with below the surface. What about above the surface?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L02-AO5.html"
+      }
+    },
+    {
+      "id": "74-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students can identif…",
+      "shortTitle": "Look for: What to look/listen for: Students can identif…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Plan and carry out an investigation collaboratively by identifying controls to produce data as evidence to determine whether hydroponic plant food contains food molecules as inputs.",
+      "lookListenFor": "What to look/listen for: Students can identify what food molecule they are testing for using the indicator their group is assigned, what food molecule they are testing for in the hydroponic food solution, and how they know if that food molecule is present. Students can follow an investigation plan and collect accurate data as evidence.",
+      "whatToDo": "What to do: If students are using the incorrect food indicator for their control food sample, ask the students what food molecule they are testing for and whether the food sample they have should show positive with the indicator. Refer students to the questions on slide N as a way to guide them through what they should be testing for.\nHere are some sample test results\nStarch Test\nSugar Test\nProtein Test\nInitial Fat Test\nFinal Fat Test\nInstruct students to work on the questions in Part 5 of Which food molecules are in the hydroponic plant food? when they finish.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L02-AO1.html"
+      }
+    },
+    {
+      "id": "74-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Air, water, hydroponic plant food, and light…",
+      "shortTitle": "Look for: Air, water, hydroponic plant food, and light…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Construct an explanation by applying scientific reasoning to show why data found in images and charts show patterns that parts of inputs could be the source of food molecules in a plant.",
+      "lookListenFor": "What to look/listen for:\nAir, water, hydroponic plant food, and light do not contain any whole food molecules.\nThe air composition chart shows that air contains carbon dioxide (carbon and oxygen) and oxygen molecules that are parts of each food molecule’s structure.\nWater has hydrogen and oxygen atoms.\nHydroponic plant food has nitrogen and sulfur, which are atoms found in proteins and amino acids.\nAll the parts of food molecules can be accounted for if you combine parts of the air, water, and hydroponic plant food.\nWe have confirmed in Lesson 2 investigations that water and hydroponic plant food go into the plant but have yet to confirm that air enters the plant.",
+      "whatToDo": "What to do: If your students struggle with identifying why the question needs to be revised to include parts instead of just (whole) food molecules, have your students revisit the air composition chart and Food Molecule Cards. Cue students to look for similarities in the atoms present in air and food molecules. You can also cue them to look back at their Progress Trackers from Lesson 2 to confirm that soil is not needed for plants to grow and that hydroponic plant food and water do go into the plant as it gets bigger. Then they can revisit the nutrition labels for plant food and water to see what parts of food molecules are found in the ingredients.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L03-AO1.html"
+      }
+    },
+    {
+      "id": "74-4-comparing-and-critiquing",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "title": "Comparing and Critiquing",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 04 — Comparing and Critiquing.",
+      "files": {
+        "studentHandout": "lesson_4/original/7.4 Lesson 4 Assessment Comparing and Critiquing.docx",
+        "teacherGuide": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": "lesson_4/original/7.4 Lesson 4 Answer Key Key Lesson 4.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSd-KyBX0uP9RD6UJ-3dyL9M2K2xp14-E8azlcnIhG20inizgA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: In this assessment, look to see if students c…",
+      "shortTitle": "Look for: In this assessment, look to see if students c…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.1 Engage in argument from evidence by comparing and critiquing claims that plants take in (input) water through their roots and give off (output) water through their leaves.",
+      "lookListenFor": "What to look/listen for:\nIn this assessment, look to see if students can cite evidence and reasoning for water as both an input and output.\nStudents may make connections to the Inside Our Bodies Unit in terms of breathing (cellular respiration). Students may make connections to the Inside Our Bodies Unit and Bath Bombs Unit in terms of chemical reactions as a means of rearranging the components of molecules.\nStudents may think that the water does not change in the plant because it is only there to carry in the hydroponic plant food molecules.\nStudents may think that molecules cannot be changed so therefore water passes through unchanged.\nSee Key: Lesson 4 - Student Assessment for detailed sample student responses.",
+      "whatToDo": "What to do: It is OK if students do not yet understand what is happening inside the plant. The reasoning students use as they try to explain what happens to water inside the plant provides valuable insight into their thinking that can be leveraged in Lessons 6 and 11 where students will be able to associate different inputs and outputs with photosynthesis and cellular respiration.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L04-AO2.html"
+      }
+    },
+    {
+      "id": "74-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: Plants are taking in carbon dioxide, because…",
+      "shortTitle": "Look for: Plants are taking in carbon dioxide, because…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for:\nStudents state that:\nPlants are taking in carbon dioxide, because carbon dioxide levels in the air inside the bag went down. Carbon dioxide has C and O atoms that are also in food molecules.\nPlants are giving off water because the water vapor levels in the air inside the bag went up. That means plants don’t take in water through their leaves, only their roots.\nStudents pose questions about the meaning of the water as both an input and an output and what happens to it inside the plant.",
+      "whatToDo": "What to do: The skill of using data from an investigation as evidence when supporting a claim is one that can be challenging for many students. If students are not using actual evidence from the investigation in this lesson such as the levels of water changing over time, then it could be helpful to summarize this data in bullet points that the students can then use in sentence form.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L04-AO1.html"
+      }
+    },
+    {
+      "id": "74-4-ao-4",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: Students cite data their class collected and…",
+      "shortTitle": "Look for: Students cite data their class collected and…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.2 Engage in argument from evidence by comparing and critiquing claims that plants take in (input) water through their roots and give off (output) water through their leaves.",
+      "lookListenFor": "What to look/listen for:\nStudents cite data their class collected and secondary data showing a decrease in carbon dioxide levels as evidence that carbon dioxide is going into plant leaves.\nStudents cite data their class collected and secondary data showing an increase in water levels as evidence that water is coming out of plant leaves.\nStudents cite secondary data showing an increase in oxygen levels as evidence that oxygen is coming out of plant leaves.\nStudents cite the need to refill the hydroponic plant food solution as evidence that water and hydroponic plant food are going into the plant through the roots.\nStudents may note that all of these data were collected with light present.",
+      "whatToDo": "What to do: The skill of using data from an investigation as evidence when supporting a claim is one that can be challenging for many students. If students are not using actual evidence from the investigation in this lesson such as the levels of water changing over time, then it could be helpful to summarize this data in bullet points that the students can then use in sentence form. Two examples: (1) The amount of water in the closed bag with spinach went up after the light was shined on it for a little time. (2) The amount of water and hydroponic plant food in the hydroponic setup decreased over time and need to be refilled.\nSuggested prompts\nSample student responses\nFollow-up questions\nWhat inputs from our candidates list that contain parts of food molecules are entering plants?\nCarbon dioxide because its levels went down in our experiment and the other kids’ data.\nWould anyone have put this point a different way?\nHow should we represent this on our model?\nWhat else did we figure out from our data and the other kids’ data?\nWater and oxygen are coming out of the leaves.\nWhat is our evidence for this?\nHow should we represent it on our model?\nWhat new questions do we have that might help us move forward?\nHow do the gases get in there?\nHow is carbon dioxide going in and oxygen going out?\nWhat’s happening inside the system?\nWhat other processes of living organisms involve the same gases?\nTell students,This process of plants taking in water through the roots and some of that water evaporating from parts of it that are in the air such as its leaves and stems, is called transpiration.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L04-AO4.html"
+      }
+    },
+    {
+      "id": "74-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: Students use the correct units to discuss cha…",
+      "shortTitle": "Look for: Students use the correct units to discuss cha…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for:\nStudents use the correct units to discuss changes over time (e.g., carbon dioxide drops from 839 ppm to 832 ppm in 30 seconds).\nStudents can identify that carbon dioxide levels steadily and significantly decrease over 10 minutes.\nStudents can identify that humidity levels steadily and significantly increase over 10 minutes.\nStudents can identify that although the data for oxygen is very noisy, oxygen levels steadily and significantly increase over 10 minutes.\nAlthough students may notice minor fluctuations in tabular light data but in looking at the graph they will conclude that the light level does not significantly change over 10 minutes.\nStudents interpret the decrease in carbon dioxide level as evidence that carbon dioxide is going into the leaves.\nStudents interpret the increase in water and oxygen levels as evidence that these substances are being released from the leaves.",
+      "whatToDo": "What to do: Although the I2 strategy scaffolds data analysis and interpretation, they may still struggle. Some suggestions to support students: Remind students to simply state what they observe for WIS. Encourage them to draw arrows and write comments on the graphs to help them connect their ideas to the graphical representations.Remind them to read the labels on the x- and y-axes. Ask guiding questions to help them identify patterns, such as What do you notice about the amount of ___ in the air at an early time compared to a later time? Ask them to look at one graph at a time. Breaking the information down into smaller chunks will make it easier for them to work with. If students are still struggling to identify patterns in the data, consider modeling the I2 strategy for the whole class using one of the graphs.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L04-AO3.html"
+      }
+    },
+    {
+      "id": "74-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Lesson 05 · Check-in 2",
+      "shortTitle": "Lesson 05 · Check-in 2",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "This is a great opportunity for students to self assess on their engagement in classroom discussions using Self-Assessment for Classroom Discussions. This discussion rubric can be used anytime after a discussion to help students reflect on their participation in the class that day.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.4 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L05-AO2.html"
+      }
+    },
+    {
+      "id": "74-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: Plant and animal cells look similar, but chlo…",
+      "shortTitle": "Look for: Plant and animal cells look similar, but chlo…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Obtain information from scientific texts to describe how chloroplasts (microscopic leaf structures) respond to light (an external stimuli).",
+      "lookListenFor": "What to look/listen for:\nPlant and animal cells look similar, but chloroplasts only exist in plant cells.\nPlant cells must also be alive.\nStudents cite evidence from the reading that chloroplasts want a certain amount of light--not too much, not too little.\nChloroplasts must be using sunlight somehow.",
+      "whatToDo": "What to do: You can cue students to think back to OpenSciEd Unit 7.3: How do things inside our bodies work together to make us feel the way we do? (Inside Our Bodies Unit) if they are not remembering structures and functions in the animal cell. If students are not seeing a connection between the chloroplasts and light and/or energy, consider rewatching the chloroplasts video at https://youtu.be/tQOjO2LJGGc. Students will be able to see that light is present in the video and must be important somehow.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.4 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L05-AO1.html"
+      }
+    },
+    {
+      "id": "74-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: Carbon dioxide, water, and light interact to…",
+      "shortTitle": "Look for: Carbon dioxide, water, and light interact to…",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Engage in argument from evidence about what plants need to make food molecules using evidence from the computer simulation and scientific reasoning to support an explanation for why decreasing the amount of water, carbon dioxide, light, or chloroplasts (cause) in a plant cell decreases the amount of sugar and oxygen it produces (effect).",
+      "lookListenFor": "What to look/listen for:\nStudents claims include one or more of the following:\nCarbon dioxide, water, and light interact to make food in a plant.\nThe more carbon dioxide, water, and light a plant gets, the more food it can make\nStudents can agree or disagree with another student’s claim using evidence from their investigation.\nStudents can build off each other’s ideas to articulate how the results from their investigations relate.",
+      "whatToDo": "What to do:\nIf students struggle with making a claim based on their evidence from the simulation, encourage them to summarize the data in a statement initially. Then ask students to use this summary to generalize this relationship. One example might be:\nStudent sample summary: When I increased the amount of carbon dioxide from 100 to 150, the amount of sugar that was made in the plant increased from 8 to 9.\nStudent sample generalization: If a plant gets more carbon dioxide, it will make more sugar.\nWhen students are sharing their claims in their small group, if they are struggling with the relationship of how increasing or decreasing the inputs into the plant system affects the outputs, ask them to explain in their own words what they saw happen in the simulation when they changed variables. Once they do this, encourage them to explain the relationship using words such as, “When ___________ increased/decreased, ___________ increased/decreased,” or “If there was more ___________, then the plant made more _________.”\nThe talking stick protocol is used to ensure equitable floor time for all students in the discussion in the first couple of rounds. No one should interrupt, not even ask questions for the first round. This gives students an opportunity to practice articulating their claims in front of a smaller audience before going public in front of the whole class. The second round of discussion encourages students to build off each other’s ideas, which requires them to actively listen to what their peers said.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/7.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L06-AO2.html"
+      }
+    },
+    {
+      "id": "74-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: Students can identify what independent variab…",
+      "shortTitle": "Look for: Students can identify what independent variab…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Plan and carry out an investigation to support a claim about how the inputs to a plant are related to what the plant cell can produce from chemical reactions in the chloroplasts (outputs).",
+      "lookListenFor": "What to look/listen for:\nStudents can identify what independent variable they are changing and should only be changing one variable at a time.\nStudents can set up a data table that corresponds to their dependent and independent variables.\nStudents plan the number of trials and time length to run the simulation to make a fair comparison.",
+      "whatToDo": "What to do:\nAsk the students what input they are changing to see how it affects the outputs (food made). Refer students to Simulation Procedures part A, and/or B for the directions to follow as they run the simulation.\nIf your students struggle with how to set up the data table, remind them that back in Lesson 2, when we used the food indicators to collect data about whether the hydroponic plant food solution contained food molecules, they used a table to keep track of the data they collected.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/7.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L06-AO1.html"
+      }
+    },
+    {
+      "id": "74-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: During the discussion, listen for students to…",
+      "shortTitle": "Look for: During the discussion, listen for students to…",
+      "peCode": "7.B",
+      "buildingTowards": "Building towards: 7.B Engage in argument from evidence and scientific reasoning to support the claim that plants use sunlight for energy to convert carbon dioxide and water into sugar that provides a form of energy the body can use.",
+      "lookListenFor": "What to look/listen for:\nDuring the discussion, listen for students to use evidence from Reading: How do scientists measure energy in food? to explain that calories are a measure of how much energy food can provide for the body and none of the inputs for plants (carbon dioxide and water) contain any calories and thus do not provide energy for the body. However, glucose, which the plant makes through chemical reactions, does have calories. So, the plant must need a source of energy from somewhere. Thus, sunlight must be the input of energy to make glucose which provides energy for the body.",
+      "whatToDo": "What to do:\nIf students are struggling to provide evidence for their claim, use talk moves to help them connect their ideas to how they figured them out, such as:\nWhy do you think that?\nWhat’s your evidence?\nHow did you arrive at the conclusion?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.4 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L07-AO2.html"
+      }
+    },
+    {
+      "id": "74-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Obtain, evaluate, and communicate information to show the relationships among matter and energy between the inputs and outputs for the process by which plants use energy from light to make sugars from carbon dioxide and water (photosynthesis).",
+      "lookListenFor": "What to look/listen for: Look for students to describe which source of information was most helpful in revising their thinking about which inputs/outputs from photosynthesis provide energy that the body can use.",
+      "whatToDo": "What to do: If students are struggling to integrate information from text, images, and what they figured out previously, guide them to focus on just one source, such as the caloric data from the food label or the explanation of calories from the text.\nShare findings about food labels and energy. During the discussion walk over and have students point out the inputs on the classroom consensus model.\nSuggested prompts\nSample student responses\nFollow-up questions\nCan someone remind me why we wanted to look at food labels in the first place?\nWe want to see if any of our inputs to the plant (such as carbon dioxide and water) could provide the body energy.\nCan anyone add on to that idea?\nWhat are some things you figured out from the information in the article about energy in food and how it is measured or represented?\nCalories are a measure of energy that we could get from the different foods we eat.\nFoods have different amounts of food molecules that make up the number of calories.\nCan anyone take that idea about energy and push it a little bit further?\nIf a food label measured zero calories, what claim could you make about how much energy this food would provide our body?\nZero calories would mean that a food provides zero energy for our bodies!\nSo let me see if I’ve got what you’re saying, If a food has zero calories then it wouldn’t act as an input that provides our bodies with any energy?✱\nLet’s look back at the food labels to see if any of the inputs for the plant provide energy for the body. What inputs and outputs would we want to see in the food labels we examine?\nWater, carbon dioxide, glucose, and oxygen.\nOkay, let’s see if any of those inputs have calories.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.4 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L07-AO1.html"
+      }
+    },
+    {
+      "id": "74-8-individual-midpoint-assessment",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "title": "Individual Midpoint Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 08 — Individual Midpoint Assessment.",
+      "files": {
+        "studentHandout": "lesson_8/original/7.4 Lesson 8 Assessment Individual Midpoint Assessment.docx",
+        "teacherGuide": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+        "answerKey": "lesson_8/original/7.4 Lesson 8 Answer Key Individual Midpoint Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdRaQKLJWqct0rIMKACQ9990ZGbRuCFlThyOWQqn49UipM5oQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See Individual Midpo…",
+      "shortTitle": "Look for: What to look/listen for: See Individual Midpo…",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Argue from evidence that carbon dioxide is an input for plants and oxygen is an output.",
+      "lookListenFor": "What to look/listen for: See Individual Midpoint Assessment for sample student responses. Look for students to identify that the plants give off oxygen for the scientist to breathe in and glucose for the scientist to eat, which provides calories. The scientist is breathing out carbon dioxide, which would accumulate to high levels but the plants take in the carbon dioxide and water that the scientist breathes out.",
+      "whatToDo": "What to do: If students struggle to argue for how the scientist can survive, ask them to look back at the inputs and outputs for the plant in their Progress Trackers.\nAdditional Lesson 8 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.WHST.6-8.1 Write arguments focused on discipline-specific content.\nIn this lesson, students construct a written scientific argument in Individual Midpoint Assessment. Students must introduce and support a claim about why the scientist was able to survive in the sealed box. Students are provided a scaffold with the components of a strong written scientific argument to ensure that they include each element outlined in parts A-E of this standard.\nUniversal Design for Learning: Some students may benefit from using other modalities, such as a drawing to express their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you and having a student scribe their thinking on paper. This might allow students to also use gestures to help express their understanding about how the cycle of matter and flow of energy is in the system as they explain their thinking. Encouraging students to use other modalities to show their thinking creates an equitable pathway for all students to demonstrate proficiency.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L08-AO2.html"
+      }
+    },
+    {
+      "id": "74-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the Key Ideas fo…",
+      "shortTitle": "Look for: What to look/listen for: See the Key Ideas fo…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A.1 Develop and use models based on multiple sources of evidence to show that plants use energy from light to make sugars (food) from carbon dioxide and water through the process of photosynthesis and release oxygen as an output and that energy is transferred from the sunlight to the plant through this process.",
+      "lookListenFor": "What to look/listen for: See the Key Ideas for the ideas that should be included in the consensus model.",
+      "whatToDo": "What to do: If students are missing some of these components or interactions during the consensus model discussion, ask students to refer to their Progress Trackers for each lesson and to add those ideas to the class model and individually to their Lesson 8: Gotta-Have-It Checklist.\nUniversal Design for Learning: Having students select a personal norm for their work today will help to reinforce to them that the class norms are important. This also creates an opportunity for students to actively engage in group work following norms and to self-regulate their participation in group activity. Over time, these norm-reinforcing strategies can help to build a positive group-work culture by encouraging students to identify their resources that can strengthen their group, as well as systems to ensure that all students are actively engaging in sense-making.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.4 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L08-AO1.html"
+      }
+    },
+    {
+      "id": "74-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: Students should ask questions about how a pla…",
+      "shortTitle": "Look for: Students should ask questions about how a pla…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Ask questions to refine our model of plants to show the inputs and outputs, and energy and matter flows over time to explain how food molecules can be present during times that plants do not have leaves or chloroplasts.",
+      "lookListenFor": "What to look/listen for:\nStudents should ask questions about how a plant can make food if the structures (leaves) and/or inputs (sunlight, water) are not present.\nStudents may ask questions about why plants even make food and/or if plants need food to grow.\nStudents should ask testable questions that will help us collect data and figure out how to refine and/or revise our plant model.",
+      "whatToDo": "What to do: If students struggle to come up with questions to add to the DQB around how plants can make food at times when there are structures missing, here are a few strategies you might try to help them think more about this confounding question:\nAsk for a few students to share their questions as an example.\nReplay the video of the tree being tapped and encourage students to make more noticings of the environment and the tree when it is tapped.\nEncourage students to look back at the reading and think about how the trees are different when they are tapped compared to what we have in our model of the plant from Lesson 8.\nReview these steps for forming the DQB:\nThe first student comes up to the DQB with their sticky note, faces the class, and remains standing. The student reads their question off the note and then posts it on the DQB near the section of the consensus model or related phenomena it is most related to. (Note: If the model is off to the side, students can post their notes in a new space on the board.)\nThe students who are listening should raise their hands if they have a question that relates to the question that was just read aloud.\nThe first student selects the next student whose hand is raised.\nThe second student reads his or her question and says what other question on the board it relates to and why or how. Then the student places his or her question near the question it most relates to and selects the next student. This process continues until everyone has had a chance to post a question.\nOrganize questions into groups. As students share, questions will naturally start clustering into similar parts of the model or similar types of questions. Once students have completed their sharing, ask them to identify the categories of questions and help them organize them into clusters by giving them a related umbrella question or category label.\nThe big questions for the DQB should now be: “How can plants have food molecules in them when all the inputs or structures needed to make food molecules aren’t present? Why do plants need food molecules?”\nStudent questions may include the following:\nWhy would plants be making food molecules?\nAre plants making them to eat them somehow?\nWhat are the plants using them for?\nDid they really come from the leaves to here?\nCan plants make sugar without leaves?\nIf plants need sun to make sugar, what happens at night? Do they stop making sugar?\nWhat happens in the winter?\nIf plants stop making food, do they stop taking in CO2 and giving off O2?\nWhy don’t plants die in the dark?\nWhy don’t plants die when they don’t have leaves?\nSummarize new territory the class has questions about. Say, We really have many questions about how plants can have food molecules when they don’t have everything they need! Let’s dig into some of these new questions next time.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/7.4 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L09-AO1.html"
+      }
+    },
+    {
+      "id": "74-10-ao-3",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Students discuss and respond to the “Every ti…",
+      "shortTitle": "Look for: Students discuss and respond to the “Every ti…",
+      "peCode": "10.C",
+      "buildingTowards": "Building towards: 10.C Communicate information about the relationship between energy and the cycling of carbon dioxide and oxygen (matter) in and out of plants.",
+      "lookListenFor": "What to look/listen for:\nStudents discuss and respond to the “Every time …” items in Communicating Information from Scientific Text Checklist.\nStudents effectively use their chosen communication medium to convey their thinking.\nStudents explain that photosynthesis is not happening in the dark by comparing evidence obtained in the dark (this lesson) to what they have figured out about photosynthesis in prior lessons.\nStudents reference the changes in carbon dioxide and oxygen (matter inputs and outputs) are opposite in the light and in the dark.\nStudents note that light (energy) is an input for photosynthesis.\nStudents state that some type of chemical reaction (other than photosynthesis) must be occurring in the dark to account for the changes in carbon dioxide and oxygen.\nStudents wonder what role energy plays in this other chemical reaction.\nStudents use the idea that photosynthesis transfers energy from the sun to the plant.\nStudents notice that water is an output of plants in the light and the dark, and wonder why.",
+      "whatToDo": "What to do:\nIf students are struggling to choose a communication medium, remind them of the single notecard constraint. Ask, Which medium conveys the information in a small amount of space?\nIf students are struggling to explain why water is an output in the light and the dark, ask them to focus on carbon dioxide and oxygen. They will revisit water in Lesson 11.\nIf students are struggling to identify matter and energy inputs and outputs, ask them to consult their Progress Trackers and the data table they created in this lesson to compare light (Lesson 4) and dark conditions.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L10-AO3.html"
+      }
+    },
+    {
+      "id": "74-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the example noti…",
+      "shortTitle": "Look for: What to look/listen for: See the example noti…",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Analyze and interpret data to identify patterns that show that in the dark, plants take in oxygen and release carbon dioxide and water.",
+      "lookListenFor": "What to look/listen for: See the example noticings (WIS) and interpretations (WIM) in the table above.",
+      "whatToDo": "What to do: Students should be familiar with analyzing and interpreting data for gases in the air from Lesson 4. If groups struggle to compare the data from this lesson to Lesson 4, have them refer to Lesson 4 graphs in their science notebooks and do a side by side comparison to the Lesson 10 graphs in another student’s notebook. If students wonder why plants are releasing water in both light and dark conditions, leave this as a lingering question that we really need to answer. This will be revisited in Lesson 11.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L10-AO2.html"
+      }
+    },
+    {
+      "id": "74-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students suggest whe…",
+      "shortTitle": "Look for: What to look/listen for: Students suggest whe…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Use a model of the plant system to predict that plants do not do photosynthesis in the dark.",
+      "lookListenFor": "What to look/listen for: Students suggest when one input to the chemical reaction is not available (e.g., no light, no water, no carbon dioxide) or the place for the reaction is not available (e.g., no leaves means no chloroplasts), the plant cannot do photosynthesis.",
+      "whatToDo": "What to do: Refer to the consensus model and ask students, What can our model tell us about what might cause a plant to stop making food molecules? If students only consider conditions where an input for the reaction is not available (e.g., light, water, carbon dioxide), ask them, Where in the plant does the photosynthesis reaction happen?\nProblematize what our model predicts and what we know about how plants respond when they are without light, water, carbon dioxide, or chloroplasts/leaves.\nSay, Our model predicts that plants would stop making food molecules when there is no light, water, carbon dioxide, or chloroplasts. We think plants might need food molecules to grow and survive. But we also know from our experience that plants don’t die at night, they don’t die immediately when they don’t have water, and they don’t die without leaves, like in the maple tree. So, why not?\nTell students we’ll have a chance to investigate some of our other questions, and for now we’ll start with light, asking Why don’t plants die at night?",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.4 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L10-AO1.html"
+      }
+    },
+    {
+      "id": "74-11-maple-tree-through",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "title": "Maple Tree through",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 11 — Maple Tree through.",
+      "files": {
+        "studentHandout": "lesson_11/original/7.4 Lesson 11 Assessment Maple Tree through.docx",
+        "teacherGuide": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": "lesson_11/original/7.4 Lesson 11 Answer Key Key Annotations for.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdEk6BcN_KjLx9DsOLZZymFnhnoO8XGUqRomyvCO_pdcgMzyA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: Photosynthesis is how plant cells produce fuel",
+      "shortTitle": "Look for: Photosynthesis is how plant cells produce fuel",
+      "peCode": "11.B",
+      "buildingTowards": "Building towards: 11.B Obtain and evaluate information from scientific texts to clarify the claim that the plant system doesn’t die when it can’t do photosynthesis because the sugars it produced can be stored for later use in the form of starches. The stored food molecules can be used for energy via cellular respiration or for growth.",
+      "lookListenFor": "What to look/listen for: See Key: Annotations for How do plant (and animal) cells use food? for suggested annotation. Big ideas that should be noted are:\nPhotosynthesis is how plant cells produce fuel.\nCellular respiration is how those cells use that fuel for energy to do things.\nCellular respiration happens inside specialized structures found within plant and animal cells, called mitochondria.\nPlants typically store their extra food as starches, though in some cases, like in their seeds, they store some of it as fats too.\nWhen needed for energy, plants can tap their stored food reserves by converting them back into sugar that reacts with oxygen in cellular respiration. Plants can also use those stored food molecules for building blocks to grow.",
+      "whatToDo": "What to do: If students didn’t note this information from the reading, it may be a good idea to spend more time doing another pass with the close reading strategies including giving pairs of students time to discuss the reading.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L11-AO2.html"
+      }
+    },
+    {
+      "id": "74-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: Student predictions demonstrate whether they…",
+      "shortTitle": "Look for: Student predictions demonstrate whether they…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Plan and carry out an investigation collecting data of relative concentration of carbon dioxide changes over time in different closed systems to answer the question, Why don’t plants die when they can’t do photosynthesis?",
+      "lookListenFor": "What to look/listen for:\nStudent predictions demonstrate whether they believe plants are doing cellular respiration and understand what should be happening in each bag.\nStudents can properly identify that BTB will change from a dark blue-green color to a yellow-brown color in the presence of CO2, and that color change is dependent on the amount of CO2 present.\nThe bag with exhaled air (bag B) should show a change because it contains carbon dioxide, and bag A should show little to no change.\nStudents can collect descriptive and accurate data.",
+      "whatToDo": "What to do: If students don’t remember what color BTB changes to in the presence of CO2, perform a demonstration by exhaling through a straw in the BTB solution.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L11-AO1.html"
+      }
+    },
+    {
+      "id": "74-11-ao-3",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: The maple tree is doing photosynthesis and pr…",
+      "shortTitle": "Look for: The maple tree is doing photosynthesis and pr…",
+      "peCode": "11.C",
+      "buildingTowards": "Building towards: 11.C Construct an explanation by applying scientific ideas and evidence to explain: (1) why a tree that loses leaves in the winter doesn’t die, (2) where it gets its energy during that time, and (3) where it gets the matter to grow new leaves and wood in the spring.",
+      "lookListenFor": "What to look/listen for: Students can identify the following:\nThe maple tree is doing photosynthesis and producing sugars when it has green leaves and sunlight available.\nThe maple tree converts excess sugars and stores them as food molecules.\nIt extracts energy via cellular respiration from stored food molecules when it is unable to produce sugars via photosynthesis. This is how it gets its energy when its leaves fall off.\nThe maple tree is always doing cellular respiration and using sugars to get its energy, but when it has green leaves, it can use sugars from photosynthesis.\nThe maple tree and a maple tree seed use stored food molecules like fats, proteins, and starches by breaking them down and reassembling them into new parts of plant cells (e.g., cellulose) via chemical reactions.\nSince the tree has these food molecules stored, and the tree created a supply of food molecules for the seed, they each can make new cells (matter) even when they can’t make new sugars through photosynthesis.",
+      "whatToDo": "What to do: If students are struggling, ask them to think about the matter inputs and outputs of both photosynthesis and cellular respiration, carbon dioxide, water, sugar/food molecules. Thinking about the composition of food molecules (carbons, hydrogens, and oxygens, mostly) and the maple tree tapping may also help them recognize that trees are storing those molecules for the tree’s benefit (not just so we can eat them!). It may be helpful to pull small groups of struggling students together and have them revisit their Progress Trackers together (specifically the rows for Lessons 9-11). If students still struggle with completing the assessment, it may be beneficial to allow students to redo Maple Tree through the Seasons Explanation after having some individual support from the teacher. This can help them refine their understanding of the key ideas from this lesson before they get to activities in the next two lessons, where they will need to put together bigger parts of the puzzle to explain where all our food comes from and where it goes to.\nAdditional Lesson 11 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.RST.6-8.2 Determine the central ideas or conclusions of a text; provide an accurate summary of the text distinct from prior knowledge or opinions.\nStudents are provided with a set of close reading strategies to accompany Reading: How do plant (and animal) cells use food?, which will assist as they gather information from a complex scientific text. These close reading strategies recommend that students summarize the text and tease out any questions they have that relate to their prior knowledge.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L11-AO3.html"
+      }
+    },
+    {
+      "id": "74-12-ao-3",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should argu…",
+      "shortTitle": "Look for: What to look/listen for: Students should argu…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.2 Obtain information from text and a video to determine that the processed foods we eat contain matter (atoms) that came from plants; use this information to communicate and synthesize related information presented to peers.",
+      "lookListenFor": "What to look/listen for: Students should argue that even when we eat food that comes from animals, we can trace these foods back to plants because the diet of animals comes from plants.",
+      "whatToDo": "What to do: Drawing a diagram or image of a food that comes from an animal and then adding in the plant food that the animal eats, can help students who struggle to see the link to plants as a food source even when we are eating food from an animal.\nCompare and discuss chicken and cow diets. Project slide Q. Have pairs share with the other two members of their group and compare chicken and cow diets.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L12-AO3.html"
+      }
+    },
+    {
+      "id": "74-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should clea…",
+      "shortTitle": "Look for: What to look/listen for: Students should clea…",
+      "peCode": "12.B",
+      "buildingTowards": "Building towards: 12.B Engage in argument from evidence (readings about where different sweeteners come from) that all the food we eat contains matter that ultimately came from plants.",
+      "lookListenFor": "What to look/listen for: Students should clearly communicate their argument with their small group about whether their sweetener is a natural or synthetic food. Then they should include the evidence from the article that supports this argument and why they have identified their sweetener as natural or synthetic.\nSmall groups will orally be communicating with the class their argument as to whether the sweetener they read about is a natural or synthetic food. This argument should be stated as a claim and then they need to support it with evidence from their article. As they share, this can serve as an assessment piece for their ability to state an argument as a claim and whether the evidence shared supports their argument.",
+      "whatToDo": "What to do: If students struggle to include evidence from the article they read, then suggest they re-read the article to find evidence to support their claim about the type of food the sweetener is. If students argue their sweetener is both natural and synthetic, suggest they re-read their article and come to one conclusion based on evidence from the article.\nCome to consensus about natural vs. synthetic foods. Once each group has had a chance to share, come to a consensus about what makes a food a natural food vs. a synthetic food.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L12-AO2.html"
+      }
+    },
+    {
+      "id": "74-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: The answers to the f…",
+      "shortTitle": "Look for: What to look/listen for: The answers to the f…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.1 Obtain information from text and a video to determine that the processed foods we eat contain matter (atoms) that came from plants; use this information to communicate and synthesize related information presented to peers.",
+      "lookListenFor": "What to look/listen for: The answers to the four questions students are answering as they read the article about the different sweeteners can serve as an assessment. Students should include data and evidence to support their claim as to whether the sweetener they read about is a natural food or synthetic food. Their notebook can be collected or spot checked as students work.\nStudents should include evidence from the article to support a claim as to whether the sweetener is natural or synthetic.  Students should identify natural sweeteners as ones that are made by plants or animals and eaten in their original form. They should identify synthetic sweeteners as those created through chemical processing, where the molecules of the natural food change through a chemical reaction to form a new molecule (e.g. sucralose aka Splenda). Students should realize that some sweeteners have undergone physical processing where the food molecule is still the same but the form of the food is different (e.g. sugar).",
+      "whatToDo": "What to do: If students are struggling to decipher between natural and synthetic foods in order to make a claim about the sweetener they read about, encourage them to think about whether the sweetener molecules have been changed in any way after being taken from the plant. They may need to re-read their article to find evidence for this.\nHOME LEARNING OPPORTUNITY\nNow that students have spent some time thinking about what the difference is between natural and synthetic foods, they will read about the difference from a scientific standpoint. This is an opportune time to add in this reading because it will serve to help students solidify their conceptual understanding of the difference between natural and synthetic foods.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.4 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L12-AO1.html"
+      }
+    },
+    {
+      "id": "74-13-ao-3",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students communicati…",
+      "shortTitle": "Look for: What to look/listen for: Students communicati…",
+      "peCode": "13.B",
+      "buildingTowards": "Building towards: 13.B.1 Communicate information to demonstrate how matter and energy is transferred between producers, consumers, and decomposers.",
+      "lookListenFor": "What to look/listen for: Students communicating about where the organism they researched gets energy and matter.",
+      "whatToDo": "What to do: If students struggle to identify the source of energy and matter for their organism, refer them back to the images and text on their fact sheets and have them use the communicating information checklist (of the same organism) they developed with their partner on Obtaining and Communicating Information from Scientific Text Checklist.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L13-AO3.html"
+      }
+    },
+    {
+      "id": "74-13-ao-2",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should desc…",
+      "shortTitle": "Look for: What to look/listen for: Students should desc…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A.2 Integrate scientific information about the inputs and outputs of decomposers.",
+      "lookListenFor": "What to look/listen for: Students should describe that carbon dioxide and water are increasing and oxygen is decreasing, which is similar to data for plants in the dark and animals. Students should say that bread mold is doing cellular respiration because the inputs are food and oxygen and the outputs are carbon dioxide and water, like we saw with animals or plants, specifically, in the dark.",
+      "whatToDo": "What to do: If students struggle to connect what they have previously figured out about the inputs and outputs of cellular respiration and photosynthesis, ask them to reexamine the class consensus model or the incremental model in their notebook and tell you the inputs and outputs they notice for plants and animals.\nThis is a great opportunity to pick a student to trace an equity map of the discussion, following each student who speaks with a line on the equity map to the next person. Make sure to have the chosen student start by writing the names of each student around the circle so they are ready to start mapping as soon as the discussion begins.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L13-AO2.html"
+      }
+    },
+    {
+      "id": "74-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should noti…",
+      "shortTitle": "Look for: What to look/listen for: Students should noti…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A.1 Integrate scientific information about the inputs and outputs of decomposers.",
+      "lookListenFor": "What to look/listen for: Students should notice that the bread mold growth is similar in the light and the dark. Students should describe that carbon dioxide and water are increasing and oxygen is decreasing.",
+      "whatToDo": "What to do:\nIf students struggle to integrate information from the bread mold images and graphs into what they have already figured out about systems, ask them about similar investigations from Lessons 4, 10, and 11 where they examined data for other systems.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L13-AO1.html"
+      }
+    },
+    {
+      "id": "74-13-ao-4",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should shar…",
+      "shortTitle": "Look for: What to look/listen for: Students should shar…",
+      "peCode": "13.B",
+      "buildingTowards": "Building towards: 13.B.2 Communicate information to demonstrate how matter and energy is transferred between producers, consumers, and decomposers.",
+      "lookListenFor": "What to look/listen for: Students should share that decomposers play an important role in recycling matter and transferring energy in the system because of their input of dead plants and animals.",
+      "whatToDo": "What to do: If students struggle to describe that without decomposers the energy and matter within the system would be stuck in massive piles of dead plants and animals, ask them what would happen if there were no decomposers or specifically ask them where decomposers get their inputs.\nOn the next page is one possible representation of the co-constructed model:",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L13-AO4.html"
+      }
+    },
+    {
+      "id": "74-14-7-4-lesson-14-handout-self-assessment",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "7.4 Lesson 14 Handout Self-Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 14 — 7.4 Lesson 14 Handout Self-Assessment.",
+      "files": {
+        "studentHandout": "lesson_14/original/7.4 Lesson 14 Handout Self-Assessment.docx",
+        "teacherGuide": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/7.4 Lesson 14 Answer Key Key Lesson 14.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfEwxODydvwpzXRpWi0KSr2V-G7i5W6T-TGZ22VwPAp0MrLNA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-14-historia-de-un",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Historia de un",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 14 — Historia de un.",
+      "files": {
+        "studentHandout": "lesson_14/original/7.4 Lesson 14 Assessment Historia de un.docx",
+        "teacherGuide": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/7.4 Lesson 14 Answer Key Key Lesson 14.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScLqOENTOfcfkCzIrohgr0606UuqDdZ4kw1cKkxbYrtwwTxpA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-14-story-of-a",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Story of a",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 14 — Story of a.",
+      "files": {
+        "studentHandout": "lesson_14/original/7.4 Lesson 14 Assessment Story of a.docx",
+        "teacherGuide": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/7.4 Lesson 14 Answer Key Key Lesson 14.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSd6v6wxNyigpCysIlkGRRczq5MuHLz8O18e1wYSV4xirV5wQg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Refer to Key: Lesson 14 Gotta-Ha…",
+      "shortTitle": "Look for: /listen for: Refer to Key: Lesson 14 Gotta-Ha…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A.2 Revise a model to describe how matter cycles through a system of humans, animals, plants, and decomposers as they use food for energy.",
+      "lookListenFor": "What to look for/listen for: Refer to Key: Lesson 14 Gotta-Have-It Checklist for detailed guidance.",
+      "whatToDo": "What to do: Refer to Key: Lesson 14 Gotta-Have-It Checklist for detailed guidance.\nRemind students of classroom norms, as necessary. Emphasize the importance of having a safe space where students can share their ideas and push one another’s thinking.\nFacilitate a discussion to share ideas about what to include in the Gotta-Have-It Checklist. Spend up to 15 minutes to allow students to share what they included on their checklists. Do not let this discussion take too long or it will take away from students’ time to tell the story of food in the next activity section. Ask students to briefly mention an idea they included on the checklist and why it’s important. As you build the checklist as a class, have students add anything they are missing to their individual copy of Lesson 14 Gotta-Have-It Checklist, so they can use it on Story of a Food Atom. If time permits, you can also ask which ideas they did not include and why those ideas are less important. The example student responses below are not a comprehensive list of all the ideas. See Key: Lesson 14 Gotta-Have-It Checklist for an example.✱",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L14-AO2.html"
+      }
+    },
+    {
+      "id": "74-14-ao-4",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students should",
+      "shortTitle": "Look for: /listen for: Students should",
+      "peCode": "14.B",
+      "buildingTowards": "Building towards: 14.B.2 Construct an explanation to describe the cycling of atoms (matter) into and out of organisms within a system, then and respectfully provide and receive feedback on respective explanations with a partner.",
+      "lookListenFor": "What to look for/listen for: Students should\nprovide substantive and respectful feedback using sticky notes on classmates’ [MC.L14.SA],\nuse their peer feedback to revise their models, and\nreflect on the feedback they received on Self-Assessment",
+      "whatToDo": "What to do: Help students reflect on their progress in giving and receiving feedback to help build their skills in this important area.\nSay, We’ve figured out so much! Next time, we will revisit our Driving Question Board (DQB) and see what questions we can now answer.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L14-AO4.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "74-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: The atoms that make up carbon dioxide enter t…",
+      "shortTitle": "Look for: The atoms that make up carbon dioxide enter t…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A.1 Revise a model to describe how matter cycles through a system of humans, animals, plants, and decomposers as they use food for energy.",
+      "lookListenFor": "What to look/listen for: Students should bring up the ideas that:\nThe atoms that make up carbon dioxide enter the plant and then leave as food molecules and oxygen.\nThe food molecules can be used by the plant for cellular respiration and then water and carbon dioxide are produced.\nThe atoms that make up water enter the plant and then leave as food molecules and oxygen.",
+      "whatToDo": "What to do: If students struggle to follow the flow of energy or cycling of matter, ask them to trace the carbons that enter the plant all the way from exiting the plant as food and then on a path through other components in the system using the arrows to get back to the plant.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L14-AO1.html"
+      }
+    },
+    {
+      "id": "74-14-ao-3",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Refer to Key: Story…",
+      "shortTitle": "Look for: What to look/listen for: Refer to Key: Story…",
+      "peCode": "14.B",
+      "buildingTowards": "Building towards: 14.B.1 Construct an explanation to describe the cycling of atoms (matter) into and out of organisms within a system, then and respectfully provide and receive feedback on respective explanations with a partner.",
+      "lookListenFor": "What to look/listen for: Refer to Key: Story of a Food Atom",
+      "whatToDo": "What to do:  If students struggle with where to start when using a breakfast food that could be made from multiple ingredients, encourage them to look back at the nutrition labels from Nutrition Labels: What is in food? or the food labels analyzed in Lesson 12 and choose just one ingredient. They may also need a reminder of what food molecules are in these ingredients from Food Molecule Cards and then they can one choose one atom to follow in their story.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L14-AO3.html"
+      }
+    },
+    {
+      "id": "74-15-whale-fall-task",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "title": "Whale Fall Task",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 15 — Whale Fall Task.",
+      "files": {
+        "studentHandout": "lesson_15/original/7.4 Lesson 15 Assessment Whale Fall Task.docx",
+        "teacherGuide": "lesson_15/original/7.4 Lesson 15 Teacher Edition.docx",
+        "answerKey": "lesson_15/original/7.4 Lesson 15 Answer Key Key Whale Fall.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeDsMQh0Y61s9QBXRx1YCDsly7HsoJg6Q4B7giNwKKVyInEVQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "74-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See Key: Whale Fall…",
+      "shortTitle": "Look for: What to look/listen for: See Key: Whale Fall…",
+      "peCode": "15.C",
+      "buildingTowards": "Building towards: 15.C Obtain information from multiple sources to describe that synthetic materials come from the matter and energy in natural resources and impact society.",
+      "lookListenFor": "What to look/listen for: See Key: Whale Fall Task (End of Unit Assessment) for sample student responses.",
+      "whatToDo": "What to do: If students struggle to obtain information from the infographic and text about where the matter came from to make these synthetic materials, remind them to mark up the text by circling key words and underlining main ideas.\nUniversal Design for Learning: This assessment encourages students to demonstrate their understanding of key skills and concepts from the unit so far through multiple different modalities, including writing to explain and drawing models. Some students may benefit from using multiple modalities to show their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you or another student acting as a scribe to record their thinking on paper. Other students may benefit from using gestures rather than images to describe parts of their models. Some students might also benefit from using manipulatives to represent parts of the model and to support a written or verbal explanation of what’s happening in each part of the model. In each case, encouraging students to use multiple representations to show their thinking creates a clear, accessible, equitable pathway for all students to demonstrate proficiency.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS1-5",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.4 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/7.4 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-4/L15-AO1.html"
+      }
+    }
+  ]
+}

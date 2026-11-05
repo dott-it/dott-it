@@ -1,0 +1,1108 @@
+{
+  "unitId": "8.3",
+  "unitTitle": "Forces at a Distance",
+  "description": "Students explore magnetic and gravitational forces and their effects. They investigate how forces can act at a distance and model these interactions.",
+  "lessonCount": 12,
+  "suggestedPacingDays": 30,
+  "unitOverviewPath": "unit_materials/original/8.3 Forces at a Distance Unit Overview Materials.docx",
+  "ingestedFrom": "drive-index reingest (formals) + prior TE extract",
+  "ingestedAt": "2026-08-17T14:48:45.437Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "What causes a speaker to vibrate",
+      "title": "What causes a speaker to vibrate?",
+      "teacherEditionPath": "lesson_1/original/8.3 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What can a magnet pull or push without touching",
+      "title": "What can a magnet pull or push without touching?",
+      "teacherEditionPath": "lesson_2/original/8.3 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "How does energy transfer between things that are not touching",
+      "title": "How does energy transfer between things that are not touching?",
+      "teacherEditionPath": "lesson_3/original/8.3 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "What can we figure out about the invisible space around a magnet",
+      "title": "What can we figure out about the invisible space around a magnet?",
+      "teacherEditionPath": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How does the magnetic field change when we add another magnet to the system",
+      "title": "How does the magnetic field change when we add another magnet to the system?",
+      "teacherEditionPath": "lesson_5/original/8.3 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How can we use magnetic fields to explain interactions at a distance between the magnet and the coil",
+      "title": "How can we use magnetic fields to explain interactions at a distance between the magnet and the coil?",
+      "teacherEditionPath": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "How does changing the distance between two magnets affect the amount of energy transferred out of the field",
+      "title": "How does changing the distance between two magnets affect the amount of energy transferred out of the field?",
+      "teacherEditionPath": "lesson_7/original/8.3 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "How does the energy transferred from a battery to a wire coil compare to the energy transferred from a computer to a speaker",
+      "title": "How does the energy transferred from a battery to a wire coil compare to the energy transferred from a computer to a speaker?",
+      "teacherEditionPath": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "How do the magnet and the electromagnet work together to move the speaker",
+      "title": "How do the magnet and the electromagnet work together to move the speaker?",
+      "teacherEditionPath": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "How does distance affect the strength of force pairs in a magnetic field",
+      "title": "How does distance affect the strength of force pairs in a magnetic field?",
+      "teacherEditionPath": "lesson_10/original/8.3 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "What else determines the strength of the force pairs between two magnets in a magnetic field",
+      "title": "What else determines the strength of the force pairs between two magnets in a magnetic field?",
+      "teacherEditionPath": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "What cause-effect relationships explain how magnetic forces at a distance make things work",
+      "title": "What cause-effect relationships explain how magnetic forces at a distance make things work?",
+      "teacherEditionPath": "lesson_12/original/8.3 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "83-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Cause and effect wil…",
+      "shortTitle": "Look for: What to look/listen for: Cause and effect wil…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions about how interactions between parts of a speaker system (magnet and coil of wire) cause sound without those parts touching each other.",
+      "lookListenFor": "What to look/listen for: Cause and effect will serve several purposes throughout this unit to organize student thinking about the DCIs and to scaffold the development of practices. In this lesson, students use cause and effect to think about interactions between the parts of the system in order to scaffold the practice of asking questions. Look for the kinds of questions students are asking. Are they all about cause? Are they all about effect? Are any about the how or why of a cause-and-effect relationship?",
+      "whatToDo": "What to do: Point out to students if the balance is off and give them some time to try to fill in the gaps. If students are still having trouble translating the cause-effect framework into questions for the DQB, consider spending some time with more familiar systems, for example, dropping a pencil. Ask students to rewrite the question frames on the slide for this example:\nWhat is the effect I will observe when I let go of the pencil?\nWhat is the change we would need to make to get the pencil to fall?\nDoes letting go of the pencil cause it to fall?\nHow or why does letting go of the pencil cause it to fall?\nThen ask students to write a cause-effect sentence for this system.\nWhen I let go of the pencil, I will observe it falling down because I am not holding it anymore, so I am not stopping gravity from pulling it down.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/8.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L01-AO2.html"
+      }
+    },
+    {
+      "id": "83-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for agreement o…",
+      "shortTitle": "Look for: What to look/listen for: Look for agreement o…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop an initial model to describe how interactions between parts of a speaker system (magnet and coil of wire) cause sound without those parts touching each other.",
+      "lookListenFor": "What to look/listen for: Look for agreement on the important parts of the system (magnet, coil, speaker cone). Some students should be trying to model interactions, not just drawing the speaker parts. Make note of the students who are representing interactions between parts, and bring attention to their representations as the class builds their initial models.",
+      "whatToDo": "What to do: If students are struggling to come to agreement on the important parts of the system (magnet, coil, speaker cone), spend time at the beginning of class on day 3 coming to consensus on the important parts of the system before considering interactions. Pick something that everyone in the class agrees is a system, for example, the solar system. Create a three-column chart with these column headings: “Important parts”, “Not important parts”, and “Not sure parts”. Have students work together to decide the important parts of the system. Draw a sketch using these parts and the not sure parts but excluding the not important parts. The goal is for students to get more comfortable with figuring out which parts of the system need to be included in the model versus which parts are irrelevant.\nIf most students are not modeling interactions, make note and push students to think more about the interactions (i.e., forces, energy, pushing, pulling) among the parts as the class develops a consensus model on day 3. Are students modeling interactions or only drawing the speaker parts? Push students to think more about the interactions between the parts as the class develops a consensus model on day 3.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/8.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L01-AO1.html"
+      }
+    },
+    {
+      "id": "83-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Listen to determine…",
+      "shortTitle": "Look for: What to look/listen for: Listen to determine…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Collect data to establish that magnets interact with certain objects to cause paired forces that are either attractive (both pulls) or repulsive (both pushes) and that changing the orientation of either of the magnets will cause both forces to reverse direction.",
+      "lookListenFor": "What to look/listen for: Listen to determine whether students are thinking about both pushes and pulls (repulsive and attractive forces) between the magnet and the coil of wire. Probe student thinking to make sure that students are associating repulsive forces with pushes, where the arrows point outward in the diagram, and attractive forces with pulls, where the arrows point inward in the diagram.",
+      "whatToDo": "What to do: If students do not make these associations, it is an indication that they are struggling to develop a conceptual model for directionality of forces. Consider using the following kinesthetic activity to reinforce this idea: Have students stand in pairs facing each other. Each pair should choose which student will be the coil connected to the battery and which student will be the magnet. Ask students to hold their arms out parallel to the floor and imagine what would happen if they pulled on each other (if you feel comfortable asking your students to gently pull on each other, do so). Did they move toward each other or away? Is that attraction or repulsion? Do the same exercise for students pushing on each other. Finish by discussing with students 1) how this model works well as an analogy to the wire and magnet system (pushes and pulls bringing things apart and together) and 2) how the model falls short (contact forces versus forces at a distance).\nSay, We’ve developed a couple of really important ideas today. Let’s keep track of these ideas in the Progress Tracker in our notebooks. Display slide P. Students will have already recorded the lesson question on the left side of the table. They should record their new ideas on the right side of the table, under their ideas from yesterday. Remind them that they can use any combination of words and pictures to record their ideas. If there is time, ask 2-3 students to share some of the important ideas that they decided to record. Highlight student ideas that align with the key ideas developed in the Building Understandings Discussion:\nThere are forces between the magnet and the coil only when the coil is connected to the battery.\nJust like in a two-magnet system, we get both pushes and pulls (repulsive and attractive forces) between the magnet and the coil.\nJust like in a two-magnet system, we can get the coil of wire and the magnet to switch the type of force they are producing (attractive vs. repulsive) if we flip the orientation of either one of them.\nWhen the coil of wire or the magnet move, they have kinetic energy.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.3 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L02-AO1.html"
+      }
+    },
+    {
+      "id": "83-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Use this exit ticket…",
+      "shortTitle": "Look for: What to look/listen for: Use this exit ticket…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Collect data to answer questions about the coil of wire and provide evidence to support the claim that connecting the coil of wire to a battery causes the same paired forces between the coil and a magnet as between two magnets.",
+      "lookListenFor": "What to look/listen for: Use this exit ticket to determine if students are understanding (1) that the coil of wire exhibits the properties of a magnet only when attached to a battery and (2) how to use cause-effect relationships to justify a claim. Do not worry about whether students respond yes or no but rather how they justify their claim. Students who need more support might have answers that make a claim but either do not justify that claim or do not use both clauses from the cause-effect framework to justify the claim.\nDo not worry about whether students respond “yes” or “no” but rather how they justify their claim. Look for responses that integrate both of these understandings, such as the following:\nYes, because when we connect the coil of wire to the battery, then we observe that it acts like a magnet.\nYes, because when we connect the coil of wire to the battery, then we observe that it pulls and pushes on the magnet (or gets pushed and pulled by the magnet).\nNo, because when we put a magnet near the coil of wire (without the battery), then we observe that there are no forces.\nSometimes/maybe, because when we put a magnet near the coil of wire (without the battery), then we observe no forces, but when we connect the coil of wire to the battery, then we observe forces.\nStudents who need more support might have answers that make a claim but either do not justify that claim or do not use both clauses from the cause-effect framework to justify the claim, such as these examples:\nYes/No/Maybe. (claim only)\nNo, because it doesn’t act like a magnet. (claim + effect only)\nYes, because there are forces on it. (claim + effect only)\nNot unless we connect it to the battery. (claim + cause only)",
+      "whatToDo": "What to do: If necessary, spend some time at the beginning of the next lesson reinforcing the cause-effect structure before moving on to hypothesis building. Remind students that we can use the “when we_____, we observe______” sentence structure to talk about our observations when we change something, or we can add the word will (“we will observe”) to make predictions about what we think will happen when we change something.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.3 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L02-AO2.html"
+      }
+    },
+    {
+      "id": "83-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: If the energy moves through the air, then we…",
+      "shortTitle": "Look for: If the energy moves through the air, then we…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Develop and test a set of hypotheses to produce evidence that energy can transfer between magnets without transferring through matter, causing the magnets to move.",
+      "lookListenFor": "What to look/listen for: Students may not yet be using the word hypothesis, but this is what they are building in Framing Hypotheses. Look for students who are mixing up what goes in each of the columns, such as these examples:\nIf the energy moves through the air, then we will observe the air moving.\nIf I see the air moving, then we will observe the flag wave.\nIf I see the flag waving, then we will observe that the energy moves through the air…",
+      "whatToDo": "What to do: These are logical ways to state a hypothesis, but they do not fit the structure of the scaffold as the class has been using it. In addition, use if/then statements to describe the cause-effect relationship, rather than the mechanistic explanation indicated by the cause-effect statement could set students up for difficulty understanding the distinction between a hypothesis and a prediction (see the Lesson 1 teacher reference, Using Cause-Effect Scaffolds to Support Science and Engineering Practices). Use probing questions to clarify the purpose of the scaffold. Ask these students, Is this a change you can actually make to the system? If not, does it belong in this column? Is this an effect that we can actually observe or an effect that is maybe invisible?\nDisplay slide E. Have students turn to a new page in their notebooks and write the question on the slide: What cause-effect relationship(s) do we predict we will observe if this explanation is true? Under the question, they should paste Framing Hypotheses. Give students another five minutes to work with a partner to come up with two cause-effect statements before moving everyone into a Scientists Circle.✱\nSupporting emergent multilinguals: It can be very helpful for all students, and particularly emergent multilinguals, to break down compound words like electromagnet. Ask students to reason about the first part of the word by asking, What does “electro” sound like? What other words have you heard that sound like that? Students will probably say \"electricity.\" Encourage students to consider and suggest cognate words in other languages as well, such as electricidad (Spanish), électricité (French), elektrichestvo (Russian transliteration), or Elektrizität (German). Then summarize the idea of putting both words together, \"electricity\" and \"magnet\", to make a single compound word that indicates that this is a different kind of magnet than a permanent magnet in that it needs electricity in order to become a magnet (cause and effect).",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L03-AO1.html"
+      }
+    },
+    {
+      "id": "83-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: make a claim about how air is not involved in…",
+      "shortTitle": "Look for: make a claim about how air is not involved in…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Construct an argument supported by empirical evidence and scientific reasoning that energy can transfer between magnets without going through matter, causing the magnets to move.",
+      "lookListenFor": "What to look/listen for: Look for students to do the following:\nmake a claim about how air is not involved in energy transfer\nprovide evidence from either or both demonstrations\nconnect the evidence to the claim explicitly by explaining why it supports or does not support the hypothesis that air is involved in energy transfer",
+      "whatToDo": "What to do: Make note of students who are struggling to connect their claim to the evidence from the demonstrations. Come back to this at the start of the next lesson and ask students to work in pairs to critique each other’s arguments and then revise their own. If there is time, consider having students work in groups of three to develop a consensus argument and share it in a gallery walk, allowing students to leave their critiques as sticky notes on the chart paper. Pair students strategically, putting students with strong explanations together with students who need more support.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L03-AO2.html"
+      }
+    },
+    {
+      "id": "83-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: In this exit ticket,…",
+      "shortTitle": "Look for: What to look/listen for: In this exit ticket,…",
+      "peCode": null,
+      "buildingTowards": "Building towards:",
+      "lookListenFor": "What to look/listen for: In this exit ticket, students will apply what they know about forces in a magnetic field that cause compass needles to respond in a predictable way to predict the effect of the magnetic fields on a compass needle placed in between two magnets. Do not expect student representations to be accurate. Review these exit tickets for the modeling conventions that the class has been using in this lesson for the patterns we see in magnetic fields, including (1) using pointers to indicate the field; (2) illustrating the space around the entire magnet (or magnets), not just on one side; and (3) pointers coming out of the north pole and into the south pole. Look for students describing the cause-and-effect relationship as they explain or model what happens to the field when two magnets are brought close to each other.",
+      "whatToDo": "What to do: Remind students of these conventions before launching into the activity of the next lesson. Have students use their models from previous lessons as a guide for them to sketch their predictions. Have them picture their sketches of two magnetic fields if they were side by side.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L04-AO3.html"
+      }
+    },
+    {
+      "id": "83-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for questions t…",
+      "shortTitle": "Look for: What to look/listen for: Look for questions t…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Ask questions about the cause and effect relationships that produce the patterns we observed (and will observe) in the direction or size of forces in a magnetic field around a permanent magnet as it interacts with another object(s) near it.",
+      "lookListenFor": "What to look/listen for: Look for questions that stem from the observations they have made about magnetic fields with iron filings. Some questions should arise about the direction of the forces to motivate the need to try compasses. Look for questions that are within the scope of the classroom and can be tested in the classroom. Questions that will provide evidence to answer the students’ questions are particularly useful.",
+      "whatToDo": "What to do: This is an opportunity to assess students’ ability to ask questions that are testable in the classroom.  If students struggle with this task, offer them more examples and nonexamples as a means for them to compare the questions. Follow by asking them to offer their own examples and then analyze those questions with the students using criteria such as considering if\nthe answer to the question will help us figure out an important part of our model or help us to explain the phenomenon better,\nthe answer to the question is one which we can test in the classroom with the available equipment and time (follow with asking students for a summary of how we would conduct the test), and\nthe question leads to gathering new evidence that will help us figure out more about our phenomenon.\nGive each group time to share the question(s) they want to add to the Driving Question Board.\nAs students share, place their questions on the DQB and categorize them in anticipation of the remainder of this lesson. A likely category will be related to direction (e.g., questions about pushes versus pulls, the direction of the force at different locations in the field, or how the field “felt” different at the ends of a magnet). This is the category of questions important to identify. Work with students and get their input on the categorization and labeling of this category. If students don’t pose questions in this category, prompt them by asking questions such as, What do you wonder about the two ends of the magnet? Did you see any differences with the iron filings? What else could we use?\nAnother likely category would be questions related to magnitude or strength (e.g., questions regarding patterns observed in the filings at the end of the magnets, observations of varying force strengths closer and further from the magnet, making the field stronger or weaker). It is OK if your students do not have questions in this category, but if they do, work with them to identify this as a category. There may be other questions that do not neatly fit into one of these two categories, which is OK. You can make an “Other” category.\nFocus on directionality or using a magnet as a test object. In the last 2 minutes of class, focus students on the direction of magnetic forces. Encourage students to think about what they could use from the assortment of test objects familiar to them from Lesson 2 to identify the direction of forces that are exerted on objects in a field.\nSuggested prompt\nSample student response\nDoes what we learned from our investigation help us figure out why the field around a magnet feels different depending on which end of the magnet you bring near another magnet?\nNot really.\nWe just know what a field looks like and what it is called. We don’t know how it works to cause different kinds of forces.\nLet’s look at all our test objects. What object could we use that will respond to a magnet that can also tell us something about what direction the forces might be acting in the field?\nA compass!",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L04-AO1.html"
+      }
+    },
+    {
+      "id": "83-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Student responses in…",
+      "shortTitle": "Look for: What to look/listen for: Student responses in…",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B Use diagrams and simulations to model the patterns we observe in the forces experienced by test objects placed near a magnet or a coil of wire connected to a battery (magnetic fields).",
+      "lookListenFor": "What to look/listen for: Student responses in their notebooks are an opportunity to formatively assess students on their ability to recognize patterns in their data and describe the patterns of the compass needles. Students should use these patterns to describe the direction of the forces in the magnetic field. They use the same ability to describe the shape of the magnetic field around a magnet. Students should describe the direction as pointing out of the north pole of the magnet and into or toward the south pole of the magnet. They should describe the shape as extending all around the magnet in three-dimensional space.",
+      "whatToDo": "What to do: If students are struggling to use the patterns to describe the shape of the field and the direction of the forces, work with these students using compasses and a magnet. Have students picture the compass needles as arrows and help them understand that the arrows point in the direction of the force. To reinforce this, have students hold the north end of a small magnet at each end of their bar magnet and note the direction that the small magnet moves in relation to the bar magnet. The north end of the small magnet should be pushed away from the north end of the bar magnet and pulled toward the south end of the bar magnet. This is the direction of the forces that are in the magnetic field.\nIf students fail to recognize that the field exists in three-dimensional space, sprinkle iron filings in the clear tray that is on top of a magnet. Have the students look at the magnet at eye level so that they can see the iron filings sticking up vertically off the plastic tray. Ask the students what they think that means. Follow up with a video or image from the internet of the three-dimensional space around a magnet.\nHave students share their responses with the whole class. Use a dialogue like that shown below to elicit student ideas.\nSuggested prompts\nSample student responses\nFollow-up questions\nHow do the directions of the forces in the field around a magnet change?\nThey change direction at different locations.\nHow did they change?\nHow does the direction the compass needle points help you determine whether the forces in the field have changed direction?\nHow would you describe the shape of the magnetic field around the magnet?\nThe field points away from the north pole of the magnet on that side of the field and toward the south pole on the other side of the field. And it curves or bends away and around the sides of the magnet, following a loop.\nWhat evidence did you see that the forces in the field were going one way near the poles but a different way along the sides of the magnet?\nSupporting emergent multilinguals: The time you allow students to think about these questions on their own will give them the opportunity to organize their thoughts. This is especially important for emergent multilingual students. They will have time to plan their responses individually before being asked to share their ideas with the class. This will help support greater participation from these students.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/8.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L04-AO2.html"
+      }
+    },
+    {
+      "id": "83-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: When we bring the magnets close together when…",
+      "shortTitle": "Look for: When we bring the magnets close together when…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Use a computer interactive to model the effect on the patterns in the magnetic field when we add an electromagnet to the single magnet system.",
+      "lookListenFor": "What to look/listen for: An ideal response might look like this:\nWhen we bring the magnets close together when the forces are attractive, then we will observe them move toward each other and stick together.\nWhen we bring the magnets close together when the forces are repulsive, then we will observe them wanting to push away from each other and when we let go they will fly apart.\nThe prediction itself is useful as a tool for motivating the activity in the next lesson. But the most important thing to assess is not the content of the prediction but the students’ comfort with using the cause-effect sentence starters to formulate their predictions based on their models.",
+      "whatToDo": "What to do: If students are still struggling to apply this structure to their predictions correctly without a more explicit scaffold, consider returning to the Lesson 1 slides introducing the use of the fill-in-the-blank scaffold to describe cause-and-effect relationships. Insert these slides at the beginning of Lesson 6 and use a familiar system (e.g., a falling cell phone) to practice making predictions. You might also consider using a video of a Rube Goldberg machine to practice describing cause and effect.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/8.3 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L05-AO1.html"
+      }
+    },
+    {
+      "id": "83-6-figuring-out-the-speaker",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Figuring out the speaker",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 06 — Figuring out the speaker.",
+      "files": {
+        "studentHandout": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Assessment Figuring out the.docx",
+        "teacherGuide": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": "Lesson 6 - 8.3 Forces at a Distance/8.3 Lesson 6 Answer Key Midpoint Assessment Figuring.docx",
+        "googleForm": "https://docs.google.com/forms/d/1nqt9SEERdnHeyd0ZywmHAKQ4JeQbPBTnrmvKaM0lhvI/viewform",
+        "googleFormTeacherReady": null,
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "83-6-ao-3"
+    },
+    {
+      "id": "83-6-ao-4",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "✱",
+      "shortTitle": "✱",
+      "peCode": null,
+      "buildingTowards": "Building towards:✱",
+      "lookListenFor": "",
+      "whatToDo": "What to do: see Midpoint Assessment: Figuring out the doorbell for more guidance. Look for patterns in ideas that students included in their responses, and those ideas that are missing or incomplete. Use this information to revisit ideas using the class consensus model or through answering questions on the DQB related to those items on the assessment.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L06-AO4.html"
+      }
+    },
+    {
+      "id": "83-6-ao-3",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: Magnetic force pairs between two magnetic obj…",
+      "shortTitle": "Look for: Magnetic force pairs between two magnetic obj…",
+      "peCode": null,
+      "buildingTowards": "Building towards:✱",
+      "lookListenFor": "What to look/listen for: Midpoint Assessment: Figuring out the doorbell provides a scoring guide specific to this assessment. This midpoint assessment is important formatively to make sure the class is on the same page and ready to move forward in the unit. At this point, students should be comfortable with the following claims:\nMagnetic force pairs between two magnetic objects can be attractive (pair of pulls) or repulsive (pair of pushes).\nA magnet has an invisible field around it that describes the way a test object (like a magnet or a piece of iron) would act if it were brought close to the magnet.\nA coil of wire acts like a magnet when it is connected to a battery (or a music player), including having an invisible magnetic field.\nStudents should also feel comfortable using the language of cause and effect to frame hypotheses.",
+      "whatToDo": "6.A Develop an initial model to describe how forces and energy transfer in magnetic fields explain cause and effect relationships between parts of a speaker system (magnet and coil of wire).\n6.B Ask questions about how interactions between parts of a speaker system (magnet and coil of wire) cause sound without those parts touching each other.\nWhat to do: see Midpoint Assessment: Figuring out the doorbell for more guidance. Look for patterns in ideas that students included in their responses, and those ideas that are missing or incomplete. Use this information to revisit ideas using the class consensus model or through answering questions on the DQB related to those items on the assessment.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L06-AO3.html"
+      }
+    },
+    {
+      "id": "83-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for at least a…",
+      "shortTitle": "Look for: What to look/listen for: Look for at least a…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Develop an initial model to describe how forces and energy transfer in magnetic fields explain cause and effect relationships between parts of a speaker system (magnet and coil of wire).",
+      "lookListenFor": "What to look/listen for: Look for at least a couple of students to point out that (1) we are still not sure where the energy comes from, (2) we are still not sure why the battery or music player makes the coil into a magnet, and (3) we are still not sure why the forces are switching back and forth between pushes and pulls since it doesn’t seem like anything is flipping orientation in the speaker.",
+      "whatToDo": "What to do: Before day 2 of this lesson, review students’ exit tickets. The exit tickets will provide valuable information about the kinds of ideas the students will bring to the consensus model and how much scaffolding you will need to provide in order to reveal gaps in the consensus model and motivate Lessons 7 and 8. Note who is already considering these gaps and be prepared to call on these students to move the discussion forward on day 2. If nobody is noticing these gaps in the model, be prepared to use probing questions on day 2 to clarify students’ explanations and reveal these gaps.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L06-AO1.html"
+      }
+    },
+    {
+      "id": "83-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the key ideas de…",
+      "shortTitle": "Look for: What to look/listen for: See the key ideas de…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Develop an initial model to describe how forces and energy transfer in magnetic fields explain cause and effect relationships between parts of a speaker system (magnet and coil of wire).",
+      "lookListenFor": "What to look/listen for: See the key ideas described above. Pay particular attention to (1) how students layer the magnetic forces on top of the magnetic fields to show the relationship between the two and (2) how they use this relationship to describe force pairs between two objects that can act without contact. In addition, pay attention to the way students talk about energy. Students should be relating energy to forces by talking about how forces cause the object to move by transferring energy to that object.",
+      "whatToDo": "What to do: If students are struggling to relate magnetic fields and forces, use the computer interactive to focus their attention on this relationship. If students are still unclear about the relationship between force and energy transfer, review the ideas the class developed in the Collisions Unit and the Sound Unit to review forces and energy transfer in the context of physical pushes and pulls, which can be more intuitive.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L06-AO2.html"
+      }
+    },
+    {
+      "id": "83-6-ao-5",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: When we bring the magnets close together when…",
+      "shortTitle": "Look for: When we bring the magnets close together when…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Develop an initial model to describe how forces and energy transfer in magnetic fields explain cause and effect relationships between parts of a speaker system (magnet and coil of wire).",
+      "lookListenFor": "What to look/listen for: This exit ticket is designed to assess students’ application of the cause-and-effect sentence starters to make predictions about the interactions between magnets when distance or orientation of the magnets change. An ideal response might look like this:\nWhen we bring the magnets close together when the forces are attractive, then we will observe energy transfer so that they move toward each other and stick together.\nWhen we bring the magnets close together when the forces are repulsive, then we will observe energy transfer so that they fly apart.",
+      "whatToDo": "What to do: The prediction is useful as a tool for motivating the activity in the next lesson. You will refer to some of what you saw in student responses at the launch of the next lesson. Read through a representative sample for this purpose. The most important thing for individual student assessment is not the content of the prediction, but the students’ comfort with using the cause-effect sentence starters to formulate their predictions. If students are still struggling to apply this structure to their predictions without a more-explicit scaffold, return to the Lesson 1 slides introducing the fill-in-the-blank scaffold to describe cause-and-effect relationships. Insert these slides at the beginning of Lesson 7 and use a familiar system (e.g., a falling cell phone) to practice making predictions. You might consider using a video of a Rube Goldberg machine to practice describing cause and effect.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/8.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L06-AO5.html"
+      }
+    },
+    {
+      "id": "83-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: a hypothesis that addresses how changes in th…",
+      "shortTitle": "Look for: a hypothesis that addresses how changes in th…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for:\nLook for the following in students’ notebooks (Hypotheses and Variables and Data Table and Procedure):\na hypothesis that addresses how changes in the distance between two magnets (cause) will result in differences in the amount of energy transferred to the cart (effect) when it is released\ndistance (gap) between the two magnets identified as the independent variable\nspeed of the cart after it is released identified as the dependent variable.\na data table with recorded measurements of distance traveled and travel time from when the cart is released to when it stops moving\na data table organized to record more than one value for the independent variable\na data table organized to record more than one trial for the value of the independent variable tested\ncalculation of average speeds for each trial or averaged speeds across multiple trials for each value of the independent variable tested\nLook for the following in Making Sense of Your Investigation Results:\nIn response to question 1\nchanging the distance between the magnets causes a change in the amount of energy transfer in the field between them.\na statement saying whether this supports or refutes their initial hypothesis\nIn response to question 2\npotential energy was stored in the magnetic field between the two magnets.\nIn response to question 3\na statement saying that the evidence supports the claim\nreasoning that explains that the evidence shows that changing gap distance affects how loud a sound is produced when magnets are released to come back together\nadditional reasoning (optional) that explains that since loudness is based on the amplitude of vibration and bigger-amplitude vibrations require or carry more energy, the change in the distance must have transferred a different amount of energy into the production of the sound",
+      "whatToDo": "What to do:  Leave feedback in the form of noticings and wonderings in the student notebooks, and return these to students at the start of the next lesson. Examples of such feedback include statements like these:\nI noticed you mentioned differences in energy transfer in response to question 1. I am wondering if this supports or refutes your hypothesis and why.\nI noticed you discussed changes in the forces you felt in both systems as you pushed the cart into or toward the launcher. I am wondering which part of the system feels most like a spring. What evidence do you have that this part of the system could be storing potential energy as a spring does?\nAdditional Lesson 7 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.W.8.1 Write arguments to support claims with clear reasons and relevant evidence.\nIn this lesson, students make a written claim about energy transfer between objects in a magnetic field and the magnetic field. They should support claims with logically organized evidence from their investigation. Students will also evaluate the reasonableness of another written claim based on sufficiency and accuracy of the available evidence.\nStudents’ ability to make and justify claims is supported by the procedures of this lesson. Small groups of students develop hypotheses and investigation procedures for testing their hypotheses, including determining how and what type of data to collect. In this way, they are thinking about what kind of evidence and reasoning will support or refute their hypotheses which describe cause-effect relationships.\nIn their ELA classes, students have experience in determining claims, evidence, reasoning, and counterclaims made by authors in reading materials and in organizing written arguments based on their understanding of complex text. They may know how to use an argument template to make a claim followed by supporting evidence and reasoning, counterclaims or rebuttals, and a conclusion.\nIf students are struggling to make or support claims, help them clarify their thinking by asking open-ended questions such as these:\nWhat patterns in data do you notice?\nWhat interactions did you notice?\nWhat do you understand from the data you collected?\nHow do your data support or refute your hypothesis?\nWhat cause-effect relationships are evident?\nHow is all the evidence and reasoning tied together?\nWhy is the claim important?\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.8.F.B.4: Construct a function to model a linear relationship between two quantities. Determine the rate of change and initial value of the function from a description of a relationship or from two (x, y) values, including reading these from a table or from a graph. Interpret the rate of change and initial value of a linear function in terms of the situation it models, and in terms of its graph or a table of values.\nIn this lesson, students will determine the rate of change from tabular data recorded during their investigation. They will calculate and interpret this rate as the speed of a cart moving along a track. As they analyze their calculations, it is important for students to realize that as the initial gap between magnets increases, the resulting speed of the cart decreases.\nA common error in rate (speed in this case) calculation is made when students incorrectly apply an algorithm. It may be helpful to ask them to describe the expected units to help them determine how to correctly set up their problem.\nPerforming calculations by hand with decimal numerals can also lead to errors. Students can use calculators to determine cart speed since this math concept is not important to understanding the scientific principles in this lesson.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/8.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L07-AO2.html"
+      }
+    },
+    {
+      "id": "83-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: Energy transfers from the magnetic field into…",
+      "shortTitle": "Look for: Energy transfers from the magnetic field into…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Plan and carry out an investigation using a cart on a track to determine how changing the distance between two magnets affects the amount of energy transferred from the field between them.",
+      "lookListenFor": "What to look/listen for:\nMaking Sense of Your Investigation Results is fundamental in developing the following student ideas:\nEnergy transfers from the magnetic field into the magnets to make them move.\nEnergy transfers out of the field and into the magnets for both attractive and repulsive forces, even though the direction of the movement is different.",
+      "whatToDo": "What to do: Collect this handout at the end of the lesson and check that students are developing these ideas. If necessary, spend time at the beginning of Lesson 8 or 9 reinforcing these ideas by going through Making Sense of Your Investigation Results together as a class. Leave feedback in the form of noticings and wonderings in the student notebooks for any area of their investigation plan that students did not develop fully.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/8.3 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L07-AO1.html"
+      }
+    },
+    {
+      "id": "83-8-ao-5",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Critically read scientific text to gather evidence to…",
+      "shortTitle": "Critically read scientific text to gather evidence to…",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Critically read scientific text to gather evidence to explain the differences in the electric current produced by the computer (the cause) that results in a changing magnetic field within the speaker system (the effect).",
+      "lookListenFor": "",
+      "whatToDo": "What to do:  A class checklist that you create for yourself can help you assess students’ abilities to meet these scientific practices and crosscutting concepts. This checklist should not be for public display but used as a tool for recording your assessment. The checklist can include students’ names and a column for recording how many times you heard or saw evidence of different elements. One element would be students adding a check mark to their two-column chart. Another would be students adding stars to the reading, and a third would be when you hear them discuss a cause-effect relationship from something they read with a partner. There is no minimum number of occurrences required for each of these that you should be looking for as you will get around to different groups at different times as you walk around the room. Here is an example chart you can make to record this:\nAnalysis\nCommunication\nname\n✔ Identifies ideas we figured out before\n☆ Identifies new science ideas\nDiscusses a cause-effect relationship\nStudent 1\n/ / /\n/ / /\ny\nStudent 2\n/\n/\ny\nStudent 3\n/ / / /\n/ /\nn\n…...\nIf you run out of time to survey this during class or want a more exact measure of student analysis of the reading, you can ask students to turn in their annotated reading Music to My Ears along with their notebooks at the end of the lesson to analyze them both.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L08-AO5.html"
+      }
+    },
+    {
+      "id": "83-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: If the current from the computer is repeatedl…",
+      "shortTitle": "Look for: If the current from the computer is repeatedl…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: This is an opportunity for you to assess students’ ability to form hypotheses. They will develop two alternate hypotheses. Their hypotheses should be similar to the following:\nIf the current from the computer is repeatedly switching from on to off (at a certain frequency), then when we hook the LED up to it, the LED will blink on and off and back again at a certain frequency but will remain the same color with each blink.\nIf the current from the computer is repeatedly flipping something in the system, then when we hook the LED up to it the LED will blink from green to red and back again at a certain frequency.",
+      "whatToDo": "What to do: One way to quickly assess students in this practice is to use a class checklist. This checklist would be for the teacher only--not for public display. More information about what this checklist would look like is provided in the assessment guidance within the lesson.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L08-AO2.html"
+      }
+    },
+    {
+      "id": "83-8-ao-3",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: This is an additional place you can assess st…",
+      "shortTitle": "Look for: This is an additional place you can assess st…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Ask questions and carry out investigations to answer questions about how the pattern of energy flow compares in different systems using a speaker, a wire coil, a lightbulb, a battery, and a computer.",
+      "lookListenFor": "What to look/listen for:\nThis is an additional place you can assess students’ ability to ask questions to clarify gaps in their understanding about the flow of energy from a battery and a computer. Examples of things students might ask about are\nquestions about what is different about the current coming from the battery and current coming from the sound generator,\nquestions about how the current is changing to make the LED shine red and then shine green,\nquestions about how the current from a sound generator is like the current coming from the battery when it is flipped, and\nquestions about what is going on inside the computer that allows it to change the current over time in the first place.",
+      "whatToDo": "What to do:  If students do not generate productive questions, ask them to formulate questions that start with “how” and/or “why.”",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L08-AO3.html"
+      }
+    },
+    {
+      "id": "83-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Student responses to…",
+      "shortTitle": "Look for: What to look/listen for: Student responses to…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Ask questions and carry out investigations to answer questions about how the pattern of energy flow compares in different systems using a speaker, a wire coil, a lightbulb, a battery, and a computer.",
+      "lookListenFor": "What to look/listen for: Student responses to question B in the exit ticket will be an opportunity for you to assess their abilities to ask questions to investigate in class. Here is an example of a question students might ask: How would the lightbulb appear or respond or shine when we change the pitch or frequency of the sound produced by the computer?",
+      "whatToDo": "What to do: If some students struggle to develop questions, leave sticky notes (with their initials on them) in their notebooks asking them to record new questions that they have at the end of the next lesson. Then you can collect them to contribute to expanding the Driving Question Board.\nHave students share their responses to the last three questions with the class. There will be a large consensus around the responses to question B and the ideas for investigations for question C. Students will say that we should put the LED in place of the speaker and change the frequency of the sound produced and this will help us investigate a question like “How does changing the frequency of the sound produced affect the electric current in the system?” Expect a diversity of predictions in the responses to question D.\nEncourage a sense of wonder and anticipation around needing to investigate the predictions to question D next time and leave students on a cliff-hanger.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L08-AO1.html"
+      }
+    },
+    {
+      "id": "83-8-ao-4",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: This is an opportuni…",
+      "shortTitle": "Look for: What to look/listen for: This is an opportuni…",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Critically read scientific text to gather evidence to explain the differences in the electric current produced by the computer (the cause) that results in a changing magnetic field within the speaker system (the effect).",
+      "lookListenFor": "What to look/listen for: This is an opportunity for you to assess your students’ abilities related to the NGSS SEP element: “Critically read scientific texts adapted for classroom use to determine the central ideas and/or obtain scientific and/or technical information to describe patterns in and/or evidence about the natural and designed world(s)” (p. 65). To assess this element, listen as students discuss their ideas with each other and as they offer their ideas in the class discussion that follows. Students will also use these ideas when they put the pieces together in the next lesson.\nAdditionally, this is the opportunity for you to assess your students’ ability to use cause-and-effect relationships (a CCC) to explain the evidence they collected with the speaker and the lightbulbs. This opportunity goes beyond the crosscutting concept element that asks students to use these relationships to predict phenomena--students should be explaining phenomena in this lesson. Listen for your students using cause-and-effect relationships as they explain their ideas to their classmates or share them in the class discussion that follows. Students will also use these relationships as they put the pieces together in the next lesson.",
+      "whatToDo": "What to do:  A class checklist that you create for yourself can help you assess students’ abilities to meet these scientific practices and crosscutting concepts. This checklist should not be for public display but used as a tool for recording your assessment. The checklist can include students’ names and a column for recording how many times you heard or saw evidence of different elements. One element would be students adding a check mark to their two-column chart. Another would be students adding stars to the reading, and a third would be when you hear them discuss a cause-effect relationship from something they read with a partner. There is no minimum number of occurrences required for each of these that you should be looking for as you will get around to different groups at different times as you walk around the room. Here is an example chart you can make to record this:\nAnalysis\nCommunication\nname\n✔ Identifies ideas we figured out before\n☆ Identifies new science ideas\nDiscusses a cause-effect relationship\nStudent 1\n/ / /\n/ / /\ny\nStudent 2\n/\n/\ny\nStudent 3\n/ / / /\n/ /\nn\n…...\nIf you run out of time to survey this during class or want a more exact measure of student analysis of the reading, you can ask students to turn in their annotated reading Music to My Ears along with their notebooks at the end of the lesson to analyze them both.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L08-AO4.html"
+      }
+    },
+    {
+      "id": "83-8-ao-6",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Watching how student…",
+      "shortTitle": "Look for: What to look/listen for: Watching how student…",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Critically read scientific text to gather evidence to explain the differences in the electric current produced by the computer (the cause) that results in a changing magnetic field within the speaker system (the effect).",
+      "lookListenFor": "What to look/listen for: Watching how students interact with their two-column chart as described in the steps above provides you an opportunity to assess how they evaluate the information they are obtaining from the reading.",
+      "whatToDo": "What to do: Listen to the conversations students have with a partner during and after the reading. These provide you an opportunity to assess how they are communicating that information with a partner.\nUniversal Design for Learning: Preread this passage and decide if your class should do this as a partner read--alternating paragraphs and reading aloud quietly in pairs. If you have enough time, have students read individually and stop to express their understanding and discuss questions with their partner. Try to adjust time so that this does not extend into an additional class period.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.3 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L08-AO6.html"
+      }
+    },
+    {
+      "id": "83-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: As you move around t…",
+      "shortTitle": "Look for: What to look/listen for: As you move around t…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Revise a model to describe how changes in a magnetic field due to changing electric current explain cause and effect relationships between parts of a speaker system (magnet and coil of wire).",
+      "lookListenFor": "What to look/listen for: As you move around the classroom, ask students to compare their new model to the one they made in Lesson 6. Look for students to point out one or more of the following similarities: (1) both systems have a permanent magnet and an electromagnet, (2) both systems have forces that act at a distance, (3) both systems can be explained by forces acting in a magnetic field (and/or energy transferring in a magnetic field), and (4) both systems have electric current flowing through the wire going to and from the electromagnet. Look for students to point out the following differences: (1) the speaker has a music player, not a battery, as the source of the electric current, (2) the speaker has a cone that vibrates, and (3) the forces and magnetic fields in the speaker are constantly changing due to the changing current from the music player.",
+      "whatToDo": "What to do: Record your feedback on students’ models. Students will get time on day 2 of this lesson to review this feedback before moving into consensus building.\nUniversal Design for Learning: You can provide an opportunity for representation and scaffold this activity to highlight new additions to the model by taking a photo of the Lesson 6 consensus model and printing copies for students. During this individual time, ask students to attach the photo to their notebooks and sketch out their ideas on top of the model using a dark pen.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L09-AO1.html"
+      }
+    },
+    {
+      "id": "83-9-ao-2",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See previous assessm…",
+      "shortTitle": "Look for: What to look/listen for: See previous assessm…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Revise a model to describe how changes in a magnetic field due to changing electric current explain cause and effect relationships between parts of a speaker system (magnet and coil of wire).",
+      "lookListenFor": "What to look/listen for: See previous assessment callout.",
+      "whatToDo": "What to do: Collect student notebooks at the end of day 1. Before day 2 of this lesson, review the models students drew in their notebooks. Use Rubric for Model in Lesson 9 to structure your feedback. Note that this particular rubric is not designed for students to use or see before you provide feedback on it for them. Students will get time on day 2 of this lesson to review this feedback before moving into consensus building.\nUniversal Design for Learning: Framing students’ families and communities as legitimate funds of knowledge can serve multiple purposes and promote engagement and relevance. It can (1) help students feel like they belong in the science classroom by situating their family and community knowledge as productive resources for science, (2) engage students’ families in conversations about what is happening in the classroom, and (3) help students make connections between the science classroom and their everyday lives.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L09-AO2.html"
+      }
+    },
+    {
+      "id": "83-9-ao-3",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students’ questions…",
+      "shortTitle": "Look for: What to look/listen for: Students’ questions…",
+      "peCode": "9.B",
+      "buildingTowards": "Building towards: 9.B Ask questions about how changing the speaker system (cause) could affect the strength of the forces in the magnetic field (effect).",
+      "lookListenFor": "What to look/listen for: Students’ questions should focus on the cause of bigger magnetic forces.",
+      "whatToDo": "What to do: If students are struggling with how to use the sentence starter to revise a question, use probing questions to help them clarify their thinking around what is the cause and what is the effect. For example, if a student poses the question “What makes the forces bigger?” you can ask these questions:\nAre the size or strength of the forces a cause? Or an effect?\nWhat do you think we should investigate that might be causing the forces to get bigger? Can you include that potential cause in the question?\nCan you rewrite the question to include what you just told me about cause and effect?\nOnce groups have each come up with at least one question to put on the DQB, arrange these questions in a new section of the DQB or on a new piece of chart paper under the heading: “Questions about the strength of forces in a magnetic field”. You might also consider posting these questions on the Related Phenomena poster that was created in Lesson 1. Students will return to these questions in Lessons 10 and 11.\nMotivate the next lesson. Say, Wow, we have some really interesting and concise new questions. Let’s come back next time and choose one of these to investigate together. Then, maybe we can divide and conquer in order to answer the rest.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/8.3 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L09-AO3.html"
+      }
+    },
+    {
+      "id": "83-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: The independent variable is the cause described",
+      "shortTitle": "Look for: The independent variable is the cause described",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Plan an investigation to produce data to support hypotheses about the cause-and-effect relationship between distance and magnetic forces, including identifying independent and dependent variables.",
+      "lookListenFor": "What to look/listen for:\nLook for how students translate hypotheses into variables:\nThe independent variable is the cause described.\nThe dependent variable is the effect described.\nDuring whole-class co-planning of the investigation, listen for students to plan for varying the independent variable by a quantifiable amount while keeping all other variables constant and measuring the strength of magnetic forces.\nDuring data analysis, students should use patterns in their graphed data to confirm that as distance between magnets increases and decreases the forces between the magnets change.",
+      "whatToDo": "What to do: Observe students as they grapple with developing hypotheses and describing variables. This will provide information about how much scaffolding will be needed in Lesson 11 when students will be expected to do this on their own.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/8.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L10-AO1.html"
+      }
+    },
+    {
+      "id": "83-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Use this as an oppor…",
+      "shortTitle": "Look for: What to look/listen for: Use this as an oppor…",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Construct and use a graphical display of data to identify patterns in the mathematical relationship between distance and magnetic forces that can be used as evidence to either support or refute a hypothesis.",
+      "lookListenFor": "What to look/listen for: Use this as an opportunity to assess the level of support your students will need while graphing. Look for students who\ndo not know what a graph looks like and don’t know where to start or\nare creating bar charts or some other kind of graph.",
+      "whatToDo": "What to do: Spend time as needed supporting students in setting up graphs for data analysis. Walk through the I2 strategy on day 3 to help students make sense of their data. See callouts and additional guidance at the end of this lesson for more graphing support.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/8.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L10-AO2.html"
+      }
+    },
+    {
+      "id": "83-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Check that students…",
+      "shortTitle": "Look for: What to look/listen for: Check that students…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Plan and carry out an investigation to produce data to support a hypothesis about what factors cause changes in the strength of magnetic forces.",
+      "lookListenFor": "What to look/listen for: Check that students are correctly aligning their hypothesis with the independent variable (cause) and the dependent variable (effect).",
+      "whatToDo": "What to do: Ask probing questions to prompt students to articulate these connections.\nDisplay slide D. Let students know that you will provide each group with a medium disc magnet, an electronic scale, clear tape, and a ruler for planning. You can set remaining investigation materials out at the front of the class for student reference as they develop a materials list and plan investigation steps for their hypothesis.\nAs in Lesson 10, students should record force as weight in ounces. You can remind them that they will need to record to the nearest hundredth (0.01) oz and to multiply their data by 100 to get a whole number for easier graphing. Reiterate that any trends in their data will not be affected by this step since they are multiplying all force measurements by the same factor.\nDisplay slide E. Give groups time to determine how they will record and analyze data from their investigation. If they are struggling with developing a data table or labeling their graph, tell them to review their investigation from Lesson 10 for guidance.\nDisplay slide F. On part E of Investigation Plan, have students sketch two rough graphs to indicate what they think will happen in their investigation if their hypothesis is supported by data and if their hypothesis is not supported by data. Use this opportunity to assess how students’ level of comfort with graphing has changed since the beginning of Lesson 10 when they first engaged in this exercise. Look for students to include the following:\nTwo graphs, clearly labeled, with one indicating a supported hypothesis and one indicating a null hypothesis\nLines for both attractive and repulsive forces, labeled (or indicated in a key) on each graph\nFor the supported hypothesis graph, one line trends up from zero and one line trends down from zero\nFor the unsupported hypothesis graph, any or all lines remain horizontal (unchanging y values)\nAn unlabeled graph for data is also provided in part G of Investigation Plan. At this point, students can propose labels for axes indicating the correct placement of the independent and dependent variables. They should wait to develop scales until they consider the values of the data they collect on day 2. Remind students to consider both attractive and repulsive forces and to graph each as a separate line.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L11-AO1.html"
+      }
+    },
+    {
+      "id": "83-11-ao-3",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Circulate around the…",
+      "shortTitle": "Look for: What to look/listen for: Circulate around the…",
+      "peCode": "11.B",
+      "buildingTowards": "Building towards: 11.B Analyze and interpret data to identify linear and nonlinear relationships between various independent variables and their effect on the strength of magnetic forces.",
+      "lookListenFor": "What to look/listen for: Circulate around the classroom when students are graphing their data. If students are still struggling with this graphing task, direct them to the graphs they made in Lesson 10. Encourage students to use the I2 strategy introduced in Lesson 10 to scaffold interpretation of the graphs. See Additional Guidance at the end of Lesson 10 for more support around graphing.",
+      "whatToDo": "What to do: If students are still struggling with this graphing task, direct them to the graphs they made in Lesson 10. Use the I2 strategy handout to scaffold interpretation of the graphs. See Additional Guidance at the end of Lesson 10 for more support around graphing.\nStudents make posters. Display slide K and tell students they will prepare a poster for a gallery walk with the following information:\nInvestigation hypothesis\nDo your data support or refute your hypothesis?\nIf your evidence does not support your hypothesis, describe additional data you want to collect.\nA visual representation of the relationship you described in your claim\nDirect students to hang completed posters in the desired location in the room.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L11-AO3.html"
+      }
+    },
+    {
+      "id": "83-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Peer-Feedback Rubric for",
+      "shortTitle": "Peer-Feedback Rubric for",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Plan and carry out an investigation to produce data to support a hypothesis about what factors cause changes in the strength of magnetic forces.",
+      "lookListenFor": "What to look/listen for: The peer feedback rubric Peer-Feedback Rubric for Planning Investigations is designed to be student-facing, unlike some of the other rubrics included in OpenSciEd materials. Make sure that students get a copy of the completed rubric back with their investigations. This will allow them to get formative feedback that will support the development of these investigations. It also makes expectations transparent for students so that they will know what is expected of them in the Lesson 12 summative assessment. Move from group to group as they work to make sure that students are giving appropriate and productive feedback.\nCollect the investigation plans with the rubrics stapled to them. Check that students are correctly aligning their hypothesis with the independent variable (cause) and the dependent variable (effect) and giving appropriate feedback to other groups when evaluating their hypotheses and investigation plans.",
+      "whatToDo": "What to do: Walk around the room as students are giving feedback. If students are struggling to put together an investigation plan and peer feedback does not seem productive, add your comments in another color pen to the peer-feedback rubrics. After class, check over the peer-feedback rubrics to get a sense for where students are. Give students time at the beginning of day 2 to address this feedback.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_11/original/8.3 Lesson 11 Handout Peer-Feedback Rubric for.docx",
+        "teacherGuide": "lesson_11/original/8.3 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L11-AO2.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "83-12-summative-assessment",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "title": "Summative Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "summative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": true,
+      "description": "OpenSciEd Unit 8.3 Lesson 12 — Summative Assessment.",
+      "files": {
+        "studentHandout": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Assessment Summative Assessment.docx",
+        "teacherGuide": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": "Lesson 12 - 8.3 Forces at a Distance/8.3 Lesson 12 Answer Key Electromagnetic Inventions Scoring.docx",
+        "googleForm": "https://docs.google.com/forms/d/1ki6AbS8YvjWMQGoOquEmlFdN-zYeVyC7zYV_amq9Boc/viewform",
+        "googleFormTeacherReady": null,
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "83-12-ao-2"
+    },
+    {
+      "id": "83-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: This is a transfer t…",
+      "shortTitle": "Look for: What to look/listen for: This is a transfer t…",
+      "peCode": null,
+      "buildingTowards": "Building towards:",
+      "lookListenFor": "What to look/listen for: This is a transfer task to give students an opportunity to use the three dimensions to make sense of an application of an electromagnet of their choice. This assessment is designed to elicit student ideas about forces at a distance as they design an experiment using the cause-effect language they have been practicing throughout this unit. This is meant to be a summative assessment task for the unit, and it gives you a grading opportunity. The task includes a scoring guide, Electromagnetic Inventions: Scoring Guidance.",
+      "whatToDo": "What to do: Scoring guides are meant to highlight important ideas students should include in their responses. If students share these ideas elsewhere in the assessment, it is up to you to decide if that understanding is sufficiently demonstrated. Note that this assessment is full of student choice and includes a whole-class introduction component to make sure all students are on the same page and have access to ideas brainstormed by the whole class before moving forward with the individual assessment.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/8.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L12-AO2.html"
+      }
+    },
+    {
+      "id": "83-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: While students are a…",
+      "shortTitle": "Look for: What to look/listen for: While students are a…",
+      "peCode": null,
+      "buildingTowards": "Building towards:",
+      "lookListenFor": "What to look/listen for: While students are answering questions from the Driving Question Board, this is an excellent formative assessment opportunity to address partial understandings and see if any pieces need to be revisited before taking the summative assessment.",
+      "whatToDo": "What to do: Discuss any key pieces of understanding that students are uncertain about or share partial understanding of after revisiting the DQB and before the summative assessment.\nRevisiting the Driving Question Board is important for students to feel as though their questions are valued and recognized. While not all questions will have been addressed (it’s more likely that 50–75 percent will be at least partially answered), this helps students see the hard work that they have done to answer many of their own questions.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS2-3",
+        "MS-PS2-5",
+        "MS-PS3-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/8.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-3/L12-AO1.html"
+      }
+    }
+  ]
+}

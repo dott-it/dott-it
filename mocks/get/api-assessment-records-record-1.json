@@ -1,0 +1,61 @@
+{
+  "student": {
+    "id": "student-1",
+    "name": "Bob Smith",
+    "email": "blue.snake@school.edu",
+    "status": "ready_for_review",
+    "submittedAt": "2024-01-21T09:00:00Z",
+    "score": null,
+    "classSection": "Period A",
+    "lastActionDate": "2024-01-21T09:00:00Z",
+    "totalResponses": 2,
+    "lastFeedbackDate": "2024-01-20T15:30:00Z",
+    "grade": 8
+  },
+  "assessment": {
+    "id": "8-6-lesson-11-green-anole-lizard-explanation",
+    "title": "Lesson 11: Green Anole Lizard Explanation",
+    "unitName": "Unit 8.6",
+    "subject": "Science",
+    "grade": 8,
+    "type": "Formative Assessment",
+    "dueDate": "2024-01-22",
+    "status": "live",
+    "totalRecords": 18,
+    "pendingRecords": 3,
+    "description": "Assessment on green anole lizard adaptation and natural selection"
+  },
+  "studentResponse": "{\"rawAnswer\":{\"explanationQuestion\":\"The green anole lizard has adapted to its environment through several key mechanisms. First, its ability to change color from green to brown helps it camouflage against different backgrounds, protecting it from predators. Second, its long, sticky tongue allows it to catch insects efficiently. Third, its ability to drop its tail when threatened provides an escape mechanism. These adaptations have evolved over time through natural selection, where lizards with these beneficial traits were more likely to survive and reproduce.\",\"observationQuestion\":\"I observed that the green anole lizard in the video was able to change its color from bright green to a darker brown when it moved from a green leaf to a brown branch. This demonstrates its remarkable camouflage ability. I also noticed how quickly it could catch insects with its tongue, showing the effectiveness of this adaptation for feeding.\"}}",
+  "feedback": [
+    {
+      "type": "strength",
+      "section": "Natural Selection",
+      "content": "Excellent understanding of natural selection concepts."
+    },
+    {
+      "type": "strength",
+      "section": "Natural Selection",
+      "content": "Excellent understanding of adaptation mechanisms."
+    },
+    {
+      "type": "strength",
+      "section": "Natural Selection",
+      "content": "Excellent understanding of camouflage ability."
+    },
+    {
+      "type": "improvement",
+      "section": "Model Explanation",
+      "content": "Consider providing more specific examples of how these adaptations benefit survival in different environments."
+    },
+    {
+      "type": "improvement",
+      "section": "Model Explanation",
+      "content": "Consider providing more specific examples of how these adaptations benefit survival in different environments."
+    },
+    {
+      "type": "improvement",
+      "section": "Model Explanation",
+      "content": "Consider providing more specific examples of how these adaptations benefit survival in different environments."
+    }
+  ]
+}

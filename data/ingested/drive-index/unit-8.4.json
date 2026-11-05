@@ -1,0 +1,2077 @@
+{
+  "unitId": "8.4",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 8",
+  "unitFolder": "8.4 Earth in Space",
+  "unitDriveFolderId": "1--zIgawIlG9Rcc6rf8Yapu_FNa6a5UW-",
+  "indexedAt": "2026-08-17T15:11:46.566Z",
+  "fileCount": 297,
+  "manifestPathCount": 64,
+  "matchedCount": 64,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "84-1-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/8.4 Lesson 1 Handout Initial Models Gallery.docx",
+      "driveFileId": "1xOkVipzaug4j-6qg9P-mInJTQbWPtP6Hnk7GyHzZ-og",
+      "driveRelativePath": "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Initial Models Gallery",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:22.363Z"
+    },
+    {
+      "assessmentId": "84-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1Qt5iVGmX4yvTlBpMbP1lC_FMfhafPeNerKPUfeuG4LU",
+      "driveRelativePath": "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:28.546Z"
+    },
+    {
+      "assessmentId": "84-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1Qt5iVGmX4yvTlBpMbP1lC_FMfhafPeNerKPUfeuG4LU",
+      "driveRelativePath": "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:28.546Z"
+    },
+    {
+      "assessmentId": "84-1-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1Qt5iVGmX4yvTlBpMbP1lC_FMfhafPeNerKPUfeuG4LU",
+      "driveRelativePath": "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:28.546Z"
+    },
+    {
+      "assessmentId": "84-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1Qt5iVGmX4yvTlBpMbP1lC_FMfhafPeNerKPUfeuG4LU",
+      "driveRelativePath": "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:28.546Z"
+    },
+    {
+      "assessmentId": "84-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/8.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "15RuQdG4F496mpq1uZK2QyWrWmWveZLGMp044jyylZ6A",
+      "driveRelativePath": "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:00.235Z"
+    },
+    {
+      "assessmentId": "84-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13mjfkN3S1UUhSCN95qGbQerykyHLvpggB9BrCL4bKrc",
+      "driveRelativePath": "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.356Z"
+    },
+    {
+      "assessmentId": "84-3-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13mjfkN3S1UUhSCN95qGbQerykyHLvpggB9BrCL4bKrc",
+      "driveRelativePath": "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.356Z"
+    },
+    {
+      "assessmentId": "84-3-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13mjfkN3S1UUhSCN95qGbQerykyHLvpggB9BrCL4bKrc",
+      "driveRelativePath": "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.356Z"
+    },
+    {
+      "assessmentId": "84-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13mjfkN3S1UUhSCN95qGbQerykyHLvpggB9BrCL4bKrc",
+      "driveRelativePath": "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.356Z"
+    },
+    {
+      "assessmentId": "84-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13mjfkN3S1UUhSCN95qGbQerykyHLvpggB9BrCL4bKrc",
+      "driveRelativePath": "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.356Z"
+    },
+    {
+      "assessmentId": "84-4-what-causes-the-pattern-of-light-and-dark-on-the-moon",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Assessment What causes the.docx",
+      "driveFileId": "1a1--KnyHX3_2HMKLVPrlLQGRgfvrqm37SAmwKFJGX5I",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Assessment What causes the",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-25T07:40:09.286Z"
+    },
+    {
+      "assessmentId": "84-4-what-causes-the-pattern-of-light-and-dark-on-the-moon",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1q3KP9qk3aF8rYWezk9wJGypiLIY82gM3E9o3DE9yZE4",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-25T07:40:12.060Z"
+    },
+    {
+      "assessmentId": "84-4-what-causes-the-pattern-of-light-and-dark-on-the-moon",
+      "field": "answerKey",
+      "manifestPath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Answer Key What causes the.docx",
+      "driveFileId": "1sKJMWa6d4mwONiRtplx44uy2oeufJbOEfn4uoH8zBAg",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Answer Key What causes the",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-25T07:40:07.783Z"
+    },
+    {
+      "assessmentId": "84-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1q3KP9qk3aF8rYWezk9wJGypiLIY82gM3E9o3DE9yZE4",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:12.060Z"
+    },
+    {
+      "assessmentId": "84-4-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_4/original/8.4 Lesson 4 Handout Modeling Sunlight Angles.docx",
+      "driveFileId": "1E0Fxv3aiB2b_DfrrpgndwY-gAP6qcqupI0b3j90X6Gs",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Modeling Sunlight Angles",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.605Z"
+    },
+    {
+      "assessmentId": "84-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1q3KP9qk3aF8rYWezk9wJGypiLIY82gM3E9o3DE9yZE4",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:12.060Z"
+    },
+    {
+      "assessmentId": "84-4-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_4/original/8.4 Lesson 4 Handout Modeling Sunlight Angles.docx",
+      "driveFileId": "1E0Fxv3aiB2b_DfrrpgndwY-gAP6qcqupI0b3j90X6Gs",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Modeling Sunlight Angles",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.605Z"
+    },
+    {
+      "assessmentId": "84-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1q3KP9qk3aF8rYWezk9wJGypiLIY82gM3E9o3DE9yZE4",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:12.060Z"
+    },
+    {
+      "assessmentId": "84-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/8.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1BsXLUzfxTvL3k9Ihu23eBP1fJQA9VrUjBD1nUYxadtY",
+      "driveRelativePath": "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:13.450Z"
+    },
+    {
+      "assessmentId": "84-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "13XU-t5wo3AvL76Kibp7rdDuZgXGpI8nKBAiHXBX254g",
+      "driveRelativePath": "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:15.912Z"
+    },
+    {
+      "assessmentId": "84-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/8.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "13XU-t5wo3AvL76Kibp7rdDuZgXGpI8nKBAiHXBX254g",
+      "driveRelativePath": "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:15.912Z"
+    },
+    {
+      "assessmentId": "84-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/8.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "148GFuLo8q6DJMzVmNFyTJemKo5OgC1QUSPESq1dtH1U",
+      "driveRelativePath": "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:19.122Z"
+    },
+    {
+      "assessmentId": "84-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/8.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "148GFuLo8q6DJMzVmNFyTJemKo5OgC1QUSPESq1dtH1U",
+      "driveRelativePath": "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:19.122Z"
+    },
+    {
+      "assessmentId": "84-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/8.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "14lC4JVMJS4crhqEnfFG9epVZDQfkaD1n41I8GDK1WF8",
+      "driveRelativePath": "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:22.227Z"
+    },
+    {
+      "assessmentId": "84-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/8.4 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "19YOqrXOM5-TUlxLKpLT4SBDzAPlEDHKgw6OGvuCGY48",
+      "driveRelativePath": "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:41:47.510Z"
+    },
+    {
+      "assessmentId": "84-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "17U_7i89MuuSU7UPbsc3IdpFEpkSBi5aYmFTL73tuK4w",
+      "driveRelativePath": "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:33.624Z"
+    },
+    {
+      "assessmentId": "84-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/8.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "17U_7i89MuuSU7UPbsc3IdpFEpkSBi5aYmFTL73tuK4w",
+      "driveRelativePath": "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:33.624Z"
+    },
+    {
+      "assessmentId": "84-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1ZJ_wuClpYh8eMhltzIkCaPbHAOVrWHwmBZbFOmoTNms",
+      "driveRelativePath": "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:38.192Z"
+    },
+    {
+      "assessmentId": "84-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/8.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1ZJ_wuClpYh8eMhltzIkCaPbHAOVrWHwmBZbFOmoTNms",
+      "driveRelativePath": "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:38.192Z"
+    },
+    {
+      "assessmentId": "84-12-explaining-fishing-related-phenomena",
+      "field": "studentHandout",
+      "manifestPath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Assessment Explaining Fishing Related-Phenomena.docx",
+      "driveFileId": "1Vx9gHbsCzJfn7OtI2wwz_JZ35qy78KY9CEZT3dMgw2o",
+      "driveRelativePath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Assessment Explaining Fishing Related-Phenomena",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-25T07:39:39.496Z"
+    },
+    {
+      "assessmentId": "84-12-explaining-fishing-related-phenomena",
+      "field": "teacherGuide",
+      "manifestPath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1TSv5CAboUezwn4GTCmQZWKob4vZIcnMLF02FCoTr_iI",
+      "driveRelativePath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Teacher Edition",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-25T07:39:41.478Z"
+    },
+    {
+      "assessmentId": "84-12-explaining-fishing-related-phenomena",
+      "field": "answerKey",
+      "manifestPath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Answer Key Explaining Fishing-Related Phenomena.docx",
+      "driveFileId": "1owOPludnB58HHKJ2wceYcnJUnnpE5vJt0_odverZ1r8",
+      "driveRelativePath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Answer Key Explaining Fishing-Related Phenomena",
+      "matchKind": "stem",
+      "modifiedTime": "2024-08-25T07:39:40.908Z"
+    },
+    {
+      "assessmentId": "84-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/8.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1TSv5CAboUezwn4GTCmQZWKob4vZIcnMLF02FCoTr_iI",
+      "driveRelativePath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:41.478Z"
+    },
+    {
+      "assessmentId": "84-13-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/8.4 Lesson 13 Handout Infographic Text.docx",
+      "driveFileId": "1bf6MYrdEr1t9bbfQO6do1TbyFAszNjMImsz_uCcXrRM",
+      "driveRelativePath": "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Infographic Text",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:45.670Z"
+    },
+    {
+      "assessmentId": "84-13-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1L_SWtbx_phv62YkK6Cs_m_Hw2FBx0V6RBsLt1kccwoc",
+      "driveRelativePath": "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:48.878Z"
+    },
+    {
+      "assessmentId": "84-13-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1L_SWtbx_phv62YkK6Cs_m_Hw2FBx0V6RBsLt1kccwoc",
+      "driveRelativePath": "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:48.878Z"
+    },
+    {
+      "assessmentId": "84-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1L_SWtbx_phv62YkK6Cs_m_Hw2FBx0V6RBsLt1kccwoc",
+      "driveRelativePath": "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:48.878Z"
+    },
+    {
+      "assessmentId": "84-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1WbXYmaHhhIKAafE9eAU9BiNbYQ6pdLT_PrUaDJYM5CU",
+      "driveRelativePath": "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:51.833Z"
+    },
+    {
+      "assessmentId": "84-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/8.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1WbXYmaHhhIKAafE9eAU9BiNbYQ6pdLT_PrUaDJYM5CU",
+      "driveRelativePath": "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:51.833Z"
+    },
+    {
+      "assessmentId": "84-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/8.4 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1z7FHNqKZD1ok9TixawkWh_lQv-gp8EMfFZ82FX89TZc",
+      "driveRelativePath": "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:52.716Z"
+    },
+    {
+      "assessmentId": "84-15-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/8.4 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1z7FHNqKZD1ok9TixawkWh_lQv-gp8EMfFZ82FX89TZc",
+      "driveRelativePath": "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:52.716Z"
+    },
+    {
+      "assessmentId": "84-16-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/8.4 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1jIr6X8rb9ZdXooyotqzmxKrPfxGAB5-uW8vX5Qck-38",
+      "driveRelativePath": "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:56.717Z"
+    },
+    {
+      "assessmentId": "84-16-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/8.4 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1jIr6X8rb9ZdXooyotqzmxKrPfxGAB5-uW8vX5Qck-38",
+      "driveRelativePath": "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:56.717Z"
+    },
+    {
+      "assessmentId": "84-17-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/8.4 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1abMDbvHKE7IDvWrbChHQwsr6du-qNCnWC0K1HtggjRQ",
+      "driveRelativePath": "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:57.251Z"
+    },
+    {
+      "assessmentId": "84-17-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/8.4 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1abMDbvHKE7IDvWrbChHQwsr6du-qNCnWC0K1HtggjRQ",
+      "driveRelativePath": "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:57.251Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/8.4 Earth in Space Unit Overview Materials.docx",
+      "driveFileId": "1G7isPLnrQnIbayy7OE9xa8DPXEeg5p41z9jW-fRa71Q",
+      "driveRelativePath": "8.4 Earth in Space Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-25T07:39:23.119Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1Qt5iVGmX4yvTlBpMbP1lC_FMfhafPeNerKPUfeuG4LU",
+      "driveRelativePath": "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:28.546Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/8.4 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "15RuQdG4F496mpq1uZK2QyWrWmWveZLGMp044jyylZ6A",
+      "driveRelativePath": "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:00.235Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "13mjfkN3S1UUhSCN95qGbQerykyHLvpggB9BrCL4bKrc",
+      "driveRelativePath": "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:09.356Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1q3KP9qk3aF8rYWezk9wJGypiLIY82gM3E9o3DE9yZE4",
+      "driveRelativePath": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:12.060Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/8.4 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1BsXLUzfxTvL3k9Ihu23eBP1fJQA9VrUjBD1nUYxadtY",
+      "driveRelativePath": "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:13.450Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/8.4 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "13XU-t5wo3AvL76Kibp7rdDuZgXGpI8nKBAiHXBX254g",
+      "driveRelativePath": "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:15.912Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/8.4 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "148GFuLo8q6DJMzVmNFyTJemKo5OgC1QUSPESq1dtH1U",
+      "driveRelativePath": "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:19.122Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/8.4 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "14lC4JVMJS4crhqEnfFG9epVZDQfkaD1n41I8GDK1WF8",
+      "driveRelativePath": "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:40:22.227Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/8.4 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "19YOqrXOM5-TUlxLKpLT4SBDzAPlEDHKgw6OGvuCGY48",
+      "driveRelativePath": "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:41:47.510Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/8.4 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "17U_7i89MuuSU7UPbsc3IdpFEpkSBi5aYmFTL73tuK4w",
+      "driveRelativePath": "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:33.624Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/8.4 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1ZJ_wuClpYh8eMhltzIkCaPbHAOVrWHwmBZbFOmoTNms",
+      "driveRelativePath": "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:38.192Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/8.4 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1TSv5CAboUezwn4GTCmQZWKob4vZIcnMLF02FCoTr_iI",
+      "driveRelativePath": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:41.478Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1L_SWtbx_phv62YkK6Cs_m_Hw2FBx0V6RBsLt1kccwoc",
+      "driveRelativePath": "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:48.878Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/8.4 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1WbXYmaHhhIKAafE9eAU9BiNbYQ6pdLT_PrUaDJYM5CU",
+      "driveRelativePath": "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:51.833Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/8.4 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1z7FHNqKZD1ok9TixawkWh_lQv-gp8EMfFZ82FX89TZc",
+      "driveRelativePath": "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:52.716Z"
+    },
+    {
+      "assessmentId": "__lesson-16__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_16/original/8.4 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1jIr6X8rb9ZdXooyotqzmxKrPfxGAB5-uW8vX5Qck-38",
+      "driveRelativePath": "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:56.717Z"
+    },
+    {
+      "assessmentId": "__lesson-17__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_17/original/8.4 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1abMDbvHKE7IDvWrbChHQwsr6du-qNCnWC0K1HtggjRQ",
+      "driveRelativePath": "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:39:57.251Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1uTHm4PrX2lsdCAolR85VSpGWCxUSK0mt",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-25T07:40:23.278Z"
+    },
+    "Unit 8.4 Earth in Space Video Links.pdf": {
+      "driveFileId": "1o_Hc_Yb7hvivCANRPDLq_rwF4bBeFDYm",
+      "name": "Unit 8.4 Earth in Space Video Links.pdf",
+      "modifiedTime": "2024-08-25T07:40:23.201Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1E4V6BwWpfUISzi9lvs4buuE-r9Jv18ka",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-25T07:40:22.910Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1RnrnZDABMCs_Xa8ziMOc9rnLz5t-Q6ud",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-25T07:40:22.697Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1jz_i6nkhJLdImoT0oY_ZXxKuSNQ0bKGG",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-25T07:40:22.579Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1KPwLETWuz-2NRcftthfeoWiGnHoTqh1O",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-25T07:40:21.896Z"
+    },
+    "8.4 Earth in Space Unit Overview Materials": {
+      "driveFileId": "1G7isPLnrQnIbayy7OE9xa8DPXEeg5p41z9jW-fRa71Q",
+      "name": "8.4 Earth in Space Unit Overview Materials",
+      "modifiedTime": "2024-08-25T07:39:23.119Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1lwAjUiqfheSqHaeD4OX1XKVbv6patvlq",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-25T07:39:17.299Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1lE7bguwIgG5H--wRo8CL0ZUU5wV0dcqw",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-25T07:39:17.125Z"
+    },
+    "8.4 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "19fx_7RJU0dHKQdFb2Xe5JIEWgD9jR-Dk",
+      "name": "8.4 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-25T07:39:16.942Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Teacher Edition": {
+      "driveFileId": "19YOqrXOM5-TUlxLKpLT4SBDzAPlEDHKgw6OGvuCGY48",
+      "name": "8.4 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:41:47.510Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Slides": {
+      "driveFileId": "1gMSG3srW7BmYRBVub5zPcOQKoT2hrt7XW8vgArQw5SU",
+      "name": "8.4 Lesson 9 Slides",
+      "modifiedTime": "2024-08-25T07:40:26.624Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1xBKQVAAM4O6EVXc9MUHh3e1Mva_cvvul4fH3LTwBbp8",
+      "name": "8.4 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:24.780Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Reference Sunset from the": {
+      "driveFileId": "1nILzEeCQ9VkgZVCv85AD4V30bOP8-zH_tnpb3SHDO5c",
+      "name": "8.4 Lesson 9 Reference Sunset from the",
+      "modifiedTime": "2024-08-25T07:40:23.813Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Student Procedure": {
+      "driveFileId": "1_th-O02w_67VsBtN9A0Y9GLjR-u05AdpmhA8lielc5A",
+      "name": "8.4 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-25T07:40:23.719Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Reference Earth’s Atmosphere Diagrams": {
+      "driveFileId": "1Q5cpymylCfYDYI6QTSFOX3IzMo-45f8m4jHGnfmolEY",
+      "name": "8.4 Lesson 9 Reference Earth’s Atmosphere Diagrams",
+      "modifiedTime": "2024-08-25T07:40:23.657Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Handout Reference Sunset from": {
+      "driveFileId": "1tZkwkheTnc1dN5P5Ra4KdrahqJKAddSYdUuLs3Xx87k",
+      "name": "8.4 Lesson 9 Handout Reference Sunset from",
+      "modifiedTime": "2024-08-25T07:40:23.274Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Handout Reference Earth’s Atmosphere": {
+      "driveFileId": "1QYu95B6RApSfST2FmSgjSY9PiN8k0ifARAiYQE4Hlw8",
+      "name": "8.4 Lesson 9 Handout Reference Earth’s Atmosphere",
+      "modifiedTime": "2024-08-25T07:40:23.148Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Handout Comparing Sunlight at": {
+      "driveFileId": "1vFtkoRA3-FdRCSeLx0tTt0Jciu9fOImTW8s2uD1dtY4",
+      "name": "8.4 Lesson 9 Handout Comparing Sunlight at",
+      "modifiedTime": "2024-08-25T07:40:23.042Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lección 9 Referencia Puesta de sol": {
+      "driveFileId": "1eREseoD-DU8wu0BWq-BTj1wejSoQ0dfmgUwBbiRHjO4",
+      "name": "8.4 Lección 9 Referencia Puesta de sol",
+      "modifiedTime": "2024-08-25T07:40:22.697Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lección 9 Folleto Referencia Puesta de": {
+      "driveFileId": "1wmVTSGJQHMCJ_iHmW58sSAgdvWOs-SK6f17e_Qhks9E",
+      "name": "8.4 Lección 9 Folleto Referencia Puesta de",
+      "modifiedTime": "2024-08-25T07:40:22.641Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lesson 9 Answer Key Teacher-Annotated Version of": {
+      "driveFileId": "11wBqFGJVDHelJ2SJHxzf284c9yWRRqpfhBXYlA2xxL4",
+      "name": "8.4 Lesson 9 Answer Key Teacher-Annotated Version of",
+      "modifiedTime": "2024-08-25T07:40:22.629Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lección 9 Folleto Referencia Diagramas de": {
+      "driveFileId": "1hN3i0UtLzLsJTPHB3OJ4aZRGCFipUeNnq2xyAAzTrxs",
+      "name": "8.4 Lección 9 Folleto Referencia Diagramas de",
+      "modifiedTime": "2024-08-25T07:40:22.279Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lección 9 Folleto Comparando luz del": {
+      "driveFileId": "1Y3mIVkMtraEQmdMnTsXikI6Xs-nz3O2osocco9Yf7vc",
+      "name": "8.4 Lección 9 Folleto Comparando luz del",
+      "modifiedTime": "2024-08-25T07:40:22.270Z"
+    },
+    "Lesson 9 - 8.4 Earth in Space/8.4 Lección 9 Referencia Diagramas de la": {
+      "driveFileId": "1fKlBcRAWrD4BlQSOaObVFNmSHSJx-GHk2AW3gN3MdgQ",
+      "name": "8.4 Lección 9 Referencia Diagramas de la",
+      "modifiedTime": "2024-08-25T07:40:22.035Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Slides Student Images of Lunar Eclipse": {
+      "driveFileId": "1HnEDz7w4SX3xFcgz75Bzc1NDtBm93MCuE6GDxcPW-xQ",
+      "name": "8.4 Lesson 8 Slides Student Images of Lunar Eclipse",
+      "modifiedTime": "2024-08-25T07:40:22.327Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Teacher Edition": {
+      "driveFileId": "14lC4JVMJS4crhqEnfFG9epVZDQfkaD1n41I8GDK1WF8",
+      "name": "8.4 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:40:22.227Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Slides": {
+      "driveFileId": "1X6qIMUxNKhH7aJC9m27xa_m6pS0m0OLv99ph9QpMRKs",
+      "name": "8.4 Lesson 8 Slides",
+      "modifiedTime": "2024-08-25T07:40:21.423Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1mZv6eGQWiFCl10N40zu_69Wql3NeyBU-XIuePdM96Ao",
+      "name": "8.4 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:21.413Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Student Procedure": {
+      "driveFileId": "1qIa8vCu8Pz9Bb-dlHWZc1v9gh4spKk-1O87bHDDMj4M",
+      "name": "8.4 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-25T07:40:21.007Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Reference Lunar Eclipse Images": {
+      "driveFileId": "1N1ONb0P6RwHEFtsTLdUEbXggohiwJdACb46CHrYlmzU",
+      "name": "8.4 Lesson 8 Reference Lunar Eclipse Images",
+      "modifiedTime": "2024-08-25T07:40:20.942Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Answer Key Examples of Sun": {
+      "driveFileId": "1gvZniI_StriorQ8qWhrNY1BPt07gcW4cPEEIUEWzFKo",
+      "name": "8.4 Lesson 8 Answer Key Examples of Sun",
+      "modifiedTime": "2024-08-25T07:40:20.383Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Handout Reference Lunar Eclipse": {
+      "driveFileId": "1VR_mI1V_D7Hp8xLcp7ojCSYyijFzvEcduFWub4PxVww",
+      "name": "8.4 Lesson 8 Handout Reference Lunar Eclipse",
+      "modifiedTime": "2024-08-25T07:40:20.126Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lección 8 Folleto Referencia Imágenes del": {
+      "driveFileId": "1NT1q_EaQ4nvUp3P6sDSYFQYsLJiK7VUdrIcHyXgfvz4",
+      "name": "8.4 Lección 8 Folleto Referencia Imágenes del",
+      "modifiedTime": "2024-08-25T07:40:19.627Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lección 8 Referencia Imágenes del eclipse": {
+      "driveFileId": "1y_1qzGvaGYDdm3jDaq8wvug0nF814eE7L7ZEQwaWuUQ",
+      "name": "8.4 Lección 8 Referencia Imágenes del eclipse",
+      "modifiedTime": "2024-08-25T07:40:19.625Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Handout Home Learning Sunset": {
+      "driveFileId": "134jEAeEpI8olK4yC8U1-Kw9nTh7_OrES-wZA3QdtBqs",
+      "name": "8.4 Lesson 8 Handout Home Learning Sunset",
+      "modifiedTime": "2024-08-25T07:40:19.426Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lección 8 Folleto 1 Aprendizaje en": {
+      "driveFileId": "1bQQCP6AxyMDcSX5sU8-k4Ib356_gne8v2kkIqI9TJuE",
+      "name": "8.4 Lección 8 Folleto 1 Aprendizaje en",
+      "modifiedTime": "2024-08-25T07:40:19.391Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Handout Home Learning Choice": {
+      "driveFileId": "1yHGWMQ59Q5KIki-2xXJ49NiE0GfajFUu6uHiHT2sgbE",
+      "name": "8.4 Lesson 8 Handout Home Learning Choice",
+      "modifiedTime": "2024-08-25T07:40:18.593Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lesson 8 Handout Analyzing Lunar Eclipse": {
+      "driveFileId": "1OpTgZDitaAkXY5ZKiye5dvvT0P5F4bL0XJy4cV1vPb8",
+      "name": "8.4 Lesson 8 Handout Analyzing Lunar Eclipse",
+      "modifiedTime": "2024-08-25T07:40:18.050Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lección 8 Folleto Análisis de imágenes": {
+      "driveFileId": "1Gy_ZFy1WyjbNDwlDtM-3eRGzy5ekD1WtKem78lCipgU",
+      "name": "8.4 Lección 8 Folleto Análisis de imágenes",
+      "modifiedTime": "2024-08-25T07:40:17.586Z"
+    },
+    "Lesson 8 - 8.4 Earth in Space/8.4 Lección 8 Folleto 2 Aprendizaje en": {
+      "driveFileId": "1ImXDrZZ3nHBUu1H_t6aQI5tbh9bdp9aM9lBPyD63dfI",
+      "name": "8.4 Lección 8 Folleto 2 Aprendizaje en",
+      "modifiedTime": "2024-08-25T07:40:17.017Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Teacher Edition": {
+      "driveFileId": "148GFuLo8q6DJMzVmNFyTJemKo5OgC1QUSPESq1dtH1U",
+      "name": "8.4 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:40:19.122Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Student Procedure": {
+      "driveFileId": "1lob7S2EWeGZ1sV3cFXZDJWzrqEy_iNrHjMFgjSUgvrQ",
+      "name": "8.4 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-25T07:40:18.879Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Slides": {
+      "driveFileId": "1rSP-FjMis-n910_4Owq0CwW-HVMdU5_VgGulrHXvL_Y",
+      "name": "8.4 Lesson 7 Slides",
+      "modifiedTime": "2024-08-25T07:40:17.634Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1fhCcJjdyBVqVBsqNwl2ZlurZuEw0YjI6Ckc8Iv4rROo",
+      "name": "8.4 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:17.590Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Handout Transcript Total Solar": {
+      "driveFileId": "1Ktc7TnqWLb6gfN3JidXHCRKdRgrX0Ed7N2oe6iEgveY",
+      "name": "8.4 Lesson 7 Handout Transcript Total Solar",
+      "modifiedTime": "2024-08-25T07:40:16.524Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Handout Lesson 7 My": {
+      "driveFileId": "1_Aw95IY0IqdUwz-hlMeXKrOSMpsfVeNZkW8ZLfIC07A",
+      "name": "8.4 Lesson 7 Handout Lesson 7 My",
+      "modifiedTime": "2024-08-25T07:40:16.471Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lección 7 Folleto Lección 7 Mi": {
+      "driveFileId": "1TRWoAp8cxDHZvcipeqUTsIp96Hpy62c_3K8EvgpaG5Q",
+      "name": "8.4 Lección 7 Folleto Lección 7 Mi",
+      "modifiedTime": "2024-08-25T07:40:15.727Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lesson 7 Handout Lesson 7 Self-Assessment": {
+      "driveFileId": "1UueGhY-3cDBunHqodVHX7GE5gIoFVbMuhCT7PSm1_-s",
+      "name": "8.4 Lesson 7 Handout Lesson 7 Self-Assessment",
+      "modifiedTime": "2024-08-25T07:40:15.055Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lección 7 Folleto Lección 7 Autoevaluación": {
+      "driveFileId": "1pPDkkuIrQaZ91JSBlcQsgQfrXh6D6fMWH2Ar3DjYv3U",
+      "name": "8.4 Lección 7 Folleto Lección 7 Autoevaluación",
+      "modifiedTime": "2024-08-25T07:40:14.542Z"
+    },
+    "Lesson 7 - 8.4 Earth in Space/8.4 Lección 7 Folleto Transcripción Eclipse solar": {
+      "driveFileId": "1lMnNiOH-DRvEaeQqu51zI7Bn8dUnlPG-Mop2NL5n6J4",
+      "name": "8.4 Lección 7 Folleto Transcripción Eclipse solar",
+      "modifiedTime": "2024-08-25T07:40:13.126Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Slides": {
+      "driveFileId": "1TKJHviRa89Y4Eh113nDY5uuEK7I34e2bERgATfDZ5Ek",
+      "name": "8.4 Lesson 6 Slides",
+      "modifiedTime": "2024-08-25T07:40:17.626Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Teacher Edition": {
+      "driveFileId": "13XU-t5wo3AvL76Kibp7rdDuZgXGpI8nKBAiHXBX254g",
+      "name": "8.4 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:40:15.912Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1P_efUU6o38F9ZB9RYpfp8yzYLv47TDMFpedT-cHzMZ0",
+      "name": "8.4 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:15.368Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Student Procedure": {
+      "driveFileId": "1GEhpJILe0WeQ_HXcdnERsFnJt_jYnl7rIkbUWVR9ndM",
+      "name": "8.4 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-25T07:40:14.678Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Handout Lesson 6 My": {
+      "driveFileId": "1MXpScBvkzZuCe-yAVzaMIVqKN7fAfp_e8Ojdw2jzayI",
+      "name": "8.4 Lesson 6 Handout Lesson 6 My",
+      "modifiedTime": "2024-08-25T07:40:14.325Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lección 6 Folleto Patrones de forma": {
+      "driveFileId": "1HOSMGVQ_d8mhwjHEhwvsKOhmZOgfHacO0NXEYNRBMmI",
+      "name": "8.4 Lección 6 Folleto Patrones de forma",
+      "modifiedTime": "2024-08-25T07:40:13.757Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lección 6 Folleto Lección 6 Mi": {
+      "driveFileId": "1wjzWglmS6T_g4bMdsNzPvRTkXLV35m7zrYdmaXC2x1k",
+      "name": "8.4 Lección 6 Folleto Lección 6 Mi",
+      "modifiedTime": "2024-08-25T07:40:13.622Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Handout Transcript A New": {
+      "driveFileId": "1lT_Z1SrUH2LYY6m3iRHz80ZRZ_M7uvNywlI8xm56_qQ",
+      "name": "8.4 Lesson 6 Handout Transcript A New",
+      "modifiedTime": "2024-08-25T07:40:13.617Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lección 6 Folleto Transcripción Una nueva": {
+      "driveFileId": "1nJlaPakk6VDS193K9h965mqgUEnQWmfgoADKXUlrtds",
+      "name": "8.4 Lección 6 Folleto Transcripción Una nueva",
+      "modifiedTime": "2024-08-25T07:40:12.956Z"
+    },
+    "Lesson 6 - 8.4 Earth in Space/8.4 Lesson 6 Handout Shape Patterns of": {
+      "driveFileId": "1Q1cT5zliy2yCMRwp78uhuzpeapXUoFSnpYMYIZxOfJk",
+      "name": "8.4 Lesson 6 Handout Shape Patterns of",
+      "modifiedTime": "2024-08-25T07:40:11.262Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Slides": {
+      "driveFileId": "1SrVnOVYWuQOsGFZmNAvjWqORoFPzPw2oGV4eQKhdr9g",
+      "name": "8.4 Lesson 5 Slides",
+      "modifiedTime": "2024-08-25T07:40:13.623Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Student Procedure": {
+      "driveFileId": "1sA5dnVNcqavbOsaaePdlFPs3qVVlVIwOldd5aJAMDuk",
+      "name": "8.4 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-25T07:40:13.616Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Teacher Edition": {
+      "driveFileId": "1BsXLUzfxTvL3k9Ihu23eBP1fJQA9VrUjBD1nUYxadtY",
+      "name": "8.4 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:40:13.450Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1Po1B2IF9Ub0bCSE1VjQTZWoVW5-2peAyiQuXlLdbEZo",
+      "name": "8.4 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:13.155Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lección 5 Folleto Conectando patrones en": {
+      "driveFileId": "1I9x0n_bKg1G5r9XwDtzFPEgLer8HVZeGSgA_b4IxCw8",
+      "name": "8.4 Lección 5 Folleto Conectando patrones en",
+      "modifiedTime": "2024-08-25T07:40:12.265Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Handout Connecting Patterns in": {
+      "driveFileId": "1OZcgRAChgPsf4Td0Z2RUDbnQbdx9SfEi5QBBuOOjyjo",
+      "name": "8.4 Lesson 5 Handout Connecting Patterns in",
+      "modifiedTime": "2024-08-25T07:40:12.181Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Handout Self-Assessment for Classroom": {
+      "driveFileId": "1e7IfH7n-20NF1inM_r417QQ_QUu9g_ZrRV637X46UcQ",
+      "name": "8.4 Lesson 5 Handout Self-Assessment for Classroom",
+      "modifiedTime": "2024-08-25T07:40:11.129Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lesson 5 Handout Lesson 5 Community": {
+      "driveFileId": "19GXorF5BKsnVwqglWFBwlJ78q8Gvoiv-qvtjDTme1c4",
+      "name": "8.4 Lesson 5 Handout Lesson 5 Community",
+      "modifiedTime": "2024-08-25T07:40:11.076Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lección 5 Folleto Lección 5 Guía": {
+      "driveFileId": "1cAqS2VmBQVmn11CLuC_b8OdO9z70Ffpws08m9Tw1GQg",
+      "name": "8.4 Lección 5 Folleto Lección 5 Guía",
+      "modifiedTime": "2024-08-25T07:40:10.447Z"
+    },
+    "Lesson 5 - 8.4 Earth in Space/8.4 Lección 5 Folleto Autoevaluación para discusiones": {
+      "driveFileId": "19rdoYAVq8Z0oxKEIxczWkRpyOhgrsTRtLrsQpTa17pI",
+      "name": "8.4 Lección 5 Folleto Autoevaluación para discusiones",
+      "modifiedTime": "2024-08-25T07:40:10.313Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition": {
+      "driveFileId": "1q3KP9qk3aF8rYWezk9wJGypiLIY82gM3E9o3DE9yZE4",
+      "name": "8.4 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:40:12.060Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1xyMVPvnJgq6gKOpqhSYG2qWyfUMXZDgY7AfUkkFdVKk",
+      "name": "8.4 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:11.490Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Slides": {
+      "driveFileId": "1rukUBY2cgfT5Apbm2TJ0yDtYLae__AHsm3EzUxSqjUA",
+      "name": "8.4 Lesson 4 Slides",
+      "modifiedTime": "2024-08-25T07:40:11.245Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Student Procedure": {
+      "driveFileId": "1P1i2ryDPh_wxTK_xK9dXo58oEekej4UXHdkaXjTiFQk",
+      "name": "8.4 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-25T07:40:10.962Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Reading The Equator, the": {
+      "driveFileId": "1GLCGNSg_wwcde6qW9AI1N5R8P_p05kuNKLKFnYtCL7Q",
+      "name": "8.4 Lesson 4 Reading The Equator, the",
+      "modifiedTime": "2024-08-25T07:40:10.536Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Reading The Equator,": {
+      "driveFileId": "1yA1axzbW3q-EFszdHA3u1810-MyMwyGGctHKSj1GWrE",
+      "name": "8.4 Lesson 4 Handout Reading The Equator,",
+      "modifiedTime": "2024-08-25T07:40:10.005Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Modeling Sunlight Angles": {
+      "driveFileId": "1E0Fxv3aiB2b_DfrrpgndwY-gAP6qcqupI0b3j90X6Gs",
+      "name": "8.4 Lesson 4 Handout Modeling Sunlight Angles",
+      "modifiedTime": "2024-08-25T07:40:09.605Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Reading Defining Seasons": {
+      "driveFileId": "12GID7zBPTswOlPGPIGJddur-GvU8bI8mCVkXQjgvL6E",
+      "name": "8.4 Lesson 4 Reading Defining Seasons",
+      "modifiedTime": "2024-08-25T07:40:09.289Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Assessment What causes the": {
+      "driveFileId": "1a1--KnyHX3_2HMKLVPrlLQGRgfvrqm37SAmwKFJGX5I",
+      "name": "8.4 Lesson 4 Assessment What causes the",
+      "modifiedTime": "2024-08-25T07:40:09.286Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Seasonal Temperature Data": {
+      "driveFileId": "1CklczSDVfZH8hJr4nJRbf4eucL36A2mfbfX94tzwXNU",
+      "name": "8.4 Lesson 4 Handout Seasonal Temperature Data",
+      "modifiedTime": "2024-08-25T07:40:09.231Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Lectura El ecuador, el": {
+      "driveFileId": "1JN3ZLo1xyCZlJStbpDzWyZlC6ytmkh74DiB01VYxevk",
+      "name": "8.4 Lección 4 Lectura El ecuador, el",
+      "modifiedTime": "2024-08-25T07:40:09.002Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Reading Defining Seasons": {
+      "driveFileId": "1KuuyOuH8IbLijUe_9Ro_lZvm1RJhGnz198Ma-7kXn0Y",
+      "name": "8.4 Lesson 4 Handout Reading Defining Seasons",
+      "modifiedTime": "2024-08-25T07:40:08.994Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Graph Paper Images": {
+      "driveFileId": "1nY_nDBD9Lq_JRdLtanNtI27u4chqFkcXpHHIofT0T0M",
+      "name": "8.4 Lesson 4 Handout Graph Paper Images",
+      "modifiedTime": "2024-08-25T07:40:08.726Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Handout Lesson 4 Gotta-Have-It": {
+      "driveFileId": "1LHg9AAQqeRG3uDbAaIA6LDOCRAHhqokFXNDnIn6K1x8",
+      "name": "8.4 Lesson 4 Handout Lesson 4 Gotta-Have-It",
+      "modifiedTime": "2024-08-25T07:40:08.320Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Answer Key What causes the": {
+      "driveFileId": "1sKJMWa6d4mwONiRtplx44uy2oeufJbOEfn4uoH8zBAg",
+      "name": "8.4 Lesson 4 Answer Key What causes the",
+      "modifiedTime": "2024-08-25T07:40:07.783Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Answer Key Key for “What": {
+      "driveFileId": "1AwOhi1oCEBzaHxD2ZEwQMd1CPnlANZ1Oj9brEys_pDE",
+      "name": "8.4 Lesson 4 Answer Key Key for “What",
+      "modifiedTime": "2024-08-25T07:40:07.368Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Folleto Modelando ángulos de": {
+      "driveFileId": "1eKYI1jhx852FUoiF7drf3Pi4mwnjGTdhT16xNVu_YqM",
+      "name": "8.4 Lección 4 Folleto Modelando ángulos de",
+      "modifiedTime": "2024-08-25T07:40:06.731Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Evaluación ¿Qué causa las": {
+      "driveFileId": "1uVMz_GcBVjGGb1zQwZKJDiQbFr6qlWEtucOmN0ObQTM",
+      "name": "8.4 Lección 4 Evaluación ¿Qué causa las",
+      "modifiedTime": "2024-08-25T07:40:06.680Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Folleto Lectura El ecuador,": {
+      "driveFileId": "1iMcmZZov4n6W7jb_TuPqzUG-CdAgg28TzrT5HKr7mlA",
+      "name": "8.4 Lección 4 Folleto Lectura El ecuador,",
+      "modifiedTime": "2024-08-25T07:40:06.599Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Lectura Definir las estaciones": {
+      "driveFileId": "1r3cKVNIN9_lAFebfI4bxvVp4K26j9pCxI62dWXNUfKo",
+      "name": "8.4 Lección 4 Lectura Definir las estaciones",
+      "modifiedTime": "2024-08-25T07:40:06.381Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Folleto Imágenes de papel": {
+      "driveFileId": "10Loaia1QJKqqlkGESjh5BAbjpTldvG0WruIFh9SdDDA",
+      "name": "8.4 Lección 4 Folleto Imágenes de papel",
+      "modifiedTime": "2024-08-25T07:40:06.243Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Answer Key Key for Modeling": {
+      "driveFileId": "1uUFc6WLLeKEyPf7MU7eSDBpCVwUb8suKoC_aM8Nas4c",
+      "name": "8.4 Lesson 4 Answer Key Key for Modeling",
+      "modifiedTime": "2024-08-25T07:40:06.042Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Folleto Lista de verificación": {
+      "driveFileId": "1lHpWMB2t4eOj40FhQc6ORfDCNc1w3fThmL5m0OU7qjs",
+      "name": "8.4 Lección 4 Folleto Lista de verificación",
+      "modifiedTime": "2024-08-25T07:40:05.623Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Folleto Lectura Definir las": {
+      "driveFileId": "1HLwXl4G94n-MFvRax2OdkHCBzyjzogoKy9lzNHxRfIM",
+      "name": "8.4 Lección 4 Folleto Lectura Definir las",
+      "modifiedTime": "2024-08-25T07:40:05.587Z"
+    },
+    "Lesson 4 - 8.4 Earth in Space/8.4 Lección 4 Folleto Datos de temperatura": {
+      "driveFileId": "1QLLHizf0yRxMc3CUSvUmgK6BUmnTX9j2x5t_2Et4vOE",
+      "name": "8.4 Lección 4 Folleto Datos de temperatura",
+      "modifiedTime": "2024-08-25T07:40:05.130Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Edition": {
+      "driveFileId": "13mjfkN3S1UUhSCN95qGbQerykyHLvpggB9BrCL4bKrc",
+      "name": "8.4 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:40:09.356Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1OK-pSp5_CIfgY-eqgZBuY3ve3-YYXoheSDC9yKKPtqc",
+      "name": "8.4 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:07.212Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Reference Observing the Sun": {
+      "driveFileId": "11mZe6x8WCmqJdBLHABborY6FAiglQECGegoOo9QBa80",
+      "name": "8.4 Lesson 3 Teacher Reference Observing the Sun",
+      "modifiedTime": "2024-08-25T07:40:07.051Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Reference Example Modeling the": {
+      "driveFileId": "1zXGM5r6Cs8hSRS4yyHv5NEFhnDAhgjbPqA1JBiIsNc4",
+      "name": "8.4 Lesson 3 Teacher Reference Example Modeling the",
+      "modifiedTime": "2024-08-25T07:40:06.037Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Slides": {
+      "driveFileId": "1QsUlZoVf6h8_qWMMxsXOSUoiYN7gRs3JZDnHRqj_Eb0",
+      "name": "8.4 Lesson 3 Slides",
+      "modifiedTime": "2024-08-25T07:40:05.647Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Student Procedure": {
+      "driveFileId": "1NOwuuw96QGq9kTEVF6ne3pLtqFMXSvxEMve6C1bNs5A",
+      "name": "8.4 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-25T07:40:05.167Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Teacher Reference Data from NOAA": {
+      "driveFileId": "1Y80m036zR9OaPk4u_ldhQZo7lvva7abhO0m2y8xPciQ",
+      "name": "8.4 Lesson 3 Teacher Reference Data from NOAA",
+      "modifiedTime": "2024-08-25T07:40:04.582Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Modeling the Earth–Sun": {
+      "driveFileId": "1G4gLFeZ5Uk3Zg3fXmy4iOXTJPnBclbS8OOxcRzl9_gY",
+      "name": "8.4 Lesson 3 Handout Modeling the Earth–Sun",
+      "modifiedTime": "2024-08-25T07:40:03.923Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Transcript Sun Measurement": {
+      "driveFileId": "1dG8m_Vyal57FCZngJj-q-yNzzGs-fVLJBV-6VoEZvHk",
+      "name": "8.4 Lesson 3 Handout Transcript Sun Measurement",
+      "modifiedTime": "2024-08-25T07:40:03.757Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Transcript 4 Measuring": {
+      "driveFileId": "1Num0179-XCzd5WZY3V4i8EhVJENTgD9voNqVHqIlLKw",
+      "name": "8.4 Lesson 3 Handout Transcript 4 Measuring",
+      "modifiedTime": "2024-08-25T07:40:03.749Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Transcript 3 Measuring": {
+      "driveFileId": "1tCoYxDZHZnbhKKiWHuhuY6a4houXfLzI5iceHPkyPR4",
+      "name": "8.4 Lesson 3 Handout Transcript 3 Measuring",
+      "modifiedTime": "2024-08-25T07:40:03.465Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Transcript 2 Measuring": {
+      "driveFileId": "1XIS87Fftu7GPGvfutx_eRf71tyBEPYC64VKsHXCbj3c",
+      "name": "8.4 Lesson 3 Handout Transcript 2 Measuring",
+      "modifiedTime": "2024-08-25T07:40:03.088Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Sun Patterns Over": {
+      "driveFileId": "17X4Y4QHGnMpt-dVc2GLYRtAL0KCxdFTTmoLkFIPbC48",
+      "name": "8.4 Lesson 3 Handout Sun Patterns Over",
+      "modifiedTime": "2024-08-25T07:40:02.299Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Transcript 1 Measuring": {
+      "driveFileId": "1e2v5W0rOS1H03r433venHplNkotL78j9FxFkhtsDNrw",
+      "name": "8.4 Lesson 3 Handout Transcript 1 Measuring",
+      "modifiedTime": "2024-08-25T07:40:02.296Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Modelando el sistema": {
+      "driveFileId": "1pZ2FbGE3g6Q3V6s9cRN9SAceywSG1ZMY6z-VxoHYHx8",
+      "name": "8.4 Lección 3 Folleto Modelando el sistema",
+      "modifiedTime": "2024-08-25T07:40:02.048Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Observations of the": {
+      "driveFileId": "1XM86oMSDXa4OVOSrp1LMV0U7KdDhqpl3Gs97bNz00fY",
+      "name": "8.4 Lesson 3 Handout Observations of the",
+      "modifiedTime": "2024-08-25T07:40:01.620Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Answer Key Key to Mapping": {
+      "driveFileId": "1jlaFD-TrjjthfsM3rb_-LKwF-e6AzaFQHd44Vui9GaU",
+      "name": "8.4 Lesson 3 Answer Key Key to Mapping",
+      "modifiedTime": "2024-08-25T07:40:01.449Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Transcripción Orientación de": {
+      "driveFileId": "1QYz4VbUtz4k-f2CQ5STr0z7gEdD4ylRj_O5En7Nwarg",
+      "name": "8.4 Lección 3 Folleto Transcripción Orientación de",
+      "modifiedTime": "2024-08-25T07:40:01.298Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lesson 3 Handout Mapping the Model": {
+      "driveFileId": "1wHIjYZG_GMeDGgiENCTvKs3PZDiCCbZ1sase9bY9950",
+      "name": "8.4 Lesson 3 Handout Mapping the Model",
+      "modifiedTime": "2024-08-25T07:40:01.265Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Transcripción 3 Midiendo": {
+      "driveFileId": "1O2T27ypt0fOjN0G2CZ0emMfQVyV-7Y42nXX8-bKY3hA",
+      "name": "8.4 Lección 3 Folleto Transcripción 3 Midiendo",
+      "modifiedTime": "2024-08-25T07:40:01.104Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Patrones solares durante": {
+      "driveFileId": "1DBEmLy7YVuGW_2Fem1368RqUKMhaT0KPvCBt7uUgjEY",
+      "name": "8.4 Lección 3 Folleto Patrones solares durante",
+      "modifiedTime": "2024-08-25T07:40:00.753Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Transcripción 4 Midiendo": {
+      "driveFileId": "14LiWCvZTJ9b-PNjqpFVI72yIDl6CeAh508aORkW91Zg",
+      "name": "8.4 Lección 3 Folleto Transcripción 4 Midiendo",
+      "modifiedTime": "2024-08-25T07:40:00.516Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Observaciones del Sol": {
+      "driveFileId": "13CwZnmgSA6LcNmu4apLrVqoaZOAS_WOu83Gdy8f9RXA",
+      "name": "8.4 Lección 3 Folleto Observaciones del Sol",
+      "modifiedTime": "2024-08-25T07:40:00.452Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Transcripción 1 Midiendo": {
+      "driveFileId": "1RC9shAlGFyEpXPOY9c_Ysqk57piXu5rpcbKz6spxbig",
+      "name": "8.4 Lección 3 Folleto Transcripción 1 Midiendo",
+      "modifiedTime": "2024-08-25T07:40:00.281Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Transcripción 2 Midiendo": {
+      "driveFileId": "1JcyxrLVtEYITVP0fmTxbxHaBvDG7lxD-60SleoN0kA0",
+      "name": "8.4 Lección 3 Folleto Transcripción 2 Midiendo",
+      "modifiedTime": "2024-08-25T07:39:59.748Z"
+    },
+    "Lesson 3 - 8.4 Earth in Space/8.4 Lección 3 Folleto Mapeo del modelo": {
+      "driveFileId": "1cDyMmUy7PRR-zIe_4ujZDxyV00a9o4Q8pCHrSvtuhOY",
+      "name": "8.4 Lección 3 Folleto Mapeo del modelo",
+      "modifiedTime": "2024-08-25T07:39:59.322Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Slides": {
+      "driveFileId": "1C4uk5fZ7aX4zUmAG7wS51RL6MS9CXdp_IfhNgPl6j_g",
+      "name": "8.4 Lesson 2 Slides",
+      "modifiedTime": "2024-08-25T07:40:01.318Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1D-3YiEv7t30F8XaYh40hNg3804LmROqEX3lwTrPZ2X0",
+      "name": "8.4 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:40:00.522Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Teacher Edition": {
+      "driveFileId": "15RuQdG4F496mpq1uZK2QyWrWmWveZLGMp044jyylZ6A",
+      "name": "8.4 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:40:00.235Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Student Procedure": {
+      "driveFileId": "1BxNwsb9Pd-jGnjPvLsfiqm5xQbldwriWgxqKlmNjMXs",
+      "name": "8.4 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:59.905Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Handout A Model to": {
+      "driveFileId": "1AxB3S6opuSLICxmzg8WLgkRVi51gXk_fSTkoKQPwCRM",
+      "name": "8.4 Lesson 2 Handout A Model to",
+      "modifiedTime": "2024-08-25T07:39:58.061Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Handout Transcript Paiute Star": {
+      "driveFileId": "1_yDmFUuoty4PmIWz_fjfut-HM_Jdk8qKN7e3u1LB0Qs",
+      "name": "8.4 Lesson 2 Handout Transcript Paiute Star",
+      "modifiedTime": "2024-08-25T07:39:57.822Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Handout Transcript Navajo Story": {
+      "driveFileId": "1McmSVtZ6CbZJkTK8IOhJJL3Rx2bP1fMcz2CB7K1In6M",
+      "name": "8.4 Lesson 2 Handout Transcript Navajo Story",
+      "modifiedTime": "2024-08-25T07:39:57.661Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lesson 2 Teacher Reference Stellarium Introduction Teacher": {
+      "driveFileId": "1tnEEGxesekQhWdQUjZwxbV97wVdxVLRQ1EeKtmtSqu4",
+      "name": "8.4 Lesson 2 Teacher Reference Stellarium Introduction Teacher",
+      "modifiedTime": "2024-08-25T07:39:57.233Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lección 2 Folleto Un modelo para": {
+      "driveFileId": "1B5-suw9WchJ8fI-zjxKR5fU_KH1YG-jgtZ84sWJuGuA",
+      "name": "8.4 Lección 2 Folleto Un modelo para",
+      "modifiedTime": "2024-08-25T07:39:56.777Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lección 2 Folleto Transcripción Historias de": {
+      "driveFileId": "1aANXvSt8nWn4-uAykCz2UOmsLIIDAiDMptG0U_NmaAs",
+      "name": "8.4 Lección 2 Folleto Transcripción Historias de",
+      "modifiedTime": "2024-08-25T07:39:56.368Z"
+    },
+    "Lesson 2 - 8.4 Earth in Space/8.4 Lección 2 Folleto Historia Navajo de": {
+      "driveFileId": "1EY0oMApfreaJEN5jtqTol_lOvOl68iaT1c1TpTfTViw",
+      "name": "8.4 Lección 2 Folleto Historia Navajo de",
+      "modifiedTime": "2024-08-25T07:39:56.210Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Slides": {
+      "driveFileId": "1QGMUqggJTTZwzzl7UBksNN3_S3I35bb4ozXB7PrO48g",
+      "name": "8.4 Lesson 17 Slides",
+      "modifiedTime": "2024-08-25T07:39:59.981Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Student Procedure in Spanish": {
+      "driveFileId": "1gEOOcAgm6FaXGOyziKXJ8MSUA5MNY_Re-rINm7j_wp8",
+      "name": "8.4 Lesson 17 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:57.949Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Student Procedure": {
+      "driveFileId": "1CljW3ZgdXQvZrk0XnEfS4dIGnjeF9UnM3oJgR2lYrS8",
+      "name": "8.4 Lesson 17 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:57.424Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Teacher Edition": {
+      "driveFileId": "1abMDbvHKE7IDvWrbChHQwsr6du-qNCnWC0K1HtggjRQ",
+      "name": "8.4 Lesson 17 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:57.251Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Handout The Pale Blue": {
+      "driveFileId": "14oAH_cbl9nQv14VM2FK9WGe-rNYukIIG0n0M7xBlN7I",
+      "name": "8.4 Lesson 17 Handout The Pale Blue",
+      "modifiedTime": "2024-08-25T07:39:56.784Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lección 17 Folleto Transcripción Reflexiones sobre": {
+      "driveFileId": "1BOgbmqVTPtYptTw6I054qoAE8Mqg-OsHj6b8CFVaG7g",
+      "name": "8.4 Lección 17 Folleto Transcripción Reflexiones sobre",
+      "modifiedTime": "2024-08-25T07:39:55.289Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Rubric Rubric for Structure": {
+      "driveFileId": "1J55HdjODKBl3uaz2U1j0CnvQcE2LhL3oyWNjqo6qGD4",
+      "name": "8.4 Lesson 17 Rubric Rubric for Structure",
+      "modifiedTime": "2024-08-25T07:39:55.199Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Handout Transcript Reflections on": {
+      "driveFileId": "1QLRljjuUmXVZFoZbs6H0ksm8uxQrqeIABX0OCECJLjs",
+      "name": "8.4 Lesson 17 Handout Transcript Reflections on",
+      "modifiedTime": "2024-08-25T07:39:54.978Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lección 17 Folleto Revisión de nuestro": {
+      "driveFileId": "1vbsHOninENZg-YisIz2E2GiZfsWtqLRIrT8Sri1AWKo",
+      "name": "8.4 Lección 17 Folleto Revisión de nuestro",
+      "modifiedTime": "2024-08-25T07:39:54.834Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lesson 17 Handout Reviewing Our Driving": {
+      "driveFileId": "1BXY2QkA-uSTElSbud4dyQzQcBHLHyAE-9A4xpnW--yM",
+      "name": "8.4 Lesson 17 Handout Reviewing Our Driving",
+      "modifiedTime": "2024-08-25T07:39:54.711Z"
+    },
+    "Lesson 17 - 8.4 Earth in Space/8.4 Lección 17 Folleto El punto azul": {
+      "driveFileId": "1t3EyXd1kWYxMCGmuStebgHxDivvS16QrhpYOfxsncn4",
+      "name": "8.4 Lección 17 Folleto El punto azul",
+      "modifiedTime": "2024-08-25T07:39:52.540Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Teacher Edition": {
+      "driveFileId": "1jIr6X8rb9ZdXooyotqzmxKrPfxGAB5-uW8vX5Qck-38",
+      "name": "8.4 Lesson 16 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:56.717Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Slides": {
+      "driveFileId": "1jkJ10UK-VIYuS5XyrEZQopdE6xKhf3fr9n8JOyA5qh8",
+      "name": "8.4 Lesson 16 Slides",
+      "modifiedTime": "2024-08-25T07:39:56.025Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Student Procedure in Spanish": {
+      "driveFileId": "1msfF5aFxmFB9D1z1BZMP4kPEttyQVf1HWq2jRUHkNBE",
+      "name": "8.4 Lesson 16 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:55.693Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Student Procedure": {
+      "driveFileId": "1yviyaf3jpDoI3qm74IYYSPtQMcU3JXwUuaJ0Qd9sXW0",
+      "name": "8.4 Lesson 16 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:55.683Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Reference Hubble eXtreme Deep": {
+      "driveFileId": "1JT5n1ojoBz8yCSEMfgBEgyppBchjXHM8fBNEbRORrRI",
+      "name": "8.4 Lesson 16 Reference Hubble eXtreme Deep",
+      "modifiedTime": "2024-08-25T07:39:55.408Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Reading The Great Debate": {
+      "driveFileId": "1yLw0O7vznJTvEn_qd3bqXKLn20opCMS8Ddj5LbU5Ni4",
+      "name": "8.4 Lesson 16 Reading The Great Debate",
+      "modifiedTime": "2024-08-25T07:39:55.171Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Handout Reading The Great": {
+      "driveFileId": "1sNV6g110X7D_GnxgW8jWOcQoj-HdisJUI5OMnafFKs8",
+      "name": "8.4 Lesson 16 Handout Reading The Great",
+      "modifiedTime": "2024-08-25T07:39:54.014Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lección 16 Referencia Campo profundo eXtreme": {
+      "driveFileId": "1LCo-AkGczQFFJzJ0bf62CO2Q9UmU2ksnRiYC-wX_NfA",
+      "name": "8.4 Lección 16 Referencia Campo profundo eXtreme",
+      "modifiedTime": "2024-08-25T07:39:53.978Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Handout Tour of the": {
+      "driveFileId": "1pGbF0HiQgGQhLhLpUBYxgSDYE1HuWfnr3TDsI3_Dyjs",
+      "name": "8.4 Lesson 16 Handout Tour of the",
+      "modifiedTime": "2024-08-25T07:39:53.750Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lección 16 Lectura El Gran Debate": {
+      "driveFileId": "1PFk9TWSn6wqUi1-lB8HTGezjNrcjAM7KVmM0rJYGWDc",
+      "name": "8.4 Lección 16 Lectura El Gran Debate",
+      "modifiedTime": "2024-08-25T07:39:53.499Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lesson 16 Handout Hubble eXtreme Deep": {
+      "driveFileId": "1Hw043LjvstdlAkEViQj9hZOAGglzG1dtJFCqRBX5daY",
+      "name": "8.4 Lesson 16 Handout Hubble eXtreme Deep",
+      "modifiedTime": "2024-08-25T07:39:52.819Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lección 16 Folleto Tour del Universo": {
+      "driveFileId": "1FJ5a0vwlFbtCb56smHgnl0n3ZE_tSCQxjJqUKA-MkJk",
+      "name": "8.4 Lección 16 Folleto Tour del Universo",
+      "modifiedTime": "2024-08-25T07:39:52.318Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lección 16 Folleto Campo profundo eXtreme": {
+      "driveFileId": "1-yUW6wyJnXzENPhU9etrClIrp171L-Hs-erXMgP6YFo",
+      "name": "8.4 Lección 16 Folleto Campo profundo eXtreme",
+      "modifiedTime": "2024-08-25T07:39:52.308Z"
+    },
+    "Lesson 16 - 8.4 Earth in Space/8.4 Lección 16 Folleto Lectura El Gran": {
+      "driveFileId": "1M6U6ZADI8MXSNfqiLYxHXwhds5DqEFYGLIKUNWEI6gI",
+      "name": "8.4 Lección 16 Folleto Lectura El Gran",
+      "modifiedTime": "2024-08-25T07:39:52.029Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1MSMZZ-A64B_H_EkLpxgIVWSXAasGXDk3A4tVJknWxL4",
+      "name": "8.4 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:52.935Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Teacher Edition": {
+      "driveFileId": "1z7FHNqKZD1ok9TixawkWh_lQv-gp8EMfFZ82FX89TZc",
+      "name": "8.4 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:52.716Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Student Procedure": {
+      "driveFileId": "1tBxkemW2Hhg-4kWcv0OXvSSDuiLSLiNHKWae5fbT68s",
+      "name": "8.4 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:52.580Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Slides": {
+      "driveFileId": "134YbpjY50_8Zq4EdyWgVv6y7q6vusJtGWy2IRYWAOPk",
+      "name": "8.4 Lesson 15 Slides",
+      "modifiedTime": "2024-08-25T07:39:52.097Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Handout Comic Book Storyboard": {
+      "driveFileId": "1y4vsnTCk01F90SQeinkNssyDywxRdRDSXpy5uMYNP9g",
+      "name": "8.4 Lesson 15 Handout Comic Book Storyboard",
+      "modifiedTime": "2024-08-25T07:39:50.563Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lección 15 Folleto Transcripción Simulando la": {
+      "driveFileId": "1ydpBGArstiT3xndBU8tf6BQrNdjui5XTdbaJOx-6hgY",
+      "name": "8.4 Lección 15 Folleto Transcripción Simulando la",
+      "modifiedTime": "2024-08-25T07:39:50.152Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lección 15 Folleto Guión gráfico de": {
+      "driveFileId": "1nZNOCdCih7F2a07c7nbmTmIo12FWaBd23hn8QsZX6gM",
+      "name": "8.4 Lección 15 Folleto Guión gráfico de",
+      "modifiedTime": "2024-08-25T07:39:49.981Z"
+    },
+    "Lesson 15 - 8.4 Earth in Space/8.4 Lesson 15 Handout Transcript Simulating Solar": {
+      "driveFileId": "1XIoF0se6U6nbf0vQjcuRnYhbjakZWTAFppCXWWu3-k8",
+      "name": "8.4 Lesson 15 Handout Transcript Simulating Solar",
+      "modifiedTime": "2024-08-25T07:39:49.911Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Teacher Edition": {
+      "driveFileId": "1WbXYmaHhhIKAafE9eAU9BiNbYQ6pdLT_PrUaDJYM5CU",
+      "name": "8.4 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:51.833Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Slides": {
+      "driveFileId": "1XJwTjSAQ4Z8JuyQfKBKeIud9SnZAl4MXfJdJVY1hyyc",
+      "name": "8.4 Lesson 14 Slides",
+      "modifiedTime": "2024-08-25T07:39:51.032Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Student Procedure": {
+      "driveFileId": "1zU1i8cV4Im9enu85or90toI5zRlFyHpNY4ABZ4TpQy4",
+      "name": "8.4 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:50.685Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1jy6Bkcs83y6tR7rSptJbZiLAUbMc9il1Lj1XI4XvfHc",
+      "name": "8.4 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:50.537Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lección 14 Folleto ¿Qué causa que": {
+      "driveFileId": "1h6QBJisjebQZrsU6lPvUSBjqD8gwOef13jB6bTZ2AbU",
+      "name": "8.4 Lección 14 Folleto ¿Qué causa que",
+      "modifiedTime": "2024-08-25T07:39:49.681Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Handout What causes one": {
+      "driveFileId": "1_wiNDGz5Xapq6h-i6sjM-lMrJOtXXXjx_UOd4cDg_0U",
+      "name": "8.4 Lesson 14 Handout What causes one",
+      "modifiedTime": "2024-08-25T07:39:49.010Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Handout Simulating a Two-Object": {
+      "driveFileId": "1jzB9UgPcbVRGolQ_Pbw45-PEQt4G981sgBhthvRgUOo",
+      "name": "8.4 Lesson 14 Handout Simulating a Two-Object",
+      "modifiedTime": "2024-08-25T07:39:48.397Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lección 14 Folleto Transcripción Introducción a": {
+      "driveFileId": "1RobbbnX0PlM079fgq2_gjIv4DosU4-vwAxePHPeHG3U",
+      "name": "8.4 Lección 14 Folleto Transcripción Introducción a",
+      "modifiedTime": "2024-08-25T07:39:48.327Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lección 14 Folleto Simulación de un": {
+      "driveFileId": "1Bds9ZrLU4OlUoDLhFj5j6oAtC6Kv-a2aG6DW-XQ6w4E",
+      "name": "8.4 Lección 14 Folleto Simulación de un",
+      "modifiedTime": "2024-08-25T07:39:47.879Z"
+    },
+    "Lesson 14 - 8.4 Earth in Space/8.4 Lesson 14 Handout Transcript Exploring Orbits": {
+      "driveFileId": "1izm1gV082QmLPWhjc_e7JCnaIJZVYb3HSwV0feNftms",
+      "name": "8.4 Lesson 14 Handout Transcript Exploring Orbits",
+      "modifiedTime": "2024-08-25T07:39:47.673Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Slides": {
+      "driveFileId": "1C1Z9W7iUoIyzP3G_Af7SlpHZDnm5FrXFSdgJNRSncZs",
+      "name": "8.4 Lesson 13 Slides",
+      "modifiedTime": "2024-08-25T07:39:50.992Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/Copy of 8.4 Lección 13 Unknown Type Buscando patrones en": {
+      "driveFileId": "1yj_xwNcyc1XO1xQJNZwEZW7MEJtejK4QoVCtJ6KvHrE",
+      "name": "Copy of 8.4 Lección 13 Unknown Type Buscando patrones en",
+      "modifiedTime": "2024-08-25T07:39:50.745Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Teacher Edition": {
+      "driveFileId": "1L_SWtbx_phv62YkK6Cs_m_Hw2FBx0V6RBsLt1kccwoc",
+      "name": "8.4 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:48.878Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Reference Looking for Patterns": {
+      "driveFileId": "15ixyKkn1Rzcie1cOub5OjwstOkDwO_c9lXUtnT0IM3Q",
+      "name": "8.4 Lesson 13 Reference Looking for Patterns",
+      "modifiedTime": "2024-08-25T07:39:48.220Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Student Procedure": {
+      "driveFileId": "1rYeGgrnAdEKBww0pReZAYJUkDYGFbkCzCPBteTOgtVI",
+      "name": "8.4 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:48.080Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1C0iZ9acz06cv2ePuCc95cmlQj1a4slxNXWGxcLZFtNw",
+      "name": "8.4 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:47.307Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Competing Models of": {
+      "driveFileId": "1KlxAcZqDbn0UwFKJmr6zlsr_kEEmtD1Ei6RosijE-i4",
+      "name": "8.4 Lesson 13 Handout Competing Models of",
+      "modifiedTime": "2024-08-25T07:39:47.174Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Venus in Cultures": {
+      "driveFileId": "1RMyk0Q-_HJ1jg1Ak7TknTIx1t3-PaA2UNhVYT3PeThQ",
+      "name": "8.4 Lesson 13 Handout Venus in Cultures",
+      "modifiedTime": "2024-08-25T07:39:47.172Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Looking for Patterns": {
+      "driveFileId": "16bAd6ZMQXX39prvfz51REWwoiiaaGRaMnnn5bT0Sgzk",
+      "name": "8.4 Lesson 13 Handout Looking for Patterns",
+      "modifiedTime": "2024-08-25T07:39:47.140Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout L13 Community Guide": {
+      "driveFileId": "1Oe3PW65gl8C0VhSCVIiIMrv1ni1PAncxAZjlJlfa4Vk",
+      "name": "8.4 Lesson 13 Handout L13 Community Guide",
+      "modifiedTime": "2024-08-25T07:39:46.326Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Transcript Eyes on": {
+      "driveFileId": "1UHbq3lGDvhnWbWciDHNY53e4Zok87Mu1AWhcFXYjuek",
+      "name": "8.4 Lesson 13 Handout Transcript Eyes on",
+      "modifiedTime": "2024-08-25T07:39:46.115Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Gravity Assist Podcast": {
+      "driveFileId": "1up2vUyFeFx3ha2BUIjMp1lp4it6BOEYbEOQHNxfTmyw",
+      "name": "8.4 Lesson 13 Handout Gravity Assist Podcast",
+      "modifiedTime": "2024-08-25T07:39:45.993Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Infographic Text": {
+      "driveFileId": "1bf6MYrdEr1t9bbfQO6do1TbyFAszNjMImsz_uCcXrRM",
+      "name": "8.4 Lesson 13 Handout Infographic Text",
+      "modifiedTime": "2024-08-25T07:39:45.670Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Transcript Scale of": {
+      "driveFileId": "1jhquncfCyi0odxTtBxt7c348JR5vIcHmSRXXBZCMFq0",
+      "name": "8.4 Lesson 13 Handout Transcript Scale of",
+      "modifiedTime": "2024-08-25T07:39:45.653Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Transcripciones de Podcast": {
+      "driveFileId": "15FYlZ2mgtp3HNloUkKZbqedSCtSx4HZo4D3WsqwMcwQ",
+      "name": "8.4 Lección 13 Folleto Transcripciones de Podcast",
+      "modifiedTime": "2024-08-25T07:39:45.433Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Answer Key Key Explaining Venus-Related": {
+      "driveFileId": "1F4A369V36Tq2Q8mWublgkyoA44k90SSQcB6gpQ6lDY8",
+      "name": "8.4 Lesson 13 Answer Key Key Explaining Venus-Related",
+      "modifiedTime": "2024-08-25T07:39:45.326Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Explaining Venus-Related Patterns": {
+      "driveFileId": "1n0asnNzTr86MlwUMKUuLTGGXyNauw-IeZ6uqyOC3XCw",
+      "name": "8.4 Lesson 13 Handout Explaining Venus-Related Patterns",
+      "modifiedTime": "2024-08-25T07:39:45.219Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Experiences and Connections": {
+      "driveFileId": "1M0lUi4aMoAEOe7zRkyL6eSYrnmz1lv9kEEsXa6W5BOA",
+      "name": "8.4 Lesson 13 Handout Experiences and Connections",
+      "modifiedTime": "2024-08-25T07:39:44.751Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Venus en culturas": {
+      "driveFileId": "1YMqlEcQJ6tN8TWx2vZjRETTEwXy4c9Mxrd3z24pVwlQ",
+      "name": "8.4 Lección 13 Folleto Venus en culturas",
+      "modifiedTime": "2024-08-25T07:39:44.484Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lesson 13 Handout Analyzing and Interpreting": {
+      "driveFileId": "10htRQuhr1YBvWnUDnSPi7_UlAnZsuZ_H6pnA3NNGvbI",
+      "name": "8.4 Lesson 13 Handout Analyzing and Interpreting",
+      "modifiedTime": "2024-08-25T07:39:43.536Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Modelos en competencia": {
+      "driveFileId": "1FgJdu_Gb81sJVvnDxz2mj-lVLGjwcQ4z7AO1ECfMbbA",
+      "name": "8.4 Lección 13 Folleto Modelos en competencia",
+      "modifiedTime": "2024-08-25T07:39:43.483Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Referencia Buscando patrones en": {
+      "driveFileId": "17TclVyTiF4VBtbhw8ISSmg821O2ucGQ54iHxZwlRrRs",
+      "name": "8.4 Lección 13 Referencia Buscando patrones en",
+      "modifiedTime": "2024-08-25T07:39:43.415Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Transcripción Tour Ojos": {
+      "driveFileId": "15xZPMHqcOwz84fwz3Rgx-cPH790ggQMw--ShgsGK2EY",
+      "name": "8.4 Lección 13 Folleto Transcripción Tour Ojos",
+      "modifiedTime": "2024-08-25T07:39:42.668Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Buscando patrones en": {
+      "driveFileId": "1N46hoQ53utcNOIu2H6-XnkCWBgDzMIJBc5w1jJgzQH4",
+      "name": "8.4 Lección 13 Folleto Buscando patrones en",
+      "modifiedTime": "2024-08-25T07:39:42.567Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Texto de infografía": {
+      "driveFileId": "1gQ4c-8UN4j4q3kmCdnIJHl7c7Q1JqFi6lBK_5PClDVY",
+      "name": "8.4 Lección 13 Folleto Texto de infografía",
+      "modifiedTime": "2024-08-25T07:39:42.558Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Transcripción Escala del": {
+      "driveFileId": "14uxBB79P4o13WUyPNpgh97lXbCDcxLTWjnLn4958tEg",
+      "name": "8.4 Lección 13 Folleto Transcripción Escala del",
+      "modifiedTime": "2024-08-25T07:39:42.330Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Protocolo de lectura": {
+      "driveFileId": "1dBBPCwGLVxhUZXWPNolPgbitoyCS3HjPrMgrlVYNeEw",
+      "name": "8.4 Lección 13 Folleto Protocolo de lectura",
+      "modifiedTime": "2024-08-25T07:39:42.320Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto L13 Guía comunitaria": {
+      "driveFileId": "19fJW0CMmlLQc6hzaFIRXx6dZl7pFves55_ftwbWR0Go",
+      "name": "8.4 Lección 13 Folleto L13 Guía comunitaria",
+      "modifiedTime": "2024-08-25T07:39:41.790Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Experiencias y conexiones": {
+      "driveFileId": "1L_sr9aOfJCx7exdtYxXpsgSCTXaOIqSw9IuQHIGVeaw",
+      "name": "8.4 Lección 13 Folleto Experiencias y conexiones",
+      "modifiedTime": "2024-08-25T07:39:41.625Z"
+    },
+    "Lesson 13 - 8.4 Earth in Space/8.4 Lección 13 Folleto Explicación de patrones": {
+      "driveFileId": "1lF1NZkxvQ5WLfb8Iw_8fyIQoAEBaV50Qb7vYjHArI6k",
+      "name": "8.4 Lección 13 Folleto Explicación de patrones",
+      "modifiedTime": "2024-08-25T07:39:41.388Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1qI821PJSLLxGBSZpULpEatlTW6wnxu0Ot-n585j7N94",
+      "name": "8.4 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:42.469Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1qSNEgEz73pJ8NB3Tt2fOXWfaWEwD1C79hRETa3fU8gY",
+      "name": "8.4 Lesson 12 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-25T07:39:42.430Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Slides": {
+      "driveFileId": "1S2VfwQNEWEHcNmjp2oO3r_4emNsI0rEA156OUhsm63w",
+      "name": "8.4 Lesson 12 Slides",
+      "modifiedTime": "2024-08-25T07:39:42.419Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Handout Transcript NASA Earthshine": {
+      "driveFileId": "1MAt7JhsvbLMQlsO3E_oBAUXhJPC_dbomWCzMO0NcltE",
+      "name": "8.4 Lesson 12 Handout Transcript NASA Earthshine",
+      "modifiedTime": "2024-08-25T07:39:41.972Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Student Procedure": {
+      "driveFileId": "1bVlstqgOhOdc_3v7Wj6NZhhWHutVvqUarOh8BlBTry4",
+      "name": "8.4 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:41.606Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Teacher Edition": {
+      "driveFileId": "1TSv5CAboUezwn4GTCmQZWKob4vZIcnMLF02FCoTr_iI",
+      "name": "8.4 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:41.478Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Answer Key Explaining Fishing-Related Phenomena": {
+      "driveFileId": "1owOPludnB58HHKJ2wceYcnJUnnpE5vJt0_odverZ1r8",
+      "name": "8.4 Lesson 12 Answer Key Explaining Fishing-Related Phenomena",
+      "modifiedTime": "2024-08-25T07:39:40.908Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Rubric Rubric for Explaining": {
+      "driveFileId": "1hOdNmbMuKwBZmMDTyuEtY51NxWbMXbooRMvOHj68cbQ",
+      "name": "8.4 Lesson 12 Rubric Rubric for Explaining",
+      "modifiedTime": "2024-08-25T07:39:40.485Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Assessment Explaining Fishing Related-Phenomena": {
+      "driveFileId": "1Vx9gHbsCzJfn7OtI2wwz_JZ35qy78KY9CEZT3dMgw2o",
+      "name": "8.4 Lesson 12 Assessment Explaining Fishing Related-Phenomena",
+      "modifiedTime": "2024-08-25T07:39:39.496Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Handout Reference Peer Feedback": {
+      "driveFileId": "1oyXZgEujhCwUcuq8ZLNp4bQWReMHzx6Rdy4on7M3PEU",
+      "name": "8.4 Lesson 12 Handout Reference Peer Feedback",
+      "modifiedTime": "2024-08-25T07:39:39.074Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Handout Peer Feedback Self-Assessment": {
+      "driveFileId": "1xJF_teOs_rBBpSk47BBGOpC9IuOo0gLVfGvljD1IEcc",
+      "name": "8.4 Lesson 12 Handout Peer Feedback Self-Assessment",
+      "modifiedTime": "2024-08-25T07:39:39.033Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lección 12 Folleto Referencia Pautas para": {
+      "driveFileId": "1T3I6TVcHXhsuzS8SozdIwnsiBqyixZq734_q3vB1REw",
+      "name": "8.4 Lección 12 Folleto Referencia Pautas para",
+      "modifiedTime": "2024-08-25T07:39:38.645Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Answer Key Key for Explaining": {
+      "driveFileId": "1jIe5EduYyn6LIUPXZowiCltYfNLrVjrlgbCzD1i8rU4",
+      "name": "8.4 Lesson 12 Answer Key Key for Explaining",
+      "modifiedTime": "2024-08-25T07:39:38.342Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Handout Evaluating Past Models": {
+      "driveFileId": "18yywC0mlTcY7NAgd1NRrA9NYDCLd36mAHRgmd8H6l-g",
+      "name": "8.4 Lesson 12 Handout Evaluating Past Models",
+      "modifiedTime": "2024-08-25T07:39:38.292Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lección 12 Folleto Transcripción Brillo terrestre": {
+      "driveFileId": "1-dGRtZ2MpCU4AvX69icsGVBPUJlB7KiwwkkCuqE8KKo",
+      "name": "8.4 Lección 12 Folleto Transcripción Brillo terrestre",
+      "modifiedTime": "2024-08-25T07:39:37.407Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lección 12 Folleto Autoevaluación": {
+      "driveFileId": "1RPmdNtOhRRzuxHVWTHuyJn7-QScAkDzkWuM3MX93GjY",
+      "name": "8.4 Lección 12 Folleto Autoevaluación",
+      "modifiedTime": "2024-08-25T07:39:37.190Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lección 12 Referencia Pautas para la": {
+      "driveFileId": "1iA7ac-LM33BR96MoOtbHRSqF4V75brTa5YSIiuWXhCM",
+      "name": "8.4 Lección 12 Referencia Pautas para la",
+      "modifiedTime": "2024-08-25T07:39:37.188Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lección 12 Folleto Evaluación de modelos": {
+      "driveFileId": "1Xw3TNlo6L-DtVXA_Rb28QcwpQj8BOZzLIodn6CtvHrs",
+      "name": "8.4 Lección 12 Folleto Evaluación de modelos",
+      "modifiedTime": "2024-08-25T07:39:37.066Z"
+    },
+    "Lesson 12 - 8.4 Earth in Space/8.4 Lección 12 Evaluación Explicación de fenómenos": {
+      "driveFileId": "1GqIcne4yPMZkE1qdtO26Nv2WhIifzAcTmYYxlTyxHmU",
+      "name": "8.4 Lección 12 Evaluación Explicación de fenómenos",
+      "modifiedTime": "2024-08-25T07:39:36.863Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Teacher Reference Preparing for the": {
+      "driveFileId": "1O_xLwgfNVC-kN8_3UaiaF6-TB4j-xFgrkMROFOElbec",
+      "name": "8.4 Lesson 11 Teacher Reference Preparing for the",
+      "modifiedTime": "2024-08-25T07:39:39.022Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Teacher Reference Suggested Prompts for": {
+      "driveFileId": "1OOYhZijOZPxu5nmXX9b824azjGJztaJ8z_9H060ELz8",
+      "name": "8.4 Lesson 11 Teacher Reference Suggested Prompts for",
+      "modifiedTime": "2024-08-25T07:39:38.806Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Teacher Edition": {
+      "driveFileId": "1ZJ_wuClpYh8eMhltzIkCaPbHAOVrWHwmBZbFOmoTNms",
+      "name": "8.4 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:38.192Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1CuPGeUwhqfqj3n7rwr4FJc2apYzhXf6fYG21FzYx5II",
+      "name": "8.4 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:37.962Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Reference Example Images Path": {
+      "driveFileId": "1jIvWFBXtYFwHZf4Yo-NGRxzb40TK7s9L_vybUGtvWpA",
+      "name": "8.4 Lesson 11 Reference Example Images Path",
+      "modifiedTime": "2024-08-25T07:39:37.932Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Teacher Reference Sample Images Combining": {
+      "driveFileId": "11dgoZ8xp9vD2F-Gr6UVXdqxqNzbMPhPn3XqeDglOStY",
+      "name": "8.4 Lesson 11 Teacher Reference Sample Images Combining",
+      "modifiedTime": "2024-08-25T07:39:37.362Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Slides": {
+      "driveFileId": "1gy47KbiwT8QJsH5hYQ41uVupiqAjqtoAo4wlF69mHKs",
+      "name": "8.4 Lesson 11 Slides",
+      "modifiedTime": "2024-08-25T07:39:37.135Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Handout Reference Example Images": {
+      "driveFileId": "1WOara7EeHFs4DeU4U8a0BIaDt07vAkbNrY6jEITLb0I",
+      "name": "8.4 Lesson 11 Handout Reference Example Images",
+      "modifiedTime": "2024-08-25T07:39:36.537Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Student Procedure": {
+      "driveFileId": "1kN3uHja71Gj9RTrb14eEct1Ao_Vltdktux5e5EgG3SY",
+      "name": "8.4 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:36.226Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Reference Combining Light Investigation": {
+      "driveFileId": "1gjfzbqLTyvqSZ11o11ZGyjyS0FJ5YvpUluo565efcaU",
+      "name": "8.4 Lesson 11 Reference Combining Light Investigation",
+      "modifiedTime": "2024-08-25T07:39:36.025Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Handout Rainbow Lab Instructions": {
+      "driveFileId": "1curwPdL3E6t33C8HBuc7u8qgYnKkbl6EwnUXMr01wKs",
+      "name": "8.4 Lesson 11 Handout Rainbow Lab Instructions",
+      "modifiedTime": "2024-08-25T07:39:35.413Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Handout Rainbow Lab Station": {
+      "driveFileId": "1xs4x1bFIusxxGByCcTORHQskdou_9iJpQ8-_KUZLz4s",
+      "name": "8.4 Lesson 11 Handout Rainbow Lab Station",
+      "modifiedTime": "2024-08-25T07:39:34.941Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lección 11 Referencia Investigación de combinar": {
+      "driveFileId": "1ikXdUOKWNSe7A400lpaBz5d_UcafGUyduI2jeH40djg",
+      "name": "8.4 Lección 11 Referencia Investigación de combinar",
+      "modifiedTime": "2024-08-25T07:39:34.646Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Handout Reference Combining Light": {
+      "driveFileId": "1YIerg300fFfem1W6_kLQy_0YY6EqRItONOdzGas_bCk",
+      "name": "8.4 Lesson 11 Handout Reference Combining Light",
+      "modifiedTime": "2024-08-25T07:39:34.433Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lección 11 Folleto Tarjeta del lab": {
+      "driveFileId": "1xyxVP5BQle6pH2TC0MyHCypL6ys_fhs7kD0lJoI4iko",
+      "name": "8.4 Lección 11 Folleto Tarjeta del lab",
+      "modifiedTime": "2024-08-25T07:39:34.121Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lección 11 Referencia Imágenes de ejemplo": {
+      "driveFileId": "1bdO_n52-1R5Fv12AU1oaNyhZ2w-4HaeEHK9Ni1-mTLM",
+      "name": "8.4 Lección 11 Referencia Imágenes de ejemplo",
+      "modifiedTime": "2024-08-25T07:39:33.734Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lesson 11 Handout Combining Colors of": {
+      "driveFileId": "1ZR4Sc_8H8bEHWwXSui8mqkpQ1Ne_FEC03XoixoIsUM8",
+      "name": "8.4 Lesson 11 Handout Combining Colors of",
+      "modifiedTime": "2024-08-25T07:39:32.925Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lección 11 Folleto Referencia Investigación de": {
+      "driveFileId": "1ZPDEY7CObe7I4ywOXT91i9wtrFBQdggRcW7jsDJcA5Y",
+      "name": "8.4 Lección 11 Folleto Referencia Investigación de",
+      "modifiedTime": "2024-08-25T07:39:32.651Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lección 11 Folleto Instrucciones y recopilación": {
+      "driveFileId": "1oeeP9TEv72sR35bZtYFK3S3eMttS14JC6dTnZi13BCQ",
+      "name": "8.4 Lección 11 Folleto Instrucciones y recopilación",
+      "modifiedTime": "2024-08-25T07:39:31.908Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lección 11 Folleto Referencia Imágenes de": {
+      "driveFileId": "1F9NjVtYeD-Ju6ephiQnySKPn_8sap9svv-Cz0s8eO3A",
+      "name": "8.4 Lección 11 Folleto Referencia Imágenes de",
+      "modifiedTime": "2024-08-25T07:39:31.458Z"
+    },
+    "Lesson 11 - 8.4 Earth in Space/8.4 Lección 11 Folleto Laboratorio de combinación": {
+      "driveFileId": "14eHCm_V6f3xufzJwFC3Oi5tNthWb-cDiggS8NXwmSls",
+      "name": "8.4 Lección 11 Folleto Laboratorio de combinación",
+      "modifiedTime": "2024-08-25T07:39:31.433Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Slides": {
+      "driveFileId": "1h3XldzCwGbDRVOrHj3JOMxW_xMGqq8uj-22Nr76vyL0",
+      "name": "8.4 Lesson 10 Slides",
+      "modifiedTime": "2024-08-25T07:39:34.039Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1SBO3Gjd61iDaeB4qT3F3_0m1cN4IMbjg37D3NjpsjRM",
+      "name": "8.4 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:33.684Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Teacher Edition": {
+      "driveFileId": "17U_7i89MuuSU7UPbsc3IdpFEpkSBi5aYmFTL73tuK4w",
+      "name": "8.4 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:33.624Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Student Procedure": {
+      "driveFileId": "16w0TzYpZy-Es2jgC_vXaCHZAdD-jI05UsYdpfxs2RRA",
+      "name": "8.4 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:32.862Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Teacher Reference Sample Investigation Images": {
+      "driveFileId": "1AO-oLaYyQoub_Pa_mDLfZf9uqAnuO-yr6H61-RyK5MA",
+      "name": "8.4 Lesson 10 Teacher Reference Sample Investigation Images",
+      "modifiedTime": "2024-08-25T07:39:32.290Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lección 10 Referencia Instrucciones para el": {
+      "driveFileId": "1F5TRv8fi6_fn3aUDfQGPrCpZnXWytNtzJJdeBvCBfXE",
+      "name": "8.4 Lección 10 Referencia Instrucciones para el",
+      "modifiedTime": "2024-08-25T07:39:31.463Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Reference Instructions for the": {
+      "driveFileId": "10rbCBdu1pwiJ0gqrxQ6dgPBWFvx3B5-V9rhEpcp7EEU",
+      "name": "8.4 Lesson 10 Reference Instructions for the",
+      "modifiedTime": "2024-08-25T07:39:31.457Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Handout Reference Instructions for": {
+      "driveFileId": "1i1wRf6IFpo8iIlQZnmD__jLEQlS2WUxQnfV5wpP0kAk",
+      "name": "8.4 Lesson 10 Handout Reference Instructions for",
+      "modifiedTime": "2024-08-25T07:39:30.370Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Handout Investigation Elements Map,": {
+      "driveFileId": "1Y6ApyVO3Xo3cIkKdy43MwHRfzR-a7uR4bwAFBsqLxmE",
+      "name": "8.4 Lesson 10 Handout Investigation Elements Map,",
+      "modifiedTime": "2024-08-25T07:39:30.156Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lección 10 Folleto Elementos del mapa,": {
+      "driveFileId": "1pFjoO6RalKQ9JskdiCQ7g_gYh-2cMEL8Mg6eIjOoQaw",
+      "name": "8.4 Lección 10 Folleto Elementos del mapa,",
+      "modifiedTime": "2024-08-25T07:39:30.138Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lección 10 Folleto Referencia Instrucciones para": {
+      "driveFileId": "1ifKzBphwnm1rpMhtBMuFf8tH6jmq2_mj6POkA2aLrZc",
+      "name": "8.4 Lección 10 Folleto Referencia Instrucciones para",
+      "modifiedTime": "2024-08-25T07:39:30.020Z"
+    },
+    "Lesson 10 - 8.4 Earth in Space/8.4 Lesson 10 Answer Key Investigation Elements Map,": {
+      "driveFileId": "1BNtiYAL213Fhb2mVhP2Tg9xUo-CL7eEvIMw_grKeQJI",
+      "name": "8.4 Lesson 10 Answer Key Investigation Elements Map,",
+      "modifiedTime": "2024-08-25T07:39:28.719Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Slides": {
+      "driveFileId": "1IQou-9utsXz_NQ8JcLWs0zJ6Yp3AueYSUEuTtGZnb-M",
+      "name": "8.4 Lesson 1 Slides",
+      "modifiedTime": "2024-08-25T07:39:32.974Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Reference Podcast Transcript Thebe": {
+      "driveFileId": "1uS0uwmYM1p6rKY-ObbYWHXzSBAfNSkdUXQrC5OCtpZE",
+      "name": "8.4 Lesson 1 Reference Podcast Transcript Thebe",
+      "modifiedTime": "2024-08-25T07:39:29.978Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Student Procedure": {
+      "driveFileId": "1JCgr-tzwQvURmrpXMUjYRTxGz9milOHtMwrxKj97NUU",
+      "name": "8.4 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-25T07:39:29.682Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Reference Podcast Transcript Gerardo": {
+      "driveFileId": "1M9SIe99z1P0y-gBBhnPCQ1iUhGdlrg5kWVm_UTwouks",
+      "name": "8.4 Lesson 1 Reference Podcast Transcript Gerardo",
+      "modifiedTime": "2024-08-25T07:39:29.245Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Teacher Edition": {
+      "driveFileId": "1Qt5iVGmX4yvTlBpMbP1lC_FMfhafPeNerKPUfeuG4LU",
+      "name": "8.4 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:39:28.546Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1ftPE2Gj3szRhXJ9FLHm2_Wh_vTVkjztAmf2IV7cAqGQ",
+      "name": "8.4 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:39:27.894Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Reference Podcast Transcript Annette": {
+      "driveFileId": "1qhe_mE_4KTY7RswZL0gPAeTDi953rna4jUqUqmOOnoI",
+      "name": "8.4 Lesson 1 Reference Podcast Transcript Annette",
+      "modifiedTime": "2024-08-25T07:39:27.863Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Reading- Podcast Jessie": {
+      "driveFileId": "1_XzNq1er0Zi7x6SY3tWGvOljHX3K0JP5ucWxzbHTpS0",
+      "name": "8.4 Lesson 1 Handout Reading- Podcast Jessie",
+      "modifiedTime": "2024-08-25T07:39:26.863Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Reference Podcast Transcript Jessie": {
+      "driveFileId": "1aKw5JDb0HFnLgXY1Nlp3ezFfvzFlso8Of6fP06ixZWM",
+      "name": "8.4 Lesson 1 Reference Podcast Transcript Jessie",
+      "modifiedTime": "2024-08-25T07:39:26.747Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Reading- Podcast Thebe": {
+      "driveFileId": "1D0qVE1X8Gc5MWVsErxBbTmmmQ3rBycXKsWg3rQpukos",
+      "name": "8.4 Lesson 1 Handout Reading- Podcast Thebe",
+      "modifiedTime": "2024-08-25T07:39:26.740Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Reference Listening Group Roles": {
+      "driveFileId": "1fkyynddpLs59d87yD_KzbphqTtrsTvAWZSqPT-qWF4o",
+      "name": "8.4 Lesson 1 Reference Listening Group Roles",
+      "modifiedTime": "2024-08-25T07:39:26.502Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Systems Modeling Scaffold": {
+      "driveFileId": "1hS4PZCN0__Rp-ILL3ybDVuv2hnyorXI_iNky6F7AlEY",
+      "name": "8.4 Lesson 1 Handout Systems Modeling Scaffold",
+      "modifiedTime": "2024-08-25T07:39:26.398Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Reading- Podcast Gerardo": {
+      "driveFileId": "1vdjQrQsZClN0CrHX4xMI2kDe3aTGYMYM8N-NbmObPTs",
+      "name": "8.4 Lesson 1 Handout Reading- Podcast Gerardo",
+      "modifiedTime": "2024-08-25T07:39:26.354Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Reading- Podcast Annette": {
+      "driveFileId": "1LsJQ8Pypk0gxelDPCJ_iLAGY1ocy1wI_mJTBiNamOEE",
+      "name": "8.4 Lesson 1 Handout Reading- Podcast Annette",
+      "modifiedTime": "2024-08-25T07:39:26.154Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Reference Listening Group": {
+      "driveFileId": "1WROPtjwGadUd2LSD4UFWjRSuyXiOxsbqtEMnRJD52YE",
+      "name": "8.4 Lesson 1 Handout Reference Listening Group",
+      "modifiedTime": "2024-08-25T07:39:26.023Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Initial Manhattanhenge Model": {
+      "driveFileId": "10Kep0aQeFrIByULXzQXbsCNpJDDqg6QVWwiDgG50wBY",
+      "name": "8.4 Lesson 1 Handout Initial Manhattanhenge Model",
+      "modifiedTime": "2024-08-25T07:39:25.678Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout My Initial Model": {
+      "driveFileId": "1HhdH5-saZnYvOrzc7oHbAtiRVmdXaFaNYZRt3WQbLto",
+      "name": "8.4 Lesson 1 Handout My Initial Model",
+      "modifiedTime": "2024-08-25T07:39:25.335Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Referencia Transcripción Jessie Ferrari": {
+      "driveFileId": "1EsvJ1caPgSrL7p3Mdmxmize1I3Tp5xuIiHjUJvGSaiI",
+      "name": "8.4 Lección 1 Referencia Transcripción Jessie Ferrari",
+      "modifiedTime": "2024-08-25T07:39:24.895Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Referencia Transcripción Thebe Medupe": {
+      "driveFileId": "1IY2T8KiFL7aYZ0DxkxUK3tqVlghhOoXkAqfQ_VCDuTo",
+      "name": "8.4 Lección 1 Referencia Transcripción Thebe Medupe",
+      "modifiedTime": "2024-08-25T07:39:24.142Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Making Sense of": {
+      "driveFileId": "16uDzKfnNVZNmdI1YH1_UNzS5wLEn3xuGsJnPPSdWrz8",
+      "name": "8.4 Lesson 1 Handout Making Sense of",
+      "modifiedTime": "2024-08-25T07:39:23.798Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Referencia Transcripción del podcast": {
+      "driveFileId": "1jbSY-6pKO5WCy5jR1-30lDKwrkM0Uwdet6FoCcdxW3g",
+      "name": "8.4 Lección 1 Referencia Transcripción del podcast",
+      "modifiedTime": "2024-08-25T07:39:22.940Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Referencia Transcripción Gerardo Aldana": {
+      "driveFileId": "10jxheL2LSe91tF2qQ_SlwLCUxoTEkMkWD2SPhtZlbRQ",
+      "name": "8.4 Lección 1 Referencia Transcripción Gerardo Aldana",
+      "modifiedTime": "2024-08-25T07:39:22.810Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Referencia Transcripción Annette Lee": {
+      "driveFileId": "1u_3nXWuwsfkA2_IhHE8ZS7xrnCj7IIzzN2DIMkvq23I",
+      "name": "8.4 Lección 1 Referencia Transcripción Annette Lee",
+      "modifiedTime": "2024-08-25T07:39:22.783Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Lesson 1 Community": {
+      "driveFileId": "1nEyot3RKSSo3FHtbDRU3Qy-wTgHwl3vQBev1lOo0m28",
+      "name": "8.4 Lesson 1 Handout Lesson 1 Community",
+      "modifiedTime": "2024-08-25T07:39:22.725Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Modelo inicial de": {
+      "driveFileId": "17QOGJ1Obdc7nC9gjmP0g_fQmtK0oQFWLfVys2aTe6JE",
+      "name": "8.4 Lección 1 Folleto Modelo inicial de",
+      "modifiedTime": "2024-08-25T07:39:22.524Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Initial Models Gallery": {
+      "driveFileId": "1xOkVipzaug4j-6qg9P-mInJTQbWPtP6Hnk7GyHzZ-og",
+      "name": "8.4 Lesson 1 Handout Initial Models Gallery",
+      "modifiedTime": "2024-08-25T07:39:22.363Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Mi modelo inicial": {
+      "driveFileId": "1DNB6wh6tTJs1O_4vhwcPElBWco60WhKMkcRi5bVkyO8",
+      "name": "8.4 Lección 1 Folleto Mi modelo inicial",
+      "modifiedTime": "2024-08-25T07:39:22.334Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Lectura- Podcast Jessie": {
+      "driveFileId": "1-tc62EQsd0tmWOmI5qR1xAJsOGlQ8ZDb-44NdU_-UUI",
+      "name": "8.4 Lección 1 Folleto Lectura- Podcast Jessie",
+      "modifiedTime": "2024-08-25T07:39:22.301Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Referencia Referencia de roles": {
+      "driveFileId": "1YWLIxn6qgCXfZV3K5vLF96dpiEC59lLjHPaqaqEdz6Q",
+      "name": "8.4 Lección 1 Referencia Referencia de roles",
+      "modifiedTime": "2024-08-25T07:39:22.249Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Lectura- Podcast Thebe": {
+      "driveFileId": "1WVJUJGCvj-wURKrySJcBGbi0gDVQ3BMOJhBTi1iujDU",
+      "name": "8.4 Lección 1 Folleto Lectura- Podcast Thebe",
+      "modifiedTime": "2024-08-25T07:39:21.930Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lesson 1 Handout Community Connections to": {
+      "driveFileId": "1KjUGLjaRKSUSzhWD7lhu9MFKkQxPzs3smQZ8CtUbIZI",
+      "name": "8.4 Lesson 1 Handout Community Connections to",
+      "modifiedTime": "2024-08-25T07:39:21.787Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Paseo de galería": {
+      "driveFileId": "1AM4rTKALKC3HVH1H5LUAEi33J5p8wnf_aWYnXmAi-J8",
+      "name": "8.4 Lección 1 Folleto Paseo de galería",
+      "modifiedTime": "2024-08-25T07:39:21.653Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Lectura- Podcast Gerardo": {
+      "driveFileId": "1NxSX00N7F6q_OKaN178lc04HSZgFzUvK5g7xrtGz5cc",
+      "name": "8.4 Lección 1 Folleto Lectura- Podcast Gerardo",
+      "modifiedTime": "2024-08-25T07:39:21.646Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Referencia Roles del": {
+      "driveFileId": "1xIjqXNdQ_4tm8uDms3DxMsMyM8Q9nU1EE9UPqrqI5Dw",
+      "name": "8.4 Lección 1 Folleto Referencia Roles del",
+      "modifiedTime": "2024-08-25T07:39:21.389Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Lectura- Podcast Annette": {
+      "driveFileId": "1Tr_JCMSXNSPuloKHLrgqd57tRF6foLwz6L_K13k-mRk",
+      "name": "8.4 Lección 1 Folleto Lectura- Podcast Annette",
+      "modifiedTime": "2024-08-25T07:39:21.094Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Haciendo sentido de": {
+      "driveFileId": "1eHCICHpRJuRDX37lcTo4JxUpTzQ3COuFBhTempSUlp8",
+      "name": "8.4 Lección 1 Folleto Haciendo sentido de",
+      "modifiedTime": "2024-08-25T07:39:20.493Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Lección 1 Guía": {
+      "driveFileId": "19I7ooRjtTQt1l48Khh-UVqVFhBMZavH60jSFi0wii5A",
+      "name": "8.4 Lección 1 Folleto Lección 1 Guía",
+      "modifiedTime": "2024-08-25T07:39:19.549Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Andamio de modelado": {
+      "driveFileId": "1ulVlwwB3iJs9ys9qpQPGrV6514LFeIPxVtI7yjI2398",
+      "name": "8.4 Lección 1 Folleto Andamio de modelado",
+      "modifiedTime": "2024-08-25T07:39:19.385Z"
+    },
+    "Lesson 1 - 8.4 Earth in Space/8.4 Lección 1 Folleto Conexiones de la": {
+      "driveFileId": "1Z8okPg5C2HfIF57kh8M9pIwmtj9fGz_LFOgR0rQDBhk",
+      "name": "8.4 Lección 1 Folleto Conexiones de la",
+      "modifiedTime": "2024-08-25T07:39:19.163Z"
+    }
+  }
+}

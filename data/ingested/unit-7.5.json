@@ -1,0 +1,687 @@
+{
+  "unitId": "7.5",
+  "unitTitle": "Ecosystem Dynamics",
+  "description": "Students investigate energy transfer through food webs and analyze ecosystem interactions. They explore how changes in one part of an ecosystem affect other parts.",
+  "lessonCount": 11,
+  "suggestedPacingDays": 33,
+  "unitOverviewPath": "unit_materials/original/7.5 Ecosystem Dynamics & Biodiversity Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/7/7.5",
+  "ingestedAt": "2026-07-01T13:38:44.418Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "How could buying candy affect orangutan populations in the wild",
+      "title": "How could buying candy affect orangutan populations in the wild?",
+      "teacherEditionPath": "lesson_1/original/7.5 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "How do changes in the amount of resources affect populations",
+      "title": "How do changes in the amount of resources affect populations?",
+      "teacherEditionPath": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "How does planting oil palm affect other populations",
+      "title": "How does planting oil palm affect other populations?",
+      "teacherEditionPath": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "What would happen if orangutans go extinct",
+      "title": "What would happen if orangutans go extinct?",
+      "teacherEditionPath": "lesson_12/original/7.5 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "How does an ecosystem change when the plants change",
+      "title": "How does an ecosystem change when the plants change?",
+      "teacherEditionPath": "lesson_13/original/7.5 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "Are there ways people can grow food without harming the tropical rainforest",
+      "title": "Are there ways people can grow food without harming the tropical rainforest?",
+      "teacherEditionPath": "lesson_14/original/7.5 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "How can people benefit from growing food in ways that support plants and animals in the natural ecosystem",
+      "title": "How can people benefit from growing food in ways that support plants and animals in the natural ecosystem?",
+      "teacherEditionPath": "lesson_15/original/7.5 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 16,
+      "shortTitle": "What approach to growing food works for everyone and why",
+      "title": "What approach to growing food works for everyone and why?",
+      "teacherEditionPath": "lesson_16/original/7.5 Lesson 16 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 17,
+      "shortTitle": "How can we redesign the way land is used in Indonesia to support orangutans and people at the same time",
+      "title": "How can we redesign the way land is used in Indonesia to support orangutans and people at the same time?",
+      "teacherEditionPath": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 18,
+      "shortTitle": "How do our designs work for orangutans and people in Indonesia",
+      "title": "How do our designs work for orangutans and people in Indonesia?",
+      "teacherEditionPath": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 19,
+      "shortTitle": "Lesson 19",
+      "title": "Lesson 19",
+      "teacherEditionPath": null,
+      "expectedDays": 0
+    }
+  ],
+  "assessments": [
+    {
+      "id": "75-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: Inclusion of the living components of the sys…",
+      "shortTitle": "Look for: Inclusion of the living components of the sys…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop an initial system model to describe a phenomenon in which changes to one living component of an ecosystem (cause) affect the other living parts of the ecosystem (effect).",
+      "lookListenFor": "What to look/listen for:\nInclusion of the living components of the system models (such as the oil palm trees, orangutans, rats, snakes, tigers, and pigs) in the systems model\nInclusion of at least some of the needs that these livings components have in the system model, such as needs for food, water, air, habitat, or shelter\nInitial ideas about what causes the population sizes of living things to increase in number (a lot of food or water, a lot of mates, not very many predators) and decrease in number (very little food or water, can’t reproduce, many predators)\nUncertainty about interactions between the living things within the system and the specific cause-and-effect relationships in the system model\nUncertainty about which components of the system model are causing increases or decreases in the different population sizes",
+      "whatToDo": "What to do: If your students struggle with identifying important components of the ecosystems, refer them back to the class-developed list of ecosystem components. Students may also wish to revisit Growing Oil Palm in Indonesia to find more information about the components in the ecosystem. If students are not sharing their initial ideas about what causes the population sizes of living things to increase or decrease in number, or if students are not sharing their uncertainty about interactions in the system model, encourage them to draw a large question mark and then record their thinking. It may help to refer to these thoughts as “first draft thinking,” “initial ideas,” or “questions I have.” It can also help to provide students with the sentence starter “Maybe…” and then ask them to record their thinking.\nThis assessment guidance also applies for the Consensus Discussion that follows.\nA range of student-created initial models are shown below:",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.5 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L01-AO1.html"
+      }
+    },
+    {
+      "id": "75-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: Make note of any closed-ended questions and u…",
+      "shortTitle": "Look for: Make note of any closed-ended questions and u…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from initial observations of populations in an ecosystem to help seek additional information about the parts of the ecosystem and how they interact.",
+      "lookListenFor": "What to look/listen for:\nMake note of any closed-ended questions and use navigation time throughout the unit to turn closed-ended questions into open-ended ones that necessitate a need to examine additional evidence. As you move into the discussion of ideas for future investigations and data we need, have students focus on categorizing their questions and then identifying the kinds of data and additional information that would help answer a category of questions.",
+      "whatToDo": "What to do: Make note of the parts of the ecosystem that have many questions and the parts that have few or no questions. If a part of the system has few or no questions, prompt students to generate more questions in this space so that each part of the system has a set of questions to guide investigations. When students share their questions, make a note of how your students are doing in terms of asking “how” or “why” open-ended questions. Use Asking Question Tool—Open/Closed Questions as a scaffold to support students in turning closed-ended questions into open-ended questions. This scaffold does not need to be used as students build the initial DQB. Consider using it throughout the unit when students investigate a set of questions that may include many closed-ended examples.\nFirst and foremost during the formation of the DQB is reinforcing a classroom community, wherein all ideas are valued and everyone has a question up on the board. Use your judgment on how to press students to form “how” and “why” questions. If a student struggles with sharing, encourage them to go public with questions, rather than focusing specifically on forming a “how” or “why” question.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.5 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L01-AO2.html"
+      }
+    },
+    {
+      "id": "75-10-monarch-butterflies-on",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Monarch Butterflies on",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 10 — Monarch Butterflies on.",
+      "files": {
+        "studentHandout": "lesson_10/original/7.5 Lesson 10 Assessment Monarch Butterflies on.docx",
+        "teacherGuide": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/7.5 Lesson 10 Answer Key Scoring Guidance Monarch.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdXOB2b9GnimsF2a-gw2um4iFMe5HU9Z_FLBUX4vj3woxT0Rw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "75-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: (1) Students using t…",
+      "shortTitle": "Look for: What to look/listen for: (1) Students using t…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A.1 Analyze and interpret data to draw conclusions about how changes in resource availability affect populations in the short and long term.",
+      "lookListenFor": "What to look/listen for: (1) Students using the structure of different data representations (graphs, tables, maps) to identify patterns of stability and change in population and resource availability. (2) Students connecting these patterns of change to textual evidence as a means of establishing a cause-and-effect relationship between resource availability and population size, using mechanisms they have discussed in prior lessons for how changes to ecosystem factors cause changes to the amount of organisms an ecosystem can sustain.",
+      "whatToDo": "What to do: If students struggle to find patterns of change in graphical displays, ask them to begin by identifying key structures (axis labels, scale, table headers, symbols) that help them make sense of these displays. Then, ask students to connect the visual patterns of change to their physical meaning for the size of the population in question. Encourage students to draw connections between these patterns of change and the changes mentioned in textual evidence to establish relationships between changes in resources and changes in population.\nPrompt students to look back through their work on analysis questions and Progress Trackers from these and other investigations during which students discussed the mechanisms that explain how changes to key ecosystem factors caused changes to the size of local populations.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L10-AO1.html"
+      }
+    },
+    {
+      "id": "75-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See Scoring Guidance…",
+      "shortTitle": "Look for: What to look/listen for: See Scoring Guidance…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A.2 Analyze and interpret data to draw conclusions about how changes in resource availability affect populations in the short and long term.",
+      "lookListenFor": "What to look/listen for: See Scoring Guidance: Monarch Butterflies on the Shortgrass Prairie for scoring guidance.",
+      "whatToDo": "What to do: Prior to the first question on the assessment, there’s a graph that shows how the area taken up by monarchs changed over time. As before, consider discussing the axes of this graph with students to draw focus to what a point on this graph means. By reviewing the axes of the graph or summarizing a specific point in words, students can make clearer connections between the visual patterns they see on the graph and the physical meaning of the data in the context of the ecosystem. Students may need similar support interpreting the final graph on this assessment--in this case, reviewing the axes and scale of the graph can also help draw a distinction between what’s being graphed in this example compared to the earlier graph before question 1. Specifically, this graph covers a greater amount of time. This graph also has a trendline that shows the overall shape of the population change. Consider reviewing the idea of a trendline with students and clarify that a trendline shows the overall pattern of change in a data set on a graph.\nIn the table in the middle of the assessment, students are prompted to look for patterns of change in the amount of milkweed. Consider asking students to use arrows and labels to note the change between years on the table. For example, they could label the change from 2009 to 2010 as “+2,500” because there were 2,500 (3,750 - 1,250) more milkweed plants per hectare in 2010 compared to 2009. This may help students see patterns of change between the points in the table that might not be apparent to those who see values in a table as discrete points rather than part of larger patterns.\nDebrief findings from the assessment. Once students have had time to finish, show slide T. Ask students to share what happened to the amount of milkweed and the population of monarchs in the assessment. As students share, have them add their findings to complete the bottom row of the table.\nOrganism\nResource the organism needs\nHow did the amount of this resource change?\nOverall, how did the population of this organism change?\nOrangutans\nRainforest fruit trees\nThe amount of rainforest fruit trees went down because people cut them down to grow oil palm trees.\nThe number of orangutans went down, too, because they didn’t have the food and space they needed to survive.\n...\n...\n...\n...\nMonarch butterflies\nMilkweed\nThe amount of milkweed has gone down over time because people are planting farms where there used to be prairies.\nThe number of monarchs has decreased over time because they don’t have as much milkweed for food and to lay their eggs.\nUniversal Design for Learning: This assessment encourages students to demonstrate their understanding of key skills and concepts from the unit so far through multiple modalities, including writing to explain and drawing models. Some students may benefit from using multiple modalities to illustrate their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you or with another student acting as a scribe to record their thinking on paper. Some students may benefit from using gestures, images, or manipulatives to support their explanations, as opposed to written text. In each case, encouraging students to use multiple modalities to show their thinking creates a clear, accessible, equitable pathway for all students to demonstrate proficiency.\nFor some students, particularly students with learning differences, below-grade-level reading, or students who are emergent multilingual learners, this assessment may require more time than that which is provided for this lesson, because there is a heavy reading component. Consider allowing students to finish this assessment as home learning or providing extra time for these students to demonstrate their full understanding. These students would benefit from reading the introductory text and item prompts together, and then allowing them to ask clarifying questions.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L10-AO2.html"
+      }
+    },
+    {
+      "id": "75-11-7-5-lesson-11-handout-self-assessment-for-classroom",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "title": "7.5 Lesson 11 Handout Self-Assessment for Classroom",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 11 — 7.5 Lesson 11 Handout Self-Assessment for Classroom.",
+      "files": {
+        "studentHandout": "lesson_11/original/7.5 Lesson 11 Handout Self-Assessment for Classroom.docx",
+        "teacherGuide": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdMqxnwHm5qZJaWMgNQUeaA0DnGtCldSeA5cOBjHxCkF45AKA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "75-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the Key Ideas above",
+      "shortTitle": "Look for: What to look/listen for: See the Key Ideas above",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Develop a system model for a palm farm to explain why both snake (predator) and rat (prey) populations are increasing at the same time.",
+      "lookListenFor": "What to look/listen for: See the Key Ideas above.",
+      "whatToDo": "What to do: In lessons 9 and 10, students explained the effect of a change in 1 resource on a change in 1 population. This lesson has students extend their understanding to explain changes in multiple populations, and in the context of predators and prey, which goes counter to the initial ideas. If students struggle to conclude that in a system where there are essentially unlimited resources, both predators and prey populations can increase at the same time, consider breaking apart the explanation into 3 chunks: (1) first explain changes to oil palm and how that relates to the rat population, (2) then connect oil palm to the pig population, and (3) then ask students to identify the main food resources for the snake population, and connect the change in those resources to the change in the snake population.\nConclude the discussion by prompting students to think about why these populations are exploding in the oil palm system and not the tropical rainforest. Keep slide E displayed.\nSuggested prompt\nSample student response\nWhy do we think these populations don’t increase like this in their natural rainforest habitat?\nThere is not enough food.\nThere is more competition for food.\nIt’s harder to find food.\nMaybe there are more predators in the rainforest.\nSay, Let’s check our thinking in the next class to see how these populations interact in their natural ecosystem.\nMake sure to save time at the end of this class period to engage students in self-assessment of their participation during small-group and whole-group discussion.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L11-AO1.html"
+      }
+    },
+    {
+      "id": "75-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the Key Ideas above",
+      "shortTitle": "Look for: What to look/listen for: See the Key Ideas above",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Develop a system model to explain how populations in a complex rainforest ecosystem interact to keep populations stable, compared to interactions in an agricultural system, where some of the same populations are increasing.",
+      "lookListenFor": "What to look/listen for: See the Key Ideas above.",
+      "whatToDo": "What to do: If students are struggling to understand how populations can stay stable in the tropical rainforest, have them work with a partner to dig deeper into one population. Have partners work through these questions about the population:\nWhat is the population’s main food resource(s), and is the resource changing?\nIf one food resource is changing, does the population have another food resource option?\nWho is the main competitor? Are there changes happening to the competitor population?\nDoes it have a predator, and if so, what is happening to the predator population?\nWhat might be missing from our model to help us clearly understand this population?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L11-AO2.html"
+      }
+    },
+    {
+      "id": "75-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: There is a two-way relationship between orang…",
+      "shortTitle": "Look for: There is a two-way relationship between orang…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A Gather information from text, images, and data tables to clarify claims that a change in the orangutan population could affect fruit trees because there is a mutually beneficial relationship between the two.",
+      "lookListenFor": "What to look/listen for: See the Key Ideas above, plus the following:\nThere is a two-way relationship between orangutans and fruit trees: orangutans get food, and fruit trees get their seeds spread throughout the tropical rainforest.",
+      "whatToDo": "What to do: If students struggle to understand that fruit tree populations depend on orangutans, add a deeper discussion about how plant populations may increase or decrease over time. First, elicit from students their prior knowledge and experiences of plants that could be useful to their thinking. To do this, ask the following probing questions: Have you ever noticed a young plant growing in a new area? How did it get there? Have you ever noticed some plants, like dandelions, becoming more and more prevalent, year after year? How does that happen? How does a plant population in our community (for example, dandelions, sticker burrs, or grass) get larger or smaller over time? If seeds from a large plant, like a tree, drop on the ground below the tree, why might those seeds grow or not grow into adult plants? Once students more fully understand that plant populations increase by seed dispersal away from parent plants, have students then connect back to why fruit tree populations in the tropical rainforest would be dependent on the orangutans to spread their seeds.\nBrainstorm related phenomena and cases we know about (optional). If time permits and/or you choose to add the extension opportunity below, ask your students to brainstorm other mutually beneficial seed dispersal relationships they know about or have seen or heard about. Keep a list charted on the class whiteboard or chart paper for use in the extension opportunity.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.5 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L12-AO1.html"
+      }
+    },
+    {
+      "id": "75-13-southwestern-willow-flycatcher",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "title": "Southwestern Willow Flycatcher",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 13 — Southwestern Willow Flycatcher.",
+      "files": {
+        "studentHandout": "lesson_13/original/7.5 Lesson 13 Assessment Southwestern Willow Flycatcher.docx",
+        "teacherGuide": "lesson_13/original/7.5 Lesson 13 Teacher Edition.docx",
+        "answerKey": "lesson_13/original/7.5 Lesson 13 Answer Key Scoring Guidance Southwestern.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSerPKZxmZo-7hVxltOf9oyYI86RcVcv1CKikQd5NxnukSag_Q/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "75-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the Key Ideas above",
+      "shortTitle": "Look for: What to look/listen for: See the Key Ideas above",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Use a model to make predictions and test ideas about how disruptions, or changes, to one part of the system affect populations throughout the system.",
+      "lookListenFor": "What to look/listen for: See the Key Ideas above.",
+      "whatToDo": "What to do: If students are struggling to make predictions about what will happen to populations, have them use a highlighter to draw attention to the first population that is affected (e.g., oil palm) and then trace any interaction lines to other populations that would be affected. This will help students see the ripple effects in the tropical rainforest and how those effects are more consequential in the monocrop oil palm farm. If students are struggling to use Stability and Change in this context, ask them to generate ideas for the kinds of data they would want to see to decide (1) if the disruption resulted from a gradual or sudden event, (2) if the impacts from it were short-lived or long-term, and (3) how focused or widespread the disruption was for the system.\nIf farming is central to students’ communities, extend this opportunity to draw out real-world disruptions that they and their community have experienced. This will create more realistic disruption scenarios that farmers experience.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.5 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L13-AO1.html"
+      }
+    },
+    {
+      "id": "75-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: Students describing the approach to growing f…",
+      "shortTitle": "Look for: Students describing the approach to growing f…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Critically read scientific texts to obtain information about how different ways to grow food (cause) can have a positive impact on populations in ecosystems (effect).",
+      "lookListenFor": "What to look/listen for:\nStudents describing the approach to growing food that they read about and how it differs from large-scale monocrop farming.\nStudents explaining how their approach to growing food supports populations in ecosystems, either orangutans specifically or other insects, birds, and mammals.\nStudents summarizing from the text the main farming approaches in each case: (1) planting multiple crops, (2) setting aside and protecting intact forested areas, and (3) cultivating food from the forest.\nStudents linking each approach to growing food to an effect on a forest population.",
+      "whatToDo": "What to do: (1) If students struggle to obtain information from their reading, have them do paired reading. Have both students read one paragraph of text silently. Next, have one student summarize the main ideas. The partner must then agree or disagree and say why. Once students agree, each partner takes a turn identifying details that support the main idea. Then they read the next section quietly. (2) If members of a group struggle to identify their approach to growing food, pair them with another group who read about the same approach and have them compare notes. Prompt them for evidence from the text to support their summaries.\nUniversal Design for Learning: While the scientific information in each of these readings is equally rigorous, they are written at different reading levels to support differentiation. Group students strategically so that students who need more support with scientific texts are distributed among mixed-expertise groups assigned readings of grade-level complexity, while students who are looking for a challenge are in groups assigned readings at a higher level.\nReading: Diversified Farming in Costa, Flesch-Kincaid Grade Level 6.1\nReading: Sustainable Palm Oil in Indonesia, Flesch-Kincaid Grade Level 7.4\nReading: Customary Forests in Indonesia, Flesch-Kincaid Grade Level 8.7",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.5 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L14-AO1.html"
+      }
+    },
+    {
+      "id": "75-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: descriptions of why people grow foods or save…",
+      "shortTitle": "Look for: descriptions of why people grow foods or save…",
+      "peCode": "15.A",
+      "buildingTowards": "Building towards: 15.A Critically read and listen to text to obtain information about how farmers receive ecosystem services from farming practices that also maintain and promote stability in natural systems.",
+      "lookListenFor": "What to look/listen for:\ndescriptions of why people grow foods or save forests in ways that benefit their families and communities\ndescriptions of why people benefit more from these strategies than those who large-scale monocrop",
+      "whatToDo": "What to do: If members of a group struggle to synthesize how people benefit from their approach to growing food, pair them with another group who viewed the same StoryMap and have them compare notes. Prompt them to identify evidence from the StoryMap to support their summaries.\nSupporting Universal Design for Learning: There are three StoryMaps, and each group of 2-3 students will explore one. Students first used StoryMaps in Lesson 7 to figure out how many orangutans typically live in intact tropical rainforests. The StoryMaps in this lesson combine several representations (maps, text, audio, and videos) to help students further explore the same approaches to growing food that they read about in Lesson 14.\nSome of the videos in the StoryMaps are subtitled. We have embedded one strategy to help students follow the text: we remind them that they can pause the video at any moment to read. As they view these videos, consider walking around and reminding them that they can pause and that there is also an option to slow the video: click on the gear icon in the lower right side of the screen, then click on “playback speed” and choose a speed that is 0.75 or less. To return to regular speed, click on “normal.”\nSupporting Universal Design for Learning: The scientific information in each StoryMap is equally rigorous, but the printed text is written at different reading levels to support differentiation.\nDiversified Farming - 810-1000 L\nSustainable Palm Oil - 975-1025 L\nCustomary Forests -1010-1200 L",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/7.5 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L15-AO1.html"
+      }
+    },
+    {
+      "id": "75-16-ao-1",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: Students communicating to their peers about h…",
+      "shortTitle": "Look for: Students communicating to their peers about h…",
+      "peCode": "16.A",
+      "buildingTowards": "Building towards: 16.A. Integrate qualitative information obtained from written text and media to clarify claims about farming practices that reduce risk to disruptions and that maintain and promote stability of populations in natural systems.",
+      "lookListenFor": "What to look/listen for:\nStudents communicating to their peers about how approaches to growing food can support plants and animals in natural and designed systems. Listen for students to connect specific ecosystem services people receive (or not) through farming practices to sudden or gradual disruptions.",
+      "whatToDo": "What to do: If members of a group are struggling, direct them to review the source information together. They can also check in with another group for information as needed. As groups work, you can circulate to each group to prompt them for evidence from notes and support them in using the language of Stability and Change, and in linking sudden and gradual changes to receiving ecosystem services.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/7.5 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L16-AO1.html"
+      }
+    },
+    {
+      "id": "75-16-ao-2",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: Students making claims and supporting them wi…",
+      "shortTitle": "Look for: Students making claims and supporting them wi…",
+      "peCode": "16.A",
+      "buildingTowards": "Building towards: 16.A. Integrate qualitative information obtained from written text and media to clarify claims about farming practices that reduce risk to disruptions and that maintain and promote the stability of populations in natural systems.",
+      "lookListenFor": "What to look/listen for:\nStudents making claims and supporting them with evidence from the jigsaw activity. As the class evaluates which approach works best for animals and plants and humans, listen for students naming specific reasons for why one approach may be better for humans than animals. For example, a student might say that a sustainable oil palm farm works well for farmers but does not do much for the animals in the nearby ecosystem because they only have to maintain small habitat patches.",
+      "whatToDo": "What to do: If students are struggling to clarify claims by citing evidence, the following prompts may be helpful to support them:\nWhy did you rank X as number one for people and not animals and plants?\nIt looks like many of you chose X as the worst approach to growing food for people. Why?\nWhy did some of you put 1 in the people column and 2 in the animals column for the same approach?\nDoes monocropping work the same for all people? For large-size farmers or small farmers? Why or why not?\nCan all people get customary forest permits? Why or why not?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/7.5 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L16-AO2.html"
+      }
+    },
+    {
+      "id": "75-17-teamwork-self-assessment",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "title": "Teamwork Self-Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 17 — Teamwork Self-Assessment.",
+      "files": {
+        "studentHandout": "lesson_17/original/7.5 Lesson 17 Assessment Teamwork Self-Assessment.docx",
+        "teacherGuide": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSe7O6XP1retmuvLIrMRfnvzIToTKIfU8E5UtN_2VJ0sijL2Sg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "75-17-ao-3",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Apply ideas about ways of growing food to design a be…",
+      "shortTitle": "Apply ideas about ways of growing food to design a be…",
+      "peCode": "17.B",
+      "buildingTowards": "Building towards: 17.B Apply ideas about ways of growing food to design a better way to use the land to minimize human impact on orangutan populations.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Look ahead at the rubrics provided in Lesson 18. Rubric Option 1: Redesign the Land or Rubric Option 2: Redesign the Land are offered as ways to score group and individual design work and provide feedback. If students struggle to generate ideas for the design of the land, consider projecting an existing solution and evaluating the trade-offs of the solution. The code for one possible design solution is located in the Design Solution Slide Deck, slide 1, notes section. Copy this code into the simulation and run the simulation. Prompt students to identify design features in the design (e.g., corridor, areas of customary forest grouped together, using land already cleared of forest to plant oil palm). Then prompt students to consider how and why the different features work. Once students have had the opportunity to see and think about a potential design, have students work on their own and in their groups to create a new design.\nComplete the teamwork self-assessment. In addition to writing an explanation, students should complete the Teamwork Self-Assessment. Use this as an opportunity to help students reflect on their own work and to provide feedback on their teamwork.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L17-AO3.html"
+      }
+    },
+    {
+      "id": "75-17-ao-1",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: Revised criteria about people that address di…",
+      "shortTitle": "Look for: Revised criteria about people that address di…",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A Refine criteria and constraints for designing a better way to use the land to increase precision and to take into account the potential impacts and the ways in which potential solutions are limited by the natural environment.",
+      "lookListenFor": "What to look/listen for:\nRevised criteria about people that address disruptions that affect people (disease, drought, fire, market prices) and solutions they learned about to minimize the disruption (diversifying farms).\nRevised criteria about orangutans that include ideas about resource availability and biodiversity supporting orangutan populations.\nSome potential design solutions work well for the people and the orangutans but are not realistic due to land-use changes and time.",
+      "whatToDo": "What to do: If students struggle to see what kinds of changes may be realistic for the land, use a local example to think about the changes that might be possible. Ask students to think about a park, forest, or farm near your school or in your community. Ask, What would it take to change the [park, forest, or farm] into a [park, forest, or farm]. Help students think about the kinds of trees that would need to be cut down, the trees or crops that would need to be planted, and the amount of time and money the process would take. Then apply the thinking to the land in Indonesia.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L17-AO1.html"
+      }
+    },
+    {
+      "id": "75-17-ao-2",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: Using a variety of different ways to grow foo…",
+      "shortTitle": "Look for: Using a variety of different ways to grow foo…",
+      "peCode": "17.B",
+      "buildingTowards": "Building towards: 17.B Apply ideas about ways of growing food to design a better way to use the land to minimize human impact on orangutan populations.",
+      "lookListenFor": "What to look/listen for:\nUsing a variety of different ways to grow food can maintain or increase orangutan populations and people's income.\nPeople can reasonably set aside a portion of their land to support orangutan populations without reducing their income.\nNeighboring farms can coordinate their approaches to increase space for orangutans.\nRainforest corridors connecting intact areas of forest increase orangutan populations.\nStudents should identify 2 features of a diversified palm farm that support people and biodiversity, along with how each of these features works. Example features include:\nFeature\nHow it works\nMany crops\nProtects people in case of a disruption and can give them steady income.\nCreates multiple layers, which act more like a forest for animals, insects, and birds.\nForest set aside or corridor\nPeople can get the same amount of crop with less land.\nProtecting part of the land for forest creates corridors for animals to travel through.",
+      "whatToDo": "What to do: Look ahead at the rubrics provided in Lesson 18. Rubric Option 1: Redesign the Land or Rubric Option 2: Redesign the Land are offered as ways to score group and individual design work and provide feedback. If students struggle to generate ideas for the design of the land, consider projecting an existing solution and evaluating the trade-offs of the solution. The code for one possible design solution is located in the Design Solution Slide Deck, slide 1, notes section. Copy this code into the simulation and run the simulation. Prompt students to identify design features in the design (e.g., corridor, areas of customary forest grouped together, using land already cleared of forest to plant oil palm). Then prompt students to consider how and why the different features work. Once students have had the opportunity to see and think about a potential design, have students work on their own and in their groups to create a new design.\nComplete the teamwork self-assessment. In addition to writing an explanation, students should complete the Teamwork Self-Assessment. Use this as an opportunity to help students reflect on their own work and to provide feedback on their teamwork.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L17-AO2.html"
+      }
+    },
+    {
+      "id": "75-18-ao-1",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Solutions to Redesign",
+      "shortTitle": "Solutions to Redesign",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: Two rubrics are provided for guidance on what to look for in students’ work: Rubric Option 1: Redesign the Land and Rubric Option 2: Redesign the Land. The rubrics can be applied to students’ work on the How can we redesign the way land is used in Indonesia to support orangutans and people at the same time? handout and group presentations. Note that most of this work was completed as a group, except for Part H, which is an opportunity for individual assessment.",
+      "whatToDo": "What to do: It is OK if students do not come to complete agreement on the design solutions. This is a complicated problem and there are many ways to solve it, and the preferred design solutions are often rooted in values we hold outside of science. As students share their claims, push them to support the claims with evidence from the simulations or other investigations. For example, if a student claims that people are money-driven, push them to support that claim with evidence. If students cannot identify evidence to support their claims, ask them to brainstorm what kinds of evidence they’d want to collect to support or refute the claim.\nOn students design packets, look for students to raise ideas about the specified criteria and constraints, as well as other ideas (particularly from Lessons 14-16), in their explanations for Part H. Provide written feedback to students on their explanation to encourage them to make sure their explanations include scientific reasoning to explain how or why the design solution works.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_18/original/7.5 Lesson 18 Handout Solutions to Redesign.docx",
+        "teacherGuide": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L18-AO1.html"
+      }
+    },
+    {
+      "id": "75-18-ao-2",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Solutions to Redesign",
+      "shortTitle": "Solutions to Redesign",
+      "peCode": "18.B",
+      "buildingTowards": "Building towards: 18.B Construct an argument grounded in evidence and scientific reasoning to recommend a design solution that will support a stable orangutan population and protect the needs of people.",
+      "lookListenFor": "What to look/listen for: A rubric is provided to guide you through scoring students’ individual arguments. See Rubric: Engaging in an Argument from Evidence for a Land Redesign.",
+      "whatToDo": "What to do: This lesson assumes that students are proficient at writing arguments from their previous learning in 7th grade (e.g., their experiences in the Bath Bombs Unit and the Homemade Heater Unit). If students need additional support to engage in this practice, first co-construct a class anchor chart that names the parts of a good argument (see the example to the right). If time permits, first work together on a Gotta-Have-It checklist of science ideas that may be useful in the argument. With the argumentation anchor chart and Gotta-Have-It checklist as scaffolds, assign the individual task at that time.\nUniversal Design for Learning: The default argumentation task is designed as a written task, but should be considered an opportunity for your students to choose the modality by which they want to communicate what they have figured out. Here are several options you may want to offer to your students:\nOral argument presented to you live (e.g., 1 minute “elevator speech”)\nOral argument presented to you via a video or audio recording\nVisual representation that uses a model to support the being claim made.\nVisual representation that communicates an argument through a poster design or other visual layout of information.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_18/original/7.5 Lesson 18 Handout Solutions to Redesign.docx",
+        "teacherGuide": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L18-AO2.html"
+      }
+    },
+    {
+      "id": "75-18-ao-3",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Solutions to Redesign",
+      "shortTitle": "Solutions to Redesign",
+      "peCode": "18.C",
+      "buildingTowards": "Building towards: 18.C Ask questions about and define problems that arise when humans design land-use systems that have positive and negative effects on biodiversity and ecosystem services.",
+      "lookListenFor": "What to look/listen for:\nStudents can clearly answer some of the questions using ideas learned in the unit.\nStudents can partially answer some of the questions with ideas learned in the unit, but they require more information/evidence.\nStudents recognize that the problem they’ve been investigating goes beyond the scope of science alone. Science can help solve complex problems, but it’s not the only thing to consider.",
+      "whatToDo": "What to do: If students struggle to answer questions from the DQB, place them in small groups with one question or cluster of similar questions assigned to the group. Have them (1) locate where the questions most closely relate to the different investigations conducted, and (2) examine their science notebooks and other documents to search for evidence that could answer or partially answer the question. Ask the group to co-construct, in writing or orally, an explanation to the question(s) using evidence from their previous work. Remind students what makes a good explanation is a how or why causal account supported with evidence.\nRevisiting the DQB is important, so students can feel as though their questions are valued and recognized. While not all questions will have been addressed (it’s more likely that 50-75 percent will be at least partially answered), this helps students see that they have done this hard work to answer many of their own questions.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-LS2-1",
+        "MS-LS2-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.5 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_18/original/7.5 Lesson 18 Handout Solutions to Redesign.docx",
+        "teacherGuide": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-5/L18-AO3.html"
+      }
+    }
+  ]
+}

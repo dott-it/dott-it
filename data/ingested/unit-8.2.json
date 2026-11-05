@@ -1,0 +1,1031 @@
+{
+  "unitId": "8.2",
+  "unitTitle": "Sound Waves",
+  "description": "Students investigate sound, vibrations, and energy transfer in physical systems. They explore wave properties and how sound can cause objects to move.",
+  "lessonCount": 14,
+  "suggestedPacingDays": 24,
+  "unitOverviewPath": "unit_materials/original/8.2 Sound Waves Unit Overview Materials.docx",
+  "ingestedFrom": "drive-index reingest (formals) + prior TE extract",
+  "ingestedAt": "2026-08-17T14:48:45.425Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "How does a sound source make something like this happen",
+      "title": "How does a sound source make something like this happen?",
+      "teacherEditionPath": "lesson_1/original/8.2 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What is happening when speakers and other music makers make sounds",
+      "title": "What is happening when speakers and other music makers make sounds?",
+      "teacherEditionPath": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "Do all objects vibrate when they make sounds",
+      "title": "Do all objects vibrate when they make sounds?",
+      "teacherEditionPath": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "How do the vibrations of the sound source compare for louder versus softer sounds",
+      "title": "How do the vibrations of the sound source compare for louder versus softer sounds?",
+      "teacherEditionPath": "lesson_4/original/8.2 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How do the vibrations from a sound source compare for higher-pitch versus lower-pitch sounds",
+      "title": "How do the vibrations from a sound source compare for higher-pitch versus lower-pitch sounds?",
+      "teacherEditionPath": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How can any object make so many different sounds",
+      "title": "How can any object make so many different sounds?",
+      "teacherEditionPath": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "What is actually moving from the sound source to the window",
+      "title": "What is actually moving from the sound source to the window?",
+      "teacherEditionPath": "lesson_7/original/8.2 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "Do we need air to hear sound",
+      "title": "Do we need air to hear sound?",
+      "teacherEditionPath": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "How can we model sound traveling through a solid, liquid, or gas",
+      "title": "How can we model sound traveling through a solid, liquid, or gas?",
+      "teacherEditionPath": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "What exactly is traveling across the medium",
+      "title": "What exactly is traveling across the medium?",
+      "teacherEditionPath": "lesson_10/original/8.2 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "How does sound make matter around us move",
+      "title": "How does sound make matter around us move?",
+      "teacherEditionPath": "lesson_11/original/8.2 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "What goes on in people’s ears so they can detect certain sounds",
+      "title": "What goes on in people’s ears so they can detect certain sounds?",
+      "teacherEditionPath": "lesson_12/original/8.2 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "What transfers more energy, waves of bigger amplitude or waves of greater frequency",
+      "title": "What transfers more energy, waves of bigger amplitude or waves of greater frequency?",
+      "teacherEditionPath": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "How can we explain our anchoring phenomenon, and which of our questions can we now answer",
+      "title": "How can we explain our anchoring phenomenon, and which of our questions can we now answer?",
+      "teacherEditionPath": "lesson_14/original/8.2 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "82-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Model Diagram",
+      "shortTitle": "Initial Model Diagram",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop a model to explain how a sound source (cause) can make another object move (effect).",
+      "lookListenFor": "What to look/listen for:\nInclusion of a speaker\nInclusion of something that represents the space/air between the speaker and a window\nInclusion of a window",
+      "whatToDo": "What to do: After students complete their initial models, you can review these models for diversity of ideas. Student initial models should be considered a pre-assessment. It is an opportunity to learn where students are coming in and what ideas they have that you can build on in this unit. The more ideas in your classroom the better. All ideas and ways of representation are areas to build on and ways for students to see other ideas in the classroom when they share models.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/8.2 Lesson 1 Handout Initial Model Diagram.docx",
+        "teacherGuide": "lesson_1/original/8.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L01-AO1.html"
+      }
+    },
+    {
+      "id": "82-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: Circulate around to see students’ questions n…",
+      "shortTitle": "Look for: Circulate around to see students’ questions n…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions about patterns in observations that can be investigated to figure out how sound travels and causes movement in other objects.",
+      "lookListenFor": "What to look/listen for:\nCirculate around to see students’ questions now and again when they share to build the Driving Question Board.\nOpen-ended, testable questions that are asking how or why something is happening.\nA set of questions to support investigations as you begin the unit.",
+      "whatToDo": "What to do: The Driving Question Board is another opportunity for pre-assessment. You can see the types of questions your students are asking and what they are asking about. If students are struggling to ask how or why questions, guide them through practice turning yes/no questions into how or why questions as a class.\nHOME LEARNING OPPORTUNITY\nBased on your group of students, instead of taking class time to capture questions, you can assign this for home learning.\nWrap up day 2. Remind students that they have come a long way in a couple of classes. They have seen an interesting phenomenon, they have come to some agreement on what they think they know, and they also have some questions to pursue about this phenomenon. In the next class or so, they will be coming up with concrete questions they will pursue as a class for this unit.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/8.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L01-AO2.html"
+      }
+    },
+    {
+      "id": "82-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Develop a model to describe how a force applied to an…",
+      "shortTitle": "Develop a model to describe how a force applied to an…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Develop a model to describe how a force applied to an instrument causes its shape to change, leading it to repeatedly deform above and below its initial position (effect) as it vibrates and use that model to predict what a force will do to another instrument.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Use Rubric for Modeling Motion of an Object Making Sounds to assess students’ individual models of a different instrument than the class consensus model. If students are struggling to connect all the components and interactions across instruments, facilitate a conversation comparing the class model to a couple of student models and decide as a class if anything needs to be added or changed about the consensus model or the student models. This could be done the day of or after you use the rubric on each model. It could also help the class agree on a set of conventions for modeling force and vibration with respect to sound.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L02-AO3.html"
+      }
+    },
+    {
+      "id": "82-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: Students making connections between the force…",
+      "shortTitle": "Look for: Students making connections between the force…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Analyze and interpret data to identify patterns in the data that provide evidence of the relationship between a force (cause) on an instrument and the motion/vibration (effect) of the instrument.",
+      "lookListenFor": "What to look/listen for:\nStudents making connections between the force on the instrument and the motion or vibration of the instrument for each case.\nStudents using the data to show the relationship between the cause and the effect on the instrument.",
+      "whatToDo": "What to do: If students are focused on force or motion but not the relationship between the two, use prompts in the Building Understandings Discussion to bring out ideas that highlight the relationship. If students are struggling to write about patterns across instruments, focus on the similarities and differences prompts in the subsequent discussion.\nWhen students have responded to these questions, they can share their ideas with a partner.\nBuilding Understandings Discussion. Project slide K. After students have shared with a partner, ask a few students to describe some of the patterns they identified in how parts of different instruments moved and changed as they were making sounds.✱",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L02-AO1.html"
+      }
+    },
+    {
+      "id": "82-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: The starting position of the sound source",
+      "shortTitle": "Look for: The starting position of the sound source",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Develop a model to describe how a force applied to an instrument causes its shape to change, leading it to repeatedly deform above and below its initial position (effect) as it vibrates and use that model to predict what a force will do to another instrument.",
+      "lookListenFor": "What to look/listen for:\nInclusion of model components representing or describing, at every point in time:\nThe starting position of the sound source.\nThe object that applied the initial force to the sound source.\nThe shape changes of the sound source.\nInclusion of interactions between components that represent or describe:\nA force that causes the shape of the sound source to deform.\nAfter a force is removed, the sound source deforms back in the opposite direction, extending beyond the starting/original position.\nThe repeated nature of this back-and-forth-motion of the shape of the sound source.\nEventually the sound source stops moving back and forth and goes back to its original starting position.",
+      "whatToDo": "What to do: Use Rubric for Modeling Motion of an Object Making Sounds to assess students’ individual models of a different instrument than the class consensus model. If students are struggling to connect all the components and interactions across instruments, facilitate a conversation comparing the class model to a couple of student models and decide as a class if anything needs to be added or changed about the consensus model or the student models. This could be done the day of or after you use the rubric on each model. It could also help the class agree on a set of conventions for modeling force and vibration with respect to sound.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L02-AO2.html"
+      }
+    },
+    {
+      "id": "82-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Engage in argument from evidence to support or refute…",
+      "shortTitle": "Engage in argument from evidence to support or refute…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Engage in argument from evidence to support or refute our predictions about whether all solid objects vibrate (cause) when they make sounds (effect), even when we cannot see them vibrate.",
+      "lookListenFor": "",
+      "whatToDo": "If students are struggling with reasoning on part 4 of the handout, remind them of the patterns they noticed when investigating the instruments. You might ask, If you wanted to make the drum or guitar sound louder, what did you have to do? What was the difference in what we could see on the video of the drum or with the laser when the sound was softer versus louder? What happened to cause that difference? Then connect this back to the Collisions Unit and the relationship between a force that deforms an object and energy; you might ask, What happens when a force contacts an object? What do you think is happening with the energy when the rock hits the table or the stick hits the drum?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L03-AO3.html"
+      }
+    },
+    {
+      "id": "82-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Students should make a claim like “All solid…",
+      "shortTitle": "Look for: Students should make a claim like “All solid…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Engage in argument from evidence to support or refute our predictions about whether all solid objects vibrate (cause) when they make sounds (effect), even when we cannot see them vibrate.",
+      "lookListenFor": "What to look/listen for:\nStudents should make a claim like “All solid objects vibrate when they make sounds.”\nEvidence should include observations of the drum and the rock on the table.\nReasoning needs to make a connection between the sound and the vibration they can’t see that is detected by the laser.",
+      "whatToDo": "What to do: If students have a claim that the table is not vibrating, ask them what evidence they have to support that. Ask them how they can explain the movement of the laser if there is no movement happening from the table. You could lead a class discussion with students arguing for either side. If students are struggling with the “Reasoning” section, you might provide more sentence starters or fill in the blanks for that part. See How do objects move when they make sounds? for an example.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L03-AO1.html"
+      }
+    },
+    {
+      "id": "82-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: The claim should state something like “When m…",
+      "shortTitle": "Look for: The claim should state something like “When m…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Engage in argument from evidence to support or refute our predictions about whether all solid objects vibrate (cause) when they make sounds (effect), even when we cannot see them vibrate.",
+      "lookListenFor": "What to look/listen for:\nThe claim should state something like “When more force is applied to an object, it causes bigger vibrations and therefore louder sounds.”\nEvidence includes observations of the speaker’s wider vibration blur when it was playing a louder sound and/or observations from day 1 that the louder drum strike moved the laser more than the soft one and/or that the larger rock dropped on the table caused the laser to move more than the smaller rock.\nThe reasoning concludes that a bigger force on an object causes the object to move back and forth/vibrate more (or bigger). When that happens more energy is being transferred. This means that louder sounds move more and have more energy than softer sounds.",
+      "whatToDo": "What to do: At the end of day 2, collect the handouts as a formative assessment. If students’ claims, evidence, and/or reasoning do not meet your expectations on this handout, consider looking at their Progress Trackers as well. It may be that they did not put all the pieces together on their own, but after the discussion they understood the content of the lesson. If their Progress Trackers show good understanding of the lesson’s key ideas, provide more guidance to these students next time they are using evidence to support a claim. If the Progress Trackers do not show good understanding of this lesson’s key ideas, those students should be front-and-center helping lead the investigation in Lesson 4. In addition, if students did not add energy transfer into their reasoning (as mentioned above), plan to revisit the reasoning discussion during the next class.\nIf students are struggling to make the claim in part 4, direct them to write their evidence first, and consider offering sentence starters for the evidence section, such as, “When the speaker was _____, we saw the laser move ______. When we hit the drum harder, we saw the laser ______. When we dropped a bigger rock, the laser ______.” Then ask, So what can we claim about what causes louder sounds?\nIf students are struggling with reasoning on part 4 of the handout, remind them of the patterns they noticed when investigating the instruments. You might ask, If you wanted to make the drum or guitar sound louder, what did you have to do? What was the difference in what we could see on the video of the drum or with the laser when the sound was softer versus louder? What happened to cause that difference? Then connect this back to the Collisions Unit and the relationship between a force that deforms an object and energy; you might ask, What happens when a force contacts an object? What do you think is happening with the energy when the rock hits the table or the stick hits the drum?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L03-AO2.html"
+      }
+    },
+    {
+      "id": "82-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Harp String Graph",
+      "shortTitle": "Harp String Graph",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Use mathematical representations of position versus time graphs generated from a tool used to scale up the vibrations of an object  to describe wave patterns and support scientific conclusions about how objects move when they make louder or softer sounds..",
+      "lookListenFor": "What to look/listen for:\nStudents to explain that the wave patterns on the graphs of louder sounds had higher amplitude (bigger vertical distances) than softer sounds.\nThe frequency (horizontal distances) did not change when the same source was making a louder or softer sound.",
+      "whatToDo": "What to do: If students are able to correctly explain the different patterns for louder versus softer sounds but they do not use the terms amplitude or frequency (or don’t use them correctly) to describe them, consider having them complete Harp String Graph Handout with a partner or with teacher guidance in a small group to reteach these terms. Be sure they have added those terms to their science notebooks, consider adding them to a Word Wall display in the classroom, and remind students to refer to either of those word lists as you continue this unit.\nIf a student has not been able to explain at all how motion graphs of louder versus softer sounds are different, consider having that student “play with” the guitar again. What does a guitar player need to do differently to make a loud sound versus a softer one? Then consider printing out the four graphs of the motion of the stick and speaker, holding them near the guitar strings, and pointing out the connection between a longer/farther “pluck” and the higher amplitude on the louder graphs. The softer sounds require a smaller pull away from the starting point, as seen in the graphs with lower amplitude.\nWhile the individual Progress Tracker is a tool to help students reflect on their own learning in response to the question being investigated, you can use these as a second piece of evidence of students’ evolving understanding. Encourage students to use this space to share new connections they have made but also to note where they are still confused. Then, have students leave their science notebooks in the classroom open to today’s work so you can quickly scan their Progress Trackers and see what key ideas they understand and note any areas of confusion or uncertainty or questions they still have.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_4/original/8.2 Lesson 4 Handout Harp String Graph.docx",
+        "teacherGuide": "lesson_4/original/8.2 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L04-AO1.html"
+      }
+    },
+    {
+      "id": "82-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Analyzing Graphs of",
+      "shortTitle": "Analyzing Graphs of",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Use mathematical representations of position versus time graphs generated from a tool used to scale up the vibrations of an object to describe wave patterns and support scientific conclusions about how objects move when they make higher-pitch and lower-pitch sounds.",
+      "lookListenFor": "What to look/listen for:\nLook for students to identify amplitude as the distance from at rest to the top of a peak or bottom of a valley.\nStudents should calculate frequency as the number of complete vibrations or oscillations in one second.",
+      "whatToDo": "What to do: Students are calculating the amplitude as a review from Lesson 4 but also to show that it is frequency that is changing with the length of the stick and not amplitude. Look for students to notice that the changes in amplitude are the same for both the high-pitch and low-pitch graphs but the frequency of vibrations is more for the high-pitch sound and the short stick. To support students in calculating the amplitude and frequency, refer them to the graphs they annotated in Lesson 4 and to the class definitions on the word wall.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_5/original/8.2 Lesson 5 Handout Analyzing Graphs of.docx",
+        "teacherGuide": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L05-AO1.html"
+      }
+    },
+    {
+      "id": "82-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Analyzing Graphs of",
+      "shortTitle": "Analyzing Graphs of",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Use mathematical representations of position versus time graphs generated from a tool used to scale up the vibrations of an object to describe wave patterns and support scientific conclusions about how objects move when they make higher-pitch and lower-pitch sounds.",
+      "lookListenFor": "What to look/listen for: Students to connect that the longer the stick, the lower the pitch of the sound and the lower the frequency of vibrations.",
+      "whatToDo": "What to do: The individual Progress Tracker is a tool to help students reflect on their own learning in response to the question being investigated. Encourage students to use this space to share the many new connections they have made but also to note where they are still confused. Then, have students leave their science notebooks in the classroom open to today’s work so you can quickly scan their Progress Trackers and see what key ideas they understand and note any areas of confusion or uncertainty or questions they still have. If you see that students struggled to connect the tone of the pitch to the frequency of vibration, replay the video and ask students to find the main difference in the graph of a high pitch and low pitch sound.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_5/original/8.2 Lesson 5 Handout Analyzing Graphs of.docx",
+        "teacherGuide": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L05-AO2.html"
+      }
+    },
+    {
+      "id": "82-5-ao-3",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Analyzing Graphs of",
+      "shortTitle": "Analyzing Graphs of",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Use mathematical representations of position versus time graphs generated from a tool used to scale up the vibrations of an object to describe wave patterns and support scientific conclusions about how objects move when they make higher-pitch and lower-pitch sounds.",
+      "lookListenFor": "What to look/listen for: Look at Key: Analyzing Graphs of Sound Source Vibrations for an example of student answers on Analyzing Graphs of Sound Source Vibrations.",
+      "whatToDo": "What to do: Collect this exit ticket at the end of class or at the start of the next class. This will give you a day or two before the individual assessment at the end of the next lesson to provide feedback to students to help guide their understanding and revisions before that assessment. This is a key practice opportunity for students to work with the kind of graphs they will see in the assessment. If students struggle to connect the high note on the xylophone to Graph B (highest frequency of vibrations), suggest that students draw a mini xylophone on their paper and then write in which bar would have made each note. Then for each note ask students why they chose that bar. Have students return to Graphs A, B, and C and see if they can now tell which graph represents each pitch (high, middle, and low). If you are short on time to give feedback on the exit ticket, consider having students check their work with a partner and/or against a provided answer key (so they can self-correct).\nAdditional Lesson 5 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.8.FA.2: Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).\nIn this lesson, students analyze patterns in graphical representations of the stick’s motion in order to figure out that a sound maker moves back and forth more often in a given time (has a greater frequency) for higher-pitched sounds. During this analysis, students identify and describe wave-like properties in the graph of the stick’s motion, including a repeating pattern of peaks and valleys in the function of the stick’s distance from the detector over time.\nStudents also compare graphs of the stick’s motion for higher-pitched and lower-pitched sounds with an eye for comparing the properties of the two functions in order to understand what changes about how a sound maker vibrates for sounds of different pitch. During this analysis, they identify that the function for higher-pitched sounds has a shorter horizontal distance between peaks and valleys. They then use this observation to conclude that for higher-pitched sounds, the sound maker moves back and forth more often over the same amount of time.\nIf students have trouble making comparisons between the graphical representations for loud vs. soft sounds, they may benefit from seeing the two graphs displayed side by side. Students can then come up to the projection and point out differences between the two functions that the class can then use to draw conclusions about how the motion of the stick changes when simulating sounds of different pitch.\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.6.RP.A.2: Understand the concept of a unit rate a/b associated with a ratio a:b where b does not equal zero, and use rate language in the context of a ratio relationship.\nCCSS.MATH.6.RP.A.3: Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.\nCCSS.MATH.7.RP.A.1: Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities.\nIn this lesson, students define and calculate frequency as the number of complete vibrations in one second. Students use graphs of the stick’s motion to count the number of times that the stick vibrates and then divide that by the amount of time over which the stick was vibrating. We label this unit rate of how many times the stick vibrates in one second as the frequency of the stick’s vibration.\nIf students struggle to calculate the frequency, refer them to the class’s definition for frequency on their word wall or in their notebooks. Students may benefit from seeing an example of this calculation starting from a graph of the stick’s motion over time as a refresher on how to derive a unit rate from the ratio between the number of vibratio…",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_5/original/8.2 Lesson 5 Handout Analyzing Graphs of.docx",
+        "teacherGuide": "lesson_5/original/8.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L05-AO3.html"
+      }
+    },
+    {
+      "id": "82-6-how-can-objects-make-different-sounds",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "How can objects make different sounds?",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 06 — How can objects make different sounds?.",
+      "files": {
+        "studentHandout": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Assessment Assessment.docx",
+        "teacherGuide": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": "Lesson 6 - 8.2 Sound Waves/8.2 Lesson 6 Answer Key Assessment Key.docx",
+        "googleForm": "https://docs.google.com/forms/d/163pCK1qTfm0_N8i1ps3B0KVGCvtqjuoK4m1fhk4uOGk/viewform",
+        "googleFormTeacherReady": null,
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "82-6-ao-2"
+    },
+    {
+      "id": "82-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Connecting Graphical Representations",
+      "shortTitle": "Connecting Graphical Representations",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Construct an argument using evidence from graphs to support an explanation for which patterns of frequency and amplitude of a wave are indicators of attributes of sounds that we can hear.",
+      "lookListenFor": "What to look/listen for:\nRefer to Key: Connecting Graphical Representations to the Sounds Made\nStudents constructing an argument using evidence from graphs to support an explanation for which patterns of frequency and amplitude of a wave are related to sounds that we can hear.",
+      "whatToDo": "What to do: Connecting Graphical Representations to the Sounds Made provides a great opportunity for students to gain further practice in constructing an argument using evidence from graphs to support an explanation for which patterns of frequency and amplitude of a wave are related to sounds that we can hear. This practice contains scaffolding for the elements of their argument and can provide some just-in- time formative information before the independent assessment they take on day 2 of this lesson. If students struggle supporting their claims with evidence, have them look back to the data they collected in Lessons 4, 5, and 6 or their Progress Trackers.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/8.2 Lesson 6 Handout Connecting Graphical Representations.docx",
+        "teacherGuide": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L06-AO1.html"
+      }
+    },
+    {
+      "id": "82-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Connecting Graphical Representations",
+      "shortTitle": "Connecting Graphical Representations",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Use a model to explain how a force applied to an instrument causes the sound source to vibrate (effect) and make a sound even if we cannot see it.",
+      "lookListenFor": "What to look/listen for:\nAll objects vibrate when they make sound.\nA force applied to an object causes that object to vibrate, or move back and forth, which makes a sound.\nA larger force causes more and bigger vibrations and a louder sound.\nA graphical representation of a wave helps us to see the vibrations.\nWithin a graphical representation, amplitude is the distance the object moves from its starting point, which is related to the strength of the force applied and the object’s loudness.\nWithin a graphical representation, frequency represents how often the sound source moves in a certain amount of time and the pitch we hear in the sound.",
+      "whatToDo": "What to do: Refer to Assessment Key. If students are struggling to use their model to explain how forces applied to an object cause objects to vibrate and make sound, they may need more support before moving into the next lesson set. See the alternate activities that could provide additional opportunities for students to further their learning. Use Rubric for Modeling Motion of an Object Making Sounds to provide feedback to students.\nShow the video of the harp player.✱ Show slide G. Tell students that before they get started, they need to watch a video https://youtu.be/XT968ZJeWh0 . They will refer to the video in their answers on the assessment. Show students the video of someone playing a harp. You may want to play the video a couple of times (it’s only a few seconds long).\nAsk students to complete the assessment.✱ Have students individually complete Assessment.\nReturn to the DQB questions. Return to the questions that were identified as those we can now answer and have students individually or in pairs work to answer those questions by attaching the question to a half sheet of paper and then writing the answer below. These can then be placed back up on the DQB.\nAsk students to identify questions that they are most interested in pursuing next. Have each student share one such question and allow them to add new questions they have or refine an existing question.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/8.2 Lesson 6 Handout Connecting Graphical Representations.docx",
+        "teacherGuide": "lesson_6/original/8.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L06-AO2.html"
+      }
+    },
+    {
+      "id": "82-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: Students are providing specific and actionabl…",
+      "shortTitle": "Look for: Students are providing specific and actionabl…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for:\nStudents are providing specific and actionable feedback that is related to the science ideas.\nStudents use evidence from the investigations conducted in this lesson.\nAir isn’t moving all the way from the speaker to the window\nThe weight of the container didn’t change when sounds were coming from inside, sound isn’t made of something physical that travels from one place to another, like a particle.",
+      "whatToDo": "What to do: If students are struggling with giving specific feedback that uses the evidence, provide sentence starters such as, “I agree/disagree with your claim that ____________. The evidence shows _________.” If students are struggling with understanding what the feedback from their partner means and how it relates to modifying their own model, encourage them to ask their partner to help them understand it and then ask them if they agree or disagree with the feedback and why. You may also consider leading students through a Consensus Discussion to connect key findings from their investigations before continuing on to the next lesson.\nAfter students are finished, you can have a few students share their new claims if there’s enough time.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/8.2 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L07-AO1.html"
+      }
+    },
+    {
+      "id": "82-8-ao-3",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for:  students use eviden…",
+      "shortTitle": "Look for: What to look/listen for:  students use eviden…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Use evidence from investigations to compare and critique competing claims and argue that air or another medium such as liquid or solid is needed (cause) to hear sound or move the window (effect).",
+      "lookListenFor": "What to look/listen for:  students use evidence to support the claim that state that since sound needs matter to travel, then in outer space where there is no matter, you could not hear a sound.",
+      "whatToDo": "What to do: If you have students who struggle to connect today’s work with space, consider replaying the vacuum chamber video for them, but pausing to explain that the situation going on inside the jar when the air has been removed is very similar to what we find in outer space.\nDuring a Consensus Discussion, students can practice talking with one another as a community of learners. Engaging in this practice can support all learners in developing academic discourse. They listen to one another’s ideas and findings, ask questions about evidence, and come to agreement about what the class figured out in an investigation.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L08-AO3.html"
+      }
+    },
+    {
+      "id": "82-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: students connect the…",
+      "shortTitle": "Look for: What to look/listen for: students connect the…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Use evidence from investigations to compare and critique competing claims and argue that air or another medium such as liquid or solid is needed (cause) to hear sound or move the window (effect).",
+      "lookListenFor": "What to look/listen for: students connect the evidence to the claim that sound does need air to travel since we couldn’t hear it once all the air was removed from the container.",
+      "whatToDo": "What to do: To support students in supporting or refuting the claims from the beginning of the lesson, it may be helpful to spend extra time after each investigation prompting students to reflect on what they’ve seen and to consider these questions for each claim, “Would we have seen those phenomena if this claim were true? What would we expect to see if this claim was true?” Doing this will help students to connect the abstract idea in each claim with observations they made in each investigation.\nSuggested prompt\nSample student response\nWhat did we observe from the video?\nThe sound got quieter when air was removed.\nYou couldn’t hear anything once all the air was gone from inside.\nWhat claim can we make from the evidence we got from this video? What can we say about the two arguments we started with?\nThis is evidence that sound does need air to travel, since we couldn’t hear it once all the air was removed.\nThis should go on the poster as evidence for “Sound needs air to travel”.\nAdd this new evidence to the Competing Claims poster under “Sound needs air to travel”. Once students have settled on the big takeaway from this first investigation, remind them that they had another idea of how they could test to see if air, in particular, was required for sound to travel.\nUniversal Design for Learning: In this lesson, more responsibility for recording investigation plans and notes is released to the students. If you notice students struggling to keep accurate records, you may choose to give them an Investigation Plan handout instead. Providing such scaffolds can support students in expressing what they have figured out.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L08-AO1.html"
+      }
+    },
+    {
+      "id": "82-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: students should conn…",
+      "shortTitle": "Look for: What to look/listen for: students should conn…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Use evidence from investigations to compare and critique competing claims and argue that air or another medium such as liquid or solid is needed (cause) to hear sound or move the window (effect).",
+      "lookListenFor": "What to look/listen for: students should connect the evidence to the claim that sound doesn’t need air to travel. The sound does have something to travel through, but it’s not air.",
+      "whatToDo": "What to do: If students are struggling to make a claim ask them to go back to the T-Chart they created about what each outcome would tell us. If students are struggling to connect the evidence to the claims that were made at the beginning of class, pose questions for each claim such as, “Would we have seen those phenomena if this claim were true? What would we expect to see if this claim was true?”\nSuggested prompt\nSample student response\nWhat claim can we make from the evidence we gathered through our last investigation?\nWe could hear sounds coming from inside the container with water, so that means that sound can travel through water.\nThis means sounds can travel through other stuff besides air, so maybe sound doesn’t need air to travel.\nWhat can we say about the two arguments we started with?\nThis should go on the poster as evidence for “Sound doesn’t need air to travel”. The sound does need to have something to travel through, but it’s not only air.\nAdd this new evidence to the Competing Claims poster under “Sound doesn’t need air to travel”.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L08-AO2.html"
+      }
+    },
+    {
+      "id": "82-9-ao-3",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Lesson 09 · Check-in 3",
+      "shortTitle": "Lesson 09 · Check-in 3",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "This is a great opportunity for students to self assess on their engagement in classroom discussions using Self-Assessment for Classroom Discussions. This discussion rubric can be used anytime after a discussion to help students reflect on their participation in the class that day.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L09-AO3.html"
+      }
+    },
+    {
+      "id": "82-9-ao-2",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should show…",
+      "shortTitle": "Look for: What to look/listen for: Students should show…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Develop and use a model to describe unobservable parts (particles) of the system and how they would interact with one another in any state of matter to transfer energy from a vibrating sound source through collisions with one another across a medium.",
+      "lookListenFor": "What to look/listen for: Students should show the particles moving and colliding when they get pushed by the sound source. Energy is transferred from the sound source to the particles and then from one particle to the next.",
+      "whatToDo": "What to do: If students are not able to show the particle movement in their models, ask them to simulate with their bodies what happened in the simulation by using their hands as particles. If students do not readily talk about what is happening with the particles in terms of collisions and energy transfer, refer them back to their original vibration model in Lesson 2 where they indicated that the energy was transferred to the object when the force was applied.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L09-AO2.html"
+      }
+    },
+    {
+      "id": "82-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students to show tha…",
+      "shortTitle": "Look for: What to look/listen for: Students to show tha…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Develop and use a model to describe unobservable parts (particles) of the system and how they would interact with one another in any state of matter to transfer energy from a vibrating sound source through collisions with one another across a medium.",
+      "lookListenFor": "What to look/listen for: Students to show that there is generally more space between the particles of gas than there is in liquid and less space between the particles in solid than there is in liquid.",
+      "whatToDo": "What to do: This is meant to be formative to help gauge what ideas students are bringing into the lesson about the particulate nature of matter. If students haven’t developed sources of evidence from previous grades that solids, liquids, and gases are made of particles and that the spacing among those particles is different for a solid versus a liquid versus a gas and that the particles in matter can move, you may need to add supplemental lessons before this one.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/8.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L09-AO1.html"
+      }
+    },
+    {
+      "id": "82-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: the particles in the medium are moving back a…",
+      "shortTitle": "Look for: the particles in the medium are moving back a…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Apply mathematical concepts to make sense of data generated from a model to test ideas about how changing the frequency and amplitude of the sound source affects the patterns in the wavelengths and compression of particles as energy moves across the system.",
+      "lookListenFor": "What to look/listen for:\nthe particles in the medium are moving back and forth but not traveling all the way across the medium.\nParticles collide with the particles next to them, transferring energy through the medium.\nthe pattern of band spacing changes in width when the amplitude is changed and in distance apart when frequency is changed.",
+      "whatToDo": "What to do: This can provide formative information before the consensus discussion on day 2. If students are struggling to see that the particles are not traveling, project the simulation and highlight one particle. If students struggle to see the patterns in changing amplitude or frequency, you can have them return to their devices (side by side) or pull up the simulation as a class to prompt students to consider how their observations change given different inputs for amplitude and frequency.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/8.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L10-AO1.html"
+      }
+    },
+    {
+      "id": "82-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See sample progress…",
+      "shortTitle": "Look for: What to look/listen for: See sample progress…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Apply mathematical concepts to make sense of data generated from a model to test ideas about how changing the frequency and amplitude of the sound source affects the patterns in the wavelengths and compression of particles as energy moves across the system.",
+      "lookListenFor": "What to look/listen for: See sample progress tracker ideas below",
+      "whatToDo": "What to do: If students are struggling to represent the patterns they see in the compression band size and distance apart, encourage them to use gestures and drawings to communicate what they see. Alternatively, you could provide images of screenshots of the simulation created under different conditions (e.g. high amplitude and low amplitude) and have students annotate those to explain the patterns and how they know what kind of sound is produced.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/8.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L10-AO2.html"
+      }
+    },
+    {
+      "id": "82-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Use Lesson 11 Modeli…",
+      "shortTitle": "Look for: What to look/listen for: Use Lesson 11 Modeli…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Develop and use a model ​to describe phenomena using unobservable mechanisms for how a sound source could cause vibrations that produce sounds, which cause particles of matter in the surrounding medium to be compressed and expanded, which then collide with neighbors to transfer energy across the medium, which results in movement of an object farther away.",
+      "lookListenFor": "What to look/listen for: Use Lesson 11 Modeling Rubric to evaluate students’ models.",
+      "whatToDo": "What to do: If students are struggling to start from scratch ask them to go back to their Initial Model Diagram from Lesson 1, which included the photos of the speaker, the parking lot, and the window. They may choose to revise that model by using their Gotta-Have-It Checklist to add details; if so, you may suggest they use a different-color pencil or pen for ideas they’re adding or changing.\nIf a student’s model shows partial understanding but is missing key pieces, direct him or her back to the science notebook and Progress Tracker to use those resources to help explain each missing piece of the model.\nIf the student has shown the model well enough but lacks words to explain what’s going on in the picture, consider asking that student to tell you aloud about the model while you scribe captions to explain that thinking.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/8.2 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L11-AO2.html"
+      }
+    },
+    {
+      "id": "82-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See Key Ideas callou…",
+      "shortTitle": "Look for: What to look/listen for: See Key Ideas callou…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A Critically read scientific texts adapted for classroom use to determine the central ideas and obtain scientific information to describe patterns of how the structures in the ear interact with each other to transfer energy from the eardrum to fluid in the cochlea and to a series of sensory cells that move (more or less) in response to vibrations of particular frequencies, which send signals along different nerve cells to the brain.",
+      "lookListenFor": "What to look/listen for: See Key Ideas callout box",
+      "whatToDo": "What to do: If students were not able to correctly complete the diagram, you have a few options for reteaching. You could direct the student(s) to reread Information from the Experts, revisit those links and add to the diagram as they see or hear each part. You could also partner students together (one who is struggling with one who understands well) and have them “test” their hearing using the Online Tone Generator linked in Reading: Hearing in Elephants, Dogs, and Humans. As they explore the Tone Generator, direct each partner to explain aloud the path the sound is taking through the ear and how energy is transferred to eventually get a signal to the brain.\nSuggested prompt\nSample student response\nWho can help talk us through how energy is transferred through the structures of the ear?\nWhat structures behind the eardrum touch that membrane? If the eardrum vibrates, what would that do to the structures behind it?\nAfter that, where would the energy in these vibrations get transferred to next?\nWhen the eardrum vibrates, it transfers the vibration to the bones, which vibrate the fluid in the cochlea.\nThe vibrations are sensed in different areas of the basilar membrane, which makes the hair cells vibrate, and the stereocilia on each hair cell detect those vibrations.\nThe information is passed to nerve cells that send signals to the brain.\nHow can we hear so many different pitches at the same time?\nWhich parts of the basilar membrane vibrate in response to lower-frequency vibrations?\nWhich parts vibrate in response to higher-frequency vibrations?\nThere are different areas of the cochlea that detect different pitches. So, we can hear a high-pitched sound at the same time as a low-pitched sound because the basilar membrane has a different area for each sound.\nThe higher frequencies make the area to the front or bottom of the basilar membrane vibrate.\nThe farther inside or back or top of the basilar membrane vibrates in response to lower frequencies.\nWhat did you learn about hearing loss?\nHearing loss can be caused when the structures in the inner ear are damaged.\nThe ear can be damaged by sounds with a high volume (amplitude) or a high pitch (frequency) over a long period of time.\nHearing loss can also be caused by old age.\nConsidering what we’ve learned about volume (amplitude) and pitch (frequency) and what we’ve just read about how our hearing can be damaged, who can share an experience they’ve had with either an extremely loud sound or an extremely high-pitched sound that hurt or seemed to affect how your ears functioned?\nI was at a concert, and the music was really loud. I couldn’t hear as well the next day.\nWhenever the fire alarm in the school goes off, my ears ring afterwards.\nMy younger brother just started playing the clarinet, and when he squeaks it, my ears hurt.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/8.2 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L12-AO1.html"
+      }
+    },
+    {
+      "id": "82-13-how-does-sound-make-a-window-move",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "title": "How does sound make a window move?",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 13 — How does sound make a window move?.",
+      "files": {
+        "studentHandout": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Assessment Assessment How does.docx",
+        "teacherGuide": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Teacher Edition.docx",
+        "answerKey": "Lesson 13 - 8.2 Sound Waves/8.2 Lesson 13 Answer Key Assessment Key How.docx",
+        "googleForm": "https://docs.google.com/forms/d/1G0nsM1YK4UB1CVrt4LO3Cw6pB9sNQN8FI2QK3GWOMBw/viewform",
+        "googleFormTeacherReady": null,
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "82-13-ao-3"
+    },
+    {
+      "id": "82-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: On Data Tables for E…",
+      "shortTitle": "Look for: What to look/listen for: On Data Tables for E…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Apply mathematical concepts and processes to find and analyze patterns in numerical data and graphs of how the energy transferred by a vibrating object changes in proportion to changes in the amplitude and/or frequency of the object’s vibrations.",
+      "lookListenFor": "What to look/listen for: On Data Tables for Energy Transfer Investigation look for students to connect the farther movement of the marker to greater energy transfer. Look for students using patterns from their data to identify that increasing either frequency or amplitude increases energy transferred but that increases in amplitude have a greater impact on energy than do increases in frequency.",
+      "whatToDo": "What to do: You could collect students’ notebooks for a formative assessment of their understanding of some basic patterns in their groups’ data. They will compile the class data on day 2 and then look for patterns again. If students do not see the basic patterns in the data, ask students, “What was different about the motion of the marker when it was hit by one wave per second versus four waves per second? And What was different about the motion of the marker after a 1 cm versus a 4 cm hit by the ruler.”",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L13-AO1.html"
+      }
+    },
+    {
+      "id": "82-13-ao-3",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: see Assessment Key:…",
+      "shortTitle": "Look for: What to look/listen for: see Assessment Key:…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Apply mathematical concepts and processes to find and analyze patterns in numerical data and graphs of how the energy transferred by a vibrating object changes in proportion to changes in the amplitude and/or frequency of the object’s vibrations.",
+      "lookListenFor": "What to look/listen for: see Assessment Key: How does the energy of a vibration change when we change the amplitude or frequency of the vibration?",
+      "whatToDo": "What to do: On question 1 of this assessment, students are expected to use patterns in the data provided as well as their investigation data to fill in missing values in tables of frequency and amplitude vs. energy. Students may struggle to identify how they are supposed to know what values belong there since the data are not provided, and they may need support in seeing how they can use the patterns from the provided data as well as from their own investigations to make inferences about what the values should be.\nYou may consider doing one value from one of the tables as a class to model strategies like looking for patterns in the data tables, revisiting the Progress Tracker, and looking back at the investigation data for this lesson to reason through what values to fill in for question 1. Once students have seen these strategies, they may find it easier to apply them and to show the understandings they’ve developed through this lesson.\nHOME LEARNING OPPORTUNITY\nSome students may need more time than what’s left in this class period to thoughtfully complete this assessment. Consider allowing these students to complete the assessment outside of class or providing some time at the beginning of the next class period to finish their work.\nAdditional Lesson 13 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.W.8.1: Write arguments to support claims with clear reasons and relevant evidence.\nCCSS.ELA-LITERACY.W.8.1.A: Introduce claim(s), acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically.\nIn this assessment, students are asked to write a claim and support their claim with evidence. Students often struggle to make a clear connection between their evidence and their claim (reasoning). Support students’ reasoning by posting sample language such as, “This evidence shows _____. I know this because ____.” or “I know that ____ is true because I learned ____ when we _____.” These sentence stems will help students draw a direct connection between what they learned and the claims they are trying to support.\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.6.SP.B.5: Summarize numerical data sets in relation to their context, such as by giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.\nStudents discuss and use mathematical methods of finding the average of data sets, including calculating mean and median as a way to combine results from different groups in order to improve the accuracy of the class’s data. They also work together as a class to decide how to account for or discard outliers in the class’s data in order to best represent what each group found in their investigations.\nDepending on their experience using these concepts in math classes, students may need reminders of how mean and median are calculated. You can support students in recalling these procedures by taking a sample data set (either from the investigation or a random example set) and working together as a class to describe how students could find the mean and median of the set. By doing this with the class or with small groups that could use this extra practice, you can support students with mathematical methods needed to analyze the data the class has collected to draw conclusions about the lesson question.\nCCSS.MATH.8.F.B.5: Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally.\nIn this lesson, students gather data describing how the energy of a vibration changes with changes to the frequency and amplitude o…",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L13-AO3.html"
+      }
+    },
+    {
+      "id": "82-13-ao-2",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: see Key Ideas listed…",
+      "shortTitle": "Look for: What to look/listen for: see Key Ideas listed…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Apply mathematical concepts and processes to find and analyze patterns in numerical data and graphs of how the energy transferred by a vibrating object changes in proportion to changes in the amplitude and/or frequency of the object’s vibrations.",
+      "lookListenFor": "What to look/listen for: see Key Ideas listed above.",
+      "whatToDo": "What to do: If students are still struggling to connect these ideas during the Consensus Discussion, ask them to explain to a partner what pieces they think they understand from the data. Then have their partner explain the missing pieces to them. Then ask the original student to revoice in their own words what the other student said and to use an example.\nSuggested prompts\nSample student responses\nWhat patterns did you notice in how changing the amplitude of the vibration changed the amount of energy transferred?\nWhen we increased the amplitude, the amount of energy transferred went up.\nWhen the amplitude doubled, the amount of energy went up by about four times.\nThe graph for amplitude vs. energy isn’t a straight line like the one for frequency vs. energy. It doesn’t look like a linear or proportional relationship.\nIt looks more like an exponential graph, like the one for y = x2.\nWhat patterns did you notice in how changing the frequency of the vibration changed the amount of energy transferred?\nWhen we increased the frequency, the amount of energy transferred went up.\nWhen the frequency doubled, the amount of energy doubled, too.\nThe graph for frequency vs. energy is pretty much a straight line where the energy goes up when the frequency goes up.\nThat graph looks like the graph for a line, like y = x. It looks like the graph for a proportional relationship.\nUsing the tables and graphs of our data, which do you think transferred more energy: waves of bigger amplitude or waves of greater frequency?\nWhat evidence did you see in the data tables that helped you make your claim?\nThe vibrations with bigger amplitude transferred a lot more energy than the vibrations with greater frequency.\nWhen we doubled the frequency, the energy doubled, too. When we doubled the amplitude, the energy went up by 4 times. When we doubled the amplitude again, the energy went up by 16 times.\nIt looks like energy is proportional to frequency but not proportional to amplitude. It looks like energy is related to the amplitude squared.✱\nThe graph for amplitude shows that the energy goes up a lot faster than it does for frequency. The amplitude graph looks more like an exponential relationship where the frequency one looks like a proportional relationship.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/8.2 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L13-AO2.html"
+      }
+    },
+    {
+      "id": "82-14-unit-assessment",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Unit Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "summative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": true,
+      "description": "OpenSciEd Unit 8.2 Lesson 14 — Unit Assessment.",
+      "files": {
+        "studentHandout": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Assessment Unit Assessment.docx",
+        "teacherGuide": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Teacher Edition.docx",
+        "answerKey": "Lesson 14 - 8.2 Sound Waves/8.2 Lesson 14 Answer Key Unit Assessment Answer.docx",
+        "googleForm": "https://docs.google.com/forms/d/1asCVo0-Mq8n1Ak_s2GfOBTFI99-I2hKLBLJAyzBAhec/viewform",
+        "googleFormTeacherReady": null,
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "82-14-ao-1"
+    },
+    {
+      "id": "82-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See the Unit Assessm…",
+      "shortTitle": "Look for: What to look/listen for: See the Unit Assessm…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Develop and use a model to explain how loud sounds and the energy transfer associated with high amplitude sound waves cause damage to ear structures.",
+      "lookListenFor": "What to look/listen for: See the Unit Assessment Answer Key and the End of Unit Assessment Rubric",
+      "whatToDo": "What to do: If your students are struggling or you think they will need support in creating the model, consider letting them use their Gotta-Have-It Checklists for this assessment task. See Gotta-Have-It Checklist Key for an example, but it is best to use the list that your students generated in previous lessons.\nUniversal Design for Learning: This assessment encourages students to demonstrate their understanding of key skills and concepts from the unit so far through multiple different modalities, including writing to explain and drawing models. Some students may benefit from using multiple modalities to show their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you or another student acting as a scribe to record their thinking on paper. Other students may benefit from using gestures rather than images to describe parts of their models. Some students might also benefit from using manipulatives to represent parts of the model and to support a written or verbal explanation of what’s happening in each part of the model. In each case, encouraging students to use multiple modalities to show their thinking creates a clear, accessible, equitable pathway for all students to demonstrate proficiency.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS4-1",
+        "MS-PS4-2",
+        "MS-PS4-3"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.2 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/8.2 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-2/L14-AO1.html"
+      }
+    }
+  ]
+}

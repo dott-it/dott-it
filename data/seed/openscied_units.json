@@ -1,0 +1,2377 @@
+[
+  {
+    "id": "unit-6-1",
+    "unitCode": "6.1",
+    "title": "Light & Matter",
+    "subject": "Physical Science",
+    "grade": 6,
+    "drivingQuestion": "Why do we sometimes see different things when looking at the same object?",
+    "description": "Students investigate how light interacts with matter to create different visual experiences. They explore reflection, absorption, and transmission of light through various materials.",
+    "standards": [
+      "MS-PS4-2",
+      "MS-PS1-4"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/6-1-light-matter/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-6-1-pre",
+        "unitId": "unit-6-1",
+        "title": "Initial Model: Light & Matter",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Light & Matter.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-PS4-2",
+          "MS-PS1-4"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-1-formative",
+        "unitId": "unit-6-1",
+        "title": "Light & Matter Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Light & Matter.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-PS4-2",
+          "MS-PS1-4"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-1-summative",
+        "unitId": "unit-6-1",
+        "title": "Light & Matter Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Light & Matter.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-PS4-2",
+          "MS-PS1-4"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-6-2",
+    "unitCode": "6.2",
+    "title": "Thermal Energy",
+    "subject": "Physical Science",
+    "grade": 6,
+    "drivingQuestion": "How can containers keep stuff from warming up or cooling down?",
+    "description": "Students investigate thermal energy transfer and design solutions to control temperature. They explore conduction, convection, and radiation.",
+    "standards": [
+      "MS-PS3-3",
+      "MS-PS3-4"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/6-2-thermal-energy/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-6-2-pre",
+        "unitId": "unit-6-2",
+        "title": "Initial Model: Thermal Energy",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Thermal Energy.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-PS3-3",
+          "MS-PS3-4"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-2-formative",
+        "unitId": "unit-6-2",
+        "title": "Thermal Energy Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Thermal Energy.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-PS3-3",
+          "MS-PS3-4"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-2-summative",
+        "unitId": "unit-6-2",
+        "title": "Thermal Energy Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Thermal Energy.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-PS3-3",
+          "MS-PS3-4"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-6-3",
+    "unitCode": "6.3",
+    "title": "Weather, Climate & Water Cycling",
+    "subject": "Earth & Space Science",
+    "grade": 6,
+    "drivingQuestion": "Why does a lot of hail, rain, or snow fall at some times and not others?",
+    "description": "Students analyze weather patterns and the water cycle's role in Earth's climate system. They investigate how energy from the sun drives weather patterns.",
+    "standards": [
+      "MS-ESS2-4",
+      "MS-ESS3-5"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/6-3-weather-climate-water-cycling/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-6-3-pre",
+        "unitId": "unit-6-3",
+        "title": "Initial Model: Weather, Climate & Water Cycling",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Weather, Climate & Water Cycling.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-ESS2-4",
+          "MS-ESS3-5"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-3-formative",
+        "unitId": "unit-6-3",
+        "title": "Weather, Climate & Water Cycling Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Weather, Climate & Water Cycling.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-ESS2-4",
+          "MS-ESS3-5"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-3-summative",
+        "unitId": "unit-6-3",
+        "title": "Weather, Climate & Water Cycling Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Weather, Climate & Water Cycling.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-ESS2-4",
+          "MS-ESS3-5"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-6-4",
+    "unitCode": "6.4",
+    "title": "Plate Tectonics & Rock Cycling",
+    "subject": "Earth & Space Science",
+    "grade": 6,
+    "drivingQuestion": "What causes Earth's surface to change?",
+    "description": "Students analyze evidence for plate tectonics and explain how rock cycling shapes Earth's surface. They investigate the processes that create and destroy Earth materials.",
+    "standards": [
+      "MS-ESS1-4",
+      "MS-ESS2-1"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/6-4-rock-cycling-plate-tectonics/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-6-4-pre",
+        "unitId": "unit-6-4",
+        "title": "Initial Model: Plate Tectonics & Rock Cycling",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Plate Tectonics & Rock Cycling.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-ESS1-4",
+          "MS-ESS2-1"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-4-formative",
+        "unitId": "unit-6-4",
+        "title": "Plate Tectonics & Rock Cycling Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Plate Tectonics & Rock Cycling.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-ESS1-4",
+          "MS-ESS2-1"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-4-summative",
+        "unitId": "unit-6-4",
+        "title": "Plate Tectonics & Rock Cycling Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Plate Tectonics & Rock Cycling.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-ESS1-4",
+          "MS-ESS2-1"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-6-5",
+    "unitCode": "6.5",
+    "title": "Natural Hazards",
+    "subject": "Earth & Space Science",
+    "grade": 6,
+    "drivingQuestion": "Where do natural hazards happen and how do we prepare for them?",
+    "description": "Students investigate natural hazard patterns and develop emergency preparedness plans. They analyze data to understand where and why natural hazards occur.",
+    "standards": [
+      "MS-ESS3-2",
+      "MS-ESS3-3"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/6-5-natural-hazards/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-6-5-pre",
+        "unitId": "unit-6-5",
+        "title": "Initial Model: Natural Hazards",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Natural Hazards.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-ESS3-2",
+          "MS-ESS3-3"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-5-formative",
+        "unitId": "unit-6-5",
+        "title": "Natural Hazards Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Natural Hazards.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-ESS3-2",
+          "MS-ESS3-3"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-5-summative",
+        "unitId": "unit-6-5",
+        "title": "Natural Hazards Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Natural Hazards.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-ESS3-2",
+          "MS-ESS3-3"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-6-6",
+    "unitCode": "6.6",
+    "title": "Cells & Systems",
+    "subject": "Life Science",
+    "grade": 6,
+    "drivingQuestion": "How do living things heal?",
+    "description": "Students investigate how cells and body systems work together to maintain life and respond to injury. They explore the relationship between structure and function in living systems.",
+    "standards": [
+      "MS-LS1-3",
+      "MS-LS1-8"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/6-6-cells-systems/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-6-6-pre",
+        "unitId": "unit-6-6",
+        "title": "Initial Model: Cells & Systems",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Cells & Systems.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-LS1-3",
+          "MS-LS1-8"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-6-formative",
+        "unitId": "unit-6-6",
+        "title": "Cells & Systems Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Cells & Systems.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-LS1-3",
+          "MS-LS1-8"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-6-6-summative",
+        "unitId": "unit-6-6",
+        "title": "Cells & Systems Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Cells & Systems.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-LS1-3",
+          "MS-LS1-8"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-7-1",
+    "unitCode": "7.1",
+    "title": "Chemical Reactions & Matter",
+    "subject": "Physical Science",
+    "grade": 7,
+    "drivingQuestion": "How can we make something new that was not there before?",
+    "description": "Students design investigations to understand chemical reactions and conservation of matter. They explore how substances combine and change to form new materials.",
+    "standards": [
+      "MS-PS1-2",
+      "MS-PS1-5"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/7-1-chemical-reactions-matter/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-7-1-pre",
+        "unitId": "unit-7-1",
+        "title": "Initial Model: Chemical Reactions & Matter",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Chemical Reactions & Matter.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-PS1-2",
+          "MS-PS1-5"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-1-formative",
+        "unitId": "unit-7-1",
+        "title": "Chemical Reactions & Matter Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Chemical Reactions & Matter.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-PS1-2",
+          "MS-PS1-5"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-1-summative",
+        "unitId": "unit-7-1",
+        "title": "Chemical Reactions & Matter Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Chemical Reactions & Matter.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-PS1-2",
+          "MS-PS1-5"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-7-2",
+    "unitCode": "7.2",
+    "title": "Chemical Reactions & Energy",
+    "subject": "Physical Science",
+    "grade": 7,
+    "drivingQuestion": "How can we use chemical reactions to design a solution to a problem?",
+    "description": "Students design flameless heaters using energy-releasing chemical reactions. They investigate how energy is transferred during chemical processes.",
+    "standards": [
+      "MS-PS1-6",
+      "MS-ETS1-2"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/7-2-chemical-reactions-energy/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-7-2-pre",
+        "unitId": "unit-7-2",
+        "title": "Initial Model: Chemical Reactions & Energy",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Chemical Reactions & Energy.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-PS1-6",
+          "MS-ETS1-2"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-2-formative",
+        "unitId": "unit-7-2",
+        "title": "Chemical Reactions & Energy Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Chemical Reactions & Energy.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-PS1-6",
+          "MS-ETS1-2"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-2-summative",
+        "unitId": "unit-7-2",
+        "title": "Chemical Reactions & Energy Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Chemical Reactions & Energy.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-PS1-6",
+          "MS-ETS1-2"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-7-3",
+    "unitCode": "7.3",
+    "title": "Metabolic Reactions",
+    "subject": "Life Science",
+    "grade": 7,
+    "drivingQuestion": "How do things inside our bodies work together to make us feel the way we do?",
+    "description": "Students investigate cellular respiration and metabolic processes. They explore how cells obtain and use energy to carry out life functions.",
+    "standards": [
+      "MS-LS1-5",
+      "MS-LS1-7"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/7-3-metabolic-reactions/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-7-3-pre",
+        "unitId": "unit-7-3",
+        "title": "Initial Model: Metabolic Reactions",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Metabolic Reactions.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-LS1-5",
+          "MS-LS1-7"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-3-formative",
+        "unitId": "unit-7-3",
+        "title": "Metabolic Reactions Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Metabolic Reactions.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-LS1-5",
+          "MS-LS1-7"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-3-summative",
+        "unitId": "unit-7-3",
+        "title": "Metabolic Reactions Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Metabolic Reactions.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-LS1-5",
+          "MS-LS1-7"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-7-4",
+    "unitCode": "7.4",
+    "title": "Matter Cycling & Photosynthesis",
+    "subject": "Life Science",
+    "grade": 7,
+    "drivingQuestion": "Where does food come from and where does it go next?",
+    "description": "Students investigate photosynthesis and matter cycling in ecosystems. They explore how matter moves through living and nonliving components of ecosystems.",
+    "standards": [
+      "MS-LS1-5",
+      "MS-LS2-3"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/7-4-matter-cycling-photosynthesis/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-7-4-pre",
+        "unitId": "unit-7-4",
+        "title": "Initial Model: Matter Cycling & Photosynthesis",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Matter Cycling & Photosynthesis.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-LS1-5",
+          "MS-LS2-3"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-4-formative",
+        "unitId": "unit-7-4",
+        "title": "Matter Cycling & Photosynthesis Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Matter Cycling & Photosynthesis.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-LS1-5",
+          "MS-LS2-3"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-4-summative",
+        "unitId": "unit-7-4",
+        "title": "Matter Cycling & Photosynthesis Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Matter Cycling & Photosynthesis.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-LS1-5",
+          "MS-LS2-3"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-7-5",
+    "unitCode": "7.5",
+    "title": "Ecosystem Dynamics",
+    "subject": "Life Science",
+    "grade": 7,
+    "drivingQuestion": "How does changing an ecosystem affect what lives there?",
+    "description": "Students investigate energy transfer through food webs and analyze ecosystem interactions. They explore how changes in one part of an ecosystem affect other parts.",
+    "standards": [
+      "MS-LS2-1",
+      "MS-LS2-3"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/7-5-ecosystem-dynamics/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-7-5-pre",
+        "unitId": "unit-7-5",
+        "title": "Initial Model: Ecosystem Dynamics",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Ecosystem Dynamics.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-LS2-1",
+          "MS-LS2-3"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-5-formative",
+        "unitId": "unit-7-5",
+        "title": "Ecosystem Dynamics Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Ecosystem Dynamics.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-LS2-1",
+          "MS-LS2-3"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-5-summative",
+        "unitId": "unit-7-5",
+        "title": "Ecosystem Dynamics Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Ecosystem Dynamics.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-LS2-1",
+          "MS-LS2-3"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-7-6",
+    "unitCode": "7.6",
+    "title": "Earth's Resources & Human Impact",
+    "subject": "Earth & Space Science",
+    "grade": 7,
+    "drivingQuestion": "How do changes in the Earth's system impact our communities and what can we do about it?",
+    "description": "Students analyze human impacts on Earth's systems and develop solutions to environmental challenges. They investigate resource use and sustainability.",
+    "standards": [
+      "MS-ESS3-3",
+      "MS-ESS3-4"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/7-6-earths-resources-human-impact/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-7-6-pre",
+        "unitId": "unit-7-6",
+        "title": "Initial Model: Earth's Resources & Human Impact",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Earth's Resources & Human Impact.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-ESS3-3",
+          "MS-ESS3-4"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-6-formative",
+        "unitId": "unit-7-6",
+        "title": "Earth's Resources & Human Impact Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Earth's Resources & Human Impact.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-ESS3-3",
+          "MS-ESS3-4"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-7-6-summative",
+        "unitId": "unit-7-6",
+        "title": "Earth's Resources & Human Impact Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Earth's Resources & Human Impact.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-ESS3-3",
+          "MS-ESS3-4"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-8-1",
+    "unitCode": "8.1",
+    "title": "Contact Forces",
+    "subject": "Physical Science",
+    "grade": 8,
+    "drivingQuestion": "Why do things sometimes get damaged when they hit each other?",
+    "description": "Students explore collisions, forces, and engineer solutions to protect objects from damage. They investigate Newton's laws and energy transfer during collisions.",
+    "standards": [
+      "MS-PS2-1",
+      "MS-PS2-2",
+      "MS-PS3-1",
+      "MS-ETS1-2",
+      "MS-ETS1-3",
+      "MS-LS1-8"
+    ],
+    "lessons": 16,
+    "duration": "33 days",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/8-1-contact-forces/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-8-1-soccer",
+        "unitId": "unit-8-1",
+        "title": "Soccer Assessment",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "OpenSciEd Unit 8.1 Lesson 06 — Soccer Assessment.",
+        "standards": ["MS-PS2-1", "MS-PS2-2"]
+      },
+      {
+        "id": "template-unit-8-1-looking-back",
+        "unitId": "unit-8-1",
+        "title": "Looking Back — Explaining Collisions",
+        "type": "Formative",
+        "lesson": 7,
+        "description": "OpenSciEd Unit 8.1 Lesson 07 — Looking Back — Explaining Collisions.",
+        "standards": ["MS-PS2-3"]
+      },
+      {
+        "id": "template-unit-8-1-modeling-forces",
+        "unitId": "unit-8-1",
+        "title": "Modeling Other Force Interactions",
+        "type": "Formative",
+        "lesson": 8,
+        "description": "OpenSciEd Unit 8.1 Lesson 08 — Modeling Other Force Interactions.",
+        "standards": ["MS-PS2-3"]
+      },
+      {
+        "id": "template-unit-8-1-baseball-1",
+        "unitId": "unit-8-1",
+        "title": "Baseball Assessment 1",
+        "type": "Formative",
+        "lesson": 10,
+        "description": "OpenSciEd Unit 8.1 Lesson 10 — Baseball Assessment 1.",
+        "standards": ["MS-PS2-1", "MS-PS2-2"]
+      },
+      {
+        "id": "template-unit-8-1-baseball-2",
+        "unitId": "unit-8-1",
+        "title": "Baseball Assessment 2",
+        "type": "Formative",
+        "lesson": 10,
+        "description": "OpenSciEd Unit 8.1 Lesson 10 — Baseball Assessment 2.",
+        "standards": ["MS-PS2-1", "MS-PS2-2"]
+      },
+      {
+        "id": "template-unit-8-1-stakeholder-feedback",
+        "unitId": "unit-8-1",
+        "title": "Stakeholder Feedback Form",
+        "type": "Peer",
+        "lesson": 14,
+        "description": "OpenSciEd Unit 8.1 Lesson 14 — Stakeholder Feedback Form.",
+        "standards": ["MS-PS2-1", "MS-PS2-2"]
+      },
+      {
+        "id": "template-unit-8-1-cheerleading-1",
+        "unitId": "unit-8-1",
+        "title": "Cheerleading Performance Task (Part 1)",
+        "type": "Summative",
+        "lesson": 15,
+        "description": "OpenSciEd Unit 8.1 Lesson 15 — Cheerleading Performance Task (Part 1).",
+        "standards": ["MS-PS2-1", "MS-PS2-2"]
+      },
+      {
+        "id": "template-unit-8-1-cheerleading-2",
+        "unitId": "unit-8-1",
+        "title": "Cheerleading Performance Task (Part 2)",
+        "type": "Summative",
+        "lesson": 15,
+        "description": "OpenSciEd Unit 8.1 Lesson 15 — Cheerleading Performance Task (Part 2).",
+        "standards": ["MS-PS2-1", "MS-PS2-2"]
+      }
+    ]
+  },
+  {
+    "id": "unit-8-2",
+    "unitCode": "8.2",
+    "title": "Sound Waves",
+    "subject": "Physical Science",
+    "grade": 8,
+    "drivingQuestion": "How can a sound make something move?",
+    "description": "Students investigate sound, vibrations, and energy transfer in physical systems. They explore wave properties and how sound can cause objects to move.",
+    "standards": [
+      "MS-PS4-1",
+      "MS-PS4-2",
+      "MS-PS4-3"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/8-2-sound-waves/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-8-2-pre",
+        "unitId": "unit-8-2",
+        "title": "Initial Model: Sound Waves",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Sound Waves.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-PS4-1",
+          "MS-PS4-2",
+          "MS-PS4-3"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-2-formative",
+        "unitId": "unit-8-2",
+        "title": "Sound Waves Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Sound Waves.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-PS4-1",
+          "MS-PS4-2",
+          "MS-PS4-3"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-2-summative",
+        "unitId": "unit-8-2",
+        "title": "Sound Waves Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Sound Waves.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-PS4-1",
+          "MS-PS4-2",
+          "MS-PS4-3"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-8-3",
+    "unitCode": "8.3",
+    "title": "Forces at a Distance",
+    "subject": "Physical Science",
+    "grade": 8,
+    "drivingQuestion": "How can a magnet move another object without touching it?",
+    "description": "Students explore magnetic and gravitational forces and their effects. They investigate how forces can act at a distance and model these interactions.",
+    "standards": [
+      "MS-PS2-3",
+      "MS-PS2-5",
+      "MS-PS3-2"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/8-3-forces-at-a-distance/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-8-3-pre",
+        "unitId": "unit-8-3",
+        "title": "Initial Model: Forces at a Distance",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Forces at a Distance.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-PS2-3",
+          "MS-PS2-5",
+          "MS-PS3-2"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-3-formative",
+        "unitId": "unit-8-3",
+        "title": "Forces at a Distance Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Forces at a Distance.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-PS2-3",
+          "MS-PS2-5",
+          "MS-PS3-2"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-3-summative",
+        "unitId": "unit-8-3",
+        "title": "Forces at a Distance Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Forces at a Distance.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-PS2-3",
+          "MS-PS2-5",
+          "MS-PS3-2"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-8-4",
+    "unitCode": "8.4",
+    "title": "Earth in Space",
+    "subject": "Earth & Space Science",
+    "grade": 8,
+    "drivingQuestion": "How are we connected to the patterns we see in the sky and space?",
+    "description": "Students model the Earth-Sun-Moon system and explore celestial patterns. They investigate gravity's role in orbital motion and seasonal changes.",
+    "standards": [
+      "MS-ESS1-1",
+      "MS-ESS1-2",
+      "MS-ESS1-3",
+      "MS-PS2-4",
+      "MS-PS4-2"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/8-4-earth-in-space/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-8-4-pre",
+        "unitId": "unit-8-4",
+        "title": "Initial Model: Earth in Space",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Earth in Space.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-ESS1-1",
+          "MS-ESS1-2",
+          "MS-ESS1-3",
+          "MS-PS2-4",
+          "MS-PS4-2"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-4-formative",
+        "unitId": "unit-8-4",
+        "title": "Earth in Space Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Earth in Space.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-ESS1-1",
+          "MS-ESS1-2",
+          "MS-ESS1-3",
+          "MS-PS2-4",
+          "MS-PS4-2"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-4-summative",
+        "unitId": "unit-8-4",
+        "title": "Earth in Space Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Earth in Space.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-ESS1-1",
+          "MS-ESS1-2",
+          "MS-ESS1-3",
+          "MS-PS2-4",
+          "MS-PS4-2"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-8-5",
+    "unitCode": "8.5",
+    "title": "Genetics",
+    "subject": "Life Science",
+    "grade": 8,
+    "drivingQuestion": "Why are living things different from one another?",
+    "description": "Students investigate inheritance, variation, and genetic traits. They explore how genetic information is passed from parents to offspring.",
+    "standards": [
+      "MS-LS3-1",
+      "MS-LS3-2",
+      "MS-LS4-2"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/8-5-genetics/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-8-5-pre",
+        "unitId": "unit-8-5",
+        "title": "Initial Model: Genetics",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Genetics.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-LS3-1",
+          "MS-LS3-2",
+          "MS-LS4-2"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-5-formative",
+        "unitId": "unit-8-5",
+        "title": "Genetics Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Genetics.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-LS3-1",
+          "MS-LS3-2",
+          "MS-LS4-2"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-5-summative",
+        "unitId": "unit-8-5",
+        "title": "Genetics Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Genetics.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-LS3-1",
+          "MS-LS3-2",
+          "MS-LS4-2"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-8-6",
+    "unitCode": "8.6",
+    "title": "Natural Selection & Common Ancestry",
+    "subject": "Life Science",
+    "grade": 8,
+    "drivingQuestion": "How could things living today be connected to the things that lived long ago?",
+    "description": "Students explore natural selection, adaptation, and evolutionary relationships. They investigate evidence for common ancestry and evolutionary change.",
+    "standards": [
+      "MS-LS1-4",
+      "MS-LS4-1",
+      "MS-LS4-2",
+      "MS-LS4-3",
+      "MS-LS4-4",
+      "MS-LS4-6"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/8-6-natural-selection-common-ancestry/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-8-6-pre",
+        "unitId": "unit-8-6",
+        "title": "Initial Model: Natural Selection & Common Ancestry",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Natural Selection & Common Ancestry.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "MS-LS1-4",
+          "MS-LS4-1",
+          "MS-LS4-2",
+          "MS-LS4-3",
+          "MS-LS4-4",
+          "MS-LS4-6"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-6-formative",
+        "unitId": "unit-8-6",
+        "title": "Natural Selection & Common Ancestry Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Natural Selection & Common Ancestry.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "MS-LS1-4",
+          "MS-LS4-1",
+          "MS-LS4-2",
+          "MS-LS4-3",
+          "MS-LS4-4",
+          "MS-LS4-6"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-8-6-summative",
+        "unitId": "unit-8-6",
+        "title": "Natural Selection & Common Ancestry Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Natural Selection & Common Ancestry.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "MS-LS1-4",
+          "MS-LS4-1",
+          "MS-LS4-2",
+          "MS-LS4-3",
+          "MS-LS4-4",
+          "MS-LS4-6"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-b-1",
+    "unitCode": "B.1",
+    "title": "Ecosystem Interactions & Dynamics",
+    "subject": "Biology",
+    "grade": 9,
+    "drivingQuestion": "How do ecosystems work, and how can understanding them help us protect them?",
+    "description": "Students analyze ecosystem interactions and develop conservation strategies. They investigate the complex relationships between biotic and abiotic factors.",
+    "standards": [
+      "HS-LS2-1",
+      "HS-LS2-6"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/b-1-ecosystem-interactions-dynamics/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-b-1-pre",
+        "unitId": "unit-b-1",
+        "title": "Initial Model: Ecosystem Interactions & Dynamics",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Ecosystem Interactions & Dynamics.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "HS-LS2-1",
+          "HS-LS2-6"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-b-1-formative",
+        "unitId": "unit-b-1",
+        "title": "Ecosystem Interactions & Dynamics Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Ecosystem Interactions & Dynamics.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "HS-LS2-1",
+          "HS-LS2-6"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-b-1-summative",
+        "unitId": "unit-b-1",
+        "title": "Ecosystem Interactions & Dynamics Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Ecosystem Interactions & Dynamics.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "HS-LS2-1",
+          "HS-LS2-6"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-b-2",
+    "unitCode": "B.2",
+    "title": "Ecosystems: Matter & Energy",
+    "subject": "Biology",
+    "grade": 9,
+    "drivingQuestion": "What causes fires in ecosystems to burn, and how should we manage them?",
+    "description": "Students investigate matter and energy flow in ecosystems and develop fire management strategies. They explore the role of fire in ecosystem health.",
+    "standards": [
+      "HS-LS2-3",
+      "HS-LS2-4"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/b-2-ecosystems-matter-energy/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-b-2-pre",
+        "unitId": "unit-b-2",
+        "title": "Initial Model: Ecosystems: Matter & Energy",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Ecosystems: Matter & Energy.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "HS-LS2-3",
+          "HS-LS2-4"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-b-2-formative",
+        "unitId": "unit-b-2",
+        "title": "Ecosystems: Matter & Energy Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Ecosystems: Matter & Energy.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "HS-LS2-3",
+          "HS-LS2-4"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-b-2-summative",
+        "unitId": "unit-b-2",
+        "title": "Ecosystems: Matter & Energy Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Ecosystems: Matter & Energy.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "HS-LS2-3",
+          "HS-LS2-4"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "unit-b-3",
+    "unitCode": "B.3",
+    "title": "Inheritance & Variation of Traits",
+    "subject": "Biology",
+    "grade": 10,
+    "drivingQuestion": "Who gets cancer and why? What can we do about it?",
+    "description": "Students analyze genetic data to understand inheritance patterns and disease risk factors. They investigate the genetic basis of cancer and potential treatments.",
+    "standards": [
+      "HS-LS3-1",
+      "HS-LS3-2"
+    ],
+    "lessons": 12,
+    "duration": "6-8 weeks",
+    "status": "Released",
+    "link": "https://openscied.org/instructional-materials/b-3-inheritance-variation-of-traits/",
+    "assessmentTemplates": [
+      {
+        "id": "template-unit-b-3-pre",
+        "unitId": "unit-b-3",
+        "title": "Initial Model: Inheritance & Variation of Traits",
+        "type": "Pre-Assessment",
+        "lesson": 1,
+        "description": "Students create initial models to explain the anchoring phenomenon for Inheritance & Variation of Traits.",
+        "pointValue": 10,
+        "estimatedDuration": "20 minutes",
+        "standards": [
+          "HS-LS3-1",
+          "HS-LS3-2"
+        ],
+        "difficulty": "Beginner",
+        "tags": [
+          "initial model",
+          "pre-assessment",
+          "phenomenon"
+        ],
+        "rubric": [
+          {
+            "criterion": "Model Completeness",
+            "excellent": "Demonstrates mastery of model completeness with clear evidence",
+            "proficient": "Shows good understanding of model completeness with some evidence",
+            "developing": "Shows basic understanding of model completeness with limited evidence",
+            "beginning": "Shows minimal understanding of model completeness with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-b-3-formative",
+        "unitId": "unit-b-3",
+        "title": "Inheritance & Variation of Traits Investigation Analysis",
+        "type": "Formative",
+        "lesson": 6,
+        "description": "Students analyze data from investigations to understand key concepts in Inheritance & Variation of Traits.",
+        "pointValue": 15,
+        "estimatedDuration": "30 minutes",
+        "standards": [
+          "HS-LS3-1",
+          "HS-LS3-2"
+        ],
+        "difficulty": "Intermediate",
+        "tags": [
+          "data analysis",
+          "investigation",
+          "formative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Data Analysis",
+            "excellent": "Demonstrates mastery of data analysis with clear evidence",
+            "proficient": "Shows good understanding of data analysis with some evidence",
+            "developing": "Shows basic understanding of data analysis with limited evidence",
+            "beginning": "Shows minimal understanding of data analysis with little evidence"
+          }
+        ]
+      },
+      {
+        "id": "template-unit-b-3-summative",
+        "unitId": "unit-b-3",
+        "title": "Inheritance & Variation of Traits Final Explanation",
+        "type": "Summative",
+        "description": "Students develop comprehensive explanations for the anchoring phenomenon in Inheritance & Variation of Traits.",
+        "pointValue": 25,
+        "estimatedDuration": "60 minutes",
+        "standards": [
+          "HS-LS3-1",
+          "HS-LS3-2"
+        ],
+        "difficulty": "Advanced",
+        "tags": [
+          "explanation",
+          "evidence",
+          "summative"
+        ],
+        "rubric": [
+          {
+            "criterion": "Scientific Explanation",
+            "excellent": "Demonstrates mastery of scientific explanation with clear evidence",
+            "proficient": "Shows good understanding of scientific explanation with some evidence",
+            "developing": "Shows basic understanding of scientific explanation with limited evidence",
+            "beginning": "Shows minimal understanding of scientific explanation with little evidence"
+          },
+          {
+            "criterion": "Use of Evidence",
+            "excellent": "Demonstrates mastery of use of evidence with clear evidence",
+            "proficient": "Shows good understanding of use of evidence with some evidence",
+            "developing": "Shows basic understanding of use of evidence with limited evidence",
+            "beginning": "Shows minimal understanding of use of evidence with little evidence"
+          }
+        ]
+      }
+    ]
+  }
+]

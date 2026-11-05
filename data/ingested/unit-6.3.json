@@ -1,0 +1,1723 @@
+{
+  "unitId": "6.3",
+  "unitTitle": "Weather, Climate & Water Cycling",
+  "description": "Students analyze weather patterns and the water cycle's role in Earth's climate system. They investigate how energy from the sun drives weather patterns.",
+  "lessonCount": 20,
+  "suggestedPacingDays": 42,
+  "unitOverviewPath": "unit_materials/original/6.3 Weather, Climate, & Water Cycling Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/6/6.3",
+  "ingestedAt": "2026-07-01T13:38:36.286Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "What causes this kind of precipitation event to occur",
+      "title": "What causes this kind of precipitation event to occur?",
+      "teacherEditionPath": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What are the conditions like on days when it hails",
+      "title": "What are the conditions like on days when it hails?",
+      "teacherEditionPath": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx"
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "How does the air higher up compare to the air near the ground",
+      "title": "How does the air higher up compare to the air near the ground?",
+      "teacherEditionPath": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx"
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "Why is the air near the ground warmer than the air higher up",
+      "title": "Why is the air near the ground warmer than the air higher up?",
+      "teacherEditionPath": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx"
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "What happens to the air near the ground when it is warmed up",
+      "title": "What happens to the air near the ground when it is warmed up?",
+      "teacherEditionPath": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx"
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How can we explain the movement of air in a hail cloud",
+      "title": "How can we explain the movement of air in a hail cloud?",
+      "teacherEditionPath": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "Lesson 7",
+      "title": "Lesson 7",
+      "teacherEditionPath": null,
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "Why do clouds or storms form at some times but not others",
+      "title": "Why do clouds or storms form at some times but not others?",
+      "teacherEditionPath": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "Why don’t water droplets or ice crystals fall from the clouds all the time",
+      "title": "Why don’t water droplets or ice crystals fall from the clouds all the time?",
+      "teacherEditionPath": "lesson_11/original/6.3 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "What causes more lift in one cloud versus another",
+      "title": "What causes more lift in one cloud versus another?",
+      "teacherEditionPath": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "Why do some storms produce (really big) hail and others don’t",
+      "title": "Why do some storms produce (really big) hail and others don’t?",
+      "teacherEditionPath": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "What causes a large-scale precipitation event like this to occur",
+      "title": "What causes a large-scale precipitation event like this to occur?",
+      "teacherEditionPath": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "What happens with temperature and humidity of air in large storms",
+      "title": "What happens with temperature and humidity of air in large storms?",
+      "teacherEditionPath": "lesson_15/original/6.3 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 16,
+      "shortTitle": "How do warm air masses and cold air masses interact along the boundaries between them",
+      "title": "How do warm air masses and cold air masses interact along the boundaries between them?",
+      "teacherEditionPath": "lesson_16/original/6.3 Lesson 16 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 17,
+      "shortTitle": "Is there a relationship between where the air is rising and where precipitation falls",
+      "title": "Is there a relationship between where the air is rising and where precipitation falls?",
+      "teacherEditionPath": "lesson_17/original/6.3 Lesson 17 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 18,
+      "shortTitle": "How can we explain what is happening across this storm (and other large-scale storms)",
+      "title": "How can we explain what is happening across this storm (and other large-scale storms)?",
+      "teacherEditionPath": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 19,
+      "shortTitle": "Are there patterns to how air masses move that can help predict where large storms will form",
+      "title": "Are there patterns to how air masses move that can help predict where large storms will form?",
+      "teacherEditionPath": "lesson_19/original/6.3 Lesson 19 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 20,
+      "shortTitle": "How do oceans affect whether a place gets a lot or a little precipitation",
+      "title": "How do oceans affect whether a place gets a lot or a little precipitation?",
+      "teacherEditionPath": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 21,
+      "shortTitle": "Why is there less precipitation further inland in the Pacific Northwest than further inland from the Gulf Coast",
+      "title": "Why is there less precipitation further inland in the Pacific Northwest than further inland from the Gulf Coast?",
+      "teacherEditionPath": "lesson_21/original/6.3 Lesson 21 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 22,
+      "shortTitle": "How can we explain differences in climate in different parts of the world",
+      "title": "How can we explain differences in climate in different parts of the world?",
+      "teacherEditionPath": "lesson_22/original/6.3 Lesson 22 Teacher Edition.docx",
+      "expectedDays": 1
+    }
+  ],
+  "assessments": [
+    {
+      "id": "63-1-6-3-lesson-1-teacher-reference-pre-assessment-reference-for",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "title": "6.3 Lesson 1 Teacher Reference Pre-Assessment Reference for",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 01 — 6.3 Lesson 1 Teacher Reference Pre-Assessment Reference for.",
+      "files": {
+        "studentHandout": "lesson_1/original/6.3 Lesson 1 Teacher Reference Pre-Assessment Reference for.docx",
+        "teacherGuide": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null
+      }
+    },
+    {
+      "id": "63-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Model",
+      "shortTitle": "Initial Model",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.1 Develop an initial model to describe changes and mechanisms at both the observable and the particle level that cause hail to fall during a brief time period.",
+      "lookListenFor": "What to look/listen for: See Pre-Assessment Reference for Students Initial Models for complete guidance on ideas to look for in the initial models.",
+      "whatToDo": "What to do: Make a copy of the students' initial models for future reference so you can assess individual student growth between now and future key summative assessment points in the unit. Use your review of students’ ideas, as represented in their models, to get a sense of commonalities and differences across models and help you plan for the consensus model discussion on day 2.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/6.3 Lesson 1 Handout Initial Model.docx",
+        "teacherGuide": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L01-AO1.html"
+      },
+      "assessmentType": "pre-assessment"
+    },
+    {
+      "id": "63-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Model",
+      "shortTitle": "Initial Model",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A.2 Develop an initial model to describe changes and mechanisms at both the observable and the particle level that cause hail to fall during a brief time period.",
+      "lookListenFor": "What to look/listen for: See Pre-Assessment Reference for Students Initial Models for complete guidance on ideas to look for in the initial models.",
+      "whatToDo": "What to do: If you haven’t already, copy both Initial Model and Representing Particle-Level Changes in the System for future reference so you can assess individual student growth between now and future key summative assessment points in the unit. Additionally, this initial model collection will help you (1) get a sense of commonalities and differences across models and (2) plan for the consensus model discussion during day 2 by serving as an individual pre-assessment of student understanding.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/6.3 Lesson 1 Handout Initial Model.docx",
+        "teacherGuide": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L01-AO2.html"
+      },
+      "assessmentType": "pre-assessment"
+    },
+    {
+      "id": "63-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: Closed (yes/no) versus open (how and why) que…",
+      "shortTitle": "Look for: Closed (yes/no) versus open (how and why) que…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from careful observation of phenomena and gaps in our current models to clarify and seek additional information about how changes to the flow of matter and energy in the air above and around a location on Earth’s surface could cause short-duration precipitation events and longer-duration precipitation events (scale).",
+      "lookListenFor": "What to look/listen for:\nClosed (yes/no) versus open (how and why) questions.\nHail-specific questions\nMore broad precipitation phenomena questions\nQuestions with ideas about short versus long-term events or changes in precipitation",
+      "whatToDo": "What to do: Assess how many closed (yes/no) vs. open (how and why) questions are generated. If students are asking mostly closed questions, you can provide a copy of the questions on the DQB, and ask them to work on refining three or more of these questions so they become how and why questions that can also address parts of the original yes/no question. This could be either an in-class or home learning assignment. You will also be assessing if students generated questions that were only hail-specific or also considered precipitation-related phenomena of different durations (long and short). If students only asked questions about the hail events and not other longer-duration precipitation events, plan to revisit question generation and take additional time to have students add new questions to the DQB about other types of precipitation events they’ve experienced. These other precipitation event related questions help motivate the third and fourth lesson sets of the unit. One element of asking questions in the middle school grade band is to help students develop some questions that can be investigated within the scope of the classroom. Therefore, you may want to include opportunities for students to practice asking questions and thinking about how they might investigate them, perhaps as a recurring home learning assignment or exit or entrance ticket. For example, the following two questions could be posed at the end or start of any class period in any future lesson:\nWhat questions were raised for us (now or at the end of the last lesson)?\nHow might we investigate (one or more of) those questions using equipment in our classroom or using data that other people have collected in other ways and places?\nAdditional Lesson 1 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-Literacy.SL.6.1.c: Pose and respond to specific questions with elaboration and detail by making comments that contribute to the topic, text, or issue under discussion.\nWhile the class is building the Driving Question Board, if a student forgets to explain why or how their question is linked to someone else’s, press that student to talk through their own thinking. This is a key way to emphasize the importance of listening to and building off one another’s ideas, and to help scaffold student thinking. If students can’t figure out which question to connect theirs to, encourage them to ask the class for help. After an idea is shared, ask the original presenter if there is agreement and why, and then post the question.\nThis lesson’s activities rely on students communicating and articulating their thinking. One tool that supports classroom discussion is the Communicating in Scientific Ways poster. Reference the sentence starters and encourage students to use them. The sentence starters can be especially useful for helping students engage in scientific talk, particularly students who may feel reluctant to contribute.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L01-AO3.html"
+      }
+    },
+    {
+      "id": "63-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: Hail isn’t seen in the winter months",
+      "shortTitle": "Look for: Hail isn’t seen in the winter months",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.2 Analyze and interpret data using graphical displays (e.g., maps, charts, graphs, tables) of large data sets to identify temporal and spatial patterns in the range of weather conditions that lead to the formation of precipitation (hail).",
+      "lookListenFor": "What to look/listen for: Ideas about patterns for where hailstorms occur:\nHail isn’t seen in the winter months.\nHail happens later in the day.\nThe temperature is relatively warm (above 50℉) on days when it hails.\nHailstorms are relatively short.\nHailstorms appear in “lines”.\nHumidity is relatively high when it hails.\nNote: Students may often notice the general trends listed below, though they are difficult ones to find in the data due to the relatively brief nature of the hailstorm vs. where weather stations are located and how often they are sampling the weather conditions:\nThe humidity often goes up and the temperature often goes down and there are often changes in the wind around the time of a hailstorm.",
+      "whatToDo": "What to do: If students struggle to identify patterns, prompt them with questions such as, What time of day do hailstorms seem to happen? What time of year? How would you characterize the duration (length of time) of hailstorms? How would you characterize the temperature during a hailstorm? How did that compare across sites? If students struggle with the variability in the data (e.g., the temperatures differ from site to site), help them look for the broader pattern using a visual representation of the class data.\nCases A and G are somewhat more complex because in one case there are two hailstorm events and in one case the time of the hailstorm is unknown. As an opportunity for differentiation, you can provide these cases to students who may benefit from the extra challenge.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L02-AO2.html"
+      }
+    },
+    {
+      "id": "63-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: Hail isn’t seen in the winter months",
+      "shortTitle": "Look for: Hail isn’t seen in the winter months",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.3 Analyze and interpret data using graphical displays (e.g., maps, charts, graphs, tables) of large data sets to identify temporal and spatial patterns in the range of weather conditions that lead to the formation of precipitation (hail).",
+      "lookListenFor": "What to look/listen for: Ideas about patterns for where hailstorms occur:\nHail isn’t seen in the winter months.\nHail happens later in the day.\nThe temperature is relatively warm (above 50℉) on days when it hails.\nHailstorms are relatively short.\nHailstorms appear in “lines”.\nHumidity is relatively high when it hails.\nNote: Students may often notice the general trends listed below, though they are difficult ones to find in the data due to the relatively brief nature of the hailstorm vs. where weather stations are located and how often they are sampling the weather conditions:\nThe humidity often goes up and the temperature often goes down and there are often changes in the wind around the time of a hailstorm.",
+      "whatToDo": "What to do: If students struggle to identify patterns, prompt them with questions such as, What time of day do hailstorms seem to happen? What time of year? How would you characterize the duration (length of time) of hailstorms? How would you characterize the temperature during a hailstorm? How did that compare across sites? If students struggle with the variability in the data (e.g., the temperatures differ from site to site), help them look for the broader pattern using a visual representation of the class data.\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nIt is also helpful to discuss the outliers in the data, an important skill in both math and science. Students develop the concept of outliers and quantitative measures of central tendency for what is typical in a data set in their work in CCS in math in 6th grade. Help students recognize that one way to look for patterns is to start by identifying the “typical” conditions for a phenomenon (e.g., what the weather conditions are like on most days when hailstorms occur, how each weather condition changes from before to after the hailstorm in most cases). Identifying outliers can be a second useful step in looking for patterns, because they can help us see when a case doesn’t match the general patterns–such case(s) are relatively rare. Patterns in weather data can be very complex; most weather phenomena have more than one cause, and identifying outliers can help support this argument. Suggest to students that the general patterns we find in what is typical on most days will help us figure out the primary mechanisms causing the phenomenon in most cases.\nProblematize the idea that it was warm out but hail is frozen. Say, These temperature data are really strange and hard to explain. Water freezes from a liquid to a solid when its temperature drops below 32℉ (0℃). This is the freezing and melting point of water, because above this temperature, frozen water starts to melt. So, if the temperature near Earth’s surface is well above this point all day, how is it possible that frozen water can be falling from the sky?\nSuggested prompt\nSample student response\nBased on the patterns in the data you analyzed, was the air temperature ever that cold when it hailed?\nNo, it was usually in the 60s and 70s.\nWhat new questions does this raise for you?\nWhat’s it like in the air up high to be able to make ice?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L02-AO3.html"
+      }
+    },
+    {
+      "id": "63-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: There are more days of hail in the middle of…",
+      "shortTitle": "Look for: There are more days of hail in the middle of…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.1 Analyze and interpret data using graphical displays (e.g., maps, charts, graphs, tables) of large data sets to identify temporal and spatial patterns in the range of weather conditions that lead to the formation of precipitation (hail).",
+      "lookListenFor": "What to look/listen for: Ideas about patterns for where hailstorms occur:\nThere are more days of hail in the middle of the country.\nThere aren’t very many days of hail on the west coast, particularly near the ocean.\nSome places have a lot of hail (more than 13 days).",
+      "whatToDo": "What to do: If students struggle with interpreting the color and number notations on the map, project and annotate the map by asking them to give examples of what the map is showing; for example, Where is a location that has more than 10 days of large hail? How do you know? If students struggle with identifying patterns, pose questions such as, Are there places that have more days of hail than others? or provide sentence starters such as, There are more days of large hail in ________. Places that don’t have much hail include ________.\nTransition to the hail weather data. Say, So, maybe if we zoomed in on some of these locations we could find out more about what is going on when hailstorms happen.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L02-AO1.html"
+      }
+    },
+    {
+      "id": "63-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Develop a model to show the relationship between the…",
+      "shortTitle": "Develop a model to show the relationship between the…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Develop a model to show the relationship between the motion of the molecules that make up air and the energy of those molecules to explain the patterns of change in air temperature at various altitudes.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Use students’ Progress Tracker to formatively assess (1) their understanding of the relationship between temperature and kinetic energy of particles of matter and (2) their ability to apply this understanding to develop a model that represents the differences in temperature (thermal energy) of the air at different altitudes. Students’ responses should not be graded; rather, use what you learn to inform next steps for moving their thinking forward. Examples include:\ndocumenting your feedback in students’ notebooks, such as additional probing questions, suggestions for improvement, or a request for additional evidence or reasoning;\nrevisiting, reteaching, or reinforcing ideas from the lesson to help students fill in gaps in their learning;\nusing examples of actual student work to prompt discussion about what we have and haven’t figured out up to this point in the unit; and asking additional questions at the beginning of Lesson 4 to probe students’ thinking and help students make connections and build understandings.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L03-AO3.html"
+      }
+    },
+    {
+      "id": "63-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Regardless of the time of year, the temperatu…",
+      "shortTitle": "Look for: Regardless of the time of year, the temperatu…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Analyze and interpret sets of data to identify patterns (similarities across data sets) that provide evidence that air temperature changes based on altitude above Earth’s surface independently of geographical location or time of year.",
+      "lookListenFor": "What to look/listen for: As students work with partners and in small groups, and share as a class, listen for the following ideas in their conversations and look for the same ideas in their written observations and claims:\nRegardless of the time of year, the temperature of the air always decreases as you move away from Earth’s surface and higher into the atmosphere.\nThe air temperature at very high altitudes is coldest in winter.\nThe air temperature at 16,000 ft and higher is cold enough for hailstones to form. (In a few cases, the air temperature in winter and spring at altitudes lower than 16,000 ft is cold enough for hailstones to form.)",
+      "whatToDo": "What to do: Throughout the lesson, students are asked to look for patterns in the data and to document their observations in their science notebooks. As students work, listen to their conversations and look at their written observations to do a quick formative assessment of their understanding of the data and the patterns they find. When students write claims, look for the use of data as evidence to support their claims. Later, when students come together in the Scientists Circle, listen to the ideas students share and how they connect their thinking with evidence from the weather balloon data.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L03-AO1.html"
+      }
+    },
+    {
+      "id": "63-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: The air higher in the atmosphere is much cold…",
+      "shortTitle": "Look for: The air higher in the atmosphere is much cold…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Develop a model to show the relationship between the motion of the molecules that make up air and the energy of those molecules to explain the patterns of change in air temperature at various altitudes.",
+      "lookListenFor": "What to look/listen for: When analyzing students’ thinking and the evidence they use to support it in the Progress Tracker, look for the following ideas:\nThe air higher in the atmosphere is much colder than the air near the ground.\nWhen the temperature of the air increases, the speed of the molecules that make up air increases, and when the temperature of the air decreases, the speed of the molecules that make up air decreases.\nThe molecules that make up air at higher altitudes move slower and are closer together than air at lower altitudes closer to the ground.",
+      "whatToDo": "What to do: Use students’ Progress Tracker to formatively assess (1) their understanding of the relationship between temperature and kinetic energy of particles of matter and (2) their ability to apply this understanding to develop a model that represents the differences in temperature (thermal energy) of the air at different altitudes. Students’ responses should not be graded; rather, use what you learn to inform next steps for moving their thinking forward. Examples include:\ndocumenting your feedback in students’ notebooks, such as additional probing questions, suggestions for improvement, or a request for additional evidence or reasoning;\nrevisiting, reteaching, or reinforcing ideas from the lesson to help students fill in gaps in their learning;\nusing examples of actual student work to prompt discussion about what we have and haven’t figured out up to this point in the unit; and asking additional questions at the beginning of Lesson 4 to probe students’ thinking and help students make connections and build understandings.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L03-AO2.html"
+      }
+    },
+    {
+      "id": "63-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Agreement about which data to co…",
+      "shortTitle": "Look for: /listen for: Agreement about which data to co…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Plan an investigation collaboratively by identifying variables of interest, tools to gather data, methods for obtaining measurements, and how many sites are necessary to determine if a pattern exists between the temperature of the ground and the temperature of the air right above it.",
+      "lookListenFor": "What to look for/listen for: Agreement about which data to collect, tools to use, and how to collect the data. Identification of sites that allow for accurate data collection, including sites with exposure to the Sun and one shady site to compare. Potentially the inclusion of ideas about light, absorption, and energy transfer from previous units in the prediction of what the data might show.",
+      "whatToDo": "What to do: If students do not identify the correct data or tools to collect it, reference previous OpenSciEd units (e.g., One-way Mirror unit, Cup Design unit). Ask students how the investigations in those units helped uncover relationships between light and temperatures. Students may struggle to make predictions about what they might see when they collect data outside. Prompt them with: What do we know about the air? Is it a solid or a gas? What about the ground? Which has more matter? These questions are intended to help connect previous units and this current investigation. Students may also struggle to predict what they might see when they collect data outside. Prompt them with: What do we know about the air? Is it a solid or gas? What about the ground? Which has more matter? These questions are intended to help students make connections between previous units and this current investigation.\nSuggested prompt\nSample student response\nIf you could check the air right at the surface of the sidewalk in the photo, would you expect it to be the same temperature above every part of the sidewalk?\nDifferent parts of it might have slightly different temperatures.\nMaybe it matters if it is in the shade.\nWhat if you compared a sunny part of the sidewalk with a spot in the shade? Would it be the same temperature?\nProbably not. It probably feels cooler in the shade.\nHow do all the places in the sunlight compare?\nA blacktop feels really warm in sunlight compared to grass and maybe the sidewalk.\nThink about the pattern we saw with the weather balloon data. If we zoom into the space right at the ground and also the air about 4 feet above the ground, would we see a similar pattern? Why or why not?\nI don’t think the temperatures will be different because they are really close together.\nIf the ground is really hot, then maybe the air right at the ground will be really hot too because the air is touching the ground.\nRehearse the procedures ahead of time. If time allows, students can practice taking readings in the classroom or outside on the school grounds. By working in their groups, everyone can understand the best practices for data collection and how to “calibrate” with one another so readings are consistent across multiple students. This is also a good opportunity to explain the different roles students can take on while working in their groups.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L04-AO1.html"
+      }
+    },
+    {
+      "id": "63-4-ao-4",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: The light that doesn’t end up bouncing off th…",
+      "shortTitle": "Look for: The light that doesn’t end up bouncing off th…",
+      "peCode": "4.C",
+      "buildingTowards": "Building towards: 4.C Develop and use a model to describe phenomena and unobservable mechanisms that track the transfer of energy from the Sun to the ground and then to the air at the surface.",
+      "lookListenFor": "What to look/listen for:\nThe light that doesn’t end up bouncing off the ground is absorbed.\nThe ground surfaces that absorb more light tend to be warmer (higher temperature).\nLight transmits through air and reaches the ground, where some of it is absorbed and some is reflected.\nWhen energy is absorbed, it causes the particles in the ground to vibrate more, increasing their kinetic energy and the temperature of the ground.\nParticles in the ground with more kinetic energy transfer energy to particles in the air through conduction when they collide.",
+      "whatToDo": "What to do: If students struggle to make the connection between the temperature and sunlight data to explain why the ground heats up more and how it transfers energy back to the air, diagram the system and trace the energy. Include bubbles to “zoom in” on different locations to show what the particles are doing as energy from the Sun travels through the air, is absorbed by the ground, and then transfers back to the air.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L04-AO4.html"
+      }
+    },
+    {
+      "id": "63-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students pay attenti…",
+      "shortTitle": "Look for: What to look/listen for: Students pay attenti…",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B.1 Collect, analyze, and interpret data using graphical displays (tables of data we obtain from our own investigations) to identify ground and surface air temperature patterns as they relate to incoming and reflected solar radiation.",
+      "lookListenFor": "What to look/listen for: Students pay attention to agreed upon data collection measures and take measurements using accurate and consistent methods.",
+      "whatToDo": "What to do: Each group should have two thermometers to allow options for data collection. Students can collect the temperature of two different side-by-side surfaces; for example, setting the thermometers on a concrete sidewalk and on pebbles next to it, or on black asphalt and on a concrete sidewalk. This will help them see the different amounts of energy that surfaces absorb from the Sun, as evidenced by varied temperatures. Students can also place the first thermometer on a surface and then hold the second 3-4 feet above the surface. This will allow them to see a slight temperature difference between the air right at the ground and the air farther above, which will help them build an understanding of convection in Lesson 5.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L04-AO2.html"
+      }
+    },
+    {
+      "id": "63-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should noti…",
+      "shortTitle": "Look for: What to look/listen for: Students should noti…",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B.1 Collect, analyze, and interpret data using graphical displays (tables of data we obtain from our own investigations) to identify ground and surface air temperature patterns as they relate to incoming and reflected solar radiation.",
+      "lookListenFor": "What to look/listen for: Students should notice consistent patterns across data collection sites of the ground being warmer than the air above; students should also notice that incoming light is greater than reflected light, making the connection that some energy from the Sun (light) is absorbed by the ground. Finally, students need to connect that absorption to the warmer ground temperatures.",
+      "whatToDo": "What to do: Students are transitioning between macroscopic data collection and using the patterns that emerge from their analysis to connect back to their understanding of thermal energy and energy transfer. If students struggle, diagram the data by tracing incoming energy from the Sun, light reflection off the ground, and the temperature of the ground. This should help them connect the data to the patterns they notice.\nAs students report what they notice, be sure to prompt them to make connections to their everyday life: Have you ever noticed something like this in your life, when some surface was really hot but another wasn’t? Examples include a hot, sandy beach or a sidewalk on a warm summer day, when the grass nearby feels cool to the feet, or walking across a parking lot’s dark surface and feeling an increase in temperature.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L04-AO3.html"
+      }
+    },
+    {
+      "id": "63-5-ao-3",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: The ground warms the air near it through cond…",
+      "shortTitle": "Look for: The ground warms the air near it through cond…",
+      "peCode": "5.B",
+      "buildingTowards": "Building towards: 5.B Develop and use a model to track and describe how transferring thermal energy to and from a fixed amount of air (matter) in a closed system affects its volume and density due to unobservable mechanisms (causes), including changes in the speed and spacing of the molecules that make up that air.",
+      "lookListenFor": "What to look/listen for:\nThe ground warms the air near it through conduction.\nAs the air near the ground warms, the molecules that make up the air speed up and spread farther apart.\nThe warm air becomes less dense than the cooler air above it.\nThe warm, less dense air rises.\nAs the warm, less dense air rises high up in the atmosphere, it transfers thermal energy to the cooler air around it.\nThe warm, less dense air cools down, becomes more dense, and sinks back down toward the ground.",
+      "whatToDo": "What to do: If students struggle to model what happens to the air near the ground when it is warmed up, have them think about the important components--air, the ground, and energy--and the interactions between them. Encourage them to use words and pictures to represent how energy affects the ground and the air near it. You can also prompt them to think about the changes in energy caused in the air in the Soap Bubble and Bottle Investigation and in the helium in the Heated Balloon Investigation. You can also revisit the lesson question at the beginning of the next class by analyzing one or two examples of completed Progress Trackers with students.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L05-AO3.html"
+      }
+    },
+    {
+      "id": "63-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: Which sample is less dense?",
+      "shortTitle": "Look for: Which sample is less dense?",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.1 Conduct investigations to collect and use observations and data as evidence to determine the effects of thermal energy transfer to the air in contact with Earth’s surface.",
+      "lookListenFor": "What to look/listen for: After the scenario is presented, students are directed to talk with a partner and make a claim supported with evidence. Listen for the following ideas to surface:\nWhich sample is less dense?\nSample A has a greater number of molecules in the same amount of space as Sample B.\nSample B is less dense than Sample A because it has fewer molecules that are less densely packed in the same size space.\nWhat caused this difference?\nThe ground in direct sunlight receives more sunlight than the ground in the shade.\nThe blacktop absorbs more sunlight and gets warmer.\nThe air is heated through direct contact with the ground (conduction).\nThe air over the blacktop gets warmer than ___, because the blacktop has more thermal energy than ___.\nThe molecules that make up the air over the blacktop have more energy, move faster, and spread farther apart, so the air in Sample A is less dense than the air in Sample B.",
+      "whatToDo": "What to do: If students struggle with the term density, use the phrase “amount of matter in a given space” or “how closely packed together the particles are” to help them think about density in conceptual terms. If they need additional scaffolding, use questions to help guide their thinking. For example, ask, What is the same about both samples? What is different? Which of these differences is causing the air to look different in each sample? If students need help formulating a claim with evidence and reasoning, use sentence starters, such as Sample ___ is less dense because ___________. When a sample of the same type of matter is less dense than another sample of that matter, the particles that make it up _________________.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L05-AO1.html"
+      }
+    },
+    {
+      "id": "63-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: Which sample is less dense?",
+      "shortTitle": "Look for: Which sample is less dense?",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.2 Conduct investigations to collect and use observations and data as evidence to determine the effects of thermal energy transfer to the air in contact with Earth’s surface.",
+      "lookListenFor": "What to look/listen for: After the second scenario, list for these ideas again:\nWhich sample is less dense?\nSample A has a greater number of molecules in the same amount of space as Sample B.\nSample B is less dense than Sample A because it has fewer molecules that are less densely packed in the same size space.\nWhat caused this difference?\nThe ground in direct sunlight receives more sunlight than the ground in the shade.\nThe blacktop absorbs more sunlight and gets warmer.\nThe air is heated through direct contact with the ground (conduction).\nThe air over the blacktop gets warmer than ___, because the blacktop has more thermal energy than ___.\nThe molecules that make up the air over the blacktop have more energy, move faster, and spread farther apart, so the air in Sample A is less dense than the air in Sample B.",
+      "whatToDo": "What to do: Students may still need additional scaffolding to talk about density. Continue to use prompts, such as Sample ___ is less dense because ___________. When a sample of the same type of matter is less dense than another sample of that matter, the particles that make it up _________________.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L05-AO2.html"
+      }
+    },
+    {
+      "id": "63-6-explaining-the-movement",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Explaining the Movement",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 06 — Explaining the Movement.",
+      "files": {
+        "studentHandout": "lesson_6/original/6.3 Lesson 6 Assessment Explaining the Movement.docx",
+        "teacherGuide": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/6.3 Lesson 6 Answer Key Explaining the Movement.docx",
+        "googleForm": "https://docs.google.com/forms/d/1XIMmvmHsAsbDwNuALchRxJVMnJ79ynFA7YLQOFIPZ5s/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "63-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: Air is a mixture of different types of molecu…",
+      "shortTitle": "Look for: Air is a mixture of different types of molecu…",
+      "peCode": "6.C",
+      "buildingTowards": "Building towards: 6.C Obtain information by reading scientific texts adapted for classroom use and summarize key ideas to determine that the air is a mixture of different types of gases (matter), including water vapor, and that relative humidity is a measure of a small proportion of molecules of water vapor in the air.",
+      "lookListenFor": "What to look/listen for:\nAir is a mixture of different types of molecules (substances) in the gas state, which we can’t see.\nThere are also some larger particles in the air, which we can sometimes see (pollen, ash, dust).\nWater vapor in the air, measured as humidity, makes up a relatively small fraction (or percent) of the molecules in the air.",
+      "whatToDo": "What to do: If students struggle,direct them to work on a single and summarize one key idea from it, in a single sentence, that answers the question “What is in the air?”\nNavigate to the next lesson. Tell students that we will figure out where all that water in the atmosphere is coming from next time.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L06-AO2.html"
+      }
+    },
+    {
+      "id": "63-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for:  See Explaining the…",
+      "shortTitle": "Look for: What to look/listen for:  See Explaining the…",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Develop and use a model to describe how thermal energy from the Sun causes movement of parcels of air via conduction to cause the formation of clouds.",
+      "lookListenFor": "What to look/listen for:  See Explaining the Movement of Air in a Hailstorm Cloud for guidance on what to look for student responses on Explaining the Movement of Air in a Hailstorm Cloud.",
+      "whatToDo": "What to do: Provide written feedback to students on their responses. Feedback can be particularly powerful when phrased in the form of questions. You can invite students to respond to these questions on their own as a way to demonstrate their understanding of thinking they did not make visible in their first set of responses.\nUniversal Design for Learning: This assessment encourages students to demonstrate their understanding of key skills and concepts from the unit so far by scaffolding the construction of a written explanation. Allowing students to use different modalities will provide more access for students to present their understandings. Some students may benefit from using other modalities, such as drawing, to show their thinking for any or all of the questions on this assessment. Consider allowing some students to present their answers verbally as another student scribes their thinking on paper; this would allow students to also use gestures to help articulate their understanding about how the air behaves and rises in a cloud. Encouraging students to use other modalities to show their thinking creates an equitable pathway for all students to demonstrate proficiency.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L06-AO1.html"
+      }
+    },
+    {
+      "id": "63-7-6-3-lesson-7-handout-self-assessment",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "6.3 Lesson 7 Handout Self-Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 07 — 6.3 Lesson 7 Handout Self-Assessment.",
+      "files": {
+        "studentHandout": "lesson_7/original/6.3 Lesson 7 Handout Self-Assessment.docx",
+        "teacherGuide": null,
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/1T11z-8KDOOg-3OiGWezETbBftkW_0QMR612W6GuuyqA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "63-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Students should clearly identify what is repr…",
+      "shortTitle": "Look for: Students should clearly identify what is repr…",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Evaluate the limitations of the thunderstorm simulation, identifying which aspects of the system are represented in the model and which additional aspects could be added to account for thunderstorm development.",
+      "lookListenFor": "What to look/listen for:\nStudents should clearly identify what is represented in the model related to storm development, and also ideas for things that could be added, such as sunlight data, ground absorption, presence of CCN, and so forth.",
+      "whatToDo": "What to do: If students struggle to represent other ideas in the simulation, challenge them with questions such as, Where is the energy coming from that heats the ground? The air? How does water in the air form a cloud? What does it need? Prompt them to look back in their science notebook at previous lessons to pull in other ideas they recorded earlier in the unit.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L10-AO2.html"
+      }
+    },
+    {
+      "id": "63-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Students should specifically point out a rela…",
+      "shortTitle": "Look for: Students should specifically point out a rela…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Modify a model—based on evidence—to build a storm system by changing the input variables, such as temperature and humidity, and measuring changes in the output, the size of storm formation.",
+      "lookListenFor": "What to look/listen for:\nStudents should specifically point out a relationship between storm development and the magnitude of the temperature difference between the air at the ground and higher in the atmosphere.\nHigh levels of humidity are also related to storm development.\nWhen combined, these two variables are related to stronger storms. However, additional factors need to be considered in storm development.",
+      "whatToDo": "What to do: If students struggle with their explanation, encourage them to think about one relationship at a time by asking questions such as, What were ground temperatures like with strong storms? Weak storms? As students work through one variable at a time, they can piece together how each one is related to a stronger or weaker storm. Prompt them to look back at Data Table for Making a Thunderstorm for help tracking these relationships.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L10-AO1.html"
+      }
+    },
+    {
+      "id": "63-10-ao-3",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Students should specifically point out a rela…",
+      "shortTitle": "Look for: Students should specifically point out a rela…",
+      "peCode": "10.C",
+      "buildingTowards": "Building towards: 10.C Construct an explanation that includes correlational relationships between temperature and humidity that can be used to predict storm development.",
+      "lookListenFor": "What to look/listen for:\nStudents should specifically point out a relationship between storm development and the magnitude of the temperature difference between the air at the ground and higher in the atmosphere.\nHigh levels of humidity are also related to storm development. When combined, these two variables are related to stronger storms. However, additional factors need to be considered in storm development.",
+      "whatToDo": "What to do: If students struggle with their explanation, encourage them to think about one relationship at a time by asking questions such as, What were ground temperatures like with strong storms? Weak storms? As students work through one variable at a time, they can piece together how each one is related to a stronger or weaker storm. Prompt them to look back at Data Table for Making a Thunderstorm for help tracking these relationships.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L10-AO3.html"
+      }
+    },
+    {
+      "id": "63-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: a force of gravity arrow pointing downward",
+      "shortTitle": "Look for: a force of gravity arrow pointing downward",
+      "peCode": "11.B",
+      "buildingTowards": "Building towards: 11.B Develop a model to represent balanced and unbalanced forces on an object suspended by an upward current of air, and use the model to predict and explain whether the object would remain suspended (stability) or start moving downward or upward (change) due to the relative strength of the opposing forces.",
+      "lookListenFor": "What to look for/listen for: The following elements should be visible in student models for Case C:\na force of gravity arrow pointing downward\na lift force arrow pointing upward\na smaller lift force arrow than the gravity arrow\na movement arrow pointing downward and/or a description that the object will begin to fall (or sink)",
+      "whatToDo": "What to do: If some students’ models are missing any of those key elements, bring the class back together and work through the four elements together, asking what the reason is for including each one.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/6.3 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L11-AO2.html"
+      }
+    },
+    {
+      "id": "63-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: These objects would remain floating at the he…",
+      "shortTitle": "Look for: These objects would remain floating at the he…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Use mathematical thinking and construct an explanation to predict patterns in the relationship between the relative strength of two opposing forces on different objects and the resulting change in motion of those objects.",
+      "lookListenFor": "What to look for/listen for: Look for these predictions in their data table:\nThese objects would remain floating at the height they were released: the large water droplet in Case A and the small hailstone in Case B.\nThese objects would start to rise: the small snowflake and large snowflake in Cases A and B and the large water droplet in Case B.\nThese objects would start to sink: the large hailstone in Cases A and B and the small hailstone in Case A.\nLook for these ideas in their explanations:\nWater droplets and ice crystals have mass and therefore have weight (a downward force on them from gravity).\nThey should start to fall from this unless there is an updraft force in the opposite direction that is as strong as (or stronger than) the downward force on them from gravity.",
+      "whatToDo": "What to do: If students’ predictions are not correct, return their handout and ask them to compare their predictions with those reported out in the Scientists Circle on day 2 and have them make corrections in line with the claims of the class. Then have them write a short summary of why these changes make sense and add a new Case C (a new column) to the table on their handout to record their new predictions for an updraft force of 0.001 oz. If students’ explanations are incomplete, ask them to make revisions after completing the consensus modeling in the Scientists Circle. Encourage them to try putting into words what is shown in each of the three cases on the chart paper. Collect these handouts again either at the end of day 2 or the start of the next lesson.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/6.3 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L11-AO1.html"
+      }
+    },
+    {
+      "id": "63-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should corr…",
+      "shortTitle": "Look for: What to look/listen for: Students should corr…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A Collaboratively plan an investigation to collect data, identifying independent and dependent variables and controls and how the data are recorded, to serve as the basis for evidence that greater temperature differences between the ground and the air higher in the atmosphere cause greater lift (effect) of air.",
+      "lookListenFor": "What to look/listen for: Students should correctly identify which variables will be held constant across groups (control variables) and which will be the independent variable. They should express understanding that the independent variable is the variable they are testing to determine the effect on the dependent variable (movement of dye in a tub of water).",
+      "whatToDo": "What to do: If students struggle with variables, rephrase this language to call the independent variable the “test variable” or the “condition that is being changed by the group.”",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L12-AO1.html"
+      }
+    },
+    {
+      "id": "63-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should noti…",
+      "shortTitle": "Look for: What to look/listen for: Students should noti…",
+      "peCode": "12.B",
+      "buildingTowards": "Building towards: 12.B Develop a model to represent how varying inputs of thermal energy affect the resulting movement of air (output) to show the relationships among variables that can predict greater lift and movement of air.",
+      "lookListenFor": "What to look/listen for: Students should notice that when fluid is heated, it rises and spreads out. As it cools, it sinks again. This forms a circular movement of fluid known as convection. The greater the thermal energy input into this circular movement, the faster the fluid will rise (or lift). When little thermal energy is added to the system, there is very little lift. These results map back to the movement of air in and around a cloud by showing that when there is great thermal energy input, air can rise very fast with a lot of force.",
+      "whatToDo": "What to do: Students need to synthesize findings across 7-8 test conditions. If this is challenging, discuss the results of each condition as a class and highlight the findings as related to the amount of thermal energy input and the movement of the dye. Frequently remind students that the dye represents the movement of air in and around a cloud.\nConduct a gallery walk. Have students leave their Air Movement in Different Conditions out on a desk for other groups to look at, or tape the handouts to a wall or whiteboard. Give students 3 minutes for a silent walkaround to visit the findings from at least three groups who tested different temperatures and masses. Encourage students to use their science notebook to jot down their noticings and wonderings from the other groups’ results.\nRespond to claims. Project slide J. Distribute Explaining Convection in the Air Outside to each student and have them respond to the claims on the handout using evidence from the gallery walk.✱ They will bring their thinking to the class discussion in the next step.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L12-AO2.html"
+      }
+    },
+    {
+      "id": "63-12-ao-3",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should trac…",
+      "shortTitle": "Look for: What to look/listen for: Students should trac…",
+      "peCode": "12.C",
+      "buildingTowards": "Building towards: 12.C Construct an explanation that includes qualitative relationships between variables that predict the movement of a fluid (air), based on the transfer of energy that drives the motion.",
+      "lookListenFor": "What to look/listen for: Students should trace the input of thermal energy into the system as the mechanism that causes air to rise (or gives it lift). When the thermal energy is greater, air rises faster with more force. Another key ingredient is the difference between temperatures near the ground where they are warmest and higher in the atmosphere where they are colder (students should recall this from Lesson 10). Stronger storms result from a greater difference, and the lift of air is strongest when the thermal energy input is greatest.",
+      "whatToDo": "What to do: Ask students to remember from Lesson 10 what conditions caused stronger storms to form (warmest temperatures near the ground, coldest higher in the atmosphere, high humidity). Encourage students to use this idea and integrate the new idea that more thermal energy causes air to rise faster and with more force. These two ideas together can help them explain why big storms form and why clouds can rise very high in the atmosphere.\nTo summarize at the end of class, say, We’ve figured out quite a bit about the movement of air and water vapor. Next time, let’s see if we can use all of our ideas to explain why hailstorms form.\nAdditional Lesson 12 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nIn 6th grade, students work on using rates and proportional thinking. This investigation supports students on:\nCCSS.MATH.CONTENT.6.RP.A.3 Use ratio and rate reasoning to solve real-world and mathematical problems ...\nStudents consider which independent variable causes faster rates of lift (updraft) and consider the relationship that as more thermal energy is added to the system, the lift is faster.\nThis lesson also supports students in identifying variables in an investigation, with an emphasis on the independent variable. If students have not used this terminology before, it is equally fine to call this variable the “test variable” or “test condition.”\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nAt the end of the lesson, students construct explanations using the handout Explaining Convection in the Air Outside. This supports students in the following writing standards:\nCCSS.ELA-LITERACY.W.6.1 Write arguments to support claims with clear reasons and relevant evidence.\nCCSS.ELA-LITERACY.W.6.1.A Introduce claim(s) and organize the reasons and evidence clearly.\nCCSS.ELA-LITERACY.W.6.1.B Support claim(s) with clear reasons and relevant evidence, using credible sources and demonstrating an understanding of the topic or text.\nCCSS.ELA-LITERACY.W.6.1.C Use words, phrases, and clauses to clarify the relationships among claim(s) and reasons.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L12-AO3.html"
+      }
+    },
+    {
+      "id": "63-13-hurricane-assessment-tasks",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "title": "Hurricane Assessment Tasks",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 13 — Hurricane Assessment Tasks.",
+      "files": {
+        "studentHandout": "lesson_13/original/6.3 Lesson 13 Assessment Hurricane Assessment Tasks.docx",
+        "teacherGuide": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": "lesson_13/original/6.3 Lesson 13 Answer Key Key for Hurricane.docx",
+        "googleForm": "https://docs.google.com/forms/d/156TV6RPRaOLuXGTBt4c-5E3hHmSlVFgunoNqjWE-eIc/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "63-13-ao-3",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See Key for Hurrican…",
+      "shortTitle": "Look for: What to look/listen for: See Key for Hurrican…",
+      "peCode": "13.B",
+      "buildingTowards": "Building towards: 13.B Construct an explanation, using a model and previously developed science ideas, to explain what causes hurricanes to form, grow, and produce (effect) strong winds and large amounts of rain (cycling of matter and flow of energy).",
+      "lookListenFor": "What to look/listen for: See Key for Hurricane Assessment Tasks",
+      "whatToDo": "What to do: If students are struggling to apply their understanding about hailstorms to hurricanes, encourage them to use their Gotta-Have-It Checklists. Students can pause and examine the models that they have created and then return to the assessment to apply their ideas. Some students may benefit from using multiple modalities to show their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you or having another student act as a scribe to record their thinking on paper. Other students may benefit from using gestures rather than images to describe parts of their models.\nThis assessment encourages students to demonstrate their understanding of key skills and concepts from the unit so far through multiple different modalities, including writing to explain and drawing models. Some students may benefit from using multiple modalities to show their thinking for any or all of the questions on this assessment. You may consider allowing some students to present their answers verbally with you or have another student acting as a scribe to record their thinking on paper. Other students may benefit from using gestures rather than images to describe parts of their models. Some students might also benefit from using manipulatives to represent parts of the model and to support a written or verbal explanation of what’s happening in each part of the model. In each case, encouraging students to use multiple modalities to show their thinking creates a clear, accessible, and equitable pathway for all students to demonstrate proficiency.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L13-AO3.html"
+      }
+    },
+    {
+      "id": "63-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Revisiting Our Driving",
+      "shortTitle": "Revisiting Our Driving",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A.1 Develop and use a model to describe and explain unobservable mechanisms that drive the cycling of matter and the flow of energy into and through the air to cause some storms to produce large hail while others do not.",
+      "lookListenFor": "What to look/listen for: See Gotta-Have-It Checklist for key ideas students should include in their models.",
+      "whatToDo": "What to do: Cue students to use their Gotta-Have-It checklist as they work through the model. Pose questions to help students connect to how the cycling of matter and flow of energy are leading to the phenomenon with prompts such as:\nWhere in this system are energy changes occurring?\nWhat is driving the movement of the water and hail?\nIf groups indicate that they are done but there are still ideas or parts of the explanation missing, pause the groups and have them do a quick gallery walk and then cue them to continue to add to their group model.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_13/original/6.3 Lesson 13 Handout Revisiting Our Driving.docx",
+        "teacherGuide": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L13-AO1.html"
+      }
+    },
+    {
+      "id": "63-13-ao-2",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Revisiting Our Driving",
+      "shortTitle": "Revisiting Our Driving",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A.2 Develop and use a model to describe and explain unobservable mechanisms that drive the cycling of matter and the flow of energy into and through the air to cause some storms to produce large hail while others do not.",
+      "lookListenFor": "What to look/listen for: See Gotta-Have-It Checklist for key ideas students should include in their models.",
+      "whatToDo": "What to do: Cue students to use their Gotta-Have-It checklist as they work through the model. Pose questions to help students connect to how the cycling of matter and flow of energy are leading to the phenomenon with prompts such as:\nWhere in this system are energy changes occurring?\nWhat is driving the movement of the water and hail?\nIf groups indicate that they are done but there are still ideas or parts of the explanation missing, pause the groups and have them do a quick gallery walk and then cue them to continue to add to their group model.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_13/original/6.3 Lesson 13 Handout Revisiting Our Driving.docx",
+        "teacherGuide": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L13-AO2.html"
+      }
+    },
+    {
+      "id": "63-13-ao-4",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Revisiting Our Driving",
+      "shortTitle": "Revisiting Our Driving",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "While students are answering questions from the Driving Question Board, this is an excellent formative assessment opportunity used to address partial understandings and see if any pieces need to be revisited.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_13/original/6.3 Lesson 13 Handout Revisiting Our Driving.docx",
+        "teacherGuide": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L13-AO4.html"
+      }
+    },
+    {
+      "id": "63-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Initial Model",
+      "shortTitle": "Initial Model",
+      "peCode": "14.B",
+      "buildingTowards": "Building towards: 14.B Develop an initial model to explain how precipitation that is happening in one part of the country at one point in time could be connected (cause/effect) to what is predicted to happen in another part of the country at a later time. Use a previous model to identify mechanisms at the observable and the particle levels to explain the causes of this large-scale weather phenomenon.",
+      "lookListenFor": "What to look/listen for:\nIdentifying large areas of colder air and warmer air over the US at different points in time.\nShowing areas of colder and warmer air moving or changing in size over time.\nExplaining that something is causing those areas of air to move over time. Students may connect this to the movement of water vapor or clouds over time.\nYou may (or may not) see some students using these ideas and representations as well:\nAir masses are large parcels of air (hundreds of miles wide) with similar characteristics (e.g., temperature, humidity).\nThere is an imaginary system boundary between where two air masses meet (a front).\nLow pressure systems and fronts are where air is rising; they tend to produce clouds and precipitation over and around them when there is enough water vapor in the air.",
+      "whatToDo": "What to do: Collect Initial Model at the end of the class period. Make a copy of or photograph the students' initial models for future reference so you can assess individual student growth in this lesson set in explaining weather resulting from large-scale frontal interactions.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_14/original/6.3 Lesson 14 Handout Initial Model.docx",
+        "teacherGuide": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L14-AO2.html"
+      }
+    },
+    {
+      "id": "63-14-ao-3",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Assess how many clos…",
+      "shortTitle": "Look for: What to look/listen for: Assess how many clos…",
+      "peCode": "14.C",
+      "buildingTowards": "Building towards: 14.C Ask questions about possible patterns in and causes for a storm affecting large parts of the country over multiple days or causes shared between this precipitation event and a smaller-scale, shorter-duration precipitation event (a hailstorm).",
+      "lookListenFor": "What to look/listen for: Assess how many closed (yes or no) vs. open (how and why) questions are generated.",
+      "whatToDo": "What to do: If students are asking mostly closed questions, you can provide a copy of the questions on the DQB and ask them to work on revising three or more of these questions to become how and why questions. This could be either an in-class or home learning assignment.\nOnce students have completed their sharing, propose that our unit question--“Why does a lot of hail, rain, or snow fall at some times and not others?”--could still serve as the driving question for investigating our new questions. If students suggest a modification to the driving question that better aligns to the scope of the questions they now have, make the modification.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L14-AO3.html"
+      }
+    },
+    {
+      "id": "63-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students will be loo…",
+      "shortTitle": "Look for: What to look/listen for: Students will be loo…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Analyze data using maps of national weather conditions and forecasts to identify temporal and spatial relationships (patterns) between precipitation, cloud cover, temperature, and air pressure.",
+      "lookListenFor": "What to look/listen for: Students will be looking for spatial and temporal patterns in data on maps at this scale throughout the remaining lessons of the unit, so this is a good opportunity to gauge their initial literacy with analyzing such data sources.\nNoticings in part 1\nThe scale of the predicted snowfall is large and covers multiple states.\nThere is a structure to the predicted snowfall and ice (e.g., fall or forms in a line running to the northeast).\nThere is a pattern where ice vs. snow falls (e.g. snow is predicted to fall over a bigger area than the ice forms, but they overlap.\nNoticings in part 2\nThere are different types of precipitation happening over multiple states in the middle of the US.\nFrozen water (snow, sleet, and ice) is falling to the north and to the west of where the rain is falling.\nThere is no precipitation in the northeast at the time of the forecast.\nThere is a cold part and a warm part of the storm.\nNoticings in part 3:\nThe precipitation moves to the east over time.\nThe forecast includes two colored lines drawn through two bands of precipitation. These lines move east over time too.\nThe forecast includes a large L connected to both colored lines. This also moves east over time too.",
+      "whatToDo": "What to do: As students are working, ask students to consider what patterns they are seeing across the videos, and what questions those patterns make them wonder. Replay portions of the video, if needed, to allow more time and greater depth of observation for students.\nUniversal Design for Learning: This large-scale storm event is presented to students through a video. While videos may be engaging for some students, video with audio cues and explanations can be a barrier to engagement for students that have visual disabilities, need extra processing time, or who have memory difficulties. Students may benefit from having an alternate representation of the content. Consider distributing Transcript: Weather Report & Forecast, January 19, 2019 to students who could benefit from a transcript. As you progress through the showing of the three video clips, cue students to the timestamps and portions that are associated with each video in addition to reading the on-screen descriptions associated with each slide.\nSupporting Emergent Multilinguals: Consider sharing transcripts in the languages that students are most comfortable reading. This can allow all learners greater access to the information being shared about the phenomenon and the connections to the visual change occuring in the large-scale storm event.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L14-AO1.html"
+      }
+    },
+    {
+      "id": "63-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: Cold and warm air sections on the map shift o…",
+      "shortTitle": "Look for: Cold and warm air sections on the map shift o…",
+      "peCode": "15.A",
+      "buildingTowards": "Building towards: 15.A Use graphical displays of temperature, humidity, and radar data to identify temporal and spatial patterns as air masses interact in a large storm system.",
+      "lookListenFor": "What to look/listen for:\nCold and warm air sections on the map shift over time. The cold and warm sections are really big.\nIt is colder first in the places north and west, and that cold air shifts to the east later in the storm.\nHumidity seems to get lower when the air gets colder.\nTemperature and humidity are shifting over time during the storm.",
+      "whatToDo": "What to do: It might be challenging for students to figure out air masses using the raw temperature and humidity data on the maps, but classifying data by color will help them notice shifting patterns as large air masses move across the country during the storm. Prompt students to notice one distinct type of air mass by asking, How would you describe the air in _____(a place on the map)? Is that similar or different than _____(another place)?\nExit ticket. Display slide H. As students finish the gallery walk, pose the question, How do we know where one air mass ends and another begins? Give students a minute to consider this question and jot down their thinking.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/6.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L15-AO1.html"
+      }
+    },
+    {
+      "id": "63-15-ao-2",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Ideas that the storm…",
+      "shortTitle": "Look for: What to look/listen for: Ideas that the storm…",
+      "peCode": "15.B",
+      "buildingTowards": "Building towards: 15.B Use an argument supported by empirical evidence and scientific reasoning based on patterns from data and maps to support an explanation that precipitation forms along the boundary of two air masses with different temperature and humidity characteristics.",
+      "lookListenFor": "What to look/listen for: Ideas that the storm or precipitation happens in places where the colder air is meeting the warmer air (or where two different types of air meet).",
+      "whatToDo": "What to do: The storm is very large and spans many states. In some places, there isn’t a distinct boundary between two air masses. But in general there is much colder air on the western and northern sides of the storm, and that same air has lower humidity than air in the region of the storm or east of the storm. Ask students to consider, On this side of the precipitation (or storm), what is the air like? What about the other side? And where is the precipitation happening then?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/6.3 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L15-AO2.html"
+      }
+    },
+    {
+      "id": "63-16-ao-1",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: how a warm air mass and a cold air mass inter…",
+      "shortTitle": "Look for: how a warm air mass and a cold air mass inter…",
+      "peCode": "16.A",
+      "buildingTowards": "Building towards: 16.A Develop and use models to observe and describe the complex patterns of change that occur when warm and cold air masses interact in the atmosphere.",
+      "lookListenFor": "What to look/listen for:\nhow a warm air mass and a cold air mass interact along a front, specifically how the resulting lift of the warm air over the cold air occurs at this boundary\nhow warm air pushed upward cools, and if there is water vapor present in the warm air, this would condense, causing clouds and precipitation to form",
+      "whatToDo": "What to do: As students work, walk around and listen in on their conversations and check their work on Warm and Cold Water Interactions. If students are struggling to find certain key ideas, you can try the following:\nRevisit the demonstration by watching the video taken during the demonstration. (See Advance preparation.) This gives students an additional opportunity to look for things that they might not have noticed during the actual demonstration.\nUse questions to guide them to think about ideas that they are struggling to figure out. Here are some examples:\nWhat happens to air when it is warmed up?\nWhat happens to air when it is cooled down?\nWhat have we learned about the interactions between warm and cold air from previous lessons?\nWhat happens to warm, humid air when it is cooled?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/6.3 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L16-AO1.html"
+      }
+    },
+    {
+      "id": "63-16-ao-2",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Guidance for expecte…",
+      "shortTitle": "Look for: What to look/listen for: Guidance for expecte…",
+      "peCode": "16.B",
+      "buildingTowards": "Building towards: 16.B Use computational thinking to describe how patterns in data support explanations of the changes in weather that occur where warm and cold air masses interact.",
+      "lookListenFor": "What to look/listen for: Guidance for expected responses is embedded in the learning plan.",
+      "whatToDo": "What to do: If students are struggling to find certain key ideas, you can use questions to guide them to think about ideas that they are struggling to figure out. These are some examples:\nWhat does it mean when air is at 50% relative humidity? What about 100% relative humidity?\nHow much water vapor can air hold when it is __℉?\nCan air hold more water vapor when it is warmer or colder?\nWhat happens to the water vapor in warm air when the air is cooled?",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/6.3 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L16-AO2.html"
+      }
+    },
+    {
+      "id": "63-17-ao-2",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: Air temperature tends to decrease the higher…",
+      "shortTitle": "Look for: Air temperature tends to decrease the higher…",
+      "peCode": "17.B",
+      "buildingTowards": "Building towards: 17.B Construct an explanation that includes the qualitative relationships presented in a weather forecast among (1) the area of lowest air pressure and where it will move to, (2) the locations of the fronts, and (3) where precipitation will fall, using scientific ideas and principles to explain what would be causing these three things to be connected to one another.",
+      "lookListenFor": "What to look/listen for:\nThe use of old mechanisms in the explanation, such as:\nAir temperature tends to decrease the higher up you go.\nSunlight absorbed at Earth’s surface is the source of thermal energy that warms the air directly above it.\nParcels of air that are less dense than the surrounding air rise, and those that are more dense sink.\nCooling, humid air can cause water vapor in it to condense and/or solidify out of it.\nRising air pushes up on water droplets or crystals, holding these aloft until they grow heavy enough to fall.\nThe use of new mechanisms in the explanation, such as:\nThe area of lowest air pressure corresponds to where air is rising.\nThe area of rising air could partially be explained by the locations where cold and warm air masses are moving into each other (the front lines) and/or the area of rising air could be partially explained by thermal energy transferring from the surface to the air right above it.\nThe areas where air is rising (the low-pressure center and along the front lines) would produce precipitation if the warmer air that is lifted is humid and cool enough.",
+      "whatToDo": "What to do: If students struggle to articulate connections to more than a couple of these mechanisms, strategically assign those students to small groups in the next lesson that will have at least one member who references multiple mechanisms in their response. Listen in on those groups. Pose questions such as, Did you hear anything from Student X’s explanation that you didn't have but think you might want to include? For any students who are missing at least one old or new mechanism, leave written feedback on question 3 of Explaining Patterns and Predictions in the Forecast in the form of only one question which is targeted at asking them to consider whether one additional old mechanism or new mechanism helps explain this phenomenon and why. Vary which mechanism you ask different students to consider further.\nAdditional Lesson 17 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nStudents engage in the following while completing Explaining Patterns and Predictions in the Forecast:\nCCSS.ELA-LITERACY.W.6.2 Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content.\nCCSS.ELA-LITERACY.W.6.2.B Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples.\nCCSS.ELA-LITERACY.W.6.2.D Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/6.3 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L17-AO2.html"
+      }
+    },
+    {
+      "id": "63-17-ao-1",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: The low-pressure center moves from west to ea…",
+      "shortTitle": "Look for: The low-pressure center moves from west to ea…",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A Analyze data using maps of air pressure recorded over the country at different points in time and forecasts (temporal and spatial relationships) to identify patterns (the movement of low-pressure systems) and the relationship between this (patterns) and the location of fronts and precipitation.",
+      "lookListenFor": "What to look/listen for: Students will record the patterns they notice on Air Pressure Prediction and Map Analysis and include their analysis of data in their first two responses on Explaining Patterns and Predictions in the Forecast. As you check these handouts you should see patterns and responses that include these ideas:\nThe low-pressure center moves from west to east over time.\nThe movement and location of warm and cold fronts appear to be connected to this low-pressure center.\nPrecipitation tends to fall along the line of the cold front and warm front and behind the low-pressure center",
+      "whatToDo": "What to do: If students are struggling with determining which data to assign a particular color on their pressure maps, pair students up to work on producing the first map that they work on together.\nReference the Previously Used Mechanisms poster. Say, Question 3 will ask you to develop an explanation of the patterns you saw in the forecast. When we first explored this forecast we considered whether this set of ideas (reference the Previously Used Mechanisms poster) could explain the related phenomenon associated with it. We also brainstormed additional mechanisms that we thought might be needed to explain it. The investigations we have done since then helped us determine what those are. Use this poster and all the new mechanisms you figured out over the past few lessons when you develop your explanation. Let’s watch the portion of the video you will be explaining one more time before you start your explanation.\nShow the video a second time. But this time only show from 0:20 to 1:02 https://youtu.be/NlriliiyWmI\nDevelop explanations. Give students the remaining time to complete Explaining Patterns and Predictions in the Forecast",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/6.3 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L17-AO1.html"
+      }
+    },
+    {
+      "id": "63-18-ao-2",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Compare and critique two arguments on the same topic…",
+      "shortTitle": "Compare and critique two arguments on the same topic…",
+      "peCode": "18.A",
+      "buildingTowards": "Building towards: 18.A Compare and critique two arguments on the same topic and analyze whether they emphasize similar or different mechanisms (cause) in their explanations of the patterns in how the weather changed (effect) during the Jan. 19, 2019 storm.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Listen in on small-group discussions, particularly where you can listen to particular students. Focus on groups that have students who struggled to articulate connections to any new or old science ideas in explanations you collected and reviewed before this lesson. Pose questions such as this: Did you hear anything from Student X’s explanation that you didn't have but think you might want to include?\nPause the small-group discussions. Present slide C. Review the directions on it. Give students two minutes to fill in column B on the related handout.\nIf you have a class size that is not divisible by three, form either one or two groups of 2 students rather than a group of 4. The discussion requires careful listening to others’ ideas and therefore benefits from a slower-paced discussion rather than faster.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L18-AO2.html"
+      }
+    },
+    {
+      "id": "63-18-ao-3",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look for: Precipitation, low pressure center, and front…",
+      "shortTitle": "Look for: Precipitation, low pressure center, and front…",
+      "peCode": "18.B",
+      "buildingTowards": "Building towards: 18.B Apply scientific ideas and related evidence to evaluate whether the new mechanisms (air mass movement, interaction of fronts, and low pressure areas [causse]) that were used in an explanation of one large-scale storm are also needed to explain the patterns in the how the weather will change [effect] in the predictions made for three other storms occurring at a different time of year.",
+      "lookListenFor": "What to look/listen for: Recording noticings that align to each of the three rows of their chart:\nair mass movement:\nPrecipitation, low pressure center, and front lines all move together.\nMovement tends to be toward the east.\ninteraction of fronts:\nSymbols indicate a front that is a line associated with each storm.\nThere are two such lines in storm 1.\nlow pressure areas producing clouds and precipitation:\nThere is a circle with an “L” in it associated with each storm.\nPrecipitation is falling around the “L”.\nPrecipitation is falling in front of and behind the front lines.",
+      "whatToDo": "What to do: Walk around to see what noticings students are recording before asking the whole class to report out. Here is a time you can recruit participation from students who don’t normally share. Quietly check in with students and ask them if they would be willing to share a specific noticing and to explain why they think it counts as evidence for the related science idea. Point to the specific noticing on their paper you want them to share and have the student put a star near it to remind them which one they will share the next day. Continue this as you resume this activity on day 2.\nAfter this you will need to pause and collect Nov. 22 2019 Weather Forecast Maps to redistribute in the next class and on the next day.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L18-AO3.html"
+      }
+    },
+    {
+      "id": "63-18-ao-1",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Identifying related…",
+      "shortTitle": "Look for: What to look/listen for: Identifying related…",
+      "peCode": "18.A",
+      "buildingTowards": "Building towards: 18.A Compare and critique two arguments on the same topic and analyze whether they emphasize similar or different mechanisms (cause) in their explanations of the patterns in how the weather changed (effect) during the Jan. 19, 2019 storm.",
+      "lookListenFor": "What to look/listen for: Identifying related mechanisms others mention with check marks on their Comparing Ideas Used Between Explanations\nReferring to these mechanisms in their own explanations.",
+      "whatToDo": "What to do: Listen in on small-group discussions, particularly where you can listen to particular students. Focus on groups that have students who struggled to articulate connections to any new or old science ideas in explanations you collected and reviewed before this lesson. Pose questions such as this: Did you hear anything from Student X’s explanation that you didn't have but think you might want to include?\nPause the small-group discussions. Present slide C. Review the directions on it. Give students two minutes to fill in column B on the related handout.\nIf you have a class size that is not divisible by three, form either one or two groups of 2 students rather than a group of 4. The discussion requires careful listening to others’ ideas and therefore benefits from a slower-paced discussion rather than faster.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L18-AO1.html"
+      }
+    },
+    {
+      "id": "63-18-ao-4",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for questions t…",
+      "shortTitle": "Look for: What to look/listen for: Look for questions t…",
+      "peCode": "18.C",
+      "buildingTowards": "Building towards: 18.C Ask questions about typical patterns and causes related to these in how air masses move across the country and how where a place is located (near the coast or inland, high elevation or low, in the northeast vs. southwest) affects the amount and type of precipitation that the place receives over more than a few years.",
+      "lookListenFor": "What to look/listen for: Look for questions that get at if, how, or why certain weather trends and patterns hold over a long period (e.g., Are they typical across the year or from one year to the next?). These include questions about the following ideas: a) typical paths of storms or air masses, b) typical amounts of precipitation in different places, c) typical types of precipitation in different places.",
+      "whatToDo": "What to do: If you don’t see a lot of questions about typical patterns over longer periods of time coming out during or after students add them to the DQB, you could revisit the DQB again at the start of the next lesson and ask students to brainstorm places in the US that they think might get more or less water than where we live and then give a short explanation for why. Have students share these with a partner and then have them write new questions based on what this led them to wonder.\nAt the end of the day, reorganize all the sticky-note questions on this new portion of the DQB to put them into related clusters. Put a label on a sticky note next to each cluster to identify the types of questions in that cluster. Anticipate that the questions will tend to fall into these three clusters: 1) typical paths that air masses move through different places, 2) typical amounts or types of precipitation that fall in different places, 3) typical temperatures in different places.\nAdditional Lesson 18 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nStudents engage in the following while carrying out their small-group discussion protocols on the start of day 1 of this lesson:\nCCSS.ELA-LITERACY.SL.6.1 Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.\nCCSS.ELA-LITERACY.SL.6.1.D Review the key ideas expressed and demonstrate understanding of multiple perspectives through reflection and paraphrasing.\nCCSS.ELA-LITERACY.SL.6.3 Delineate a speaker's argument and specific claims, distinguishing claims that are supported by reasons and evidence from claims that are not.\nCCSS.ELA-LITERACY.SL.6.4 Present claims and findings, sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate main ideas or themes; use appropriate eye contact, adequate volume, and clear pronunciation.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L18-AO4.html"
+      }
+    },
+    {
+      "id": "63-19-ao-1",
+      "lesson": "Lesson 19",
+      "lessonNum": 19,
+      "source": "te-opportunity",
+      "title": "Look for: the pattern of air movement at different lati…",
+      "shortTitle": "Look for: the pattern of air movement at different lati…",
+      "peCode": "19.A",
+      "buildingTowards": "Building towards: 19.A Use visualized precipitation data from a large data set to identify spatial patterns in the direction of air masses movement that influences long-term weather patterns in predictable ways.",
+      "lookListenFor": "What to look/listen for: Students to identify:\nthe pattern of air movement at different latitudes, but specifically from west to east across the U.S\ncold air from the north or northwest moving to the east and colliding with warm air from the south/southeast (i.e., Gulf of Mexico)\nplaces with a lot of precipitation as likely locations where warm and cold air masses interact or collide\npredictable wind patterns, bringing cold or warm air, as one way for us to predict a location’s long-term precipitation pattern.",
+      "whatToDo": "What to do: If students struggle with identifying the ideas above, revisit the first visualization of one week of precipitation rates in the United States. Pause the visualization at a moment with a large storm. Label the flow of a cold air mass from the north and a warm air mass from the south that resulted in the storm. Unpause the simulation and pause again at a second storm. Have your students describe how they would label the cold air mass (from the north or northwest) and the warm air mass (from the south or southwest) that resulted in the storm. If students are getting confused due to the curving of the air, consider using Why do air and water spin in different directions on Earth? as a resource for additional information to support a discussion about air flow.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 19 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_19/original/6.3 Lesson 19 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L19-AO1.html"
+      }
+    },
+    {
+      "id": "63-20-ao-2",
+      "lesson": "Lesson 20",
+      "lessonNum": 20,
+      "source": "te-opportunity",
+      "title": "20.A.1 Integrate text and media to gather additional…",
+      "shortTitle": "20.A.1 Integrate text and media to gather additional…",
+      "peCode": "20.A",
+      "buildingTowards": "Building towards: 20.A.1 Integrate text and media to gather additional information to clarify how ocean currents that circulate cooler and warmer waters to different latitudes affect air mass temperature and humidity.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Examine students’ exit tickets to see if they are (1) making causal connections between ocean temperatures and air mass humidity, (2) using information from multiple sources, and (3) identifying important ideas about ocean circulation and temperature that would affect the chance of precipitation in a location. Use this information to adjust your approach and to prepare for the Consensus Discussion on day 2.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 20 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L20-AO2.html"
+      }
+    },
+    {
+      "id": "63-20-ao-4",
+      "lesson": "Lesson 20",
+      "lessonNum": 20,
+      "source": "te-opportunity",
+      "title": "20.A.2 Integrate text and media to gather additional…",
+      "shortTitle": "20.A.2 Integrate text and media to gather additional…",
+      "peCode": "20.A",
+      "buildingTowards": "Building towards: 20.A.2 Integrate text and media to gather additional information to clarify how ocean currents that circulate cooler and warmer waters to different latitudes affect air mass temperature and humidity.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Focus students on integrating or corroborating their evidence sources to support their ideas. Listen specifically for students to draw conclusions that show progress toward these disciplinary core ideas components:\nWeather and climate are influenced by interactions involving sunlight, the ocean, and atmosphere, which vary by latitude.\nThe ocean is a major influence on weather and climate through its absorption and global redistribution of energy from the sun through ocean currents.\nBecause these patterns are so complex, weather can only be predicted probabilistically.\nINear the Air Mass Map, draw a causal chain diagram to help students articulate how warming of the ocean, ocean currents, evaporation, and air mass movement cause precipitation events.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 20 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L20-AO4.html"
+      }
+    },
+    {
+      "id": "63-20-ao-1",
+      "lesson": "Lesson 20",
+      "lessonNum": 20,
+      "source": "te-opportunity",
+      "title": "Look for: reference central ideas from the text to supp…",
+      "shortTitle": "Look for: reference central ideas from the text to supp…",
+      "peCode": "20.A",
+      "buildingTowards": "Building towards: 20.A.1 Integrate text and media to gather additional information to clarify how ocean currents that circulate cooler and warmer waters to different latitudes affect air mass temperature and humidity.",
+      "lookListenFor": "What to look/listen for: Students to:\nreference central ideas from the text to support their conclusions\nuse data from the text, such as precipitation amounts at different coastal cities to support their conclusions\nreference at least 2 or more sources of data - text, maps, or visualizations - to support their conclusions\nconstruct a plausible causal chain to explain why locations near that coast get more or less precipitation that includes the concepts of\nocean currents circulating warmer and cooler water to different locations",
+      "whatToDo": "What to do: Examine students’ exit tickets to see if they are (1) making causal connections between ocean temperatures and air mass humidity, (2) using information from multiple sources, and (3) identifying important ideas about ocean circulation and temperature that would affect the chance of precipitation in a location. Use this information to adjust your approach and to prepare for the Consensus Discussion on day 2.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 20 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L20-AO1.html"
+      }
+    },
+    {
+      "id": "63-20-ao-3",
+      "lesson": "Lesson 20",
+      "lessonNum": 20,
+      "source": "te-opportunity",
+      "title": "Look for: reference central ideas from the text to supp…",
+      "shortTitle": "Look for: reference central ideas from the text to supp…",
+      "peCode": "20.A",
+      "buildingTowards": "Building towards: 20.A.2 Integrate text and media to gather additional information to clarify how ocean currents that circulate cooler and warmer waters to different latitudes affect air mass temperature and humidity.",
+      "lookListenFor": "What to look/listen for: Students to:\nreference central ideas from the text to support their conclusions\nuse data from the text, such as precipitation amounts at different coastal cities to support their conclusions\nreference at least 2 or more sources of data - text, maps, or visualizations - to support their conclusions",
+      "whatToDo": "What to do: Focus students on integrating or corroborating their evidence sources to support their ideas. Listen specifically for students to draw conclusions that show progress toward these disciplinary core ideas components:\nWeather and climate are influenced by interactions involving sunlight, the ocean, and atmosphere, which vary by latitude.\nThe ocean is a major influence on weather and climate through its absorption and global redistribution of energy from the sun through ocean currents.\nBecause these patterns are so complex, weather can only be predicted probabilistically.\nINear the Air Mass Map, draw a causal chain diagram to help students articulate how warming of the ocean, ocean currents, evaporation, and air mass movement cause precipitation events.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 20 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L20-AO3.html"
+      }
+    },
+    {
+      "id": "63-20-ao-5",
+      "lesson": "Lesson 20",
+      "lessonNum": 20,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Student to…",
+      "shortTitle": "Look for: What to look/listen for: Student to…",
+      "peCode": "20.B",
+      "buildingTowards": "Building towards: 20.B Use sea surface temperature maps and tabular precipitation data to articulate a spatial pattern connecting offshore ocean temperatures to precipitation on land.",
+      "lookListenFor": "What to look/listen for: Student to…\nconnect the ocean temperature visualization on day 1 with the precipitation for coastal cities on day 2\nconclude that warmer ocean water offshore is related to more precipitation on land\nidentify a general spatial pattern that coastal cities get more precipitation due to their proximity to the ocean and - unless the ocean water is unusually cold given its latitude - due to the evaporation of the coastal water",
+      "whatToDo": "What to do: Project the ocean temperature visualization again, pausing when North America is clearly visible (at 00:18). Have students locate the cities with higher and lower precipitation from the reading and make connections between the temperature of ocean water and rain. Then review the reading about the Northern Pacific Current and how it impacts the northwest, bringing precipitation despite the cooler waters.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 20 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L20-AO5.html"
+      }
+    },
+    {
+      "id": "63-21-ao-1",
+      "lesson": "Lesson 21",
+      "lessonNum": 21,
+      "source": "te-opportunity",
+      "title": "Look for: Pacific Northwest: Stampede Pass has the high…",
+      "shortTitle": "Look for: Pacific Northwest: Stampede Pass has the high…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for/listen for: Look for these observed patterns:\nPacific Northwest: Stampede Pass has the highest elevation, coldest temperature, and most precipitation. There is much less precipitation east of the mountains and further inland where it is warmer and lower in elevation.\nGulf Coast: Precipitation slowly decreases, temperature decreases, and elevation slowly increases moving inland from the Gulf of Mexico.\nLook for these ideas in students’ WIM statements and group models:\nAs air passes over tall mountains (e.g., Stampede Pass), it gets pushed upward and cools down, causing water vapor to condense and form precipitation. Once the air passes over the mountains, there is little water vapor left in the air mass, causing less precipitation. The air can fall back downward along the mountains as elevation decreases.\nAs a warm, wet air mass passes over a relatively flat landform (e.g., New Orleans to Chattanooga), it can move a long distance, so there can be a lot of precipitation over the entire pathway.\nAir can pick up some moisture as it moves over land (e.g., Wenatchee to Spokane).",
+      "whatToDo": "What to do: If students have difficulty identifying key patterns from the data, project the profile view as a class and use visual representations to illustrate patterns of precipitation and air temperature (e.g., draw lots of rain and an image of it being very cold over Stampede Pass). If students’ ideas are not accurate at the end of Day 1, have students compare their models with other groups prior to the whole-group Scientists Circle discussion on Day 2. This will allow them to get new ideas from their peers. Pay attention to students’ ideas during the Scientists Circle. If students’ explanations are still incomplete, project an example of a group model that is complete. Encourage students to try to use this example model to explain what is happening.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 21 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_21/original/6.3 Lesson 21 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L21-AO1.html"
+      }
+    },
+    {
+      "id": "63-21-ao-2",
+      "lesson": "Lesson 21",
+      "lessonNum": 21,
+      "source": "te-opportunity",
+      "title": "Look for: Pacific Northwest: Stampede Pass has the high…",
+      "shortTitle": "Look for: Pacific Northwest: Stampede Pass has the high…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: This is the second opportunity to look for these observed patterns:\nPacific Northwest: Stampede Pass has the highest elevation, coldest temperature, and most precipitation. There is much less precipitation east of the mountains and further inland where it is warmer and lower in elevation.\nGulf Coast: Precipitation slowly decreases, temperature decreases, and elevation slowly increases moving inland from the Gulf of Mexico.\nLook for these ideas in students’ WIM statements and group models:\nAs air passes over tall mountains (e.g., Stampede Pass), it gets pushed upward and cools down, causing water vapor to condense and form precipitation. Once the air passes over the mountains, there is little water vapor left in the air mass, causing less precipitation. The air can fall back downward along the mountains as elevation decreases.\nAs a warm, wet air mass passes over a relatively flat landform (e.g., New Orleans to Chattanooga), it can move a long distance, so there can be a lot of precipitation over the entire pathway.\nAir can pick up some moisture as it moves over land (e.g., Wenatchee to Spokane).",
+      "whatToDo": "What to do: This is a good formative assessment opportunity. To check to see if students have made progress in their thinking, review students’ Progress Trackers at the end of Day 2. Compare students’ responses here to student models from Day 1. This will provide you an opportunity to assess student growth in understanding over Day 2.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 21 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_21/original/6.3 Lesson 21 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L21-AO2.html"
+      }
+    },
+    {
+      "id": "63-22-rainforest-climate-assessment",
+      "lesson": "Lesson 22",
+      "lessonNum": 22,
+      "title": "Rainforest Climate Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 22 — Rainforest Climate Assessment.",
+      "files": {
+        "studentHandout": "lesson_22/original/6.3 Lesson 22 Assessment Rainforest Climate Assessment.docx",
+        "teacherGuide": "lesson_22/original/6.3 Lesson 22 Teacher Edition.docx",
+        "answerKey": "lesson_22/original/6.3 Lesson 22 Answer Key Key for Rainforest.docx",
+        "googleForm": "https://docs.google.com/forms/d/1ZZzyrw2Nhahn92IOPPEk8hLB7M0QOnKOYNY_u_uLk2E/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "63-22-ao-1",
+      "lesson": "Lesson 22",
+      "lessonNum": 22,
+      "source": "te-opportunity",
+      "title": "Revisiting Our Driving",
+      "shortTitle": "Revisiting Our Driving",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look/listen for: See Key for Rainforest Climate Assessment Tasks.",
+      "whatToDo": "What to do: If students struggle to apply their understanding, have them pause, reexamine the models they created in previous lessons, and then resume the assessment. They should apply the ideas they noticed in the models when they continue. If students struggle with interpreting the maps, work with them to orient what the maps are showing. For example, on question 2, you can ask students to draw the locations of the rainforests on the maps of average ocean temperature and prevailing winds.\nAs students finish the Rainforest Climate Assessment Tasks, they can work on the optional Revisiting Our Driving Question Board to evaluate our progress on any remaining questions on our DQB. You may wish to extend or move the examination of the DQB to the next day.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS2-4",
+        "MS-ESS3-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 6.3 Lesson 22 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_22/original/6.3 Lesson 22 Handout Revisiting Our Driving.docx",
+        "teacherGuide": "lesson_22/original/6.3 Lesson 22 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/6-3/L22-AO1.html"
+      }
+    }
+  ]
+}

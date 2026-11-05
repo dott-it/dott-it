@@ -1,0 +1,1975 @@
+{
+  "unitId": "6.3",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 6",
+  "unitFolder": "6.3 Weather, Climate, & Water Cycling",
+  "unitDriveFolderId": "18MGpO-ZMj-4D5HT2Yo1oJMA9pJhopice",
+  "indexedAt": "2026-08-04T16:50:14.060Z",
+  "fileCount": 670,
+  "manifestPathCount": 91,
+  "matchedCount": 91,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "63-1-6-3-lesson-1-teacher-reference-pre-assessment-reference-for",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Teacher Reference Pre-Assessment Reference for.docx",
+      "driveFileId": "1kO8LwyqGMny7x-WUg-w7VPskbNf2RNLV3DZsxn95wt8",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Reference Pre-Assessment Reference for",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:29.974Z"
+    },
+    {
+      "assessmentId": "63-1-6-3-lesson-1-teacher-reference-pre-assessment-reference-for",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1iPGtryEqnbJdetB6V4RD06jhmpN7OLOwyhVtzKUnd9o",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:27.399Z"
+    },
+    {
+      "assessmentId": "63-1-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Handout Initial Model.docx",
+      "driveFileId": "1MDYFQA_xL9EomgOxuyn6hvOwRC795kSe18tfTJAlcVg",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Handout Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:07.935Z"
+    },
+    {
+      "assessmentId": "63-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1iPGtryEqnbJdetB6V4RD06jhmpN7OLOwyhVtzKUnd9o",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:27.399Z"
+    },
+    {
+      "assessmentId": "63-1-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Handout Initial Model.docx",
+      "driveFileId": "1MDYFQA_xL9EomgOxuyn6hvOwRC795kSe18tfTJAlcVg",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Handout Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:07.935Z"
+    },
+    {
+      "assessmentId": "63-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1iPGtryEqnbJdetB6V4RD06jhmpN7OLOwyhVtzKUnd9o",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:27.399Z"
+    },
+    {
+      "assessmentId": "63-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1iPGtryEqnbJdetB6V4RD06jhmpN7OLOwyhVtzKUnd9o",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:27.399Z"
+    },
+    {
+      "assessmentId": "63-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1G2VYFM4fCXT_iPBF5Ap6DVJURONgD0-ISjQQrXKqTO0",
+      "driveRelativePath": "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:38.346Z"
+    },
+    {
+      "assessmentId": "63-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1G2VYFM4fCXT_iPBF5Ap6DVJURONgD0-ISjQQrXKqTO0",
+      "driveRelativePath": "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:38.346Z"
+    },
+    {
+      "assessmentId": "63-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1G2VYFM4fCXT_iPBF5Ap6DVJURONgD0-ISjQQrXKqTO0",
+      "driveRelativePath": "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:38.346Z"
+    },
+    {
+      "assessmentId": "63-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1nymnTDpC_x90XlVV3zTNN9nI7WsQfDr7AOTF3mu5xKc",
+      "driveRelativePath": "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:54.917Z"
+    },
+    {
+      "assessmentId": "63-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1nymnTDpC_x90XlVV3zTNN9nI7WsQfDr7AOTF3mu5xKc",
+      "driveRelativePath": "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:54.917Z"
+    },
+    {
+      "assessmentId": "63-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1nymnTDpC_x90XlVV3zTNN9nI7WsQfDr7AOTF3mu5xKc",
+      "driveRelativePath": "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:54.917Z"
+    },
+    {
+      "assessmentId": "63-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1JpiolJoIPpohDbkZIScup-I_3tXFA5vlTRsphfy1fsk",
+      "driveRelativePath": "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:38.355Z"
+    },
+    {
+      "assessmentId": "63-4-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1JpiolJoIPpohDbkZIScup-I_3tXFA5vlTRsphfy1fsk",
+      "driveRelativePath": "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:38.355Z"
+    },
+    {
+      "assessmentId": "63-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1JpiolJoIPpohDbkZIScup-I_3tXFA5vlTRsphfy1fsk",
+      "driveRelativePath": "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:38.355Z"
+    },
+    {
+      "assessmentId": "63-4-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1JpiolJoIPpohDbkZIScup-I_3tXFA5vlTRsphfy1fsk",
+      "driveRelativePath": "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:38.355Z"
+    },
+    {
+      "assessmentId": "63-5-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1d1RhLiThla28XKffBKsTQF7bhOgAELbYq8cO-CCDxh4",
+      "driveRelativePath": "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:11.711Z"
+    },
+    {
+      "assessmentId": "63-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1d1RhLiThla28XKffBKsTQF7bhOgAELbYq8cO-CCDxh4",
+      "driveRelativePath": "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:11.711Z"
+    },
+    {
+      "assessmentId": "63-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1d1RhLiThla28XKffBKsTQF7bhOgAELbYq8cO-CCDxh4",
+      "driveRelativePath": "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:11.711Z"
+    },
+    {
+      "assessmentId": "63-6-explaining-the-movement",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/6.3 Lesson 6 Assessment Explaining the Movement.docx",
+      "driveFileId": "1uyqoRMYQoXUplsVzMLT-eq2195WdYyyhR_OVLm2pLsA",
+      "driveRelativePath": "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Assessment Explaining the Movement",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:41.174Z"
+    },
+    {
+      "assessmentId": "63-6-explaining-the-movement",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1NfdP3nDmqZiocMEH6e6-nUIcV7Ylyj68FkwDrTj6Zsk",
+      "driveRelativePath": "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:53:15.392Z"
+    },
+    {
+      "assessmentId": "63-6-explaining-the-movement",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/6.3 Lesson 6 Answer Key Explaining the Movement.docx",
+      "driveFileId": "1NCt1Vl0pzNvYZZyAfVs3VAYl8o5iPGTnz36iU41O05A",
+      "driveRelativePath": "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Answer Key Explaining the Movement",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:37.544Z"
+    },
+    {
+      "assessmentId": "63-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1NfdP3nDmqZiocMEH6e6-nUIcV7Ylyj68FkwDrTj6Zsk",
+      "driveRelativePath": "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:53:15.392Z"
+    },
+    {
+      "assessmentId": "63-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1NfdP3nDmqZiocMEH6e6-nUIcV7Ylyj68FkwDrTj6Zsk",
+      "driveRelativePath": "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:53:15.392Z"
+    },
+    {
+      "assessmentId": "63-7-6-3-lesson-7-handout-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/6.3 Lesson 7 Handout Self-Assessment.docx",
+      "driveFileId": "1Xj2jXkhlwCPeQHvvyZmlZpaJdbnAyqjXgSimSYN7g7s",
+      "driveRelativePath": "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 7 Handout Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:53:35.132Z"
+    },
+    {
+      "assessmentId": "63-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1d5cChyvh0nW404ACArNL0vvGBB4nY8utq9-XqB-HvGc",
+      "driveRelativePath": "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:17.514Z"
+    },
+    {
+      "assessmentId": "63-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1d5cChyvh0nW404ACArNL0vvGBB4nY8utq9-XqB-HvGc",
+      "driveRelativePath": "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:17.514Z"
+    },
+    {
+      "assessmentId": "63-10-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1d5cChyvh0nW404ACArNL0vvGBB4nY8utq9-XqB-HvGc",
+      "driveRelativePath": "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:17.514Z"
+    },
+    {
+      "assessmentId": "63-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1xR-x0136RPo62vYv5qCe9xey09Q4f5ykwrxGM7b89U8",
+      "driveRelativePath": "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:51.286Z"
+    },
+    {
+      "assessmentId": "63-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/6.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1xR-x0136RPo62vYv5qCe9xey09Q4f5ykwrxGM7b89U8",
+      "driveRelativePath": "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:51.286Z"
+    },
+    {
+      "assessmentId": "63-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "10ATm0ZrIDJ6FHmYiuDbQ_TVJRZGBvMOhWX4ifXIDN_A",
+      "driveRelativePath": "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:33.945Z"
+    },
+    {
+      "assessmentId": "63-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "10ATm0ZrIDJ6FHmYiuDbQ_TVJRZGBvMOhWX4ifXIDN_A",
+      "driveRelativePath": "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:33.945Z"
+    },
+    {
+      "assessmentId": "63-12-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "10ATm0ZrIDJ6FHmYiuDbQ_TVJRZGBvMOhWX4ifXIDN_A",
+      "driveRelativePath": "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:33.945Z"
+    },
+    {
+      "assessmentId": "63-13-hurricane-assessment-tasks",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Assessment Hurricane Assessment Tasks.docx",
+      "driveFileId": "1CVbl8Ii9yh86Q1rurHzdpQ5l1OWa6NjrmC0uf5l9PNg",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Assessment Hurricane Assessment Tasks",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:11.331Z"
+    },
+    {
+      "assessmentId": "63-13-hurricane-assessment-tasks",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "10lThjKH_C__MPse0Y6RWRYspJxTSKqHBDfQ8HulX0fw",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.463Z"
+    },
+    {
+      "assessmentId": "63-13-hurricane-assessment-tasks",
+      "field": "answerKey",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Answer Key Key for Hurricane.docx",
+      "driveFileId": "1pMQhyoFou5HlbIE1fUq6VCihzSW8lPg2mll9roRjeK4",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Answer Key Key for Hurricane",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:07.676Z"
+    },
+    {
+      "assessmentId": "63-13-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "10lThjKH_C__MPse0Y6RWRYspJxTSKqHBDfQ8HulX0fw",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.463Z"
+    },
+    {
+      "assessmentId": "63-13-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Handout Revisiting Our Driving.docx",
+      "driveFileId": "1jmAxJlsI1Cnh2FtYtTB9QNrUDKxVOt8Fh-34vpim5wk",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Handout Revisiting Our Driving",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:24.707Z"
+    },
+    {
+      "assessmentId": "63-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "10lThjKH_C__MPse0Y6RWRYspJxTSKqHBDfQ8HulX0fw",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.463Z"
+    },
+    {
+      "assessmentId": "63-13-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Handout Revisiting Our Driving.docx",
+      "driveFileId": "1jmAxJlsI1Cnh2FtYtTB9QNrUDKxVOt8Fh-34vpim5wk",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Handout Revisiting Our Driving",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:24.707Z"
+    },
+    {
+      "assessmentId": "63-13-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "10lThjKH_C__MPse0Y6RWRYspJxTSKqHBDfQ8HulX0fw",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.463Z"
+    },
+    {
+      "assessmentId": "63-13-ao-4",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Handout Revisiting Our Driving.docx",
+      "driveFileId": "1jmAxJlsI1Cnh2FtYtTB9QNrUDKxVOt8Fh-34vpim5wk",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Handout Revisiting Our Driving",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:24.707Z"
+    },
+    {
+      "assessmentId": "63-13-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "10lThjKH_C__MPse0Y6RWRYspJxTSKqHBDfQ8HulX0fw",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.463Z"
+    },
+    {
+      "assessmentId": "63-14-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_14/original/6.3 Lesson 14 Handout Initial Model.docx",
+      "driveFileId": "1Cl0Tu4mZMBI3T-5BD3TA1C1Wu71qqAcGibWzHte8_8g",
+      "driveRelativePath": "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Handout Initial Model",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:23.950Z"
+    },
+    {
+      "assessmentId": "63-14-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1IhoInp9OOgHjJHbFmZImoGR2YUDoVTlvyTMnLdaXXis",
+      "driveRelativePath": "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:55.481Z"
+    },
+    {
+      "assessmentId": "63-14-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1IhoInp9OOgHjJHbFmZImoGR2YUDoVTlvyTMnLdaXXis",
+      "driveRelativePath": "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:55.481Z"
+    },
+    {
+      "assessmentId": "63-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1IhoInp9OOgHjJHbFmZImoGR2YUDoVTlvyTMnLdaXXis",
+      "driveRelativePath": "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:55.481Z"
+    },
+    {
+      "assessmentId": "63-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/6.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1aV8woCw3iQfA0O-VJFE9cDdRw9F4GBc9CB3RCrgDgdM",
+      "driveRelativePath": "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:42.323Z"
+    },
+    {
+      "assessmentId": "63-15-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/6.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1aV8woCw3iQfA0O-VJFE9cDdRw9F4GBc9CB3RCrgDgdM",
+      "driveRelativePath": "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:42.323Z"
+    },
+    {
+      "assessmentId": "63-16-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/6.3 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1JGPwPz812yUItgYA7q1RDNABvohycYP5UQt79b-z19o",
+      "driveRelativePath": "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:18.627Z"
+    },
+    {
+      "assessmentId": "63-16-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/6.3 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1JGPwPz812yUItgYA7q1RDNABvohycYP5UQt79b-z19o",
+      "driveRelativePath": "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:18.627Z"
+    },
+    {
+      "assessmentId": "63-17-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/6.3 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1qA4c5bnUeAN5ZexQ_O2Gkhzk4tmEJK4y1dAG95JHPPM",
+      "driveRelativePath": "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:56.829Z"
+    },
+    {
+      "assessmentId": "63-17-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/6.3 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1qA4c5bnUeAN5ZexQ_O2Gkhzk4tmEJK4y1dAG95JHPPM",
+      "driveRelativePath": "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:56.829Z"
+    },
+    {
+      "assessmentId": "63-18-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1x2cBZtCqNY4Q2dJAAPb71cnh6VnzyV7nH50ZROSP61c",
+      "driveRelativePath": "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:47.195Z"
+    },
+    {
+      "assessmentId": "63-18-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1x2cBZtCqNY4Q2dJAAPb71cnh6VnzyV7nH50ZROSP61c",
+      "driveRelativePath": "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:47.195Z"
+    },
+    {
+      "assessmentId": "63-18-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1x2cBZtCqNY4Q2dJAAPb71cnh6VnzyV7nH50ZROSP61c",
+      "driveRelativePath": "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:47.195Z"
+    },
+    {
+      "assessmentId": "63-18-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1x2cBZtCqNY4Q2dJAAPb71cnh6VnzyV7nH50ZROSP61c",
+      "driveRelativePath": "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:47.195Z"
+    },
+    {
+      "assessmentId": "63-19-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_19/original/6.3 Lesson 19 Teacher Edition.docx",
+      "driveFileId": "1bSyT--rPjQEeElWN5fQHOOT4T6kPrj8YVm-XxkHH5No",
+      "driveRelativePath": "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:21.044Z"
+    },
+    {
+      "assessmentId": "63-20-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+      "driveFileId": "1ci0npSpWTxFEffX-ZjPL0SoCSFWGiJRXK1XGieyIrKw",
+      "driveRelativePath": "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:19.237Z"
+    },
+    {
+      "assessmentId": "63-20-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+      "driveFileId": "1ci0npSpWTxFEffX-ZjPL0SoCSFWGiJRXK1XGieyIrKw",
+      "driveRelativePath": "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:19.237Z"
+    },
+    {
+      "assessmentId": "63-20-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+      "driveFileId": "1ci0npSpWTxFEffX-ZjPL0SoCSFWGiJRXK1XGieyIrKw",
+      "driveRelativePath": "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:19.237Z"
+    },
+    {
+      "assessmentId": "63-20-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+      "driveFileId": "1ci0npSpWTxFEffX-ZjPL0SoCSFWGiJRXK1XGieyIrKw",
+      "driveRelativePath": "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:19.237Z"
+    },
+    {
+      "assessmentId": "63-20-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+      "driveFileId": "1ci0npSpWTxFEffX-ZjPL0SoCSFWGiJRXK1XGieyIrKw",
+      "driveRelativePath": "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:19.237Z"
+    },
+    {
+      "assessmentId": "63-21-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_21/original/6.3 Lesson 21 Teacher Edition.docx",
+      "driveFileId": "1AzrY0HIeDFdTfI6by6UeQ3ym3DGmHfhKQTROVCoPsIA",
+      "driveRelativePath": "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:57.758Z"
+    },
+    {
+      "assessmentId": "63-21-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_21/original/6.3 Lesson 21 Teacher Edition.docx",
+      "driveFileId": "1AzrY0HIeDFdTfI6by6UeQ3ym3DGmHfhKQTROVCoPsIA",
+      "driveRelativePath": "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:57.758Z"
+    },
+    {
+      "assessmentId": "63-22-rainforest-climate-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_22/original/6.3 Lesson 22 Assessment Rainforest Climate Assessment.docx",
+      "driveFileId": "1kEC00g4yfFy45OfAm40_LJR54_dS38Q0Y_BZ-2diH_o",
+      "driveRelativePath": "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Assessment Rainforest Climate Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:13.491Z"
+    },
+    {
+      "assessmentId": "63-22-rainforest-climate-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_22/original/6.3 Lesson 22 Teacher Edition.docx",
+      "driveFileId": "1VFyPRDlWPK8POygegswQbtIETTE373rd4RQ2g2BgRZ8",
+      "driveRelativePath": "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:33.071Z"
+    },
+    {
+      "assessmentId": "63-22-rainforest-climate-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_22/original/6.3 Lesson 22 Answer Key Key for Rainforest.docx",
+      "driveFileId": "1qroErhdjzdCv_e-6raz4USo6pRaHrcEchtw-s0drnlw",
+      "driveRelativePath": "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Answer Key Key for Rainforest",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:09.132Z"
+    },
+    {
+      "assessmentId": "63-22-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_22/original/6.3 Lesson 22 Handout Revisiting Our Driving.docx",
+      "driveFileId": "1LSHHk-ANaCoGIAp0280R-IRfIJgeiblMJ3PyMW2xjXc",
+      "driveRelativePath": "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Handout Revisiting Our Driving",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:16.401Z"
+    },
+    {
+      "assessmentId": "63-22-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_22/original/6.3 Lesson 22 Teacher Edition.docx",
+      "driveFileId": "1VFyPRDlWPK8POygegswQbtIETTE373rd4RQ2g2BgRZ8",
+      "driveRelativePath": "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:33.071Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/6.3 Weather, Climate, & Water Cycling Unit Overview Materials.docx",
+      "driveFileId": "1uVfTzl_48oi1o0YQU03ffjrl1Ww798HcLCFqvSNJHpk",
+      "driveRelativePath": "6.3 Weather, Climate, & Water Cycling Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-13T20:38:55.081Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/6.3 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1iPGtryEqnbJdetB6V4RD06jhmpN7OLOwyhVtzKUnd9o",
+      "driveRelativePath": "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:39:27.399Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/6.3 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1G2VYFM4fCXT_iPBF5Ap6DVJURONgD0-ISjQQrXKqTO0",
+      "driveRelativePath": "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:48:38.346Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/6.3 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1nymnTDpC_x90XlVV3zTNN9nI7WsQfDr7AOTF3mu5xKc",
+      "driveRelativePath": "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:54.917Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/6.3 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1JpiolJoIPpohDbkZIScup-I_3tXFA5vlTRsphfy1fsk",
+      "driveRelativePath": "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:51:38.355Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/6.3 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1d1RhLiThla28XKffBKsTQF7bhOgAELbYq8cO-CCDxh4",
+      "driveRelativePath": "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:52:11.711Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/6.3 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1NfdP3nDmqZiocMEH6e6-nUIcV7Ylyj68FkwDrTj6Zsk",
+      "driveRelativePath": "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:53:15.392Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/6.3 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1d5cChyvh0nW404ACArNL0vvGBB4nY8utq9-XqB-HvGc",
+      "driveRelativePath": "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:17.514Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/6.3 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1xR-x0136RPo62vYv5qCe9xey09Q4f5ykwrxGM7b89U8",
+      "driveRelativePath": "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:40:51.286Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/6.3 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "10ATm0ZrIDJ6FHmYiuDbQ_TVJRZGBvMOhWX4ifXIDN_A",
+      "driveRelativePath": "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:41:33.945Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/6.3 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "10lThjKH_C__MPse0Y6RWRYspJxTSKqHBDfQ8HulX0fw",
+      "driveRelativePath": "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:42:51.463Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/6.3 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1IhoInp9OOgHjJHbFmZImoGR2YUDoVTlvyTMnLdaXXis",
+      "driveRelativePath": "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:43:55.481Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/6.3 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1aV8woCw3iQfA0O-VJFE9cDdRw9F4GBc9CB3RCrgDgdM",
+      "driveRelativePath": "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:44:42.323Z"
+    },
+    {
+      "assessmentId": "__lesson-16__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_16/original/6.3 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1JGPwPz812yUItgYA7q1RDNABvohycYP5UQt79b-z19o",
+      "driveRelativePath": "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:18.627Z"
+    },
+    {
+      "assessmentId": "__lesson-17__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_17/original/6.3 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1qA4c5bnUeAN5ZexQ_O2Gkhzk4tmEJK4y1dAG95JHPPM",
+      "driveRelativePath": "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:45:56.829Z"
+    },
+    {
+      "assessmentId": "__lesson-18__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_18/original/6.3 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1x2cBZtCqNY4Q2dJAAPb71cnh6VnzyV7nH50ZROSP61c",
+      "driveRelativePath": "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:46:47.195Z"
+    },
+    {
+      "assessmentId": "__lesson-19__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_19/original/6.3 Lesson 19 Teacher Edition.docx",
+      "driveFileId": "1bSyT--rPjQEeElWN5fQHOOT4T6kPrj8YVm-XxkHH5No",
+      "driveRelativePath": "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:47:21.044Z"
+    },
+    {
+      "assessmentId": "__lesson-20__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_20/original/6.3 Lesson 20 Teacher Edition.docx",
+      "driveFileId": "1ci0npSpWTxFEffX-ZjPL0SoCSFWGiJRXK1XGieyIrKw",
+      "driveRelativePath": "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:19.237Z"
+    },
+    {
+      "assessmentId": "__lesson-21__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_21/original/6.3 Lesson 21 Teacher Edition.docx",
+      "driveFileId": "1AzrY0HIeDFdTfI6by6UeQ3ym3DGmHfhKQTROVCoPsIA",
+      "driveRelativePath": "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:49:57.758Z"
+    },
+    {
+      "assessmentId": "__lesson-22__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_22/original/6.3 Lesson 22 Teacher Edition.docx",
+      "driveFileId": "1VFyPRDlWPK8POygegswQbtIETTE373rd4RQ2g2BgRZ8",
+      "driveRelativePath": "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-13T20:50:33.071Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1bH2bPEXtLTU2e7AyCOk2i1ywPIF2OraR",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-13T20:38:57.008Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "17ZRXm0bpOj-vq4m2uqkNanykupRzI2MA",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-13T20:38:55.957Z"
+    },
+    "6.3 Weather, Climate, & Water Cycling Unit Overview Materials": {
+      "driveFileId": "1uVfTzl_48oi1o0YQU03ffjrl1Ww798HcLCFqvSNJHpk",
+      "name": "6.3 Weather, Climate, & Water Cycling Unit Overview Materials",
+      "modifiedTime": "2024-08-13T20:38:55.081Z"
+    },
+    "6.3 Weather, Climate & Water Cycling Video Links.pdf": {
+      "driveFileId": "1Dz3uC3ISGzNGVHQLVymf2IBf7bQ2_7tI",
+      "name": "6.3 Weather, Climate & Water Cycling Video Links.pdf",
+      "modifiedTime": "2024-08-13T20:38:46.301Z"
+    },
+    "6.3 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "12g_-cBCn_ixi7l0ovqsA8dEjYKsE_erm",
+      "name": "6.3 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-13T20:38:45.369Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 7 Student Procedure": {
+      "driveFileId": "1XwACmGOtR2F3sjWXVOco81EbdhKTkE09JmO4o8n6684",
+      "name": "6.3 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-13T21:09:52.120Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 7 Slides": {
+      "driveFileId": "1GkO-ewfTerf6diqTUtHpnNC7ar0WmNgcJy7bhh3b6-8",
+      "name": "6.3 Lesson 7 Slides",
+      "modifiedTime": "2024-08-13T20:53:48.228Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 7 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1Hl2pXfTO7B8EMZ0zY2s4XW83cAzA-_GejkLTcBJfQbk",
+      "name": "6.3 Lesson 7 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-13T20:53:42.248Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 7 Handout Sources of Water": {
+      "driveFileId": "1NHftjcYGE4MdI57K9pfYQr1KA0sWoUDEsO64DiR7RHU",
+      "name": "6.3 Lesson 7 Handout Sources of Water",
+      "modifiedTime": "2024-08-13T20:53:39.319Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 7 Handout Self-Assessment": {
+      "driveFileId": "1Xj2jXkhlwCPeQHvvyZmlZpaJdbnAyqjXgSimSYN7g7s",
+      "name": "6.3 Lesson 7 Handout Self-Assessment",
+      "modifiedTime": "2024-08-13T20:53:35.132Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 7 Handout Model for How": {
+      "driveFileId": "1rdnQDjPV8lTmPjSgoJrtot0jmZAmrfttb5oECFYmhmE",
+      "name": "6.3 Lesson 7 Handout Model for How",
+      "modifiedTime": "2024-08-13T20:53:30.036Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 7 Referencia Pautas para la": {
+      "driveFileId": "1U2WPQmka3lWeFn-qw2B_m73EAPxDU4Aq_JnMVv0omDU",
+      "name": "6.3 Lección 7 Referencia Pautas para la",
+      "modifiedTime": "2024-08-13T20:53:29.052Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 7 Folleto Modelo de cómo": {
+      "driveFileId": "1CulZOlyVgWjNpBbNloGyyAQtHa65u64KOxO9UnNA34E",
+      "name": "6.3 Lección 7 Folleto Modelo de cómo",
+      "modifiedTime": "2024-08-13T20:53:26.409Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 7 Folleto Fuentes de agua": {
+      "driveFileId": "16isOnVc15zEha7QqS1cPbKJolMTzD89WQBulfOuArU4",
+      "name": "6.3 Lección 7 Folleto Fuentes de agua",
+      "modifiedTime": "2024-08-13T20:53:22.721Z"
+    },
+    "Lesson 7 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 7 Folleto Autoevaluación": {
+      "driveFileId": "1q6GE7gum3dehZW9RMoSAVC1QlGazU61uWAjel9-ApsI",
+      "name": "6.3 Lección 7 Folleto Autoevaluación",
+      "modifiedTime": "2024-08-13T20:53:18.613Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Slides": {
+      "driveFileId": "1NBo5aTvYovGEaLvXVgOjK-V5yM2oLV6IQ6tt5KNBA8M",
+      "name": "6.3 Lesson 6 Slides",
+      "modifiedTime": "2024-08-13T20:53:03.358Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Reading What Is Air": {
+      "driveFileId": "1AhmT40h-KrFOSEDn4Sb6DGdCE_4GFj18uluk3BDCPbo",
+      "name": "6.3 Lesson 6 Reading What Is Air",
+      "modifiedTime": "2024-08-13T20:52:59.353Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Handout What Is Air": {
+      "driveFileId": "1ZQpoZ3yDUI09jv_3TjaD7BUeU3N0qKJ6uBdrF_WehzE",
+      "name": "6.3 Lesson 6 Handout What Is Air",
+      "modifiedTime": "2024-08-13T20:52:55.127Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Handout Tracking Air Movement": {
+      "driveFileId": "11uibe_uWivsuTHqR6l2rjDOGVHkKzieVFwmKrJuncRo",
+      "name": "6.3 Lesson 6 Handout Tracking Air Movement",
+      "modifiedTime": "2024-08-13T20:52:49.845Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Handout Comparing Hail Clouds": {
+      "driveFileId": "1PAa1l_c0wu0YMgm_1GJJsLx35SbKgl06W83Ni9SjYvU",
+      "name": "6.3 Lesson 6 Handout Comparing Hail Clouds",
+      "modifiedTime": "2024-08-13T20:52:45.878Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Assessment Explaining the Movement": {
+      "driveFileId": "1uyqoRMYQoXUplsVzMLT-eq2195WdYyyhR_OVLm2pLsA",
+      "name": "6.3 Lesson 6 Assessment Explaining the Movement",
+      "modifiedTime": "2024-08-13T20:52:41.174Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Answer Key Explaining the Movement": {
+      "driveFileId": "1NCt1Vl0pzNvYZZyAfVs3VAYl8o5iPGTnz36iU41O05A",
+      "name": "6.3 Lesson 6 Answer Key Explaining the Movement",
+      "modifiedTime": "2024-08-13T20:52:37.544Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 6 Lectura ¿Qué es aire": {
+      "driveFileId": "1k0M6p2vsjcRlUOguVpsEtAMOoGwkfjj_w6DYIEmSz7I",
+      "name": "6.3 Lección 6 Lectura ¿Qué es aire",
+      "modifiedTime": "2024-08-13T20:52:33.649Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 6 Folleto ¿Qué es aire": {
+      "driveFileId": "1aSYIVC7zY9o7G06_XjhOsGuWVeqqnnZHecJg1XFR_Pc",
+      "name": "6.3 Lección 6 Folleto ¿Qué es aire",
+      "modifiedTime": "2024-08-13T20:52:29.587Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 6 Folleto Seguimiento del movimiento": {
+      "driveFileId": "1ydjTEV8VWxpFzPIZHP4IRUfU3Vxwb8ODUuBaBMAx4KY",
+      "name": "6.3 Lección 6 Folleto Seguimiento del movimiento",
+      "modifiedTime": "2024-08-13T20:52:25.119Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 6 Folleto Comparación de nubes": {
+      "driveFileId": "1hrQEv6FrzUaCi5hqYIHei2Gm1BL2Q4umvpgalBYt7kk",
+      "name": "6.3 Lección 6 Folleto Comparación de nubes",
+      "modifiedTime": "2024-08-13T20:52:21.477Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 6 Evaluación Explicando el movimiento": {
+      "driveFileId": "1YfnhLVmLZomN6VK6Tp2fNnOnl-X1ryf_DRL4g9BR6g0",
+      "name": "6.3 Lección 6 Evaluación Explicando el movimiento",
+      "modifiedTime": "2024-08-13T20:52:16.359Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Teacher Edition": {
+      "driveFileId": "1NfdP3nDmqZiocMEH6e6-nUIcV7Ylyj68FkwDrTj6Zsk",
+      "name": "6.3 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:53:15.392Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1KzIOyLtkzgDeuVdzuhnL1w8kKNJbQi6xTEYKc7PP3_M",
+      "name": "6.3 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:53:08.343Z"
+    },
+    "Lesson 6 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 6 Student Procedure": {
+      "driveFileId": "1SDWOrku1tuYfjyXAQzeRmZlikXlBMbEogchWROR4KxM",
+      "name": "6.3 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-13T20:53:07.415Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Teacher Edition": {
+      "driveFileId": "1d1RhLiThla28XKffBKsTQF7bhOgAELbYq8cO-CCDxh4",
+      "name": "6.3 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:52:11.711Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1J_-Mq3sYjahK0GFHPEInafEwVY6WmXQaGk9c-LoM7rs",
+      "name": "6.3 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:52:07.689Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Student Procedure": {
+      "driveFileId": "1t7yM6PqWcpzSdVvRf-axpxU2g3O1Ywq81mxQrkYIpq0",
+      "name": "6.3 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-13T20:52:03.055Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Slides": {
+      "driveFileId": "1_X1pZBZE9ZEysJMKNY47mkJi61Z-FOxurpVrVWvBhE8",
+      "name": "6.3 Lesson 5 Slides",
+      "modifiedTime": "2024-08-13T20:51:59.470Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Handout Soap Bubble and": {
+      "driveFileId": "1ye3F085WJywm0xDOXVGXpP8F6V_QSGVgi3XMd1KSE20",
+      "name": "6.3 Lesson 5 Handout Soap Bubble and",
+      "modifiedTime": "2024-08-13T20:51:54.556Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 5 Handout Heated Balloon Investigation": {
+      "driveFileId": "1-tK9RAyt-id_2DVsCEwUPpwY7CCw8WYz2SdpJrX5gxw",
+      "name": "6.3 Lesson 5 Handout Heated Balloon Investigation",
+      "modifiedTime": "2024-08-13T20:51:51.641Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 5 Folleto Investigación del globo": {
+      "driveFileId": "1uHHebAC9lmdbV7DY1EWOcDOIbPAmARq0Y53IXkOVc8g",
+      "name": "6.3 Lección 5 Folleto Investigación del globo",
+      "modifiedTime": "2024-08-13T20:51:47.526Z"
+    },
+    "Lesson 5 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 5 Folleto Investigación de las": {
+      "driveFileId": "1BNgCxJb2QahgCuCIaQjRvtUtz9EynznM-EeFsFdn8lc",
+      "name": "6.3 Lección 5 Folleto Investigación de las",
+      "modifiedTime": "2024-08-13T20:51:43.749Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Teacher Edition": {
+      "driveFileId": "1JpiolJoIPpohDbkZIScup-I_3tXFA5vlTRsphfy1fsk",
+      "name": "6.3 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:51:38.355Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1-uZQaMOPaKH0sMwe82--zMT2f8de9m1KMArBpUiEfJ4",
+      "name": "6.3 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:51:23.990Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Student Procedure": {
+      "driveFileId": "1IaXoRyy4AK_JLdfa77CebHSTRa2iyhncbjUGLgpL4F8",
+      "name": "6.3 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-13T20:51:20.097Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Slides": {
+      "driveFileId": "1zi-cAHGvcUbeFDbbfpZQCOIgkmrg-tNbwo8RDpHYn5E",
+      "name": "6.3 Lesson 4 Slides",
+      "modifiedTime": "2024-08-13T20:51:16.746Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Reference Sunny Day Sample": {
+      "driveFileId": "16ADfYN9yqM1JZQWZzS38CPBxeZ8KlYUFqEmW9uCdQKU",
+      "name": "6.3 Lesson 4 Reference Sunny Day Sample",
+      "modifiedTime": "2024-08-13T20:51:13.213Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Reference Cloudy Day Sample": {
+      "driveFileId": "1MakbpFImHNunwvU59TcaKrKwKdqbb9z8_SoO92QcxCQ",
+      "name": "6.3 Lesson 4 Reference Cloudy Day Sample",
+      "modifiedTime": "2024-08-13T20:51:09.882Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 4 Handout Sunlight and Temperature": {
+      "driveFileId": "1GdwkwLJQBFa5fhlLfkoH9prSPBEa_E-dU_aQ_ivNvaA",
+      "name": "6.3 Lesson 4 Handout Sunlight and Temperature",
+      "modifiedTime": "2024-08-13T20:51:07.238Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 4 Referencia Día soleado datos": {
+      "driveFileId": "18eEt4HlrhBI3xvOdK1UYPMMLss6AVEG-fv7GVgQMQh0",
+      "name": "6.3 Lección 4 Referencia Día soleado datos",
+      "modifiedTime": "2024-08-13T20:51:04.282Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 4 Referencia Día nublado datos": {
+      "driveFileId": "1YAsIeXUscGGKDNZfiYI_F6NZYdbgQhznM8uPrBVRkxc",
+      "name": "6.3 Lección 4 Referencia Día nublado datos",
+      "modifiedTime": "2024-08-13T20:51:01.497Z"
+    },
+    "Lesson 4 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 4 Folleto Investigación de la": {
+      "driveFileId": "1qKJnqUpQ4uQztgoW-8YeWGxM68mm7oNNLL0RnhXTRv4",
+      "name": "6.3 Lección 4 Folleto Investigación de la",
+      "modifiedTime": "2024-08-13T20:50:58.648Z"
+    },
+    "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Teacher Edition": {
+      "driveFileId": "1nymnTDpC_x90XlVV3zTNN9nI7WsQfDr7AOTF3mu5xKc",
+      "name": "6.3 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:50:54.917Z"
+    },
+    "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1ZGgtMqMEwQuk4eYUZ7BawjphXTQ2ld3g4aquVd_vLN4",
+      "name": "6.3 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:50:50.767Z"
+    },
+    "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Student Procedure": {
+      "driveFileId": "1dUqYvSZOsUUmmPwcJEGuvD17dW6EmkTudEl7BHCazHU",
+      "name": "6.3 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-13T20:50:47.201Z"
+    },
+    "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Slides": {
+      "driveFileId": "1Nyrk3FfrqihSapREDcMrLh0mSBOWBJBUvvuyTBzHGTg",
+      "name": "6.3 Lesson 3 Slides",
+      "modifiedTime": "2024-08-13T20:50:43.616Z"
+    },
+    "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 3 Handout Weather Balloon Data": {
+      "driveFileId": "1O9oW5eAleRLguyIsW_XDSQF9Jf70brNZQyZsUvJPbOI",
+      "name": "6.3 Lesson 3 Handout Weather Balloon Data",
+      "modifiedTime": "2024-08-13T20:50:39.378Z"
+    },
+    "Lesson 3 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 3 Folleto Datos de globos": {
+      "driveFileId": "12jgqlSnFHrzD-o26-qkweWNCEeTSqIIathcoRZWsYZo",
+      "name": "6.3 Lección 3 Folleto Datos de globos",
+      "modifiedTime": "2024-08-13T20:50:36.873Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Teacher Edition": {
+      "driveFileId": "1VFyPRDlWPK8POygegswQbtIETTE373rd4RQ2g2BgRZ8",
+      "name": "6.3 Lesson 22 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:50:33.071Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Student Procedure in Spanish": {
+      "driveFileId": "1v4G15k0gdXGMhuPgEGbMZCZGfuimd1pyDs8dANvfbqE",
+      "name": "6.3 Lesson 22 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:50:28.997Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Student Procedure": {
+      "driveFileId": "1Se96qp88hhlQfFE7f7Ioce8woO77Ze9_v36AaP95IOo",
+      "name": "6.3 Lesson 22 Student Procedure",
+      "modifiedTime": "2024-08-13T20:50:25.770Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Slides": {
+      "driveFileId": "1aZSqeDYmH1pbPr5t_3Sws_yK8DT_QN6mDIwqHXrvUvw",
+      "name": "6.3 Lesson 22 Slides",
+      "modifiedTime": "2024-08-13T20:50:20.994Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Handout Revisiting Our Driving": {
+      "driveFileId": "1LSHHk-ANaCoGIAp0280R-IRfIJgeiblMJ3PyMW2xjXc",
+      "name": "6.3 Lesson 22 Handout Revisiting Our Driving",
+      "modifiedTime": "2024-08-13T20:50:16.401Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Assessment Rainforest Climate Assessment": {
+      "driveFileId": "1kEC00g4yfFy45OfAm40_LJR54_dS38Q0Y_BZ-2diH_o",
+      "name": "6.3 Lesson 22 Assessment Rainforest Climate Assessment",
+      "modifiedTime": "2024-08-13T20:50:13.491Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 22 Answer Key Key for Rainforest": {
+      "driveFileId": "1qroErhdjzdCv_e-6raz4USo6pRaHrcEchtw-s0drnlw",
+      "name": "6.3 Lesson 22 Answer Key Key for Rainforest",
+      "modifiedTime": "2024-08-13T20:50:09.132Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 22 Folleto Revisando nuestro Registro": {
+      "driveFileId": "1B6q5AwxD-e89C5vkA9nNcpmR-VVXS6mavpq9rer4jX0",
+      "name": "6.3 Lección 22 Folleto Revisando nuestro Registro",
+      "modifiedTime": "2024-08-13T20:50:05.410Z"
+    },
+    "Lesson 22 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 22 Evaluación Tareas de evaluación": {
+      "driveFileId": "1Bm40KSs2ajgExmZSVMak_67JgBKKVHvjse51QeRVHoA",
+      "name": "6.3 Lección 22 Evaluación Tareas de evaluación",
+      "modifiedTime": "2024-08-13T20:50:02.932Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Teacher Edition": {
+      "driveFileId": "1AzrY0HIeDFdTfI6by6UeQ3ym3DGmHfhKQTROVCoPsIA",
+      "name": "6.3 Lesson 21 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:49:57.758Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Student Procedure in Spanish": {
+      "driveFileId": "1e-c3u6wOUUyeRpF6pNHfYn1ewKNDrBHNbdcam9mfIHs",
+      "name": "6.3 Lesson 21 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:49:53.616Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Student Procedure": {
+      "driveFileId": "1gPmu0NzILE5PO_wFkDNJihTrEgbAePE6m_ymYlQK3Ug",
+      "name": "6.3 Lesson 21 Student Procedure",
+      "modifiedTime": "2024-08-13T20:49:50.157Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Slides": {
+      "driveFileId": "1P-T6TKHNNMebLmXnOLMW_azSFNI0hW58GaE_HswUJyE",
+      "name": "6.3 Lesson 21 Slides",
+      "modifiedTime": "2024-08-13T20:49:44.922Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Reference Maps and Data": {
+      "driveFileId": "1E-LGlmKg_8RK5wo6c2vJ-LLBPQ617uHihgU-gLsBoPw",
+      "name": "6.3 Lesson 21 Reference Maps and Data",
+      "modifiedTime": "2024-08-13T20:49:41.218Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Handout Profile Views Pacific": {
+      "driveFileId": "1BbRnuGMpB-j9Lw7CzLEYA0opwk_zeTYAl8BCJDXkg-s",
+      "name": "6.3 Lesson 21 Handout Profile Views Pacific",
+      "modifiedTime": "2024-08-13T20:49:36.932Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 21 Handout Maps and Data": {
+      "driveFileId": "1joczI2ZIioyUxDna6Ds33zFxZI5nnAVWol006czwdTA",
+      "name": "6.3 Lesson 21 Handout Maps and Data",
+      "modifiedTime": "2024-08-13T20:49:34.152Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 21 Referencia Mapas y datos": {
+      "driveFileId": "1c5naTIAV9c5mAG0Xe-_D9sPxN65muw-Zz-o0MEgrOyQ",
+      "name": "6.3 Lección 21 Referencia Mapas y datos",
+      "modifiedTime": "2024-08-13T20:49:30.901Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 21 Folleto Vistas de perfil": {
+      "driveFileId": "1b1KuhZ7w0DM-LofQ3S7ikWjE9a_z_fuC9rSfmNoH6xQ",
+      "name": "6.3 Lección 21 Folleto Vistas de perfil",
+      "modifiedTime": "2024-08-13T20:49:27.375Z"
+    },
+    "Lesson 21 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 21 Folleto Mapas y datos": {
+      "driveFileId": "1sLhGx1iHeUP7MHjBFsmbyUCQbxGKEkWuVl2nPxflWqs",
+      "name": "6.3 Lección 21 Folleto Mapas y datos",
+      "modifiedTime": "2024-08-13T20:49:23.676Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Teacher Edition": {
+      "driveFileId": "1ci0npSpWTxFEffX-ZjPL0SoCSFWGiJRXK1XGieyIrKw",
+      "name": "6.3 Lesson 20 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:49:19.237Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Student Procedure in Spanish": {
+      "driveFileId": "1QCjW0nOKmXigqrTQ9AyUO-IZKq4bK5iffyWrX3L-nTs",
+      "name": "6.3 Lesson 20 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:49:15.511Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Student Procedure": {
+      "driveFileId": "1vZ-PAM6H6k2-Bwpp_QtoQhZkZ70-P5XUQjxMlhqtgaM",
+      "name": "6.3 Lesson 20 Student Procedure",
+      "modifiedTime": "2024-08-13T20:49:12.155Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Slides": {
+      "driveFileId": "1LERtbtv1Y_L6aXrn9_AKx8DUiocCKJdl8rR8fBokylI",
+      "name": "6.3 Lesson 20 Slides",
+      "modifiedTime": "2024-08-13T20:49:09.002Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Reading How the ocean": {
+      "driveFileId": "1ayaNFje2DGicTj2-OsXu2KliMtV7eaF59wrwGsssZno",
+      "name": "6.3 Lesson 20 Reading How the ocean",
+      "modifiedTime": "2024-08-13T20:49:05.005Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Handout Reading How the": {
+      "driveFileId": "1HSaW54zqE80I6R34fAYtoCuMe4hx-C3dDaD9hyAU9dU",
+      "name": "6.3 Lesson 20 Handout Reading How the",
+      "modifiedTime": "2024-08-13T20:48:56.603Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 20 Handout Precipitation in Coastal": {
+      "driveFileId": "1N_0grQmWyzKwRcZYk-KLoK4VuS31W9UTuYsZ5xzAgVA",
+      "name": "6.3 Lesson 20 Handout Precipitation in Coastal",
+      "modifiedTime": "2024-08-13T20:48:55.673Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 20 Lectura Cómo el océano": {
+      "driveFileId": "10a_GweiI8ieUSjsnZ9m7ArN9Xs6X0UoRLecT5fyRnUo",
+      "name": "6.3 Lección 20 Lectura Cómo el océano",
+      "modifiedTime": "2024-08-13T20:48:51.616Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 20 Folleto Precipitación en ciudades": {
+      "driveFileId": "1ggA_ASSAXlVUvrnHhKhYMPS3QVA865Nd2DZrpLzTgrk",
+      "name": "6.3 Lección 20 Folleto Precipitación en ciudades",
+      "modifiedTime": "2024-08-13T20:48:47.948Z"
+    },
+    "Lesson 20 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 20 Folleto Lectura Cómo el": {
+      "driveFileId": "1yurZMlbEGkindqfOqnj1eJA3jwxE8lXPmRfMxHucNJw",
+      "name": "6.3 Lección 20 Folleto Lectura Cómo el",
+      "modifiedTime": "2024-08-13T20:48:43.609Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Teacher Edition": {
+      "driveFileId": "1G2VYFM4fCXT_iPBF5Ap6DVJURONgD0-ISjQQrXKqTO0",
+      "name": "6.3 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:48:38.346Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1jkrbpyjkahiWrLr1svYghJfLRlzxrxhwRYpjo32SLH0",
+      "name": "6.3 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:48:34.058Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Student Procedure": {
+      "driveFileId": "1b7E5PwyLeBqJygplymp7XQyjPCNA0eTq4s2nX5BqXcI",
+      "name": "6.3 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-13T20:48:30.460Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Slides": {
+      "driveFileId": "1Lxs38nQ0jlz6IsWtQZ8iMo0vuyQBApAIajSdGNqMwo4",
+      "name": "6.3 Lesson 2 Slides",
+      "modifiedTime": "2024-08-13T20:48:26.711Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Reference Weather Data from": {
+      "driveFileId": "1-tTomf75jXLQiMkVElH_neyjCu8zpvwe_VgxCZeglL4",
+      "name": "6.3 Lesson 2 Reference Weather Data from",
+      "modifiedTime": "2024-08-13T20:48:20.669Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Reference Weather Data for": {
+      "driveFileId": "1XiNDWPek0Nk_TJNjMrQ_V_lpW3rnUfMO0dLtks6mqDA",
+      "name": "6.3 Lesson 2 Reference Weather Data for",
+      "modifiedTime": "2024-08-13T20:48:15.313Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Reference Hailstone Images": {
+      "driveFileId": "1dNRPbnushnpyTeY-tNZzjK6A-1d33iTwIGaDY_yFTJU",
+      "name": "6.3 Lesson 2 Reference Hailstone Images",
+      "modifiedTime": "2024-08-13T20:48:11.135Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Reference Hail Frequency Map": {
+      "driveFileId": "1pfx_5EnHr-dCBinRZRhySFypInu68hP5A94-iHUF74k",
+      "name": "6.3 Lesson 2 Reference Hail Frequency Map",
+      "modifiedTime": "2024-08-13T20:48:07.079Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Handout Weather Data from": {
+      "driveFileId": "1jhoqIZ-LIUlHkYnVdkrkZMu5wbXUbUky2e5nTKalbtU",
+      "name": "6.3 Lesson 2 Handout Weather Data from",
+      "modifiedTime": "2024-08-13T20:48:04.004Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Handout Weather Data for": {
+      "driveFileId": "1gN1Ma2XwfmgCwggCqrCfBT2ffW-nxxjCLy2SfzMzKoc",
+      "name": "6.3 Lesson 2 Handout Weather Data for",
+      "modifiedTime": "2024-08-13T20:47:59.982Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 2 Handout Hail Frequency Map": {
+      "driveFileId": "1N-SNu6riQzNi3OTlCH4yuL4s1WCtdjK-9NEoB7208Fk",
+      "name": "6.3 Lesson 2 Handout Hail Frequency Map",
+      "modifiedTime": "2024-08-13T20:47:56.879Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 2 Referencia Mapa de frecuencia": {
+      "driveFileId": "1zrxdpBqxCesUH2Jrhx-0Brp5_AtkE5wyuonFGpcq0lg",
+      "name": "6.3 Lección 2 Referencia Mapa de frecuencia",
+      "modifiedTime": "2024-08-13T20:47:53.916Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 2 Referencia Imágenes de granizo": {
+      "driveFileId": "1Ak7xN4n7yWhagEwOpkkAZ81t0nvWlh-cMXRvkjqkOaI",
+      "name": "6.3 Lección 2 Referencia Imágenes de granizo",
+      "modifiedTime": "2024-08-13T20:47:50.472Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 2 Referencia Datos meteorológicos para": {
+      "driveFileId": "1-JmcK_9ZL7afntu1_qUSRiu_OV69RPmHN9rSGkXkxgE",
+      "name": "6.3 Lección 2 Referencia Datos meteorológicos para",
+      "modifiedTime": "2024-08-13T20:47:47.283Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 2 Referencia Datos meteorológicos de": {
+      "driveFileId": "1W5APQlthlfvw8M9Pu6JsA5j7cmBxKKzmpFIB5mmrl4A",
+      "name": "6.3 Lección 2 Referencia Datos meteorológicos de",
+      "modifiedTime": "2024-08-13T20:47:43.674Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 2 Folleto Mapa de frecuencia": {
+      "driveFileId": "1gLKBLrSwlgQyrBevddWkWw0IqtRczDV58sR5tAgFBZ0",
+      "name": "6.3 Lección 2 Folleto Mapa de frecuencia",
+      "modifiedTime": "2024-08-13T20:47:34.934Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 2 Folleto Datos meteorológicos para": {
+      "driveFileId": "1txmND0g-jtQ_tAgzS8HdchsYbI-7iJUD3OrriDH1yfI",
+      "name": "6.3 Lección 2 Folleto Datos meteorológicos para",
+      "modifiedTime": "2024-08-13T20:47:28.866Z"
+    },
+    "Lesson 2 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 2 Folleto Datos meteorológicos de": {
+      "driveFileId": "1IHwghR7fzUMnbWLpHvaKWicDkzZ1dfSmzg51V7_ztdw",
+      "name": "6.3 Lección 2 Folleto Datos meteorológicos de",
+      "modifiedTime": "2024-08-13T20:47:27.956Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Teacher Edition": {
+      "driveFileId": "1bSyT--rPjQEeElWN5fQHOOT4T6kPrj8YVm-XxkHH5No",
+      "name": "6.3 Lesson 19 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:47:21.044Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Student Procedure in Spanish": {
+      "driveFileId": "1Q8tkSAvWu1Cg4Cj6c0XS_yU6QKnHamR38BD0dBV5rdg",
+      "name": "6.3 Lesson 19 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:47:15.855Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Student Procedure": {
+      "driveFileId": "1IFZ54B1Ym-4ef5SLK0_UPGma5ChdubI9aeiHPGVfZ_g",
+      "name": "6.3 Lesson 19 Student Procedure",
+      "modifiedTime": "2024-08-13T20:47:12.165Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Slides": {
+      "driveFileId": "1utku_aEyZlgZhlFyj-pOWlXTAp7U1doJLMrsi6ynjQ4",
+      "name": "6.3 Lesson 19 Slides",
+      "modifiedTime": "2024-08-13T20:47:08.223Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Reading Why do air": {
+      "driveFileId": "1BpEh4ZAqxy7NSIDHHvuebRcBbxlDkeVtdajSXc0e41A",
+      "name": "6.3 Lesson 19 Reading Why do air",
+      "modifiedTime": "2024-08-13T20:47:04.344Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 19 Handout Reading Why do": {
+      "driveFileId": "1DC3RqAw7lv-qEgo8VwGt6uNOYhle87LqWRiRqXxAEfk",
+      "name": "6.3 Lesson 19 Handout Reading Why do",
+      "modifiedTime": "2024-08-13T20:47:00.273Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 19 Lectura ¿Por qué el": {
+      "driveFileId": "11CF2pXJQHvtup-EJThElB4FSIWR39yFJmPJrNuQwiTg",
+      "name": "6.3 Lección 19 Lectura ¿Por qué el",
+      "modifiedTime": "2024-08-13T20:46:55.904Z"
+    },
+    "Lesson 19 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 19 Folleto Lectura ¿Por qué": {
+      "driveFileId": "1CU31ANTf7mIZTA3gWDrxc7KB467LIUIPcD-VFFzlb2c",
+      "name": "6.3 Lección 19 Folleto Lectura ¿Por qué",
+      "modifiedTime": "2024-08-13T20:46:51.350Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Teacher Edition": {
+      "driveFileId": "1x2cBZtCqNY4Q2dJAAPb71cnh6VnzyV7nH50ZROSP61c",
+      "name": "6.3 Lesson 18 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:46:47.195Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Student Procedure in Spanish": {
+      "driveFileId": "1kaykI-BEAwBvqkmADIuD3pTS_61erS7WrNOkflqAtqE",
+      "name": "6.3 Lesson 18 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:46:43.034Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Student Procedure": {
+      "driveFileId": "1WSjD3TgQguusyLvU19HPPvNb99kZXFYhXnYTUzx6cIA",
+      "name": "6.3 Lesson 18 Student Procedure",
+      "modifiedTime": "2024-08-13T20:46:34.809Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Slides": {
+      "driveFileId": "15Qb1rTvRRG9jWet-PFg4MSilJ9V6n4BQRhJHUQJz0hk",
+      "name": "6.3 Lesson 18 Slides",
+      "modifiedTime": "2024-08-13T20:46:30.741Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Reference Nov. 22 2019": {
+      "driveFileId": "1uwCwRunKfyo9PTwjyCh_Y68UHMd2ML5ul2AACK4ocBQ",
+      "name": "6.3 Lesson 18 Reference Nov. 22 2019",
+      "modifiedTime": "2024-08-13T20:46:26.141Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Handout Transcript Weather Report": {
+      "driveFileId": "12_1txDgMRc-gO3Gcs1sFaZi8nJ1T33TxlMfNqU9nBxc",
+      "name": "6.3 Lesson 18 Handout Transcript Weather Report",
+      "modifiedTime": "2024-08-13T20:46:22.418Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Handout Progress Tracker Ideas": {
+      "driveFileId": "10wI0QBA2s6-TEwfF7rlsV1VTkbnhsks7KIf-vU16SE8",
+      "name": "6.3 Lesson 18 Handout Progress Tracker Ideas",
+      "modifiedTime": "2024-08-13T20:46:19.564Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 18 Handout Comparing Ideas Used": {
+      "driveFileId": "1PVAbK9hg98Ocm6FYEz_ATqyu-0CfedX5F1d6IP1bYNM",
+      "name": "6.3 Lesson 18 Handout Comparing Ideas Used",
+      "modifiedTime": "2024-08-13T20:46:15.225Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 18 Referencia Mapas de pronósticos": {
+      "driveFileId": "1iZE5LO0npZq4jEZq7eDatBJjanYm52GQSdGR4BM0vrA",
+      "name": "6.3 Lección 18 Referencia Mapas de pronósticos",
+      "modifiedTime": "2024-08-13T20:46:12.281Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 18 Folleto Transcripción Informe y": {
+      "driveFileId": "11Vij2JiVvQb9C-nXD11O77NFIwyRSFJC3Mm2o113gkQ",
+      "name": "6.3 Lección 18 Folleto Transcripción Informe y",
+      "modifiedTime": "2024-08-13T20:46:08.620Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 18 Folleto Registro de progreso": {
+      "driveFileId": "1SQeazu-2obdbYR6JLziZYCVr8DYVtt_O0qEVrCPmhwo",
+      "name": "6.3 Lección 18 Folleto Registro de progreso",
+      "modifiedTime": "2024-08-13T20:46:06.183Z"
+    },
+    "Lesson 18 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 18 Folleto Comparación de ideas": {
+      "driveFileId": "1VDbnwP8n2fD02CqIV8sNY3nwekRV4V3NWBVQHBSmcCo",
+      "name": "6.3 Lección 18 Folleto Comparación de ideas",
+      "modifiedTime": "2024-08-13T20:46:03.524Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Teacher Edition": {
+      "driveFileId": "1qA4c5bnUeAN5ZexQ_O2Gkhzk4tmEJK4y1dAG95JHPPM",
+      "name": "6.3 Lesson 17 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:56.829Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Student Procedure in Spanish": {
+      "driveFileId": "1N7N73CVLphJjR81fzvwoDULtJJaqKXRU13CFNznVp7M",
+      "name": "6.3 Lesson 17 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:53.301Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Student Procedure": {
+      "driveFileId": "1hkjQz6X3fNn9eKdnofaVBABKxobXwNJzCpR9HifKmw8",
+      "name": "6.3 Lesson 17 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:49.783Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Slides": {
+      "driveFileId": "1Ck4Ff9ZqjzT7ARkKuyrfe1j_3qurPtB3iwa5yARZatU",
+      "name": "6.3 Lesson 17 Slides",
+      "modifiedTime": "2024-08-13T20:45:45.627Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Handout Explaining Patterns and": {
+      "driveFileId": "1btVUYDEU5ybbZRtttasH_ZfNWq6tZSUOjTBTLzak2sc",
+      "name": "6.3 Lesson 17 Handout Explaining Patterns and",
+      "modifiedTime": "2024-08-13T20:45:41.368Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Handout Air Pressure Prediction": {
+      "driveFileId": "18mfP01H-n5W-covtZ6G9E0ZpRYSU4wHqwVNhY5_rO88",
+      "name": "6.3 Lesson 17 Handout Air Pressure Prediction",
+      "modifiedTime": "2024-08-13T20:45:38.494Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 17 Handout Air Pressure Maps": {
+      "driveFileId": "11xHZE7j1SLB-jnP7Hj9hcSSi-tagzwMfDlT1JvNOUXw",
+      "name": "6.3 Lesson 17 Handout Air Pressure Maps",
+      "modifiedTime": "2024-08-13T20:45:35.412Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 17 Folleto Predicción de la": {
+      "driveFileId": "1jHaDTqq9n8z_bRk502b3DXicnw8g2px1ZWdUMRLEBH4",
+      "name": "6.3 Lección 17 Folleto Predicción de la",
+      "modifiedTime": "2024-08-13T20:45:31.827Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 17 Folleto Mapas de presión": {
+      "driveFileId": "1QGTvpMvYppJdvYenuOHVFhqjU8yuS6dUDS-pA2rjVqk",
+      "name": "6.3 Lección 17 Folleto Mapas de presión",
+      "modifiedTime": "2024-08-13T20:45:29.468Z"
+    },
+    "Lesson 17 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 17 Folleto Explicar patrones y": {
+      "driveFileId": "1ElSsiJBr633414_uD1LPFnw2vRE5Elzw-jb03D8KZdM",
+      "name": "6.3 Lección 17 Folleto Explicar patrones y",
+      "modifiedTime": "2024-08-13T20:45:25.182Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Teacher Reference Template for the": {
+      "driveFileId": "12tYlWZEhJKf1Vs6Uuc7aEn3yqkIH-N7Jlw0v4raaX6g",
+      "name": "6.3 Lesson 16 Teacher Reference Template for the",
+      "modifiedTime": "2024-08-13T20:45:21.619Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Teacher Edition": {
+      "driveFileId": "1JGPwPz812yUItgYA7q1RDNABvohycYP5UQt79b-z19o",
+      "name": "6.3 Lesson 16 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:45:18.627Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Student Procedure in Spanish": {
+      "driveFileId": "13PujiOVDEnHg0sDKiW0Vz-W9VIgpzaBzohOlmon_C3Y",
+      "name": "6.3 Lesson 16 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:45:14.010Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Student Procedure": {
+      "driveFileId": "1lQkzNgTSrsgBaAd2Ucd-TjhlfSMAXeg66WDYMeEEZyo",
+      "name": "6.3 Lesson 16 Student Procedure",
+      "modifiedTime": "2024-08-13T20:45:09.179Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Slides": {
+      "driveFileId": "1xR3AKbCphMDwJqyE6lX-YzO4dE24bZ9pk_KSJrJI1BQ",
+      "name": "6.3 Lesson 16 Slides",
+      "modifiedTime": "2024-08-13T20:45:05.333Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Handout Warm and Cold": {
+      "driveFileId": "1L30lOIZqzvc7-F09GP3wLYynO3E28fI2jOsh8HWGSds",
+      "name": "6.3 Lesson 16 Handout Warm and Cold",
+      "modifiedTime": "2024-08-13T20:45:01.852Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 16 Handout Relative Humidity Data": {
+      "driveFileId": "1RYptq_zYLLBTy0v8RaUtUOznx7NUW-0WjumFK_KcJ74",
+      "name": "6.3 Lesson 16 Handout Relative Humidity Data",
+      "modifiedTime": "2024-08-13T20:44:59.601Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 16 Folleto Interacciones de agua": {
+      "driveFileId": "1TIHFJFSlfiC2j2lPjuxp9ZiT39K5iXwkjB1_5AXjcGo",
+      "name": "6.3 Lección 16 Folleto Interacciones de agua",
+      "modifiedTime": "2024-08-13T20:44:53.903Z"
+    },
+    "Lesson 16 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 16 Folleto Datos de humedad": {
+      "driveFileId": "1IGLz_2pyVdbvaJ1FIlTo-t0fCsBycgTdTJAAOxyoHzE",
+      "name": "6.3 Lección 16 Folleto Datos de humedad",
+      "modifiedTime": "2024-08-13T20:44:51.337Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Teacher Reference Radar Map Series": {
+      "driveFileId": "1w3o7wRAshaCg9F_1ld3zSFGbZx2NEKroc3AiUWQqtbQ",
+      "name": "6.3 Lesson 15 Teacher Reference Radar Map Series",
+      "modifiedTime": "2024-08-13T20:44:46.189Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Teacher Edition": {
+      "driveFileId": "1aV8woCw3iQfA0O-VJFE9cDdRw9F4GBc9CB3RCrgDgdM",
+      "name": "6.3 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:44:42.323Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1eWMr0XDlFBlSvvSLhC9ypiunIwD5LyoYR9z7Q0D9L18",
+      "name": "6.3 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:44:38.875Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Student Procedure": {
+      "driveFileId": "1AwagwpQIlMkDM9EjS3Qjw7ztRKNS2-xo21cnO07P0Ms",
+      "name": "6.3 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-13T20:44:33.954Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Slides": {
+      "driveFileId": "1xdHF8Xr5era0WLAajIdVBItGBh82eHTS5yl6suGq578",
+      "name": "6.3 Lesson 15 Slides",
+      "modifiedTime": "2024-08-13T20:44:30.226Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Handout Time Point 1": {
+      "driveFileId": "1Cw0Yg7Z3pW8cy5c0F3QF5CneJUCnig9-fMFwTEW7VBw",
+      "name": "6.3 Lesson 15 Handout Time Point 1",
+      "modifiedTime": "2024-08-13T20:44:25.177Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Handout Relative Humidity, January": {
+      "driveFileId": "1GnWd6B1nK-9K2BHKhOg9YTiIEBraDWOh39VGhnq5t14",
+      "name": "6.3 Lesson 15 Handout Relative Humidity, January",
+      "modifiedTime": "2024-08-13T20:44:21.875Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Handout Relative Humidity at": {
+      "driveFileId": "1FgTkKW-LVdD2YAXV8UBejb0-nPBTVjmbnGyyaSHdLug",
+      "name": "6.3 Lesson 15 Handout Relative Humidity at",
+      "modifiedTime": "2024-08-13T20:44:18.537Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 15 Handout Air Temperature at": {
+      "driveFileId": "1d6k3sRwsXQns2m0J_W2UmtqYMSVWkerOVHb1Uj7R2pU",
+      "name": "6.3 Lesson 15 Handout Air Temperature at",
+      "modifiedTime": "2024-08-13T20:44:14.938Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 15 Folleto Temperatura del aire": {
+      "driveFileId": "1uk_PAGFg0D0_507cjSmONRAZQIgvyknHHKpJH1VbnGE",
+      "name": "6.3 Lección 15 Folleto Temperatura del aire",
+      "modifiedTime": "2024-08-13T20:44:10.861Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 15 Folleto Punto de tiempo": {
+      "driveFileId": "1j4AI6AgoorhQ7SXrZI4faOvFBSuO-58xUTy8wlaaqhk",
+      "name": "6.3 Lección 15 Folleto Punto de tiempo",
+      "modifiedTime": "2024-08-13T20:44:07.122Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 15 Folleto Humedad relativa, 17": {
+      "driveFileId": "18L71MklZpTr2U4oN4rEYT01Mjz30viWj7g-r2AMFdo8",
+      "name": "6.3 Lección 15 Folleto Humedad relativa, 17",
+      "modifiedTime": "2024-08-13T20:44:04.114Z"
+    },
+    "Lesson 15 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 15 Folleto Humedad relativa en": {
+      "driveFileId": "1ufqcLgGKsD9qzGLQ-RbYlHqHvtNQSlbq7BYCIqgOYjI",
+      "name": "6.3 Lección 15 Folleto Humedad relativa en",
+      "modifiedTime": "2024-08-13T20:44:00.777Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Teacher Edition": {
+      "driveFileId": "1IhoInp9OOgHjJHbFmZImoGR2YUDoVTlvyTMnLdaXXis",
+      "name": "6.3 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:43:55.481Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1VoVCwT8k2UVxdmstFwY87dhFi_Fx1vUbtmBW_2u2oFo",
+      "name": "6.3 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:43:50.697Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Student Procedure": {
+      "driveFileId": "1L_c2XICJHVK4SY2Yi86roc1eUsOcrSZ7G7vYkJBxPvI",
+      "name": "6.3 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-13T20:43:46.254Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Slides": {
+      "driveFileId": "1YB-siE1Cxo22Lg2C9HOqDELzxxB1AAEDPJ4XixxCsnQ",
+      "name": "6.3 Lesson 14 Slides",
+      "modifiedTime": "2024-08-13T20:43:42.700Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Reference Snowfall and Ice": {
+      "driveFileId": "1mWYro6to5DrZSlSYQtpu7so4_012_WQAd1rodC3L520",
+      "name": "6.3 Lesson 14 Reference Snowfall and Ice",
+      "modifiedTime": "2024-08-13T20:43:37.886Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Reference Images from the": {
+      "driveFileId": "1IcfUkPE1gIZ79qyVlSsd55xwtTkA4LkDORSCQR-B76M",
+      "name": "6.3 Lesson 14 Reference Images from the",
+      "modifiedTime": "2024-08-13T20:43:34.213Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Reference Cloud Cover and": {
+      "driveFileId": "1qqJNLniWVhfYbWLS1ZS6LDASYLKK9JpDmyYPgtHtyd8",
+      "name": "6.3 Lesson 14 Reference Cloud Cover and",
+      "modifiedTime": "2024-08-13T20:43:30.246Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Handout Transcript Weather Report": {
+      "driveFileId": "1I-qQ5H3j28_NnB_ztnyTwtp9wY1_Jl9JXqXa4ZYi4io",
+      "name": "6.3 Lesson 14 Handout Transcript Weather Report",
+      "modifiedTime": "2024-08-13T20:43:26.516Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Handout Initial Model": {
+      "driveFileId": "1Cl0Tu4mZMBI3T-5BD3TA1C1Wu71qqAcGibWzHte8_8g",
+      "name": "6.3 Lesson 14 Handout Initial Model",
+      "modifiedTime": "2024-08-13T20:43:23.950Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 14 Handout Evaluating Connections to": {
+      "driveFileId": "1sJc3dhkWNcOSW5jWnlTBmv2u5-aUd9kMVSM-e759qGg",
+      "name": "6.3 Lesson 14 Handout Evaluating Connections to",
+      "modifiedTime": "2024-08-13T20:43:20.411Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 14 Referencia Mapas de pronóstico": {
+      "driveFileId": "1B0mKPvOcMdhKODfwZIovLKyyN3UyxlVTbLIvMXpqlkc",
+      "name": "6.3 Lección 14 Referencia Mapas de pronóstico",
+      "modifiedTime": "2024-08-13T20:43:14.742Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 14 Referencia Mapa de nubosidad": {
+      "driveFileId": "1eBIuXJLvss6SsflQuOr2QL9-gNciaiTe-BknjzoNtaw",
+      "name": "6.3 Lección 14 Referencia Mapa de nubosidad",
+      "modifiedTime": "2024-08-13T20:43:10.778Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 14 Referencia Imágenes del pronóstico": {
+      "driveFileId": "12mQ8IL0u63i-idC28PJPCo1sRHpom3GfzeXn1l6zToU",
+      "name": "6.3 Lección 14 Referencia Imágenes del pronóstico",
+      "modifiedTime": "2024-08-13T20:43:06.304Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 14 Folleto Transcripción Informe y": {
+      "driveFileId": "1bC2B-vJc-ZKGg_KAUnI0RgLGBXT4wWIemZhjs_qKerI",
+      "name": "6.3 Lección 14 Folleto Transcripción Informe y",
+      "modifiedTime": "2024-08-13T20:43:02.752Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 14 Folleto Modelo inicial": {
+      "driveFileId": "1H91Gqp9uPUSiEmGyGVu7WPkgmjtAsqDmv3XMcYLuZEg",
+      "name": "6.3 Lección 14 Folleto Modelo inicial",
+      "modifiedTime": "2024-08-13T20:42:59.840Z"
+    },
+    "Lesson 14 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 14 Folleto Evaluación de conexiones": {
+      "driveFileId": "1WIkziNadH2TmDyAejc_ip2d6l3qls0_FQMMf9h40Ic8",
+      "name": "6.3 Lección 14 Folleto Evaluación de conexiones",
+      "modifiedTime": "2024-08-13T20:42:57.087Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Reference Gotta-Have-It Checklist": {
+      "driveFileId": "1h013MnmOM_pUIeT8WLXPpdcLSGN67dnAa9u1gXZ-v1c",
+      "name": "6.3 Lesson 13 Teacher Reference Gotta-Have-It Checklist",
+      "modifiedTime": "2024-08-13T20:42:54.020Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Teacher Edition": {
+      "driveFileId": "10lThjKH_C__MPse0Y6RWRYspJxTSKqHBDfQ8HulX0fw",
+      "name": "6.3 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:42:51.463Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1ZpEog5ZZaXB333BMacIqIu-IKR_NXFUK2aOw4HPmWkI",
+      "name": "6.3 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:42:47.744Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Student Procedure": {
+      "driveFileId": "1j1vUmkHCejo2KNqvswDd4tKQolK6cLpn_jLDvwCD0HM",
+      "name": "6.3 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-13T20:42:43.438Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Slides": {
+      "driveFileId": "1uDAeBLpnbvIEU2yEpwIRAc3v1JhtmwyxPBbh4snWd_E",
+      "name": "6.3 Lesson 13 Slides",
+      "modifiedTime": "2024-08-13T20:42:35.972Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Reading Tracing Paths of": {
+      "driveFileId": "1Pt6bihJDy6V7qoeDV4AyNe2TgxSFTG5nevBVzbTkhuY",
+      "name": "6.3 Lesson 13 Reading Tracing Paths of",
+      "modifiedTime": "2024-08-13T20:42:30.282Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Handout Revisiting Our Driving": {
+      "driveFileId": "1jmAxJlsI1Cnh2FtYtTB9QNrUDKxVOt8Fh-34vpim5wk",
+      "name": "6.3 Lesson 13 Handout Revisiting Our Driving",
+      "modifiedTime": "2024-08-13T20:42:24.707Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Handout Reading Tracing Paths": {
+      "driveFileId": "1bXMMj_uxPTyzBwu_IJ0C1BFj4R0Wd7rF3Oyk30NsU6M",
+      "name": "6.3 Lesson 13 Handout Reading Tracing Paths",
+      "modifiedTime": "2024-08-13T20:42:21.875Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Handout Lesson 13 Gotta-Have-It": {
+      "driveFileId": "1dC_iZPEwEn3tP5BX59yErGIqzBrlOTRb8jJNpDyx1YY",
+      "name": "6.3 Lesson 13 Handout Lesson 13 Gotta-Have-It",
+      "modifiedTime": "2024-08-13T20:42:18.544Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Handout Final Hail Model": {
+      "driveFileId": "1hMMNwV2FoB1o0R4_PrvZoKmskvNHFsk6ZAqdBJeRR2Q",
+      "name": "6.3 Lesson 13 Handout Final Hail Model",
+      "modifiedTime": "2024-08-13T20:42:16.178Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Assessment Hurricane Assessment Tasks": {
+      "driveFileId": "1CVbl8Ii9yh86Q1rurHzdpQ5l1OWa6NjrmC0uf5l9PNg",
+      "name": "6.3 Lesson 13 Assessment Hurricane Assessment Tasks",
+      "modifiedTime": "2024-08-13T20:42:11.331Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 13 Answer Key Key for Hurricane": {
+      "driveFileId": "1pMQhyoFou5HlbIE1fUq6VCihzSW8lPg2mll9roRjeK4",
+      "name": "6.3 Lesson 13 Answer Key Key for Hurricane",
+      "modifiedTime": "2024-08-13T20:42:07.676Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 13 Lectura Trazando caminos de": {
+      "driveFileId": "1Uzf6gfMionjikPepjoT6TUtbJSXCzAFQ3D-s4EQYvqU",
+      "name": "6.3 Lección 13 Lectura Trazando caminos de",
+      "modifiedTime": "2024-08-13T20:42:02.733Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 13 Folleto Revisar el Registro": {
+      "driveFileId": "1A2xzm9dqMHLAU78h6stwo0_W34Z3_EC1NWaVHLy26ro",
+      "name": "6.3 Lección 13 Folleto Revisar el Registro",
+      "modifiedTime": "2024-08-13T20:41:54.919Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 13 Folleto Lista de necesidades": {
+      "driveFileId": "12vkI6vscEg33WT2gAugyICl0DCj_GyN19SHVJxWFf54",
+      "name": "6.3 Lección 13 Folleto Lista de necesidades",
+      "modifiedTime": "2024-08-13T20:41:53.966Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 13 Folleto Lectura Trazando caminos": {
+      "driveFileId": "1FzyBKEiwLyG8pwmI7KpnBJPQ4B5QaVMC6HPLYZ_heL0",
+      "name": "6.3 Lección 13 Folleto Lectura Trazando caminos",
+      "modifiedTime": "2024-08-13T20:41:51.915Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 13 Folleto Andamio para el": {
+      "driveFileId": "1N99ScYgZGvgDO0kNBARqf1zwXwgqoBjmvts6kxsrR0U",
+      "name": "6.3 Lección 13 Folleto Andamio para el",
+      "modifiedTime": "2024-08-13T20:41:43.455Z"
+    },
+    "Lesson 13 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 13 Evaluación Tareas de evaluación": {
+      "driveFileId": "1u3rD1OAEu_-1utcduo3cUbAVYBI9U6cMUilFis9Gepk",
+      "name": "6.3 Lección 13 Evaluación Tareas de evaluación",
+      "modifiedTime": "2024-08-13T20:41:38.719Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Teacher Edition": {
+      "driveFileId": "10ATm0ZrIDJ6FHmYiuDbQ_TVJRZGBvMOhWX4ifXIDN_A",
+      "name": "6.3 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:41:33.945Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1IGjQJ0bZwYlfUEKUfLzbWmjWiKOgVWZ9FfCNslS0XnM",
+      "name": "6.3 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:41:30.370Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Student Procedure": {
+      "driveFileId": "1IlbZprUPDVvD61cAoESyPezZv9oEJClJpJNE8VzDxXo",
+      "name": "6.3 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-13T20:41:24.978Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Slides": {
+      "driveFileId": "1qHMUJUQy6DFplxbwzxMnSLvPRnbIYkBPXMKZJql_0oc",
+      "name": "6.3 Lesson 12 Slides",
+      "modifiedTime": "2024-08-13T20:41:21.011Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Handout Explaining Convection in": {
+      "driveFileId": "1huez9LitpCzdSKj5unbFMdEqzezb8xentbYVFcznimo",
+      "name": "6.3 Lesson 12 Handout Explaining Convection in",
+      "modifiedTime": "2024-08-13T20:41:17.350Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Handout Convection in Fluids": {
+      "driveFileId": "1y-MEkVO0l4YIgfFJ3jkRVW1g0cvpLAAHQUnwlW8_eNU",
+      "name": "6.3 Lesson 12 Handout Convection in Fluids",
+      "modifiedTime": "2024-08-13T20:41:14.446Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Handout Convection Investigation Plan": {
+      "driveFileId": "1t2IzoGLAcV6B00LDB4PQUysqBPZE2ZgztvS_dgGjMg0",
+      "name": "6.3 Lesson 12 Handout Convection Investigation Plan",
+      "modifiedTime": "2024-08-13T20:41:10.289Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 12 Handout Air Movement in": {
+      "driveFileId": "1R8EYawovuzWNqdVXSivz6V9QyAzhpai-N2yeVJu93cs",
+      "name": "6.3 Lesson 12 Handout Air Movement in",
+      "modifiedTime": "2024-08-13T20:41:07.508Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 12 Folleto Plan de investigación": {
+      "driveFileId": "142MwyYCgUel151lFDfUxwgh8x0m3XsacKepxbS1SJ_o",
+      "name": "6.3 Lección 12 Folleto Plan de investigación",
+      "modifiedTime": "2024-08-13T20:41:03.259Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 12 Folleto Movimiento de aire": {
+      "driveFileId": "12K1c5GODmHBmn8iYASU2bjFJLnDtYkj_bhE-HRwPMXk",
+      "name": "6.3 Lección 12 Folleto Movimiento de aire",
+      "modifiedTime": "2024-08-13T20:41:00.954Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 12 Folleto Explicando la convección": {
+      "driveFileId": "16osSeYXakJ3kvQdJfaUnY5GA53-zJM_O7mTTL8C5HTI",
+      "name": "6.3 Lección 12 Folleto Explicando la convección",
+      "modifiedTime": "2024-08-13T20:40:57.386Z"
+    },
+    "Lesson 12 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 12 Folleto Convección en fluidos": {
+      "driveFileId": "135Th8sLDvoD4UfFG9JmYfteZiV5qAwboOL02Q1zTAAQ",
+      "name": "6.3 Lección 12 Folleto Convección en fluidos",
+      "modifiedTime": "2024-08-13T20:40:54.956Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Teacher Edition": {
+      "driveFileId": "1xR-x0136RPo62vYv5qCe9xey09Q4f5ykwrxGM7b89U8",
+      "name": "6.3 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:51.286Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1GjmgnOUE1pGdXXxZu-0aQ0wL7o1IfezNJ8JtOhf_iJI",
+      "name": "6.3 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:42.505Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Student Procedure": {
+      "driveFileId": "1ZmQzcdCCmSeudYlbn8Hc-x1pP9RNJP0RfqERrnqEx5Q",
+      "name": "6.3 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:41.672Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Slides": {
+      "driveFileId": "1cKlZGBVaueEdTwgKnnpVLVNiDnpchi3Nr2P9bg_lGVA",
+      "name": "6.3 Lesson 11 Slides",
+      "modifiedTime": "2024-08-13T20:40:31.167Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Handout Weather Log": {
+      "driveFileId": "1SP0QhH7uUyAqmdlb3zN8jZLYYMq0X3FhV6O373VdQ1o",
+      "name": "6.3 Lesson 11 Handout Weather Log",
+      "modifiedTime": "2024-08-13T20:40:30.174Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 11 Handout Predicting and Explaining": {
+      "driveFileId": "1uVhGrPxPRWLffTSVSEqDaGJ4SysDpceUgUZk3Hh1mCQ",
+      "name": "6.3 Lesson 11 Handout Predicting and Explaining",
+      "modifiedTime": "2024-08-13T20:40:26.034Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 11 Folleto Registro meteorológico": {
+      "driveFileId": "1MdAN2fTK2OElYsOc4O4Ru_5tvyQ3BPLx7nhpx57i52U",
+      "name": "6.3 Lección 11 Folleto Registro meteorológico",
+      "modifiedTime": "2024-08-13T20:40:23.240Z"
+    },
+    "Lesson 11 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 11 Folleto Predecir y explicar": {
+      "driveFileId": "1G9cTukskjq216uGZR8fi7eCpSuOxWJ8Zhnq9PpMGu3U",
+      "name": "6.3 Lección 11 Folleto Predecir y explicar",
+      "modifiedTime": "2024-08-13T20:40:20.314Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Teacher Edition": {
+      "driveFileId": "1d5cChyvh0nW404ACArNL0vvGBB4nY8utq9-XqB-HvGc",
+      "name": "6.3 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:40:17.514Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1K1FZ4-tYpwPYhQCuXN4BrzwKpy_2uwACsjTX9el1m1s",
+      "name": "6.3 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:40:12.741Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Student Procedure": {
+      "driveFileId": "1P-ydip43oAPpy3-RZQPCOEoAJ-MV65oak2N4E02U2Nw",
+      "name": "6.3 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-13T20:40:07.699Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Slides": {
+      "driveFileId": "1qp3orhK2ggHXXRmajK16BprmjBy5bIAVz74K34hxpcg",
+      "name": "6.3 Lesson 10 Slides",
+      "modifiedTime": "2024-08-13T20:40:03.012Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Handout Gotta-Have-It Checklist": {
+      "driveFileId": "12GIUb68rLniTRgN2i2bHIusvqNHcOXG_ET61kbM5afk",
+      "name": "6.3 Lesson 10 Handout Gotta-Have-It Checklist",
+      "modifiedTime": "2024-08-13T20:39:59.635Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Handout Explaining Relationships in": {
+      "driveFileId": "1Xe5d7HmXygXxn8lEchHmoNGu9LnBwlB7UGU0CQZajNE",
+      "name": "6.3 Lesson 10 Handout Explaining Relationships in",
+      "modifiedTime": "2024-08-13T20:39:56.640Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Handout Data Table for": {
+      "driveFileId": "10pF9b--x6ag3l3gA4TmARcE-CpgCMm1WkCeGQLz5ETg",
+      "name": "6.3 Lesson 10 Handout Data Table for",
+      "modifiedTime": "2024-08-13T20:39:53.912Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 10 Handout Blank Simulation to": {
+      "driveFileId": "1DQcHg-WmqKLcYPHQSkaj322gvZlQ5NRUANu386VQ73I",
+      "name": "6.3 Lesson 10 Handout Blank Simulation to",
+      "modifiedTime": "2024-08-13T20:39:50.602Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 10 Folleto Tabla de datos": {
+      "driveFileId": "1yX-DQc2AG3imBckMTwfF1GM2_yzncn9t9EnH328ZXcI",
+      "name": "6.3 Lección 10 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-13T20:39:46.271Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 10 Folleto Simulación en blanco": {
+      "driveFileId": "1dZ9BLZDrV6J9e15E9zAuJGHgwT83JJwQ5IOvnLBE7yo",
+      "name": "6.3 Lección 10 Folleto Simulación en blanco",
+      "modifiedTime": "2024-08-13T20:39:38.851Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 10 Folleto Lista de necesidades": {
+      "driveFileId": "1AjL2BuyK_9hIRQM4VHY3dL-GUk1kzATdWzh0QVuy1ko",
+      "name": "6.3 Lección 10 Folleto Lista de necesidades",
+      "modifiedTime": "2024-08-13T20:39:37.734Z"
+    },
+    "Lesson 10 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 10 Folleto Explicando las relaciones": {
+      "driveFileId": "1-FrSWvqTFOys0TzrH4ziV9mqyLtMxS69G0ar81dWchM",
+      "name": "6.3 Lección 10 Folleto Explicando las relaciones",
+      "modifiedTime": "2024-08-13T20:39:33.247Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Reference Pre-Assessment Reference for": {
+      "driveFileId": "1kO8LwyqGMny7x-WUg-w7VPskbNf2RNLV3DZsxn95wt8",
+      "name": "6.3 Lesson 1 Teacher Reference Pre-Assessment Reference for",
+      "modifiedTime": "2024-08-13T20:39:29.974Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Teacher Edition": {
+      "driveFileId": "1iPGtryEqnbJdetB6V4RD06jhmpN7OLOwyhVtzKUnd9o",
+      "name": "6.3 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-13T20:39:27.399Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1OrE1WTHngw2nJtrbFCmALQKBE48LF2KADhw_MlIZm8A",
+      "name": "6.3 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-13T20:39:23.319Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Student Procedure": {
+      "driveFileId": "1SCJmBUjqIChBn_aR3Li6otaVIa_HXr0vk7oN2yI3kWE",
+      "name": "6.3 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-13T20:39:18.671Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Slides": {
+      "driveFileId": "1woNlJZojpTRlQjO2AxdgKf3vnzZMY3gMNov0FJMmfuI",
+      "name": "6.3 Lesson 1 Slides",
+      "modifiedTime": "2024-08-13T20:39:14.675Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Handout Representing Particle-Level Changes": {
+      "driveFileId": "1X99iy6nGe22MGMea87_1tzaOsBlC7qYEwEbbeoeEr8w",
+      "name": "6.3 Lesson 1 Handout Representing Particle-Level Changes",
+      "modifiedTime": "2024-08-13T20:39:11.231Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lesson 1 Handout Initial Model": {
+      "driveFileId": "1MDYFQA_xL9EomgOxuyn6hvOwRC795kSe18tfTJAlcVg",
+      "name": "6.3 Lesson 1 Handout Initial Model",
+      "modifiedTime": "2024-08-13T20:39:07.935Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 1 Folleto Representar cambios a": {
+      "driveFileId": "1ZlIh9FKXwyhSHfZsAh_ol_b_uNzGJl1Hi3VIxWvkCXI",
+      "name": "6.3 Lección 1 Folleto Representar cambios a",
+      "modifiedTime": "2024-08-13T20:39:05.369Z"
+    },
+    "Lesson 1 - 6.3 Weather, Climate, & Water Cycling/6.3 Lección 1 Folleto Modelo inicial": {
+      "driveFileId": "1kg9Xb7nTrcOu3SdNipwluKOJ2a9eYknL_fgTrjKGLZQ",
+      "name": "6.3 Lección 1 Folleto Modelo inicial",
+      "modifiedTime": "2024-08-13T20:38:59.103Z"
+    }
+  }
+}

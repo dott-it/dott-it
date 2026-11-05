@@ -1,0 +1,1089 @@
+{
+  "unitId": "7.2",
+  "unitTitle": "Chemical Reactions & Energy",
+  "description": "Students design flameless heaters using energy-releasing chemical reactions. They investigate how energy is transferred during chemical processes.",
+  "lessonCount": 10,
+  "suggestedPacingDays": 21,
+  "unitOverviewPath": "unit_materials/original/7.2 Chemical Reactions & Energy Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/7/7.2",
+  "ingestedAt": "2026-07-01T13:38:41.322Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "How can we heat up food when we don’t have our typical methods available",
+      "title": "How can we heat up food when we don’t have our typical methods available?",
+      "teacherEditionPath": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "How do heaters get warm without a flame",
+      "title": "How do heaters get warm without a flame?",
+      "teacherEditionPath": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "What other chemical reactions could we use to heat up food",
+      "title": "What other chemical reactions could we use to heat up food?",
+      "teacherEditionPath": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "How much of each reactant should we include in our homemade flameless heater",
+      "title": "How much of each reactant should we include in our homemade flameless heater?",
+      "teacherEditionPath": "lesson_4/original/7.2 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How can we refine our criteria and constraints",
+      "title": "How can we refine our criteria and constraints?",
+      "teacherEditionPath": "lesson_5/original/7.2 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How can we redesign our homemade flameless heater",
+      "title": "How can we redesign our homemade flameless heater?",
+      "teacherEditionPath": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "How did our design compare to others in the class",
+      "title": "How did our design compare to others in the class?",
+      "teacherEditionPath": "lesson_7/original/7.2 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "What effects might result from our design changes",
+      "title": "What effects might result from our design changes?",
+      "teacherEditionPath": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "What is our optimal design for a homemade flameless heater",
+      "title": "What is our optimal design for a homemade flameless heater?",
+      "teacherEditionPath": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "How can we decide between competing designs",
+      "title": "How can we decide between competing designs?",
+      "teacherEditionPath": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 1
+    }
+  ],
+  "assessments": [
+    {
+      "id": "72-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Design Reflection",
+      "shortTitle": "Initial Design Reflection",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look and listen for: Take note of which students are able to contribute to the class discussion about what to record in their Progress Trackers. As students add entries to their Progress Trackers, look to see that they are able to explain in their own words how they have defined the problems with prepackaged MREs, proposed the solution of a homemade flameless heater that could help solve those problems, and listed initial criteria and constraints.",
+      "whatToDo": "What to do: Students will have more-explicit scaffolding for systems thinking in regard to their flameless heater designs during Lesson 4. So, if you notice that students have not yet connected the criterion of heating the food to two systems interacting, make note of who specifically will need support during Lesson 4 and come back to the idea then. However, you may set the stage for systems thinking by asking, What is the most important criterion for our heater? What must it be able to do to be successful? It has to heat the food. You can point out that the heater system must cause the food system to heat up.\nCreate a space to record what we’re doing as engineers. Designate a part of the classroom whiteboard or chalkboard or new chart paper to be the class-level What We Do as Engineers board and title it that way. Tell students, I want us to have a class record of what we’re doing as engineers so we can keep adding to this list and work to figure out what engineers do. So, when we’re working on our Progress Trackers, I’m going to record some ideas on big sticky notes, too.\nWrite and post large sticky notes that say “We defined our problem” and “We proposed a design solution.” Right now, these could be placed anywhere on the board or chart paper, but as we come back to this list in future lessons, we will reorganize these sticky notes to represent how engineering involves revisiting the same steps or ideas as we revise our thinking, redesign our solution, and work to optimize our design. See the example shown here.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+        "teacherGuide": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L01-AO2.html"
+      }
+    },
+    {
+      "id": "72-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Design Reflection",
+      "shortTitle": "Initial Design Reflection",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look and listen for: Since this is the first lesson in the unit, this is a pre-assessment opportunity to how students are designing a solution and whether they are beginning to incorporate systems thinking along with knowledge about energy flow from chemical processes into their design models. Student designs may represent how their proposed heater system interacts with the food system (by using arrows or showing molecules moving at different speeds) and/or they may propose some kind of chemical process to cause the food to heat up. However, at this point, it is OK that students may not have included these details in their designs.",
+      "whatToDo": "What to do: If students’ designs do not indicate how their heater will cause the food to heat up, ask them to go back and add that thinking. Even if they’re not sure what, specifically, they need to put in the heater (such as reactants), they could attempt to show in their design how the heater causes the food to heat up. If students have designed a heater that uses traditional heating methods (such as flames or electricity), remind them that we want our homemade heater to be usable in many circumstances, such as after a flood or inside a car, where those traditional methods may not be available.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+        "teacherGuide": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L01-AO3.html"
+      },
+      "assessmentType": "pre-assessment"
+    },
+    {
+      "id": "72-1-ao-4",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Design Reflection",
+      "shortTitle": "Initial Design Reflection",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "If you did not get to see every student’s initial design while they were working to create them, listen in while groups are talking to check out the designs you haven’t seen yet. The goal is to gather formative pre-assessment data about where students are right now with the practice of modeling and see whether they have included systems thinking or ideas about chemical processes in their design models. The next several lessons will focus specifically on these ideas, so having this pre-assessment data will help you prepare to best meet your students where they are.",
+      "whatToDo": "Assign home learning. Display slide OO. Distribute Initial Design Reflection. Direct students to answer these questions on the Initial Design Reflection handout before class meets again.\nWhat went well when creating or sharing your initial design?\nWhat was difficult about creating or sharing your initial design?\nHOME LEARNING OPPORTUNITY\nAnswering these questions while the experience is fresh in their minds will help students prepare for the discussion at the beginning of the next class, which will surface the need for a systematic process of planning, testing, comparing, and revising designs.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+        "teacherGuide": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L01-AO4.html"
+      },
+      "assessmentType": "pre-assessment"
+    },
+    {
+      "id": "72-1-ao-5",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Design Reflection",
+      "shortTitle": "Initial Design Reflection",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look and listen for: Students’ questions for the DQB should be connected to the observations that they had previously made but be more directed at seeking additional information about how they could design a device that will heat food without electricity or flame (possibly using a chemical process).",
+      "whatToDo": "What to do: If students are struggling to generate questions connected to their previous observations, direct them to their Notice and Wonder chart and related situations list. If students are struggling to seek information that could inform their design, point them to specific places in their initial design and ask, What would you need to know more about to figure this out?",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+        "teacherGuide": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L01-AO5.html"
+      }
+    },
+    {
+      "id": "72-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: Students’ wonder…",
+      "shortTitle": "Look for: What to look and listen for: Students’ wonder…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look and listen for: Students’ wonderings should be based on their careful observations of the flameless heater used in class and as seen in the video and should show that they are curious about or want to predict the cause of the food being heated.",
+      "whatToDo": "What to do: If students are struggling to connect their wonderings and questions to their observations of the flameless heater, you may wish to show them the video again or let them reinspect a new or used flameless heater. You can prompt them to consider specifically how the food is getting heated by asking, What do you think is causing the food to heat up?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L01-AO1.html"
+      }
+    },
+    {
+      "id": "72-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: and listen for: See Key Ideas above",
+      "shortTitle": "Look for: and listen for: See Key Ideas above",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.1 Conduct an investigation to serve as the basis for evidence to confirm that the devices are undergoing a chemical reaction when the temperature increases as energy is transferred from the substances in the devices to its surroundings (what the thermometer measures).",
+      "lookListenFor": "What to look for and listen for: See Key Ideas above.",
+      "whatToDo": "What to do: Throughout the lesson, try to elicit responses from everyone in the class so that you can formatively assess which students may need more support and guidance when planning future investigations. If students are not raising the idea of looking for changes before, during, and after the devices warm up, ask them to think back to their experiences from OpenSciEd Unit 7.1: How can we make something new that was not there before? (Bath Bombs Unit) that could help them generate ideas for this investigation. Consider using a discussion map or seating chart to track which students contribute ideas and the extent they are demonstrating security in each of the elements.\nRefer to the Ideas for Investigations chart you updated at the start of the lesson. Display slide E. Say, When we are measuring how hot the flameless heater gets, we should probably try to collect as much evidence as we can. In addition to getting the temperature data, what else do we think we should be recording? What specific data do we want to collect during these investigations that could serve as evidence that a chemical reaction is happening? As students list specific types of data, make notes updating the Ideas for Investigations chart, either directly on the chart or on sticky notes if there is not enough room on the chart.\nSuggested prompt\nSample student response\nWhat specific things might we try to observe if we wanted to know if a chemical reaction was happening?\nWe want to see if there is new matter that wasn’t there before.\nWhat would we record as evidence that there was new matter?\nSince we thought a gas was escaping, we could get the mass of the heater before and after.\nWe could look for any color changes.\nWe could describe if there are any new odors that weren’t there before.\nUpdate our notebooks for data collection. Say, These are great ideas, let’s add them to our data tables so we can be organized about our observations and measurements. Show slide F and give students a moment to update in their notebooks to account for change in mass and other observations.\nFind the starting mass of the device. Say, We need to get the mass of the substances, but we don’t want them to actually start warming up yet because we can’t start taking the temperature at the same time as we record the mass.\nSuggested prompts\nSample student responses\nHow can we get the total starting mass without actually adding water and starting the reaction?\nWe can weigh the water separately and add it to the starting mass of the flameless heater.\nIt is really hard to get a measurable difference in mass when we are working in such small amounts. We could easily drip a little water from the cup and that would make it so we wouldn’t be able to see results because that would be a loss of mass we couldn’t account for. Should we be separating these things to weigh them at the end?\nNo, we will need to weigh everything all together.\nWe even need to weigh the thermometer at the start and finish because we could easily lose a drop of water that would be attached to the thermometer.\nWe will run into a similar issue with our hand warmer investigation, except as soon as we open the bag it starts to warm up. We will need to weigh the hand warmer when it is still in the bag. What do we need to think about when we weigh it again at the end of the investigation?\nWe need to make sure we weigh the bag with it again at the end.\nWe need to weigh the entire setup at the start and at the end to be safe.\nShow slide G and allow students to update their data collection table.\nWeigh components and activate the flameless heater. Weigh the flameless heater setup and either call out the mass or choose a student to report the reading to the class. Then do the same for the container of water. Measure the temperature of the water in the container and share that information with the class as well.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L02-AO1.html"
+      }
+    },
+    {
+      "id": "72-2-ao-4",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for",
+      "shortTitle": "Look for: What to look and listen for",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.2 Develop a model to describe how energy is transferred between different parts of our reaction system to inform the next steps of the design process.",
+      "lookListenFor": "What to look and listen for\nData we collected from investigating possible solutions served as evidence that chemical reactions were happening when both devices we tested warmed up.\nChemical reactions can cause an increase in temperature; different reactions cause different temperature changes.\nWe should test other chemical reactions to see if they could work in our homemade heater design.\nResearching existing solutions helped us figure out our next steps in the design process.",
+      "whatToDo": "What to do: If students are struggling, you can have them update their Progress Trackers with a partner or do a think-pair-share to brainstorm ideas before writing an individual entry. Ask them about what they learned in this lesson and how they were planning to use what they learned.\nUpdate the table of contents. As a reminder, have students periodically update the table of contents in their science notebook.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L02-AO4.html"
+      }
+    },
+    {
+      "id": "72-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: See Key Ideas above",
+      "shortTitle": "Look for: What to look and listen for: See Key Ideas above",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.2 Conduct an investigation to serve as the basis for evidence to confirm that the devices are undergoing a chemical reaction when the temperature increases as energy is transferred from the substances in the devices to its surroundings (what the thermometer measures).",
+      "lookListenFor": "What to look and listen for: See Key Ideas above.",
+      "whatToDo": "What to do: Students should see that, while both devices changed in temperature, the substances in the flameless heater caused a larger increase in temperature. Both devices were observed for the same amount of time, and there was a smaller change in temperature in the Hand Warmer Investigation. Additionally there are two other key pieces of evidence (change in mass and change in color) that students should be using to support their claims. If students are missing these, be sure to prompt them to check the data they collected in their science notebooks or direct them to [OP.CB.VID.L2.001] and [OP.CB.VID.L2.002] and the before-and-after photos of the substances in each device as they are warming (slides I and P).\nSuggested prompts\nSample student responses\nWhat data did your group collect from the flameless heater investigation?\nThe temperature of the system went up ____ degrees in 15 minutes.\nWhat about the hand warmers?\nThe temperature of the system went up ____ degrees in 15 minutes.\nThe temperature did not change as much in the 15 minutes we observed.\nDid other groups find similar data?\nYes, we all saw the temperature increase.\nSuggested prompt\nSample student response\nWe saw that a gas was produced during the investigation, and there was a warning about it on the MRE heater package. Additionally we noticed that there was a loss in mass from when we started heating it and after it was warming for 15 minutes. Based on what we figured out with the bath bombs, what claim do we now have evidence for about what is making the flameless heater work?\nThis is a chemical reaction. The package told us that the gas is hydrogen, which is not one of the original ingredients; so the molecules of those reactants must have split apart, and the atoms rearranged to form that new product.\nWe also know that the gas was part of the MRE before because after the reaction it weighs less.\nWhat about the hand warmer? We didn’t really see or hear any gas escaping. Were you able to collect any evidence to support the claim that this device is also undergoing a chemical reaction?\nWe collected data that showed the heater actually got heavier, and when we observed photos of the stuff inside, there was a color change.\nThis is also a chemical reaction; so the molecules of those reactants in the ingredient list must have split apart, and the atoms rearranged with something in the air to form that new product.\nWe also think the extra mass came from a new substance that was a different color, and it probably came from molecules that came from the air.\nThis substance wasn’t part of the hand warmer before because after the reaction it weighed more.\nOK, so we saw the temperature increase for both devices, and we are in agreement that each of these devices had substances that were undergoing a chemical reaction. What can we say about energy flow as a result of this reaction?\nWhen the chemical reaction happens, energy is flowing from the chemical reaction to its surroundings.\nLet’s think back to the Energy Transfer Model we created. How could we represent energy flow for these investigations?\nWe could show an arrow leaving the substances that were reacting and going to the surroundings.\nWe could have an arrow from the surroundings to the thermometer (making the temperature increase).\nUniversal Design for Learning: Students may benefit from sentence starters to help them express what they see. Consider providing some sentence or question starters such as these:\nThe evidence that supports that a chemical reaction (was or was not) happening in the (flameless heater or hand warmer) was _________.\n__________ supports the idea that a chemical reaction (did or did not) happen in the (flameless heater or hand warmer) because _________.\nWhat data did you look for to support the idea that a chemical reaction was or was not happening in the device?",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L02-AO2.html"
+      }
+    },
+    {
+      "id": "72-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for: See Key Ideas above",
+      "shortTitle": "Look for: What to look and listen for: See Key Ideas above",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B.1 Develop a model to describe how energy is transferred between different parts of our reaction system to inform the next steps of the design process.",
+      "lookListenFor": "What to look and listen for: See Key Ideas above.",
+      "whatToDo": "What to do: Students may still want to use the flameless heaters in their designs. Ask questions about what they found out about the substances in the MRE heater to help them use that information to motivate the need to find a different chemical reaction. If students are having trouble tracking the energy flow, refer them to the arrows we added to the Thermometer Model and work backwards from there to find the place the energy was transferring from. An important part of the discussion that may not come naturally is the definition of the system containing only the atoms that are rearranging as part of the chemical reaction. Refer to your temperature investigation setups and problematize the idea of figuring out what particles we were measuring the temperature of. Can we measure only the products and/or reactants? No, but we do have evidence that their immediate surroundings changed temperature so energy must have been transferred from somewhere. What is the only system that makes sense?\nSuggested prompts\nSample student responses\nFollow-up questions\nWhat parts do we need to include in our homemade heater design?\nSubstances that will undergo a chemical reaction.\nContainer to keep the food separate from the substances used to heat it up.\nA container or something to hold it all together so energy doesn’t just transfer to the environment.\nGreat, how should we label these parts?\nWe have several different parts of our system, what else do you think might be important to show?\nWe can show how the temperature changed.\nWe need to show energy flow.\nHow do we want to show that on our model?\nShould we have a key to help us keep track of the symbols we are using?\nWhere are all the places on our model we should show these arrows?\nFrom the reaction system to the food.\nFrom the reaction system to the packaging.\nFrom the reaction system to the outside environment.\nWhat directions should those arrows be going?\nDo we want as much energy going to these other systems as to our food?\nNo, we want most of the energy to go from the reaction system to the food system.\nIs there a way we could use the arrows to show more and less energy transfer?\nSuggested prompts\nSample student responses\nFollow-up questions\nSo far this model is tracking energy flow between these systems in our potential homemade heater. Let’s also keep track of what is actually happening as a result of that energy transfer.\nWhen the energy goes from one system to the next, the temperature changes.\nLook back at the Energy Transfer Model. What was actually going on with the particles when we saw the temperature change?\nSo where on the model should I write that particles are moving faster or slower?\nThe end of the arrow in the direction of energy flow should have particles moving faster.\nThe other end should have them moving slower.\nShould we add the mechanism too? How did some particles get faster and others get slower?\nSuggested prompts\nSample student responses\nFollow-up questions\nOK, so it looks like we have the reaction system with particles moving slower. But wait, I thought we said the temperature increased when the reaction happened.\nWhat do we need to note about the particles to show the temperature increase?\nIt did get warmer.\nWe need to show the particles get faster.\nGreat, but how would they just start moving faster?\nWhen particles move faster, we said we must have an arrow showing the flow of energy into that system, right? Where would this arrow come from?\nIt’s coming from the chemical reaction.\nSo do you think this is all the same system?\nWhen our thermometer was in the investigation setup, what particles was it measuring?\nWe were measuring the reaction system.\nIs the reaction system the same as the chemical reaction?\nWere all the particles in the cup involved in the reaction?\nThink about physically where the thermometer was.\nWe remember from Bath Bombs Unit that a chemical reaction is when the atoms in a substance rearrange to form a new substance, right?\nDo you think it is i…",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L02-AO3.html"
+      }
+    },
+    {
+      "id": "72-3-ao-4",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Student models that represent the direction o…",
+      "shortTitle": "Look for: Student models that represent the direction o…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Develop a model to describe and/or explain the unobservable mechanism related to chemical reactions and the flow of energy to or from the reaction system and its surroundings.",
+      "lookListenFor": "What to look for/ listen for:\nStudent models that represent the direction of energy transfer out of the reaction system\nStudents’ relative representation of temperature changes as energy flows out of reaction systems and into food systems\nStudent responses to questions you pose as you monitor student pairs as they develop their models",
+      "whatToDo": "What to do: This is the second time assessing this LLPE. You will also assess it at the end of this class. Listen as students respond to questions about energy transfer and how that changes based on the amount of matter (number of particles) in the reaction system. Pose questions to students for clarification of their thinking about energy flow between systems. Encourage students to think about amounts of energy relative to the first, 1X/1X model and use “greater than”, “less than”, or “about equal to” when describing the amount of energy transfer.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L03-AO4.html"
+      }
+    },
+    {
+      "id": "72-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Students propose moving forward with the root…",
+      "shortTitle": "Look for: Students propose moving forward with the root…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for and listen for\nStudents propose moving forward with the root killer and aluminum foil in saltwater reaction as the best candidate for trying in their homemade flameless heater because it causes the greatest temperature increase.\nStudents identify the direction of energy flow into or out of the reaction system based on the temperature changes.\nWhat to do\nIf students are having a hard time deciding which exothermic (warming) reaction with which to move forward, ask them to consider the mass of the solid substances in addition to the maximum temperature change. The root killer and aluminum reaction causes a larger temperature increase for a lower mass of solid reactants.\nStudents will track the flow of energy into and out of the reaction systems. This is the focus CCC that students will be using in this activity. If students struggle with this task, especially for the endothermic reaction, there will be additional opportunities for them to master this concept.\nHOME LEARNING OPPORTUNITY\nInstruct students to finish recording energy flow and answering sensemaking questions on Class Data for Chemical Reactions Lab. Make sure that all students have the entire set of class data and the sensemaking questions available so that they can analyze the results as a whole.",
+      "whatToDo": "Building towards 3.A.2: Collect data that support choosing the chemical reaction that has the ability to transfer the most energy to the food system.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L03-AO2.html"
+      }
+    },
+    {
+      "id": "72-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Students work effectively as a team to measur…",
+      "shortTitle": "Look for: Students work effectively as a team to measur…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Collect data that support choosing the chemical reaction that has the ability to transfer the most energy to the food system.",
+      "lookListenFor": "What to look for and listen for\nStudents work effectively as a team to measure and record temperature data vs. time by staying focused on their roles.\nStudents calculate the maximum temperature change for each amount of substances in their group’s chemical reaction and report the appropriate sign (+ or - to indicate that the reaction caused an increase in temperature or a decrease).\nAll groups, except those with cabbage juice and vinegar, identify that the magnitude of the temperature change increases as the amount of substances increases. The cabbage juice and vinegar group identifies that very little temperature change occurred regardless of the amounts of substances.\nStudents identify that energy is being transferred out of the reaction system and into the thermometer when the temperature is increasing.\nStudents identify that energy is being transferred from the thermometer into the reaction system when the temperature is decreasing.\nWhat to do\nRemind students to take responsibility for their group roles and to support others as needed once their tasks are complete.\nIf students are struggling to determine the maximum temperature change for the reaction that causes a temperature decrease and has a negative value (baking soda in vinegar), have them create a number line to see that temperature changes can occur in either direction.\nAsk questions about the direction of energy flow between each reaction and the thermometer to start students thinking about energy. This will help them with the questions at the end of the handout, Class Data for Chemical Reactions Lab.\nDo not be concerned at this time if students are not able to explain the direction of energy transfer between the thermometer and the reaction system when the temperature decreases. If they cannot correctly identify the direction of energy transfer with this investigation, be patient with them. There are multiple opportunities for students to grapple with these ideas that are often counterintuitive.\nWork in small groups to transfer data to the handout. As small groups are finishing their investigations, hand out Class Data for Chemical Reactions Lab and ask students to complete the rows for their group’s chemical reaction. Point out that Class Data for Chemical Reactions Lab provides instructions on how to determine the maximum temperature change. This will be a negative number (indicating a decrease in temperature) for groups investigating the baking soda and vinegar reaction. Provide additional support to those groups as needed.\nShare data from small groups in a class data chart. Display slide K and enter class data directly into the whole-class data table as each small group shares their data. You could also create the whole-class data table on a whiteboard or chart paper. Ask students to add data to their own copy of Class Data for Chemical Reactions Lab as groups share.\nUniversal Design for Learning: Having roles allows for clear, tangible ways to actively participate and can lead to more-equal participation for all students, which supports student engagement. Roles can be assigned with special attention to student learning styles or strengths to increase student confidence. Roles should be clearly defined and include meaningful responsibilities essential to the task.\nIn this part of the lesson the suggested roles are responsibilities to ensure the lab gets completed with reliable data and within the allotted amount of time. There are three different amounts of substances each group will be testing and only one thermometer and scale per group. For this reason, the suggested roles at this moment are to help the group manage their work flow, rather than intellectual roles such as Idea Connector or Evidence Wrangler. However, using intellectual roles is encouraged during sensemaking sections of the lesson and throughout the unit.",
+      "whatToDo": "",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L03-AO1.html"
+      }
+    },
+    {
+      "id": "72-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for",
+      "shortTitle": "Look for: What to look and listen for",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Develop a model to describe and/or explain the unobservable mechanism related to chemical reactions and the flow of energy to or from the reaction system and its surroundings.",
+      "lookListenFor": "What to look and listen for\nStudents who can represent or describe the chemical reaction at a particle level\nStudents who connect the particle-level interactions to the transfer of energy to or from the chemical reaction\nWhat to do\nListen as students respond to questions about energy transfer and how that is related to particle interactions.\nMonitor students as they are labeling and discussing the model with the class.\nPose questions to students for clarification of their thinking about energy flow between systems or between subsystems and systems.\nNavigate to the next class. Say, Our focus is on the transfer of energy from the reaction system to the food system even though we know that there is energy transferred to other places like the air, the cup, et cetera. (Point to the recent Energy Transfer Model.) In the next class we will focus on just the energy transfer between systems.",
+      "whatToDo": "",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L03-AO3.html"
+      }
+    },
+    {
+      "id": "72-3-ao-5",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: What to look and listen for",
+      "shortTitle": "Look for: What to look and listen for",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Develop a model to describe and/or explain the unobservable mechanism related to chemical reactions and the flow of energy to or from the reaction system and its surroundings.",
+      "lookListenFor": "What to look and listen for\nStudent models that represent the direction of energy transfer out of the reaction system\nStudent captions that explain what their model shows about energy transfer and the direction the energy flows\nStudent relative representation of temperature changes as energy flows out of reaction systems and into food systems",
+      "whatToDo": "What to do: Listen as students respond to questions about energy transfer and how that changes based on the amount of matter (number of particles). Collect and read captions for each of the reaction and food systems. Pose questions to students for clarification of their thinking about energy flow between systems. If students struggle to represent the flow of energy, encourage them to think back to previous units that represented energy with arrows. Students that are excelling, encourage them to think of additional ways to represent their ideas or additional details to add to their models that would better explain the phenomenon.\nA completed table for your reference is shown in Answer Key for Models and Captions.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L03-AO5.html"
+      }
+    },
+    {
+      "id": "72-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: Refer to the Key Ideas box above",
+      "shortTitle": "Look for: Refer to the Key Ideas box above",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B Analyze data to identify patterns in numerical relationships and images to define an optimal proportion of reactants that result in the greatest temperature change and greatest conversion to products.",
+      "lookListenFor": "What to look for: Refer to the Key Ideas box above.",
+      "whatToDo": "What to do: If students are struggling to connect what they see with the remaining solids and liquids after the reaction to their temperature change results, draw attention to the reaction equation and pose questions, such as these:\nWhat did the reactants look like before?\nHow does that compare to what is left afterward?\nHow does the pattern in appearance of the products (what is left afterward) correlate with the temperature change pattern?\nUniversal Design for Learning: Use this opportunity to identify examples of vocabulary from students’ own contexts. Have students think about how words we use every day can have similar and different meanings in an engineering context. This move can increase student engagement by broadening the class mission to explain not only the use in our classroom engineering context but also familiar everyday contexts.\nUniversal Design for Learning: Students can use a calculator to help determine the percentages. Allowing alternatives for use of tools, such as a calculator, can remove barriers for students in expressing their understanding by keeping the focus on the learning goal (in this case determining the relative proportions of each reactant so that we can use that in our designs). Use of such tools can help provide a match between a student’s abilities and the demands of the task.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.2 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L04-AO2.html"
+      }
+    },
+    {
+      "id": "72-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: See Key for Analyzing Our Data Collection Met…",
+      "shortTitle": "Look for: See Key for Analyzing Our Data Collection Met…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A. Evaluate and use accurate methods of data collection to define an optimal proportion of reactants that result in the greatest temperature change and least amount of reactants left over.",
+      "lookListenFor": "What to look for: See Key for Analyzing Our Data Collection Methods for sample student ideas.",
+      "whatToDo": "What to do: If students are struggling with articulating why examining the solids and liquids after the reaction is useful in answering our question, cue them to look at the chemical equation and identify what we end up with at the end (copper and no aluminum by itself). Pose questions, such as, “If there is a lot of aluminum left, what does that mean in terms of the reaction?” If students don’t suggest comparing their remaining solids and liquids to those of other groups, refer to different blue objects in the classroom, and ask for different students to describe the colors. This should help reveal the need to compare to more-accurately describe the solution.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.2 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L04-AO1.html"
+      }
+    },
+    {
+      "id": "72-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: Individual student notations, including tags,…",
+      "shortTitle": "Look for: Individual student notations, including tags,…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.1 Analyze data by identifying patterns to define an optimal operational range for our homemade flameless heater designs that best meets criteria for success because the more precisely a design task’s criteria and constraints can be defined, the more likely it is that the designed solution will be successful.",
+      "lookListenFor": "What to look and listen for:\nIndividual student notations, including tags, that align to the three focal questions\nStudents using what they learned to build on the information presented by teammates that was obtained across the three resources\nStudents using patterns they have identified to define upper and lower limits of the temperature range to which the food should be warmed",
+      "whatToDo": "What to do: Circulate during individual work time and remind students to use the tags and question prompts to focus their reading and notes. Consider providing a checklist with the focal questions and symbols (as shown on slide B) for students to check off as they read. As students are sharing information in small groups, encourage them to use the specific notes they recorded to contribute to the small-group discussion. As you circulate, use the question prompts to keep student conversation moving forward.\nUniversal Design for Learning. Asking students to annotate the readings with symbols or tags can help students manage information so that they can express their understanding. Students may need additional support in obtaining information from the provided readings. Consider including any of the following options to support students who read below grade-level:\nHave students work with a partner as they read and annotate their assigned reading.\nStrategically assign particular readings based on student reading level and interest. Alternatively, assign only the first page of handout or student reference Reading: What temperature range makes food enjoyable to eat?, which includes only the taste test results in table form, to students who may benefit from focusing on just the visual display of data.\nProvide a checklist with the 3 focal questions and their tags for students to use as they read. See slide B.\nAllow for a competent aide, partner, or “intervener” to read the text aloud.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L05-AO1.html"
+      }
+    },
+    {
+      "id": "72-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: See Key Ideas above",
+      "shortTitle": "Look for: See Key Ideas above",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.2 Analyze data by identifying patterns to define an optimal operational range for our homemade flameless heater designs that best meets criteria for success because the more precisely a design task’s criteria and constraints can be defined, the more likely it is that the designed solution will be successful.",
+      "lookListenFor": "What to look for: See Key Ideas above.",
+      "whatToDo": "What to do: If students struggle to identify the key ideas, cue them to look back at the annotations on their readings and identify places where they used specific symbols. Refer to slide B as needed to remind students of the symbols and associated focal questions.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.2 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L05-AO2.html"
+      }
+    },
+    {
+      "id": "72-6-engineering-design-rubric",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Engineering Design Rubric",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 06 — Engineering Design Rubric.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.2 Lesson 6 Assessment Engineering Design Rubric.docx",
+        "teacherGuide": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/7.2 Lesson 6 Answer Key Exit Ticket Key.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScKBy64MvnA1SzTkJJPIsmU0gWJ0cU2qgGNBuq4e-dsYC-6RA/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "72-6-teamwork-self-assessment",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Teamwork Self-Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 06 — Teamwork Self-Assessment.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.2 Lesson 6 Assessment Teamwork Self-Assessment.docx",
+        "teacherGuide": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/7.2 Lesson 6 Answer Key Exit Ticket Key.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSd4JLYmsIxbBjjn4Lc0PcuTs-7NWre8Z1kTut2wPqbTEjeWwQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "72-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Design Must-Haves",
+      "shortTitle": "Design Must-Haves",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A.1 Undertake a design project to construct and test a solution that meets specific design criteria and constraints, including the transfer of energy.",
+      "lookListenFor": "What to look for and listen for: Teams’ designs should include all the characteristics listed on Design Must-Haves regarding criteria and constraints and also a sketch showing the particles of the substances in the flameless heater reaction colliding with particles of the container(s) and the food to show how that transfer of energy happens.",
+      "whatToDo": "What to do: If a team’s design does not include characteristics related to the criteria and constraints (such as cost or type of materials used), remind the team to go back and add those. If a team is struggling to calculate the amount of reactants they want to use, suggest that they base their plans on prior test results, such as those from Lesson 4 (that 6 grams of total reactants in the most efficient proportion was able to heat up significantly) and consider if they might double or triple that amount (knowing that they will need more energy to heat more food). If a team’s design does not include the energy transfer at the particle level, it may be helpful to refer to the initial consensus model you made as a class in Lesson 1 that shows how the MRE heater’s particles were moving and ask the team to consider how that might be similar to their design. If these students experienced the previous unit, OpenSciEd Unit 6.2: How can containers keep stuff from warming up or cooling down? (Cup Design Unit), referring to Modeling What Is Happening at the Cup Wall can help remind students about the models they drew of their cups showing the energy transfer at a particle level.\nAn example design is shown here, but please note that there will be many potential successful designs; there is not one correct solution to this task.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.2 Lesson 6 Handout Design Must-Haves.docx",
+        "teacherGuide": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L06-AO1.html"
+      }
+    },
+    {
+      "id": "72-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Design Must-Haves",
+      "shortTitle": "Design Must-Haves",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A.2 Undertake a design project to construct and test a solution that meets specific design criteria and constraints, including the transfer of energy.",
+      "lookListenFor": "What to look for and listen for: Collect Engineering Design Rubric from teams and use Engineering Design Rubric to do your own formative assessment on each team's design solution.",
+      "whatToDo": "What to do: At this point in the unit, this rubric rating should be considered a formative assessment as students will have more experiences with engineering design in upcoming lessons. For example, teams will likely all score no evidence or missing on “Combining parts of design solutions” in this lesson because they will not have had a chance to compare their design with other teams’ designs until Lesson 7. Likewise, it is not expected that teams will be at the secure level for “Optimizing design solutions” until Lesson 9 when they have had a chance to redesign based on their work leading up to that lesson. When teams (and you) reassess their work in Lesson 9 using this same rubric, they should be able to show growth in these engineering design practices.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.2 Lesson 6 Handout Design Must-Haves.docx",
+        "teacherGuide": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L06-AO2.html"
+      }
+    },
+    {
+      "id": "72-6-ao-3",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Design Must-Haves",
+      "shortTitle": "Design Must-Haves",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Apply scientific ideas, results from testing designs, and the interactions identified on system models to modify our designs in order to improve the flow of energy to food.",
+      "lookListenFor": "What to look and listen for: Students should be able to connect and compare the results from testing their designs to the Energy Transfer Model. Students should be able to identify and map the different components in their designs to the different systems in the Energy Transfer Model. Students should then be able to update their designs and explain ways to optimize the energy flow to the food. See Exit Ticket Rubric for additional information.",
+      "whatToDo": "What to do: If you notice that students are struggling with finding ways to optimize and improve their designs, follow up with these students in Lesson 7 as they compare and discuss in groups the differences in designs. Ask students to think about how these differences in designs impact how energy is being transferred to the food. Students will have another opportunity in Lesson 9 to connect their final designs to the Energy Transfer Model. So you can take that opportunity to revisit this idea and ask the students how each of their different models is helping them plan and test their proposed designs.\nAdditional Lesson 6 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.CONTENT.6.RP.A.3 Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.\nCCSS.MATH.CONTENT.6.RP.A.3.A Make tables of equivalent ratios relating quantities with whole-number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.\nDuring this lesson and Lesson 9, students will scale up the amount of reactants to use in their homemade heaters but maintain the same proportion of reactants they found to be most efficient in previous testing.\nCCSS.MATH.CONTENT.6.RP.A.1 Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. For example, \"The ratio of wings to beaks in the bird house at the zoo was 2:1, because for every 2 wings there was 1 beak.\" \"For every vote candidate A received, candidate C received nearly three votes.\"\nCCSS.MATH.CONTENT.6.RP.A.3.D Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.\nDuring this lesson and Lesson 9, students will need to calculate the correct amounts of hydrated water beads and plain water to make “water bead soup” as a proxy for food in their prototype heaters. The ratio of water beads to plain water is 1:3 (1 part water beads to 3 parts water), and students will measure the beads and water in grams.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.2 Lesson 6 Handout Design Must-Haves.docx",
+        "teacherGuide": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L06-AO3.html"
+      }
+    },
+    {
+      "id": "72-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Peer Feedback on",
+      "shortTitle": "Peer Feedback on",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.1 Respectfully provide and receive critiques about design solutions to evaluate competing designs with respect to how they meet criteria and constraints and consider patterns across multiple designs to determine which design characteristics caused more-effective outcomes in performance.",
+      "lookListenFor": "What to look for\nStudents cite evidence to support the performance of different design characteristics.\nStudents share and partner teams ask clarifying questions to elicit details that reveal why a particular design feature causes improved performance.\nWhat to do\nIf students are struggling to back up their ideas with evidence, direct them to Design Testing Matrix.\nStudents should also be encouraged to ask clarifying questions that reveal underlying reasons for how particular characteristics performed. Provide sentence starters, such as those listed above, to support students in this task.\nCOLLABORATION\nTo keep the focus of sharing and feedback on identifying successes, make careful decisions about which groups are paired together. Pair teams that had similar levels of success in Lesson 6 and avoid pairing teams with the highest functioning and lowest functioning designs together. To save time, determine and post partner teams before class.",
+      "whatToDo": "",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_7/original/7.2 Lesson 7 Handout Peer Feedback on.docx",
+        "teacherGuide": "lesson_7/original/7.2 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L07-AO1.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "72-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Peer Feedback on",
+      "shortTitle": "Peer Feedback on",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.1 Respectfully provide and receive critiques about design solutions to evaluate competing designs with respect to how they meet criteria and constraints and consider patterns across multiple designs to determine which design characteristics caused more-effective outcomes in performance.",
+      "lookListenFor": "What to look for\nStudents cite evidence to support the performance of different design characteristics.\nStudents are able to support any claims they make with evidence and reasoning.\nStudents are asking questions to elicit details important to meeting the criteria and constraints.\nStudents also have the opportunity to respond to clarifying questions.\nStudents identify design features that cause more-effective outcomes in the performance of their MRE.\nWhat to do\nIf students are struggling to back up their ideas with evidence, direct them to Design Testing Matrix.\nStudents should also be encouraged to ask clarifying questions that reveal underlying reasons for how particular characteristics performed.\nIf students give feedback such as “sounds good” or “unclear,” ask the receiver if the feedback will help them improve their design or if more specifics would be helpful. Students will likely share that this more-general feedback is not extremely helpful but that more-specific feedback about what was good or what parts were unclear would help them improve their designs. This exchange will help students give more-productive feedback and critique to their peers.\nWhen you question students, use questions such as “What design feature do you think caused the MRE to perform as it did?” or “What pattern do you identify in these tests that is similar and how did that cause the MRE prototype to perform the way it did?” Emphasizing the cause-and-effect relationship that students identify by seeing patterns in the data is the CC emphasized in this lesson.\nBegin a discussion by asking, Can someone share a design characteristic they saw or heard about from a partner team that they'd like to try in their team’s design or that they think might improve the performance of their team’s design?\nSome examples may include the following:\nDesign characteristic\nWhat was promising?\nWhat were the trade-offs?\nWhy was it effective?\nReactants were in a cylinder that food surrounded.\nThis really helped it get to a high temp (49ºC), but it pushed the cost over $3.\nIt maximizes contact between reactants and food.\nThey used all-glass containers.\nIt held the temperature for a long time and didn’t use that many reactants to get to temperature.\nThe glass insulated the heat so that the energy couldn’t be transferred out.\nThey used all plastic.\nThis made the design lightweight, but heat transferred away from the food to the environment too quickly.\nLightweight materials would make the homemade heaters easier to carry and allow more weight to be used for food or reactants.\nThe amount of food was 150 grams.\nThis made less food to heat up, but it might not be enough food to fill everyone up.\nLess food to heat up means that less energy transfer is required from the heater system to the food system.\nImages were included with each step of the instructions.\nThis helped us understand the how-to instructions a lot better but will take time to do. It might push up the cost of instructions.\nVisual images will work for any language that people use. Also, a visual helps communicate details that words cannot easily describe.\nKeep track of promising ideas for design characteristics on the chart paper and help students connect to the criteria and constraints on Design Testing Matrix by asking which criterion or constraint(s) the design characteristic addressed as they share. Highlight patterns by asking students to identify them as teams share ideas. As they identify patterns, encourage them to identify design characteristics that caused the design to perform well or meet the criteria.\nAfter each team has an opportunity to share, review the chart and engage students in a discussion using the example dialog below.\nSuggested prompts\nSample student responses\nFollow-up questions\nDid we address all of our criteria and constraints?\nYeah, most of them.\nWhich ones do we have promising ideas for?\nDo we have a promising idea for cost?\nYes, one team cut costs by using an oatmeal bowl!\nWhat other…",
+      "whatToDo": "",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_7/original/7.2 Lesson 7 Handout Peer Feedback on.docx",
+        "teacherGuide": "lesson_7/original/7.2 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L07-AO2.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "72-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Discussion Diamond Graphic",
+      "shortTitle": "Discussion Diamond Graphic",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Systematically evaluate competing design solutions based on jointly developed and agreed-upon design criteria using systematic processes to show how small changes in one design characteristic might cause unexpected changes in other design characteristics.",
+      "lookListenFor": "What to look for\nAs students are explaining their top two changes in teams, listen for each team member using the data from previous investigations and how those relate to the criteria and constraints to justify their choices.\nAs teams begin their consensus discussion, listen for students to surface potential negative effects of changes as they decide on which changes are best to implement.\nLook to see they are using their Design Testing Matrix to support their arguments.\nWhat to do\nCirculate while teams are working to look at individual student notebook entries and listen for discussions during consensus building that are explicitly considering whether the changes will ensure the device will still align with the criteria and constraints. If students are only using the data to talk about more or less energy transfer, ask probing questions about why those data can be used as evidence to support their ranking to encourage them to put the data in the context of the criteria and constraints.\nIf you don’t hear students pushing back against others’ ideas for changes during the consensus discussion, look at team members' written responses to find differences in suggested changes and set these changes up against each other while encouraging students to weigh in. Prompt them to check their Design Testing Matrix to consider any potential negative effects of a change (in addition to the positive effects that relate to the criteria and constraints). Use prompts similar to those below to encourage students to use evidence to be critical of choices:\nIt looks like there are some ideas for changes that are the same, but there are several ideas that are different. Are all the effects of each of these changes equal?\nHow are the other criteria and constraints affected when these changes are made?\nDo any of these changes have some possible negative effects?\nHow can we know if a positive effect of a change outweighs the possible negative effects?\nDiscuss the consensus process and how to be more confident with their design choices. Ask students how they felt about the process of reaching consensus on the criteria they thought were important to change. Display slide E. Say, Many of you may feel like you need more time to talk these ideas through and haven’t yet come to a consensus. That is OK. We will have more time to consider these decisions, but let’s take a moment to take stock of our progress. Turn and talk with a neighbor to discuss these prompts:\nHow did you feel about the consensus process?\nWere there any disagreements about which of the criteria to change or how to change them?\nAre you sure you are making the best decision?\nHow did using your Design Testing Matrix help you have purposeful discussions?\nWhat would we need to do to be confident we were making the decisions that would optimize our design?\nSuggested prompt\nSample student responses\nAs I walked around the room during the team discussions, I noticed that some teams came to consensus relatively easily, while others had a harder time making a decision about which criteria or constraints to change. I heard similar patterns during this discussion as well. What did you all talk about in your teams?\nOur team pretty much had the same two things that we all wanted to change, but we just wanted to change it slightly differently.\nOur team couldn’t really decide; some people thought certain criteria were a lot more important than others.\nIt was hard to make a decision sometimes because some people just cared about certain parts of the design more than other parts.\nIt’s hard to make a final decision without seeing exactly if the design will work better or if there is something that we won’t expect.\nUniversal Design for Learning: Working memory is very limited for any learner and even more-severely limited for many learners with learning and cognitive disabilities. Providing a graphic organizer, reminding students to refer to other documents for evidence, and embedding prompts for all students…",
+      "whatToDo": "",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_8/original/7.2 Lesson 8 Handout Discussion Diamond Graphic.docx",
+        "teacherGuide": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L08-AO1.html"
+      }
+    },
+    {
+      "id": "72-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: As students are constructing the charts, list…",
+      "shortTitle": "Look for: As students are constructing the charts, list…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Evaluate competing design solutions based on jointly developed and agreed-upon design criteria using systematic processes to show how small changes in one design characteristic might cause unexpected changes in other design characteristics.",
+      "lookListenFor": "What to look for: As students are constructing the charts, listen for teams using cause-and-effect relationships to predict outcomes that are not on their Design Testing Matrix. Look for arms in the organizer to branch (a cause having more than one effect) and for there to be a series of boxes more than just one step removed from the cause (cascading consequences).",
+      "whatToDo": "What to do: Circulate while teams are working to look and listen for discussions that are explicitly mentioning cause-and-effect relationships. Encourage this practice with prompts, such as the following:\nHelp me understand what I’m seeing—what things did you change? What was affected by that change?\nHow did such a small change to ___ have such a big effect on ___?\nDoes this change cause a positive, negative, or neutral consequence?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L08-AO2.html"
+      }
+    },
+    {
+      "id": "72-8-ao-3",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Stakeholder Impact Chart",
+      "shortTitle": "Stakeholder Impact Chart",
+      "peCode": "8.B",
+      "buildingTowards": "Building towards: 8.B Prioritize criteria and consider trade-offs that occur as a result of design changes to decide which changes to incorporate for the optimal homemade heater design.",
+      "lookListenFor": "What to look for\nDuring the team discussion to come to consensus on design changes, listen for students weighing the costs and benefits of making specific design changes and how the improvement in the design would outweigh any other negative impacts to stakeholder interests. Listen for how teams are coming to consensus in the event that they still don’t agree on which criteria to change.\nLook for individual student responses justifying the choices they made to modify their design. They should include mention of how design features perform with respect to the criteria and constraints we defined, an explanation of the stakeholders who were affected by the changes, and a discussion of how the impacts on stakeholders weighed into their final decision.\nWhat to do\nDuring the team discussion, ask probing questions, such as the following:\nIn what ways does _______ change ______?\nWhat evidence from the Consequences Chart helped you come to consensus?\nWhich stakeholders are most impacted by the change? In a positive, negative, or neutral way?\nDoes everyone agree which stakeholder interests are most important?\nHow did you navigate which criteria and constraints to change when your whole team didn’t agree? What was the strongest argument made for or against a certain change?\nFor individual responses, consider providing parallel examples to help struggling students see what a complete justification looks like with each required part of the parallel justification identified. Encourage students to highlight on the Stakeholder Impact Chart the important ideas that they want to include in their response. You may find or create sentence stems to help students get started with each section of the justification.\nAdditional Lesson 8 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.SL.7.1.B Follow rules for collegial discussions, track progress toward specific goals and deadlines, and define individual roles as needed.\nCCSS.ELA-LITERACY.SL.7.1.D Acknowledge new information expressed by others and, when warranted, modify their own views.\nDuring this lesson, students will continue to follow expectations for teamwork, with the added challenge of making decisions about how to modify their designs. Students will work together to discuss and construct a chart of cascading consequences, which will provide a way to track their thinking about each proposed design change toward the goal of an improved design. The team will have to come to a consensus about the changes they will enact, which will require them to acknowledge the ideas of their teammates and possibly modify their own views about what ideas will best improve their design.",
+      "whatToDo": "",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_8/original/7.2 Lesson 8 Handout Stakeholder Impact Chart.docx",
+        "teacherGuide": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L08-AO3.html"
+      }
+    },
+    {
+      "id": "72-9-engineering-design-rubric",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "title": "Engineering Design Rubric",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 09 — Engineering Design Rubric.",
+      "files": {
+        "studentHandout": "lesson_9/original/7.2 Lesson 9 Assessment Engineering Design Rubric.docx",
+        "teacherGuide": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdYkw5E5OOBjqNsKgq-BpWa9PfPa9-Yelp7e5mXDK8ygQML6g/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "72-9-teamwork-self-assessment",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "title": "Teamwork Self-Assessment",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 09 — Teamwork Self-Assessment.",
+      "files": {
+        "studentHandout": "lesson_9/original/7.2 Lesson 9 Assessment Teamwork Self-Assessment.docx",
+        "teacherGuide": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfsLf4IhJsvOjenaMOb_SxlXbIO-iTaqBVxFlBg20R89ZCAag/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "72-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Design Must-Haves",
+      "shortTitle": "Design Must-Haves",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Communicate technical information in writing about how to transfer energy through a system that was designed to perform better than any of its predecessors by using parts of different solutions.",
+      "lookListenFor": "What to look for and listen for: Teams’ how-to homemade heater instructions that are intended for stakeholder-users should be clear and easy to follow and should include, but are not limited to, the following items listed on How-To Instructions Must-Haves: amounts of reactants, types of materials to be used, and how to vent the gases.",
+      "whatToDo": "What to do: If a team’s how-to instructions do not include the items listed above, remind the team to go back and add those. If a team is struggling to write clear instructions, suggest that they number their instructions, think about instructions they have used before, and address the sticky-note feedback they received on the first iteration of their How-to Instructions Must-Haves in Lesson 7. If a team is still struggling, have them watch how-to videos as an example of helpful instructions. Once you approve the teams’ instructions, place your initials on How-To Instructions Must-Haves to indicate what parts you have approved.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_9/original/7.2 Lesson 9 Handout Design Must-Haves.docx",
+        "teacherGuide": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L09-AO1.html"
+      }
+    },
+    {
+      "id": "72-9-ao-2",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Design Must-Haves",
+      "shortTitle": "Design Must-Haves",
+      "peCode": "9.B",
+      "buildingTowards": "Building towards: 9.B Optimize performance of a design that represents systems and energy flows between systems by revising and retesting to incorporate characteristics of the most promising solutions.",
+      "lookListenFor": "What to look for and listen for: Teams’ designs should include all the characteristics listed on Design Must-Haves. This includes, but is not limited to:\njustification for amounts of reactants used\nreasons for any changes in materials\ntrade-offs considered when calculating cost and so forth\ntrade-offs based on Consequences Chart\nan Energy Transfer Model\na particle-level model",
+      "whatToDo": "What to do: If a team’s redesign does not include reasoning for their changes, remind the team to go back and look at their Consequences Chart from Lesson 8. Suggest that they base their changes on prior test results (theirs or another group’s). If any team is struggling to show the transfer of energy from the reaction system to the food system on their Energy Transfer Model or the particle-level model of their design, refer to the initial consensus model you made as a class (which shows how the MRE heater’s particles were moving) and the Energy Transfer Model from Lesson 3 (which includes a particle-level model) and ask the team to consider how those might be similar to their models. Teams could also think about how their material and reactant changes impacted their Energy Transfer Model from Lesson 6. If these students experienced OpenSciEd Unit 6.2: How can containers keep stuff from warming up or cooling down? (Cup Design Unit), referring to the models that they drew of the energy transfer happening with their cups may also be helpful.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_9/original/7.2 Lesson 9 Handout Design Must-Haves.docx",
+        "teacherGuide": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L09-AO2.html"
+      }
+    },
+    {
+      "id": "72-9-ao-3",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Design Must-Haves",
+      "shortTitle": "Design Must-Haves",
+      "peCode": "9.B",
+      "buildingTowards": "Building towards: 9.B Optimize performance of a design that represents systems and energy flows between systems by revising and retesting to incorporate characteristics of the most promising solutions.",
+      "lookListenFor": "What to look for and listen for: As teams reflect on their work in Lesson 9 to complete Engineering Design Rubric, make sure students are referring to their optimal design and the associated test results recorded on Design Testing Matrix in their science notebooks. At this point in the unit, this rubric rating can be considered a summative assessment, as students have had more experience with engineering design in this lesson and previous lessons.",
+      "whatToDo": "What to do: If students are struggling to identify where their team is on Engineering Design Rubric, ask them to point to specific evidence of a category and level of mastery on their optimal design and/or the partner-tested data on Design Testing Matrix. Ask them how they incorporated the most promising design components (Lesson 7) and thought through the consequences of design changes in Lesson 8. Push them to make an evidence-based argument for why they highlighted certain statements.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_9/original/7.2 Lesson 9 Handout Design Must-Haves.docx",
+        "teacherGuide": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L09-AO3.html"
+      }
+    },
+    {
+      "id": "72-10-design-testing-matrix",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Design Testing Matrix",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 10 — Design Testing Matrix.",
+      "files": {
+        "studentHandout": "lesson_10/original/7.2 Lesson 10 Assessment Design Testing Matrix.docx",
+        "teacherGuide": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/7.2 Lesson 10 Answer Key Key for Sea.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdfEVsKgCSsA0a-zCi8iXrsqpiZYicN5er-PK51eZTlNlm2yw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "72-10-form-a-sea",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Form A Sea",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 10 — Form A Sea.",
+      "files": {
+        "studentHandout": "lesson_10/original/7.2 Lesson 10 Assessment Form A Sea.docx",
+        "teacherGuide": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/7.2 Lesson 10 Answer Key Key for Sea.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdA3t-KM5ovuBfsizsxJhev6BVHponUiP6zh4NCMvJC6gVg8A/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "72-10-form-b-sea",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "title": "Form B Sea",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 10 — Form B Sea.",
+      "files": {
+        "studentHandout": "lesson_10/original/7.2 Lesson 10 Assessment Form B Sea.docx",
+        "teacherGuide": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": "lesson_10/original/7.2 Lesson 10 Answer Key Key for Sea.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfNaWdCsNjuMtMJEi2ZKBMJu11L21Nbc30gV5c_G_0DwUI4aQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "72-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: See detailed responses in Key for Sea Turtle…",
+      "shortTitle": "Look for: See detailed responses in Key for Sea Turtle…",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Draw and use an Energy Transfer Model to show how the energy is transferred between the reaction occuring in the heat pack and the system containing the turtle eggs.",
+      "lookListenFor": "What to look for and listen for\nSee detailed responses in Key for Sea Turtle Assessment.",
+      "whatToDo": "What to do: This is a summative assessment. However, if students need extra support, you can choose to allow them to use the classroom consensus model, their science notebooks, as well as their responses to the Exit Ticket from Lesson 6 to help them complete the sea turtle transfer task. Since the phenomenon they will be exposed to will be new, they will not find exact answers to the assessment in their notes, and allowing this support may help students make explicit connections to the work they did in class.\nThis assessment encourages students to demonstrate their understanding of key skills and concepts from the unit multiple modalities, including writing to explain and drawing models. There have been several opportunities to assess many of these elements throughout the unit. If any students have already demonstrated security in their ability to use system and system models to describe the transfer of energy, consider providing those students Form B: Sea Turtle Assessment. The standard assessment (Form A) has some scaffolds in place to help students begin their models. The alternate version (Form B) does not have any framed model starters.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-6",
+        "MS-ETS1-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.2 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-2/L10-AO1.html"
+      }
+    }
+  ]
+}

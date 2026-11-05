@@ -1,0 +1,1497 @@
+{
+  "unitId": "7.2",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 7",
+  "unitFolder": "7.2 Chemical Reactions & Energy",
+  "unitDriveFolderId": "1AavWeJjysic1VHgoeMZWjjdaFA2VqTMy",
+  "indexedAt": "2026-07-07T18:08:19.533Z",
+  "fileCount": 163,
+  "manifestPathCount": 74,
+  "matchedCount": 74,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "72-1-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+      "driveFileId": "1EGmljq4CwwKlpN91hvzF5Ap4aY2iuqVqkYTbxgiwINc",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Initial Design Reflection",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:19.573Z"
+    },
+    {
+      "assessmentId": "72-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14J8Ma-EVXASCiWH5WHd9jCPOBGYZlxOf5AwdnrATGo8",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.466Z"
+    },
+    {
+      "assessmentId": "72-1-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+      "driveFileId": "1EGmljq4CwwKlpN91hvzF5Ap4aY2iuqVqkYTbxgiwINc",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Initial Design Reflection",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:19.573Z"
+    },
+    {
+      "assessmentId": "72-1-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14J8Ma-EVXASCiWH5WHd9jCPOBGYZlxOf5AwdnrATGo8",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.466Z"
+    },
+    {
+      "assessmentId": "72-1-ao-4",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+      "driveFileId": "1EGmljq4CwwKlpN91hvzF5Ap4aY2iuqVqkYTbxgiwINc",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Initial Design Reflection",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:19.573Z"
+    },
+    {
+      "assessmentId": "72-1-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14J8Ma-EVXASCiWH5WHd9jCPOBGYZlxOf5AwdnrATGo8",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.466Z"
+    },
+    {
+      "assessmentId": "72-1-ao-5",
+      "field": "studentHandout",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Handout Initial Design Reflection.docx",
+      "driveFileId": "1EGmljq4CwwKlpN91hvzF5Ap4aY2iuqVqkYTbxgiwINc",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Initial Design Reflection",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:19.573Z"
+    },
+    {
+      "assessmentId": "72-1-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14J8Ma-EVXASCiWH5WHd9jCPOBGYZlxOf5AwdnrATGo8",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.466Z"
+    },
+    {
+      "assessmentId": "72-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14J8Ma-EVXASCiWH5WHd9jCPOBGYZlxOf5AwdnrATGo8",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.466Z"
+    },
+    {
+      "assessmentId": "72-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "13fW3PljdL9VBGHkuoPXxJG0jbPL9LXvs8equQyw5nf0",
+      "driveRelativePath": "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:28.813Z"
+    },
+    {
+      "assessmentId": "72-2-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "13fW3PljdL9VBGHkuoPXxJG0jbPL9LXvs8equQyw5nf0",
+      "driveRelativePath": "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:28.813Z"
+    },
+    {
+      "assessmentId": "72-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "13fW3PljdL9VBGHkuoPXxJG0jbPL9LXvs8equQyw5nf0",
+      "driveRelativePath": "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:28.813Z"
+    },
+    {
+      "assessmentId": "72-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "13fW3PljdL9VBGHkuoPXxJG0jbPL9LXvs8equQyw5nf0",
+      "driveRelativePath": "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:28.813Z"
+    },
+    {
+      "assessmentId": "72-3-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1M-P7tMrO4SxzprEQz4o4lP-7KZxVMRUa5wvgRorzCOE",
+      "driveRelativePath": "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:33.624Z"
+    },
+    {
+      "assessmentId": "72-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1M-P7tMrO4SxzprEQz4o4lP-7KZxVMRUa5wvgRorzCOE",
+      "driveRelativePath": "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:33.624Z"
+    },
+    {
+      "assessmentId": "72-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1M-P7tMrO4SxzprEQz4o4lP-7KZxVMRUa5wvgRorzCOE",
+      "driveRelativePath": "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:33.624Z"
+    },
+    {
+      "assessmentId": "72-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1M-P7tMrO4SxzprEQz4o4lP-7KZxVMRUa5wvgRorzCOE",
+      "driveRelativePath": "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:33.624Z"
+    },
+    {
+      "assessmentId": "72-3-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1M-P7tMrO4SxzprEQz4o4lP-7KZxVMRUa5wvgRorzCOE",
+      "driveRelativePath": "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:33.624Z"
+    },
+    {
+      "assessmentId": "72-4-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1uFJTzkX6NzAg1SX825yzq598939Q9S6kXNV2o1cdopk",
+      "driveRelativePath": "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:35.296Z"
+    },
+    {
+      "assessmentId": "72-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1uFJTzkX6NzAg1SX825yzq598939Q9S6kXNV2o1cdopk",
+      "driveRelativePath": "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:35.296Z"
+    },
+    {
+      "assessmentId": "72-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1HA65F85V2RYMIW_T6bbiW-Ek5koHGmdulMeLPvKIfWQ",
+      "driveRelativePath": "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:40.428Z"
+    },
+    {
+      "assessmentId": "72-5-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1HA65F85V2RYMIW_T6bbiW-Ek5koHGmdulMeLPvKIfWQ",
+      "driveRelativePath": "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:40.428Z"
+    },
+    {
+      "assessmentId": "72-6-engineering-design-rubric",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Assessment Engineering Design Rubric.docx",
+      "driveFileId": "1FpM9IXTm2lI8feurJk2EBU5SsaJYxvgsxsNX_tYQTVg",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Assessment Engineering Design Rubric",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:43.401Z"
+    },
+    {
+      "assessmentId": "72-6-engineering-design-rubric",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1jVVt2oKBm6sUh2zCpAQvTfUkUhPKcfykrqeoVUVJDiU",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.496Z"
+    },
+    {
+      "assessmentId": "72-6-engineering-design-rubric",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Answer Key Exit Ticket Key.docx",
+      "driveFileId": "1sz2IShEK4KRub24hLSAJvBaDuK3fA5leL25ixjgA5ZQ",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Answer Key Exit Ticket Key",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:42.628Z"
+    },
+    {
+      "assessmentId": "72-6-teamwork-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Assessment Teamwork Self-Assessment.docx",
+      "driveFileId": "14xpMRcF4CObcAId-lsqn7dx9TPvP_cB3q0gfoflCF8Y",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Assessment Teamwork Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:42.077Z"
+    },
+    {
+      "assessmentId": "72-6-teamwork-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1jVVt2oKBm6sUh2zCpAQvTfUkUhPKcfykrqeoVUVJDiU",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.496Z"
+    },
+    {
+      "assessmentId": "72-6-teamwork-self-assessment",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Answer Key Exit Ticket Key.docx",
+      "driveFileId": "1sz2IShEK4KRub24hLSAJvBaDuK3fA5leL25ixjgA5ZQ",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Answer Key Exit Ticket Key",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:42.628Z"
+    },
+    {
+      "assessmentId": "72-6-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Handout Design Must-Haves.docx",
+      "driveFileId": "17g9JwULsFfXsJ0xG34W8ktqZ3cHAsp-xFeZdy-rBSPQ",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Design Must-Haves",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:41.463Z"
+    },
+    {
+      "assessmentId": "72-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1jVVt2oKBm6sUh2zCpAQvTfUkUhPKcfykrqeoVUVJDiU",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.496Z"
+    },
+    {
+      "assessmentId": "72-6-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Handout Design Must-Haves.docx",
+      "driveFileId": "17g9JwULsFfXsJ0xG34W8ktqZ3cHAsp-xFeZdy-rBSPQ",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Design Must-Haves",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:41.463Z"
+    },
+    {
+      "assessmentId": "72-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1jVVt2oKBm6sUh2zCpAQvTfUkUhPKcfykrqeoVUVJDiU",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.496Z"
+    },
+    {
+      "assessmentId": "72-6-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Handout Design Must-Haves.docx",
+      "driveFileId": "17g9JwULsFfXsJ0xG34W8ktqZ3cHAsp-xFeZdy-rBSPQ",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Design Must-Haves",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:41.463Z"
+    },
+    {
+      "assessmentId": "72-6-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1jVVt2oKBm6sUh2zCpAQvTfUkUhPKcfykrqeoVUVJDiU",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.496Z"
+    },
+    {
+      "assessmentId": "72-7-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/7.2 Lesson 7 Handout Peer Feedback on.docx",
+      "driveFileId": "1VMsxDDvO2pR2x8_1FLZipF932KR2VQ7IyJChLedKUxA",
+      "driveRelativePath": "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Handout Peer Feedback on",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:44.883Z"
+    },
+    {
+      "assessmentId": "72-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.2 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "15ry7x3_HTNPksrKt_O2yHlWm7K9afA8n_s6vQQD0zJs",
+      "driveRelativePath": "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:48.009Z"
+    },
+    {
+      "assessmentId": "72-7-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_7/original/7.2 Lesson 7 Handout Peer Feedback on.docx",
+      "driveFileId": "1VMsxDDvO2pR2x8_1FLZipF932KR2VQ7IyJChLedKUxA",
+      "driveRelativePath": "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Handout Peer Feedback on",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:44.883Z"
+    },
+    {
+      "assessmentId": "72-7-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.2 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "15ry7x3_HTNPksrKt_O2yHlWm7K9afA8n_s6vQQD0zJs",
+      "driveRelativePath": "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:48.009Z"
+    },
+    {
+      "assessmentId": "72-8-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_8/original/7.2 Lesson 8 Handout Discussion Diamond Graphic.docx",
+      "driveFileId": "1VU4_-luKbnUta_xGgKB0LjKppqypj6Ei4YS-XytLzrI",
+      "driveRelativePath": "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Handout Discussion Diamond Graphic",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.169Z"
+    },
+    {
+      "assessmentId": "72-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1708WunpPGi62llx8rnKj0mUuarwtdXEAny80U7yBnrI",
+      "driveRelativePath": "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:49.771Z"
+    },
+    {
+      "assessmentId": "72-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1708WunpPGi62llx8rnKj0mUuarwtdXEAny80U7yBnrI",
+      "driveRelativePath": "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:49.771Z"
+    },
+    {
+      "assessmentId": "72-8-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_8/original/7.2 Lesson 8 Handout Stakeholder Impact Chart.docx",
+      "driveFileId": "1-OAHK7amlR7cSdxrxNp0j9YUl8Yd9lxZ3QDbuW_kEyM",
+      "driveRelativePath": "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Handout Stakeholder Impact Chart",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.092Z"
+    },
+    {
+      "assessmentId": "72-8-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1708WunpPGi62llx8rnKj0mUuarwtdXEAny80U7yBnrI",
+      "driveRelativePath": "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:49.771Z"
+    },
+    {
+      "assessmentId": "72-9-engineering-design-rubric",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Assessment Engineering Design Rubric.docx",
+      "driveFileId": "1wjaE7RqSm4Oem5MNAdQ8LVCH5hiyTVLcdulf0CNvE8Q",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Assessment Engineering Design Rubric",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:50.740Z"
+    },
+    {
+      "assessmentId": "72-9-engineering-design-rubric",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1876rlvf73Nva-ylewICBtSSNWafHOHZWL1uQu3wIJ7c",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:55.072Z"
+    },
+    {
+      "assessmentId": "72-9-teamwork-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Assessment Teamwork Self-Assessment.docx",
+      "driveFileId": "135G77C6pT-eJik4_GyeTnqsplquWCIK8YMmloOywevI",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Assessment Teamwork Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:50.407Z"
+    },
+    {
+      "assessmentId": "72-9-teamwork-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1876rlvf73Nva-ylewICBtSSNWafHOHZWL1uQu3wIJ7c",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:55.072Z"
+    },
+    {
+      "assessmentId": "72-9-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Handout Design Must-Haves.docx",
+      "driveFileId": "1WvTjHlbGySUDcDq5IZjcn2rsMz7UvN07Y6s7nTjXon4",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Handout Design Must-Haves",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:49.603Z"
+    },
+    {
+      "assessmentId": "72-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1876rlvf73Nva-ylewICBtSSNWafHOHZWL1uQu3wIJ7c",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:55.072Z"
+    },
+    {
+      "assessmentId": "72-9-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Handout Design Must-Haves.docx",
+      "driveFileId": "1WvTjHlbGySUDcDq5IZjcn2rsMz7UvN07Y6s7nTjXon4",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Handout Design Must-Haves",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:49.603Z"
+    },
+    {
+      "assessmentId": "72-9-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1876rlvf73Nva-ylewICBtSSNWafHOHZWL1uQu3wIJ7c",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:55.072Z"
+    },
+    {
+      "assessmentId": "72-9-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Handout Design Must-Haves.docx",
+      "driveFileId": "1WvTjHlbGySUDcDq5IZjcn2rsMz7UvN07Y6s7nTjXon4",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Handout Design Must-Haves",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:49.603Z"
+    },
+    {
+      "assessmentId": "72-9-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1876rlvf73Nva-ylewICBtSSNWafHOHZWL1uQu3wIJ7c",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:55.072Z"
+    },
+    {
+      "assessmentId": "72-10-design-testing-matrix",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Assessment Design Testing Matrix.docx",
+      "driveFileId": "1hp_29LEQnUoeLx0PEzdM28kt0pLlaw4i5DZMci7U3Fk",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Assessment Design Testing Matrix",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.042Z"
+    },
+    {
+      "assessmentId": "72-10-design-testing-matrix",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IWF72CchdqSH6gPVuZxD_HiXaKd60Wx_a9iAn8pNyN0",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:24.535Z"
+    },
+    {
+      "assessmentId": "72-10-design-testing-matrix",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Answer Key Key for Sea.docx",
+      "driveFileId": "1sBK_F4jihBIogU0K_lZW-PV06SpxTu-7gIZSYxH8scg",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Answer Key Key for Sea",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.495Z"
+    },
+    {
+      "assessmentId": "72-10-form-a-sea",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Assessment Form A Sea.docx",
+      "driveFileId": "1aEXQije4Vk0fjZK3ces8r02vP8ayKW0cqNHW5wEe4g0",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Assessment Form A Sea",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.014Z"
+    },
+    {
+      "assessmentId": "72-10-form-a-sea",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IWF72CchdqSH6gPVuZxD_HiXaKd60Wx_a9iAn8pNyN0",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:24.535Z"
+    },
+    {
+      "assessmentId": "72-10-form-a-sea",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Answer Key Key for Sea.docx",
+      "driveFileId": "1sBK_F4jihBIogU0K_lZW-PV06SpxTu-7gIZSYxH8scg",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Answer Key Key for Sea",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.495Z"
+    },
+    {
+      "assessmentId": "72-10-form-b-sea",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Assessment Form B Sea.docx",
+      "driveFileId": "1mw0WgoUBvbuQff9kiJcIRp0_-CnUJOU9Xng7RKneAIU",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Assessment Form B Sea",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:22.853Z"
+    },
+    {
+      "assessmentId": "72-10-form-b-sea",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IWF72CchdqSH6gPVuZxD_HiXaKd60Wx_a9iAn8pNyN0",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:24.535Z"
+    },
+    {
+      "assessmentId": "72-10-form-b-sea",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Answer Key Key for Sea.docx",
+      "driveFileId": "1sBK_F4jihBIogU0K_lZW-PV06SpxTu-7gIZSYxH8scg",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Answer Key Key for Sea",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.495Z"
+    },
+    {
+      "assessmentId": "72-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IWF72CchdqSH6gPVuZxD_HiXaKd60Wx_a9iAn8pNyN0",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:24.535Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/7.2 Chemical Reactions & Energy Unit Overview Materials.docx",
+      "driveFileId": "1d9smLdWQFiRMV6Jn1sq1nW-imrZxxCfXBERUBxCy5Oc",
+      "driveRelativePath": "7.2 Chemical Reactions & Energy Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-10-27T21:30:23.161Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/7.2 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "14J8Ma-EVXASCiWH5WHd9jCPOBGYZlxOf5AwdnrATGo8",
+      "driveRelativePath": "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:23.466Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/7.2 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "13fW3PljdL9VBGHkuoPXxJG0jbPL9LXvs8equQyw5nf0",
+      "driveRelativePath": "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:28.813Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/7.2 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1M-P7tMrO4SxzprEQz4o4lP-7KZxVMRUa5wvgRorzCOE",
+      "driveRelativePath": "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:33.624Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/7.2 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "1uFJTzkX6NzAg1SX825yzq598939Q9S6kXNV2o1cdopk",
+      "driveRelativePath": "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:35.296Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/7.2 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1HA65F85V2RYMIW_T6bbiW-Ek5koHGmdulMeLPvKIfWQ",
+      "driveRelativePath": "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:40.428Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/7.2 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1jVVt2oKBm6sUh2zCpAQvTfUkUhPKcfykrqeoVUVJDiU",
+      "driveRelativePath": "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:47.496Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/7.2 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "15ry7x3_HTNPksrKt_O2yHlWm7K9afA8n_s6vQQD0zJs",
+      "driveRelativePath": "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:48.009Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/7.2 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1708WunpPGi62llx8rnKj0mUuarwtdXEAny80U7yBnrI",
+      "driveRelativePath": "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:49.771Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/7.2 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1876rlvf73Nva-ylewICBtSSNWafHOHZWL1uQu3wIJ7c",
+      "driveRelativePath": "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:55.072Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/7.2 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1IWF72CchdqSH6gPVuZxD_HiXaKd60Wx_a9iAn8pNyN0",
+      "driveRelativePath": "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:35:24.535Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "7.2 Chemical Reactions & Energy Unit Overview Materials": {
+      "driveFileId": "1d9smLdWQFiRMV6Jn1sq1nW-imrZxxCfXBERUBxCy5Oc",
+      "name": "7.2 Chemical Reactions & Energy Unit Overview Materials",
+      "modifiedTime": "2024-10-27T21:30:23.161Z"
+    },
+    "Lesson 9 Flameless Heater Instructions Survey": {
+      "driveFileId": "165aeWcuN_iMrT2dBFoAK3GCcY4n1Gjm2r4c2XrkKoSk",
+      "name": "Lesson 9 Flameless Heater Instructions Survey",
+      "modifiedTime": "2024-08-25T07:35:53.794Z"
+    },
+    "Lesson 9 Spanish Flameless Heater Instructions Survey": {
+      "driveFileId": "1xGosBAJi3AM2YEENTUNzW8GZktNf3Ki-p9FBdDkWAdE",
+      "name": "Lesson 9 Spanish Flameless Heater Instructions Survey",
+      "modifiedTime": "2024-08-25T07:35:53.486Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1k_GkMpXdAKETiRAa4mGMkBA7vMfGNjTu",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-25T07:35:51.412Z"
+    },
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "12rsjM-O1N7KuCAf5SG8c51QapkbCzlom",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-25T07:35:51.341Z"
+    },
+    "Unit 7.2 Chemical Reactions & Energy Video Links.pdf": {
+      "driveFileId": "1UTwQGwL7n7UT_LIrxOoy4lf70-p1GsIT",
+      "name": "Unit 7.2 Chemical Reactions & Energy Video Links.pdf",
+      "modifiedTime": "2024-08-25T07:35:51.119Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1igYf4gAccrz-fpJZWrumDSvnZLKfCQhf",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-25T07:35:50.906Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1OJNV8kUTLV8ZsPS1nVqiM0QUBRsdbFbj",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-25T07:35:50.708Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "1mnGSKX2XEDHwVFE4bv-WcwBFtuYptiqb",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-25T07:35:50.126Z"
+    },
+    "Lesson 4 Spanish Flameless Heater Stakeholder Survey Template": {
+      "driveFileId": "1WroHdsIriGRtzcwMKrAqJ0q_Wmhv-Tp7mjEo4ymz_6Q",
+      "name": "Lesson 4 Spanish Flameless Heater Stakeholder Survey Template",
+      "modifiedTime": "2024-08-25T07:35:36.436Z"
+    },
+    "Lesson 4 Spanish Example Flameless Heater Stakeholder Survey": {
+      "driveFileId": "1VWbTEqB6td_EO2_b_Lb8l05v2w6pP0SKv06OEx9Pves",
+      "name": "Lesson 4 Spanish Example Flameless Heater Stakeholder Survey",
+      "modifiedTime": "2024-08-25T07:35:35.004Z"
+    },
+    "Lesson 4 Flameless Heater Stakeholder Survey Template": {
+      "driveFileId": "1ltl_4xUQK7vyfzzMBpTgE63T-rKFuhartAU-APRV_Is",
+      "name": "Lesson 4 Flameless Heater Stakeholder Survey Template",
+      "modifiedTime": "2024-08-25T07:35:34.950Z"
+    },
+    "Lesson 4 Example Flameless Heater Stakeholder Survey": {
+      "driveFileId": "1f_5KhY2Wc7L7FeDsqvT85NiWW3f-oXdonpeVJVDoIV4",
+      "name": "Lesson 4 Example Flameless Heater Stakeholder Survey",
+      "modifiedTime": "2024-08-25T07:35:34.115Z"
+    },
+    "Lesson 1 Family and Friends MRE Survey": {
+      "driveFileId": "1QGAcPA1pbONW8RsBRy68olvb3-C4EPSB1aVPWGuKyUk",
+      "name": "Lesson 1 Family and Friends MRE Survey",
+      "modifiedTime": "2024-08-25T07:35:25.975Z"
+    },
+    "Lesson 1 Spanish Family and Friends MRE Survey": {
+      "driveFileId": "16DWrIOf_kBtHxufz6wztsxxQiY5ykEfieh7AOsFGRGo",
+      "name": "Lesson 1 Spanish Family and Friends MRE Survey",
+      "modifiedTime": "2024-08-25T07:35:23.084Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "19Xhr3b7l6Ix5PrYKU-2A_WT_vc3DwJvX",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-25T07:35:16.611Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "116x_X4ysVGApP8eskqWJ7QgQLQAJSgrI",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-25T07:35:16.473Z"
+    },
+    "7.2 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1aS_mJ1MPPDPQ9tLhvSn79e3q4JGUgwjk",
+      "name": "7.2 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-25T07:35:16.335Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Teacher Edition": {
+      "driveFileId": "1876rlvf73Nva-ylewICBtSSNWafHOHZWL1uQu3wIJ7c",
+      "name": "7.2 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:55.072Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Rubric Engineering Design Rubric": {
+      "driveFileId": "1vbWGUBowsZ0Hz3eAOhiB4ZsBhtyZ6zH7X02rtn3r83o",
+      "name": "7.2 Lesson 9 Rubric Engineering Design Rubric",
+      "modifiedTime": "2024-08-25T07:35:53.004Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "14X_1Zs9PWiFlUr0hAAFUCRnvxuLyixZcAc64jdjYf6U",
+      "name": "7.2 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:52.968Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Slides": {
+      "driveFileId": "11J5-br1pKOkrxDxIUQwP_EASJ8cR6K0xLx0FFEbD6IE",
+      "name": "7.2 Lesson 9 Slides",
+      "modifiedTime": "2024-08-25T07:35:52.829Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Student Procedure": {
+      "driveFileId": "1TckSIgIV-xJa_oNDqvRErIRbnvmI83Yb5kGAeF74h8A",
+      "name": "7.2 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:52.674Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Handout Questions from Our": {
+      "driveFileId": "1ox43vNjg9f-KKkYrywTJYkh2WB1i-hW9wFcgn0DcFlI",
+      "name": "7.2 Lesson 9 Handout Questions from Our",
+      "modifiedTime": "2024-08-25T07:35:51.282Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Handout How-To Instructions Must-Haves": {
+      "driveFileId": "1MnmkU8cVLWTwCpLn-dX2WC2TZkAl4uWg5doKMQot_4Y",
+      "name": "7.2 Lesson 9 Handout How-To Instructions Must-Haves",
+      "modifiedTime": "2024-08-25T07:35:51.001Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Assessment Engineering Design Rubric": {
+      "driveFileId": "1wjaE7RqSm4Oem5MNAdQ8LVCH5hiyTVLcdulf0CNvE8Q",
+      "name": "7.2 Lesson 9 Assessment Engineering Design Rubric",
+      "modifiedTime": "2024-08-25T07:35:50.740Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Assessment Teamwork Self-Assessment": {
+      "driveFileId": "135G77C6pT-eJik4_GyeTnqsplquWCIK8YMmloOywevI",
+      "name": "7.2 Lesson 9 Assessment Teamwork Self-Assessment",
+      "modifiedTime": "2024-08-25T07:35:50.407Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lección 9 Folleto Imprescindibles del diseño": {
+      "driveFileId": "1duUujaehlP3Ix6AIGfplgrpZ-SH4FugLlrP-k5PvEXE",
+      "name": "7.2 Lección 9 Folleto Imprescindibles del diseño",
+      "modifiedTime": "2024-08-25T07:35:49.991Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Handout Partner Info Sheet": {
+      "driveFileId": "197YgEwRqxfB_sdFI9VLLixX9uk0_hcnh5pU5Nz6vL1s",
+      "name": "7.2 Lesson 9 Handout Partner Info Sheet",
+      "modifiedTime": "2024-08-25T07:35:49.964Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lección 9 Folleto Preguntas de nuestro": {
+      "driveFileId": "1QfR4tEcin-y01ylmOrtw_5f7FsoOPY3GdVt2-74FQg8",
+      "name": "7.2 Lección 9 Folleto Preguntas de nuestro",
+      "modifiedTime": "2024-08-25T07:35:49.945Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lección 9 Evaluación Rúbrica de diseño": {
+      "driveFileId": "1nK31p2xJEj0W0V03nMdPhtxFrevyrmW1NNOvB9ckYvg",
+      "name": "7.2 Lección 9 Evaluación Rúbrica de diseño",
+      "modifiedTime": "2024-08-25T07:35:49.822Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lección 9 Folleto Imprescindibles para instrucciones": {
+      "driveFileId": "1JdIaR5vwiQX5A8ZuJdyadvMkVhITqxNaSgleF1cLgJY",
+      "name": "7.2 Lección 9 Folleto Imprescindibles para instrucciones",
+      "modifiedTime": "2024-08-25T07:35:49.677Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lesson 9 Handout Design Must-Haves": {
+      "driveFileId": "1WvTjHlbGySUDcDq5IZjcn2rsMz7UvN07Y6s7nTjXon4",
+      "name": "7.2 Lesson 9 Handout Design Must-Haves",
+      "modifiedTime": "2024-08-25T07:35:49.603Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lección 9 Evaluación Autoevaluación de trabajo": {
+      "driveFileId": "1mW9OhjXGgqorYWb3P96Y0EEa7WC9tF_L_y5jx4RI0Dw",
+      "name": "7.2 Lección 9 Evaluación Autoevaluación de trabajo",
+      "modifiedTime": "2024-08-25T07:35:49.347Z"
+    },
+    "Lesson 9 - 7.2 Chemical Reactions & Energy/7.2 Lección 9 Folleto Hoja de información": {
+      "driveFileId": "1wBAAHmAQWwwTD5jHSLctyPF-PoaeGuxUEmo4deWu55M",
+      "name": "7.2 Lección 9 Folleto Hoja de información",
+      "modifiedTime": "2024-08-25T07:35:49.148Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Teacher Edition": {
+      "driveFileId": "1708WunpPGi62llx8rnKj0mUuarwtdXEAny80U7yBnrI",
+      "name": "7.2 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:49.771Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Teacher Reference Optional Extension—Cascading Consequences": {
+      "driveFileId": "13WQDe4jT77MIbGJIdGTnml-1Fd6szy5abmqxpjYnvtY",
+      "name": "7.2 Lesson 8 Teacher Reference Optional Extension—Cascading Consequences",
+      "modifiedTime": "2024-08-25T07:35:49.609Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Slides": {
+      "driveFileId": "1pBsqHWyD1IaUugz70O6Cwz0dpjEqpdmNDnBfl09kS24",
+      "name": "7.2 Lesson 8 Slides",
+      "modifiedTime": "2024-08-25T07:35:48.754Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1OyPmsgnsE1Gg8n2hPaoSVgYqii8X58sFOGzb6ncZlgw",
+      "name": "7.2 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:48.311Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Student Procedure": {
+      "driveFileId": "1_Eg_kk4cKNq2IN5FG9tvKbNf4AUk6SPf4L2Se_Gph28",
+      "name": "7.2 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:48.219Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Handout Optional Decision Matrix": {
+      "driveFileId": "1PrMvrWikytr53_8xJC2Owyuv1guBOWvjicHCohBKvzI",
+      "name": "7.2 Lesson 8 Handout Optional Decision Matrix",
+      "modifiedTime": "2024-08-25T07:35:47.188Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Handout Discussion Diamond Graphic": {
+      "driveFileId": "1VU4_-luKbnUta_xGgKB0LjKppqypj6Ei4YS-XytLzrI",
+      "name": "7.2 Lesson 8 Handout Discussion Diamond Graphic",
+      "modifiedTime": "2024-08-25T07:35:47.169Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Handout Stakeholder Impact Chart": {
+      "driveFileId": "1-OAHK7amlR7cSdxrxNp0j9YUl8Yd9lxZ3QDbuW_kEyM",
+      "name": "7.2 Lesson 8 Handout Stakeholder Impact Chart",
+      "modifiedTime": "2024-08-25T07:35:47.092Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lesson 8 Teacher Reference Optional Extension Opportunity": {
+      "driveFileId": "1OiyE2740K8n2x7y8hF1w-Cu8EvXcUigrFmII8jjPye0",
+      "name": "7.2 Lesson 8 Teacher Reference Optional Extension Opportunity",
+      "modifiedTime": "2024-08-25T07:35:47.042Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lección 8 Folleto Organizador gráfico de": {
+      "driveFileId": "1RW5kVk0O8N9ZuKwv8UsAa_Sy5cO5_QNc7XSlcWSBouc",
+      "name": "7.2 Lección 8 Folleto Organizador gráfico de",
+      "modifiedTime": "2024-08-25T07:35:46.693Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lección 8 Folleto Tabla de impacto": {
+      "driveFileId": "1ZVnpmZqAwNFMj-4rffhrPbtmuD3j0d-1ITow_MwiBWw",
+      "name": "7.2 Lección 8 Folleto Tabla de impacto",
+      "modifiedTime": "2024-08-25T07:35:46.553Z"
+    },
+    "Lesson 8 - 7.2 Chemical Reactions & Energy/7.2 Lección 8 Folleto Matriz de decisión": {
+      "driveFileId": "1uj8sq4q24Wz8WSPWBAP0kgB1cQl2BpIQEKLNnJsziEY",
+      "name": "7.2 Lección 8 Folleto Matriz de decisión",
+      "modifiedTime": "2024-08-25T07:35:46.531Z"
+    },
+    "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Teacher Edition": {
+      "driveFileId": "15ry7x3_HTNPksrKt_O2yHlWm7K9afA8n_s6vQQD0zJs",
+      "name": "7.2 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:48.009Z"
+    },
+    "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Student Procedure": {
+      "driveFileId": "1Qt41k5hNP_vMLCTxO2upZUdWSCJkgMrK4ni2O-jLU4g",
+      "name": "7.2 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:46.689Z"
+    },
+    "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1W0tMOIwFykFCIJPffVBzExvijiffnJo-Ek9ZieSOQM0",
+      "name": "7.2 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:46.364Z"
+    },
+    "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Slides ": {
+      "driveFileId": "1guF1g-RYYnmIY9Kmkg5OuKZVgucDsadtSqdDRQFEKPU",
+      "name": "7.2 Lesson 7 Slides ",
+      "modifiedTime": "2024-08-25T07:35:45.665Z"
+    },
+    "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lesson 7 Handout Peer Feedback on": {
+      "driveFileId": "1VMsxDDvO2pR2x8_1FLZipF932KR2VQ7IyJChLedKUxA",
+      "name": "7.2 Lesson 7 Handout Peer Feedback on",
+      "modifiedTime": "2024-08-25T07:35:44.883Z"
+    },
+    "Lesson 7 - 7.2 Chemical Reactions & Energy/7.2 Lección 7 Folleto Retroalimentación de compañeros": {
+      "driveFileId": "17Quzp8vglUHEzf1g8gCk25FuT7Cd1RTbiochtfKOw5E",
+      "name": "7.2 Lección 7 Folleto Retroalimentación de compañeros",
+      "modifiedTime": "2024-08-25T07:35:44.106Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Edition": {
+      "driveFileId": "1jVVt2oKBm6sUh2zCpAQvTfUkUhPKcfykrqeoVUVJDiU",
+      "name": "7.2 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:47.496Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Reference Example Heater Instructions": {
+      "driveFileId": "1KwPBM-OGHkmZVcTV8qlw89YrlJ7GbT46OEAD3nhwQjM",
+      "name": "7.2 Lesson 6 Teacher Reference Example Heater Instructions",
+      "modifiedTime": "2024-08-25T07:35:46.124Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Student Procedure": {
+      "driveFileId": "12hcPwyYl8w6180QrItb6yUKzFcf91IgpUTQ4axNKYGg",
+      "name": "7.2 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:45.188Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1xuq8UO-Dq6yGbVnLvWRDk-fEqvUCpcRUH1arE94HnGs",
+      "name": "7.2 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:44.852Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Teacher Reference Testing Reaction for": {
+      "driveFileId": "1aq7HCSSkNF0meDeBcs9ievhnFwKsh1P02Cmjyw6ZWww",
+      "name": "7.2 Lesson 6 Teacher Reference Testing Reaction for",
+      "modifiedTime": "2024-08-25T07:35:44.595Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Slides": {
+      "driveFileId": "1Kq59g_S6pMaltOOWlVjYd7STBoYXt8cynY7xTJsiNSg",
+      "name": "7.2 Lesson 6 Slides",
+      "modifiedTime": "2024-08-25T07:35:44.586Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Reference Materials Cost List": {
+      "driveFileId": "14EpMyWCmOnghztnNCYn6mWa9Ce7fJLjtz65JFSmBUNE",
+      "name": "7.2 Lesson 6 Reference Materials Cost List",
+      "modifiedTime": "2024-08-25T07:35:44.014Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Rubric Engineering Design Rubric": {
+      "driveFileId": "1sFu8ynKd8zMrkLnCpKvKnk-xFh_CqnzuvbMTSK5WO8s",
+      "name": "7.2 Lesson 6 Rubric Engineering Design Rubric",
+      "modifiedTime": "2024-08-25T07:35:43.586Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Assessment Engineering Design Rubric": {
+      "driveFileId": "1FpM9IXTm2lI8feurJk2EBU5SsaJYxvgsxsNX_tYQTVg",
+      "name": "7.2 Lesson 6 Assessment Engineering Design Rubric",
+      "modifiedTime": "2024-08-25T07:35:43.401Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Rubric Exit Ticket Rubric": {
+      "driveFileId": "1x-PbkOPlzRu_hovyynBrH341Lh4To-LNHuT9WSAhbtU",
+      "name": "7.2 Lesson 6 Rubric Exit Ticket Rubric",
+      "modifiedTime": "2024-08-25T07:35:43.051Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Exit Ticket": {
+      "driveFileId": "1ZUm3qJ_itIPLxMtYZLOHDlvFVjxrqPVOdA0HPoUvySc",
+      "name": "7.2 Lesson 6 Handout Exit Ticket",
+      "modifiedTime": "2024-08-25T07:35:42.676Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Transcript Massing MRE": {
+      "driveFileId": "1VibbqIxV9EQN090mfcJnquimYltn7M870zotKpomuCU",
+      "name": "7.2 Lesson 6 Handout Transcript Massing MRE",
+      "modifiedTime": "2024-08-25T07:35:42.655Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Answer Key Exit Ticket Key": {
+      "driveFileId": "1sz2IShEK4KRub24hLSAJvBaDuK3fA5leL25ixjgA5ZQ",
+      "name": "7.2 Lesson 6 Answer Key Exit Ticket Key",
+      "modifiedTime": "2024-08-25T07:35:42.628Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Referencia Lista de costos": {
+      "driveFileId": "1vyeZ9iDHIcdM_0c0dZV-4snws3JzY9wQiIyWPBjamLQ",
+      "name": "7.2 Lección 6 Referencia Lista de costos",
+      "modifiedTime": "2024-08-25T07:35:42.572Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Scaling Down Design": {
+      "driveFileId": "1_8KiTCZU6Ag0yBAdA4zRUmTX0I39qr3OazAtJfDGKxg",
+      "name": "7.2 Lesson 6 Handout Scaling Down Design",
+      "modifiedTime": "2024-08-25T07:35:42.424Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Design Testing Matrix": {
+      "driveFileId": "1gUQuItCY1N5gdnQ2N8AZPWCOOEJc0kOBHLYpdF4OPss",
+      "name": "7.2 Lesson 6 Handout Design Testing Matrix",
+      "modifiedTime": "2024-08-25T07:35:42.397Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Assessment Teamwork Self-Assessment": {
+      "driveFileId": "14xpMRcF4CObcAId-lsqn7dx9TPvP_cB3q0gfoflCF8Y",
+      "name": "7.2 Lesson 6 Assessment Teamwork Self-Assessment",
+      "modifiedTime": "2024-08-25T07:35:42.077Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout How-to Instructions Must-Haves": {
+      "driveFileId": "1wXoxmGlpUfoH_zF4rpdR1EqgjK6zXyq6tAp1ZMiZNyM",
+      "name": "7.2 Lesson 6 Handout How-to Instructions Must-Haves",
+      "modifiedTime": "2024-08-25T07:35:41.488Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lesson 6 Handout Design Must-Haves": {
+      "driveFileId": "17g9JwULsFfXsJ0xG34W8ktqZ3cHAsp-xFeZdy-rBSPQ",
+      "name": "7.2 Lesson 6 Handout Design Must-Haves",
+      "modifiedTime": "2024-08-25T07:35:41.463Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Evaluación Autoevaluación de trabajo": {
+      "driveFileId": "1lnuJm6VWBUKcOBdflsq3PJjHHkjR3UGwJbwl48MaOys",
+      "name": "7.2 Lección 6 Evaluación Autoevaluación de trabajo",
+      "modifiedTime": "2024-08-25T07:35:40.417Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Folleto Boleto de salida": {
+      "driveFileId": "1WU4cDFbt56jJ0XzU4Cbpr6w1pvhuO4Smwmm-DOgrff8",
+      "name": "7.2 Lección 6 Folleto Boleto de salida",
+      "modifiedTime": "2024-08-25T07:35:40.380Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Folleto Reducir el diseño": {
+      "driveFileId": "1yoEfg5qftgeh9sF3ExWMWk6AqoSz3bMaEcNQR5d2B3w",
+      "name": "7.2 Lección 6 Folleto Reducir el diseño",
+      "modifiedTime": "2024-08-25T07:35:40.302Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Folleto Transcripción Masa de": {
+      "driveFileId": "1IuAfkxypOzQr9txb1k1wb_4OT46uCLcTxWoas6YqhCA",
+      "name": "7.2 Lección 6 Folleto Transcripción Masa de",
+      "modifiedTime": "2024-08-25T07:35:40.180Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Folleto Imprescindibles para instrucciones": {
+      "driveFileId": "1-8y2xYQHE1X-pM4DEGJBTswf3tw0hyJ6itFELaBNqyQ",
+      "name": "7.2 Lección 6 Folleto Imprescindibles para instrucciones",
+      "modifiedTime": "2024-08-25T07:35:39.947Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Folleto Matriz de probar": {
+      "driveFileId": "1vloiLd2bEa36WzG_jyKgxmEjyXDrLV3T39JDzmoVkn0",
+      "name": "7.2 Lección 6 Folleto Matriz de probar",
+      "modifiedTime": "2024-08-25T07:35:39.117Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Folleto Elementos imprescindibles del": {
+      "driveFileId": "1zqe2XHuQrwz86WRcU2EeijL7MdFWy850ewIFIUTdnmk",
+      "name": "7.2 Lección 6 Folleto Elementos imprescindibles del",
+      "modifiedTime": "2024-08-25T07:35:39.054Z"
+    },
+    "Lesson 6 - 7.2 Chemical Reactions & Energy/7.2 Lección 6 Evaluación Rúbrica de diseño": {
+      "driveFileId": "1pPrNa7p_hOau8QfyHhD2MoNR1Ki_WSxEoklIKAZAeAU",
+      "name": "7.2 Lección 6 Evaluación Rúbrica de diseño",
+      "modifiedTime": "2024-08-25T07:35:38.772Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Teacher Edition": {
+      "driveFileId": "1HA65F85V2RYMIW_T6bbiW-Ek5koHGmdulMeLPvKIfWQ",
+      "name": "7.2 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:40.428Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1feXjd0UVJK_q2lqXHvrSDh_OaPS8GUQPJ21yete941A",
+      "name": "7.2 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:40.352Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Slides": {
+      "driveFileId": "1jqTpzJ9bC7ZjD5a0q9m8eU6HzOGuhrsbw-Cx1-XRaCs",
+      "name": "7.2 Lesson 5 Slides",
+      "modifiedTime": "2024-08-25T07:35:40.082Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Reading What temperatures cause": {
+      "driveFileId": "1vc1WC8Nz8oLkqkuXStWhDkclaMbDK_pGuWZuQDCRvf4",
+      "name": "7.2 Lesson 5 Reading What temperatures cause",
+      "modifiedTime": "2024-08-25T07:35:38.889Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Student Procedure": {
+      "driveFileId": "1WpXO1rj-Aa19KhoTbY2qxgbwCXw0COYQqzN5q-j7LMQ",
+      "name": "7.2 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:38.709Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Handout Reading What temperatures": {
+      "driveFileId": "197xAU8fFfJjhm4GqWeRqyTVb1BOf_ShwbW-IGj-p20k",
+      "name": "7.2 Lesson 5 Handout Reading What temperatures",
+      "modifiedTime": "2024-08-25T07:35:38.473Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Reading How hot does": {
+      "driveFileId": "1b_F39MmHSp7M9RBDFHQX2RxBKdFWEMtaQcU6utXcA44",
+      "name": "7.2 Lesson 5 Reading How hot does",
+      "modifiedTime": "2024-08-25T07:35:38.334Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lección 5 Lectura ¿Qué tan caliente": {
+      "driveFileId": "11SHH43k4cioM54jvp4xrzbfLodc_t1dcE2ftiNN3n0E",
+      "name": "7.2 Lección 5 Lectura ¿Qué tan caliente",
+      "modifiedTime": "2024-08-25T07:35:38.043Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lección 5 Folleto Lectura ¿Qué temperaturas": {
+      "driveFileId": "1OPDb6ePy1fQSVGvZ2608x3ZxpQq3KEsKay_YdCnBkN4",
+      "name": "7.2 Lección 5 Folleto Lectura ¿Qué temperaturas",
+      "modifiedTime": "2024-08-25T07:35:37.656Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Reading What temperature range": {
+      "driveFileId": "1fY-lgIiAiwweBbPr8HUBbRnjoAi1W_L-CQ19pgxHFXs",
+      "name": "7.2 Lesson 5 Reading What temperature range",
+      "modifiedTime": "2024-08-25T07:35:37.306Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lección 5 Lectura ¿Qué temperaturas causan": {
+      "driveFileId": "1g3wTRBaRTtPfvmivHCGrCeHDH2zoD9FEkoMoHsoslKo",
+      "name": "7.2 Lección 5 Lectura ¿Qué temperaturas causan",
+      "modifiedTime": "2024-08-25T07:35:37.253Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Handout Reading How hot": {
+      "driveFileId": "1qGfKuPQ_N4jHcgGBsSi0kOJcNLQNEx13gxGJc3wXKrk",
+      "name": "7.2 Lesson 5 Handout Reading How hot",
+      "modifiedTime": "2024-08-25T07:35:36.858Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lesson 5 Handout Reading What temperature": {
+      "driveFileId": "1s9Vf3ku_6OrQUEkw9AQhjhi2ac-rfsm2Vs8abAOOFeM",
+      "name": "7.2 Lesson 5 Handout Reading What temperature",
+      "modifiedTime": "2024-08-25T07:35:36.524Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lección 5 Lectura ¿Qué rango de": {
+      "driveFileId": "1yf4rouuihXfIPAEvZrjI0SOd9c6Zs3ZdftZXp7p0F9E",
+      "name": "7.2 Lección 5 Lectura ¿Qué rango de",
+      "modifiedTime": "2024-08-25T07:35:36.401Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lección 5 Folleto Lectura ¿Qué tan": {
+      "driveFileId": "1UvNFCHrDdIxFXPAjFxyPX1K5dLzzKuOU1oFx_zU9bTU",
+      "name": "7.2 Lección 5 Folleto Lectura ¿Qué tan",
+      "modifiedTime": "2024-08-25T07:35:36.019Z"
+    },
+    "Lesson 5 - 7.2 Chemical Reactions & Energy/7.2 Lección 5 Folleto Lectura ¿Qué rango": {
+      "driveFileId": "1mUMavucMtnpwEcrNtgvRQJppxEiLGaxjhPgVBCXc0wA",
+      "name": "7.2 Lección 5 Folleto Lectura ¿Qué rango",
+      "modifiedTime": "2024-08-25T07:35:35.651Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Teacher Edition": {
+      "driveFileId": "1uFJTzkX6NzAg1SX825yzq598939Q9S6kXNV2o1cdopk",
+      "name": "7.2 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:35.296Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1WOwgct0MGVeIM2RGq5yCuFdttqDSXvzyyIUJmY8cmII",
+      "name": "7.2 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:35.175Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lección 4 Referencia Procedimiento de investigación": {
+      "driveFileId": "1W4WQLF46lYo1gH7eDFwhgzzFNaFTmqZHKiDoruL4dmM",
+      "name": "7.2 Lección 4 Referencia Procedimiento de investigación",
+      "modifiedTime": "2024-08-25T07:35:34.387Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Reference Investigation Procedure for": {
+      "driveFileId": "1hwKBteKlAj5JUCpTlHQcD23RWqfApHv_DHwPtiP1CAU",
+      "name": "7.2 Lesson 4 Reference Investigation Procedure for",
+      "modifiedTime": "2024-08-25T07:35:34.316Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Teacher Reference Sample Data for": {
+      "driveFileId": "1emqT9umF1-VzhFdrPXgTpawbWweaoB5_HSUAbGHUfZ0",
+      "name": "7.2 Lesson 4 Teacher Reference Sample Data for",
+      "modifiedTime": "2024-08-25T07:35:33.745Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Slides": {
+      "driveFileId": "1QRMsAI5Hd0iJl-GEVuS-safy9Nz7wxjWURNf3IidulE",
+      "name": "7.2 Lesson 4 Slides",
+      "modifiedTime": "2024-08-25T07:35:33.553Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Answer Key Key for Analyzing": {
+      "driveFileId": "1izWbNuG-fkt0N28ah1WUxjG28rMGE3c8UqNcF2yIs2I",
+      "name": "7.2 Lesson 4 Answer Key Key for Analyzing",
+      "modifiedTime": "2024-08-25T07:35:33.437Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Student Procedure": {
+      "driveFileId": "1qwJKeiJkVhr7hVfvguFABioOOeHP4IJdC09gdcYhN0U",
+      "name": "7.2 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:33.272Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lección 4 Folleto Tabla de datos": {
+      "driveFileId": "1hPb6wH1gvTFFu1d0WYkicgjjPaGctEJfyxUHXRMEWXE",
+      "name": "7.2 Lección 4 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-25T07:35:33.114Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Handout Analyzing Our Data": {
+      "driveFileId": "1gD4h5fK8Y5n73QEfRaWOtkT7UV052Sw4CszubrZrDAA",
+      "name": "7.2 Lesson 4 Handout Analyzing Our Data",
+      "modifiedTime": "2024-08-25T07:35:32.756Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lesson 4 Handout Small-Group Data Table": {
+      "driveFileId": "1skZpqGT_FqANn_DG1eR99gZmt4ennq0IkHTexNWioK8",
+      "name": "7.2 Lesson 4 Handout Small-Group Data Table",
+      "modifiedTime": "2024-08-25T07:35:32.225Z"
+    },
+    "Lesson 4 - 7.2 Chemical Reactions & Energy/7.2 Lección 4 Folleto Analizando nuestros métodos": {
+      "driveFileId": "1nayJpEipudGS9KCPZupGFS31o1empBYeCq2YKaWQQF8",
+      "name": "7.2 Lección 4 Folleto Analizando nuestros métodos",
+      "modifiedTime": "2024-08-25T07:35:32.190Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Edition": {
+      "driveFileId": "1M-P7tMrO4SxzprEQz4o4lP-7KZxVMRUa5wvgRorzCOE",
+      "name": "7.2 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:33.624Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1zc_41Hj40Kak7WkHBzqJ8JAfG7t_QBxn9tNK9xZL6sU",
+      "name": "7.2 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:32.429Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Slides": {
+      "driveFileId": "1JbqXl9I8AzC5jUjeYli9KCDOtENOon_Tm27HzAaWyR0",
+      "name": "7.2 Lesson 3 Slides",
+      "modifiedTime": "2024-08-25T07:35:32.352Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Reference Safety Information for": {
+      "driveFileId": "1Fms7ghyDuNCHUlFEuC0pJxcFVu8Ve-mlYw0_Sn81qFs",
+      "name": "7.2 Lesson 3 Teacher Reference Safety Information for",
+      "modifiedTime": "2024-08-25T07:35:32.265Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Student Procedure": {
+      "driveFileId": "1fq7GMQ6FqReQ8qxyaxAnL58SLEqee-ixGFKEUvpLXso",
+      "name": "7.2 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:32.077Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Teacher Reference Sample Temperature vs.": {
+      "driveFileId": "1mxNFQTPQ1ushXe6HvYRQoEV54SQtgISR9STgQJ2g1cs",
+      "name": "7.2 Lesson 3 Teacher Reference Sample Temperature vs.",
+      "modifiedTime": "2024-08-25T07:35:31.856Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Rubric Rubric for Models": {
+      "driveFileId": "1BjXHYiUUsT0WbQtrbBGcEj6ZMdnUivM0Xbo5a81hIMg",
+      "name": "7.2 Lesson 3 Rubric Rubric for Models",
+      "modifiedTime": "2024-08-25T07:35:31.462Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Answer Key Answer Key for": {
+      "driveFileId": "1gA79Ohvrc1IR_5jzn7lO1FbsrCghB_uk85vvGytg4WI",
+      "name": "7.2 Lesson 3 Answer Key Answer Key for",
+      "modifiedTime": "2024-08-25T07:35:30.133Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Handout Data Table for": {
+      "driveFileId": "17ypMP7AV5-Ixfy9asPYBbkcrkio5N-jwhQjo4H1Ydg0",
+      "name": "7.2 Lesson 3 Handout Data Table for",
+      "modifiedTime": "2024-08-25T07:35:29.940Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lección 3 Folleto Datos de la": {
+      "driveFileId": "18OlN6o0suwWrgtM8MIqZ7VT-XChWEtihqVpFUblBYY8",
+      "name": "7.2 Lección 3 Folleto Datos de la",
+      "modifiedTime": "2024-08-25T07:35:29.901Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Handout Class Data for": {
+      "driveFileId": "1PDLBpl0HCTuu_NoiEaGXz8zookf4bpOWnITXtA7kF5A",
+      "name": "7.2 Lesson 3 Handout Class Data for",
+      "modifiedTime": "2024-08-25T07:35:29.558Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Reference Some Common Gases": {
+      "driveFileId": "1KVkxt-otxebWYdm4KZLQU-jsZO7NSwgQQulFxNhV1lM",
+      "name": "7.2 Lesson 3 Reference Some Common Gases",
+      "modifiedTime": "2024-08-25T07:35:29.060Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lección 3 Referencia Instrucciones para el": {
+      "driveFileId": "1L_2sN8-CCPN4_eTFDqRQC7u_UbrRBBwNiJYiTkHqihU",
+      "name": "7.2 Lección 3 Referencia Instrucciones para el",
+      "modifiedTime": "2024-08-25T07:35:29.022Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Handout Energy Transfer Models": {
+      "driveFileId": "10nUmfp7RIZJK-Uc-kokIlxZ5uAu8rvYqIa1Wy4VGKRw",
+      "name": "7.2 Lesson 3 Handout Energy Transfer Models",
+      "modifiedTime": "2024-08-25T07:35:28.801Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lección 3 Folleto Tabla de datos": {
+      "driveFileId": "1XVTjpdg8j59Szw8Cx2CmU1RrvX7LRBwG1kG4H5MjgJ0",
+      "name": "7.2 Lección 3 Folleto Tabla de datos",
+      "modifiedTime": "2024-08-25T07:35:27.794Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lección 3 Referencia Algunos gases comunes": {
+      "driveFileId": "1Ar7mPLsmUtMLaEQplCyB3U3TpiqcNFKTYG77sGExNhw",
+      "name": "7.2 Lección 3 Referencia Algunos gases comunes",
+      "modifiedTime": "2024-08-25T07:35:27.662Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lección 3 Folleto Modelos de transferencia": {
+      "driveFileId": "1SpyCdFyFI4lW2vULtD_aGHnNgGIz8cKW6ANX4r6vlZc",
+      "name": "7.2 Lección 3 Folleto Modelos de transferencia",
+      "modifiedTime": "2024-08-25T07:35:27.604Z"
+    },
+    "Lesson 3 - 7.2 Chemical Reactions & Energy/7.2 Lesson 3 Reference Chemical Reactions Lab": {
+      "driveFileId": "1rm9O1rBdpY4aPdk0lrNzxzPWYj-4knf-YBYHsCticjU",
+      "name": "7.2 Lesson 3 Reference Chemical Reactions Lab",
+      "modifiedTime": "2024-08-25T07:35:26.568Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Edition": {
+      "driveFileId": "13fW3PljdL9VBGHkuoPXxJG0jbPL9LXvs8equQyw5nf0",
+      "name": "7.2 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:28.813Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Reference Template for Discussion": {
+      "driveFileId": "1yq1V03HEeZre08Vit0w8BvwT6n3pj9wHdIlY5G9RaIg",
+      "name": "7.2 Lesson 2 Teacher Reference Template for Discussion",
+      "modifiedTime": "2024-08-25T07:35:28.739Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Student Procedure": {
+      "driveFileId": "1PGSm9iUFMlvK7Zf0fBEx64ZktayljQlgvSrzoh6sAMM",
+      "name": "7.2 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:28.282Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1EmnzXsenw_0-V6er3bBcY95VEiAom2bQb3De3-27GW0",
+      "name": "7.2 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:28.130Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lección 2 Referencia Lista de ingredientes": {
+      "driveFileId": "1Muqf3r4AhLVr5fFtkyYbILDPjw_wjsZr3qltsyQBFA4",
+      "name": "7.2 Lección 2 Referencia Lista de ingredientes",
+      "modifiedTime": "2024-08-25T07:35:28.127Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Slides": {
+      "driveFileId": "1RAoBVB2LhZ2RgZ-BA0qfScvO7HLKagN8ve0f6ki6lRw",
+      "name": "7.2 Lesson 2 Slides",
+      "modifiedTime": "2024-08-25T07:35:27.658Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Teacher Reference Example observations for": {
+      "driveFileId": "1UNumYCXK6cfct4vTFZLjoRDtrDucY4LBp_tkHmnHaT4",
+      "name": "7.2 Lesson 2 Teacher Reference Example observations for",
+      "modifiedTime": "2024-08-25T07:35:27.474Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Reference Ingredient List for": {
+      "driveFileId": "1zQHs1DjkmZo07GecLpZ3zRqmP8R38EYj703h_wdAiAc",
+      "name": "7.2 Lesson 2 Reference Ingredient List for",
+      "modifiedTime": "2024-08-25T07:35:27.212Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Handout Transcript MRE Heater": {
+      "driveFileId": "1swyUtZ3QvkQI1isvTdIrREqI3pgYLPqBMDMZhspnEZ8",
+      "name": "7.2 Lesson 2 Handout Transcript MRE Heater",
+      "modifiedTime": "2024-08-25T07:35:25.974Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lesson 2 Handout Transcript Hand Warmer": {
+      "driveFileId": "1a2fwPslxobTQExcj6kzUOQNvCfTBlxmvaeuCCb93faw",
+      "name": "7.2 Lesson 2 Handout Transcript Hand Warmer",
+      "modifiedTime": "2024-08-25T07:35:25.840Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lección 2 Folleto Transcripción 1 Contenido": {
+      "driveFileId": "1LdYqmNAfI5BlO-VnrU_h68zi2MUbMN3WMLmLcb2i7cI",
+      "name": "7.2 Lección 2 Folleto Transcripción 1 Contenido",
+      "modifiedTime": "2024-08-25T07:35:24.798Z"
+    },
+    "Lesson 2 - 7.2 Chemical Reactions & Energy/7.2 Lección 2 Folleto Transcripción 2 Contenido": {
+      "driveFileId": "103kg9mrspRDKNfvZX-2Ujwe89CBx8Ce_lFfE4-N57sA",
+      "name": "7.2 Lección 2 Folleto Transcripción 2 Contenido",
+      "modifiedTime": "2024-08-25T07:35:24.195Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Slides ": {
+      "driveFileId": "1EWay9FTCkA78UpdsaN-0n9qNlj6yK8wNjhhvBTk_X2Q",
+      "name": "7.2 Lesson 10 Slides ",
+      "modifiedTime": "2024-08-25T07:35:24.919Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Student Procedure": {
+      "driveFileId": "11WEChkWRepbTN7CZzClDfEIohsenWXg-F9AshrKOQJI",
+      "name": "7.2 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:24.586Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Teacher Edition": {
+      "driveFileId": "1IWF72CchdqSH6gPVuZxD_HiXaKd60Wx_a9iAn8pNyN0",
+      "name": "7.2 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:24.535Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1fBTq-FXmcIf5dO9ruwdu_q-CV10mZEWjGMNYeouJERk",
+      "name": "7.2 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:23.900Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Answer Key Key for Sea": {
+      "driveFileId": "1sBK_F4jihBIogU0K_lZW-PV06SpxTu-7gIZSYxH8scg",
+      "name": "7.2 Lesson 10 Answer Key Key for Sea",
+      "modifiedTime": "2024-08-25T07:35:23.495Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Rubric Rubric for Sea": {
+      "driveFileId": "1YiASVh7W7jdwW19xCsJXPB7ksPCH1-wKL8TYnIVF3OI",
+      "name": "7.2 Lesson 10 Rubric Rubric for Sea",
+      "modifiedTime": "2024-08-25T07:35:23.474Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lección 10 Evaluación Formulario A Evaluación": {
+      "driveFileId": "1hNBBjhnH0hn253kC1owGDApjz_Wpq16v23GnsXlyhyM",
+      "name": "7.2 Lección 10 Evaluación Formulario A Evaluación",
+      "modifiedTime": "2024-08-25T07:35:23.089Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Assessment Design Testing Matrix": {
+      "driveFileId": "1hp_29LEQnUoeLx0PEzdM28kt0pLlaw4i5DZMci7U3Fk",
+      "name": "7.2 Lesson 10 Assessment Design Testing Matrix",
+      "modifiedTime": "2024-08-25T07:35:23.042Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Assessment Form A Sea": {
+      "driveFileId": "1aEXQije4Vk0fjZK3ces8r02vP8ayKW0cqNHW5wEe4g0",
+      "name": "7.2 Lesson 10 Assessment Form A Sea",
+      "modifiedTime": "2024-08-25T07:35:23.014Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lección 10 Evaluación Formulario B Evaluación": {
+      "driveFileId": "12ahtpDQ6oPlXH1RmNnOP2sYel3VdnnAEZdsIsaj0ksA",
+      "name": "7.2 Lección 10 Evaluación Formulario B Evaluación",
+      "modifiedTime": "2024-08-25T07:35:22.961Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lesson 10 Assessment Form B Sea": {
+      "driveFileId": "1mw0WgoUBvbuQff9kiJcIRp0_-CnUJOU9Xng7RKneAIU",
+      "name": "7.2 Lesson 10 Assessment Form B Sea",
+      "modifiedTime": "2024-08-25T07:35:22.853Z"
+    },
+    "Lesson 10 - 7.2 Chemical Reactions & Energy/7.2 Lección 10 Evaluación Matriz de prueba": {
+      "driveFileId": "1iOCUKlWyMo7AUN-1XvowDPxsdzb_zAroSOxOj8VULpk",
+      "name": "7.2 Lección 10 Evaluación Matriz de prueba",
+      "modifiedTime": "2024-08-25T07:35:21.614Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Slides": {
+      "driveFileId": "1sH0AxgkBZevfRWVJBnPaTXiP0HRdSiq3s-w6LNGw2Js",
+      "name": "7.2 Lesson 1 Slides",
+      "modifiedTime": "2024-08-25T07:35:23.727Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Edition": {
+      "driveFileId": "14J8Ma-EVXASCiWH5WHd9jCPOBGYZlxOf5AwdnrATGo8",
+      "name": "7.2 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:35:23.466Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Teacher Reference Student Electronic Surveys": {
+      "driveFileId": "1ohBKa_rWf_gjMdvANsTJ6_XIPESHj7_oG2qF21ZIBws",
+      "name": "7.2 Lesson 1 Teacher Reference Student Electronic Surveys",
+      "modifiedTime": "2024-08-25T07:35:22.333Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lección 1 Folleto Modelo inicial": {
+      "driveFileId": "1ErEAoh17UVTJN7LCSAHcsAOo4oHzPnew8J9JzzAv5Pc",
+      "name": "7.2 Lección 1 Folleto Modelo inicial",
+      "modifiedTime": "2024-08-25T07:35:21.856Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Initial Model": {
+      "driveFileId": "1wbKNSYhcQcPKziYdjOySYrS31TwDOrjjJkMgYSC_sb0",
+      "name": "7.2 Lesson 1 Handout Initial Model",
+      "modifiedTime": "2024-08-25T07:35:20.999Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1_fT9aPhp1eBTrD2OuMJbdDOp1wd81_YlhmyiQ_NnWx0",
+      "name": "7.2 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:35:20.794Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Transcript Opening an": {
+      "driveFileId": "12R6vX87JhueaffDZFMluu8cc6wvaCujiAQHVn7crVYI",
+      "name": "7.2 Lesson 1 Handout Transcript Opening an",
+      "modifiedTime": "2024-08-25T07:35:20.351Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Student Procedure": {
+      "driveFileId": "1Gy4JA3CG9bUQsaeHL4gmZloCFQsk7LDaIjhW_6fMMC8",
+      "name": "7.2 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-25T07:35:20.335Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Transcript Person Eating": {
+      "driveFileId": "1rwYu8v-Kya0rWZQrZV5RZtO_29v0sePKxIAwFh3Dhq4",
+      "name": "7.2 Lesson 1 Handout Transcript Person Eating",
+      "modifiedTime": "2024-08-25T07:35:20.013Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lesson 1 Handout Initial Design Reflection": {
+      "driveFileId": "1EGmljq4CwwKlpN91hvzF5Ap4aY2iuqVqkYTbxgiwINc",
+      "name": "7.2 Lesson 1 Handout Initial Design Reflection",
+      "modifiedTime": "2024-08-25T07:35:19.573Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lección 1 Folleto Reflexión del diseño": {
+      "driveFileId": "1c0zj_w_cMuOC7KvT3ExGd9Eggl9-3sy0BhOz3DAv4-4",
+      "name": "7.2 Lección 1 Folleto Reflexión del diseño",
+      "modifiedTime": "2024-08-25T07:35:19.409Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lección 1 Folleto Transcripción Abriendo un": {
+      "driveFileId": "1nlAsQOXqGPO3AzzYY5jSI5-uvAdTNTJHc7FiGU16cWs",
+      "name": "7.2 Lección 1 Folleto Transcripción Abriendo un",
+      "modifiedTime": "2024-08-25T07:35:18.755Z"
+    },
+    "Lesson 1 - 7.2 Chemical Reactions & Energy/7.2 Lección 1 Folleto Transcripción Persona comiendo": {
+      "driveFileId": "1DzxZ8jXuk3LGDUk9pHtwuOU0YkrltEatQ_AwRJVqPOk",
+      "name": "7.2 Lección 1 Folleto Transcripción Persona comiendo",
+      "modifiedTime": "2024-08-25T07:35:18.434Z"
+    }
+  }
+}

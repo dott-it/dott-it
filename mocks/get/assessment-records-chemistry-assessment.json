@@ -1,0 +1,94 @@
+[
+  {
+    "id": "record-1",
+    "assessmentId": "chemistry-assessment",
+    "studentName": "Alice Johnson",
+    "studentId": "student-1",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "handed_in",
+    "submittedDate": "Jan 20, 2025",
+    "score": null,
+    "maxScore": 20,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": null
+  },
+  {
+    "id": "record-2",
+    "assessmentId": "chemistry-assessment",
+    "studentName": "Bob Smith",
+    "studentId": "student-2",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "ready_for_review",
+    "submittedDate": "Jan 19, 2025",
+    "score": 88,
+    "maxScore": 20,
+    "reviewedDate": "Jan 21, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "strength",
+        "section": "Chemical Reactions",
+        "content": "Excellent understanding of chemical reaction principles."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-3",
+    "assessmentId": "chemistry-assessment",
+    "studentName": "Carol Davis",
+    "studentId": "student-3",
+    "className": "Period B",
+    "teacherName": "Dr. Smith",
+    "status": "handed_in",
+    "submittedDate": "Unknown",
+    "score": null,
+    "maxScore": 20,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": null
+  },
+  {
+    "id": "record-4",
+    "assessmentId": "chemistry-assessment",
+    "studentName": "David Wilson",
+    "studentId": "student-4",
+    "className": "Period B",
+    "teacherName": "Dr. Smith",
+    "status": "sent",
+    "submittedDate": "Jan 18, 2025",
+    "score": 75,
+    "maxScore": 20,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "improvement",
+        "section": "Lab Safety",
+        "content": "Good effort, but consider reviewing lab safety protocols."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-5",
+    "assessmentId": "chemistry-assessment",
+    "studentName": "Eva Brown",
+    "studentId": "student-5",
+    "className": "Period A",
+    "teacherName": "Dr. Smith",
+    "status": "revision_requested",
+    "submittedDate": "Jan 21, 2025",
+    "score": null,
+    "maxScore": 20,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": "Student's response content here..."
+  }
+]

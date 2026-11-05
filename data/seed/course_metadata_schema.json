@@ -1,0 +1,329 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "OpenSciEd Course Metadata Schema",
+    "description": "Schema for comprehensive OpenSciEd course and unit metadata",
+    "type": "object",
+    "required": [
+        "metadata",
+        "statistics",
+        "courses",
+        "units"
+    ],
+    "properties": {
+        "metadata": {
+            "type": "object",
+            "description": "Top-level metadata about the generated file",
+            "required": [
+                "generated_at",
+                "version",
+                "total_units",
+                "processed_units",
+                "raw_units",
+                "courses"
+            ],
+            "properties": {
+                "generated_at": {
+                    "type": "string",
+                    "format": "date-time",
+                    "description": "ISO timestamp when the metadata was generated"
+                },
+                "version": {
+                    "type": "string",
+                    "pattern": "^\\d+\\.\\d+$",
+                    "description": "Schema version (e.g., '1.0')"
+                },
+                "total_units": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "description": "Total number of units found"
+                },
+                "processed_units": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "description": "Number of units with processed content"
+                },
+                "raw_units": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "description": "Number of units with only raw data"
+                },
+                "courses": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "description": "Number of identified courses"
+                }
+            }
+        },
+        "statistics": {
+            "type": "object",
+            "description": "Statistical breakdown of units and courses",
+            "required": [
+                "by_subject",
+                "by_grade_level",
+                "by_processing_status"
+            ],
+            "properties": {
+                "by_subject": {
+                    "type": "object",
+                    "description": "Count of units by subject",
+                    "additionalProperties": {
+                        "type": "integer",
+                        "minimum": 0
+                    }
+                },
+                "by_grade_level": {
+                    "type": "object",
+                    "description": "Count of units by grade level",
+                    "additionalProperties": {
+                        "type": "integer",
+                        "minimum": 0
+                    }
+                },
+                "by_processing_status": {
+                    "type": "object",
+                    "description": "Count by processing status",
+                    "required": [
+                        "processed",
+                        "raw"
+                    ],
+                    "properties": {
+                        "processed": {
+                            "type": "integer",
+                            "minimum": 0
+                        },
+                        "raw": {
+                            "type": "integer",
+                            "minimum": 0
+                        }
+                    }
+                }
+            }
+        },
+        "courses": {
+            "type": "array",
+            "description": "List of identified courses",
+            "items": {
+                "type": "object",
+                "required": [
+                    "course_id",
+                    "name",
+                    "subject",
+                    "grade_level",
+                    "description",
+                    "units",
+                    "total_units",
+                    "processed_units",
+                    "raw_units",
+                    "course_output_exists"
+                ],
+                "properties": {
+                    "course_id": {
+                        "type": "string",
+                        "pattern": "^[a-z_]+$",
+                        "description": "Unique identifier for the course"
+                    },
+                    "name": {
+                        "type": "string",
+                        "minLength": 1,
+                        "description": "Human-readable course name"
+                    },
+                    "subject": {
+                        "type": "string",
+                        "enum": [
+                            "Biology",
+                            "Physics",
+                            "Chemistry",
+                            "Science"
+                        ],
+                        "description": "Academic subject"
+                    },
+                    "grade_level": {
+                        "type": "string",
+                        "enum": [
+                            "Kindergarten",
+                            "Elementary",
+                            "Middle School",
+                            "High School"
+                        ],
+                        "description": "Target grade level"
+                    },
+                    "description": {
+                        "type": "string",
+                        "minLength": 1,
+                        "description": "Course description"
+                    },
+                    "units": {
+                        "type": "array",
+                        "description": "List of unit IDs in this course",
+                        "items": {
+                            "type": "string",
+                            "pattern": "^[A-Z]\\.[0-9]+$|^[0-9]+\\.[0-9]+$|^K\\.[0-9]+$"
+                        }
+                    },
+                    "total_units": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "description": "Total number of units"
+                    },
+                    "processed_units": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "description": "Number of processed units"
+                    },
+                    "raw_units": {
+                        "type": "integer",
+                        "minimum": 0,
+                        "description": "Number of raw units"
+                    },
+                    "course_output_exists": {
+                        "type": "boolean",
+                        "description": "Whether course output exists"
+                    },
+                    "course_output_path": {
+                        "type": [
+                            "string",
+                            "null"
+                        ],
+                        "description": "Path to course output directory"
+                    }
+                }
+            }
+        },
+        "units": {
+            "type": "array",
+            "description": "List of all units with their metadata",
+            "items": {
+                "type": "object",
+                "required": [
+                    "unit_id",
+                    "course_id",
+                    "subject",
+                    "grade_level",
+                    "processing_status",
+                    "data_paths"
+                ],
+                "properties": {
+                    "unit_id": {
+                        "type": "string",
+                        "pattern": "^[A-Z]\\.[0-9]+$|^[0-9]+\\.[0-9]+$|^K\\.[0-9]+$",
+                        "description": "Unit identifier (e.g., 'B.2', 'P.4')"
+                    },
+                    "course_id": {
+                        "type": "string",
+                        "pattern": "^[a-z_]+$",
+                        "description": "Associated course ID"
+                    },
+                    "subject": {
+                        "type": "string",
+                        "enum": [
+                            "Biology",
+                            "Physics",
+                            "Chemistry",
+                            "Science"
+                        ],
+                        "description": "Academic subject"
+                    },
+                    "grade_level": {
+                        "type": "string",
+                        "enum": [
+                            "Kindergarten",
+                            "Elementary",
+                            "Middle School",
+                            "High School"
+                        ],
+                        "description": "Target grade level"
+                    },
+                    "processing_status": {
+                        "type": "string",
+                        "enum": [
+                            "processed",
+                            "raw"
+                        ],
+                        "description": "Processing status of the unit"
+                    },
+                    "data_paths": {
+                        "type": "object",
+                        "required": [
+                            "raw_data"
+                        ],
+                        "properties": {
+                            "raw_data": {
+                                "type": "string",
+                                "pattern": "^data/1_data_clean/[A-Z]/[A-Z]\\.[0-9]+$|^data/1_data_clean/[0-9]+/[0-9]+\\.[0-9]+$|^data/1_data_clean/K/K\\.[0-9]+$",
+                                "description": "Path to raw unit data"
+                            },
+                            "processed_content": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ],
+                                "pattern": "^data/2_processed_content/[A-Z]/[A-Z]\\.[0-9]+$|^data/2_processed_content/[0-9]+/[0-9]+\\.[0-9]+$|^data/2_processed_content/K/K\\.[0-9]+$",
+                                "description": "Path to processed content (null if not processed)"
+                            },
+                            "course_output": {
+                                "type": [
+                                    "string",
+                                    "null"
+                                ],
+                                "description": "Path to course output (null if not generated)"
+                            }
+                        }
+                    },
+                    "metadata": {
+                        "type": "object",
+                        "description": "Extracted unit metadata (only for processed units)",
+                        "properties": {
+                            "title": {
+                                "type": "string",
+                                "minLength": 1,
+                                "description": "Unit title/question"
+                            },
+                            "overview": {
+                                "type": "string",
+                                "minLength": 1,
+                                "description": "Unit overview description"
+                            },
+                            "ngss_standards": {
+                                "type": "array",
+                                "description": "Associated NGSS standards",
+                                "items": {
+                                    "type": "string",
+                                    "pattern": "^[A-Z]{2}-[A-Z]{2}[0-9]+-[0-9]+$"
+                                }
+                            },
+                            "estimated_lessons": {
+                                "type": "integer",
+                                "minimum": 1,
+                                "description": "Number of lessons in unit"
+                            },
+                            "last_processed": {
+                                "type": "string",
+                                "format": "date-time",
+                                "description": "Last processing timestamp"
+                            }
+                        }
+                    },
+                    "files": {
+                        "type": "object",
+                        "description": "Available files and counts (only for processed units)",
+                        "properties": {
+                            "overview": {
+                                "type": "string",
+                                "description": "Overview file name"
+                            },
+                            "ngss_standards": {
+                                "type": "string",
+                                "description": "NGSS standards file name"
+                            },
+                            "lesson_materials": {
+                                "type": "integer",
+                                "minimum": 0,
+                                "description": "Number of lesson material files"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

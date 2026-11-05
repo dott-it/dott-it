@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "a8a0b1d2-c3b4-4c5d-8e9f-0a1b2c3d4e5f",
+		"name": "Google Forms API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Google Form and Watch",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{baseUrl}}/api/google-forms",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"api",
+						"google-forms"
+					]
+				},
+				"description": "This request creates a new Google Form and sets up a watch to monitor for new responses. It requires Google Cloud authentication to be configured on the server."
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:3000",
+			"type": "string"
+		}
+	]
+}

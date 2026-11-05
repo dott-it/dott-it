@@ -1,0 +1,98 @@
+[
+  {
+    "id": "102310",
+    "title": "8.6 Lesson Green Anole Lizard Explanation",
+    "unitName": "Biology",
+    "unitCode": "Grade 8.n",
+    "subject": "Middle School",
+    "grade": 8,
+    "gradeName": "Grade 8",
+    "type": "Formative",
+    "dueDate": "2025-01-22T23:59:59.000Z",
+    "startDate": "2025-01-15T00:00:00.000Z",
+    "closeDate": "2025-01-22T23:59:59.000Z",
+    "status": "live",
+    "pendingRecords": 2,
+    "totalRecords": 5,
+    "studentCount": 5,
+    "submissionStats": {
+      "readyForReview": 1,
+      "revisionRequested": 1,
+      "done": 1
+    },
+    "description": "Assessment on natural selection using green anole lizard data",
+    "maxScore": 15
+  },
+  {
+    "id": "102311",
+    "title": "Water Cycle Assessment",
+    "unitName": "Earth Science",
+    "unitCode": "Middle School.t",
+    "subject": "Earth Science",
+    "grade": 6,
+    "gradeName": "Middle School",
+    "type": "Formative",
+    "dueDate": "2025-01-17T23:59:59.000Z",
+    "startDate": "2025-01-10T00:00:00.000Z",
+    "closeDate": "2025-01-17T23:59:59.000Z",
+    "status": "completed",
+    "pendingRecords": 2,
+    "totalRecords": 2,
+    "studentCount": 2,
+    "submissionStats": {
+      "readyForReview": 0,
+      "revisionRequested": 0,
+      "done": 2
+    },
+    "description": "Assessment on the water cycle and its components",
+    "maxScore": 12
+  },
+  {
+    "id": "102312",
+    "title": "Ecosystem Interactions Assessment",
+    "unitName": "Biology",
+    "unitCode": "High School.t",
+    "subject": "Middle School",
+    "grade": 7,
+    "gradeName": "High School",
+    "type": "Formative",
+    "dueDate": "2025-01-19T23:59:59.000Z",
+    "startDate": "2025-01-12T00:00:00.000Z",
+    "closeDate": "2025-01-19T23:59:59.000Z",
+    "status": "live",
+    "pendingRecords": 2,
+    "totalRecords": 2,
+    "studentCount": 2,
+    "submissionStats": {
+      "readyForReview": 1,
+      "revisionRequested": 0,
+      "done": 1
+    },
+    "description": "Assessment on ecosystem relationships and food webs",
+    "maxScore": 10
+  },
+  {
+    "id": "102313",
+    "title": "Chemical Reactions Assessment",
+    "unitName": "Chemistry",
+    "unitCode": "High School.t",
+    "subject": "Chemistry",
+    "grade": null,
+    "gradeName": "High School",
+    "type": "Formative",
+    "dueDate": "2025-01-21T23:59:59.000Z",
+    "startDate": "2025-01-14T00:00:00.000Z",
+    "closeDate": "2025-01-21T23:59:59.000Z",
+    "status": "completed",
+    "pendingRecords": 0,
+    "totalRecords": 0,
+    "studentCount": 0,
+    "submissionStats": {
+      "readyForReview": 0,
+      "revisionRequested": 0,
+      "done": 0
+    },
+    "description": "Assessment on chemical reactions and equations",
+    "maxScore": 20
+  }
+]

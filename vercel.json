@@ -1,0 +1,11 @@
+{
+    "buildCommand": "bash scripts/vercel-build.sh",
+    "installCommand": "pnpm install",
+    "framework": "nextjs",
+    "crons": [
+        {
+            "path": "/api/cron/thematic-analysis-first-run",
+            "schedule": "*/15 * * * *"
+        }
+    ]
+}

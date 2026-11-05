@@ -1,0 +1,21 @@
+
+OpenSciEd Units Seed Data Generation Report
+Generated on: 2025-07-18 14:40:13
+
+Summary:
+- Total Units Generated: 21
+- Total NGSS Standards: 19
+- Total Assessment Templates: 63
+
+Units by Grade:
+- Grade 6: 6 units
+- Grade 7: 6 units
+- Grade 8: 6 units
+- Grade 9: 2 units
+- Grade 10: 1 units
+
+Units by Subject:
+- Biology: 3 units
+- Earth & Space Science: 5 units
+- Life Science: 6 units
+- Physical Science: 7 units

@@ -1,0 +1,1 @@
+export { getBreadcrumbs, type BreadcrumbData } from '@/components/ui/breadcrumbs/util/get-breadcrumbs' 

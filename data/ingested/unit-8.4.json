@@ -1,0 +1,1306 @@
+{
+  "unitId": "8.4",
+  "unitTitle": "Earth in Space",
+  "description": "Students model the Earth-Sun-Moon system and explore celestial patterns. They investigate gravity's role in orbital motion and seasonal changes.",
+  "lessonCount": 17,
+  "suggestedPacingDays": 31,
+  "unitOverviewPath": "unit_materials/original/8.4 Earth in Space Unit Overview Materials.docx",
+  "ingestedFrom": "drive-index reingest (formals) + prior TE extract",
+  "ingestedAt": "2026-08-17T14:48:45.440Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "How are we connected to the patterns we see in the sky",
+      "title": "How are we connected to the patterns we see in the sky?",
+      "teacherEditionPath": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What patterns are happening in the sky that I have experienced and can observe (through models and tools)",
+      "title": "What patterns are happening in the sky that I have experienced and can observe (through models and tools)?",
+      "teacherEditionPath": "lesson_2/original/8.4 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "How can we explain the Sun’s path change over time",
+      "title": "How can we explain the Sun’s path change over time?",
+      "teacherEditionPath": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "How do these changes in sunlight impact us here on Earth",
+      "title": "How do these changes in sunlight impact us here on Earth?",
+      "teacherEditionPath": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How can we explain phenomena like Manhattanhenge",
+      "title": "How can we explain phenomena like Manhattanhenge?",
+      "teacherEditionPath": "lesson_5/original/8.4 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "Why do we see the shape of the Moon change",
+      "title": "Why do we see the shape of the Moon change?",
+      "teacherEditionPath": "lesson_6/original/8.4 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "Why do we see eclipses and when do we see them",
+      "title": "Why do we see eclipses and when do we see them?",
+      "teacherEditionPath": "lesson_7/original/8.4 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "What does a lunar eclipse look like and how can we explain it",
+      "title": "What does a lunar eclipse look like and how can we explain it?",
+      "teacherEditionPath": "lesson_8/original/8.4 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "Why do the Moon and Sun appear to change color near the horizon",
+      "title": "Why do the Moon and Sun appear to change color near the horizon?",
+      "teacherEditionPath": "lesson_9/original/8.4 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "How does light interact with matter in the atmosphere",
+      "title": "How does light interact with matter in the atmosphere?",
+      "teacherEditionPath": "lesson_10/original/8.4 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "How does the shape of a water droplet or an ice crystal cause sunlight to form into a rainbow",
+      "title": "How does the shape of a water droplet or an ice crystal cause sunlight to form into a rainbow?",
+      "teacherEditionPath": "lesson_11/original/8.4 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "Why does the Moon always change color during a lunar eclipse",
+      "title": "Why does the Moon always change color during a lunar eclipse?",
+      "teacherEditionPath": "lesson_12/original/8.4 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "What new patterns do we see when we look more closely at other objects in the sky",
+      "title": "What new patterns do we see when we look more closely at other objects in the sky?",
+      "teacherEditionPath": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "Why do some solar system objects orbit planets and others orbit the Sun",
+      "title": "Why do some solar system objects orbit planets and others orbit the Sun?",
+      "teacherEditionPath": "lesson_14/original/8.4 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "How did the solar system get to be the way it is today",
+      "title": "How did the solar system get to be the way it is today?",
+      "teacherEditionPath": "lesson_15/original/8.4 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 16,
+      "shortTitle": "What patterns and phenomena are beyond our solar system that we cannot see with just our eyes",
+      "title": "What patterns and phenomena are beyond our solar system that we cannot see with just our eyes?",
+      "teacherEditionPath": "lesson_16/original/8.4 Lesson 16 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 17,
+      "shortTitle": "How are we connected to all of the systems in space beyond the planet we live on",
+      "title": "How are we connected to all of the systems in space beyond the planet we live on?",
+      "teacherEditionPath": "lesson_17/original/8.4 Lesson 17 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "84-1-ao-3",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Models Gallery",
+      "shortTitle": "Initial Models Gallery",
+      "peCode": "1.C",
+      "buildingTowards": "Building towards: 1.C Develop an initial model of systems in space to describe patterns we observe in the sky.",
+      "lookListenFor": "What to look/listen for: Look for students who are including parts or interactions in their system that might not be necessary to explain the pattern they chose. For example, a student might have chosen to model seasons but included all eight classical planets in orbit around the Sun in their model.\nIn addition, look for students who are representing scale in their models by indicating “zooming” of perspectives. This is a sophisticated way to represent scale and will become part of our consensus model later in the unit. Make note of these models to highlight in Lesson Set 4.",
+      "whatToDo": "What to do: If students need support choosing what to put in their models, begin the Scientists Circle with a review of bounding systems. If most students are not modeling interactions, push students to think more about them (i.e., forces, sunlight, movement) among the parts as the class develops a consensus model. Make note of students who are representing interactions between parts and bring attention to their representations as the class builds their initial models.\nRevisit classroom norms. Take this opportunity to remind the class how we listen to one another, press on one another’s ideas, and ask questions of one another and that it’s OK to disagree with ideas but it’s important to be respectful. You can use slide S to remind students of the classroom norms (if you have developed your own set of norms, replace this slide with your norms).✱\nRemind students of the Communicating in Scientific Ways sentence starters.✱ Make certain a Communicating in Scientific Ways poster or handout is visible. Emphasize that each individual has contributions to make to their community of learners. Ask them which sentence starters they might want to use to help them talk to one another. Examples include these:\nThink of an idea, claim, prediction, or model to explain your data and observations:\nMy idea is ….\nI think that ….\nWe could draw it this way … to show ....\nGive evidence for your idea or claim:\nMy evidence is ….\nThe reason I think that this evidence supports this is ….\nOther examples could come from: (1) listening to others’ ideas and asking clarifying questions, (2) agreeing or disagreeing with others’ ideas, and (3) adding to others’ ideas.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/8.4 Lesson 1 Handout Initial Models Gallery.docx",
+        "teacherGuide": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L01-AO3.html"
+      }
+    },
+    {
+      "id": "84-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: Jess: when wombat season is and how what you…",
+      "shortTitle": "Look for: Jess: when wombat season is and how what you…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Obtain information from images, videos, and podcasts to describe patterns in natural phenomena of objects in the Solar System (and beyond), as seen from Earth.",
+      "lookListenFor": "What to look/listen for: Students should use the strategies and prompts on Listening Group Roles Reference to obtain and document information from the podcasts on Making Sense of the Podcast Jigsaw about the patterns and phenomena described by each interviewee and the connections to the sky. Listen for students to refer to the phenomena from each podcast:\nJess: when wombat season is and how what you see in the sky is connected to what you experience on Earth\nThebe: viewing Selemela and the Southern Cross or the giraffe stars and making connections to people all over the world who have been collecting knowledge about the sky and testing their ideas to transmit information to the next generation\nGerado: how using Sun and Moon based calendars allowed for rituals and gatherings to occur and mark the years\nAnnette: how the Loon is visible all year round but the Great Panther constellation is not.",
+      "whatToDo": "What to do: If students struggle to find the information they need in the reading, call attention to the strategies and prompts in Reading: The Body’s Nervous System.✱ Remind them to use the before, during, and after reading strategies from the close listening protocol on slide k. If students are struggling with listening to the podcast, allow students to read their assigned transcript with a partner.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L01-AO2.html"
+      }
+    },
+    {
+      "id": "84-1-ao-4",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: As the class builds…",
+      "shortTitle": "Look for: What to look/listen for: As the class builds…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Ask questions about systems in space that arise from observations of patterns in the sky.",
+      "lookListenFor": "What to look/listen for: As the class builds the Driving Question Board (DQB), listen for: (1) the subsystems, patterns, and changes in objects that students are asking questions about; and (2) how the questions relate to patterns and systems. Possible systems/subsystems could include the Earth–Sun, Earth–Moon, Earth–Sun–Moon, the Solar System, color changes of objects such as planets/moons/suns/stars/galaxies, shape changes (or eclipses/transits) of solar system objects, orbits, comets, etc.",
+      "whatToDo": "What to do: It is important that all questions posed by students be placed on the DQB regardless of whether they are open-ended or close-ended. As students ask questions, have them reflect on any patterns that have few or no questions posted on the DQB. Prompt students to generate more questions in this space so that we are motivated to investigate several subsystems of the Solar System. If students are struggling to come up with questions, have them look back through their science notebook, at the posters created during this lesson, at the podcasts, and at the stories from their community. Ask, what personal experience have you had viewing objects and their patterns in the sky? What was interesting or confusing about what you saw, and why you were able to see it? Give students time to go back and revise their sticky notes or create new sticky notes. If you notice this is occurring for several students, have them come together in a Turn and Talk, share their questions (or parts of questions) with their partners, and follow which objects or part of the system their question comes from.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L01-AO4.html"
+      }
+    },
+    {
+      "id": "84-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Use this as a pre-as…",
+      "shortTitle": "Look for: What to look/listen for: Use this as a pre-as…",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Ask questions about systems in space that arise from observations of patterns in the sky.",
+      "lookListenFor": "What to look/listen for: Use this as a pre-assessment to gauge how much your students already know about space. Listen for students to list observable phenomena connected to not only the motion of objects in the sky/space but also the appearance. Objects may include the Sun, Moon, stars, and planets. Some students may be suggesting comets and galaxies, while other students might suggest that the Sun goes around the Earth.",
+      "whatToDo": "What to do: Accept all ideas. If your students need support with foundational understandings (from earlier grade bands) about the motion of objects, make sure to take note in this lesson and then pause and establish these ideas when we model the Sun–Earth system in Lessons 2–4. If your students are eager to know more about other ideas, such as black holes or exoplanets, there are a number of optional readings and podcasts throughout this unit to connect students to myriad space-related phenomena.\nAs students are sharing their patterns and phenomena, push them to explain the phenomenon and connect it to something observable. If they struggle to do this, ask them, What are the objects connected to the pattern/phenomenon? What would we be able to see happening? Then give students time to respond to this feedback and create more sticky notes or revise what they wrote on their sticky note already with more detail, objects, observations, or connections.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/8.4 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L01-AO1.html"
+      },
+      "assessmentType": "pre-assessment"
+    },
+    {
+      "id": "84-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: The Earth’s axis points toward the North Star",
+      "shortTitle": "Look for: The Earth’s axis points toward the North Star",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Use a graphical display (a virtual fisheye projection of the sun, moon, and stars in the sky and compass points across the horizon) to identify temporal and spatial relationships (patterns in location of sunrise/moonrise and sunset/moonset, the paths of motion of the sun and moon, and and how most stars move and which one doesn’t in the sky at night) in a large data set (across 6 months from a specific location on Earth’s surface).",
+      "lookListenFor": "What to look/listen for: Student models should incorporate data (temporal and spatial relationships) from the Observing the Sky video to determine that the patterns of movement of objects in the sky is due to Earth’s spin on its axis. One object, the North Star, does not appear to move in the sky because Earth’s axis is pointed toward it. Look for the following:\nThe Earth’s axis points toward the North Star.\nA person standing on the surface of the Earth in the Northern Hemisphere.\nOther stars above the Northern Hemisphere of the Earth.\nThe Earth spins on its axis counterclockwise.\nThe Sun and Moon move across the sky from east to west.\nThe North Star does not appear to move because Earth’s axis is pointed toward it.",
+      "whatToDo": "What to do: Use your review of student initial models to make sure they use data as evidence to support that Earth’s axis is pointed toward the North Star. This understanding is the key one for them to have at this point in the unit, before moving on to the next year. If students are missing this understanding, ask them, What would explain why the North Star doesn’t appear to move in the sky, but all other stars, including our Sun, do appear to move? Have students revisit the patterns and non-patterns they identified earlier in the lesson to provide evidence for their thinking.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/8.4 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L02-AO1.html"
+      }
+    },
+    {
+      "id": "84-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Changes in the amount of daylight and angle o…",
+      "shortTitle": "Look for: Changes in the amount of daylight and angle o…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Collect and produce data showing patterns of changes in daylight and the angle of elevation of the Sun in the sky to serve as evidence to evaluate the accuracy of an initial physical Earth–Sun System model.",
+      "lookListenFor": "What to look/listen for: Students collect data using NOAA websites to identify patterns of changes in daylight and the angle of elevation of the Sun in the sky over hundreds of years. Look for the following:\nChanges in the amount of daylight and angle of elevation of the Sun in the sky occur in a cyclical pattern, repeating over hundreds of years.",
+      "whatToDo": "What to do: The concept that this is a repeated, cyclical pattern is important to establish so that students can use this data as evidence to examine the accuracy of the physical models created later in the lesson. If students are struggling to identify the patterns in the data because of how the data is structured by years, encourage them to re-write the data by months to make the yearly patterns more visible.\nLead a building understanding discussion. Present slide K.\nSuggested prompt\nSample student response\nHow has the amount of daylight changed over 500 years?\nIt stayed the same or only changed by a couple of minutes.\nover 1,000 years?\nIt stayed the same or only changed by a couple of minutes.\nover 1,500 years?\nIt stayed the same or only changed by a couple of minutes.\nHow has the solar elevation changed over 500 years?\nThey were pretty close.\nThey changed by hundredths of degrees.\nover 1,000 years?\nSome stayed the same, but others changed.\nSome changed by hundredths of degrees, and others changed by tenths of degrees.\nover 1,500 years?\nThey changed by tenths of degrees.\nWhat’s the relationship between the solar elevation and amount of daylight over the hundreds of years?\nThe higher the Sun is in the sky, the more daylight we have, so the Sun is taking a longer time to pass across the sky as it’s going higher.\nHow does this compare to the data you recorded using the videos of the simulation?\nThe data from the websites matches the data we recorded when we measured solar elevation and length of daylight from the simulation.\nThe data is not exactly the same, but the patterns are the same.\nHow does this data help explain why or how different communities created rituals to help mark and predict changes in the patterns of daylight during a year?\nThe changes in the Sun are stable and predictable.\nThese changes follow a stable pattern over hundreds of years. So people could count on the same things happening with the Sun at the same time each year.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L03-AO2.html"
+      }
+    },
+    {
+      "id": "84-3-ao-4",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Changes in the amount of daylight and angle o…",
+      "shortTitle": "Look for: Changes in the amount of daylight and angle o…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Collect and produce data showing patterns of changes in daylight and the angle of elevation of the Sun in the sky to serve as evidence to evaluate the accuracy of the Earth–Sun system model.",
+      "lookListenFor": "What to look/listen for: Students should identify that their models do not reflect the data they have collected. Look for the following:\nChanges in the amount of daylight and angle of elevation of the Sun in the sky occur in a regular, repetitive, and cyclical pattern.",
+      "whatToDo": "What to do: If students do not call out that the data they collected from the video and NOAA websites does not match the data they collected from measuring the physical models, have students refer back to Observations of the Sun: Location ____________, Sun Patterns Over Many Hundreds of Years, and their science notebook. Point out that the changes in daylight and the angle of elevation of the Sun in the sky are not reflected in the measurements we recorded using the physical models.\nSay, It sounds like we have some results that suggest our models might need to be revised in order to account for the patterns we think we should see year after year. Let’s plan to work on revising our models to better explain the patterns from our NOAA data tomorrow.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L03-AO4.html"
+      }
+    },
+    {
+      "id": "84-3-ao-5",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Earth’s axis is tilted at an angle toward Pol…",
+      "shortTitle": "Look for: Earth’s axis is tilted at an angle toward Pol…",
+      "peCode": "3.C",
+      "buildingTowards": "Building towards: 3.C Revise a model of the patterns of movement of the Earth around the Sun to explain changes in the amount of sunlight and angle of elevation of the Sun in the sky during the year due to Earth’s axis being tilted toward Polaris.",
+      "lookListenFor": "What to look/listen for: Models should identify the patterns of movement of the Earth around the Sun during a year to explain why there are cyclical changes in the amount of daylight and angle of elevation of the Sun in the sky. Look for the following:\nEarth’s axis is tilted at an angle toward Polaris.\nAs the Earth orbits around the Sun, differences in the amount of daylight and angle of elevation of the Sun in the sky change during certain times of the year in a repeating pattern.",
+      "whatToDo": "What to do: Use your review of student-revised models to make sure they understand that Earth’s axis is tilted and points toward Polaris. This understanding is key for moving forward in the unit. If students are missing this understanding, ask them, What would explain why the amount of daylight and angle of elevation of the Sun in the sky changes during the year? Or What impact does Earth’s orientation in space have on the amount of sunlight or the angle of elevation of the Sun in the sky during the year? Have students revisit the patterns they identified earlier in the lesson to provide evidence for their thinking.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L03-AO5.html"
+      }
+    },
+    {
+      "id": "84-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: The angle of the Sun in the sky increases fro…",
+      "shortTitle": "Look for: The angle of the Sun in the sky increases fro…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Use a graphical display (simulated motion from a virtual fisheye projection of the sun, moon, and stars in the sky and compass points across the horizon) to identify temporal and spatial relationships (patterns in solar elevation and length of day) in a large data set (across 6 months from a specific location on earth’s surface).",
+      "lookListenFor": "What to look/listen for: Students collect data, using the videos, about the angle of the Sun in the sky or hours of daylight during the course of a year. Look for the following:\nThe angle of the Sun in the sky increases from January to its greatest angle in June then decreases through December.\nThe hours of daylight increases from January to its greatest amount in June and then decreased through December.",
+      "whatToDo": "What to do: If students struggle with measuring the angle of the Sun in the sky, prompt them to examine the video and use a piece of paper to help make their measurements.\nShare data in a Scientists Circle. Present slide E and have students move into a Scientists Circle. As the two teams share their data, record it on a piece of chart paper titled, “Changes in amount of sunlight and angle of the Sun at midday over one year.” Instruct students to record the other team’s data into Observations of the Sun: Location ____________.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L03-AO1.html"
+      }
+    },
+    {
+      "id": "84-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students collect dat…",
+      "shortTitle": "Look for: What to look/listen for: Students collect dat…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Collect and produce data showing patterns of changes in daylight and the angle of elevation of the Sun in the sky to serve as evidence to evaluate the accuracy of an initial physical Earth–Sun System model.",
+      "lookListenFor": "What to look/listen for: Students collect data showing the patterns of changes in daylight using a physical model. Look for students to relate the measurements made using the fabric tape measure to relative hours of daylight using comparison terminology like shorter, longer, or equal.",
+      "whatToDo": "What to do: If students do not connect the length of daylight using the fabric tape measure to hours in the day, ask, What relationship does the measurement we recorded in inches have to do with the hours of daylight? Work with the class to agree that a certain measurement in inches would correspond to one hour of daylight.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/8.4 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L03-AO3.html"
+      }
+    },
+    {
+      "id": "84-4-what-causes-the-pattern-of-light-and-dark-on-the-moon",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "title": "What causes the pattern of light and dark on the Moon?",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 04 — What causes the pattern of light and dark on the Moon?.",
+      "files": {
+        "studentHandout": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Assessment What causes the.docx",
+        "teacherGuide": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": "Lesson 4 - 8.4 Earth in Space/8.4 Lesson 4 Answer Key What causes the.docx",
+        "googleForm": "https://docs.google.com/forms/d/1rSyAtEf5x2ebJbnHk7O_dGulM14lkHnDaoMhFhSRpEQ/viewform",
+        "googleFormTeacherReady": "https://docs.google.com/forms/d/1sIYiGxwVZWAiNxWNleTknNl5ADXu4kQxo97etrT6gm8/viewform",
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "84-4-ao-2"
+    },
+    {
+      "id": "84-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Use the partner and…",
+      "shortTitle": "Look for: What to look/listen for: Use the partner and…",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B.1 Develop and use models of patterns in the Earth-Sun system to identify the cause-and-effect relationships between Earth’s tilt, solar elevation, and sunlight energy on Earth’s surface and seasonal temperature differences.",
+      "lookListenFor": "What to look/listen for: Use the partner and whole class discussion as a formative assessment moment before students take the individual assessment. Look for the way that students are describing how the tilt affects the temperature. It is common for students to combine their ideas about proximity and warmth with the new ideas about the tilt of Earth to form a hybrid conceptual model. Students who are using this conceptual model will explain that the tilt of Earth pushes one hemisphere closer to the Sun in summer.",
+      "whatToDo": "What to do: If you hear this idea come out, highlight it and ask, Is that what is happening? Does anybody else have a different idea? Ask students to go back to the evidence from the investigation and explain how those data support this idea. The difference in distance due to the tilt of Earth between the two hemispheres is negligible compared to these numbers. Make sure the class comes to consensus that while, in general, proximity does affect how much energy we get from something, in this case, the concentration of the light is the primary driver of temperature patterns.\nHaving students select a personal norm for their work today will help reinforce to them that the class norms are important. This also creates an opportunity for students to actively participate in group work following norms and to self-regulate their participation in group activity. Over time, these norm-reinforcing strategies can help build a positive group-work culture by encouraging students to identify the resources that can strengthen their group and systems to ensure that all students are actively participating in sense-making.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L04-AO2.html"
+      }
+    },
+    {
+      "id": "84-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Modeling Sunlight Angles",
+      "shortTitle": "Modeling Sunlight Angles",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Develop, revise, and use models of the Earth-Sun system to create mathematical relationships of the seasonal patterns of the position of the Sun in the sky and of temperatures over the surface of Earth.",
+      "lookListenFor": "What to look/ listen for: See Key for Modeling Sunlight Angles for guidance. Students should make a connection between their model and solar elevation data to develop an explanation for the changes in intensity of sunlight on Earth’s surface at different times of the year. Students may identify that more of the surface is receiving sunlight, which heats up the ground and contributes to an increase in temperatures. They should also connect the increase in the amount of daylight hours to this increase in temperature.",
+      "whatToDo": "What to do: If students do not make the connection that sunlight heats up Earth’s surface, prompt them to think about differences in how they feel standing in sunlight versus the shade to call back to their prior knowledge. If students do not connect light energy per square on graph paper’s relationship to intensity of light, ask them to share their noticings about the apparent brightness of the light on the graph paper.\nIt is common for students to combine their ideas about proximity and warmth with the new ideas about the tilt of Earth to form a hybrid conceptual model for the system where proximity is still the primary cause of temperature patterns. If students were very convinced that distance from the Earth to the Sun was a factor in causing seasonal temperature change, take the time here to make a connection back to Seasonal Temperature Data to remind students that the data does not support that explanation, but the results from this investigation explain seasonal temperature change better. Have students take a moment to re-examine the distance data provided in the handout to understand that during the winter, the part of Earth where we live is closer to the Sun in its orbit.\nIf students are struggling with the connection between energy and temperature, remind them of what we figured out in OpenSciEd Unit 6.2: How can containers keep stuff from warming up or cooling down? (Cup Design Unit): that more energy transferred to Earth’s surface translates to more movement of the particles, which means higher temperatures.\nDiscuss initial ideas about how we explain seasons. Present slide I and tell students to turn and talk with a partner about the prompt on the slide: How do we know when one season ends and another begins?\nLook for students to mention the calendar dates we’ve used in class, changes in weather, or changes in the amount of daylight. Handout Defining Seasons or provide students with the link to https://www.ncei.noaa.gov/news/meteorological-versus-astronomical-seasons and say, I have a reading that might help us figure out how scientists determine when one season ends and another season begins. Read this tonight and come back next time ready to tell us what you think - which of these ways of marking seasons is most relevant to you? Why? It would be really great to talk with someone else about seasons, too - tell them what you’ve figured out in class and ask them what they think about the information you find in this article.\nHOME LEARNING OPPORTUNITY\nNote that the information in this article is supplemental and if students do not have a chance to read it, it will not hinder their understanding of the ideas in this unit. Home learning work should not be scored.\nEncourage students to share this article with someone else - a friend, a trusted adult, or even a younger sibling. Ask students to read the article, possibly with that other person, and then talk about how they think about seasons and connections they might have with seasonal changes, equinoxes, and/or solstices.\nIf time allows, you might choose to have your students read this article with a partner during class instead of taking it home.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_4/original/8.4 Lesson 4 Handout Modeling Sunlight Angles.docx",
+        "teacherGuide": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L04-AO1.html"
+      }
+    },
+    {
+      "id": "84-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Modeling Sunlight Angles",
+      "shortTitle": "Modeling Sunlight Angles",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B.2 Develop and use models of patterns in the Earth-Sun system to identify the cause-and-effect relationships between Earth’s tilt, solar elevation, and sunlight energy on Earth’s surface and seasonal temperature differences.",
+      "lookListenFor": "What to look/listen for: See Key for “What causes the seasons in Australia and why are they opposite of our seasons?” for guidance.",
+      "whatToDo": "What to do: If students are struggling to clarify their thinking around the different spatial cause-and-effect relationships of the position of the Sun and Earth for seasons at different locations on Earth, allow them to use the physical modeling supplies. Let them manipulate the Earth and Sun with you and begin by explaining verbally. Then encourage them to write or draw their thinking on paper.\nOffer an optional extension reading if students finish early, or send it as home learning. Display slide N. Say, The tilt of Earth as it orbits the Sun explains a lot of different patterns that we experience on Earth. Some of them we experience here in the Northern Hemisphere, and some of them we need to travel in order to experience. Offer students The Equator, the Midnight Sun, and the Analemma as an optional extension reading about other things we can explain with this model, including the midnight Sun and the annalema. This reading is also available as a handout.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_4/original/8.4 Lesson 4 Handout Modeling Sunlight Angles.docx",
+        "teacherGuide": "lesson_4/original/8.4 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L04-AO3.html"
+      }
+    },
+    {
+      "id": "84-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: Ideas about how the fixed tilt of Earth’s axi…",
+      "shortTitle": "Look for: Ideas about how the fixed tilt of Earth’s axi…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Develop and use a model of the Earth-Sun system to explain why Earth’s fixed tilt and orbit would cause a repeating pattern in the location of the Sun at sunset.",
+      "lookListenFor": "What to look/listen for: Student explanations should include the following:\nIdeas about how the fixed tilt of Earth’s axis and its orbit around the Sun causes the location of sunrise and sunset to change in one direction during one half of the year and change back (reverse) in the other direction during the second half of the year.\nIdentifying that an important point in the symmetry in when the patterns in the path of the Sun reverse is the summer (or winter) solstice and that this corresponds to when the tilt in the Northern Hemisphere of the Earth is most facing toward the Sun (or most facing away from it).\nStudents may also mention how these changes in where the sunset (and sunrise) occur correspond to changes in the path of the Sun and angle of the Sun in the sky (solar elevation) during the year.",
+      "whatToDo": "What to do: If students do not identify that there is symmetry in the patterns of the day length or solar elevation as a result of fixed tilt and orbit of the Earth, have them add details to their their Progress Trackers or Modeling Sunlight Angles from Lesson 4 to practice working with these ideas. If students do not identify changes in the location of sunrise or sunset as a result of these patterns, refer them to look again at Modeling the Earth–Sun System from Lesson 3, perhaps even recreating and manipulating that model again. You might also have them use their models to explain patterns in a series of local sunrise, sunset, and/or sun path images or video from the same location over the course of a year.\nDiscussion Self-Assessment. If time permits, distribute Self-Assessment for Classroom Discussions to students and have them fill it out on their own. After students complete Self-Assessment for Classroom Discussions, have them pick one thing they would like to work on in upcoming discussions and share that with a partner.✱\nUniversal Design for Learning: This is a great opportunity for students to self-assess their engagement in classroom discussions using Self-Assessment for Classroom Discussions. This discussion rubric can be used anytime after a discussion to help students reflect on their participation in the class that day.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/8.4 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L05-AO1.html"
+      }
+    },
+    {
+      "id": "84-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: Describing each lunar phase",
+      "shortTitle": "Look for: Describing each lunar phase",
+      "peCode": null,
+      "buildingTowards": "Building towards: Develop and use a model of the Earth-Sun-Moon system to explain and predict patterns we observe in the way the apparent shape of the Moon changes over time.",
+      "lookListenFor": "What to look/listen for: Check to make sure students are including these details:\nDescribing each lunar phase.\nAdding the Moon on the circle that represents its orbit in the position related to each phase.\nDo not expect students to be exact about waxing or waning phases.\nAccept crescent and gibbous Moons at the top left/right of the orbit or at the bottom left/right of the orbit.\nDistinguishing the lit and unlit sides of the Moon.",
+      "whatToDo": "What to do:\nIf students are not accurately distinguishing the lit and unlit sides of the Moon, encourage them to return to the physical model and make observations of the sunlight on the Moon.\nIf the placement of the Moon is inaccurate, have students draw lines from the observer to the sides of the Moon facing Earth to more concretely frame how much of the lit part of the Moon the observer could see.\nCreate a class version of the Moon phases chart. Display slide N. Bring the class back together and ask students to volunteer to share their understanding of each phase. As students share, record at the front of the room a version of the diagram from Shape Patterns of Earth-Sun-Moon System on a sheet of chart paper labeled “The Phases of the Moon.” Again, point out the perspective of looking down on the North Pole of Earth. Add the position of the Moon in the system for each phase as students share. Add two Moons for the crescent and gibbous Moons.\nAsk students how to show the unlit side of the Moon in Shape Patterns of Earth-Sun-Moon System and decide how you will represent this as a class. The convention used throughout this unit is a striped region, but each class may choose something different. Keep track of the choice in a key on the diagram you are making, and reassure students that it is OK if they used a different representation for the unlit side of the Moon; the important thing is that they represented it in some way.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/8.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L06-AO2.html"
+      }
+    },
+    {
+      "id": "84-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: In the first section of this copy of Lesson 6…",
+      "shortTitle": "Look for: In the first section of this copy of Lesson 6…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Develop and use a model of the Earth-Sun-Moon system to explain and predict patterns we observe in the way the apparent shape of the Moon changes over time.",
+      "lookListenFor": "What to look look for:\nIn the first section of this copy of Lesson 6: My Initial Model to Explain: ____________, students should sketch the Moon appearing slightly larger or smaller than it is currently. We haven’t yet figured out the direction of the orbit, so they likely won’t know if it's waxing or waning. If the current phase is a quarter Moon, students may draw a gibbous or crescent Moon. Do not expect students’ sketches to be exact, and expect that they may show more than a day’s change. For example, if the current phase is a full Moon, there will likely be variety in the size of students’ drawings of a gibbous Moon.\nIn the second section, students’ models should show the Moon a bit farther along in its orbit (again, we haven’t yet figured out the direction) than it was to model the current phase and show its position relative to the Earth and Sun that results in an observer seeing that next phase.",
+      "whatToDo": "What to do:\nIf students are struggling with taking the perspective of the person on Earth, the interactive on Day 2 may help them switch perspectives. Consider having them recreate their physical models after viewing the interactive to see if they are now able to demonstrate and explain why the Moon will look the way it does using the physical model.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/8.4 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L06-AO1.html"
+      }
+    },
+    {
+      "id": "84-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Refer to the key ide…",
+      "shortTitle": "Look for: What to look/listen for: Refer to the key ide…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Develop and use a model of the Earth-Sun-Moon system to explain why and when eclipses can be seen.",
+      "lookListenFor": "What to look/listen for: Refer to the key ideas listed in the previous box.",
+      "whatToDo": "What to do: If students are not connecting the parts and interactions of each model to the purpose, walk back through the process the class took to create each model. For example, once the class figured out a solar eclipse could occur when there is a New Moon, the question of whether there is a solar eclipse every New Moon came up. The class recognized that the model they had created at that point—“How does a solar eclipse happen?”—did not answer the new question, and so they needed to create a new one with new components and interactions.\nIf students are not recognizing the need for multiple perspectives, refer to a perspective that shows what a person sees and ask, Does this explain why an observer would/would not see an eclipse?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/8.4 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L07-AO2.html"
+      }
+    },
+    {
+      "id": "84-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students’ models sho…",
+      "shortTitle": "Look for: What to look/listen for: Students’ models sho…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Develop and use a model of the Earth-Sun-Moon system to explain why and when eclipses can be seen.",
+      "lookListenFor": "What to look/listen for: Students’ models should identify the alignment between the Earth, Sun, and Moon to explain why solar eclipses occur. Look for an alignment of the Earth, Moon, and Sun that results in the Moon’s shadow being cast on Earth causing the observer to experience an eclipse.",
+      "whatToDo": "What to do: If students haven’t figured out how to model a solar eclipse when you get to their group, ask questions such as the following to help them describe what’s happening during a solar eclipse, and then see if they can use their physical materials to represent that.\nWhat did the people in the video see during the solar eclipse?\nWhere would the Moon need to be relative to this person (pushpin) for them to see something similar?\nIf students are struggling, ask them to identify an object blocking their ability to see another object in their immediate vicinity, such as a classmate’s body blocking their view of the projector screen. Use that example to draw a parallel to the Moon blocking the Sun.\nAlso, if you have a student(s) who is/are struggling to model the solar eclipse in the small group, ask if they would be willing to help demonstrate the physical model set-up with the class during the upcoming discussion. The class can give the student(s) directions about how to hold/move the various objects/materials to represent the eclipse, and then you can follow up with these students privately after the discussion to check in on their individual understandings.\nDiscuss the physical models and create a classroom consensus model. Display slide I, and use the discussion questions listed here to come to consensus about how a solar eclipse happens.✱\nWhat happens with the Earth, Sun, and Moon when we see a solar eclipse? Let’s describe it using words and our physical models.\nWhy did Derek (from the video) have to travel to see the eclipse?\nWhat phase of the Moon is it when the Earth, Sun, and Moon are in those positions?\nStudents can remain in their groups, as they will continue using their physical model after this discussion and after they revise their individual models. If students can quickly and easily move into a Scientists’ Circle and then back into groups, this would be ideal.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/8.4 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L07-AO1.html"
+      }
+    },
+    {
+      "id": "84-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: Our model predicted that the Moon would get d…",
+      "shortTitle": "Look for: Our model predicted that the Moon would get d…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Evaluate the limitations of our system model predicting what we would see during a lunar eclipse.",
+      "lookListenFor": "What to look/listen for:\nWhile students are sharing ideas with a partner, listen for them to mention ideas such as the following:\nOur model predicted that the Moon would get darker; it did get dimmer, but not exactly how we thought.\nOur model predicted that the darkness or shadow would move from one side of the Moon to the other; it did.\nOur model predicted that the eclipse would only happen during a full Moon; it did.\nOur model predicted that the Moon would not be visible when the Moon was totally in Earth’s shadow, but it was visible (just dimmer and reddish!).\nOur model did not predict that the Moon would turn reddish.",
+      "whatToDo": "What to do: While you circulate listening to partner talk, consider taking note when you hear disagreement or bewilderment and ask, Would you share that idea during our whole-class discussion so we can all wrestle with it together? If students struggle to make connections between their predictions and the lunar eclipse images, refer partnerships back to the manipulatives they used to construct their physical models of an eclipse. Guide them in modeling the relative positions of the Earth, Sun, and Moon that coincide with the images they’re analyzing. For each image, ask, Is this how you expected the Moon to look? Why or why not?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/8.4 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L08-AO1.html"
+      }
+    },
+    {
+      "id": "84-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: Person A (seeing sunrise) is seeing a dimmer,…",
+      "shortTitle": "Look for: Person A (seeing sunrise) is seeing a dimmer,…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Revise our Earth–Sun system model to include ideas about how the Earth’s atmosphere causes light from the Sun and Moon to change colors.",
+      "lookListenFor": "What to look/listen for: As students talk with their partners and then again during the upcoming discussion, listen for students to share ideas such as these:\nPerson A (seeing sunrise) is seeing a dimmer, reddish-orange-colored Sun because the light is passing through more of the atmosphere.\nPerson B (midday) is seeing a brighter yellower/whitish Sun because the light is passing through less of the atmosphere.\nMaterials in the atmosphere (such as water vapor, clouds of water droplets and ice, other gasses, dust, and pollution) are affecting the color of light from the Sun–the more atmosphere the light travels through (such as for Person A), the more effect (more color change) we see.\nOther differences in the atmosphere (more pollution in some places than others, for instance) could also affect how people see the Sun from their position",
+      "whatToDo": "What to do:\nIf students need more support in determining the different “amounts of atmosphere” the sunlight travels through to reach Person A and Person B, encourage them to use a ruler and/or protractor to actually measure the lengths and/or angles of the sunlight approaching Person A and Person B to help them contrast those positions.\nRefer back to the images we used earlier in the lesson to clarify with students what each person would be seeing; you might even print out and attach small photos of the sky at sunrise near Person A and the Sun in the sky at noon near Person B to help students associate the view each person would have of the Sun and the different colors they might see.\nTake note of which students may need support during the sharing discussion that follows this partner talk; consider checking in with them before the whole-group sharing to alert them that you’ll be asking their help measuring for the class, annotating the model, or restating what someone else said in their own words.\nDiscuss why we might see different colors in the sky at different times of day. Display slide R. Use prompts such as those shown here to have students share their ideas of possible causes for the color changes we’ve noticed.\nSuggested prompts\nSample student responses\nFollow-up questions\nWhat variables did you or your partner identify that might be causing the differences we see in the sky between noon and sunset?\nMaybe the angle of the incoming light\nWhy might that be important?\nCould we measure that?\nIf there’s different stuff in the atmosphere\nWhat would cause there to be different stuff in the atmosphere?\nDo you mean at different times and/or different places?\nHow far the light travels through the atmosphere\nHow did you notice that?\nCould we measure that?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/8.4 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L09-AO1.html"
+      }
+    },
+    {
+      "id": "84-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Carry out an investigation to collect data as evidenc…",
+      "shortTitle": "Carry out an investigation to collect data as evidenc…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Carry out an investigation to collect data as evidence of the effect of light interacting with a simulated atmosphere.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: If students need more support as you’re visiting groups during the investigation, suggest they focus on color changes or brightness using prompts such as these.\nColor changes\nThe light started out white. Did it stay that way?\nWhat colors did you see close to the flashlight? Farther away from the flashlight?\nWhat do you think happened to the light to make it change that way?\nBrightness\nWas the light from the flashlight just as bright after it crossed the container?\nWhen and where was the light from the flashlight the brightest? When was it dimmest?\nWhat do you think happened to the light to make it change that way?\nIf students need more support synthesizing their results and responding to the sense-making questions on Investigation Elements Map, Predictions, and Results, you might suggest two groups share materials and set up side-by-side views lengthwise and widthwise through two containers to directly compare and contrast the color changes and brightness differences they observe.\nClean up and record what we figured out from this investigation. Display slide G for cleanup directions (modified as needed for your classroom) and provide time for cleanup.\nDisplay slide H and remind students to record their thinking in response to the final questions on their Investigation Elements Map, Predictions, and Results handout. Remind them to bring their handouts to the Scientists Circle.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/8.4 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L10-AO2.html"
+      }
+    },
+    {
+      "id": "84-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: As students carry ou…",
+      "shortTitle": "Look for: What to look/listen for: As students carry ou…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Carry out an investigation to collect data as evidence of the effect of light interacting with a simulated atmosphere.",
+      "lookListenFor": "What to look/listen for: As students carry out the investigation, visit groups and listen for ideas such as these. You can also read their observations and responses to the questions on Investigation Elements Map, Predictions, and Results and compare them to the sample responses provided in Investigation Elements Map, Predictions, and Results.\nThe light didn’t change color in the clear water from any view.\nThe light changed color in the milky water: from eye level, it looked yellower, oranger, and redder the more atmosphere (longer distance) or more particles in the atmosphere (greater density of particles) it was traveling through.\nThe light was dimmer when it was shining through more atmosphere.\nViewed from above, we can see bluish light in the milky water nearer the flashlight, and yellower/oranger/redder light as it moves through the atmosphere.\nBased on the results of their investigation of ¼ teaspoon of milk powder, students predict that the simulated atmosphere containing more particles (an additional ¼ teaspoon of milk powder) will cause the light to appear dimmer and redder/oranger.\nThe light is interacting with the simulated atmosphere: something about the particles in the atmosphere is affecting the light.\nThe light is being transmitted and reflected (scattered) differently—the blueish color is “getting out” (reflected/scattered), and the orangish color is “getting through” (transmitted).",
+      "whatToDo": "What to do: If students need more support as you’re visiting groups during the investigation, suggest they focus on color changes or brightness using prompts such as these.\nColor changes\nThe light started out white. Did it stay that way?\nWhat colors did you see close to the flashlight? Farther away from the flashlight?\nWhat do you think happened to the light to make it change that way?\nBrightness\nWas the light from the flashlight just as bright after it crossed the container?\nWhen and where was the light from the flashlight the brightest? When was it dimmest?\nWhat do you think happened to the light to make it change that way?\nIf students need more support synthesizing their results and responding to the sense-making questions on Investigation Elements Map, Predictions, and Results, you might suggest two groups share materials and set up side-by-side views lengthwise and widthwise through two containers to directly compare and contrast the color changes and brightness differences they observe.\nClean up and record what we figured out from this investigation. Display slide G for cleanup directions (modified as needed for your classroom) and provide time for cleanup.\nDisplay slide H and remind students to record their thinking in response to the final questions on their Investigation Elements Map, Predictions, and Results handout. Remind them to bring their handouts to the Scientists Circle.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/8.4 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L10-AO1.html"
+      }
+    },
+    {
+      "id": "84-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/ listen for: Monitor groups at t…",
+      "shortTitle": "Look for: What to look/ listen for: Monitor groups at t…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Conduct an investigation to collect and produce data as evidence to answer scientific questions about relationships of light interacting with differently shaped objects of varying compositions.",
+      "lookListenFor": "What to look/ listen for: Monitor groups at the stations and look/listen for their observations about the three key ideas: path of light, color changes, and brightness of light.",
+      "whatToDo": "What to do: At each lab station and for each lab group, prompt observations by asking focusing questions around the key observational data sets. See Suggested Prompts for the Rainbow Lab Investigation for suggested questions to ask for each data set. Prior to Day 2, observe student understandings by reading or collecting their responses to the reflection questions on Rainbow Lab Instructions and Data Collection to check for understanding of patterns; use these responses to inform which students or groups you check in with more frequently for support on Day 2",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/8.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L11-AO1.html"
+      }
+    },
+    {
+      "id": "84-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Students should incl…",
+      "shortTitle": "Look for: What to look/listen for: Students should incl…",
+      "peCode": "11.B",
+      "buildingTowards": "Building towards: 11.B. Develop and use a model to describe the separation of white light into different colors (effect) as it travels through different mediums (cause).",
+      "lookListenFor": "What to look/listen for: Students should include that light passing from the light source to the prism is traveling in a straight line. Upon entering the prism, the light angle should change and the respective colors begin to separate. The light should bend again when leaving the prism and returning to air. Once in the air, the respective spectrum colors should continue in straight lines until reflected off of another surface (like the box in their investigation). This reflected/scattered light should then travel in straight lines to the person’s eye. Students should note that the light broken into colors is less bright than the white light.",
+      "whatToDo": "What to do: As students work to apply their model, move about the room asking probing questions for specific points in their models. Some suggestions include the following:\nWhat is happening the moment when light enters the prism?\nDoes anything change when the light leaves the prism?\nAre all of the individual colors of light affected the same?\nHow are you showing that the direction of light can change, and yet every part of its path is made of straight lines?\nWhich colors of light seem to end up having their direction of travel changed more?\nWhich colors of light seem to end up having their direction of travel changed less?\nHow are you representing changes in light intensity (brightness) in your model?\nAre any colors brighter than other colors?\nHow do we see the colors? How do they get to our eyes?\nIf students are struggling to answer the prompts above, take time to set up some of the materials from Day 1 again, such as the prism, and talk with them through the modeling while they manipulate the physical materials.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/8.4 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L11-AO2.html"
+      }
+    },
+    {
+      "id": "84-12-explaining-fishing-related-phenomena",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "title": "Explaining Fishing-Related Phenomena",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 12 — Explaining Fishing-Related Phenomena.",
+      "files": {
+        "studentHandout": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Assessment Explaining Fishing Related-Phenomena.docx",
+        "teacherGuide": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Teacher Edition.docx",
+        "answerKey": "Lesson 12 - 8.4 Earth in Space/8.4 Lesson 12 Answer Key Explaining Fishing-Related Phenomena.docx",
+        "googleForm": "https://docs.google.com/forms/d/1EcMP6GBK3JtfJAtAioNqZSArFWKvtrPCq5OEwDkxIU0/viewform",
+        "googleFormTeacherReady": "https://docs.google.com/forms/d/1YhRJk8XEPY7YfQsbmz0HqT_2kpT2M8_a3k00oF4B3wQ/viewform",
+        "rubric": null
+      },
+      "linkedTeOpportunityId": "84-12-ao-1"
+    },
+    {
+      "id": "84-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for",
+      "shortTitle": "Look for: What to look/listen for",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A Develop and use a model of light in the Earth-Sun-Moon system to describe why the Moon changes color during a lunar eclipse.",
+      "lookListenFor": "What to look/listen for\nLight from the Sun travels through space in straight lines until it reaches the Earth, the Moon, or both.\nSome of the sunlight striking Earth's surface is reflected back toward space.\nSunlight hits the half of the Moon that is facing the Sun. This lights up, or illuminates, half of the Moon at all times.\nThe light bouncing or reflecting off of the Moon can scatter in many directions. Some of the reflected sunlight travels to the Earth, where the eyes of an observer (or a telescope or camera!) can gather this moonlight. This is how we see the Moon in our sky (except when there is a new Moon!).\nWhen the orientation of the Earth-Sun-Moon system causes a full Moon, the Earth can block direct sunlight from reaching and reflecting off of the Moon, so we would expect the Moon to go dark. However, it stays lit and turns a reddish color, which means light is somehow getting to its surface:\nWhite light passing through the Earth's atmosphere bends (refracts) or changes direction by the gasses (including water vapor) and other particles in the atmosphere so that some of the light reaches the Moon.\nLess light than normal (but still more light than none) reaches the Moon's surface after passing through the atmosphere and reflects back to Earth so we can see the Moon.\nAs this happens, the bluer light that makes up the white sunlight gets scattered disproportionately (more than red) in the atmosphere.\nMore of the redder light that made up the white sunlight passes through the atmosphere. This is the light that reaches the Moon’s surface and reflects off of it to Earth so the Moon looks reddish.\nThe red light is what gets through the atmosphere best, and then that red light is also bent by the atmosphere so it shines on the Moon.",
+      "whatToDo": "What to do: If students are having trouble explaining the changes during a lunar eclipse, remind them that they can refer back to the investigation notes they have in their notebooks. They can consider which parts of the systems they investigated are similar or different from the lunar eclipse and what they represent. If students are struggling to represent ideas such as the changes in light as it moves through the system, encourage them to use the resources gathered in their Progress Trackers.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/8.4 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L12-AO1.html"
+      }
+    },
+    {
+      "id": "84-13-ao-3",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Infographic Text",
+      "shortTitle": "Infographic Text",
+      "peCode": "13.C",
+      "buildingTowards": "Building towards: 13.C Analyze and interpret data to identify patterns in and between different scale properties for planets and some of their moons in our solar system (including relative size, orbital distance from the Sun, surface features, if any, and atmosphere).",
+      "lookListenFor": "What to look/listen for: As students analyze planetary and other solar system object data\nLook for diversity of ideas that will help generate ideas about the scale properties of the solar system and motivate needing the mechanisms behind why the solar system is organized the way it is. Such as\ncomparing the size of objects in the solar system relative to where they are located;\ncomparing composition of different planets relative to other planets;\nbeginning to compare how long it takes the planet to rotate on its axis and how long it takes to go around the main object it orbits; and\nbeginning to notice a relationship between location within the solar system and object size, object speed, and object orbital period.\nWhat to: If students struggle to describe accurate patterns that emerge from the data, including the correlation between average orbital distance, orbital period, and average orbital speed, then have them choose two objects from different infographics and ask specifically, is there something similar about these two objects? Is there something different about these objects?",
+      "whatToDo": "",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_13/original/8.4 Lesson 13 Handout Infographic Text.docx",
+        "teacherGuide": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L13-AO3.html"
+      }
+    },
+    {
+      "id": "84-13-ao-2",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: Both Mercury and Venus transits of the Sun ha…",
+      "shortTitle": "Look for: Both Mercury and Venus transits of the Sun ha…",
+      "peCode": "13.B",
+      "buildingTowards": "Building towards: 13.B Construct an explanation of the patterns in the apparent size and shape (scale properties) of Venus from Earth as it orbits the Sun.",
+      "lookListenFor": "What to look/listen for: See Key: Explaining Venus-Related Patterns for specific guidance on what to look for in each of the small responses for the 4 different phenomena on Explaining Venus-Related Patterns. For slide T individual responses (next section) that students write on the back of their handouts, look for additional ideas:\nBoth Mercury and Venus transits of the Sun have noticeable phases and are never visible at midnight. Both Mars and Jupiter do not match this pattern in any of these categories.\nMercury’s orbit must be similar to Venus, as it orbits the Sun in a path interior to the orbit of Earth.\nOptional: If Mars and Jupiter orbit the Sun, they must follow a path not interior to the orbit of Earth.",
+      "whatToDo": "What to do: If students struggle to document models similar to those shown in Key: Explaining Venus-Related Patterns, ask them to demonstrate the locations of Venus and the Earth related to a light source (e.g., bulb or flashlight) in the room for each of the 4 related phenomena. If students do not identify that Mercury’s orbit must be similar to Venus, ask them to demonstrate (with manipulatives) the relative location of Mercury, Earth, and the Sun when Mercury transits the Sun. Ask them what this tells us about how far Mercury must be from the Sun compared to Earth.\nUniversal Design for Learning: Allowing student choice in what manipulatives they wish to use for a physical model gives students options in how they want to represent the parts and interactions in the system.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L13-AO2.html"
+      }
+    },
+    {
+      "id": "84-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for",
+      "shortTitle": "Look for: What to look/listen for",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Read an article and use it to determine some observations people have made of one planet (Venus) in the past, the patterns they noticed over time, and different connections that different cultures have made to Venus.",
+      "lookListenFor": "What to look/listen for\nIdentifying Venus as appearing to the 3rd brightest object in the sky, that changes in brightness over time (multiple days).\nIdentifying Venus as appearing in different portions of the sky (day/night) at different points in time.\nIdentifying cultural connections such as associations with a god and/or timing important events, days of the week, or influencing life on Earth.",
+      "whatToDo": "What to do: See the two related alternate guidance boxes for other ideas on how to support students with either the reading in class or sharing the reading with trusted members of their community and how to gather additional information from that context.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/8.4 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L13-AO1.html"
+      }
+    },
+    {
+      "id": "84-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: If the force of gravity between the two objec…",
+      "shortTitle": "Look for: If the force of gravity between the two objec…",
+      "peCode": "14.B",
+      "buildingTowards": "Building towards: 14.B Use a simulation of a two-object system to produce data that can be analyzed to identify patterns to determine how changes in the mass or distance between the objects in the system affects the strength of gravitational forces between those objects in space.",
+      "lookListenFor": "What to look/listen for: Look for students to identify the following relationships:\nIf the force of gravity between the two objects decreases (mass decreases or distance between objects increases) or the outer object moves faster, the outer object will fly away.\nIf the force of gravity between the two objects increases (mass increases or distance between objects decreases) or the outer object moves too slowly, the outer object will crash into the inner object.",
+      "whatToDo": "What to do: With reference to the computer interactive, ask students to show you what they can manipulate in the system. Ask them what was interesting about their object or why they chose it to be represented in the interactive. Ask students what each object and component represents in the system. Reinforce that these manipulations are not possible in the real world . Use hypotheticals (“What if the Moon …”) to help students link simulation results to the actual orbit of the Moon or another object of their choosing. If students are still struggling to identify the independent and dependent variables, ask them to tell you what they changed in the system and what the effect was on their objects. If students need additional probing to identify independent and dependent variables, ask them what they kept constant or did not change in the system.\nIn the last 3 minutes available, have students close the interactive and discuss with their small group the making-sense questions on Simulating a Two-Object System.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/8.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L14-AO2.html"
+      }
+    },
+    {
+      "id": "84-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: Referencing gravity as an important force in…",
+      "shortTitle": "Look for: Referencing gravity as an important force in…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Develop and revise an initial model of the Earth-Moon system to show the location, strength, and interaction of gravitational forces in the system.",
+      "lookListenFor": "What to look/listen for:\nReferencing gravity as an important force in the system\nIdentifying gravity as a force that would tend to pull objects downward toward the surface of Earth (when near Earth’s surface)\nIdentifying where in the space above Earth and the Moon and between them gravitational forces would be found. This field-based thinking is similar to their prior work done in Magnets Unit.",
+      "whatToDo": "What to do: It is not expected that students will have all of these ideas developed at this point. This is an important pre-assessment of student thinking before they engage in the second formative assessment toward the end of this lesson: 14.B.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/8.4 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L14-AO1.html"
+      }
+    },
+    {
+      "id": "84-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: Beginning of the solar system was a collectio…",
+      "shortTitle": "Look for: Beginning of the solar system was a collectio…",
+      "peCode": "15.A",
+      "buildingTowards": "Building towards: 15.A.1 Develop and map evidence from written and media sources to support the claim that the solar system formed from a disk of gas and dust, drawn together by gravity that was once chaotic but has become more stable over time.",
+      "lookListenFor": "What to look/listen for:\nBeginning of the solar system was a collection of gas and dust particles in a disk going around our Sun.\nThe particles of this gas and dust were drawn together by gravity, which formed bigger pebbles and rocks.\nThese were drawn together to form even bigger clumps of matter; this process continued, forming asteroids, moons, and smaller planets.\nMany smaller planets collided to form larger planets over time.\nSome objects were thrown out of the solar system in this process.\nOver millions and millions of years, the collisions became less common and the solar system stabilized to the form it is today.",
+      "whatToDo": "What to do: If students are struggling to identify the steps, stress that at this point they may not be sure of the exact order or number of steps, but it is important that they get their ideas out. Refer them back to the video of the computer model and prior investigations from previous lessons about the solar system. If students do not show evidence for the steps in their storyboard, prompt them to provide information from both the video of the computer model and prior investigations to support the information presented in their storyboards.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/8.4 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L15-AO1.html"
+      }
+    },
+    {
+      "id": "84-15-ao-2",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: The solar system started as a disk of gas and…",
+      "shortTitle": "Look for: The solar system started as a disk of gas and…",
+      "peCode": "15.A",
+      "buildingTowards": "Building towards: 15.A.2 Develop and map evidence from written and media sources to support the claim that the solar system formed from a disk of gas and dust, drawn together by gravity that was once chaotic but has become more stable over time.",
+      "lookListenFor": "What to look/listen for:\nThe solar system started as a disk of gas and dust drawn together by gravity.\nThe Sun formed in the center of the disk, and the matter that was left over began to collect to form small planets.\nThe small planets collided many times over several millions of years, resulting in the creation of larger planets, asteroids, and comets.\nThe collisions became less common as objects in the solar system as the objects had stable orbits.",
+      "whatToDo": "What to do: Prompt students to go back to the information given in the computer model and what they have figured out in prior lessons as evidence to support the class consensus step-by-step storyboard.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/8.4 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L15-AO2.html"
+      }
+    },
+    {
+      "id": "84-16-ao-1",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "16.A",
+      "buildingTowards": "Building towards: 16.A Compare and critique two arguments emphasizing the same evidence (images of galaxies) about the organization of systems in space.",
+      "lookListenFor": "What to look/listen for: Look for students to notice that both models explain the evidence in different ways. Also look for students to seek out data related to how far away things are in space.",
+      "whatToDo": "What to do: Highlight student ideas about using telescopes to look more closely or measuring the distance to stars or blobs somehow. If students are struggling to see that both Shapley and Curtis took the same evidence about the organization of galaxies and explained it differently, another way you can support their understanding is to ask students to describe a different situation, phenomenon, or event where two people saw the same system but had different arguments about what happened.\nProject slide D. Say, Let us observe the image on the slide. In the 1920s, scientists used telescopes to confirm that there are islands of stars out there. They named the islands of stars galaxies. This allowed them to build a model for the known universe. Looking at this image and using what you have figured out so far about gravity and objects in space, who do you predict had the correct model, Shapley or Curtis? Accept all responses and then say, let’s gather some more information about the organization of systems in space.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/8.4 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L16-AO1.html"
+      }
+    },
+    {
+      "id": "84-16-ao-2",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "What look/listen for: Use this discussion as an opportu…",
+      "shortTitle": "What look/listen for: Use this discussion as an opportu…",
+      "peCode": "16.B",
+      "buildingTowards": "Building towards: 16.B Obtain and synthesize information across multiple sources about the organization of space systems in our universe from the human scale to the galactic scale.",
+      "lookListenFor": "What look/listen for: Use this discussion as an opportunity to formatively assess students’s ideas and respond in the moment to push student thinking.",
+      "whatToDo": "What to do: This is the first time in this unit students have used this element. To support them, use probing questions to clarify student ideas and encourage students to use gestures and drawings to express themselves. Here are some examples:\nI heard you say that gravity makes things go down, is that accurate?\nWhat do you mean when you say the galaxy is a circle? Can you show me with your hands or sketch a picture on the board?\nI heard you say that the stars are very far away. How does that affect what we see when we look at a galaxy?\nStudents will work in small groups and as a whole class to model the structure of the universe in Lesson 17, so you can also take that opportunity to assess their work with these ideas. Since they work first in small groups and then as a whole class to construct that model, if you notice here in Lesson 16 that students are struggling, you can plan to support them in Lesson 17 by working with their small group and/or scaffolding their participation in the discussion using sentence frames, visual aids, or other tools.\nAgree on a definition for galaxy. Say, We decided that each of the objects in the Hubble Deep Field photo were galaxies. How should we define the word galaxy? Accept all student ideas. Highlight ideas about galaxies having a lot of stars and about gravity. If gravity does not come up naturally, ask students what they think keeps all the stars together instead of flying into space.\nSummarize by saying, A galaxy is a large collection of stars held together by gravity. Just like how the planets orbit around our Sun, defining the boundaries of our solar system, all the stars in the Milky Way galaxy orbit around its center, defining the boundaries of the galaxy.\nAgree on a definition for universe. Then say, I have also heard a couple of people use the word universe over the past few weeks. What do we mean when we say universe? Look for students to say that “universe” describes everything we know about in space. Some students might mention the possibility of other universes.\nSummarize by saying, The universe is all of space, all of the matter, and all the energy in it. This includes the parts we can see and the parts we can’t.\nTake the time to add these words (galaxy and universe) to the Word Wall.\nConnect back to the Shapley-Curtis debate. Present slide G and direct students’ attention back to The Great Debate.\nSuggested prompt\nSample student response\nWho had the correct model, Shapley or Curtis?\nCurtis! There are many galaxies.\nWas Curtis totally right? Or was there something Shapley had right in his model?\nWe are not in the center of the Milky Way, we are on the edge, like in Shapley’s model.\nBoth Shapley and Curtis included gravity in their models. Why is gravity important for explaining the structure of the universe?\nBecause it keeps the systems together and determines how everything moves in orbits.\nHow does gravity keep systems together? I thought gravity was a force between two objects. What are the objects that are interacting through gravity?\nThe Moon and Earth\nEarth and the Sun\nThe Sun and the Milky Way galaxy\nThe Milky Way and a cluster of galaxies\nMake a public record of these ideas. Write down students’ ideas about objects that are interacting through gravity on chart paper titled “Objects that Interact through Gravity”.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/8.4 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L16-AO2.html"
+      }
+    },
+    {
+      "id": "84-17-ao-2",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Look for students to…",
+      "shortTitle": "Look for: What to look/listen for: Look for students to…",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A.2 Develop a model of the universe that shows how gravity forces cause the patterns of motion and organization of objects in space systems at multiple scales.",
+      "lookListenFor": "What to look/listen for: Look for students to articulate the role of gravity in bounding space systems by keeping things in orbit around more massive things.",
+      "whatToDo": "What to do: If students included gravitational interactions in their models, this may come naturally. If not, use probing questions to focus student attention on the interactions that each scale has in common. Such as the following:\nIt seems like we have different parts/objects in focus at different scales, but are the interactions between those objects fundamentally different, or are they due/produced/caused by the same things?\nWhy do all the parts of the solar system stay in the solar system? Why don’t they fly out into the galaxy, filling up the space between star systems?\nWhy don’t the stars, which we also know are moving, stay in the galaxy? Why don’t they fly out, filling up the space between the galaxies? Is this different than the reason for why Earth and other planets don’t fly away from our Sun or is it the same? How about why the Moon doesn’t fly away from Earth?\nModel each scale as a class, zooming backward toward Earth.\nSay, Let’s start with the largest scale and zoom in. What did you notice on most or all of the posters that we should include at the largest scale? Look for students to suggest galaxies. Note that students are not expected to know anything about the structure of galaxies, so accept however they choose to represent galaxies as a class, whether as spirals, circles, large clusters of stars, or some combination of shapes. Ask, Where did you see gravity forces modeled in this system?\nAsk, What should we zoom in on here to model next? Look for students to suggest zooming in on one of the galaxies. Students may suggest zooming in on a couple of star systems or zooming in on a larger swath of the Milky Way. Either is fine. Draw a box around where students want to zoom and then a line pointing to a new diagram. In the new diagram, draw another model with the parts and interactions students agree on. Ask, Where did you see gravity forces modeled in this system?\nRepeat this until students have zoomed in on our solar system. At this scale, look for students to suggest planets and the Sun. They may also suggest moons, asteroids, and/or comets. Do your best to include all the solar system objects that students suggest, but do not fish for more beyond planets and the Sun. Ask, Where did you see gravity forces modeled in this system?\nStudents may or may not decide to zoom in further to show some of the details of the Earth-Moon system or how gravity force pairs cause orbits in more detail. Record in a key the conventions you decide on as a class.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/8.4 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L17-AO2.html"
+      }
+    },
+    {
+      "id": "84-17-ao-1",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Rubric for Structure…",
+      "shortTitle": "Look for: What to look/listen for: Rubric for Structure…",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A.1 Develop a model of the universe that shows how gravity forces cause the patterns of motion and organization of objects in space systems at multiple scales.",
+      "lookListenFor": "What to look/listen for: Rubric for Structure of the Universe Models is provided to support you in providing feedback to students, and it includes specific elements and interactions to look for.",
+      "whatToDo": "What to do: Use probing questions to focus student attention on the interactions that each scale has in common.\nIt seems like we have different parts/objects in focus at different scales, but are the interactions between those objects different or are they the same?\nWhy do all the parts of the solar system stay in the solar system? Why don’t they fly out into the galaxy, filling up the space between star systems?\nWhy don’t the stars, which we also know are moving, stay in the galaxy? Why don’t they fly out, filling up the space between the galaxies? Is this different from the reason why Earth and other planets don’t fly away from our Sun or is it the same? How about why the Moon doesn’t fly away from Earth?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS1-1",
+        "MS-ESS1-2",
+        "MS-ESS1-3",
+        "MS-PS2-4",
+        "MS-PS4-2"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 8.4 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/8.4 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/8-4/L17-AO1.html"
+      }
+    }
+  ]
+}

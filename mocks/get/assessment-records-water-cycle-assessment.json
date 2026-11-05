@@ -1,0 +1,94 @@
+[
+  {
+    "id": "record-1",
+    "assessmentId": "water-cycle-assessment",
+    "studentName": "Kate Wilson",
+    "studentId": "student-11",
+    "className": "Period A",
+    "teacherName": "Dr. Davis",
+    "status": "handed_in",
+    "submittedDate": "Jan 20, 2025",
+    "score": null,
+    "maxScore": 12,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": null
+  },
+  {
+    "id": "record-2",
+    "assessmentId": "water-cycle-assessment",
+    "studentName": "Liam O'Connor",
+    "studentId": "student-12",
+    "className": "Period A",
+    "teacherName": "Dr. Davis",
+    "status": "ready_for_review",
+    "submittedDate": "Jan 19, 2025",
+    "score": 90,
+    "maxScore": 12,
+    "reviewedDate": "Jan 21, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "strength",
+        "section": "Water Cycle Process",
+        "content": "Excellent understanding of evaporation, condensation, and precipitation processes."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-3",
+    "assessmentId": "water-cycle-assessment",
+    "studentName": "Maya Patel",
+    "studentId": "student-13",
+    "className": "Period B",
+    "teacherName": "Dr. Davis",
+    "status": "handed_in",
+    "submittedDate": "Unknown",
+    "score": null,
+    "maxScore": 12,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": null
+  },
+  {
+    "id": "record-4",
+    "assessmentId": "water-cycle-assessment",
+    "studentName": "Noah Garcia",
+    "studentId": "student-14",
+    "className": "Period B",
+    "teacherName": "Dr. Davis",
+    "status": "sent",
+    "submittedDate": "Jan 18, 2025",
+    "score": 85,
+    "maxScore": 12,
+    "reviewedDate": "Jan 20, 2025",
+    "flagged": false,
+    "feedback": [
+      {
+        "type": "improvement",
+        "section": "Climate Impact",
+        "content": "Good work, but consider how climate change affects the water cycle patterns."
+      }
+    ],
+    "content": "Student's response content here..."
+  },
+  {
+    "id": "record-5",
+    "assessmentId": "water-cycle-assessment",
+    "studentName": "Olivia Taylor",
+    "studentId": "student-15",
+    "className": "Period A",
+    "teacherName": "Dr. Davis",
+    "status": "revision_requested",
+    "submittedDate": "Jan 21, 2025",
+    "score": null,
+    "maxScore": 12,
+    "reviewedDate": null,
+    "flagged": false,
+    "feedback": [],
+    "content": "Student's response content here..."
+  }
+]

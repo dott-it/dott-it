@@ -1,0 +1,1278 @@
+{
+  "unitId": "7.1",
+  "unitTitle": "Chemical Reactions & Matter",
+  "description": "Students design investigations to understand chemical reactions and conservation of matter. They explore how substances combine and change to form new materials.",
+  "lessonCount": 14,
+  "suggestedPacingDays": 25,
+  "unitOverviewPath": "unit_materials/original/7.1 Chemical Reactions & Matter Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/7/7.1",
+  "ingestedAt": "2026-07-01T13:38:40.425Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "What happens when a bath bomb is added to water (and what causes it to happen)",
+      "title": "What happens when a bath bomb is added to water (and what causes it to happen)?",
+      "teacherEditionPath": "lesson_1/original/7.1 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "Where is the gas coming from",
+      "title": "Where is the gas coming from?",
+      "teacherEditionPath": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "What’s in a bath bomb that is producing the gas",
+      "title": "What’s in a bath bomb that is producing the gas?",
+      "teacherEditionPath": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "Which combinations of the substances in a bath bomb produce a gas",
+      "title": "Which combinations of the substances in a bath bomb produce a gas?",
+      "teacherEditionPath": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "What gas(es) could be coming from the bath bomb",
+      "title": "What gas(es) could be coming from the bath bomb?",
+      "teacherEditionPath": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How can we explain another phenomenon where gas bubbles appear from combining different substances together",
+      "title": "How can we explain another phenomenon where gas bubbles appear from combining different substances together?",
+      "teacherEditionPath": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "How can we revise our model to represent the differences in the matter that goes into and comes out of the bath bomb system",
+      "title": "How can we revise our model to represent the differences in the matter that goes into and comes out of the bath bomb system?",
+      "teacherEditionPath": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "How can particles of a new substance be formed out of the particles of an old substance",
+      "title": "How can particles of a new substance be formed out of the particles of an old substance?",
+      "teacherEditionPath": "lesson_8/original/7.1 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "Does heating liquid water produce a new substance in the gas bubbles that appear",
+      "title": "Does heating liquid water produce a new substance in the gas bubbles that appear?",
+      "teacherEditionPath": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "When energy from a battery was added to water, were the gases produced made of the same particles as were produced from heating the water",
+      "title": "When energy from a battery was added to water, were the gases produced made of the same particles as were produced from heating the water?",
+      "teacherEditionPath": "lesson_10/original/7.1 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "How do Dalton’s models of the particles that change in a reaction compare to the ones we developed",
+      "title": "How do Dalton’s models of the particles that change in a reaction compare to the ones we developed?",
+      "teacherEditionPath": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "How can a new substance (a gas) be produced and the total mass of the closed system not change",
+      "title": "How can a new substance (a gas) be produced and the total mass of the closed system not change?",
+      "teacherEditionPath": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "Why do different substances have different odors and how do we detect them",
+      "title": "Why do different substances have different odors and how do we detect them?",
+      "teacherEditionPath": "lesson_13/original/7.1 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "What is happening to the Taj Mahal",
+      "title": "What is happening to the Taj Mahal?",
+      "teacherEditionPath": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 2
+    }
+  ],
+  "assessments": [
+    {
+      "id": "71-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Initial Model-based Explanation",
+      "shortTitle": "Initial Model-based Explanation",
+      "peCode": "1.A",
+      "buildingTowards": "Building towards: 1.A Develop a model showing what is happening at a scale smaller than we can see (patterns) to help explain what happened to the matter in the solid bath bombs (matter) and what caused the gas bubbles to appear (matter).",
+      "lookListenFor": "What to look for: This first model students develop on What Happens to a Bath Bomb When Put in Water? is more representative of what they see happening with the bath bomb at a macrosopic level. Therefore the particle level representations may not be included at all, or may be minimally included. They will develop a second model of this at a microscopic, or particle level next in Initial Model-based Explanation. Look for the following elements across their models and explanations to see if they bring these ideas to the table with the prompts for the task as written:\nParticle-level representations: Different types of particles in different parts of the system or at different points in time. Students may use other words to describe changes happening at the particle level as well. includings particles speeding up, spreading apart or coming together, colliding, breaking apart from other particles, and mixing in between other particles.\nUnobservable mechanisms labeled/referenced for two aspects of the phenomenon: Changes in the solid: through a process such as melting, dissolving, or reacting/interacting with other materials. Appearance of a gas: through a process such as the “release of a gas” from pockets in the solid, evaporation, boiling, or a new substance being produced that wasn’t there before from some of the matter that we started with.\nWhat do to: Make a copy of these explanatory models and compare them with what students show in their individual model and explanation at the end of Lesson Set 2. You may also want to have students compare their growth by comparing these artifacts as well, related to the elements mentioned above.",
+      "whatToDo": "",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_1/original/7.1 Lesson 1 Handout Initial Model-based Explanation.docx",
+        "teacherGuide": "lesson_1/original/7.1 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L01-AO1.html"
+      }
+    },
+    {
+      "id": "71-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Listen for questions that are open (how/why) and testab…",
+      "shortTitle": "Listen for questions that are open (how/why) and testab…",
+      "peCode": "1.B",
+      "buildingTowards": "Building towards: 1.B Ask questions that arise from our observations of different bath bombs before and after they were added to water in order to seek additional information about what caused the changes (effects) we saw occurring. This includes what happened to the matter in the solid bath bombs and what caused the gas bubbles to appear as well as what kind of changes are happening to the matter in examples of other related phenomena we raised.",
+      "lookListenFor": "What to listen for: Listen for questions that are open (how/why) and testable versus closed (yes/no) in the classroom. Also listen for questions that are specific to the bath bomb and questions that are about related phenomena when solids are added to liquids.",
+      "whatToDo": "What to do: Since students will put their initials on the backs of these sticky notes, you will have a few opportunities to take stock of the kinds of questions students ask in this initial lesson after they are posted on the DQB, as well as now when they write them. When students share these questions for the DQB, they will likely only have time to share one. Collect the remaining questions that don’t get posted after the development of the DQB is complete. This record of questions they form today will help you formatively assess their fluency in the practice at the start of this year. If your students are asking mostly closed questions, you can provide a copy of a photo of the questions on the Driving Question Board, and ask them to work on refining three or more of these questions so that they become “how” and “why” questions that can help answer the original question posted as well the original yes/no question. This could be an in-class or home-learning assignment. For practice (e.g., exit/entrance ticket) the following two questions can be answered at the end or start of any future lessons:\nWhat questions were raised for us (now or from the end of the last lesson)?\nHow might we investigate one or more of those questions using equipment in our classroom to collect our own data or using data that other people have collected in other places?",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.1 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L01-AO2.html"
+      }
+    },
+    {
+      "id": "71-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: As students carry out the bottle…",
+      "shortTitle": "Look for: /listen for: As students carry out the bottle…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.2 Collaboratively plan and carry out an investigation in a closed system to answer the question, “Where does the gas produced by the bath bomb come from?”",
+      "lookListenFor": "What to look for/listen for: As students carry out the bottle investigation, look for students to include measuring the mass of the entire contents of the bottle system before and after tilting the bottle over to mix the contents together. Check to see that students are remembering to seal the cap tight on the bottle before taking both measurements.",
+      "whatToDo": "What to do: If you notice a group that has skipped measuring the mass beforehand, and time permits, encourage them to start over and run a new trial, asking them first why they need to measure both the mass before and after mixing in order to answer the lesson question.\nCollect data from each group. Display slide S. As groups finish their investigations and clean up their materials, have them enter their group’s data on class-wide data tables you’ve made on the board (if you can save it there for day 2) or chart paper. See the example tables below.\nGroup\nChange in mass (g)\nin the closed system\nChange in mass (g)\nafter opening the system\n1\n2\n3\n4\n5\n6\nStudents should have observed no significant change in mass in the closed system. They should have also noticed that there was a significant mass loss when the closed bottle system was opened. Remind your students that many scales are only accurate to within 0.1 gram of the true mass being measured, so changes of plus or minus 0.1 gram are not significant. If your students see an unexpected mass change greater than the possible error range for your scales, ask them what could account for the change. Measurement error, failure to tighten the lid well, changing to a different scale, or failing to zero the scale could explain significant differences in measurements.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L02-AO2.html"
+      }
+    },
+    {
+      "id": "71-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: There are three discussions in t…",
+      "shortTitle": "Look for: /listen for: There are three discussions in t…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A.1 Collaboratively plan and carry out an investigation in a closed system to answer the question, “Where does the gas produced by the bath bomb come from?”",
+      "lookListenFor": "What to look for/listen for: There are three discussions in this part of the lesson that scaffold students in collaboratively planning investigations to figure out where the bath bomb gas comes from. During these discussions, pay attention to which of your students are able to contribute meaningfully to identify the data, tools, and measurements needed to answer the lesson question. Throughout the lesson, try to elicit responses from everyone in the class so that you can formatively assess which students may need more support and guidance when planning future investigations. See the Key Ideas box for additional guidance.",
+      "whatToDo": "What to do: If students are not raising the idea of trapping the gas during the initial discussion, ask them to think back to their experiences from prior units. There is guidance in the Teacher Guide about specific experiences students had in OpenSciEd Unit OpenSciEd Unit 6.2: How can containers keep stuff from warming up or cooling down? (Cup Design Unit) and OpenSciEd Unit 6.3: Why does a lot of hail, rain, or snow fall at some times and not others? (Storms Unit) that could help them generate ideas for this investigation.\nSuggested prompt\nSample student response\nOne claim we’re considering is whether the gas is already part of the bath bomb, trapped inside it. How can we investigate whether the gas from the bath bomb is coming from inside the bath bomb itself?\nWe should crush the bath bomb (without adding any water) to see if the gas comes out.\nHow will we know if gas comes out from inside of the bath bomb when we crush it?\nWe need to trap the gas.\nWe should crush the bath bomb in a closed container like a ziplock bag.\nIf our claim that the gas is trapped in the bath bomb is correct, then what would we observe? What would be our evidence for this claim?\nWe will see the bag inflate because gas takes up space.\nWhat evidence would go against (or refute) the claim that the gas is trapped in the dry bath bombs?\nIf the bag does not inflate, no gas was released when we crushed them.\nWhat other data should we collect during this investigation that would provide evidence for the claim that the gas is already in the bath bomb, trapped inside?\n(If needed) How could we use our key model idea that gases have mass to help answer our question?\nWe should weigh the bag.\nWe need to find the mass of the whole system (bag and bath bombs).\nWe would need to compare the mass before and after we crush it.\nHow would measuring the mass of the bag before and after we crush the bath bombs give us evidence to support or refute our claim?\nWhen we keep the bag closed, the mass should be the same before and after we crush it because nothing left the system or got added to it.\nThat thinking about a closed system sounds like a key model idea we already know. What do you already know about closed systems from the Cup Unit?\nLet’s add that to our list of key model ideas.\nIn a closed system, no matter can get in or out, so the mass stays the same.\nWhat if we opened the bag after crushing the bath bombs? What evidence might that give us to support or refute our claim?\nIf the bag has less mass when we open it after crushing, we know something got out of the system. That evidence would support the idea that gas was trapped in the bath bombs, because it would leave the system when we open the bag.\nOkay, on our Key Model Ideas chart, we have an idea about closed systems. What can we add about what happens in an open system from what we remember from the Cup Unit?\nIn an open system, matter can get in or out, so the mass can change if that happens.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L02-AO1.html"
+      }
+    },
+    {
+      "id": "71-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: the mass of the bath bomb and water did not c…",
+      "shortTitle": "Look for: the mass of the bath bomb and water did not c…",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Construct and present an oral and written argument supported by empirical evidence and scientific reasoning to support the claim that gas is not trapped in the bath bomb to start with but must come from some change to the matter that was already in the system to begin with.",
+      "lookListenFor": "What to look for/listen for: Look for the use of key model ideas, for example that gas is matter so it has mass and takes up space. Look for the use of observations as evidence, such as:\nthe mass of the bath bomb and water did not change in the closed system,\nthe mass did not change before and after crushing, and\nthe bag did not inflate after crushing.\nMaking connections between the evidence and relevant key model ideas is the challenging part of providing coherent reasoning, so look for that logic as well. For example, “The gas must come from something that is already there--it is not new matter. We know that it came from something already there because…” Sample Student Response for Written Argument is also available for your reference.",
+      "whatToDo": "What to do: Collect the written arguments and identify where students are using evidence (underline it) and key model ideas (highlight them). Students will benefit from seeing multiple examples of where this support is being used in their own writing or in the writing of their peers.\nDirect students to work individually to write an answer to the lesson question in the form of a well-supported argument.✱ Have them use a new page of looseleaf notebook paper so you can collect their work as a formative assessment. They will make a claim, support their claim with evidence, and provide reasoning to connect their claim with any relevant key model ideas to show why their evidence supports their claim.✱ Allow students the rest of the class time to write their arguments, and complete the exit ticket that follows (on slide Y).\nEXIT TICKET\nSince this is students' first chance this year to write a strong and convincing argument, take a moment to ask them how confident they feel about this practice. Use slide Y to present the question, On a scale of 4 (totally independent) to 1 (need lots of help with this), how are you feeling right now about writing a well-supported argument? Briefly explain what makes you feel that way and what help you could use as you develop this practice. Direct students to respond on the bottom or back of the page where they wrote their argument. Students will have another chance to reflect on their confidence with argumentation in Lesson 5 so you and they can consider their progress with this practice.\nHOME LEARNING OPPORTUNITY\nIf more time is needed, you may choose to have students complete their written arguments and/or the exit ticket reflection as home learning.\nClose today’s lesson. As students turn in their written arguments, thank them for their work today and remind them that we will continue figuring out these bath bombs next time.\nAdditional Lesson 2 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.W.7.1: Write arguments to support claims with clear reasons and relevant evidence.\nIn this lesson, students write an argument based on evidence and supported by reasoning with key model ideas. At this point in their development, this written argument was scaffolded by class discussion and resources in the room, but as the unit and school year progress, students will develop more independence with this skill.\nCCSS.ELA-LITERACY.SL.7.1: Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.\nCCSS.ELA-LITERACY.SL.7.1: Come to discussions prepared, having read or researched material under study; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.\nIn this lesson, students are expected to gather data by observing whole-class demonstrations and then by working with a small group. Those data serve as evidence to support claims students discuss with partners and the whole class at the conclusion of the lesson. Students are expected to participate fully in these discussions, referencing the evidence they’ve gathered, listening to their classmates, and working together to build strong arguments.\nUniversal Design for Learning:\nIf you would like to offer sentence starters to support your students as they engage in writing, here are some examples, which are also provided on optional slide X.\nSentence starters for referencing specific data could include:\nWhen we did the investigation ____(name or description)______, we found that the data showed that _(description of the data)__.\nWe saw _(description of the data)__ in our investigation.\nFor using key model ideas, you could offer\nThis means __________ because we know ___(key model idea)____.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.1 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L02-AO3.html"
+      }
+    },
+    {
+      "id": "71-3-ao-4",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Lesson 03 · Check-in 4",
+      "shortTitle": "Lesson 03 · Check-in 4",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "",
+      "whatToDo": "This exit ticket structure is one you should use often, even if we do not specifically call out this structure. The student responses to these questions will allow you to assess students’ sense of coherence in the science content storyline, their curiosity, and how they are working with other classmates’ ideas in their learning community. Since this is an individual task, it will give you a good measure of this from each student. Additionally, this structure will communicate to your students that you value what they think and wonder about related to the science ideas you are focusing on in the unit.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L03-AO4.html"
+      }
+    },
+    {
+      "id": "71-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Look for students to observe and…",
+      "shortTitle": "Look for: /listen for: Look for students to observe and…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A.1 Analyze and interpret data to identify patterns in the characteristic properties of substances.",
+      "lookListenFor": "What to look for/listen for: Look for students to observe and mention what ingredients were similar among the different recipes and connect this to the idea that these ingredients might be responsible for the bath bombs bubbling.",
+      "whatToDo": "What to do: Guide students to note patterns in the data, and categorize these using words/phrases that scientists also use to describe similarities and differences around different kinds of characteristics. Have students state the purpose of looking at the ingredients to help them to connect these activities to the original phenomena. Some students might struggle with providing enough detail when describing the physical characteristics of each substance. Ask students, What properties make these substances differ from each other and what properties make them similar? How might you write your descriptions differently to show these differences? Engaging in this type of dialog will help push students to dig deeper into their observations allowing them to make stronger connections to data and potential evidence for explaining what is causing bubbles in bath bombs.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L03-AO1.html"
+      }
+    },
+    {
+      "id": "71-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: None of the substances made bubbles when adde…",
+      "shortTitle": "Look for: None of the substances made bubbles when adde…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A.2 Analyze and interpret data to identify patterns in the characteristic properties of substances.",
+      "lookListenFor": "What to look for/listen for: As students report out their observations with the rest of the class in the whole class discussion, listen for these ideas:\nNone of the substances made bubbles when added to water.\nSome of the substances dissolved when added to water--these were soluble in water.\nSome of the substances didn’t change in water. They just clumped up or formed a layer--these were insoluble in water.\nA couple of the substances made the water turn murky or cloudy--these were partially soluble in water.",
+      "whatToDo": "What to do: If students are hesitant to share or there are not enough students sharing the patterns they found when they tested the different substances in water, pause the discussion and ask them to turn and talk with someone that was not in their small group and compare what they found in the investigation so they can compare and see if they have similar results.\nShare patterns. Guide students to note patterns and categorize these using words/phrases that scientists also use to describe similarities and differences around different kinds of characteristics.\nSuggested prompts\nSample student responses\nFollow-up questions\nWhat are some of your observations--what did you notice?\nThere are several of these that are white powdery or crystal stuff.\nWhat do all of these have in common? How are they different?\nThe coconut oil seems to melt when I hold it in my hand.\nWhat does it mean to melt?\nWhen making observations, what patterns do you notice?\nLots of them are white but others have a different color.\nWhen I poured the water and the olive oil, they seemed to pour (flow) out of the cup differently.\nSo color is one of your observations?\nAre you saying the liquids flowed differently?\nYou have different amounts and masses of each. Are you recording this in your observations?\nNot really--that is not going to help me tell the ingredients apart.\nWhy not? Are there some observations that will?\nStudents should note these observations as they collect their data. The ingredients in the bath bomb (that we had to start with) have characteristics that we can use to tell them apart (and also to determine what each one is). Say, Let’s add examples of all the characteristics we could use to help identify our ingredients. We will write each characteristic on a separate sticky note and stick them on the Word Wall. Are there examples we can add now?\nLet students suggest, write, and post the examples. Listen for these characteristics students bring up after observing the ingredients:\nSome have different colors (color).\nTexture (whether it is granular or powdery).\nSome have a noticeable scent/smell, but others do not (odor).\nOne turned to liquid when touched (it went above its melting point of 76 degrees), while others didn’t change phase.\nThey are liquid or solid at room temperature (different states of matter at room temperature).\nThe liquids flow differently (viscosity).\nMass.\nHow much space it takes up (volume).\nYou may notice that students add characteristics that are not properties such as mass, volume, and/or texture. At this point allow these words to be added to the Word Wall. We will sort through all of these words to see which of these characteristics are properties on day 2.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L03-AO2.html"
+      }
+    },
+    {
+      "id": "71-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Looking for evidence of bubbles coming from the ingredi…",
+      "shortTitle": "Looking for evidence of bubbles coming from the ingredi…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Plan and carry out an investigation to collect data to identify patterns in the characteristic properties of substances from a bath bomb when they are individually added to water.",
+      "lookListenFor": "What to look for/listen for:\nLooking for evidence of bubbles coming from the ingredients when they are placed in water.\nThe physical observation of what happened to each ingredient when it was added to water.\nTesting only one ingredient at a time so that they know what ingredient is potentially responsible for producing the bubbles.",
+      "whatToDo": "What to do: If you see groups rushing from one test to the next, without first writing down their observations for the previous one, remind those groups that detailed observations are important for providing evidence for future arguments. If you notice some students not participating, or not being included, remind the small group of the class norms and ask them how they could alter what they are doing so that all of them are contributing members of the investigation.\nStudents may offer several ideas. Accept all and discuss as a class how to keep track of them in a data table. Some suggestions students may make might include, temperature, mass, color change, thickness change, etc.✱\nSolicit ideas for recording data. Work together as a class to determine a way to organize their data, keeping in mind that they will add the rest of the ingredients when groups share their data with the class. Draw their suggested data table on the board. Tell students they should make a data table in their notebooks also to keep track of the data they collect for the ingredients they test.✱\nCarry out the investigation. Display slide K. Give each team Lab Procedure for Mixing the Ingredients in the Water and their set of assigned ingredients to test in water using the visual procedure on the slide. This student investigation should take no more than 10 minutes.\nReport the results. Display slide L. Ask a few students to report what they saw happen to each ingredient when it was added to water. They can bring their labeled cups up to the front of the room and line them up on the front table as they report their results for other groups to see, if you wish. Ask students to also compare how this was the same or different from bath bombs interacting with water. Encourage students to add ingredients that they did not test to their data table. Each student should have data for each ingredient after everyone has shared.\nSuggested prompts\nSample student responses\nFollow-up questions\nOkay, so we are trying to figure out what causes the gas bubbles in the bath bomb. Looking at our class data, can we come to any conclusion about what causes the gas bubbles?\nNot really…because none of the ingredients resulted in gas bubbles.\nNone of these ingredients bubbled when we put them in water.\nWhat other patterns in the data do you notice?\nWhat does that information tell you?\nWas there anything all the ingredients had in common?\nThere wasn’t a gas made for any of the ingredients when mixed with water.\nWhat did this data tell you?\nWas there anything in the data that was different between the ingredients after being mixed with water?\nSome of the ingredients looked as if they didn’t mix with the water--they just floated on top of the water.\nWhich ingredients were those?\nSome ingredients dissolved in the water and the liquid looked clear. But others looked cloudy or milky.\nDo you think the ones that looked milky dissolved like the ones that looked clear? Why or why not?\nYou said some ingredients “dissolved.” Do you have ideas about how that happens? What does it mean to dissolve?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.1 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L03-AO3.html"
+      }
+    },
+    {
+      "id": "71-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: all the possible combinations of substances t…",
+      "shortTitle": "Look for: all the possible combinations of substances t…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.1 Conduct an investigation to produce data to serve as the basis for evidence to determine which combinations (patterns) of substances in a bath bomb cause bubbles of gas to appear (effect).",
+      "lookListenFor": "What to look/listen for: On day 1, listen for discussions about how data are needed to support a claim:\nall the possible combinations of substances that need to be tested [9 x 9 = 81]\npossible redundancies with some combinations\nmaking predictions about the patterns of causes (combinations) and effects (bubbles) they expect to see",
+      "whatToDo": "What to do: If students are struggling to consider the number of combinations or redundancies, you may want to talk through creating a chart with them rather than jumping to the one you already have prepared.\nGive students about 3–4 minutes to get into small groups and discuss the following questions on slide D:\nWhat are we hoping to figure out by testing combinations of these different ingredients?\nWhat evidence are we looking for to help figure that out?\nHow many different possible combinations will we have if we combine them two at a time to water?\nPrepare for the investigation. Say, I have a chart listing each of these 10 ingredients in each row and in each column. Let’s see if we can use it to reason out how many unique combinations there are for us to try.\nDistribute a copy of Combinations of Ingredients to Test to each student. Display slide E. Say, I was thinking we could have 10 groups, and each group could test all the combinations for a row in this table. For example, group 1 could test coconut oil, which is listed at the start of their row, with each of the ingredients listed at the tops of the 10 columns.\nAsk, Does anyone see any combinations in this row that it wouldn’t make sense for this group to do? Students will say, Coconut oil with coconut oil.\nPoint out that this sort of redundancy might be in other rows too. Mark Xs in these boxes together as you identify them as a class, as shown below.✱\nSay, This leaves 9 combinations for each group to try. I will give each group an ice cube tray like this one, which has 12 spots in it. Hold up an ice cube tray to show the class.\nSay, This will allow each group to test the 9 combinations they are assigned from their row. So, let’s assign the groups now.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L04-AO1.html"
+      }
+    },
+    {
+      "id": "71-4-ao-3",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: Baking soda and water were in every combinati…",
+      "shortTitle": "Look for: Baking soda and water were in every combinati…",
+      "peCode": "4.B",
+      "buildingTowards": "Building towards: 4.B Construct and present a written and oral argument supported by citing empirical evidence and scientific reasoning that only certain combinations (patterns)  of substances (water, baking soda, and citric) result (cause) in the formation of a gas (effect).",
+      "lookListenFor": "What to look/listen for:\nBaking soda and water were in every combination that produced gas.\nCitric acid was also in every combination that produced gas.\nWhile there might be other substances in the lemonade mixtures as well, none of those were needed to produce a gas in one of the cases we tested (citric acid, baking soda, and water).",
+      "whatToDo": "What to do: Support for encouraging students’ responses to each other is listed in the text of the teacher guide. If students are struggling to connect the arguments to the patterns in the data, refer back to the whole-class data chart (slide L) and/or the lemonade mix ingredient lists to ask, What similarities can we find here?",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L04-AO3.html"
+      }
+    },
+    {
+      "id": "71-4-ao-4",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: Listen for students posing and responding to…",
+      "shortTitle": "Look for: Listen for students posing and responding to…",
+      "peCode": "4.C",
+      "buildingTowards": "Building towards: 4.C Apply scientific ideas and evidence (patterns in properties) to co-construct an explanation that the substance(s) in the gas bubbles must be a different substance(s) than the water, baking soda, or citric acid.",
+      "lookListenFor": "What to look/listen for:\nListen for students posing and responding to relevant questions, and citing relevant sources of evidence such as are listed in the “Key Ideas” callout box during that discussion. The students should use patterns in the data to support their discovery of which substances combine to cause bubbles.",
+      "whatToDo": "What to do: Support for encouraging students’ responses to each other is listed in the text of the teacher guide. If students are struggling to connect their arguments to the patterns in the data, refer back to the whole-class data chart (slide L) and/or the lemonade mix ingredient lists to ask, What similarities can we find here? If students are struggling to support their claims with evidence and reasoning, you may choose to record the argument as shared writing as the class composes it, and then underline evidence and highlight key model ideas as you did in Lesson 2.\nSuggested prompts\nSample student responses\nFollow-up questions\nLet’s begin by taking stock of what you figured out.\nBaking soda, citric acid, and water are the ingredients needed to cause bubbles.\nHow many people agree with this statement?\nHow do we know this? What evidence do we have of this?\nWe tested one ingredient at a time and they did not react in water.\nOnly the citric acid with baking soda in water or the lemonade mix with baking soda in water caused bubbles to appear.\nThe only ingredient both lemonade mixes had that also was a substance we tested by itself (along with baking soda by itself) was citric acid.\nWho can restate what our last speaker said?\nWho can explain what ideas they agree with, disagree with, or can add to?\nFacilitate a Building Understandings Discussion. Say, OK, so we know that in the bath bombs, the substances that cause the gas bubbles are baking soda, citric acid, and water. But we still don’t know what the gas is. Do you think this gas that appears is a different substance, or one of these substances?\nDisplay slide N. Ask students to read the following questions to themselves first and think about them for a minute.\nWhat claim can we make about the gas in the bubbles? Is it any of the substances we started with, or is it a new substance(s)?\nSay, As we develop our ideas about these questions, I will ask others to weigh in on what’s being said. You might hear me say something like, “Can we restate what that person said? Can you explain why you agree or disagree? Does everyone agree?” In order for us to be able to hear and respond to everyone’s ideas, we need to listen for understanding and speak clearly.✱\nMake sure the anchor chart for arguing for (or against) a claim from Lesson 2 is visible.\nSay, I am also going to ask us to listen specifically for people using evidence and key model ideas. Whenever you hear someone reference evidence, snap your fingers. Whenever you hear a key model idea we’ve agreed on, lightly tap your feet on the floor. You can snap or tap even if someone is repeating evidence or a key model idea they just heard from someone else. Then I might pause to ask where or how that evidence or key model idea was used to support our claim.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L04-AO4.html"
+      }
+    },
+    {
+      "id": "71-4-ao-2",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: As students conduct…",
+      "shortTitle": "Look for: What to look/listen for: As students conduct…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A.2 Conduct an investigation to produce data to serve as the basis for evidence to determine which combinations (patterns) of substances in a bath bomb cause bubbles of gas to appear (effect).",
+      "lookListenFor": "What to look/listen for: As students conduct their investigation, note whether they are recording observations for all 9 combinations they are responsible for testing. They will then be able to contribute these to the class-wide data table, which will then be a resource they can use to notice patterns across groups. This larger set of data will help then meet the goal of their investigation: determining what combination of substances are causing bubbles to appear.",
+      "whatToDo": "What to do: If you notice that students are not engaged with their groups, check in with those students. Encourage group members to swap turns in combining the substances for each cube in their tray. Also encourage students to discuss what they are observing in each cube in their tray with their group members, even if no bubbles are appearing.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.1 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L04-AO2.html"
+      }
+    },
+    {
+      "id": "71-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for:  Students should notice patterns…",
+      "shortTitle": "Look for: /listen for:  Students should notice patterns…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.1  Analyze and interpret the data for common gases to look for patterns that could be used to identify an unknown gas by its characteristic properties.",
+      "lookListenFor": "What to look for/listen for:  Students should notice patterns in the properties of gases, including melting point, density, and flammability.",
+      "whatToDo": "What to do: If students are struggling with looking at all the data on Some Common Gases at once, encourage them to cover the last 3 columns of data with a blank piece of paper to hide those at first, and then after analyzing that part of the data table, slide the paper over to look at each subsequent column of data, one at a time.\nSuggested prompts\nSample student responses\nFollow-up questions\nWill someone share one thing they noticed about this data?\nI noticed that it lists some gases that I’ve heard of and some that I haven’t.\nWhich ones are new to you?\nHas anyone heard of that gas?\nWhat do you already know about it?\nWill someone share another thing they noticed about this data related to each of these gases?\nI noticed that there are a lot of different densities listed on the sheet.\nCan you give some examples of gases that are more dense than air?\nCan you give some examples of gases that are less dense than air?\nWhat else did you notice about the data?\nThere are some gases listed here that say they will explode.\nThere are also some gases that are not flammable and others that help things burn.\nCan you give an example of each?\nWhich gases are those?\nDoes anyone want to share a wondering they had?\nI wonder what the gas from a bath bomb would do--would it explode?\nI wonder if we could test the gas from a bath bomb for its density and flammability and then maybe we can figure out what gas it is.\nDo you want to try these ideas out?",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L05-AO1.html"
+      }
+    },
+    {
+      "id": "71-5-ao-4",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Listen for how students draw on…",
+      "shortTitle": "Look for: /listen for: Listen for how students draw on…",
+      "peCode": "5.C",
+      "buildingTowards": "Building towards: 5.C.1 Construct, use, and present an oral and written argument for an explanation that the gas in the bubbles from the bath bomb can be narrowed down to only three possible substances (out of ten of the most common ones in the air) supported by the patterns in the results from density and flammability tests and data on their properties and the use of related key model idea.",
+      "lookListenFor": "What to look for/listen for: Listen for how students draw on the evidence from their observations of the density and flammability tests and their previous work on My Predictive Explanations for the Gas from a Bath Bomb in small-group discussions, using the protocol on Discussion Protocol: Density and Flammability.",
+      "whatToDo": "What to do: Encourage students to follow the protocol during the small-group discussions. If they are struggling with this, tell them to check off each step as they complete it.\nDivide the students into small groups. Arrange your students in groups of 3. Mix them in groups different from their lab group from the previous class. They will need\ntheir notebooks turned to their last entry in the Progress Tracker,\nthe data table from Some Common Gases,\ntheir predictive explanations from My Predictive Explanations for the Gas from a Bath Bomb, and\nthe new handout, Discussion Protocol: Density and Flammability.\nSet up the protocol. Display slide M and spend a few minutes as a whole class going over the protocol with students. Ensure that the anchor poster you made from Lesson 2 is clearly visible to all groups. Make sure they understand that everyone in the group will share their ideas in the form of making a claim about one gas that could be from the bath bomb or one gas it couldn’t be. All students will participate in giving feedback to their peers. Have students practice snapping their fingers and lightly tapping their feet. Reserve at least 9 minutes for students to participate in this activity. Set a timer so that students know when a new classmate should offer their claims.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L05-AO4.html"
+      }
+    },
+    {
+      "id": "71-5-ao-2",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Students crossing off candidate…",
+      "shortTitle": "Look for: /listen for: Students crossing off candidate…",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A.2 Analyze and interpret the data for common gases to look for patterns that could be used to identify an unknown gas by its characteristic properties.",
+      "lookListenFor": "What to look for/listen for: Students crossing off candidate gases in light of new evidence they collect.",
+      "whatToDo": "What to do: If students are struggling with using their data to eliminate gases, you could lead a class discussion where students take turns stating one gas they eliminated and what data they used to eliminate it.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L05-AO2.html"
+      }
+    },
+    {
+      "id": "71-5-ao-5",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Use Elements to look for in stud…",
+      "shortTitle": "Look for: /listen for: Use Elements to look for in stud…",
+      "peCode": "5.C",
+      "buildingTowards": "Building towards: 5.C.2 Construct, use, and present an oral and written argument for an explanation that the gas in the bubbles from the bath bomb can be narrowed down to only three possible substances (out of ten of the most common ones in the air) supported by the patterns in the results from density and flammability tests and data on their properties and the use of related key model idea.",
+      "lookListenFor": "What to look for/listen for: Use Elements to look for in students’ written arguments for guidance on what to look for in their written argument. Use this guidance to provide feedback to students on their written arguments.",
+      "whatToDo": "What to do: For students who struggle with writing this argument, you could provide them with anonymized copies of a couple of exemplar student responses for them to annotate. Ask them to circle the claim, underline the evidence, and highlight the use of key model ideas in both. Ideally provide them two arguments that have different structure and different flow in how all of this is sequenced and connected together.\nEncourage students by reminding them that they have had multiple chances to practice these arguments in small teams and with the whole class. Now it is time for them to write their arguments individually and “show off” what they have learned. Tell them that they can use the posters around the room, their notebooks, the data table, and any other material from the lessons as a resource to write their argument.✱",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L05-AO5.html"
+      }
+    },
+    {
+      "id": "71-5-ao-3",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Look for: If the gas from the bath bomb puts out a flam…",
+      "shortTitle": "Look for: If the gas from the bath bomb puts out a flam…",
+      "peCode": "5.B",
+      "buildingTowards": "Building towards: 5.B Apply scientific reasoning based on patterns in the densities for a known set of gases to explain how either of two different possible outcomes from a future investigation could help us narrow down the sub-set of candidate substances from what could be in the unknown gas from the bath bomb.",
+      "lookListenFor": "What to look for in student responses on My Predictive Explanations for the Gas from a Bath Bomb:\nIf the gas from the bath bomb puts out a flame above it, that means it is __less____ dense than the room air, which has a known value between ___1.160 to 1.161 g/L_____. I know this because ____ materials that are less dense float upward when surrounded by matter that is more dense_______. If evidence supports this prediction, it tells me that the gas from a bath bomb could be __neon, and/or helium ___________.\nIf the gas from the bath bomb puts out a flame below it, that means it is __more____ dense than the room air which has a known value between ___1.160 to 1.161 g/L_____. I know this because ____ materials that are more dense sink downward when surrounded by matter that is less dense_______. If evidence supports this prediction, it tells me that the gas from a bath bomb could be __nitrogen, argon, and/or carbon dioxide___________.",
+      "whatToDo": "What to do: If you notice students are struggling when they are forming these for the first time, you could pause the activity. Then talk through the responses and rationale for what they would put in each of the blanks on slide I, together as a whole class for the first prediction. You could then have them individually write their understanding of what you just discussed, and have them try the same for the second prediction shown on slide J. For students who need additional scaffolding for this explanation, use Alternate: My Predictive Explanations for the Gas from a Bath Bomb that has sentence starters and other supports.\nSupporting Emerging Multilingual Learners\nScaffolds such as sentence starters and images can model and facilitate particular oral or written language production skills. Such scaffolds may be of particular benefit for emerging multilingual students to help them develop language skills to write or communicate their ideas to peers. It is important that scaffolds be used purposefully and removed when no longer needed. To support this, a modified handout has been made available Alternate: My Predictive Explanations for the Gas from a Bath Bomb.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_5/original/7.1 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L05-AO3.html"
+      }
+    },
+    {
+      "id": "71-6-alternate-explaining-another",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Alternate Explaining another",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 06 — Alternate Explaining another.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.1 Lesson 6 Assessment Alternate Explaining another.docx",
+        "teacherGuide": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/7.1 Lesson 6 Answer Key Elements to look.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfAmrOj5ACfEA72JLMbyELe7bqiJcBrlpp1YVIkdFhXhYfTvg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-6-explaining-another-phenomenon",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Explaining Another Phenomenon",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 06 — Explaining Another Phenomenon.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.1 Lesson 6 Assessment Explaining Another Phenomenon.docx",
+        "teacherGuide": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/7.1 Lesson 6 Answer Key Elements to look.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSc7YSoT96Pco6XGeGeVv6_Ngb2QGjNM10U0Qt0mC5Ycrz37HQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Use Elements to look for in stud…",
+      "shortTitle": "Look for: /listen for: Use Elements to look for in stud…",
+      "peCode": "6.A",
+      "buildingTowards": "Building towards: 6.A Apply key model ideas and patterns in mass and property data to construct three explanations for: a) why the mass of a system decreases when substances are mixed together (potassium iodide and hydrogen peroxide), b) which substance(s) could or could not be produced in that process, and c) what additional tests could be done on the gas (or other gases) to help identify additional substances that aren’t being produced in this process.",
+      "lookListenFor": "What to look for/listen for: Use Elements to look for in students’ written arguments for guidance on what to look for in their written argument. Use this guidance to provide feedback to students on their written arguments.",
+      "whatToDo": "What to do: For students who need additional scaffolding for the written argument, use Alternate: Explaining another phenomenon that has sentence starters and other supports for students.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_6/original/7.1 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L06-AO1.html"
+      }
+    },
+    {
+      "id": "71-7-self-evaluation-engaging-in",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "title": "Self-evaluation Engaging In",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 07 — Self-evaluation Engaging In.",
+      "files": {
+        "studentHandout": "lesson_7/original/7.1 Lesson 7 Assessment Self-evaluation Engaging In.docx",
+        "teacherGuide": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-7-ao-2",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: Particles that make up the initial substances…",
+      "shortTitle": "Look for: Particles that make up the initial substances…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.2 Develop and revise a model to predict and describe the unseen interactions between particles in a system to show that matter is conserved in a process where the type of particles that make up the starting substances (system inputs) somehow change through their interactions to make different type(s) of particle(s) in the ending substances (system outputs).",
+      "lookListenFor": "What to look/listen for:\nParticles that make up the initial substances could have been joined together to make new particle clusters that are new substances, but these are still made of the same type of smaller particles we started with.\nParticles in the initial substance can be broken apart into smaller particles that are new substances, but the particles we start with are made of the same type of particles we end up with.",
+      "whatToDo": "What to do: For students who struggle with brainstorming ideas for what could be happening with the particles when new substances are formed, tell them that it is OK if they are not sure. Encourage them to think about anything that could be possibly going on at a particle level, because this is not something we can directly observe, so we have to push ourselves to use our imagination and creativity to come up with possible model ideas we have never considered before.\nAdditional Lesson 7 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.SL.7.1.C Pose questions that elicit elaboration and respond to others' questions and comments with relevant observations and ideas that bring the discussion back on topic as needed.\nCCSS.ELA-LITERACY.SL.7.1.B Follow rules for collegial discussions, track progress toward specific goals and deadlines, and define individual roles as needed.\nBoth of these ELA goals are the focus of the discussion in the Scientists Circle. The focus connecting questions, sources of evidence, what we observed, and key science ideas of other students create an agreed upon set of consensus ideas to add to the Progress Tracker. These facets of the Scientists Circle rely on both goals above.\nUniversal Design for Learning:\nAllowing students to express their ideas using multiple modalities supports student ownership of their learning by giving students choice, access, and control in navigating their own understanding around the science ideas.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L07-AO2.html"
+      }
+    },
+    {
+      "id": "71-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Connecting what we f…",
+      "shortTitle": "Look for: What to look/listen for: Connecting what we f…",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A.1 Develop and revise a model to predict and describe the unseen interactions between particles in a system to show that matter is conserved in a process where the type of particles that make up the starting substances (system inputs) somehow change through their interactions to make different type(s) of particle(s) in the ending substances (system outputs).",
+      "lookListenFor": "What to look/listen for: Connecting what we figured out from each lesson to our new model.\nIn Lesson 1 we represented the different particles of matter in the system, including a way to show solids, liquids, gases, as well as mixtures vs. non mixtures.\nIn Lesson 2 the gas is not part of the solid bath bomb, but the gas is produced from matter in the bath bomb.\nIn Lesson 3 the bath bomb is a mixture made of more than one substance.\nIn Lesson 3 none of the ingredients of the bath bomb when combined on their own with water produce a gas.\nIn Lesson 4 the combination of baking soda and citric acid when combined with water produces gas bubbles.\nIn Lesson 4 the gas is a different substance than any of the substances we started with.\nIn Lesson 5, though we were able to narrow down what gas(es) this could be, we still don’t know exactly what substance(s) it is.\nAnd we are still wondering how this happens—how particles that make up the original substances can become particles of a new substance.",
+      "whatToDo": "What to do: Cue students to use their Progress Trackers and other resources in their notebooks to support what we figured out in each lesson. If some students are not sharing, use strategies such as Turn and Talk or Stop and Jot to provide students a minute to formulate their ideas before sharing with the whole group. You can also provide a quiet minute before each piece of the model is developed to ask students to look back in their notebook for pieces of evidence that support what they want to add to the model. In addition, reminding the class of the norms prior to starting the discussion will be a helpful reminder that when we are in the Scientists Circle. We need everyone’s participation.\nPrepare a table to represent our model. Draw a table similar to the one below on two pieces of chart paper that are landscape oriented to record this model as you summarize what is represented in the consensus model from Lesson 1. Leave room to add ideas to the three columns, and also leave room to add another column on the left and right of your initial table (shown in gray here) but do not initially draw these side columns.\nWhat we see\nunmixed\n(matter inputs)\nMixed together\nWhat we see\nafter\n(matter outputs)",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.1 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L07-AO1.html"
+      }
+    },
+    {
+      "id": "71-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: preparing to engage in the reading by recordi…",
+      "shortTitle": "Look for: preparing to engage in the reading by recordi…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Ask questions related to the development of alternate models for what is happening to the matter at a particle level (patterns) when old substances interact to produce new substances by combining or rearranging parts/particles (systems and system models), and determine ways we might go about investigating these ideas.",
+      "lookListenFor": "What to look for: Students\npreparing to engage in the reading by recording the individual questions they have before starting it, in their individual Progress Trackers,\nannotating the reading as they read or after a second pass, and\nrecording what they feel they have figured out from the reading in their individual Progress Trackers.",
+      "whatToDo": "What to do: Though we expect that given an opportunity to create individual questions many of these questions students generate will be in the space of “can particles of a new substance be formed out of the particles of an old substance in the ways we’ve come up with?”, you might find some students develop a different line of questions. That is OK. As a reminder, individual Progress Trackers are not an assessment to be graded. The purpose instead is as a space for students to organize their thoughts. Here we want students to have that space before they go into the reading so that the purpose of it is student-question driven.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.1 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L08-AO1.html"
+      }
+    },
+    {
+      "id": "71-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: close to 1.0 g/mL for water,",
+      "shortTitle": "Look for: close to 1.0 g/mL for water,",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A.1 Use mathematical and computational thinking by graphing mass vs. volume data for different substances and finding the ratio of mass to volume (a unit rate) (scale, proportion, quantity) for the samples measured to determine the density of different clear liquids.",
+      "lookListenFor": "What to look for: Small group work determining mean (average) densities across samples from multiple groups that yields:\nclose to 1.0 g/mL for water,\nclose to 0.78 g/mL for rubbing alcohol, and\nclose to 1.26 g/mL for glycerin.\nThough some classes may have results that are within a range of +/- 0.1 g/mL of these values, students in any single class should all find the same relationship between values using data from their particular class.",
+      "whatToDo": "What to do: If students struggle with finding or using unit rates in the context of density or averages you could:\nProvide additional measurements of water or alcohol for students to practice determining unit rates.\nCoordinate with the grade level math teacher to provide other examples and practice finding unit rates students have been working with (or will be working with) in math class.\nShow slide I. Orient students to the places where the posters for the three different substances are located. Explain that they should form a line in front of the poster for one of the substances they tested, place their magnet at the appropriate coordinates, and then move to the right and post their sticky notes on the table, allowing the next person to post their magnets and sticky notes. Ask the students who have data for glycerin to start with that poster, students who have data for rubbing alcohol to start with that poster, and the second person of each sub-group pair, should post data for water. This should take about three minutes to post all the data.\nExample of the water data to the right.\nAnalyze and interpret patterns in the graphs and tables. Show slide J. Allow students 3 minutes to record what patterns they notice in the data on a new page of their science notebooks.\nAsk students to share out some of the patterns they noticed. Start with patterns within the graph and table for one substance and then shift to having students compare the graphs and tables of different substances.\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nThe goal of this discussion is to make connections to the work that students are doing in their 7th grade math classes, related to two ideas. Students should:\nDecide that mass and volume are in a directly proportional relationship for each substance (for example, this might be demonstrated by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin).\nIdentify the constant of proportionality (the unit rate) from tables, graphs, or an expression and identify this unit rate (mass divided by volume) as the density of that substance.\nSuggested prompt\nSample student response\nWhat patterns do you notice about the shape of each of the graphs?\nThey form nearly straight lines.\nHow does the steepness of the line in each of the three graphs compare?\nThe line for glycerin is the steepest and the line for rubbing alcohol is the least steep.\nLooking at the table for water, what would you say is the increase in grams for each additional mL of the liquid?\nWater is about an extra 1 g for every 1 mL.\nLooking at the table for glycerin, what would you say is the increase in grams for each additional mL of the liquid?\nGlycerin goes up about 1.2 grams for every additional mL.\nLooking at the table for rubbing alcohol, what would you say is the increase in grams is for each additional mL of the liquid?\nRubbing alcohol goes up about 0.8 grams for every additional mL.\nSay, You’ve seen straight line relationships like this before in math. It looks like this line goes through 0, 0 (zero mL of the substance is 0 grams). When that is the case, we call this sort of pattern a directly proportional relationship. Directly proportional relationships have a constant unit rate—that means as one quantity changes, the other changes in a predictable way. We can find the unit rate for this graph by taking any coordinate point on the graph and dividing the y-value by the corresponding x-value. In our case, that would be any amount of mass in grams divided by a corresponding amount of volume in mL. This will give us the unit rate in grams per mL, which will be the density of the substance. Let’s find the density of water from the relationship between mass and volume for a few different coordinates from our graph.\nAdd a third column next to each table using a sheet of chart paper that can later be removed. Title this column “mass (C) / volume (D) = density, which…",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L09-AO1.html"
+      }
+    },
+    {
+      "id": "71-9-ao-2",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: Q1) The density of the clear liquid is close…",
+      "shortTitle": "Look for: Q1) The density of the clear liquid is close…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A.2 Use mathematical and computational thinking by graphing mass vs. volume data for different substances and finding the ratio of mass to volume (a unit rate) (scale, proportion, quantity) for the samples measured to determine the density of different clear liquids.",
+      "lookListenFor": "What to look for: The following responses on student index cards:\nQ1) The density of the clear liquid is close to 1.0 grams per mL\nQ2) The same density as in Q1 (1.0 grams per mL).",
+      "whatToDo": "What to do: If students struggle with determining or using unit rates in the context of density you could:\nProvide additional measurements of water or alcohol for students to practice finding unit rates.\nCoordinate with the grade level math teacher to provide other examples and practice finding unit rates students have been working with (or will be working with) in math class.\nAsk, Is the density of this liquid similar to any of the three known clear liquids? Students should say that it is very close to the density of water (1.0 g/mL).\nIdentify and mark the coordinates for this data point (volume, grams) on the water graph for the sample you just measured. Show that the same coordinate on the other graphs does not match the linear trend in the data plotted on those graphs.\nSay, It seems like the graphs and tables that helped us find the density of each liquid also provide us strong evidence about what the unknown clear liquid is. I think we can use this and our earlier observations about the other properties of that gas to make some evidence based arguments about whether or not the gas we collected is made of a different type of particle (a new substance) than the water we started with.\nAsk students to turn and talk with an elbow partner for a minute about this question before heading back to their seats.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L09-AO2.html"
+      }
+    },
+    {
+      "id": "71-9-ao-3",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: See Scoring Guidance: Evaluating and improvin…",
+      "shortTitle": "Look for: See Scoring Guidance: Evaluating and improvin…",
+      "peCode": "9.B",
+      "buildingTowards": "Building towards: 9.B Argue from evidence and critique two arguments on the same topic; strengthen these arguments by using additional empirical evidence (patterns) and scientific reasoning to support an explanation for whether the substances collected from the gas produced by the heated water is made of different types of particles or the same type of particles (patterns) as those in the water that we started with.",
+      "lookListenFor": "What to look for: See Scoring Guidance: Evaluating and improving alternate arguments",
+      "whatToDo": "What to do: See Scoring Guidance: Evaluating and improving alternate arguments",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/7.1 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L09-AO3.html"
+      }
+    },
+    {
+      "id": "71-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Students apply scientific ideas and evidence (propert…",
+      "shortTitle": "Students apply scientific ideas and evidence (propert…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Students apply scientific ideas and evidence (property data) to construct an explanation for whether the gas(es) produced from water using energy from a battery were made of the same particles (patterns) as those produced from heating the water.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: See Sample Student Response for Written Explanation for guidance.\nGo over to the Adding Energy to Water Investigations poster. Direct students attention to this poster. And add sticky notes with check marks to both of the ideas for investigations the class has now completed.\nSay, Let’s take stock of where we are. We have tried both of the investigations we wanted to do with water based on what we read about. And you all just constructed an explanation based on evidence we collected that new types of particles were produced from water particles in one of the investigations. That seems directly related to the key idea we summarized at the end of Lesson 8, related to what had shown on our What is happening with particles when new substances are made? poster. In our next class let’s revisit that poster and evaluate those ideas in light of the explanations you constructed.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.1 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L10-AO1.html"
+      }
+    },
+    {
+      "id": "71-11-constructing-a-revised",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "title": "Constructing a revised",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 11 — Constructing a revised.",
+      "files": {
+        "studentHandout": "lesson_11/original/7.1 Lesson 11 Assessment Constructing a revised.docx",
+        "teacherGuide": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSepMNCzqS2QagOen3rMjozaPT4OcppWdzJEEiQGgNxazpO_yw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: Students highlighting and annotating pieces f…",
+      "shortTitle": "Look for: Students highlighting and annotating pieces f…",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Gather and communicate information from a scientific text adapted for classroom use to determine the central ideas of Dalton’s atomic theory with regard to the patterns in the particulate structure of matter that makes up all substances.",
+      "lookListenFor": "What to look for: Students highlighting and annotating pieces from the reading about how Dalton and others represented atoms and molecules. Once they have finished the reading, they should record what they have figured out about how their representations of particles (molecules) and parts of particles (atoms) relates to what Dalton and his colleagues used as explained in the reading.",
+      "whatToDo": "What to do: If you find some students going straight to highlighting, remind them to engage in step 1 first (reading through one page), as it is a strategy useful for making sense of any text they read. If you find some students not interacting with their reading after a few minutes, again, quietly go up to them and ask to look over the annotations they made so far. If they have a couple of annotations made, give them positive feedback (e.g., a thumbs up) and then encourage them to start thinking about how these ideas might be used to explain what is happening with the bath bombs.\nDistribute copies of A summary of some historical investigations and discoveries into the particle nature of matter. Say, As you are reading, look for connections that help answer this question. When you are done, I want to collect this reading from you to assess your progress toward interacting with the text in ways that are helping you develop answers to the questions we are trying to make progress on as a class. First, let’s work with a small part of the text to start with to practice this.\nMonitor student reading. Summarize the steps of the reading protocol on the slide. Ask if there are any questions. Give students about 5 minutes to complete the protocol.\nShare out ideas. Ask students to share some examples of connections they found and their predictions for the two gases they identified as being produced from the battery investigation. Listen for ideas related to the introduction of atoms as smaller particles or pieces that make up larger particles. Help foreground that the term atom gives a name to an idea we previously developed in Lesson 8—that there might be smaller pieces that can be broken off of bigger particles—and in this case, it looks like atoms are the smaller pieces.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L11-AO1.html"
+      }
+    },
+    {
+      "id": "71-11-ao-2",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: Students should be able to argue this by conn…",
+      "shortTitle": "Look for: Students should be able to argue this by conn…",
+      "peCode": "11.B",
+      "buildingTowards": "Building towards: 11.B Construct an explanation using models of the molecular structures of different substances to predict which gas must be produced (effect) in the bath bomb reaction based on the types of atoms that make up the substances (patterns), and use it to explain what is happening to the particles (matter) in the system to cause the production of this new substance.",
+      "lookListenFor": "What to look for: Students should be able to argue this by connecting the molecular models from Molecular Models of Different Substances. On this handout they can compare the atoms in baking soda, citric acid, and water to the three gases we had identified as possibly being produced (argon, methane, and carbon dioxide). Using the new key model idea around chemical reactions, students should be able to argue the only possible gas it could be is carbon dioxide.",
+      "whatToDo": "What to do: If students are struggling with these ideas, they have an opportunity to compare their predictions and explanations with their small group at the start of the next lesson. Provide feedback to those students in the form of comments or notes that direct them to compare their responses to their peers and to resolve any differences.\nGive students the remaining time to work on their responses. Collect Constructing a revised explanation from students before they leave.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.1 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L11-AO2.html"
+      }
+    },
+    {
+      "id": "71-12-explaining-new-aspects",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "title": "Explaining New Aspects",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 12 — Explaining New Aspects.",
+      "files": {
+        "studentHandout": "lesson_12/original/7.1 Lesson 12 Assessment Explaining New Aspects.docx",
+        "teacherGuide": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+        "answerKey": "lesson_12/original/7.1 Lesson 12 Answer Key Explaining New Aspects.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScug6X7K7lYNNEpA9EiDEOk_0ovp2bUy9TJUQSTxgjgroJEgQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-12-ao-4",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Students comparing the different models to ac…",
+      "shortTitle": "Look for: Students comparing the different models to ac…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.2 Construct an explanation for how the atoms in the molecules of the starting substances rearrange to form new products in the bath bomb, but the number and types of atoms do not change and thus mass is conserved and evaluate two different molecular models for different ratios of reactant and product molecules to determine which better supports this explanation.",
+      "lookListenFor": "What to look for: Students comparing the different models to account for all the atoms in the reactants also being in the products. They should be looking for the amount of atoms as well as the type of atom.",
+      "whatToDo": "What to do: If students are not accounting for there being the same number of atoms in both the reactants and products, ask some probing questions to remind them of what we figured out about the mass of the bath bomb when in a closed system. When they say the mass didn’t change, refer them to Comparing Molecular Ratios in a Chemical Reaction and encourage them to count up all the atoms to determine whether the same amount of matter is in the reactants as is in the products in both models.\nThen bring students back together and have them share their ideas.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L12-AO4.html"
+      }
+    },
+    {
+      "id": "71-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Use scoring guidance for question 1 on Explai…",
+      "shortTitle": "Look for: Use scoring guidance for question 1 on Explai…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A.1 Construct an explanation for how the atoms in the molecules of the starting substances rearrange to form new products in the bath bomb, but the number and types of atoms do not change and thus mass is conserved and evaluate two different molecular models for different ratios of reactant and product molecules to determine which better supports this explanation.",
+      "lookListenFor": "What to look for: Use scoring guidance for question 1 on Explaining New Aspects of the Anchoring Phenomena.",
+      "whatToDo": "What to do: See Explaining New Aspects of the Anchoring Phenomena for guidance.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L12-AO1.html"
+      }
+    },
+    {
+      "id": "71-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Use scoring guidance for question 3 on Explai…",
+      "shortTitle": "Look for: Use scoring guidance for question 3 on Explai…",
+      "peCode": "12.C",
+      "buildingTowards": "Building towards: 12.C Analyze and interpret data on the properties of substances (patterns) before and after substances interact to determine if the chemical reaction that produces gas in a bath bomb also produces another new substance.",
+      "lookListenFor": "What to look for: Use scoring guidance for question 3 on Explaining New Aspects of the Anchoring Phenomena.",
+      "whatToDo": "What to do: See Explaining New Aspects of the Anchoring Phenomena for guidance.\nSeparate the individual portion of the assessment to turn in. Display slide D. Three minutes before the end of the period, ask students to turn in questions 1 and 2 and tape question 3 and the last page of Explaining New Aspects of the Anchoring Phenomena into their student notebooks, so that they can reference next time to compare their ideas on this to a partner.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L12-AO2.html"
+      }
+    },
+    {
+      "id": "71-12-ao-3",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Use scoring guidance for question 3 on Explai…",
+      "shortTitle": "Look for: Use scoring guidance for question 3 on Explai…",
+      "peCode": "12.B",
+      "buildingTowards": "Building towards: 12.B Construct an explanation for whether additional substances could have been produced in the bath bomb reaction based on the patterns in the atoms that make up the molecules of the different substances.",
+      "lookListenFor": "What to look for: Use scoring guidance for question 3 on Explaining New Aspects of the Anchoring Phenomena.",
+      "whatToDo": "What to do: See Explaining New Aspects of the Anchoring Phenomena for guidance.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.1 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L12-AO3.html"
+      }
+    },
+    {
+      "id": "71-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: What do the patterns in molecular models on M…",
+      "shortTitle": "Look for: What do the patterns in molecular models on M…",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "What to look for: If students don’t develop this chain of cause and effect, provide structured prompts to ask students to respond to:\nWhat do the patterns in molecular models on Molecular Models of Different Substances help you explain about odors?\nWhat has to happen to particles of the matter that makes up a substance in order for it to reach your nose?\nWhat happens to those particles when they reach your nose that cause some (but not all of them) to be detected and recognized by you?\nHow could some scents be the result of more than one type of particle being detected by more than one sensory receptor?",
+      "whatToDo": "What to do: See Sample Student Response for Written Explanation for additional scoring guidance.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.1 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L13-AO1.html"
+      }
+    },
+    {
+      "id": "71-14-part-1-explaining",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Part 1 Explaining",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 14 — Part 1 Explaining.",
+      "files": {
+        "studentHandout": "lesson_14/original/7.1 Lesson 14 Assessment Part 1 Explaining.docx",
+        "teacherGuide": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/7.1 Lesson 14 Answer Key Part 1 of.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSf-AeIOE1pVDcObysv9SlKaqNzWVwiUavGJFKiOTtI92bJSsg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-14-part-2a-explaining",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Part 2a Explaining",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 14 — Part 2a Explaining.",
+      "files": {
+        "studentHandout": "lesson_14/original/7.1 Lesson 14 Assessment Part 2a Explaining.docx",
+        "teacherGuide": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/7.1 Lesson 14 Answer Key Part 2a of.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSf_QhbTOKRok5GRj2dR7G_YEivDrKESSeJyx4GA16bc7PF3Vg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-14-part-2b-explaining",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "title": "Part 2b Explaining",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.1 Lesson 14 — Part 2b Explaining.",
+      "files": {
+        "studentHandout": "lesson_14/original/7.1 Lesson 14 Assessment Part 2b Explaining.docx",
+        "teacherGuide": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+        "answerKey": "lesson_14/original/7.1 Lesson 14 Answer Key Part 2a of.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScP-GBdENamZdXCAREda5VlIXnqQA-47ojG8aOy-lt0q0yHQw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "71-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: See scoring guidance in Part 1 of the Assessment",
+      "shortTitle": "Look for: See scoring guidance in Part 1 of the Assessment",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Collect data to produce evidence and use the patterns in the properties of substances to make an argument about whether malic acid secreted by algae is causing a chemical reaction to break down the calcium carbonate in the marble of the Taj Mahal.",
+      "lookListenFor": "What to look for: See scoring guidance in Part 1 of the Assessment.",
+      "whatToDo": "What to do: See scoring guidance in Part 1 of the Assessment. If students struggle with particular items on this assessment, use Item alignment guide to identify related items on the alternate part 2 assessment that could be used for supporting relearning/mastery learning. Each item on the assessment has been aligned with different parts of the performance expectations so the alternate assessment could be used as a reassessment.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": true,
+      "description": "OpenSciEd Unit 7.1 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L14-AO1.html"
+      },
+      "assessmentType": "summative"
+    },
+    {
+      "id": "71-14-ao-2",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: See scoring guidance in Part 2a of the Assess…",
+      "shortTitle": "Look for: See scoring guidance in Part 2a of the Assess…",
+      "peCode": "14.C",
+      "buildingTowards": "Building towards: 14.C Analyze and interpret data and use it as evidence in an explanation to the government of India about which pollutants in the air around the Taj Mahal could be causing the marble surface of the Taj Mahal to break apart and wash away (effect).",
+      "lookListenFor": "What to look for: See scoring guidance in Part 2a of the Assessment and Part 2b of the Assessment.",
+      "whatToDo": "What to do: See scoring guidance in Part 2a of the Assessment or Part 2b of the Assessment. If students struggle with particular items on this assessment, use Item alignment guide to identify related items on the alternate part 2 assessment that could be used for supporting relearning/mastery learning. Each item on the assessment has been aligned with different parts of the performance expectations so the alternate assessment could be used as a reassessment.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-PS1-2",
+        "MS-PS1-5"
+      ],
+      "isSummative": true,
+      "description": "OpenSciEd Unit 7.1 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.1 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-1/L14-AO2.html"
+      },
+      "assessmentType": "summative"
+    }
+  ]
+}

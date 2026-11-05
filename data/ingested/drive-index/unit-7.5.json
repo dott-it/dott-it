@@ -1,0 +1,1169 @@
+{
+  "unitId": "7.5",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 7",
+  "unitFolder": "7.5 Ecosystem Dynamics & Biodiversity",
+  "unitDriveFolderId": "1yzEy4GOiE2CNA5CQLzA_qA9O_ydbZXth",
+  "indexedAt": "2026-07-07T18:08:41.751Z",
+  "fileCount": 155,
+  "manifestPathCount": 42,
+  "matchedCount": 42,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "75-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1AAY9SVIwd_HRlbpbNdUaGNVmX5bNRbEscEsIgx1EOEk",
+      "driveRelativePath": "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:26.696Z"
+    },
+    {
+      "assessmentId": "75-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1AAY9SVIwd_HRlbpbNdUaGNVmX5bNRbEscEsIgx1EOEk",
+      "driveRelativePath": "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:26.696Z"
+    },
+    {
+      "assessmentId": "75-10-monarch-butterflies-on",
+      "field": "studentHandout",
+      "manifestPath": "lesson_10/original/7.5 Lesson 10 Assessment Monarch Butterflies on.docx",
+      "driveFileId": "1_toMMllodLy4w3__f_trmIw4mSWmTYTkb_YaRcgnpEc",
+      "driveRelativePath": "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Assessment Monarch Butterflies on",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:57.572Z"
+    },
+    {
+      "assessmentId": "75-10-monarch-butterflies-on",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1Xl2CuFLl7sG5qzzsOBbn6c9Z_nXkJJkH79Mls-ahWCc",
+      "driveRelativePath": "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:28.387Z"
+    },
+    {
+      "assessmentId": "75-10-monarch-butterflies-on",
+      "field": "answerKey",
+      "manifestPath": "lesson_10/original/7.5 Lesson 10 Answer Key Scoring Guidance Monarch.docx",
+      "driveFileId": "1aloMMpcPBoRasweBkEavN-DKkcgfvoECo8Xowc1iEhE",
+      "driveRelativePath": "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Answer Key Scoring Guidance Monarch",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:53.262Z"
+    },
+    {
+      "assessmentId": "75-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1Xl2CuFLl7sG5qzzsOBbn6c9Z_nXkJJkH79Mls-ahWCc",
+      "driveRelativePath": "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:28.387Z"
+    },
+    {
+      "assessmentId": "75-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1Xl2CuFLl7sG5qzzsOBbn6c9Z_nXkJJkH79Mls-ahWCc",
+      "driveRelativePath": "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:28.387Z"
+    },
+    {
+      "assessmentId": "75-11-7-5-lesson-11-handout-self-assessment-for-classroom",
+      "field": "studentHandout",
+      "manifestPath": "lesson_11/original/7.5 Lesson 11 Handout Self-Assessment for Classroom.docx",
+      "driveFileId": "1a6zN_H38rh_0uev8m5yo5c1QghBDcOWkmkz371QWGGk",
+      "driveRelativePath": "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Handout Self-Assessment for Classroom",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:09.426Z"
+    },
+    {
+      "assessmentId": "75-11-7-5-lesson-11-handout-self-assessment-for-classroom",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1fq91S05WwPQxeBJqsFdgyZOapokleso9w5unT6sLpVc",
+      "driveRelativePath": "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:34.091Z"
+    },
+    {
+      "assessmentId": "75-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1fq91S05WwPQxeBJqsFdgyZOapokleso9w5unT6sLpVc",
+      "driveRelativePath": "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:34.091Z"
+    },
+    {
+      "assessmentId": "75-11-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1fq91S05WwPQxeBJqsFdgyZOapokleso9w5unT6sLpVc",
+      "driveRelativePath": "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:34.091Z"
+    },
+    {
+      "assessmentId": "75-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.5 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1eEedlHbSGDDYtsIyfKWtd6sc7KIJE84A0danoLT2odA",
+      "driveRelativePath": "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:26.199Z"
+    },
+    {
+      "assessmentId": "75-13-southwestern-willow-flycatcher",
+      "field": "studentHandout",
+      "manifestPath": "lesson_13/original/7.5 Lesson 13 Assessment Southwestern Willow Flycatcher.docx",
+      "driveFileId": "10JadZ2MUZlvE7xhJ4NqDliS549Ytq5Hfb2r3A0F4-Fs",
+      "driveRelativePath": "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Assessment Southwestern Willow Flycatcher",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:49.807Z"
+    },
+    {
+      "assessmentId": "75-13-southwestern-willow-flycatcher",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.5 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1juuoArue1oTcas6fHu1dNv9iNuSpcbDapvur_nN9zLA",
+      "driveRelativePath": "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:14.218Z"
+    },
+    {
+      "assessmentId": "75-13-southwestern-willow-flycatcher",
+      "field": "answerKey",
+      "manifestPath": "lesson_13/original/7.5 Lesson 13 Answer Key Scoring Guidance Southwestern.docx",
+      "driveFileId": "1kZGXYWBaIoihT1gnXZOMT9EssVm7THmverW3Ofmnh64",
+      "driveRelativePath": "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Answer Key Scoring Guidance Southwestern",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:44.893Z"
+    },
+    {
+      "assessmentId": "75-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.5 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1juuoArue1oTcas6fHu1dNv9iNuSpcbDapvur_nN9zLA",
+      "driveRelativePath": "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:14.218Z"
+    },
+    {
+      "assessmentId": "75-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.5 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1VtkbHKNF5nlrA-kY1Uk9YKLXYcKv37038S63hKB9nH4",
+      "driveRelativePath": "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:09.669Z"
+    },
+    {
+      "assessmentId": "75-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.5 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1uplgLBf0Szm2dszD2YH6N-T1WrbI01Yue5yOQKCEEYo",
+      "driveRelativePath": "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:34.951Z"
+    },
+    {
+      "assessmentId": "75-16-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/7.5 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1DBsruCWlR5ySu_v06Zr6kKITbwbQlEo01BYk45xF4HU",
+      "driveRelativePath": "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:56.621Z"
+    },
+    {
+      "assessmentId": "75-16-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/7.5 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1DBsruCWlR5ySu_v06Zr6kKITbwbQlEo01BYk45xF4HU",
+      "driveRelativePath": "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:56.621Z"
+    },
+    {
+      "assessmentId": "75-17-teamwork-self-assessment",
+      "field": "studentHandout",
+      "manifestPath": "lesson_17/original/7.5 Lesson 17 Assessment Teamwork Self-Assessment.docx",
+      "driveFileId": "1FZoaP-8U1A2FO-BIjMwjrlEkAbB2a5W4Kh4ujS2E-LI",
+      "driveRelativePath": "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Assessment Teamwork Self-Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:16.661Z"
+    },
+    {
+      "assessmentId": "75-17-teamwork-self-assessment",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1NJMedtphnhnnzGgvmoOiOekmFCWX5Ms4DIbMBwx91Lk",
+      "driveRelativePath": "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:48.861Z"
+    },
+    {
+      "assessmentId": "75-17-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1NJMedtphnhnnzGgvmoOiOekmFCWX5Ms4DIbMBwx91Lk",
+      "driveRelativePath": "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:48.861Z"
+    },
+    {
+      "assessmentId": "75-17-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1NJMedtphnhnnzGgvmoOiOekmFCWX5Ms4DIbMBwx91Lk",
+      "driveRelativePath": "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:48.861Z"
+    },
+    {
+      "assessmentId": "75-17-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1NJMedtphnhnnzGgvmoOiOekmFCWX5Ms4DIbMBwx91Lk",
+      "driveRelativePath": "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:48.861Z"
+    },
+    {
+      "assessmentId": "75-18-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_18/original/7.5 Lesson 18 Handout Solutions to Redesign.docx",
+      "driveFileId": "1D6uL1OzESMWZ1Ifgw2m42Tl5DYhzE77JksvprJpRt84",
+      "driveRelativePath": "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Handout Solutions to Redesign",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:09.523Z"
+    },
+    {
+      "assessmentId": "75-18-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1AJ2hF2Y7mUSnILxzTAdGO5F1xr1gApo_KT9lp1bVPv4",
+      "driveRelativePath": "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:35.962Z"
+    },
+    {
+      "assessmentId": "75-18-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_18/original/7.5 Lesson 18 Handout Solutions to Redesign.docx",
+      "driveFileId": "1D6uL1OzESMWZ1Ifgw2m42Tl5DYhzE77JksvprJpRt84",
+      "driveRelativePath": "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Handout Solutions to Redesign",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:09.523Z"
+    },
+    {
+      "assessmentId": "75-18-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1AJ2hF2Y7mUSnILxzTAdGO5F1xr1gApo_KT9lp1bVPv4",
+      "driveRelativePath": "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:35.962Z"
+    },
+    {
+      "assessmentId": "75-18-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_18/original/7.5 Lesson 18 Handout Solutions to Redesign.docx",
+      "driveFileId": "1D6uL1OzESMWZ1Ifgw2m42Tl5DYhzE77JksvprJpRt84",
+      "driveRelativePath": "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Handout Solutions to Redesign",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:09.523Z"
+    },
+    {
+      "assessmentId": "75-18-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1AJ2hF2Y7mUSnILxzTAdGO5F1xr1gApo_KT9lp1bVPv4",
+      "driveRelativePath": "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:35.962Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/7.5 Ecosystem Dynamics & Biodiversity Unit Overview Materials.docx",
+      "driveFileId": "1MW9uYxqrAU-uegDUzweJqtXKgP6QtiZ2avWp7BQL39Q",
+      "driveRelativePath": "7.5 Ecosystem Dynamics & Biodiversity Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-14T00:27:46.455Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/7.5 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1AAY9SVIwd_HRlbpbNdUaGNVmX5bNRbEscEsIgx1EOEk",
+      "driveRelativePath": "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:29:26.696Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/7.5 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1Xl2CuFLl7sG5qzzsOBbn6c9Z_nXkJJkH79Mls-ahWCc",
+      "driveRelativePath": "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:30:28.387Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/7.5 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "1fq91S05WwPQxeBJqsFdgyZOapokleso9w5unT6sLpVc",
+      "driveRelativePath": "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:31:34.091Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/7.5 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1eEedlHbSGDDYtsIyfKWtd6sc7KIJE84A0danoLT2odA",
+      "driveRelativePath": "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:32:26.199Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/7.5 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1juuoArue1oTcas6fHu1dNv9iNuSpcbDapvur_nN9zLA",
+      "driveRelativePath": "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:33:14.218Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/7.5 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1VtkbHKNF5nlrA-kY1Uk9YKLXYcKv37038S63hKB9nH4",
+      "driveRelativePath": "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:34:09.669Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/7.5 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "1uplgLBf0Szm2dszD2YH6N-T1WrbI01Yue5yOQKCEEYo",
+      "driveRelativePath": "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:34.951Z"
+    },
+    {
+      "assessmentId": "__lesson-16__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_16/original/7.5 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1DBsruCWlR5ySu_v06Zr6kKITbwbQlEo01BYk45xF4HU",
+      "driveRelativePath": "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:35:56.621Z"
+    },
+    {
+      "assessmentId": "__lesson-17__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_17/original/7.5 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1NJMedtphnhnnzGgvmoOiOekmFCWX5Ms4DIbMBwx91Lk",
+      "driveRelativePath": "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:36:48.861Z"
+    },
+    {
+      "assessmentId": "__lesson-18__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_18/original/7.5 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1AJ2hF2Y7mUSnILxzTAdGO5F1xr1gApo_KT9lp1bVPv4",
+      "driveRelativePath": "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-14T00:37:35.962Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 19 Handout Sample Print PSAs": {
+      "driveFileId": "1ymxGYMY186vMlwNOOQlNcghu4col8XcfO-vcR6V_OnQ",
+      "name": "7.5 Lesson 19 Handout Sample Print PSAs",
+      "modifiedTime": "2024-08-14T00:38:07.842Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 19 Handout Project Options": {
+      "driveFileId": "12uJs61DsYAI7Dik3Cy2NrU_gldzl78I8Iwm-XA2vNQw",
+      "name": "7.5 Lesson 19 Handout Project Options",
+      "modifiedTime": "2024-08-14T00:38:02.314Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 19 Handout PSA Communication Plan": {
+      "driveFileId": "17AstNtXWmFu0LH4ApquvYC2LxxP1bwQBA35zUtgtFi0",
+      "name": "7.5 Lesson 19 Handout PSA Communication Plan",
+      "modifiedTime": "2024-08-14T00:37:59.821Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 19 Handout Muestras impresas de": {
+      "driveFileId": "1aPWdKD2Mtvm-oeK8jBexgZVLfLFv6NbeZ8kKy_rXRUg",
+      "name": "7.5 Lesson 19 Handout Muestras impresas de",
+      "modifiedTime": "2024-08-14T00:37:57.141Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 19 Handout Distracted Driving PSA": {
+      "driveFileId": "1FvrR87majGJKisw_2huV4nyxOS1ltRhF8BYgjU48RbM",
+      "name": "7.5 Lesson 19 Handout Distracted Driving PSA",
+      "modifiedTime": "2024-08-14T00:37:53.214Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 19 Folleto Plan de comunicación": {
+      "driveFileId": "1obQi0KIDLvYyrUUYg5RPAGTbvTCBjSvgcrQUKsc3YTY",
+      "name": "7.5 Lección 19 Folleto Plan de comunicación",
+      "modifiedTime": "2024-08-14T00:37:46.946Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 19 Folleto Opciones de proyecto": {
+      "driveFileId": "1xBVIdV6JHiCk0eOuJNAWvIHpP-RVjdiTp8hBSvHXwuI",
+      "name": "7.5 Lección 19 Folleto Opciones de proyecto",
+      "modifiedTime": "2024-08-14T00:37:46.008Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 19 Folleto Autoevaluación Dar y": {
+      "driveFileId": "1-jsA4NRnh17OGtIb_lg9aH9MsKFKV29-tj-anWuzAZ4",
+      "name": "7.5 Lección 19 Folleto Autoevaluación Dar y",
+      "modifiedTime": "2024-08-14T00:37:43.326Z"
+    },
+    "Lesson 19 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 19 Folleto Anuncio de servicio": {
+      "driveFileId": "1Zmr8M2ALKteeLYakdGnQeMgPV5bS3iNLfrtPIkrbLbk",
+      "name": "7.5 Lección 19 Folleto Anuncio de servicio",
+      "modifiedTime": "2024-08-14T00:37:40.083Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Teacher Edition": {
+      "driveFileId": "1AJ2hF2Y7mUSnILxzTAdGO5F1xr1gApo_KT9lp1bVPv4",
+      "name": "7.5 Lesson 18 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:37:35.962Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Student Procedure in Spanish": {
+      "driveFileId": "1blkBeU9Fccc0PfPLTBTyVJbIKaGv8VWeg44TmNEi_H8",
+      "name": "7.5 Lesson 18 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:37:30.440Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Student Procedure": {
+      "driveFileId": "1g50FUJBn-6hv4LKsYmJdoVUXAwF5Iydf3-6VAnp8s2o",
+      "name": "7.5 Lesson 18 Student Procedure",
+      "modifiedTime": "2024-08-14T00:37:25.365Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Slides": {
+      "driveFileId": "18wIBSpFsPaxSuzkZtlUGOSx-v9aNqsvsJw93gvf8p9U",
+      "name": "7.5 Lesson 18 Slides",
+      "modifiedTime": "2024-08-14T00:37:21.609Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Rubric Rubric Option 2": {
+      "driveFileId": "1kD4RT81-Tdg4Ggi0lwTqBwDI5ClaPzwFHOY-Fi79jJE",
+      "name": "7.5 Lesson 18 Rubric Rubric Option 2",
+      "modifiedTime": "2024-08-14T00:37:17.627Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Rubric Rubric Option 1": {
+      "driveFileId": "1IFSmXCT2_CuH7URSuULV7YvIdhVeYH_Dao1xzuj5i3g",
+      "name": "7.5 Lesson 18 Rubric Rubric Option 1",
+      "modifiedTime": "2024-08-14T00:37:15.147Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Rubric Rubric Engaging in": {
+      "driveFileId": "1ZDzX__LfKBPq-c0t9FYSoJ8n_Ru-1-zC_BQQWlhzBKw",
+      "name": "7.5 Lesson 18 Rubric Rubric Engaging in",
+      "modifiedTime": "2024-08-14T00:37:12.545Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Handout Solutions to Redesign": {
+      "driveFileId": "1D6uL1OzESMWZ1Ifgw2m42Tl5DYhzE77JksvprJpRt84",
+      "name": "7.5 Lesson 18 Handout Solutions to Redesign",
+      "modifiedTime": "2024-08-14T00:37:09.523Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 18 Handout Argument for the": {
+      "driveFileId": "1mVrYh0QvAeEpM0OjHOziegl1kNtZtukmbssdAczehdE",
+      "name": "7.5 Lesson 18 Handout Argument for the",
+      "modifiedTime": "2024-08-14T00:37:05.826Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 18 Folleto Soluciones para rediseñar": {
+      "driveFileId": "1zCBtoE2aApQZbD3YGm_uoSZEkc64tyg3T8vSzfxpdS8",
+      "name": "7.5 Lección 18 Folleto Soluciones para rediseñar",
+      "modifiedTime": "2024-08-14T00:37:02.901Z"
+    },
+    "Lesson 18 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 18 Folleto Argumento para el": {
+      "driveFileId": "1MmCoGcyCJ-x52uMN2qCbcoeV99nALMsOn81pqws2j-E",
+      "name": "7.5 Lección 18 Folleto Argumento para el",
+      "modifiedTime": "2024-08-14T00:36:58.848Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Reference Teacher Feedback on": {
+      "driveFileId": "16HkmCajdIxmQTq1lWKxDukr17wwb5Wcwh3jaZdvt8QI",
+      "name": "7.5 Lesson 17 Teacher Reference Teacher Feedback on",
+      "modifiedTime": "2024-08-14T00:36:55.330Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Reference Labeled Guide of": {
+      "driveFileId": "1mIzAYC1Uf7YKif_G6XsIvlqpePvmD2ysiIyhlMwGgXk",
+      "name": "7.5 Lesson 17 Teacher Reference Labeled Guide of",
+      "modifiedTime": "2024-08-14T00:36:52.470Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Teacher Edition": {
+      "driveFileId": "1NJMedtphnhnnzGgvmoOiOekmFCWX5Ms4DIbMBwx91Lk",
+      "name": "7.5 Lesson 17 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:36:48.861Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Student Procedure in Spanish": {
+      "driveFileId": "1pXT6wP5NtyeZBSqdLng7Me-q696zAa4nDfiMDNTfoCs",
+      "name": "7.5 Lesson 17 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:36:44.445Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Student Procedure": {
+      "driveFileId": "1ZSYj6nnQ_6Clju3pKvUgLOP-8EDerfdOENY2f68mXaY",
+      "name": "7.5 Lesson 17 Student Procedure",
+      "modifiedTime": "2024-08-14T00:36:40.404Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Slides": {
+      "driveFileId": "19zTRHp86-1AVnXuEN-wLIMbSj2JEm2pU86sX9sJM_pA",
+      "name": "7.5 Lesson 17 Slides",
+      "modifiedTime": "2024-08-14T00:36:35.582Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Handout Padu Banjar": {
+      "driveFileId": "1gEPcBxx5CLoxG0EdfcpjBwWrjMA1I6dnJ5kwi4z2oec",
+      "name": "7.5 Lesson 17 Handout Padu Banjar",
+      "modifiedTime": "2024-08-14T00:36:30.974Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Handout How can we": {
+      "driveFileId": "1Wgy995W42Ydpp5FNlNJMF212IE0JF1mTrbYgVAljKcY",
+      "name": "7.5 Lesson 17 Handout How can we",
+      "modifiedTime": "2024-08-14T00:36:25.100Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Design Solution Slide Deck": {
+      "driveFileId": "1mDQ9wZSJOZL7lMtCG16LHtfqsX2hTxZEEfnMWP_vKKA",
+      "name": "7.5 Lesson 17 Design Solution Slide Deck",
+      "modifiedTime": "2024-08-14T00:36:21.236Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 17 Assessment Teamwork Self-Assessment": {
+      "driveFileId": "1FZoaP-8U1A2FO-BIjMwjrlEkAbB2a5W4Kh4ujS2E-LI",
+      "name": "7.5 Lesson 17 Assessment Teamwork Self-Assessment",
+      "modifiedTime": "2024-08-14T00:36:16.661Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 17 Folleto ¿Cómo podemos rediseñar": {
+      "driveFileId": "1nUAmvxaJyoHlN8ur8ElzN4TFa4-I8dQHAic2ebCkK44",
+      "name": "7.5 Lección 17 Folleto ¿Cómo podemos rediseñar",
+      "modifiedTime": "2024-08-14T00:36:13.408Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 17 Folleto Padu Banjar": {
+      "driveFileId": "1CtmTN9vrqBqCPOQqzNE7U5ezxRKTXy1vO9OBtWsZIxY",
+      "name": "7.5 Lección 17 Folleto Padu Banjar",
+      "modifiedTime": "2024-08-14T00:36:08.493Z"
+    },
+    "Lesson 17 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 17 Evaluación Autoevaluación de trabajo": {
+      "driveFileId": "1bCWVz241Sn2WWksCwnRSLXoiJ-1cZr4wNqwD5xnGE8A",
+      "name": "7.5 Lección 17 Evaluación Autoevaluación de trabajo",
+      "modifiedTime": "2024-08-14T00:36:05.162Z"
+    },
+    "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Teacher Reference Jigsaw Notes Example": {
+      "driveFileId": "1Vad7AjXismM6N4cL5EAiWhOstpvTHFTW7gi7VsrQWCA",
+      "name": "7.5 Lesson 16 Teacher Reference Jigsaw Notes Example",
+      "modifiedTime": "2024-08-14T00:35:58.857Z"
+    },
+    "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Teacher Edition": {
+      "driveFileId": "1DBsruCWlR5ySu_v06Zr6kKITbwbQlEo01BYk45xF4HU",
+      "name": "7.5 Lesson 16 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:56.621Z"
+    },
+    "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Student Procedure in Spanish": {
+      "driveFileId": "1G4P_wWHra52gRI2XICBgOqv7_XoUAZBnTxhdgXm2wVo",
+      "name": "7.5 Lesson 16 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:52.451Z"
+    },
+    "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Student Procedure": {
+      "driveFileId": "1xpBLC8WtmcADm9xTXNB0M9NCcC161JDftW06g7haEsQ",
+      "name": "7.5 Lesson 16 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:49.132Z"
+    },
+    "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Slides": {
+      "driveFileId": "1cmwurR9tSfjgl13QW3W22qJGlMl9rtDE-TEukQU1M8w",
+      "name": "7.5 Lesson 16 Slides",
+      "modifiedTime": "2024-08-14T00:35:45.238Z"
+    },
+    "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 16 Handout Best Approaches to": {
+      "driveFileId": "1Dn62zPIrQdFwhAJ1sLofIL_p-gd0MbW0lMTWOBxPHoM",
+      "name": "7.5 Lesson 16 Handout Best Approaches to",
+      "modifiedTime": "2024-08-14T00:35:40.882Z"
+    },
+    "Lesson 16 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 16 Folleto Mejores métodos para": {
+      "driveFileId": "1a8HrhsmIHUbPhezeuBGl_qUgJp1lsu5LOH9rIKjMOhk",
+      "name": "7.5 Lección 16 Folleto Mejores métodos para",
+      "modifiedTime": "2024-08-14T00:35:38.519Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Teacher Edition": {
+      "driveFileId": "1uplgLBf0Szm2dszD2YH6N-T1WrbI01Yue5yOQKCEEYo",
+      "name": "7.5 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:35:34.951Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "1zjmcHs6z1xJy5yHLQOGy3qfV-wTZJYwpZwczE6eeRVU",
+      "name": "7.5 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:35:30.943Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Student Procedure": {
+      "driveFileId": "1csls_JzcZeks-A4QrmN5HKAiBw2WQJw6sVuwofGuzAg",
+      "name": "7.5 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-14T00:35:26.940Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Slides": {
+      "driveFileId": "1jptnqSByQHXrdvzE2vlGaRZB-HrpJyRQVkXgkaQvHC8",
+      "name": "7.5 Lesson 15 Slides",
+      "modifiedTime": "2024-08-14T00:35:18.711Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Reference Sustainable Palm and": {
+      "driveFileId": "1y9NNBz1PB75cYzgPYDlzb8QOB_uriqkSlFMDNIqevyw",
+      "name": "7.5 Lesson 15 Reference Sustainable Palm and",
+      "modifiedTime": "2024-08-14T00:35:17.718Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Reference Diversified Farming Cases": {
+      "driveFileId": "1t9asjo3tJW05WevEn0sEy8vCKe5cyTHsbJeWWH-jgOY",
+      "name": "7.5 Lesson 15 Reference Diversified Farming Cases",
+      "modifiedTime": "2024-08-14T00:35:13.775Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Reference Customary Forests": {
+      "driveFileId": "10TD7FH6CFfYIZzjRZx0ZgGW5ZqYbnJPWJahW9C-iml0",
+      "name": "7.5 Lesson 15 Reference Customary Forests",
+      "modifiedTime": "2024-08-14T00:35:10.017Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Handout Two-Column Notes": {
+      "driveFileId": "1HqZuOWLOSmtndXUtpS5mChYAXkygOg5JdbihuMykC9o",
+      "name": "7.5 Lesson 15 Handout Two-Column Notes",
+      "modifiedTime": "2024-08-14T00:35:06.227Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Handout Transcript WWF Sustainable": {
+      "driveFileId": "1yqiwZwauJ8UArgMJoBACKk6Usdl0JMonvWJmHyudkSg",
+      "name": "7.5 Lesson 15 Handout Transcript WWF Sustainable",
+      "modifiedTime": "2024-08-14T00:35:03.631Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Handout Transcript Preserving a": {
+      "driveFileId": "1W4jXUalsskByoDps5OvkEBYL7ngAb7zmRjb31qjJ6J4",
+      "name": "7.5 Lesson 15 Handout Transcript Preserving a",
+      "modifiedTime": "2024-08-14T00:34:57.507Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Handout Transcript Oil Palm": {
+      "driveFileId": "122Mai4A6NWL3IQmcbipEY7nmuThMLpcnzF8lIHOeVcw",
+      "name": "7.5 Lesson 15 Handout Transcript Oil Palm",
+      "modifiedTime": "2024-08-14T00:34:56.549Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Handout Reference Sustainable Palm": {
+      "driveFileId": "1W6Zc1QDNH17iHdKbuEwULOF446Mfd2jBJdPh9GFKtb0",
+      "name": "7.5 Lesson 15 Handout Reference Sustainable Palm",
+      "modifiedTime": "2024-08-14T00:34:54.166Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Handout Reference Diversified Farming": {
+      "driveFileId": "1j4_DHFiiMgewS1jnzO29QsYJiMb1FQGre5BDH_YEr98",
+      "name": "7.5 Lesson 15 Handout Reference Diversified Farming",
+      "modifiedTime": "2024-08-14T00:34:50.946Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 15 Handout Reference Customary Forests": {
+      "driveFileId": "12zN2BlIjgCB-Ekvby2KZ1L7kBEKiFjWGLunjt8jZQyw",
+      "name": "7.5 Lesson 15 Handout Reference Customary Forests",
+      "modifiedTime": "2024-08-14T00:34:46.873Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Referencia Casos de palmeras": {
+      "driveFileId": "1pUKA2gcflqmxD9mLjJzswuvmNB2nQBkv4Vthj8g2mbc",
+      "name": "7.5 Lección 15 Referencia Casos de palmeras",
+      "modifiedTime": "2024-08-14T00:34:43.260Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Referencia Casos de agricultura": {
+      "driveFileId": "19AvncRUGJUjdsMj_7cpSZUx55Pn5TtuPej6EfD71rGw",
+      "name": "7.5 Lección 15 Referencia Casos de agricultura",
+      "modifiedTime": "2024-08-14T00:34:38.238Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Referencia Bosques consuetudinarios": {
+      "driveFileId": "1TZ9u1erAhhEWov8bNJLS85L1SD-sUY5YNvuXX_HxfEM",
+      "name": "7.5 Lección 15 Referencia Bosques consuetudinarios",
+      "modifiedTime": "2024-08-14T00:34:33.867Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Folleto Transcripción WWF Producción": {
+      "driveFileId": "1yFSlefOCuA67XYMPz-qw-Zpe5BHSPqrOBppHBzh-814",
+      "name": "7.5 Lección 15 Folleto Transcripción WWF Producción",
+      "modifiedTime": "2024-08-14T00:34:29.940Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Folleto Transcripción Preservando un": {
+      "driveFileId": "1HwjYp8Z2RBC31oaxpEMUa7i4rweWFToHrqGnVAR47TI",
+      "name": "7.5 Lección 15 Folleto Transcripción Preservando un",
+      "modifiedTime": "2024-08-14T00:34:27.531Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Folleto Transcripción Palma de": {
+      "driveFileId": "1EVBoVPMXmtW7ypkwLb27uJJ5FBXfFWua4_OUid9pn24",
+      "name": "7.5 Lección 15 Folleto Transcripción Palma de",
+      "modifiedTime": "2024-08-14T00:34:25.407Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Folleto Notas de dos": {
+      "driveFileId": "1sGKYJ9HYjVSPO9mF7IJpw0UuTvvMLvnILdl6Wvvq3fY",
+      "name": "7.5 Lección 15 Folleto Notas de dos",
+      "modifiedTime": "2024-08-14T00:34:22.641Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Folleto Casos de palmeras": {
+      "driveFileId": "1EzXIUtSR7TZvOvP84pSUO-8_iG0YlCr1jGK0qoZvyjQ",
+      "name": "7.5 Lección 15 Folleto Casos de palmeras",
+      "modifiedTime": "2024-08-14T00:34:20.341Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Folleto Casos de agricultura": {
+      "driveFileId": "1AS0aD36yyEmZpd5xfK62dCPEWXJqF09feQ18gC9hg6k",
+      "name": "7.5 Lección 15 Folleto Casos de agricultura",
+      "modifiedTime": "2024-08-14T00:34:17.445Z"
+    },
+    "Lesson 15 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 15 Folleto Bosques consuetudinarios": {
+      "driveFileId": "1m2hbLKeBQ2LRcz69nbJU0_TE6X18OH32pQfpQhyLNh4",
+      "name": "7.5 Lección 15 Folleto Bosques consuetudinarios",
+      "modifiedTime": "2024-08-14T00:34:13.400Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Teacher Edition": {
+      "driveFileId": "1VtkbHKNF5nlrA-kY1Uk9YKLXYcKv37038S63hKB9nH4",
+      "name": "7.5 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:34:09.669Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1PGydHJZTDF-psznXk52sGpUr-jUU2kbBkBZoTDH4Kls",
+      "name": "7.5 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:34:04.913Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Student Procedure": {
+      "driveFileId": "1hq7ZHjQZ8apIrKWMFX4wSw67qy31sfw_mtKd-eRsW8A",
+      "name": "7.5 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-14T00:34:02.074Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Slides": {
+      "driveFileId": "1sutHkAYz5EGoizujs0rxvYS5cUIJffIg8lApd9AjRtw",
+      "name": "7.5 Lesson 14 Slides",
+      "modifiedTime": "2024-08-14T00:33:58.046Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Handout Two-Column Notes": {
+      "driveFileId": "1DoxfZh_Lyq_Ux-cgP-Aw_n_2ynW8jGVXvbJZUpfiLvQ",
+      "name": "7.5 Lesson 14 Handout Two-Column Notes",
+      "modifiedTime": "2024-08-14T00:33:54.082Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Handout Summarizing ways to": {
+      "driveFileId": "1l3JtETMgtAhV2cTsQNV7CyEMxvYH_Z-L8ZB-y7CfSRg",
+      "name": "7.5 Lesson 14 Handout Summarizing ways to",
+      "modifiedTime": "2024-08-14T00:33:51.791Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Handout Reading Sustainable Palm": {
+      "driveFileId": "1JtqWPMe68W97gLkXqOw0vrRSXs3kysubfWIW7X0EZuk",
+      "name": "7.5 Lesson 14 Handout Reading Sustainable Palm",
+      "modifiedTime": "2024-08-14T00:33:48.870Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Handout Reading Diversified Farming": {
+      "driveFileId": "1Q1nC72DblV5TVq3RS9fVUydCicm62G6Y4loaLxwh5jA",
+      "name": "7.5 Lesson 14 Handout Reading Diversified Farming",
+      "modifiedTime": "2024-08-14T00:33:43.587Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 14 Handout Reading Customary Forests": {
+      "driveFileId": "1B8GVregzHbeJgQgAHHhW4WgY43fy6i7Oot3qd3IyDZs",
+      "name": "7.5 Lesson 14 Handout Reading Customary Forests",
+      "modifiedTime": "2024-08-14T00:33:39.584Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 14 Folleto Resumiendo formas de": {
+      "driveFileId": "1n_NBcwhMM_xYnTB4JHQCFu5Aaw1qdIwfrb2eeqVeQvk",
+      "name": "7.5 Lección 14 Folleto Resumiendo formas de",
+      "modifiedTime": "2024-08-14T00:33:35.243Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 14 Folleto Notas de dos": {
+      "driveFileId": "1lDp4Q_ih2w_zERu2IhTrpO072udq3xCJXHBBpUqgaSs",
+      "name": "7.5 Lección 14 Folleto Notas de dos",
+      "modifiedTime": "2024-08-14T00:33:32.864Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 14 Folleto Lectura Bosques consuetudinarios": {
+      "driveFileId": "121gkgUaldD0e06_kCz3o6a1dZxB_ZCanpIFa1U8IC8M",
+      "name": "7.5 Lección 14 Folleto Lectura Bosques consuetudinarios",
+      "modifiedTime": "2024-08-14T00:33:30.378Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 14 Folleto Lectura Agricultura diversificada": {
+      "driveFileId": "1SC9dl4_dywLL-LsYG4fs3X-x5ikhpf_fLAR3g1lR2Ok",
+      "name": "7.5 Lección 14 Folleto Lectura Agricultura diversificada",
+      "modifiedTime": "2024-08-14T00:33:25.348Z"
+    },
+    "Lesson 14 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 14 Folleto Lectura Aceite de": {
+      "driveFileId": "1eXmYDUwD5Ro_rj-VYFb1Qu3X3YTeJL03aeYk_8V5dAI",
+      "name": "7.5 Lección 14 Folleto Lectura Aceite de",
+      "modifiedTime": "2024-08-14T00:33:20.127Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Teacher Edition": {
+      "driveFileId": "1juuoArue1oTcas6fHu1dNv9iNuSpcbDapvur_nN9zLA",
+      "name": "7.5 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:33:14.218Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "184H_ojmw0SzaWM7WuVArhlHa8kjuq7w_JJ-h-jYyKXc",
+      "name": "7.5 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:33:09.962Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Student Procedure": {
+      "driveFileId": "1WSoB_gDjYFHtSXWlusIf0zmI6ngCxfm8eG0ewWbvVRA",
+      "name": "7.5 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-14T00:33:05.124Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Slides": {
+      "driveFileId": "1fIwejg_7YOILuGRIWH1Lk6bwqEHddBKoWmzemAORI0U",
+      "name": "7.5 Lesson 13 Slides",
+      "modifiedTime": "2024-08-14T00:33:01.773Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Handout Updated Rainforest System": {
+      "driveFileId": "1xppVF27s03rTTxKJskW6NmAkfdkGpEfoRY4s37qh30c",
+      "name": "7.5 Lesson 13 Handout Updated Rainforest System",
+      "modifiedTime": "2024-08-14T00:32:56.669Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Handout Southwestern Willow Flycatcher": {
+      "driveFileId": "1rmtRaqD2J_zYkMtWAwRN-MOdXk82ingHLBxj7667JK4",
+      "name": "7.5 Lesson 13 Handout Southwestern Willow Flycatcher",
+      "modifiedTime": "2024-08-14T00:32:53.121Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Assessment Southwestern Willow Flycatcher": {
+      "driveFileId": "10JadZ2MUZlvE7xhJ4NqDliS549Ytq5Hfb2r3A0F4-Fs",
+      "name": "7.5 Lesson 13 Assessment Southwestern Willow Flycatcher",
+      "modifiedTime": "2024-08-14T00:32:49.807Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 13 Answer Key Scoring Guidance Southwestern": {
+      "driveFileId": "1kZGXYWBaIoihT1gnXZOMT9EssVm7THmverW3Ofmnh64",
+      "name": "7.5 Lesson 13 Answer Key Scoring Guidance Southwestern",
+      "modifiedTime": "2024-08-14T00:32:44.893Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 13 Folleto Modelo del sistema": {
+      "driveFileId": "1AtPQkXAMMo388qv6B6wGLK8hqU958VClgkq-AY8gOT0",
+      "name": "7.5 Lección 13 Folleto Modelo del sistema",
+      "modifiedTime": "2024-08-14T00:32:41.406Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 13 Folleto Modelo de sistema": {
+      "driveFileId": "1oHeHE7c3xV3F3coy3Iwv5kos6jcFAQvpDCnzobWxstw",
+      "name": "7.5 Lección 13 Folleto Modelo de sistema",
+      "modifiedTime": "2024-08-14T00:32:34.984Z"
+    },
+    "Lesson 13 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 13 Evaluación Papamoscas de sauce": {
+      "driveFileId": "1DY4RJdIPAkFipfN-ro-egxYyInyQaED8uA-Y9pixdkk",
+      "name": "7.5 Lección 13 Evaluación Papamoscas de sauce",
+      "modifiedTime": "2024-08-14T00:32:30.944Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Teacher Edition": {
+      "driveFileId": "1eEedlHbSGDDYtsIyfKWtd6sc7KIJE84A0danoLT2odA",
+      "name": "7.5 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:32:26.199Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1-a3sagwUAR2zg_oJ_i8_GZtpusaeG4C5Ol6Y6Volaq4",
+      "name": "7.5 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:32:21.832Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Student Procedure": {
+      "driveFileId": "1UDD8NcaxvjaZdrL-8DobYAw8KqMkdZaOYVLur6i3_rw",
+      "name": "7.5 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-14T00:32:17.750Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Slides": {
+      "driveFileId": "1oLVMLC6gx-eGezt2yNLNVKEEmBwB59Ok7nZqWyONE3U",
+      "name": "7.5 Lesson 12 Slides",
+      "modifiedTime": "2024-08-14T00:32:14.112Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Reference Sample Data from": {
+      "driveFileId": "1ypSSOiXqQW32bkOzjTDu6BEp8ByRS8Yb6lIAJJp0ESk",
+      "name": "7.5 Lesson 12 Reference Sample Data from",
+      "modifiedTime": "2024-08-14T00:32:09.331Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Reference Interview with a": {
+      "driveFileId": "1N4V_j03Vme6T3VKZJv3hmHId0YhWceUlcGlvZB-ikkQ",
+      "name": "7.5 Lesson 12 Reference Interview with a",
+      "modifiedTime": "2024-08-14T00:32:05.752Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Handout Transcript Orangutans Spitting": {
+      "driveFileId": "1H_ASVA18Js3ZBetNV4Q_22sdp3ZJixmzNphccjdJmWo",
+      "name": "7.5 Lesson 12 Handout Transcript Orangutans Spitting",
+      "modifiedTime": "2024-08-14T00:32:02.191Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Handout Handout Sample Data": {
+      "driveFileId": "12as-uybbyWvILqH3swrmDWK1kI7lH2vvctQr14_XDGM",
+      "name": "7.5 Lesson 12 Handout Handout Sample Data",
+      "modifiedTime": "2024-08-14T00:31:59.372Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 12 Handout Handout Interview with": {
+      "driveFileId": "1iJSvscpJT8xhvUr8bOoOU_ORP9ltHcYV2Nhhw_B4L8k",
+      "name": "7.5 Lesson 12 Handout Handout Interview with",
+      "modifiedTime": "2024-08-14T00:31:55.165Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 12 Referencia Entrevista con una": {
+      "driveFileId": "1IUc5GhnYyf1ZP1GkkeEZlSA18b9yRl6mUPKFLwg_ndE",
+      "name": "7.5 Lección 12 Referencia Entrevista con una",
+      "modifiedTime": "2024-08-14T00:31:50.839Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 12 Referencia Datos de muestra": {
+      "driveFileId": "17lAOx-SQYknHUlZefv9BFCEGyDiBhSLl03gO_H8vueM",
+      "name": "7.5 Lección 12 Referencia Datos de muestra",
+      "modifiedTime": "2024-08-14T00:31:47.365Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 12 Folleto Transcripción Orangutanes escupiendo": {
+      "driveFileId": "1aCw3KRQ0y4UjbtOLQt9aLeM52_tRUNMH5Eri_vfI9w4",
+      "name": "7.5 Lección 12 Folleto Transcripción Orangutanes escupiendo",
+      "modifiedTime": "2024-08-14T00:31:43.804Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 12 Folleto Folleto Entrevista con": {
+      "driveFileId": "1dFXTZSChB-7AnqnOGjeNFP-ZAB1E2pzyt6Dc30sKBDM",
+      "name": "7.5 Lección 12 Folleto Folleto Entrevista con",
+      "modifiedTime": "2024-08-14T00:31:41.520Z"
+    },
+    "Lesson 12 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 12 Folleto Folleto Datos de": {
+      "driveFileId": "13ZcgpVOomXdMcqZzFeYLaSSVzAm3s1aNEbhY8wTDASU",
+      "name": "7.5 Lección 12 Folleto Folleto Datos de",
+      "modifiedTime": "2024-08-14T00:31:38.335Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Teacher Edition": {
+      "driveFileId": "1fq91S05WwPQxeBJqsFdgyZOapokleso9w5unT6sLpVc",
+      "name": "7.5 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:31:34.091Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1jFDr_9j_5SvV5iU2BMs5qBoPOogUo7PviE1eT7jhtvU",
+      "name": "7.5 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:31:26.517Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Student Procedure": {
+      "driveFileId": "1My9ys3oqyVmmPlLLo6eyk3kSnxTDgjHewnSiEitpmFI",
+      "name": "7.5 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-14T00:31:25.658Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Slides": {
+      "driveFileId": "173SPwf1ZNB1-lMdvbG14ZmUbBEviIOVD6hI6vROgnAs",
+      "name": "7.5 Lesson 11 Slides",
+      "modifiedTime": "2024-08-14T00:31:21.124Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Reference Rainforest Plants and": {
+      "driveFileId": "1Qv8oiDJwgnAB0O9kyReLVGJlzc1Y8MuQUxW9F59eik0",
+      "name": "7.5 Lesson 11 Reference Rainforest Plants and",
+      "modifiedTime": "2024-08-14T00:31:16.737Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Reference Oil Palm Farm": {
+      "driveFileId": "1FOzBAXehkffq9EV9Kvu8kLA_D8TmRd3KzSOTGDhtTic",
+      "name": "7.5 Lesson 11 Reference Oil Palm Farm",
+      "modifiedTime": "2024-08-14T00:31:12.315Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Handout Self-Assessment for Classroom": {
+      "driveFileId": "1a6zN_H38rh_0uev8m5yo5c1QghBDcOWkmkz371QWGGk",
+      "name": "7.5 Lesson 11 Handout Self-Assessment for Classroom",
+      "modifiedTime": "2024-08-14T00:31:09.426Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Handout Reference Rainforest Plants": {
+      "driveFileId": "1J9WFOVQzXjq-d2bhpcUQehK2uefFv6rI7IdUEyufl94",
+      "name": "7.5 Lesson 11 Handout Reference Rainforest Plants",
+      "modifiedTime": "2024-08-14T00:31:06.810Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 11 Handout Reference Oil Palm": {
+      "driveFileId": "1hC2iiphDn3T2RZESwQJXDRrFsvXhcuaWHrn04jjA2v8",
+      "name": "7.5 Lesson 11 Handout Reference Oil Palm",
+      "modifiedTime": "2024-08-14T00:31:02.660Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 11 Referencia Plantas y animales": {
+      "driveFileId": "1CvsQVeOf54z5SilSWwVT9fu7Y97msZ5E0CuOQJqjwIM",
+      "name": "7.5 Lección 11 Referencia Plantas y animales",
+      "modifiedTime": "2024-08-14T00:30:58.729Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 11 Referencia 2 Plantas y": {
+      "driveFileId": "165FPvGUKBfMEMxZAJkEJ2311LCNi3c9ZD-1v7D-A7lQ",
+      "name": "7.5 Lección 11 Referencia 2 Plantas y",
+      "modifiedTime": "2024-08-14T00:30:53.416Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 11 Referencia 1 Plantas y": {
+      "driveFileId": "1DygGcv3i3Ogz4fSTbV1aGfsvqaeUkj9kgtHkKw-9WBg",
+      "name": "7.5 Lección 11 Referencia 1 Plantas y",
+      "modifiedTime": "2024-08-14T00:30:46.884Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 11 Folleto Autoevaluación de la": {
+      "driveFileId": "1lj2ZcwFtXJcsdGhgj0VaOJk-8R7m41e6Ra6KWRfI8BM",
+      "name": "7.5 Lección 11 Folleto Autoevaluación de la",
+      "modifiedTime": "2024-08-14T00:30:42.731Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 11 Folleto 2 Plantas y": {
+      "driveFileId": "11zPzNx6EleCltfXdmuKKXIzgV3mTZXzuWj3wd71XhSE",
+      "name": "7.5 Lección 11 Folleto 2 Plantas y",
+      "modifiedTime": "2024-08-14T00:30:40.371Z"
+    },
+    "Lesson 11 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 11 Folleto 1 Plantas y": {
+      "driveFileId": "1J703RHZ_vWnhP29L-brY5xg39lkVyr3L4HSiP_8pKB4",
+      "name": "7.5 Lección 11 Folleto 1 Plantas y",
+      "modifiedTime": "2024-08-14T00:30:36.151Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Teacher Reference Population Case Template": {
+      "driveFileId": "168Lz5PFxcyNpIPB73uBEJKF-cuV5t3sPHPib6p4sGVw",
+      "name": "7.5 Lesson 10 Teacher Reference Population Case Template",
+      "modifiedTime": "2024-08-14T00:30:31.511Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Teacher Edition": {
+      "driveFileId": "1Xl2CuFLl7sG5qzzsOBbn6c9Z_nXkJJkH79Mls-ahWCc",
+      "name": "7.5 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:30:28.387Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1YHZ0tLAB6SdWxJRLKByGmBu9jx6gGs0UGUoWgl-_nsc",
+      "name": "7.5 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:30:24.371Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Student Procedure": {
+      "driveFileId": "1o35WVSn44aX9sI7jgU1YH6y6_JLtGeVLAxBclX1Ky54",
+      "name": "7.5 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-14T00:30:20.548Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Slides": {
+      "driveFileId": "1PXRi3t3srZ2_Ck1iiVSjIt1nFPE_UDnBFOsX44xSn-s",
+      "name": "7.5 Lesson 10 Slides",
+      "modifiedTime": "2024-08-14T00:30:17.186Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Handout Case Study Cards": {
+      "driveFileId": "1NjUXW4eaNh3XUVvsQ78Xpp2RxCuRXIeuFn3O3TmsNqM",
+      "name": "7.5 Lesson 10 Handout Case Study Cards",
+      "modifiedTime": "2024-08-14T00:30:11.911Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Assessment Monarch Butterflies on": {
+      "driveFileId": "1_toMMllodLy4w3__f_trmIw4mSWmTYTkb_YaRcgnpEc",
+      "name": "7.5 Lesson 10 Assessment Monarch Butterflies on",
+      "modifiedTime": "2024-08-14T00:29:57.572Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 10 Answer Key Scoring Guidance Monarch": {
+      "driveFileId": "1aloMMpcPBoRasweBkEavN-DKkcgfvoECo8Xowc1iEhE",
+      "name": "7.5 Lesson 10 Answer Key Scoring Guidance Monarch",
+      "modifiedTime": "2024-08-14T00:29:53.262Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 10 Folleto Tarjetas de estudio": {
+      "driveFileId": "1dA1A9I9fZ6O5QIJ18fwdCQQ8W_9Mpgvl2kwrBi4_VuM",
+      "name": "7.5 Lección 10 Folleto Tarjetas de estudio",
+      "modifiedTime": "2024-08-14T00:29:49.756Z"
+    },
+    "Lesson 10 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 10 Evaluación Mariposas monarca en": {
+      "driveFileId": "1P8GkGhVic6j2sYZ1OfwEC7O6HcsOwvq7ccNRfkbNYHg",
+      "name": "7.5 Lección 10 Evaluación Mariposas monarca en",
+      "modifiedTime": "2024-08-14T00:29:44.837Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Teacher Reference Extension Opportunity Comparing": {
+      "driveFileId": "1MDPJFLOUJ5r9W2GU0r56UgluLWPpYhJmUs3hHmn-3l8",
+      "name": "7.5 Lesson 1 Teacher Reference Extension Opportunity Comparing",
+      "modifiedTime": "2024-08-14T00:29:39.203Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Teacher Reference Example Student Ideas": {
+      "driveFileId": "1F2LDO8YNVku-GyV9XknQ38BF3DbWJMZDel-wjX7S-vc",
+      "name": "7.5 Lesson 1 Teacher Reference Example Student Ideas",
+      "modifiedTime": "2024-08-14T00:29:32.732Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Teacher Reference Asking Question Tool—OpenClosed": {
+      "driveFileId": "1v-jTZTD884e1Pyse1x68ig3T6ov-OvTecgkn_tVpMBA",
+      "name": "7.5 Lesson 1 Teacher Reference Asking Question Tool—OpenClosed",
+      "modifiedTime": "2024-08-14T00:29:29.759Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Teacher Edition": {
+      "driveFileId": "1AAY9SVIwd_HRlbpbNdUaGNVmX5bNRbEscEsIgx1EOEk",
+      "name": "7.5 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-14T00:29:26.696Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1lpbXa3wFDM88UiB3uFTFDWPKQS8DzIUuy7-5vsgqo_M",
+      "name": "7.5 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-14T00:29:11.520Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Student Procedure": {
+      "driveFileId": "1qcUnTuzCk3XdfTR4yqA_2zYn0BsFdmk8SoSaO2oiwn4",
+      "name": "7.5 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-14T00:29:07.289Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Slides": {
+      "driveFileId": "1ZTiuMChktXqgTh-G7_USeMKNWlT8utLhC_TmgtrJycU",
+      "name": "7.5 Lesson 1 Slides",
+      "modifiedTime": "2024-08-14T00:29:00.062Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Reference Orangutan Populations Over": {
+      "driveFileId": "1OL_T3i4ylG7GnrgoM9RjQX3t-EJv3tPoAiNLDZUVADQ",
+      "name": "7.5 Lesson 1 Reference Orangutan Populations Over",
+      "modifiedTime": "2024-08-14T00:28:53.129Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Reference Orangutan": {
+      "driveFileId": "1NHBsbCiO7jTL7oQV_q565Fmg_CsYRzsV0P4P-dWqHXE",
+      "name": "7.5 Lesson 1 Reference Orangutan",
+      "modifiedTime": "2024-08-14T00:28:48.944Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Reference Land Used to": {
+      "driveFileId": "1aoBPaNJ4hKjmCl4zQebwrlM9lcaWVvNj3AhB9w1VwoY",
+      "name": "7.5 Lesson 1 Reference Land Used to",
+      "modifiedTime": "2024-08-14T00:28:44.879Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Reference Global Production Where": {
+      "driveFileId": "1SyU_WjOOWoeFpM1K8F-sIupXwytj4yYKsHOSWxkI9Jc",
+      "name": "7.5 Lesson 1 Reference Global Production Where",
+      "modifiedTime": "2024-08-14T00:28:38.840Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Handout Transcript Orangutans in": {
+      "driveFileId": "1lv4gL0ZhsDAWuK3pEllJKYloTbndJW2d7e6vfD7OpFE",
+      "name": "7.5 Lesson 1 Handout Transcript Orangutans in",
+      "modifiedTime": "2024-08-14T00:28:33.762Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Handout Reading Growing Oil": {
+      "driveFileId": "1-mtrpTCbhb39bAXMJXzBL23L799z446_1IPQxsA6rfg",
+      "name": "7.5 Lesson 1 Handout Reading Growing Oil",
+      "modifiedTime": "2024-08-14T00:28:30.784Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Handout Develop an Initial": {
+      "driveFileId": "1JojMdP2MfqoffccyV5Lnmk_AaHsgSnG12Y4FPQ8-4qo",
+      "name": "7.5 Lesson 1 Handout Develop an Initial",
+      "modifiedTime": "2024-08-14T00:28:24.501Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lesson 1 Handout Asking Question Tool—OpenClosed": {
+      "driveFileId": "1Mw2Y2byYLZapn-Vtvv1qdYubHSDJe3hPruxWFAmRcYg",
+      "name": "7.5 Lesson 1 Handout Asking Question Tool—OpenClosed",
+      "modifiedTime": "2024-08-14T00:28:23.535Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 1 Referencia Tierra utilizada para": {
+      "driveFileId": "1Zm9dhH9z8beH2t4b4NvXW51MK0l8LqGjK2YHXpkbruU",
+      "name": "7.5 Lección 1 Referencia Tierra utilizada para",
+      "modifiedTime": "2024-08-14T00:28:20.823Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 1 Referencia Producción global Donde": {
+      "driveFileId": "1sytgM6i1nQKQriH2zllrkHcT77cFPs6vt9XtijeXgFM",
+      "name": "7.5 Lección 1 Referencia Producción global Donde",
+      "modifiedTime": "2024-08-14T00:28:17.547Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 1 Referencia Poblaciones de orangután": {
+      "driveFileId": "1SwcGg44CQC3pKGHLkm0njnWlZ3xqsyYgyT71gN1hqCI",
+      "name": "7.5 Lección 1 Referencia Poblaciones de orangután",
+      "modifiedTime": "2024-08-14T00:28:14.246Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 1 Referencia Orangután": {
+      "driveFileId": "14tFXVXsFBo7pFyFnvJdo1x7pA8YVr6iPz6kR2FuyeMg",
+      "name": "7.5 Lección 1 Referencia Orangután",
+      "modifiedTime": "2024-08-14T00:28:10.317Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 1 Folleto Lectura Cultivo de": {
+      "driveFileId": "1VUrBtBevXyR-cL1ZqbRO0RRosqxhJQ19UUgXxqXm0SE",
+      "name": "7.5 Lección 1 Folleto Lectura Cultivo de",
+      "modifiedTime": "2024-08-14T00:28:04.861Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 1 Folleto Herramienta para hacer": {
+      "driveFileId": "1q6hAXrjbHVUSmydFe_gNhmObsJsYTRj7xrrGxg82fYY",
+      "name": "7.5 Lección 1 Folleto Herramienta para hacer",
+      "modifiedTime": "2024-08-14T00:28:00.771Z"
+    },
+    "Lesson 1 - 7.5 Ecosystem Dynamics & Biodiversity/7.5 Lección 1 Folleto Desarrollar un modelo": {
+      "driveFileId": "1xiewv64fTd35yjiinazCFaNlu-CMzarVwQRKbuf9K4s",
+      "name": "7.5 Lección 1 Folleto Desarrollar un modelo",
+      "modifiedTime": "2024-08-14T00:27:52.330Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1IHVmhyOKkQjC9oog8JvvTcu4yi0MpScb",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-14T00:27:50.451Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "16ZRmTxh8OeiL20wFwKnhZisMPVa_9AUA",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-14T00:27:49.437Z"
+    },
+    "7.5 Lesson 17 Design Solution Slide Deck.pdf": {
+      "driveFileId": "1MYMC22yKG9tDyYsmB7gLK0N8P86h4BL-",
+      "name": "7.5 Lesson 17 Design Solution Slide Deck.pdf",
+      "modifiedTime": "2024-08-14T00:27:48.466Z"
+    },
+    "7.5 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1U4L5lEfTz-737IHXhevKmws-hK13j1jS",
+      "name": "7.5 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-14T00:27:47.332Z"
+    },
+    "7.5 Ecosystem Dynamics & Biodiversity Unit Overview Materials": {
+      "driveFileId": "1MW9uYxqrAU-uegDUzweJqtXKgP6QtiZ2avWp7BQL39Q",
+      "name": "7.5 Ecosystem Dynamics & Biodiversity Unit Overview Materials",
+      "modifiedTime": "2024-08-14T00:27:46.455Z"
+    }
+  }
+}

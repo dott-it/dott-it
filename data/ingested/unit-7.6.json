@@ -1,0 +1,1265 @@
+{
+  "unitId": "7.6",
+  "unitTitle": "Earth's Resources & Human Impact",
+  "description": "Students analyze human impacts on Earth's systems and develop solutions to environmental challenges. They investigate resource use and sustainability.",
+  "lessonCount": 18,
+  "suggestedPacingDays": 33,
+  "unitOverviewPath": "unit_materials/original/7.6 Earth's Resources & Human Impact Unit Overview Materials.docx",
+  "ingestedFrom": "/home/ocarlosfelix/Projects/content-pipeline/data/1_data_clean/7/7.6",
+  "ingestedAt": "2026-07-01T13:38:45.786Z",
+  "lessons": [
+    {
+      "lessonNum": 1,
+      "shortTitle": "Why are floods and droughts happening more often",
+      "title": "Why are floods and droughts happening more often?",
+      "teacherEditionPath": "lesson_1/original/7.6 Lesson 1 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 2,
+      "shortTitle": "What would we normally expect for these places and how do we know it’s really changing",
+      "title": "What would we normally expect for these places and how do we know it’s really changing?",
+      "teacherEditionPath": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 3,
+      "shortTitle": "How would increased temperatures affect evaporation",
+      "title": "How would increased temperatures affect evaporation?",
+      "teacherEditionPath": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 4,
+      "shortTitle": "Are rising temperatures affecting anything else in Earth’s water system",
+      "title": "Are rising temperatures affecting anything else in Earth’s water system?",
+      "teacherEditionPath": "lesson_4/original/7.6 Lesson 4 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 5,
+      "shortTitle": "How are rising temperatures changing water stories in these communities",
+      "title": "How are rising temperatures changing water stories in these communities?",
+      "teacherEditionPath": "lesson_5/original/7.6 Lesson 5 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 6,
+      "shortTitle": "How are rising temperatures connected to two seemingly different phenomena",
+      "title": "How are rising temperatures connected to two seemingly different phenomena?",
+      "teacherEditionPath": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 7,
+      "shortTitle": "Are there any changes in the air that could be related to rising temperatures",
+      "title": "Are there any changes in the air that could be related to rising temperatures?",
+      "teacherEditionPath": "lesson_7/original/7.6 Lesson 7 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 8,
+      "shortTitle": "Are changes in carbon dioxide and methane related to or causing temperatures to increase",
+      "title": "Are changes in carbon dioxide and methane related to or causing temperatures to increase?",
+      "teacherEditionPath": "lesson_8/original/7.6 Lesson 8 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 9,
+      "shortTitle": "Are the changes in the amount of CO2 in the atmosphere part of normal cycles that Earth goes through",
+      "title": "Are the changes in the amount of CO2 in the atmosphere part of normal cycles that Earth goes through?",
+      "teacherEditionPath": "lesson_9/original/7.6 Lesson 9 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 10,
+      "shortTitle": "What is happening in the world to cause the sharp rise in CO2",
+      "title": "What is happening in the world to cause the sharp rise in CO2?",
+      "teacherEditionPath": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 11,
+      "shortTitle": "Why could burning fossil fuels create a problem for CO2 in the atmosphere",
+      "title": "Why could burning fossil fuels create a problem for CO2 in the atmosphere?",
+      "teacherEditionPath": "lesson_11/original/7.6 Lesson 11 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 12,
+      "shortTitle": "How are changes to Earth’s carbon system impacting Earth’s water system",
+      "title": "How are changes to Earth’s carbon system impacting Earth’s water system?",
+      "teacherEditionPath": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+      "expectedDays": 2
+    },
+    {
+      "lessonNum": 13,
+      "shortTitle": "Why is solving the climate change problem so challenging",
+      "title": "Why is solving the climate change problem so challenging?",
+      "teacherEditionPath": "lesson_13/original/7.6 Lesson 13 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 14,
+      "shortTitle": "What things can people do to reduce carbon dioxide going into the atmosphere",
+      "title": "What things can people do to reduce carbon dioxide going into the atmosphere?",
+      "teacherEditionPath": "lesson_14/original/7.6 Lesson 14 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 15,
+      "shortTitle": "How can large-scale solutions work to reduce carbon in the atmosphere",
+      "title": "How can large-scale solutions work to reduce carbon in the atmosphere?",
+      "teacherEditionPath": "lesson_15/original/7.6 Lesson 15 Teacher Edition.docx",
+      "expectedDays": 3
+    },
+    {
+      "lessonNum": 16,
+      "shortTitle": "How are these solutions working in our communities",
+      "title": "How are these solutions working in our communities?",
+      "teacherEditionPath": "lesson_16/original/7.6 Lesson 16 Teacher Edition.docx",
+      "expectedDays": 1
+    },
+    {
+      "lessonNum": 17,
+      "shortTitle": "What solutions work best for our school or community",
+      "title": "What solutions work best for our school or community?",
+      "teacherEditionPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "expectedDays": 4
+    },
+    {
+      "lessonNum": 18,
+      "shortTitle": "What can we explain now, and what questions do we still have",
+      "title": "What can we explain now, and what questions do we still have?",
+      "teacherEditionPath": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+      "expectedDays": 1
+    }
+  ],
+  "assessments": [
+    {
+      "id": "76-1-ao-2",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for questions that are open (how/why) versus close…",
+      "shortTitle": "Look for questions that are open (how/why) versus close…",
+      "peCode": "1.C",
+      "buildingTowards": "Building towards: 1.C Ask questions that arise from initial observations of stories and headlines about rising temperatures, floods, and droughts to clarify whether increasing temperatures are related to or causing both floods and droughts.",
+      "lookListenFor": "What to look for: Look for questions that are open (how/why) versus closed (yes/no), and also testable questions in the classroom. Also listen for questions that address both parts of our model.",
+      "whatToDo": "What to do: Since students will put their initials on the backs of these sticky notes, you will have a few opportunities to take stock of the kinds of questions students ask in this initial lesson after they are posted on the DQB, as well as when they are writing them. When students share these questions for the DQB, they will likely only have time to share one. Collect the remaining questions that don’t get posted after the development of the DQB is complete. If your students are asking mostly closed questions, you can provide a copy of a photo of the questions on the Driving Question Board, and ask them to work on refining three or more of these questions so that they become “how” and “why” questions that can help answer the original question posted, as well the original yes/no question. This could be an in-class or home-learning assignment.\nA DQB provides a public representation of the class’s joint mission. Students can share their questions and wonderings with one another, and the visual representation offers another modality for students to access science in the classroom. The DQB should be centrally located in the classroom so that it can be referenced and added to throughout the unit.\nSupporting Emergent Multilingual Students: Asking questions in everyday language allows students to share their thinking or experiences, even if they do not have the appropriate scientific vocabulary yet. This is helpful for emergent multilingual students because by not requiring scientific words at the onset, you do not limit their participation in classroom discourse.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.6 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L01-AO2.html"
+      }
+    },
+    {
+      "id": "76-1-ao-1",
+      "lesson": "Lesson 01",
+      "lessonNum": 1,
+      "source": "te-opportunity",
+      "title": "Look for: Water cycling processes, such as evaporation…",
+      "shortTitle": "Look for: Water cycling processes, such as evaporation…",
+      "peCode": null,
+      "buildingTowards": "Building towards:",
+      "lookListenFor": "What to look for:\n1.A Look for students to use:\nWater cycling processes, such as evaporation and precipitation, in their initial causal accounts of floods and droughts. See if students are connecting temperature change to a change in these processes.\nLook at how students’ individual models accounted for these changes in temperature and water cycling processes compared to the model co-constructed by the class. This will give you insight as to where each individual student is in their initial understanding of the phenomenon and their modeling practice to explain it.\nLook at students’ causal accounts to see if they use single words, like evaporation, as a “sufficient” causal explanation, or if they elaborate on a mechanism for how temperature change could affect a water cycle process.\n1.B Look for students to explain what is causing temperatures to rise using language or images that link the causes (e.g., greenhouse gases) to the effect (rising temperatures).",
+      "whatToDo": "What to do: Ask students to leave their notebooks in the classroom for you to assess their work.\n1.A If your students struggle with identifying important parts (components) and processes for the cycling of water, you may need to spend additional time reviewing those key processes before they develop their individual models. If students don’t explain how the change in temperature is causing the changes to the processes and components that the class identified, use prompts to solicit those connections (e.g., I see you are showing that evaporation is changing, can you add some words to explain how that is connected to the increased temperatures?).\n1.B If students use language they have heard connected to increased temperatures (e.g., climate change, greenhouse effect, pollution, global warming) but don’t explain how this could cause increased temperatures, prompt them to use words or images to explain what the words they use mean to them, how those processes, such as climate change, work, and how they lead to increased temperatures.\nCompare models and explanations in pairs. Display slide T. Explain that, as you were circulating the room, it seemed like we had ideas that were both similar and different across our models. Tell students that we should spend some time comparing our models and explanations to see what we can agree upon and where we aren’t as sure about what is occuring. To help students begin this process, share examples and non-examples of productive comparisons (e.g., a non-productive example would be focusing on the artistry of the drawing or diagram; a productive example would be noting how other students talked about why a change could lead to increased temperatures or floods and droughts).\nArrange students in partner pairs to share their models. Ask students to focus on identifying similarities and differences in what they think is happening to cause increased floods and droughts and increased temperatures.\nAs partner pairs note similarities between the diagrams, explain that students can make a small check mark on their diagram noting that it is similar to a diagram by their partner. If students have a different idea, or they are confused about part of the system, they can mark those parts of the model with a question mark.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 01 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_1/original/7.6 Lesson 1 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L01-AO1.html"
+      }
+    },
+    {
+      "id": "76-2-ao-3",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for: Ideas about how some places are showing great…",
+      "shortTitle": "Look for: Ideas about how some places are showing great…",
+      "peCode": "2.C",
+      "buildingTowards": "Building towards: 2.C Analyze and interpret data about patterns in rates of change and numerical relationships to determine similarities and differences between drought and flood sites.",
+      "lookListenFor": "What to look for/listen for:\nIdeas about how some places are showing greater or lesser increase or decrease in precipitation and temperature.\nIdeas about how all places are showing temperatures going up, and importantly, most of this change in temperature is in recent years.\nIdeas about how precipitation is increasing and the rate of storm events is going up (happening more often) for flood places.\nIdeas about how drought places are experiencing a combination of less precipitation, less snowpack, and less groundwater. These places are experiencing more frequent “dry” conditions than before.",
+      "whatToDo": "What to do: Students may struggle with some of the precipitation patterns. It might be helpful to use the Earth’s Water System Model to help students understand that, even if one part of the water system for a place seems normal, another part of the system might not be. For example, precipitation in Porterville hasn’t gone down drastically over the years, but they had a few extreme years of little rain coupled with decreasing groundwater, which ultimately led to people’s wells drying up. The system model might help students make connections like this within a case site and also help support them in understanding similarities and differences across case sites.\nEncourage students to update their Progress Tracker with any new ideas.\nThe individual Progress Tracker is a space for students to be creative and to synthesize learning in their own words and drawings at the end of a lesson. It is not supposed to follow a prescriptive plan or structure and should be a low-stakes opportunity for students to make sense of what they are learning without the worry and anxiety that comes with knowing their work will be graded. Students have already engaged in discussion about this question, so the Progress Tracker provides an additional modality for students to express their understanding and reasoning in their own way. Encourage students to express what they have learned using a mode that makes sense for them.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L02-AO3.html"
+      }
+    },
+    {
+      "id": "76-2-ao-2",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for/listen for:",
+      "shortTitle": "Look for/listen for:",
+      "peCode": "2.B",
+      "buildingTowards": "Building towards: 2.B Use graphical displays (e.g., maps, charts, graphs, and/or tables) of large data sets to identify temporal patterns in temperature, total precipitation, and seasonal precipitation in the local community and at case sites.",
+      "lookListenFor": "Look for/listen for:",
+      "whatToDo": "What to do: This is the first time students have worked with this data set, so it is OK to have some new ideas here but also some lingering questions about the data. This is a formative assessment to better understand what patterns are apparent to students in the data, but what they are also struggling to understand. If students are struggling with the graphs, try the following sensemaking with data strategies:\nAsk students to re-orient to a graph by saying: What is this graph showing us again? What is on the x-axis? The y-axis? So, the dots for each year are showing what?\nLet’s just look at year ___. What is the data for that year? Is it similar or different to data for the next 5 years? Or the previous 5 years?\nOverall, our precipitation falls within ___ and ___ inches of rain each year, but there are a few years where it is above or below those points. So, in general, we can say ____ about our precipitation.\nStudents might still have some questions about the data and how it varies year to year. The next conversation will focus on what that variability means versus long-term trends in data.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L02-AO2.html"
+      }
+    },
+    {
+      "id": "76-2-ao-1",
+      "lesson": "Lesson 02",
+      "lessonNum": 2,
+      "source": "te-opportunity",
+      "title": "Look for/listen for: This is an early formative assessm…",
+      "shortTitle": "Look for/listen for: This is an early formative assessm…",
+      "peCode": "2.A",
+      "buildingTowards": "Building towards: 2.A Develop and use a model to describe the components, interactions, and processes of water distribution and movement on Earth.",
+      "lookListenFor": "Look for/listen for: This is an early formative assessment moment to figure out how much students are bringing from earlier grades and OpenSciEd units. Students should have ideas about the following:",
+      "whatToDo": "What to do: Labeling the places where water is located in the system is something students have likely done before in earlier grades. However, they likely have not categorized them into “In the Air,” “At the Ground” and “Underground,” so this might be a new way of thinking about the water system on Earth and representing the traditional “water cycle.” Students might struggle to identify sources in the air or underground. If students have done the Storms Unit, remind them that they were working with water at and above the ground in that unit.\nStudents may need some support in thinking about water underground, such as aquifers. This should be something they figured out in earlier grades (5th grade), but if they only mention water that is at or just below the surface, like soil moisture or water in the grass, then remind them of the case from the previous lesson in Porterville. Ask them questions, such as, “How were people in Porterville getting water?” Students should mention that they saw some people were using large tanks in their front yards because their wells had dried up, and there are other other people who still have wells. Use this to talk about where the water for wells comes from. Encourage students to look back at their noticings about Porterville for anything they noted about the wells. They should remember that, in the news clip, many people talked about digging deeper wells. Connect that this water, which is stored far below the surface in aquifers, is a source of “groundwater.” If these are new words for students, you may wish to add them to the Word Wall at this time.\nIf students don’t quite understand the idea that communities get water from different places in the system, they will revisit this idea using the StoryMap on day 2. This StoryMap will introduce students to additional ideas about where these communities get their water. They will circle back to this idea again in Lesson 4.\nTransition to using the system model. Say, Now that we have recorded all of the places on Earth that water is located and we’ve recorded how it moves between these places, let’s think about which processes in the system might affect droughts and floods if a part of the system changed. Is there a part of this system that, if it changed, might cause droughts and floods?\nAllow several students to offer ideas. One idea that should surface is if there is more evaporation there would be drought and if there was more precipitation, there would be more floods. Follow with a dialogue similar to the one shown below.\nSuggested prompts\nSample student responses\nFollow-up questions\nYou mentioned more evaporation and more precipitation. What is the connection between evaporation and precipitation?\nEvaporation puts water into the air and precipitation takes it out!\nIt’s the water cycle!\nThe Sun! When it heats things up, more evaporation occurs.\nCan you say more about how this happens?\nWhat causes these processes to happen?\nWhat “things” are heating up?\nWhat do you think would happen if our atmosphere gets warmer? How do you think that would affect the evaporation and precipitation?\nI think we would have more evaporation.\nWe learned in the Storms Unit unit that there was more evaporation over warmer ocean waters. And I know puddles of water dry up faster when it is hot outside!\nBut that would mean there would be more precipitation too because of the water cycle. But the precipitation is happening in a different place than the evaporation.\nWhy do you think there would be more evaporation?\nSo you have some evidence for your ideas. But we may want to check this out by doing an investigation to get more evidence. (If this idea is not on the Ideas for Investigations poster, add it now.)\nIt seems we still have questions about that.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 02 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L02-AO1.html"
+      }
+    },
+    {
+      "id": "76-3-ao-1",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: All conditions saw an increase in humidity, e…",
+      "shortTitle": "Look for: All conditions saw an increase in humidity, e…",
+      "peCode": "3.A",
+      "buildingTowards": "Building towards: 3.A Analyze evaporation investigation data for patterns to provide evidence that increased temperatures cause an increase in evaporation leading to more water vapor entering the atmosphere.",
+      "lookListenFor": "What to look/listen for:\nAll conditions saw an increase in humidity, even the dry soil conditions.\nWet soil conditions had a greater humidity increase than dry soil conditions.\nHeated conditions had a greater humidity increase than non-heated conditions.\nIncreasing humidity in the bottle is an indication of evaporation occurring, so a larger change in humidity indicates more evaporation occurred in the same period of time.",
+      "whatToDo": "What to do:\nIf students do not identify that the humidity increased in all bottles, ask students if we have any conditions in which humidity stayed exactly the same or decreased. If so, did anything unusual happen with temperature for that condition. Follow up specifically on the locations experiencing drought and what we can conclude about evaporation in these places - that it is still happening.\nIf students do not identify that the heated bottles had higher humidity level changes, ask what differences they see between the two conditions (heated versus unheated). Connect back to students’ ideas about what causes water to evaporate (adding energy) and what conditions had energy added to them.\nYou may need to support students in the transition from humidity level changes to evaporation to evaporation rate. The concept of ‘rate’ is a change in one measure with another measure. In this case, it’s a change in the quantity of water vapor in the air (humidity) over time (8 min). Ask your students, Which condition had the greatest change in humidity in the same time period? What can we say about how fast evaporation was happening in this condition compared to the other conditions?\nLead a whole group discussion about the results. Display slide J. Say, Let’s revisit our initial question and see if our data allows us to draw a conclusion.\nSuggested prompts\nSample student responses\nOur question was whether increased temperature affects evaporation. What can we conclude now with the data we have?\nThe heated conditions had more evaporation.\nIf it’s warmer, there is going to be more evaporation.\n[students bringing energy ideas] When we added energy using the hand warmers, the energy transferred into the system to the water and it evaporated.\nWhat patterns did we notice that surprised us or that we weren’t expecting?\nWe didn’t think there would be much evaporation in the dry soil, but there was.\nWater is evaporating more everywhere in the warmer temperatures, even in dry soil places.\nIf there are increased amounts of water vapor in the air, how does that affect our water system model?\nIt should add more water in the air, and we should see more evaporation everywhere.\nHow does what we did here relate to the droughts and floods we’re investigating?\nIt should increase the amount of precipitation, so shouldn’t everywhere be flooding?\nThe floods might just be more intense.\nMaybe the dry areas get drier because they run out of water to evaporate.\nIf clouds stay in the same place then deserts should be getting more rain too, which isn’t happening.\nSay, It seems like we have identified that it means that there might be more water vapor in the air, maybe more precipitation and flooding, but we aren’t sure exactly what’s happening with the drought places if there is evaporation but no precipitation.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L03-AO1.html"
+      }
+    },
+    {
+      "id": "76-3-ao-2",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Look for: Increased temperatures cause an increase in e…",
+      "shortTitle": "Look for: Increased temperatures cause an increase in e…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Modify a model - based on evidence - to match how a change in atmospheric temperature affects evaporation in Earth’s water system.",
+      "lookListenFor": "What to look/listen for:\nIncreased temperatures cause an increase in evaporation and more water vapor in the atmosphere.\nStudents citing data from the bottle setups to support that this is a causal relationship.\nStudents citing evidence from the NASA Water Temperature and Water Vapor visualization as additional evidence that increased temperatures cause more evaporation.\nSome students may bring their understanding of energy transfer from prior units to explain the causal relationship between increased temperature and increased evaporation.\nStudents making suggestions for how to modify the model to show changes to evaporation (e.g., suggesting up arrows to show an increase) and changes in precipitation (e.g., suggesting that winds move water vapor in the atmosphere and where there may be more or less precipitation).",
+      "whatToDo": "What to do: If students do not agree on the causal relationship between an increase in temperature and an increase in evaporation, transition to thought experiments around other explanations. For example:\nAllow students to suggest other causes that would explain why there was more evaporation in the heated conditions. Use the prompt, If an increase in temperature is not causing more evaporation, what other variables or factors can we identify in our bottles that would explain why the heated conditions had more evaporation? Be prepared to test these new ideas.\nHave students track evidence from the bottle setups, visualizations, prior science learning, and out of school experiences that support that increased temperature causes increased evaporation. Chart evidence that supports or does not support this explanation.\nIf students have prior learning of energy transfer, consider modeling at the particle scale the movement of particles in increased temperature scenarios, how those particles transfer their energy to water particles at the surface of Earth, and how water particles that gain enough kinetic energy to evaporate.\nIf students struggle to suggest ideas for modifying the model, take a moment to suggest a few options for what could be represented and ask students which of those options best captures what they figured out and how they could communicate their new ideas to someone new to understanding these ideas.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L03-AO2.html"
+      }
+    },
+    {
+      "id": "76-3-ao-3",
+      "lesson": "Lesson 03",
+      "lessonNum": 3,
+      "source": "te-opportunity",
+      "title": "Modify a model - based on evidence - to match how a c…",
+      "shortTitle": "Modify a model - based on evidence - to match how a c…",
+      "peCode": "3.B",
+      "buildingTowards": "Building towards: 3.B Modify a model - based on evidence - to match how a change in atmospheric temperature affects evaporation in Earth’s water system.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: If students do not agree on the causal relationship between an increase in temperature and an increase in evaporation, transition to thought experiments around other explanations. For example:\nAllow students to suggest other causes that would explain why there was more evaporation in the heated conditions. Use the prompt, If an increase in temperature is not causing more evaporation, what other variables or factors can we identify in our bottles that would explain why the heated conditions had more evaporation? Be prepared to test these new ideas.\nHave students track evidence from the bottle setups, visualizations, prior science learning, and out of school experiences that support that increased temperature causes increased evaporation. Chart evidence that supports or does not support this explanation.\nIf students have prior learning of energy transfer, consider modeling at the particle scale the movement of particles in increased temperature scenarios, how those particles transfer their energy to water particles at the surface of Earth, and how water particles that gain enough kinetic energy to evaporate.\nIf students struggle to suggest ideas for modifying the model, take a moment to suggest a few options for what could be represented and ask students which of those options best captures what they figured out and how they could communicate their new ideas to someone new to understanding these ideas.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 03 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L03-AO3.html"
+      }
+    },
+    {
+      "id": "76-4-ao-1",
+      "lesson": "Lesson 04",
+      "lessonNum": 4,
+      "source": "te-opportunity",
+      "title": "Look for: generally be similar to the claims made by th…",
+      "shortTitle": "Look for: generally be similar to the claims made by th…",
+      "peCode": "4.A",
+      "buildingTowards": "Building towards: 4.A Integrate scientific information with media and graphical displays of data to clarify how a small change in temperature affects components of Earth’s water system.",
+      "lookListenFor": "What to look/listen for:\nConclusions should:\ngenerally be similar to the claims made by the scientists but in students’ own words,\ndescribe how the component is changing (e.g., increasing, decreasing, etc.),\ndescribe how temperature is related to the change in the component (e.g., melting ice, changing precipitation from rain to snow, causing a process to happen earlier, etc.), and\nbe supported by the data included with the text.",
+      "whatToDo": "What to do: Encourage students to use the lens of stability and change as they read their text and examine the data, looking for what was considered normal and what has changed. If students struggle with interpreting the data in their reading with the information in the text, prompt them to brainstorm strategies they have used in the past to help them analyze data. If they don’t offer the I2 strategy, encourage them to use the I2 strategy on the data display in their reading and then to compare their WIS and WIM statements with the text provided by scientists.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 04 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_4/original/7.6 Lesson 4 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L04-AO1.html"
+      }
+    },
+    {
+      "id": "76-5-revised-water-story",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "title": "Revised Water Story",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 05 — Revised Water Story.",
+      "files": {
+        "studentHandout": "lesson_5/original/7.6 Lesson 5 Assessment Revised Water Story.docx",
+        "teacherGuide": "lesson_5/original/7.6 Lesson 5 Teacher Edition.docx",
+        "answerKey": "lesson_5/original/7.6 Lesson 5 Answer Key Scoring Guidance for.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeF_PtPyA9Xe5Gz_YgHlc2WwEQwYyoxwGyQsGN8OshRHSiADg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "76-5-ao-1",
+      "lesson": "Lesson 05",
+      "lessonNum": 5,
+      "source": "te-opportunity",
+      "title": "Peer Feedback Instructions",
+      "shortTitle": "Peer Feedback Instructions",
+      "peCode": "5.A",
+      "buildingTowards": "Building towards: 5.A Construct a scientific explanation based on valid and reliable evidence that small changes in temperature can have big impacts on the water sources available for communities.",
+      "lookListenFor": "What to look/listen for:\na “how” explanation that draws upon science ideas and is supported with evidence, including:\nhow temperature, precipitation, and water sources change in the communities,\nhow those changes are connected to one another in Earth’s Water System Model, and\nhow changes in one or more components of the system can impact changes in another part of the system.\nLook for evidence that students have revised their explanation, based on peer feedback, by comparing the first draft and the revised explanation and reviewing their reflections on what feedback they used and didn’t use.",
+      "whatToDo": "What to do: Have students submit their revised explanation along with the first draft explanation that has their own revisions, as well as peer feedback. If students struggle to include model ideas, cue students to reference the class’s Earth’s Water System Model and their Progress Trackers. If students struggle to include all of the interactions among parts of the system, encourage them to review the blue and orange parts of the system model. If students struggle to include evidence from investigations, direct them to their science notebooks to remember the evidence that they gathered from Lessons 2, 3, and 4.\nUse Scoring Guidance for Case Site Explanations to assess students and provide feedback to them on their explanations and revisions.\nHOME LEARNING OPPORTUNITY\nIf time is short, assign home learning to complete the revised explanation. If possible, provide feedback on students’ written explanations for their case site prior to day 2 of Lesson 6 so that they have the opportunity to use these written explanations, the peer feedback, and your feedback to inform their explanation for the Alaskan case in that lesson.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 05 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_5/original/7.6 Lesson 5 Handout Peer Feedback Instructions.docx",
+        "teacherGuide": "lesson_5/original/7.6 Lesson 5 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L05-AO1.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "76-6-alaska-wildfires-and",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "title": "Alaska Wildfires and",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 06 — Alaska Wildfires and.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.6 Lesson 6 Assessment Alaska Wildfires and.docx",
+        "teacherGuide": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+        "answerKey": "lesson_6/original/7.6 Lesson 6 Answer Key Alaska Wildfires and.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSeJAMbZI-nYWfZWEbAwfyRwoE_AzUe5QQrGpheo7mvatBHXYQ/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "76-6-ao-1",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Alaska Graph Notes",
+      "shortTitle": "Alaska Graph Notes",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Compare graphs and charts depicting a changing climate in Alaska looking for similarities and differences to determine that trend lines and patterns across Alaskan claims are caused by increasing temperatures.",
+      "lookListenFor": "What to look for/listen for:\nIncreasing wildfires can be partially attributed to the decrease in precipitation.\nThe increase in temperatures contributes to the increase in wildfires, changes in precipitation, and decreases in sea ice age and amount.\nThe drier than normal conditions in Alaska contribute to wildfires increasing and can be explained by decreasing precipitation.\nThe two sets of claims are related. The changes seen are all caused by increasing temperatures.",
+      "whatToDo": "What to do:\nThis handout is meant as a formative assessment before Alaska Wildfires and Sea Ice.\nIf students are not making the connections above, touch base with the student(s) at the beginning of the next class period. Ask students if any of the graphs are related and then how those graphs would also be related to any of the data from the other claims.\nFocus on the temperature graph as a causal mechanism, and ask students if the increase in temperatures would contribute to any of the other changing graphs and how the increase in temperatures would cause those changes to occur.\nAlternatively, another strategy would be to cut out each graph and lay them next to each other in a partnering fashion. Ask students if the graphs are similar or share a trend line or relationship. This can help students see patterns of change across multiple graphs.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.6 Lesson 6 Handout Alaska Graph Notes.docx",
+        "teacherGuide": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L06-AO1.html"
+      }
+    },
+    {
+      "id": "76-6-ao-2",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Alaska Graph Notes",
+      "shortTitle": "Alaska Graph Notes",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Compare graphs and charts depicting a changing climate in Alaska looking for similarities and differences to determine that trend lines and patterns across Alaskan claims are caused by increasing temperatures.",
+      "lookListenFor": "",
+      "whatToDo": "What to do:\nThis handout is meant as a formative assessment before Alaska Wildfires and Sea Ice.\nIf students are not making the connections above, touch base with the student(s) at the beginning of the next class period. Ask students if any of the graphs are related and then how those graphs would also be related to any of the data from the other claims.\nFocus on the temperature graph as a causal mechanism, and ask students if the increase in temperatures would contribute to any of the other changing graphs and how the increase in temperatures would cause those changes to occur.\nAlternatively, another strategy would be to cut out each graph and lay them next to each other in a partnering fashion. Ask students if the graphs are similar or share a trend line or relationship. This can help students see patterns of change across multiple graphs.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.6 Lesson 6 Handout Alaska Graph Notes.docx",
+        "teacherGuide": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L06-AO2.html"
+      }
+    },
+    {
+      "id": "76-6-ao-3",
+      "lesson": "Lesson 06",
+      "lessonNum": 6,
+      "source": "te-opportunity",
+      "title": "Alaska Graph Notes",
+      "shortTitle": "Alaska Graph Notes",
+      "peCode": "6.B",
+      "buildingTowards": "Building towards: 6.B Analyze graphs and charts from multiple claims to identify the similarities and differences in patterns to determine that changes in the environments are caused by increasing temperatures.",
+      "lookListenFor": "What to look/listen for: See Alaska Wildfires and Sea Ice Key for information regarding assessment guidance.",
+      "whatToDo": "What to do:\nTo revisit part 1:\nReview the claims and graphs from Alaska Graph Notes, What Causes Wildfires?, and Alaska Graphs. Ask students what connections might be seen among the graphs and wildfire information.\nFocus on the temperature graph that shows an increase in temperature. Compare graphs from both claim sets to the temperature graphs for any similarities or patterns that may be present.\nAsk students if these patterns are across all graphs, or if all the claims might have a similar cause.\nTo revisit part 2:\nDirect students to the graphs. Ask if any of the graphs have anything in common, and how they are different.\nCut out the graphs and place different graphs next to each other. Ask students if one graph is related to another graph, and how they may be related.\nHelp students compare the temperature and precipitation data for the case site and Alaska, and then look for similar graphs that might share the same trend lines.\nLook at the graphs that have opposite trend line directions from the temperature graphs, and determine if there is a connection between increasing temperatures and the graph trend lines.\nAsk students if one of the graphs could cause a change in another graph.\nUniversal Design for Learning: During Alaska Wildfires and Sea Ice, some students may benefit from having graphs from Day 1 to help write their explanations. For some students, providing a visual representation of the data can be helpful for comprehending the similarities and differences in the graphs they had written about in Initial Water Story Explanation. Some students may be hesitant to ask for this support, even though it may be helpful. Consider distributing copies of What Causes Wildfires? to students who may benefit from seeing the graphs during the assessment.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "handout-guidance",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 06 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_6/original/7.6 Lesson 6 Handout Alaska Graph Notes.docx",
+        "teacherGuide": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L06-AO3.html"
+      }
+    },
+    {
+      "id": "76-7-ao-1",
+      "lesson": "Lesson 07",
+      "lessonNum": 7,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: See Key Ideas above",
+      "shortTitle": "Look for: What to look/listen for: See Key Ideas above",
+      "peCode": "7.A",
+      "buildingTowards": "Building towards: 7.A Apply mathematical concepts of percent to understand the proportion and quantity of and stability and/or change in the concentration of gases in the atmosphere over time.",
+      "lookListenFor": "What to look/listen for: See Key Ideas above.",
+      "whatToDo": "What to do: If students struggle to draw conclusions, do the following. Draw a two-column chart. Label the left column “Abundance in the atmosphere” and the right column “Percent change over time.” In the left column, have students list the gases from most to least abundant (i.e., nitrogen, oxygen, water vapor, carbon dioxide, and methane). In the right column, have students list the gases from greatest to least change over time (i.e., methane, carbon dioxide, water vapor, oxygen, and nitrogen). This should help students see that the most abundant gases are the most stable, while gases in smaller quantities are changing the most over time. This will help students understand the relative proportions of gases and how their quantities are changing over time.\nProblematize what we have figured out. Say, We see that methane and carbon dioxide are increasing the most. But so what? How could gases that are so small in amount in the atmosphere really matter? And it seems really strange that carbon dioxide , the gas we exhale and that plants use to make food, could be related to temperature change anyway? Now that we do know some gases are changing in the atmosphere, this may prompt new questions for you. Look back at any wonderings you had today, or even previously, and let’s see if we can get new questions on our DQB that we need to answer now.\nAdd new questions to the DQB. Display slide H. Give students sticky notes and a few minutes to record new questions they have. Facilitate students in adding and categorizing those questions on the DQB. Just as with the original DQB, ask students to read their questions one at a time and make connections to other students’ questions. Categorize the questions and add labels to the categories.\nQuestions that could come up for discussion (add to DQB):\nPollution-related questions: Is it pollution? Are CO2 and methane bad gases or if these gases are part of the \"normal\" composition of air, then why is the rise in CO2 bad? We know from previous lessons that plants need carbon dioxide to make food.\nMethane-related questions: What about methane? Is it needed?\nCrosscutting concept-related questions: How could a gas that is only a small fraction of the air in the atmosphere cause temperatures to rise? Is it causing temperatures to rise? (Focus is on deciphering causation version correlation.)",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 07 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_7/original/7.6 Lesson 7 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L07-AO1.html"
+      }
+    },
+    {
+      "id": "76-8-ao-1",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: As a formative asses…",
+      "shortTitle": "Look for: What to look/listen for: As a formative asses…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Develop a model to describe how greenhouse gas molecules respond to energy transfer from Earth to the atmosphere and cause the temperatures to rise.",
+      "lookListenFor": "What to look/listen for: As a formative assessment opportunity, listen for the key ideas listed below to assess the class’s understanding of the important ideas they have figured out through using molecular models, working with the interactive, and the reading.",
+      "whatToDo": "",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.6 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L08-AO1.html"
+      }
+    },
+    {
+      "id": "76-8-ao-2",
+      "lesson": "Lesson 08",
+      "lessonNum": 8,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: Review students’ Pro…",
+      "shortTitle": "Look for: What to look/listen for: Review students’ Pro…",
+      "peCode": "8.A",
+      "buildingTowards": "Building towards: 8.A Develop a model to describe how greenhouse gas molecules respond to energy transfer from Earth to the atmosphere and cause the temperatures to rise.",
+      "lookListenFor": "What to look/listen for: Review students’ Progress Trackers. Look for the model ideas that are listed above. Students should represent in a model that GHGs absorb, vibrate, and release energy into the atmosphere. Look for labels or pictures that connect this released energy to the cause of atmospheric warming. Students should use words, pictures, or both to indicate that increasing amounts of GHG in the atmosphere is what is causing our atmosphere to get warmer.",
+      "whatToDo": "What to do: Provide quiet time for students to work individually on their Progress Trackers. Monitor their work, and, if students are struggling with representing important ideas in their models, call attention to the model ideas and sketches you did with the class during the discussion. They can use these as a starting point for their models. Collect student notebooks or Progress Trackers before they attach them to their notebooks so you can review them.\nAllow students time to update their Progress Trackers. Give students quiet time to update their Progress Trackers but stop them 2 minutes before class is over so that you can take them through the navigation routine.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 08 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_8/original/7.6 Lesson 8 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L08-AO2.html"
+      }
+    },
+    {
+      "id": "76-9-ao-1",
+      "lesson": "Lesson 09",
+      "lessonNum": 9,
+      "source": "te-opportunity",
+      "title": "Look for: When students are working in their groups to…",
+      "shortTitle": "Look for: When students are working in their groups to…",
+      "peCode": "9.A",
+      "buildingTowards": "Building towards: 9.A Analyze and interpret carbon dioxide levels collected from ice core data (graphs) to collect evidence of whether the changes in these levels are cyclical in nature and a normal occurrence or are changing at an non-normal rate.",
+      "lookListenFor": "What to look/listen for:\nWhen students are working in their groups to analyze the data, listen for them to notice that there have been normal, or cyclical, increases and decreases in the amount of carbon dioxide in the atmosphere over time, but the increase that is happening right now is not normal. Students should also notice that the first graph does show an increase in carbon dioxide since the 1950s, but the amount of increase that is represented since then in the second graph is much steeper when it is compared to 800,000 years ago. They should argue that this is another piece of data that shows this increase is not normal.",
+      "whatToDo": "What to do: If students are struggling with comparing the two graphs, ask them questions about what is being represented on the graph by referring them back to the x- and y- axes. Then ask them questions about how the changes in the slope of the lines compare. Are they both increasing? Support them in finding where 1950 is represented on the second graph to help them figure out if the increase is something that seems like a normal occurrence.\nOnce students have reached the end of the StoryMap and had a few minutes to look at the graphs, say, We looked at some data that was collected from scientists using ice core samples to find the amounts of different greenhouse gases in the atmosphere in the past. Because we said we were most concerned about figuring out changes in carbon dioxide, the graphs we looked at only included changes in carbon dioxide over time. What did you see in the data? ✱ Is the amount of increase in carbon dioxide that we are seeing today part of a normal cycle? Has this been happening over time? Students should say:\nNo! This is not normal!\nThere have been increases and decreases in the amounts of CO2 in the air, but never in the past have the levels been as high as today.\nCO2 in the atmosphere increased a lot over time.\nClimate.gov\nSay, The ice core data tells us that CO2 levels in the atmosphere are increasing at a faster rate than normal cycles. What do you think is different now than in the past that is causing more CO2 to be in the atmosphere?\nListen for students to suggest:\nmore people,\nmore pollution,\nburning fossil fuels,\nfewer trees or trees being cut down, and\ncities and more people “stuff.”\nTell students that in the next lesson, they will explore this question and figure out what is causing more CO2 to be in the atmosphere.\nAdditional Lesson 9 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN ELA\nCCSS.ELA-LITERACY.RST.6-8.7: Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).\nStudents integrate information from the ice cube observations with the information provided in text, media, and graphs in the StoryMaps to make sense of how scientists track CO2 levels over long periods of time.\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.MATH.CONTENT.6.SP.B.4 Display numerical data in plots on a number line, including dot plots, histograms, and box plots.\nCCSS.MATH.CONTENT.6.SP.B.5 Summarize numerical data sets in relation to their context, such as by:\nCCSS.MATH.CONTENT.6.SP.B.5.B Describing the nature of the attribute under investigation, including how it was measured and its units of measurement.\nCCSS.MATH.CONTENT.6.SP.B.5.C Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.\nThis lesson provides an opportunity for students to revisit mathematics standards developed in 6th grade as they analyze the CO2 data over time. Students study the graphs closely to understand what is being measured and describe the general pattern and variability over time.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 09 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_9/original/7.6 Lesson 9 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L09-AO1.html"
+      }
+    },
+    {
+      "id": "76-10-ao-1",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: Student ideas about the pattern in each indiv…",
+      "shortTitle": "Look for: Student ideas about the pattern in each indiv…",
+      "peCode": "10.A",
+      "buildingTowards": "Building towards: 10.A Integrate qualitative and quantitative scientific information in written text with visual displays of atmospheric CO2 levels, energy consumption, and human population levels to determine a correlation between human activities and CO2 emissions.",
+      "lookListenFor": "What to look for/listen for:\nStudent ideas about the pattern in each individual graph. This pattern shows slightly increasing levels in population, energy consumption, and CO2 emissions in the 1700s and 1800s, with a steep rise starting in the mid-1900s.\nStudent ideas about a correlation in the patterns across the three graphs. The graphs follow a similar trend.\nStudent ideas about how a growing population that consumes large amounts of mineral resources is correlated with the rapid increases in CO2 in Earth’s atmosphere.",
+      "whatToDo": "What to do: If students struggle to compare the three graphs, consider chunking the graphs into time periods and focusing on specific time periods, asking incremental questions like:\nHow would you describe the change in population from 1800 to 1900?\nWhat about 1900 to 2000?\nWould that same description fit the energy consumption graph (or CO2 graph)?\nWhy do you think they might follow a similar pattern? How could they be connected to one another?\nConstruct a simple equation to pull together ideas about population growth with energy consumption.✱ Display slide G. Ask students, If we could write an equation to explain how more people and more energy per person would be related to CO2 in the atmosphere, what would it look like?\nStudents should suggest ideas about multiplying the number of people by how much energy they need leading to greater use of fossil fuels and CO2 emissions. Sample equations might be:\nMore people × more energy use per person = greater use of fossil fuels = high CO2 into the atmosphere.\nNumber of people × energy use per person = total energy used in the world. Total energy × CO2 emitted per type = total CO2 emissions.\nIntroduce students to “per-capita consumption.” Say, We have a word that we use to describe how much stuff people use every day. We call it per-capita consumption. The “per-capita” means per person. It is all the stuff (energy, food, goods) that a person consumes every day or year. Can someone describe examples of what that might look like in your daily life?\nListen for students to suggest:\nHow much electricity we use each day, like our electricity bills.\nHow much we buy each day, like food or other stuff.\nHow much water we use each day.\nGive students an opportunity to describe what it might mean for them. It could be how much food they consume or electricity or gasoline. Add “per-capita consumption” to the Word Wall.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L10-AO1.html"
+      }
+    },
+    {
+      "id": "76-10-ao-2",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: students asking for evidence for the products…",
+      "shortTitle": "Look for: students asking for evidence for the products…",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B Ask questions to clarify whether the CO2 in the atmosphere can come from burning fossil fuels for energy.",
+      "lookListenFor": "What to look/listen for:\nstudents asking for evidence for the products of the combustion of fossil fuels and\nstudents recognizing and asking questions about energy as a product of the combustion reactions, as well as matter that comes from the reactants.",
+      "whatToDo": "What to do: Listen as students share their questions that they can answer to help them figure out if burning fossil fuels and rising CO2 levels are related. Their questions should ask for evidence to support or refute this claim. Questions they may ask are: What are the products of the combustion reaction of fossil fuels? Do you get the same products from all fossil fuels? Is CO2 one of the products of burning fossil fuels?\nPredict product(s) of burning fossil fuels. Display slide K and say, What do we predict will happen when we react (burn) this fuel with oxygen? What would happen to the atoms? What product or products would we get? Jot down your predictions in your notebook. Title your response, “Predictions of reacting fossil fuel with oxygen.” Student predictions about the products may include CO2, possibly carbon monoxide, smoke, and ash. Students may also list energy as a product. Students may say that the atoms or molecules in the fossil fuels turn into the atoms of the products.✱",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L10-AO2.html"
+      }
+    },
+    {
+      "id": "76-10-ao-3",
+      "lesson": "Lesson 10",
+      "lessonNum": 10,
+      "source": "te-opportunity",
+      "title": "Look for: What evidence do you have that H2O is produced?",
+      "shortTitle": "Look for: What evidence do you have that H2O is produced?",
+      "peCode": "10.B",
+      "buildingTowards": "Building towards: 10.B.2 Ask questions to clarify whether the CO2 in the atmosphere can come from burning fossil fuels for energy.",
+      "lookListenFor": "What to look/listen for:\nstudents asking each other for evidence for the products of the combustion of fossil fuels such as:\nWhat evidence do you have that H2O is produced?\nHow do you know the H2O wasn’t in the air to start with?\nDo you have evidence beyond the humidity sensor values?\nWhat evidence do you have that CO2 is produced?\nHow do you know the CO2 wasn’t in the air to start with?\nstudents being skeptical because there is not sufficient evidence to convince them that fossil fuels in general produce CO2 and water when they burn;\nstudents requesting or asking questions to get more evidence to support their findings—evidence that is sufficient to make a claim that CO2 and water are products of the combustion of a variety of fossil fuels; and\nstudents recognizing that energy is a product of the combustion reactions, as well as matter that comes from the reactants.",
+      "whatToDo": "What to do: Encourage students to ask each other questions, especially if the student responding is vague or gives an incomplete answer. Students should be asking questions of each other to clarify any claims or the evidence they have collected. Some students may need sentence starters to help them frame their questions. If your students need this support, write a few sentence starters on the whiteboard. Some examples of starters include: What do you mean by________? What evidence do you have that____________ is true? How do you know _____________?\nReturn to general chemical reaction. Display slide Q. Say, We have burned two different fossil fuels and have gotten similar results. Are you comfortable with saying that CO2 and water are two products of the reaction? Students may all be convinced but you may have some who are not. The teacher reference, Burning Fuels Instructions, gives suggestions for other tests with additional fossil fuels.\nSay, Can we add products to this reaction that we started with? If some students are not convinced that this reaction can be generalized, write “butane” and “methanol” underneath “Fossil Fuel” so that you honor their skepticism but can move ahead.\n(reactants)\n(products)\nFossil fuel + oxygen (O2) →\nCO2 + water",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 10 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L10-AO3.html"
+      }
+    },
+    {
+      "id": "76-11-ao-1",
+      "lesson": "Lesson 11",
+      "lessonNum": 11,
+      "source": "te-opportunity",
+      "title": "Look for: see the Key Ideas section above,",
+      "shortTitle": "Look for: see the Key Ideas section above,",
+      "peCode": "11.A",
+      "buildingTowards": "Building towards: 11.A Apply mathematical concepts to compare the rate of combustion and cellular respiration putting CO2 into the atmosphere to the rate for photosynthesis taking CO2 out of the atmosphere leading to an imbalance in the system.",
+      "lookListenFor": "What to look/listen for:\nsee the Key Ideas section above,\nstudents to apply the rates to make sense of the imbalance that occurs when comparing the rate of CO2 entering the atmosphere from combustion versus the rate of CO2 taken out of the atmosphere from photosynthesis,\nstudents use the rates to explain that a net of 8.5 GtC/yr is going into the atmosphere without an offsetting process to take it out.\nstudents may explain that the processes are not balanced.\nstudents may explain that when humans started to burn fossil fuels we created a change to the system.",
+      "whatToDo": "What to do:\nDuring the discussion: If students need additional support, have them return to the graphs from Lesson 10 depicting population growth and energy use and discuss (1) what would we predict will happen to the combustion number given our population growth and needs for energy? and (2) What do we predict could happen to the photosynthesis number given land use choices we learned about in the Palm Oil Unit? Have students complete a third round of the dice game but with increased fossil fuel use so that, when they roll the dice, there is more opportunity to leave the fossil fuel reservoir. Have them complete a round with reduced fossil fuel use where there is only one opportunity (rolling a 6) to leave the fossil fuel location. The additional rounds may help students see that the rate of use of fossil fuels can greatly affect buildup of carbon atoms in the atmosphere.\nIn response to the exit ticket: Review the exit tickets before the assessment in Lesson 12. Depending on what you notice, consider allotting time to (1) look for patterns in responses and identify any partially correct or incorrect responses to inform your next steps. What you do will depend on the patterns you notice, (2) arrange students in groups of 3 with their individual exit tickets. Ask them to use ideas from their individual responses to craft a consensus statement to share with the class. They can exchange their consensus statement for evaluation by another group, and then make revisions.\nAdditional Lesson 11 Teacher Guidance\nSUPPORTING STUDENTS IN MAKING CONNECTIONS IN MATH\nCCSS.Math.Content.6.RP.A.3: Use ratio and rate reasoning to solve real-world and mathematical problems.\nAfter 6th grade students should be familiar with unit rates. In this lesson, students use the unit rate of gigatons of carbon per year. Have your students compare rates for photosynthesis, cellular respiration, and combustion to make sense of the increase in carbon dioxide in the atmosphere. Have students compare the magnitude of combustion, which seems far less than the natural processes, yet there is no offset for this source of CO2.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 11 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_11/original/7.6 Lesson 11 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L11-AO1.html"
+      }
+    },
+    {
+      "id": "76-12-version-1-social",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "title": "Version 1 Social",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 12 — Version 1 Social.",
+      "files": {
+        "studentHandout": "lesson_12/original/7.6 Lesson 12 Assessment Version 1 Social.docx",
+        "teacherGuide": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+        "answerKey": "lesson_12/original/7.6 Lesson 12 Answer Key Tweet Claims Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLScGUx52iGjTwI0uKICQu326BbdJLwfitq-DoSTjHqMu1nmFbg/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "76-12-version-2-social",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "title": "Version 2 Social",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 12 — Version 2 Social.",
+      "files": {
+        "studentHandout": "lesson_12/original/7.6 Lesson 12 Assessment Version 2 Social.docx",
+        "teacherGuide": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+        "answerKey": "lesson_12/original/7.6 Lesson 12 Answer Key Tweet Claims Assessment.docx",
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSccnX1wgNuanIo7H1pqLIx-ApiDr6wLKrWdQ1V8C1AnYBzfKw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "76-12-ao-2",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: See Tweet Claims Assessment Key…",
+      "shortTitle": "Look for: /listen for: See Tweet Claims Assessment Key…",
+      "peCode": "12.B",
+      "buildingTowards": "Building towards: 12.B Construct an argument supported by science ideas to refute and clarify claims through an explanation of the causal chain of events between the changing climate and water resources.",
+      "lookListenFor": "What to look for/listen for: See Tweet Claims Assessment Key for guidance.",
+      "whatToDo": "What to do:\nIf students need help developing the claims:\nRemind students to start going line by line to look for individual claims.\nRe-read the tweet at the end. Summarize the meaning of the tweet to look for overarching claims.\nRead each sentence out loud and ask what the author is saying about the topic.\nIf students need help determining if claims match our science ideas:\nPoint out an individual claim. Ask if the claim is supported by any model ideas from the class list.\nIf students need support crafting reasoning to refute the science ideas:\nArticulate one sentence that is the scientifically accurate version of the claim.\nDirect students to look at the model ideas.\nAsk students which model ideas explain the scientifically accurate version of the claim.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L12-AO2.html"
+      }
+    },
+    {
+      "id": "76-12-ao-1",
+      "lesson": "Lesson 12",
+      "lessonNum": 12,
+      "source": "te-opportunity",
+      "title": "Look for: Arrows between each box should show the causa…",
+      "shortTitle": "Look for: Arrows between each box should show the causa…",
+      "peCode": "12.A",
+      "buildingTowards": "Building towards: 12.A Develop a model to describe how fossil fuel use causes changes to the climate, affecting community water resources.",
+      "lookListenFor": "What to look for/listen for:\nArrows between each box should show the causal chain between fossil fuel use and changing water resources.\nFossil fuel use causes increased levels of carbon dioxide in our atmosphere.\nIncreased carbon dioxide in the atmosphere leads to an increase in temperatures.\nLook for each box to be supported by the corresponding science ideas from the Model Ideas list.",
+      "whatToDo": "What to do:\nAt this time, this is a formative assessment to gauge student understanding of the connections between the carbon system and water system, and how those are supported by the science ideas built in previous lessons. The class will work together to clarify these ideas in the next step of the lesson, and a summative assessment will be presented in the next class period to assess these ideas.\nHelp with the connection between fossil fuel use and increased carbon dioxide: Ask students about what the fossil fuel use does that causes changes in the carbon system and, in turn, the atmosphere.\nReview the relationship established between carbon dioxide and temperatures: Ask students what they observed in Lesson 7 as they were using the interactive and the particle models. Ask students what the particle model of carbon dioxide did with the energy and what that carbon dioxide particle may be doing to the system to eventually lead to changing water resources.\nHelp with identifying the model ideas that support increasing temperatures and evaporation rates: Ask students what we noticed increasing temperatures doing to the water in our evaporation columns from Lesson 3. Ask students what our data showed and if this had an effect on our water system, and what model idea explains this.\nHelp with identifying the model ideas that support evaporation rates and the movement of water: Ask students, once the water evaporated, what happened to that water? What caused some places to get wetter while others were getting drier? What model ideas help to explain this?\nHelp with model idea connections: Point out the specific box that students have not completed or need help with. Ask how the model idea supports the box in question, or what model ideas connect to the science ideas in the box. Ask what model ideas would have an impact on how the box would function in their causal chain of events.",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 12 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L12-AO1.html"
+      }
+    },
+    {
+      "id": "76-13-ao-1",
+      "lesson": "Lesson 13",
+      "lessonNum": 13,
+      "source": "te-opportunity",
+      "title": "Look for: /listen for: Listen for students to determine…",
+      "shortTitle": "Look for: /listen for: Listen for students to determine…",
+      "peCode": "13.A",
+      "buildingTowards": "Building towards: 13.A Use the carbon dioxide model simulation to generate data and test ideas about different emissions rates scenarios to determine how to reach carbon dioxide equilibrium in the atmosphere.",
+      "lookListenFor": "What to look for/listen for: Listen for students to determine that, even by cutting emissions in half, the global temperature will still increase. Students should identify that a cut of 9 GtC/yr will need to be made to emissions to reach CO2 equilibrium in the atmosphere.",
+      "whatToDo": "What to do: If students do not recognize that the rate needs to be cut by 9 GtC/yr, ask students if anyone was able to cut emissions to a point where the temperatures remained steady. Students should identify that this rate is at 1.6 GtC/yr. Ask students what the difference is between the starting rate and the cut rate. Students should identify that it is roughly 9 GtC/yr. If students argue that the rate is at 8.9 GtC/yr, remind students that this simulation is using 2015 data, and emissions have since increased. By using the rounded-up 9 GtC/yr estimate, we can have a number that more closely reflects the actual imbalance and amount needed to reach CO2 equilibrium in the carbon system.\nSuggested prompts\nSample student responses\nFollow-up questions\nWe all started off with the same condition, which was eliminating carbon emissions altogether. What did you notice as you ran the simulation with emissions set to 0 GtC/yr?\nThe temperature started to go down.\nThe atmospheric CO2 and the temperature both started to go down\nWhy do you think the temperature would go down?\nIs that a realistic goal to have to reduce emission rates to 0 gigatons of carbon a year?\nSome people say that we can’t reduce our emissions to 0 GtC/yr, that we need some source of energy. That’s why some people propose cutting it in half. What observations did you make when cutting emissions in half?\nThe emissions fell immediately.\nThe global temperature and CO2 still increased, but by less than before we cut emissions.\nDo you think cutting emissions in half tomorrow would be realistic?\nWhat do you think would happen with water resources if we chose to cut emissions in half?\nDo you think that we would eventually go over the red line?\nDid cutting emissions help temperature increases, or should we cut more to help decrease the rise of global temperatures?\nEven though we cut emissions in half, the temperatures were not cut in half.\nWhy would cutting emissions in half not cut the global temperature rise in half? What does this tell us about how long atmospheric CO2 hangs around in the atmosphere?\nWe all had the chance to try different emission cut ideas. What did you try, and what did you notice?\nWe tried reducing the emissions to 8 gigatons per year. We kept the temperatures below the red line until 2100.\nHow might that increase in temperatures affect our water system? Why?\nShould we cut more or less? Is that a realistic goal?\nIf our goal is to lessen the impacts of climate change and, in turn, try to avoid more water resource changes, what does that mean for the global temperature change on our graph?\nWe need to try to limit temperature changes on the graph.\nWe need to cut emissions so that the temperatures stay below the line.\nIf we need to limit temperature changes, what should we cut our emissions to?\nWhat does that line mean? Is the red line a line that represents all water cycle changes or a tipping point?\nDid anyone get the temperatures to remain stable across the graph?✱\nYes, when I tried 1.6 gigatons per year, the temperatures and the atmospheric CO2 didn’t increase but stayed the same.\nSo, what would that mean for the current water system changes?\nIf we have to cut emissions to 1.6 to maintain the current state of our water system and keep temperatures constant, how much CO2 would we be eliminating from what UCAR says is our current usage of 10.5 gigatons per year?\nWhy do you think we can still emit 1.6 gigatons per year? What processes counteract those emissions?\nWhy is 1.6 gigatons per year an equilibrium point for temperatures? What makes sense when we look at the numbers on our Earth’s Carbon System Model as to why we can still emit CO2 and not have an increase in temperatures?\nIf we can’t cut emissions to a rate that stabilizes the temperatures, is it even worth trying?\nYes, even a small cut can help keep global temperatures from increasing as quickly as compared to the current emission rates.\nSo, should we just do one small cut, or should we try to red…",
+      "opportunityType": "investigation-data",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 13 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_13/original/7.6 Lesson 13 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L13-AO1.html"
+      }
+    },
+    {
+      "id": "76-14-ao-1",
+      "lesson": "Lesson 14",
+      "lessonNum": 14,
+      "source": "te-opportunity",
+      "title": "Look for: students calculating the carbon savings from…",
+      "shortTitle": "Look for: students calculating the carbon savings from…",
+      "peCode": "15.A",
+      "buildingTowards": "Building towards: 15.A Apply mathematical concepts to calculate the class’s average carbon impact and possible carbon reductions and scale those reductions if more people change their behaviors.",
+      "lookListenFor": "What to look/listen for:\nstudents calculating the carbon savings from their behavior changes,\nstudents multiplying the savings by different population sizes and understand why they are multiplying,\nstudents recognizing that their calculations are based on getting 100% of people to make changes and to recalculate a more realistic percentage, and\nstudents understanding that the numbers reflect an average carbon savings based on different actions people may be willing to take.",
+      "whatToDo": "What to do: To support students in calculating percentages, particularly for students who struggle with math, talk about the numbers in a concrete example together. Start with class level, talk and show the calculation on the front whiteboard, and what each number and each operation means. It’s important for students to recognize that changing the percent is a reflection of how many people can be convinced to change their behaviors. Having students model the percentages using multiple modalities (slide G) can support students too.\nIf time permits and students can engage in these calculations in partners, use this opportunity to differentiate for math abilities. Allow more advanced math learners to engage in calculations with trickier percentages and/or calculate for different scenarios. With students who need more support, consider going through another calculation together and/or having them take example scenarios with more even numbers (e.g., 50% as opposed to 35%). Allow them to check their numbers with each other and/or you before sharing aloud.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 14 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_14/original/7.6 Lesson 14 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L14-AO1.html"
+      }
+    },
+    {
+      "id": "76-15-ao-1",
+      "lesson": "Lesson 15",
+      "lessonNum": 15,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: During the Consensus…",
+      "shortTitle": "Look for: What to look/listen for: During the Consensus…",
+      "peCode": "14.A",
+      "buildingTowards": "Building towards: 14.A Evaluate competing solutions using a systematic process and jointly developed and agreed upon criteria to determine how small changes in behaviors and technologies can add up to larger impacts on reducing CO2 in the atmosphere.",
+      "lookListenFor": "What to look/listen for: During the Consensus Discussion, listen for students arguing\nfor solutions that will reduce carbon emissions,\nthat multiple solutions would need to be implemented to reduce enough CO2 to slow or stop the temperatures rising, and\nthat some small solutions would be easy for everyone to implement, and if everyone did, it would make a difference in the CO2 in the air.",
+      "whatToDo": "What to do: If students aren’t suggesting the solutions with a small impact on the amount of CO2 in the air, ask probing questions about what this impact would be if everyone in our class did it, or everyone in our town, or state, or even the United States. Continue this line of questioning to push students to think about what if everyone were to take part in more than one of the smaller, easier to implement solutions to help students start thinking about the compounding effects of implementing multiple solutions and that this is something they can do with small solutions, such as reducing plastic usage, recycling, eating a more plant-based diet, etc.",
+      "opportunityType": "discussion-argument",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 15 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_15/original/7.6 Lesson 15 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L15-AO1.html"
+      }
+    },
+    {
+      "id": "76-16-ao-2",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Critically read scientific texts adapted for classroo…",
+      "shortTitle": "Critically read scientific texts adapted for classroo…",
+      "peCode": "16.A",
+      "buildingTowards": "Building towards: 16.A Critically read scientific texts adapted for classroom use to obtain information on how communities are implementing new activities at different scales to mitigate the flow of carbon into and out of the atmosphere and/or adapt to changes in the community.",
+      "lookListenFor": "",
+      "whatToDo": "What to do: Solutions exist across different parts of the community, from building, to urban planning, to energy use and agriculture. Individuals can contribute to some solutions while some are implemented at the community level or by business or government. Before moving onto Lesson 17, it will be important for students to understand the diverse approach communities take across many different sectors and at different scales (individual, community, business, or government scales). These ideas will help support them as they consider their own local planning.\nIf students struggle to identify these ideas, ask questions such as:\nWhich solutions are focused on energy use? Agriculture? New buildings or how to improve existing buildings? Managing water resources?\nWho is participating in these solutions? Individuals or families, or is the solution being implemented at a larger scale?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/7.6 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L16-AO2.html"
+      }
+    },
+    {
+      "id": "76-16-ao-1",
+      "lesson": "Lesson 16",
+      "lessonNum": 16,
+      "source": "te-opportunity",
+      "title": "Look for/listen for: Students should share ideas about how",
+      "shortTitle": "Look for/listen for: Students should share ideas about how",
+      "peCode": "16.A",
+      "buildingTowards": "Building towards: 16.A Critically read scientific texts adapted for classroom use to obtain information on how communities are implementing new activities at different scales to mitigate the flow of carbon into and out of the atmosphere and/or adapt to changes in the community.",
+      "lookListenFor": "Look for/listen for: Students should share ideas about how",
+      "whatToDo": "Communities develop plans to rebalance CO2 levels in the atmosphere while also building a more resilient community adapting to changes already occurring within the community.\nPlans include many solutions across different parts of the community and at different scales, from individual and family options to large-scale community solutions.\nWhat to do: Solutions exist across different parts of the community, from building, to urban planning, to energy use and agriculture. Individuals can contribute to some solutions while some are implemented at the community level or by business or government. Before moving onto Lesson 17, it will be important for students to understand the diverse approach communities take across many different sectors and at different scales (individual, community, business, or government scales). These ideas will help support them as they consider their own local planning.\nIf students struggle to identify these ideas, ask questions such as:\nWhich solutions are focused on energy use? Agriculture? New buildings or how to improve existing buildings? Managing water resources?\nWho is participating in these solutions? Individuals or families, or is the solution being implemented at a larger scale?",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 16 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_16/original/7.6 Lesson 16 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L16-AO1.html"
+      }
+    },
+    {
+      "id": "76-17-argue-for-the",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "title": "Argue for the",
+      "source": "formal-assessment",
+      "assessmentType": "formative",
+      "opportunityType": "named-package",
+      "libraryOutput": "full-package",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 17 — Argue for the.",
+      "files": {
+        "studentHandout": "lesson_17/original/7.6 Lesson 17 Assessment Argue for the.docx",
+        "teacherGuide": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSdztlgK-BUSJJt-VEFLkEfbyKEkIFEI2hPJ0ozhXqxGORaApw/viewform",
+        "rubric": null
+      }
+    },
+    {
+      "id": "76-17-ao-1",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Designing a Community",
+      "shortTitle": "Designing a Community",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A Apply scientific principles to design a process/system that the school can undertake to reduce the vulnerability to climate change impacts (e.g., high heat, changing water resources) in the short-term and contribute to rebalancing carbon in the long-term.",
+      "lookListenFor": "What to look/listen for: The example plan below shows suggested ideas.",
+      "whatToDo": "What to do: If students don’t immediately know what to list for a ‘checklist’ item, offer the first example. When you share the first example, explain how the checklist item would help meet the criteria. Then allow students to talk with a partner to brainstorm the next checklist item. You may need to revisit a resilience plan from Lesson 16 as a concrete example to look at as the class builds the checklist.\nOrient them to the left column, criteria of what an effective plan does, and the right column, their checklist for what to include to meet the criteria.\nWhat an effective plan does (criteria)\nWhat we should include (checklist)\nSay, One thing that we said that makes an effective plan is that it explains the problem that needs to be solved to the community. Let’s add “Defines the problem we’re trying to solve” to our criteria of what makes a plan effective. What could we specifically explain in our plans to help define the problem for our community? Listen for students to suggest:\nProblems with changing precipitation, such as droughts, floods, less snowpack, reduced groundwater, etc.\nProblems with rising temperatures and/or more frequent heat events.\nProblems with certain areas of town or certain industries being more affected than others.\nAdd these ideas to the checklist (as shown in the example below).\nAdd additional criteria and checklist items. Follow your students’ ideas, but you can also suggest ideas to students as you move through the co-construction process. As you complete the criteria checklist, intersperse opportunities for students to turn and talk or convene with a smaller group before sharing ideas aloud in whole group discussion.\nAs you build a list with your class, aim for inclusion of the following three components:\nDefining the problem or problems/Tell people about the problem.\nTeaching people about what’s causing the problem(s).\nDirecting people to solutions and telling them what solutions could be taken.\nStudents may also suggest:\nGetting people to care about the problem.\nBeing clear and specific about solutions to the problem.\nIncluding solutions in different parts or sectors of the community.\nA final class checklist might look like the example below. Your class’ checklist could include more or different examples depending on the identified needs of your community. This checklist will become an important class artifact because (1) it represents the evaluation criteria that students have jointly agreed upon, and (2) can serve as a rubric for you to assess students’ plans.\nWhat an effective plan does\nWhat we should include\nTells people about the problem(s).\nOur community will experience more drought or flood, or both.\nSome seasons might become drier or wetter than before.\nSome areas or some people in our community might be at more risk or more impacted.\nTeaches people about what’s causing the problem.\nCarbon dioxide is building up in the atmosphere.\nCarbon dioxide traps energy in the atmosphere that causes temperatures to rise.\nWarmer temperatures means more evaporation and water vapor in the atmosphere, but it doesn’t fall evenly.\nPhotosynthesis is one way to take CO2 out of the atmosphere but there are also ways to reduce putting it in the atmosphere. Some combination is necessary to solve the problem.\nDirects people to solutions.\nShare solutions their community can take to:\nreduce CO2 going into air or take CO2 out of air\nbe prepared for higher temperatures\nbe prepared for more/less precipitation\nGive people more than one way to help.\nInclude different actions that different people can take in different situations.\nWhen you get to the “Direct people to solutions” display slide F. Use the following prompts to scaffold student ideas for solutions:\nWhat were the different kinds of solutions we saw in the example resilience plans?\nWhat solutions make sense for our community given the changes we are experiencing?\nWhat can we do for long-term carbon rebalancing? What can we do for changes happening right now…",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+        "teacherGuide": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L17-AO1.html"
+      }
+    },
+    {
+      "id": "76-17-ao-2",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Designing a Community",
+      "shortTitle": "Designing a Community",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A Apply scientific principles to design a process/system that the school can undertake to reduce the vulnerability to climate change impacts (e.g., high heat, changing water resources) in the short-term and contribute to rebalancing carbon in the long-term.",
+      "lookListenFor": "What to look/listen for: See guidance on Designing a Community Resilience Plan: Teacher Feedback. This feedback sheet should closely match your class’ Criteria Checklist.",
+      "whatToDo": "What to do: Provide feedback to each group using Designing a Community Resilience Plan: Teacher Feedback. Meet with each group for 2-3 minutes during the group work time, to go over your feedback and give them a chance to ask you clarifying questions.\nExamine students’ individual exit tickets. Depending on responses, either arrange for a one-on-one conference with students needing extra support or pair up students needing extra support with those more confident about the task for a short mentoring session to ask and answer questions.\nHOME LEARNING OPPORTUNITY\nIf you want students to interview stakeholders to inform their plans, assign home learning before the end of class. Optional slide N is provided. The goal is for students to gather questions that stakeholders would have about the proposed plan. Groups can revise the plan to include more information to answer the questions.\nIf you want students more involved in the planning of the interviews, adjust slide N and ask students:\nWhat information do you need from stakeholders?\nHow could you go about getting that information?\nSample student ideas might include the following:\nWe need to ask them if they are worried and what about.\nWe could ask them the questions they have.\nWe could look up information online.\nWe could talk to people in our school or community.",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+        "teacherGuide": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L17-AO2.html"
+      }
+    },
+    {
+      "id": "76-17-ao-4",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Designing a Community",
+      "shortTitle": "Designing a Community",
+      "peCode": "17.A",
+      "buildingTowards": "Building towards: 17.A Apply scientific principles to design a process/system that the school can undertake to reduce the vulnerability to climate change impacts (e.g., high heat, changing water resources) in the short-term and contribute to rebalancing carbon in the long-term.",
+      "lookListenFor": "What to look/listen for: see Rubric: Designing a Community Resilience Plan. Modify according to your class’ Criteria Checklist.",
+      "whatToDo": "What to do: Use the rubric to provide feedback to students. Allow students to review the feedback. Give students the opportunity to respond to the following prompts to improve their plans:\nWhat is one piece of feedback you received?\nWhat did you add or change to address this feedback?",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+        "teacherGuide": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L17-AO4.html"
+      }
+    },
+    {
+      "id": "76-17-ao-5",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Designing a Community",
+      "shortTitle": "Designing a Community",
+      "peCode": "17.C",
+      "buildingTowards": "Building towards: 17.C Construct an argument grounded in evidence and scientific reasoning to recommend a design solution that will prepare a community for predicted changes to temperature and/or precipitation (effect).",
+      "lookListenFor": "What to look for/listen for: see Rubric: Argue for the Best Solution to Solve a Problem in Your Community.",
+      "whatToDo": "What to do: Use the rubric to provide feedback to students. Allow students to review the feedback. Give students the opportunity to respond to the following prompts to improve their plans: (1) What is one piece of feedback you received? (2) What did you add or change to address this feedback?",
+      "opportunityType": "handout-written",
+      "libraryOutput": "handout-form-planned",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+        "teacherGuide": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L17-AO5.html"
+      }
+    },
+    {
+      "id": "76-17-ao-3",
+      "lesson": "Lesson 17",
+      "lessonNum": 17,
+      "source": "te-opportunity",
+      "title": "Look for: What to look/listen for: use Rubric: Evaluati…",
+      "shortTitle": "Look for: What to look/listen for: use Rubric: Evaluati…",
+      "peCode": "17.B",
+      "buildingTowards": "Building towards: 17.B Ask questions to challenge the proposed resilience plan to evaluate whether the solutions meet the class’ agreed criteria checklist and will reduce vulnerabilities to climate impacts in the short-term and rebalance carbon in the long-term.",
+      "lookListenFor": "What to look/listen for: use Rubric: Evaluating Solutions by Asking Questions as an example of how to monitor student progress on this LLPE. Modify according to your class’ Criteria Checklist.",
+      "whatToDo": "What to do: If you anticipate that students will need more support providing specific and clear feedback, see Reference: Peer Feedback Guidelines for ideas for how to more fully support feedback between students. If students are uncertain about the kinds of questions to ask, revisit the DQB and think about the kinds of questions they had early on in the unit. Ask students to review the DQB to see if there are questions on it that may be ones members of the community have too. If students are uncertain about evaluating the entirety of the plan, it may help to focus them on evaluating 1 or 2 parts of it. For example, you may want to focus students on providing feedback as to whether the mix of solutions (Part 4) will solve the stakeholders’ concerns (Part 2) or whether the mix of solutions (Part 4) will solve the community’s problem (Part 1). Having students evaluate only certain parts of the plan can make the evaluation task more accessible, particularly to students who may be overwhelmed by evaluating the whole thing.\nProvide students feedback on their evaluations using Rubric: Evaluating Solutions by Asking Questions. Give students an opportunity to revise parts of the feedback to be more specific and targeted. This will help students work with the feedback they receive from you to iteratively improve on giving feedback to classmates.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 17 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L17-AO3.html"
+      },
+      "assessmentType": "peer-feedback"
+    },
+    {
+      "id": "76-18-ao-1",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look/listen for:",
+      "shortTitle": "Look/listen for:",
+      "peCode": null,
+      "buildingTowards": "",
+      "lookListenFor": "Look/listen for:",
+      "whatToDo": "What to do:\nIf students struggle providing the evidence and reasoning, give students examples and use questions to guide them. Ask them, How do you know that? What did we do in class that made you answer that way? How did that activity change your thinking?\nIf students need more challenges, ask them to connect their answers to the models or sketch the part of the model that their answer is about.\nReview and share the questions that students think we have answered. Present slide B and have students mark on the class DQB with sticky dots the questions that they think we have made progress on.✱ Then have students move into their Scientists Circle.\nRevisiting the DQB is important for students to feel as though their questions are valued and recognized. While not all questions will have been addressed (it’s more likely that 50-75 percent will be at least partially answered), this helps students see that they have done this hard work to answer many of their own questions.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L18-AO1.html"
+      }
+    },
+    {
+      "id": "76-18-ao-2",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look/listen for:",
+      "shortTitle": "Look/listen for:",
+      "peCode": "18.A",
+      "buildingTowards": "Building towards: 18.A.1 Communicate scientific information orally about the patterns of class questions that have been explained with sufficient evidence about the impact of a changing climate and community solutions, and ask additional questions that require appropriate and sufficient evidence to answer.",
+      "lookListenFor": "Look/listen for:",
+      "whatToDo": "What to do: If students struggle to answer questions from the DQB, place them in partners or small groups with one question or cluster of similar questions assigned to the group. Have them (1) locate where the questions most closely relate to the class’s consensus models from either Lesson 4, Lesson 5, Lesson 11, or Lesson 12 and then (2) examine their science notebooks and other documents to search for evidence that could answer or partially answer the question. Ask the group to co-construct, in writing or orally, an explanation to the question(s) using evidence from their previous work. Remind students what makes a good explanation is a how or why causal account that can be supported with evidence.\nRevisiting the DQB is an important process in allowing students to feel their thoughts and questions are valued and recognized. This part of the lesson helps students see the hard work they have done to answer many of their own questions.",
+      "opportunityType": "observation",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L18-AO2.html"
+      }
+    },
+    {
+      "id": "76-18-ao-3",
+      "lesson": "Lesson 18",
+      "lessonNum": 18,
+      "source": "te-opportunity",
+      "title": "Look/listen for:",
+      "shortTitle": "Look/listen for:",
+      "peCode": "18.A",
+      "buildingTowards": "Building towards: 18.A.2 Communicate scientific information orally about the patterns of class questions that have been explained with sufficient evidence about the impact of a changing climate and community solutions, and ask additional questions that require appropriate and sufficient evidence to answer.",
+      "lookListenFor": "Look/listen for:",
+      "whatToDo": "What to do:  Encourage students to first think of unanswered or new questions related to the impact of changing climate and community solutions to this problem. Then move to questions beyond this unit. If you still have the DQBs from other units from this school year, post them to remind students of their questions and ones they might not have answered. If students are struggling to think of new questions, ask them to review the DQBs and their notebooks for questions that are unanswered or to spark ideas for new questions they want to investigate. Ask students to also post ideas for gathering evidence to answer the questions they post by writing their ideas on a new sticky note that they post with their question or by indicating their ideas on the question sticky note.",
+      "opportunityType": "engineering-design",
+      "libraryOutput": "guidance-pdf",
+      "standards": [
+        "MS-ESS3-3",
+        "MS-ESS3-4"
+      ],
+      "isSummative": false,
+      "description": "OpenSciEd Unit 7.6 Lesson 18 — assessment opportunity from Teacher Edition.",
+      "files": {
+        "studentHandout": null,
+        "teacherGuide": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+        "answerKey": null,
+        "googleForm": null,
+        "rubric": null,
+        "guidanceSheet": "/guidance/7-6/L18-AO3.html"
+      }
+    }
+  ]
+}

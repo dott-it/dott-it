@@ -1,0 +1,2154 @@
+{
+  "unitId": "7.6",
+  "driveRootFolderId": "0AADXe9rGIUPcUk9PVA",
+  "gradeFolder": "Grade 7",
+  "unitFolder": "7.6 Earth's Resources & Human Impact",
+  "unitDriveFolderId": "1lQvXzvfTjQyr50hKrY5AyLeB01Ka4Ox5",
+  "indexedAt": "2026-07-07T18:08:51.554Z",
+  "fileCount": 289,
+  "manifestPathCount": 77,
+  "matchedCount": 77,
+  "unmatchedManifestPaths": [],
+  "matches": [
+    {
+      "assessmentId": "76-1-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1e68xio7no8bggzH7lYH0e1dwywktZB1k57o7lAFnjsE",
+      "driveRelativePath": "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:34.546Z"
+    },
+    {
+      "assessmentId": "76-1-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_1/original/7.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1e68xio7no8bggzH7lYH0e1dwywktZB1k57o7lAFnjsE",
+      "driveRelativePath": "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:34.546Z"
+    },
+    {
+      "assessmentId": "76-2-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1B9W9FkC3d-7q7fAM291dFOhEVD-VzSS1jNvFBj8G0w4",
+      "driveRelativePath": "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:11.912Z"
+    },
+    {
+      "assessmentId": "76-2-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1B9W9FkC3d-7q7fAM291dFOhEVD-VzSS1jNvFBj8G0w4",
+      "driveRelativePath": "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:11.912Z"
+    },
+    {
+      "assessmentId": "76-2-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1B9W9FkC3d-7q7fAM291dFOhEVD-VzSS1jNvFBj8G0w4",
+      "driveRelativePath": "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:11.912Z"
+    },
+    {
+      "assessmentId": "76-3-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1DvY5d29IxtKgquWP64bEfvK9ktiOpwP3qclNafv2MfA",
+      "driveRelativePath": "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:15.558Z"
+    },
+    {
+      "assessmentId": "76-3-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1DvY5d29IxtKgquWP64bEfvK9ktiOpwP3qclNafv2MfA",
+      "driveRelativePath": "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:15.558Z"
+    },
+    {
+      "assessmentId": "76-3-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1DvY5d29IxtKgquWP64bEfvK9ktiOpwP3qclNafv2MfA",
+      "driveRelativePath": "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:15.558Z"
+    },
+    {
+      "assessmentId": "76-4-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_4/original/7.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "19z69ufVdMBCuBTcI0Wz26goBNc9owaAMZSJT9WHKRnc",
+      "driveRelativePath": "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:23.087Z"
+    },
+    {
+      "assessmentId": "76-5-revised-water-story",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/7.6 Lesson 5 Assessment Revised Water Story.docx",
+      "driveFileId": "1j09P5cJF2J5oQ6jDXiDQl0KeW33hyalfrDrN7V6TkfA",
+      "driveRelativePath": "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Assessment Revised Water Story",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:21.748Z"
+    },
+    {
+      "assessmentId": "76-5-revised-water-story",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1iYTuL7QTuhZJ9MrJYCXalFBqsui7OBFpc8Kjwjk7fZY",
+      "driveRelativePath": "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:25.307Z"
+    },
+    {
+      "assessmentId": "76-5-revised-water-story",
+      "field": "answerKey",
+      "manifestPath": "lesson_5/original/7.6 Lesson 5 Answer Key Scoring Guidance for.docx",
+      "driveFileId": "1TG6YZiY_rvDTULh-GWN7PBKMzJgvI4n9UORQHldvflw",
+      "driveRelativePath": "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Answer Key Scoring Guidance for",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:20.254Z"
+    },
+    {
+      "assessmentId": "76-5-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_5/original/7.6 Lesson 5 Handout Peer Feedback Instructions.docx",
+      "driveFileId": "1OUzycvqOM84gJtoFHXo5_AABFv4hTDsGNOPac5sDSFg",
+      "driveRelativePath": "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Handout Peer Feedback Instructions",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:22.227Z"
+    },
+    {
+      "assessmentId": "76-5-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_5/original/7.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1iYTuL7QTuhZJ9MrJYCXalFBqsui7OBFpc8Kjwjk7fZY",
+      "driveRelativePath": "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:25.307Z"
+    },
+    {
+      "assessmentId": "76-6-alaska-wildfires-and",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Assessment Alaska Wildfires and.docx",
+      "driveFileId": "1E7m2louTZIxtCox93e7EYLplkLg6v9cXlkI5aMGPQCM",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Assessment Alaska Wildfires and",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:25.179Z"
+    },
+    {
+      "assessmentId": "76-6-alaska-wildfires-and",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1wK09CZ00fjbwwt-swK_AKnIDK00LzUUaZacybQLcAK0",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:27.785Z"
+    },
+    {
+      "assessmentId": "76-6-alaska-wildfires-and",
+      "field": "answerKey",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Answer Key Alaska Wildfires and.docx",
+      "driveFileId": "1hZpLRERO9m7b-oVH2sZnOKgt7e9uBIchvnszFPdzqUE",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Answer Key Alaska Wildfires and",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:24.046Z"
+    },
+    {
+      "assessmentId": "76-6-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Handout Alaska Graph Notes.docx",
+      "driveFileId": "1f7IxlU-7ejJI4aPIw5aGqGHz3P3TLJi2JzT7Au-NXpE",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout Alaska Graph Notes",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:24.822Z"
+    },
+    {
+      "assessmentId": "76-6-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1wK09CZ00fjbwwt-swK_AKnIDK00LzUUaZacybQLcAK0",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:27.785Z"
+    },
+    {
+      "assessmentId": "76-6-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Handout Alaska Graph Notes.docx",
+      "driveFileId": "1f7IxlU-7ejJI4aPIw5aGqGHz3P3TLJi2JzT7Au-NXpE",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout Alaska Graph Notes",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:24.822Z"
+    },
+    {
+      "assessmentId": "76-6-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1wK09CZ00fjbwwt-swK_AKnIDK00LzUUaZacybQLcAK0",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:27.785Z"
+    },
+    {
+      "assessmentId": "76-6-ao-3",
+      "field": "studentHandout",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Handout Alaska Graph Notes.docx",
+      "driveFileId": "1f7IxlU-7ejJI4aPIw5aGqGHz3P3TLJi2JzT7Au-NXpE",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout Alaska Graph Notes",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:24.822Z"
+    },
+    {
+      "assessmentId": "76-6-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1wK09CZ00fjbwwt-swK_AKnIDK00LzUUaZacybQLcAK0",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:27.785Z"
+    },
+    {
+      "assessmentId": "76-7-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_7/original/7.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "142JIIQlMpiODCLSeNUk8t0_dJeMg1OfPwoNJ9g6eAA4",
+      "driveRelativePath": "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:31.015Z"
+    },
+    {
+      "assessmentId": "76-8-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.6 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1kqV8x0MfaQeuuRAuQv5z_1oRBxfaCnMF8BCYy42D0ZM",
+      "driveRelativePath": "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:33.143Z"
+    },
+    {
+      "assessmentId": "76-8-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_8/original/7.6 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1kqV8x0MfaQeuuRAuQv5z_1oRBxfaCnMF8BCYy42D0ZM",
+      "driveRelativePath": "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:33.143Z"
+    },
+    {
+      "assessmentId": "76-9-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_9/original/7.6 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1Pc3ZPgfZ3i4QtbnP0fRDnP9kAjNssjkmNJMLKCktKzo",
+      "driveRelativePath": "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:35.430Z"
+    },
+    {
+      "assessmentId": "76-10-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1SaMWmp_5WQd62X6Y1f1-olGLEc9ymbdprWnaU8p4EVs",
+      "driveRelativePath": "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:38.436Z"
+    },
+    {
+      "assessmentId": "76-10-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1SaMWmp_5WQd62X6Y1f1-olGLEc9ymbdprWnaU8p4EVs",
+      "driveRelativePath": "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:38.436Z"
+    },
+    {
+      "assessmentId": "76-10-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1SaMWmp_5WQd62X6Y1f1-olGLEc9ymbdprWnaU8p4EVs",
+      "driveRelativePath": "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:38.436Z"
+    },
+    {
+      "assessmentId": "76-11-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_11/original/7.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "14fof6NxkJANdzFAQ6KikpDKGZsSEk0pm3wMtVJy_m1E",
+      "driveRelativePath": "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:39.888Z"
+    },
+    {
+      "assessmentId": "76-12-version-1-social",
+      "field": "studentHandout",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Assessment Version 1 Social.docx",
+      "driveFileId": "10T5HAJxAF-Cvb8Ns0I8rJCzkxL1uCsxq1iREBOB1uPw",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Assessment Version 1 Social",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:42.642Z"
+    },
+    {
+      "assessmentId": "76-12-version-1-social",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1AWICxcxUDyQemq0F47Oi5G2KBxUHFzUrAR8_o6JpmlU",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:45.018Z"
+    },
+    {
+      "assessmentId": "76-12-version-1-social",
+      "field": "answerKey",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Answer Key Tweet Claims Assessment.docx",
+      "driveFileId": "1fk-z13ckbnxznlLml5URKNzdC3VFWhRXz2suoLJYyNE",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Answer Key Tweet Claims Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:41.696Z"
+    },
+    {
+      "assessmentId": "76-12-version-2-social",
+      "field": "studentHandout",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Assessment Version 2 Social.docx",
+      "driveFileId": "1bHbRnCKa618K8uev_hP8VJKXks4ybBEmhyMMVrcGLv0",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Assessment Version 2 Social",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:41.003Z"
+    },
+    {
+      "assessmentId": "76-12-version-2-social",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1AWICxcxUDyQemq0F47Oi5G2KBxUHFzUrAR8_o6JpmlU",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:45.018Z"
+    },
+    {
+      "assessmentId": "76-12-version-2-social",
+      "field": "answerKey",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Answer Key Tweet Claims Assessment.docx",
+      "driveFileId": "1fk-z13ckbnxznlLml5URKNzdC3VFWhRXz2suoLJYyNE",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Answer Key Tweet Claims Assessment",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:41.696Z"
+    },
+    {
+      "assessmentId": "76-12-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1AWICxcxUDyQemq0F47Oi5G2KBxUHFzUrAR8_o6JpmlU",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:45.018Z"
+    },
+    {
+      "assessmentId": "76-12-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1AWICxcxUDyQemq0F47Oi5G2KBxUHFzUrAR8_o6JpmlU",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:45.018Z"
+    },
+    {
+      "assessmentId": "76-13-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_13/original/7.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1Q4RaXH5XnL6KgQZrFri0pZi2NipMSyrwjpmKDgc87pA",
+      "driveRelativePath": "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:46.222Z"
+    },
+    {
+      "assessmentId": "76-14-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_14/original/7.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1CvkbQp7_sYtGTPPDwZmPaZeGko3ptSUAiifpSw5xhYc",
+      "driveRelativePath": "Lesson 14 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:46.623Z"
+    },
+    {
+      "assessmentId": "76-15-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_15/original/7.6 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "14r5LnZwMSZQLzgeAVr99pwnEJ06UMzJqULKojLyj6kc",
+      "driveRelativePath": "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:51.958Z"
+    },
+    {
+      "assessmentId": "76-16-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/7.6 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1uniMZ2CmFkH0dQq7bdOyoucP3iuUlaFpF0aio41hx2o",
+      "driveRelativePath": "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:57.049Z"
+    },
+    {
+      "assessmentId": "76-16-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_16/original/7.6 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1uniMZ2CmFkH0dQq7bdOyoucP3iuUlaFpF0aio41hx2o",
+      "driveRelativePath": "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:57.049Z"
+    },
+    {
+      "assessmentId": "76-17-argue-for-the",
+      "field": "studentHandout",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Assessment Argue for the.docx",
+      "driveFileId": "1Klh-snQxtFyt3UjMjUUEj4eBY5Xjn0Hdg9ZqfWD5iVA",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Assessment Argue for the",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:56.248Z"
+    },
+    {
+      "assessmentId": "76-17-argue-for-the",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    {
+      "assessmentId": "76-17-ao-1",
+      "field": "studentHandout",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+      "driveFileId": "1IXknG-KszBpS4KQgeHIW6zBM6ncJYOuCLaBXqGYyLJk",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Designing a Community",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:56.587Z"
+    },
+    {
+      "assessmentId": "76-17-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    {
+      "assessmentId": "76-17-ao-2",
+      "field": "studentHandout",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+      "driveFileId": "1IXknG-KszBpS4KQgeHIW6zBM6ncJYOuCLaBXqGYyLJk",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Designing a Community",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:56.587Z"
+    },
+    {
+      "assessmentId": "76-17-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    {
+      "assessmentId": "76-17-ao-4",
+      "field": "studentHandout",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+      "driveFileId": "1IXknG-KszBpS4KQgeHIW6zBM6ncJYOuCLaBXqGYyLJk",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Designing a Community",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:56.587Z"
+    },
+    {
+      "assessmentId": "76-17-ao-4",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    {
+      "assessmentId": "76-17-ao-5",
+      "field": "studentHandout",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Handout Designing a Community.docx",
+      "driveFileId": "1IXknG-KszBpS4KQgeHIW6zBM6ncJYOuCLaBXqGYyLJk",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Designing a Community",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:56.587Z"
+    },
+    {
+      "assessmentId": "76-17-ao-5",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    {
+      "assessmentId": "76-17-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    {
+      "assessmentId": "76-18-ao-1",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1JbqWlsTls9zXY3Ag7bn_t6fUaiTtiqKhfHAIWxFP0q4",
+      "driveRelativePath": "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:03.497Z"
+    },
+    {
+      "assessmentId": "76-18-ao-2",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1JbqWlsTls9zXY3Ag7bn_t6fUaiTtiqKhfHAIWxFP0q4",
+      "driveRelativePath": "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:03.497Z"
+    },
+    {
+      "assessmentId": "76-18-ao-3",
+      "field": "teacherGuide",
+      "manifestPath": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1JbqWlsTls9zXY3Ag7bn_t6fUaiTtiqKhfHAIWxFP0q4",
+      "driveRelativePath": "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:03.497Z"
+    },
+    {
+      "assessmentId": "__unit__",
+      "field": "unitOverviewPath",
+      "manifestPath": "unit_materials/original/7.6 Earth's Resources & Human Impact Unit Overview Materials.docx",
+      "driveFileId": "114tYCd96ZeTyXuk8gfBfchIy_pEbKk05C3y_4_DQgJE",
+      "driveRelativePath": "7.6 Earth's Resources & Human Impact Unit Overview Materials",
+      "matchKind": "basename",
+      "modifiedTime": "2024-08-25T07:37:33.768Z"
+    },
+    {
+      "assessmentId": "__lesson-1__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_1/original/7.6 Lesson 1 Teacher Edition.docx",
+      "driveFileId": "1e68xio7no8bggzH7lYH0e1dwywktZB1k57o7lAFnjsE",
+      "driveRelativePath": "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:34.546Z"
+    },
+    {
+      "assessmentId": "__lesson-2__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_2/original/7.6 Lesson 2 Teacher Edition.docx",
+      "driveFileId": "1B9W9FkC3d-7q7fAM291dFOhEVD-VzSS1jNvFBj8G0w4",
+      "driveRelativePath": "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:11.912Z"
+    },
+    {
+      "assessmentId": "__lesson-3__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_3/original/7.6 Lesson 3 Teacher Edition.docx",
+      "driveFileId": "1DvY5d29IxtKgquWP64bEfvK9ktiOpwP3qclNafv2MfA",
+      "driveRelativePath": "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:15.558Z"
+    },
+    {
+      "assessmentId": "__lesson-4__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_4/original/7.6 Lesson 4 Teacher Edition.docx",
+      "driveFileId": "19z69ufVdMBCuBTcI0Wz26goBNc9owaAMZSJT9WHKRnc",
+      "driveRelativePath": "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:23.087Z"
+    },
+    {
+      "assessmentId": "__lesson-5__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_5/original/7.6 Lesson 5 Teacher Edition.docx",
+      "driveFileId": "1iYTuL7QTuhZJ9MrJYCXalFBqsui7OBFpc8Kjwjk7fZY",
+      "driveRelativePath": "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:25.307Z"
+    },
+    {
+      "assessmentId": "__lesson-6__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_6/original/7.6 Lesson 6 Teacher Edition.docx",
+      "driveFileId": "1wK09CZ00fjbwwt-swK_AKnIDK00LzUUaZacybQLcAK0",
+      "driveRelativePath": "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:27.785Z"
+    },
+    {
+      "assessmentId": "__lesson-7__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_7/original/7.6 Lesson 7 Teacher Edition.docx",
+      "driveFileId": "142JIIQlMpiODCLSeNUk8t0_dJeMg1OfPwoNJ9g6eAA4",
+      "driveRelativePath": "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:31.015Z"
+    },
+    {
+      "assessmentId": "__lesson-8__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_8/original/7.6 Lesson 8 Teacher Edition.docx",
+      "driveFileId": "1kqV8x0MfaQeuuRAuQv5z_1oRBxfaCnMF8BCYy42D0ZM",
+      "driveRelativePath": "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:33.143Z"
+    },
+    {
+      "assessmentId": "__lesson-9__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_9/original/7.6 Lesson 9 Teacher Edition.docx",
+      "driveFileId": "1Pc3ZPgfZ3i4QtbnP0fRDnP9kAjNssjkmNJMLKCktKzo",
+      "driveRelativePath": "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:35.430Z"
+    },
+    {
+      "assessmentId": "__lesson-10__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_10/original/7.6 Lesson 10 Teacher Edition.docx",
+      "driveFileId": "1SaMWmp_5WQd62X6Y1f1-olGLEc9ymbdprWnaU8p4EVs",
+      "driveRelativePath": "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:38.436Z"
+    },
+    {
+      "assessmentId": "__lesson-11__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_11/original/7.6 Lesson 11 Teacher Edition.docx",
+      "driveFileId": "14fof6NxkJANdzFAQ6KikpDKGZsSEk0pm3wMtVJy_m1E",
+      "driveRelativePath": "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:39.888Z"
+    },
+    {
+      "assessmentId": "__lesson-12__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_12/original/7.6 Lesson 12 Teacher Edition.docx",
+      "driveFileId": "1AWICxcxUDyQemq0F47Oi5G2KBxUHFzUrAR8_o6JpmlU",
+      "driveRelativePath": "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:45.018Z"
+    },
+    {
+      "assessmentId": "__lesson-13__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_13/original/7.6 Lesson 13 Teacher Edition.docx",
+      "driveFileId": "1Q4RaXH5XnL6KgQZrFri0pZi2NipMSyrwjpmKDgc87pA",
+      "driveRelativePath": "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:46.222Z"
+    },
+    {
+      "assessmentId": "__lesson-14__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_14/original/7.6 Lesson 14 Teacher Edition.docx",
+      "driveFileId": "1CvkbQp7_sYtGTPPDwZmPaZeGko3ptSUAiifpSw5xhYc",
+      "driveRelativePath": "Lesson 14 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 14 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:46.623Z"
+    },
+    {
+      "assessmentId": "__lesson-15__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_15/original/7.6 Lesson 15 Teacher Edition.docx",
+      "driveFileId": "14r5LnZwMSZQLzgeAVr99pwnEJ06UMzJqULKojLyj6kc",
+      "driveRelativePath": "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:51.958Z"
+    },
+    {
+      "assessmentId": "__lesson-16__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_16/original/7.6 Lesson 16 Teacher Edition.docx",
+      "driveFileId": "1uniMZ2CmFkH0dQq7bdOyoucP3iuUlaFpF0aio41hx2o",
+      "driveRelativePath": "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:37:57.049Z"
+    },
+    {
+      "assessmentId": "__lesson-17__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_17/original/7.6 Lesson 17 Teacher Edition.docx",
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "driveRelativePath": "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    {
+      "assessmentId": "__lesson-18__",
+      "field": "teacherEditionPath",
+      "manifestPath": "lesson_18/original/7.6 Lesson 18 Teacher Edition.docx",
+      "driveFileId": "1JbqWlsTls9zXY3Ag7bn_t6fUaiTtiqKhfHAIWxFP0q4",
+      "driveRelativePath": "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Teacher Edition",
+      "matchKind": "lesson-basename",
+      "modifiedTime": "2024-08-25T07:38:03.497Z"
+    }
+  ],
+  "filesByRelativePath": {
+    "Teacher Handbook 2022.pdf": {
+      "driveFileId": "1jBrF4UKPrjQ9mEvKa5ZQYZ2HfxYVbg7K",
+      "name": "Teacher Handbook 2022.pdf",
+      "modifiedTime": "2024-08-25T07:38:32.190Z"
+    },
+    "Unit 7.6 Earth's Resources & Human Impact Video Links.pdf": {
+      "driveFileId": "1CD5NOMFjtAxhytagEytarZuh2Ht-UDT7",
+      "name": "Unit 7.6 Earth's Resources & Human Impact Video Links.pdf",
+      "modifiedTime": "2024-08-25T07:38:32.134Z"
+    },
+    "Self Evaluation Classroom Discussion.pdf": {
+      "driveFileId": "1aC8eFh5AFtgWGnIblM0rZDe4B4KyLh1G",
+      "name": "Self Evaluation Classroom Discussion.pdf",
+      "modifiedTime": "2024-08-25T07:38:31.944Z"
+    },
+    "Middle School Program Overview.pdf": {
+      "driveFileId": "1yIxoluX3glJRVAmapT3pCGry-JORzO6I",
+      "name": "Middle School Program Overview.pdf",
+      "modifiedTime": "2024-08-25T07:38:31.841Z"
+    },
+    "Middle School Scope & Sequence.pdf": {
+      "driveFileId": "1RgUddzGPhZHxuSDQkxE4hTtBnjGe15hF",
+      "name": "Middle School Scope & Sequence.pdf",
+      "modifiedTime": "2024-08-25T07:38:31.680Z"
+    },
+    "Middle School Kit Materials Lists.pdf": {
+      "driveFileId": "11uLVAtkvavyX92C0Ye-7LgEPIFUpKphh",
+      "name": "Middle School Kit Materials Lists.pdf",
+      "modifiedTime": "2024-08-25T07:38:31.023Z"
+    },
+    "7.6 Earth's Resources & Human Impact Unit Overview Materials": {
+      "driveFileId": "114tYCd96ZeTyXuk8gfBfchIy_pEbKk05C3y_4_DQgJE",
+      "name": "7.6 Earth's Resources & Human Impact Unit Overview Materials",
+      "modifiedTime": "2024-08-25T07:37:33.768Z"
+    },
+    "Communicating in Scientific Ways Poster.pdf": {
+      "driveFileId": "1AV65THBOUxH5yWFAk1ktoxUGxB_5Hins",
+      "name": "Communicating in Scientific Ways Poster.pdf",
+      "modifiedTime": "2024-08-25T07:37:26.843Z"
+    },
+    "Communicating in Scientific Ways Poster - Spanish.pdf": {
+      "driveFileId": "1l1GF69Mc2qblurVa7KE2oHIHIqU15jj_",
+      "name": "Communicating in Scientific Ways Poster - Spanish.pdf",
+      "modifiedTime": "2024-08-25T07:37:26.696Z"
+    },
+    "7.6 Elements of NGSS Dimensions.pdf": {
+      "driveFileId": "1xKW7zc71ptyjDnt49QXEHTvjONQ8BoMI",
+      "name": "7.6 Elements of NGSS Dimensions.pdf",
+      "modifiedTime": "2024-08-25T07:37:26.600Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Teacher Edition": {
+      "driveFileId": "1Pc3ZPgfZ3i4QtbnP0fRDnP9kAjNssjkmNJMLKCktKzo",
+      "name": "7.6 Lesson 9 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:35.430Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Teacher Reference Lab Instructions for": {
+      "driveFileId": "1UxWdOYXYtT3trytrx8iK7vv36gT0XZn6vfN75cwbzzc",
+      "name": "7.6 Lesson 9 Teacher Reference Lab Instructions for",
+      "modifiedTime": "2024-08-25T07:38:35.216Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Slides": {
+      "driveFileId": "1WajVWShvEkrZ1KefdK4GTywQycqo_bL9nR1BiaxKCtU",
+      "name": "7.6 Lesson 9 Slides",
+      "modifiedTime": "2024-08-25T07:38:34.542Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Student Procedure in Spanish": {
+      "driveFileId": "1DqoJQ_2pdD62FB2sMQQ3ONEfTp5xFlfnjW_XUazX67M",
+      "name": "7.6 Lesson 9 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:34.482Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Teacher Reference Extension Opportunity with": {
+      "driveFileId": "17BDUgnbWfA2NKaqB3xjtSvTQvNHrdKPI3ntNJp2So5g",
+      "name": "7.6 Lesson 9 Teacher Reference Extension Opportunity with",
+      "modifiedTime": "2024-08-25T07:38:34.463Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Student Procedure": {
+      "driveFileId": "1EwbwDPy88agvnZeKLD6YIdtg8CJ73x2ACZatK4lMevY",
+      "name": "7.6 Lesson 9 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:34.389Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Handout Carbon Dioxide Levels": {
+      "driveFileId": "12zPCcKUIspLLPEix5B5EQhk4PstsQwkHZ09ElgHR67U",
+      "name": "7.6 Lesson 9 Handout Carbon Dioxide Levels",
+      "modifiedTime": "2024-08-25T07:38:34.310Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lección 9 Folleto Niveles de dióxido": {
+      "driveFileId": "1VJnlyTfACuHl3-oP-IiIrTk3gY8-f8wZt46vP0qzn78",
+      "name": "7.6 Lección 9 Folleto Niveles de dióxido",
+      "modifiedTime": "2024-08-25T07:38:32.134Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Handout Transcript Using Ice": {
+      "driveFileId": "1CPLHgwkm04vh3peqH8SVE_wqhWA-J8tluoZ3kpRyRZQ",
+      "name": "7.6 Lesson 9 Handout Transcript Using Ice",
+      "modifiedTime": "2024-08-25T07:38:32.037Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lección 9 Folleto Transcripción Uso de": {
+      "driveFileId": "1QUIlLMhI8iiHFZ7h-9PCDxWo4gUw61bCXlrXT6HqZJ0",
+      "name": "7.6 Lección 9 Folleto Transcripción Uso de",
+      "modifiedTime": "2024-08-25T07:38:31.450Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lección 9 Folleto Transcripción Perforación de": {
+      "driveFileId": "1ry3bwahfsHdvDMKozuWt8E7sDef_2wvb9fdEuNF0AYY",
+      "name": "7.6 Lección 9 Folleto Transcripción Perforación de",
+      "modifiedTime": "2024-08-25T07:38:31.086Z"
+    },
+    "Lesson 9 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 9 Handout Transcript Drilling Ice": {
+      "driveFileId": "1R0nE2XL56hYHpchrnXb0NCrmt8Gew_kWKkh_cClStzQ",
+      "name": "7.6 Lesson 9 Handout Transcript Drilling Ice",
+      "modifiedTime": "2024-08-25T07:38:30.961Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Teacher Edition": {
+      "driveFileId": "1kqV8x0MfaQeuuRAuQv5z_1oRBxfaCnMF8BCYy42D0ZM",
+      "name": "7.6 Lesson 8 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:33.143Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lección 8 Folleto Gases importantes en": {
+      "driveFileId": "16KcmOIZWdxgEFvMKqDBDRsmo9oYLla0fnU7HP9AJU6E",
+      "name": "7.6 Lección 8 Folleto Gases importantes en",
+      "modifiedTime": "2024-08-25T07:38:32.110Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Student Procedure": {
+      "driveFileId": "13sbfi7jJY6oOFvdqW9LT2irWzQLcKF9dtQVn1o47g4E",
+      "name": "7.6 Lesson 8 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:31.327Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Student Procedure in Spanish": {
+      "driveFileId": "1aF8r1R1q9fiQcYI86ircDZgjyqkni3dOrA6DBiEeCKo",
+      "name": "7.6 Lesson 8 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:30.712Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Slides": {
+      "driveFileId": "1gXzYfjYpEkKtXaFhBTq7jSNxyykMrUSzRBEhDTkYzB8",
+      "name": "7.6 Lesson 8 Slides",
+      "modifiedTime": "2024-08-25T07:38:30.545Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Handout Important Gases in": {
+      "driveFileId": "1poBrPhpoC5aJ74FUy2rrTg0F7CaWxa7ndYmTSAbdczY",
+      "name": "7.6 Lesson 8 Handout Important Gases in",
+      "modifiedTime": "2024-08-25T07:38:29.861Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lección 8 Folleto Lectura Gases que": {
+      "driveFileId": "1xtp1JrVjDCY81rrCzP3liD2YNGZTCQSi62qmQxkIWBc",
+      "name": "7.6 Lección 8 Folleto Lectura Gases que",
+      "modifiedTime": "2024-08-25T07:38:29.835Z"
+    },
+    "Lesson 8 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 8 Handout Reading Gases that": {
+      "driveFileId": "1Xw98E_lNDRbgCgK2Y-7HzGYs_CZNGxO9IuDQeHDQNYE",
+      "name": "7.6 Lesson 8 Handout Reading Gases that",
+      "modifiedTime": "2024-08-25T07:38:29.215Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Teacher Edition": {
+      "driveFileId": "142JIIQlMpiODCLSeNUk8t0_dJeMg1OfPwoNJ9g6eAA4",
+      "name": "7.6 Lesson 7 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:31.015Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lección 7 Folleto Concentración de gases": {
+      "driveFileId": "1Q9VtTGzij2AAvZnQ4sMkjsxwuP7mU4Gh3CD5H_QelfE",
+      "name": "7.6 Lección 7 Folleto Concentración de gases",
+      "modifiedTime": "2024-08-25T07:38:29.700Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Student Procedure in Spanish": {
+      "driveFileId": "1ZAIi4mOmXDKu-XhWYZbRr2mWwpW70g9WjQkdJkTKhT8",
+      "name": "7.6 Lesson 7 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:29.686Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Student Procedure": {
+      "driveFileId": "1CMDNbL34NpmUgEadCs-je2HmvCehDrpjL6NCu2T2u-8",
+      "name": "7.6 Lesson 7 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:28.421Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Slides": {
+      "driveFileId": "1nYbyqiSvzZkzo4wlRsG08EjwIvCrEJmowjFxV6DnYH4",
+      "name": "7.6 Lesson 7 Slides",
+      "modifiedTime": "2024-08-25T07:38:28.315Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Slides Template-Concentration of Gases in Atmosphere": {
+      "driveFileId": "1ptI31eXWBNWWDEOvSUNTJYWhReXU67WwGmYPXLWWFXo",
+      "name": "7.6 Lesson 7 Slides Template-Concentration of Gases in Atmosphere",
+      "modifiedTime": "2024-08-25T07:38:28.313Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Handout Concentration of Gases": {
+      "driveFileId": "1oFSOYeWAperY5tFwn0vAPpbN8p4gjzAgeTGO-Pp6WxI",
+      "name": "7.6 Lesson 7 Handout Concentration of Gases",
+      "modifiedTime": "2024-08-25T07:38:28.294Z"
+    },
+    "Lesson 7 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 7 Teacher Reference Exploring Possible Causes": {
+      "driveFileId": "11IQftde0-tfbzaINXVFCHDDNNWVK638FLa9TG7_qKlY",
+      "name": "7.6 Lesson 7 Teacher Reference Exploring Possible Causes",
+      "modifiedTime": "2024-08-25T07:38:28.175Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Slides": {
+      "driveFileId": "1LP_39ZSNLwBKz163wWMuUDmaqmbtwEOk8vLl-QtuWaI",
+      "name": "7.6 Lesson 6 Slides",
+      "modifiedTime": "2024-08-25T07:38:28.666Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Teacher Edition": {
+      "driveFileId": "1wK09CZ00fjbwwt-swK_AKnIDK00LzUUaZacybQLcAK0",
+      "name": "7.6 Lesson 6 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:27.785Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Student Procedure in Spanish": {
+      "driveFileId": "1AfYW16dMpJDjo3e-zX1E5SO65-O3QoBMGdyzreNmmbg",
+      "name": "7.6 Lesson 6 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:27.069Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Teacher Reference DQB Check-In": {
+      "driveFileId": "19h3Hn5tsc01mzwUZ0qsuqe-qbq795TMmbqVvEnh5Jx8",
+      "name": "7.6 Lesson 6 Teacher Reference DQB Check-In",
+      "modifiedTime": "2024-08-25T07:38:26.697Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lección 6 Folleto Notas sobre los": {
+      "driveFileId": "1Zb-vq5wrkaCtwS1vnFESR62cZhTnc7WeUHOABhkOVEA",
+      "name": "7.6 Lección 6 Folleto Notas sobre los",
+      "modifiedTime": "2024-08-25T07:38:26.271Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Student Procedure": {
+      "driveFileId": "1fH8GPm4FIOnGgC0DDKxy6Eq6I01iiaGu-gRbSbZElm8",
+      "name": "7.6 Lesson 6 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:26.228Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lección 6 Folleto Gráficos de Alaska": {
+      "driveFileId": "11paD9JlU8hEcNsoXNjsluqzjlQiedky9LR5RaxInwR8",
+      "name": "7.6 Lección 6 Folleto Gráficos de Alaska",
+      "modifiedTime": "2024-08-25T07:38:25.459Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout Alaskan Elder Claims": {
+      "driveFileId": "1-LspvN75wKdpdIaCmUJBSoqvIx_sCCPwkwA1mzWiDCs",
+      "name": "7.6 Lesson 6 Handout Alaskan Elder Claims",
+      "modifiedTime": "2024-08-25T07:38:25.200Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Assessment Alaska Wildfires and": {
+      "driveFileId": "1E7m2louTZIxtCox93e7EYLplkLg6v9cXlkI5aMGPQCM",
+      "name": "7.6 Lesson 6 Assessment Alaska Wildfires and",
+      "modifiedTime": "2024-08-25T07:38:25.179Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lección 6 Folleto ¿Qué causa los": {
+      "driveFileId": "1_O0uI5NndejZE855RSuD1LF41GJMrf-fE79bRrVkt-E",
+      "name": "7.6 Lección 6 Folleto ¿Qué causa los",
+      "modifiedTime": "2024-08-25T07:38:25.063Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout Alaska Graph Notes": {
+      "driveFileId": "1f7IxlU-7ejJI4aPIw5aGqGHz3P3TLJi2JzT7Au-NXpE",
+      "name": "7.6 Lesson 6 Handout Alaska Graph Notes",
+      "modifiedTime": "2024-08-25T07:38:24.822Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout Alaska Graphs": {
+      "driveFileId": "1z9RUfdoqvXcRdLObV2W6UsybbsyglRm0Ax0dLoW4E6U",
+      "name": "7.6 Lesson 6 Handout Alaska Graphs",
+      "modifiedTime": "2024-08-25T07:38:24.536Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout Transcript Alaskan Whaler": {
+      "driveFileId": "1kM5mmr-UlAebJzbX_roi0zbuzvNsq2uzCQsNXHnS-dY",
+      "name": "7.6 Lesson 6 Handout Transcript Alaskan Whaler",
+      "modifiedTime": "2024-08-25T07:38:24.438Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Answer Key Alaska Wildfires and": {
+      "driveFileId": "1hZpLRERO9m7b-oVH2sZnOKgt7e9uBIchvnszFPdzqUE",
+      "name": "7.6 Lesson 6 Answer Key Alaska Wildfires and",
+      "modifiedTime": "2024-08-25T07:38:24.046Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lección 6 Teacher Reference Revisar el RPM": {
+      "driveFileId": "1cuM01AOvLawfpaO8mqrBnvlr1Y19aRuCMmY_u6mqTpI",
+      "name": "7.6 Lección 6 Teacher Reference Revisar el RPM",
+      "modifiedTime": "2024-08-25T07:38:23.372Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 6 Handout What Causes Wildfires": {
+      "driveFileId": "1CzBiQ5BN4YtnojUI03ov-KPLnLX1jsrlZ3SvhPjuQdE",
+      "name": "7.6 Lesson 6 Handout What Causes Wildfires",
+      "modifiedTime": "2024-08-25T07:38:23.286Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lección 6 Evaluación Incendios forestales y": {
+      "driveFileId": "134yhrrKbAUzf_vqfYfeNKOZc0vQW9_Jtm2j8GwMtZR8",
+      "name": "7.6 Lección 6 Evaluación Incendios forestales y",
+      "modifiedTime": "2024-08-25T07:38:23.246Z"
+    },
+    "Lesson 6 - 7.6 Earth's Resources & Human Impact/7.6 Lección 6 Folleto Transcripción Entrevista de": {
+      "driveFileId": "1EL4N4l0A7qvi9BYCOALwS_BWp6hGaoN0JnWqPN5g390",
+      "name": "7.6 Lección 6 Folleto Transcripción Entrevista de",
+      "modifiedTime": "2024-08-25T07:38:23.134Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Teacher Edition": {
+      "driveFileId": "1iYTuL7QTuhZJ9MrJYCXalFBqsui7OBFpc8Kjwjk7fZY",
+      "name": "7.6 Lesson 5 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:25.307Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Student Procedure in Spanish": {
+      "driveFileId": "1Du_i1cUPn9DOR76KOKVopDvdOXfPj2Cf8k3WzEvo0eY",
+      "name": "7.6 Lesson 5 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:23.152Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Slides": {
+      "driveFileId": "1U2xD_TZ85jt_qgi0Ff0GDFIco-6OxRGdmqq9D7CHNLA",
+      "name": "7.6 Lesson 5 Slides",
+      "modifiedTime": "2024-08-25T07:38:23.125Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Student Procedure": {
+      "driveFileId": "16b4K7TqlcE49vlopaAFe0K-e7ktoVgss52InTgU93Qw",
+      "name": "7.6 Lesson 5 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:22.256Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Handout Peer Feedback Instructions": {
+      "driveFileId": "1OUzycvqOM84gJtoFHXo5_AABFv4hTDsGNOPac5sDSFg",
+      "name": "7.6 Lesson 5 Handout Peer Feedback Instructions",
+      "modifiedTime": "2024-08-25T07:38:22.227Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Assessment Revised Water Story": {
+      "driveFileId": "1j09P5cJF2J5oQ6jDXiDQl0KeW33hyalfrDrN7V6TkfA",
+      "name": "7.6 Lesson 5 Assessment Revised Water Story",
+      "modifiedTime": "2024-08-25T07:38:21.748Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Handout Initial Water Story": {
+      "driveFileId": "1wfjqTrXxf-m3pwPBaWPfjEE3ddWTYpED-94S8eEkRv0",
+      "name": "7.6 Lesson 5 Handout Initial Water Story",
+      "modifiedTime": "2024-08-25T07:38:20.692Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Answer Key Scoring Guidance for": {
+      "driveFileId": "1TG6YZiY_rvDTULh-GWN7PBKMzJgvI4n9UORQHldvflw",
+      "name": "7.6 Lesson 5 Answer Key Scoring Guidance for",
+      "modifiedTime": "2024-08-25T07:38:20.254Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 5 Reference Peer Feedback Guidelines": {
+      "driveFileId": "1hwcFpEdSk12Y8pUm_Qz4yp9l3Mtqyzhl30x06kMjvpg",
+      "name": "7.6 Lesson 5 Reference Peer Feedback Guidelines",
+      "modifiedTime": "2024-08-25T07:38:20.225Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lección 5 Evaluación Explicación de historia": {
+      "driveFileId": "1tKKjgoQaHKoVOjb0yxmRhsCXuSBIIreUKEuBvdG2slw",
+      "name": "7.6 Lección 5 Evaluación Explicación de historia",
+      "modifiedTime": "2024-08-25T07:38:19.997Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lección 5 Folleto Explicación inicial de": {
+      "driveFileId": "1_FBvnmygqSk_BECla_Pnq2Vqtya8UCL9rsR4gns60QE",
+      "name": "7.6 Lección 5 Folleto Explicación inicial de",
+      "modifiedTime": "2024-08-25T07:38:19.798Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lección 5 Referencia Pautas para retroalimentación": {
+      "driveFileId": "18ti9KGOaweeEREizgiMuG8PDhlFwhRZHZrt7ye8SJWQ",
+      "name": "7.6 Lección 5 Referencia Pautas para retroalimentación",
+      "modifiedTime": "2024-08-25T07:38:19.770Z"
+    },
+    "Lesson 5 - 7.6 Earth's Resources & Human Impact/7.6 Lección 5 Folleto Instrucciones de retroalimentación": {
+      "driveFileId": "1K68pj8kuiVo9llKEJR7eBt9UysuwnByDv4nEnaXe_Us",
+      "name": "7.6 Lección 5 Folleto Instrucciones de retroalimentación",
+      "modifiedTime": "2024-08-25T07:38:19.102Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Folleto 1 Cambios al": {
+      "driveFileId": "167Q1f2PTXOEBpJZjTC59ZLeMzaJoG20oTmO3S7EBoDM",
+      "name": "7.6 Lección 4 Folleto 1 Cambios al",
+      "modifiedTime": "2024-08-25T07:39:35.738Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Teacher Edition": {
+      "driveFileId": "19z69ufVdMBCuBTcI0Wz26goBNc9owaAMZSJT9WHKRnc",
+      "name": "7.6 Lesson 4 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:23.087Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Slides": {
+      "driveFileId": "1a3tyTGvD2zfMGaUupJCFqKs6upR1Tb4exbFCBq9QINw",
+      "name": "7.6 Lesson 4 Slides",
+      "modifiedTime": "2024-08-25T07:38:22.953Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Student Procedure in Spanish": {
+      "driveFileId": "1UGTCePfJwU1tDUzSaH_kXGtVHM_aN4vi-Uc4EfiZQPI",
+      "name": "7.6 Lesson 4 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:21.953Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Student Procedure": {
+      "driveFileId": "1aXbRhOv6b96GjFjCLFmp_VwRPn9M2lXcLu7xwoO0nf8",
+      "name": "7.6 Lesson 4 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:20.575Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Reference Changes to Glaciers": {
+      "driveFileId": "1wNNI41aONhNgDLfVcyxVWPqUiV52tsIRMRahz-dEazY",
+      "name": "7.6 Lesson 4 Reference Changes to Glaciers",
+      "modifiedTime": "2024-08-25T07:38:19.712Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Reference Changes to Groundwater": {
+      "driveFileId": "1fOxMRAw2IUNlDS3N_mnkKd6OrTloSFnxhMN93_5ux8E",
+      "name": "7.6 Lesson 4 Reference Changes to Groundwater",
+      "modifiedTime": "2024-08-25T07:38:19.192Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Reference Changes to Streamflow": {
+      "driveFileId": "1cMMIsDUooucrVj6vUp6bOvHZpPwlvaf9UJLFy_p23Sw",
+      "name": "7.6 Lesson 4 Reference Changes to Streamflow",
+      "modifiedTime": "2024-08-25T07:38:18.865Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Reference Changes to Sea": {
+      "driveFileId": "1yj-pTHWT8IK1aYr-J_DrvNdJwVSciWSqOp7k6MIj-q4",
+      "name": "7.6 Lesson 4 Reference Changes to Sea",
+      "modifiedTime": "2024-08-25T07:38:18.535Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Reference Changes to Snowpack": {
+      "driveFileId": "1tyR-6Ouuy-71fFMGGMUs_7IWa9NPkVvaF_J6sJb37OI",
+      "name": "7.6 Lesson 4 Reference Changes to Snowpack",
+      "modifiedTime": "2024-08-25T07:38:18.112Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Handout Glaciers and Water": {
+      "driveFileId": "13uYM6CkZ-8OxXzq15Qqe0CVyXZrAqsD_dAguHLzZJIU",
+      "name": "7.6 Lesson 4 Handout Glaciers and Water",
+      "modifiedTime": "2024-08-25T07:38:17.807Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Handout Changes to Sea": {
+      "driveFileId": "1xQ7AxFyMUXatSlhScB3ltzpyCQ0xQHZG1SXTNMok4bE",
+      "name": "7.6 Lesson 4 Handout Changes to Sea",
+      "modifiedTime": "2024-08-25T07:38:17.698Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Handout Changes to Snowpack": {
+      "driveFileId": "1Wubo_0iJUdGEnb42hEvuElVIfXK12l3Y8k_aFgAyr3A",
+      "name": "7.6 Lesson 4 Handout Changes to Snowpack",
+      "modifiedTime": "2024-08-25T07:38:16.613Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Handout Changes to Streamflow": {
+      "driveFileId": "1H6BdpHjSgpwSfdk1fyPStJOZBX8Ck3YO_xYEFJOeA4k",
+      "name": "7.6 Lesson 4 Handout Changes to Streamflow",
+      "modifiedTime": "2024-08-25T07:38:16.467Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Folleto Glaciares y suministro": {
+      "driveFileId": "1rBu4zyBhVfuvBG13Qs8H88BNV3m2DyCv2ToEmvfN9xM",
+      "name": "7.6 Lección 4 Folleto Glaciares y suministro",
+      "modifiedTime": "2024-08-25T07:38:16.226Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Handout Obtaining Information about": {
+      "driveFileId": "16zBS2r2_KnJwJEPc8qTFjdlgceSxRsj2NUOWQnYfFeE",
+      "name": "7.6 Lesson 4 Handout Obtaining Information about",
+      "modifiedTime": "2024-08-25T07:38:16.204Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Referencia 2 Cambios a": {
+      "driveFileId": "1GY4VNoCqE28L7jKVuM7zxGEF6wM2aQTSzpAX4AHcyjs",
+      "name": "7.6 Lección 4 Referencia 2 Cambios a",
+      "modifiedTime": "2024-08-25T07:38:15.873Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Handout Changes to Groundwater": {
+      "driveFileId": "1wR9HlFbzJ0RQ3dLg3d0BW71j8DcR9d0ySYzYA5UTwbI",
+      "name": "7.6 Lesson 4 Handout Changes to Groundwater",
+      "modifiedTime": "2024-08-25T07:38:15.575Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 4 Handout Changes to Glaciers": {
+      "driveFileId": "1sPKLUwoAgi4Lsujr5__zwgz08C6Qs0rZz8YDVR6dI3o",
+      "name": "7.6 Lesson 4 Handout Changes to Glaciers",
+      "modifiedTime": "2024-08-25T07:38:15.456Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Referencia 4 Cambios en": {
+      "driveFileId": "1rcpQSME2wyxE-MEv0fbnRKQiYPLyUirCGG9EqQcDFAM",
+      "name": "7.6 Lección 4 Referencia 4 Cambios en",
+      "modifiedTime": "2024-08-25T07:38:15.351Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Folleto 4 Cambios en": {
+      "driveFileId": "1bYI2o8lXwECR6ZxQ2Rs1t7I4hnL2CsxgcL6-ZROLwNY",
+      "name": "7.6 Lección 4 Folleto 4 Cambios en",
+      "modifiedTime": "2024-08-25T07:38:15.239Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Referencia 3 Cambios en": {
+      "driveFileId": "1rlcmkFeFpDc5HFa1rbZuRcTWKDZLacf6AKNCtO_2CEY",
+      "name": "7.6 Lección 4 Referencia 3 Cambios en",
+      "modifiedTime": "2024-08-25T07:38:15.167Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Folleto 5 Cambios en": {
+      "driveFileId": "1o07Eunp4FZquf7wp_xKpPwIV2MUdcx2A6-x4MYXf_4Y",
+      "name": "7.6 Lección 4 Folleto 5 Cambios en",
+      "modifiedTime": "2024-08-25T07:38:14.925Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Folleto 3 Cambios en": {
+      "driveFileId": "1qCFLJyHic7k4NpdIYSIXQA7EzfhcjkyYiKDMW9glcPY",
+      "name": "7.6 Lección 4 Folleto 3 Cambios en",
+      "modifiedTime": "2024-08-25T07:38:14.880Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Referencia 1 Cambios al": {
+      "driveFileId": "1iS_55D5Cr684zaMAb3nh8WiDIgec14Z_5h75acylN44",
+      "name": "7.6 Lección 4 Referencia 1 Cambios al",
+      "modifiedTime": "2024-08-25T07:38:14.748Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Referencia 5 Cambios en": {
+      "driveFileId": "1I8ZQWM1BQpd6J8Nu4rMTeoBLKJYhw_0-MF5Imlv7KqQ",
+      "name": "7.6 Lección 4 Referencia 5 Cambios en",
+      "modifiedTime": "2024-08-25T07:38:14.703Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Folleto 2 Cambios a": {
+      "driveFileId": "1d4AyV4yugKMJ5L9rYz2IJvE2XPG5SPdUNKA_HNofZcM",
+      "name": "7.6 Lección 4 Folleto 2 Cambios a",
+      "modifiedTime": "2024-08-25T07:38:13.511Z"
+    },
+    "Lesson 4 - 7.6 Earth's Resources & Human Impact/7.6 Lección 4 Folleto Obtener información sobre": {
+      "driveFileId": "1sXsjmwwKeLAiwVxY-gxyeh00OZfwpRWU9o4UC1iyqnY",
+      "name": "7.6 Lección 4 Folleto Obtener información sobre",
+      "modifiedTime": "2024-08-25T07:38:13.234Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Teacher Edition": {
+      "driveFileId": "1DvY5d29IxtKgquWP64bEfvK9ktiOpwP3qclNafv2MfA",
+      "name": "7.6 Lesson 3 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:15.558Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Student Procedure": {
+      "driveFileId": "1WZum_6eUpe6xEJ-oBzvQgUq_hWmQ3amPVBvGj5G8l14",
+      "name": "7.6 Lesson 3 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:15.211Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Slides": {
+      "driveFileId": "19qsbl8o6k7X5Jyec23gjYgGn7E3MVSCtAgYMFXx01EA",
+      "name": "7.6 Lesson 3 Slides",
+      "modifiedTime": "2024-08-25T07:38:13.816Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Student Procedure in Spanish": {
+      "driveFileId": "1JJ_sYKhHH6Frvp4OhcGTx0uQOyT4EiFn6qx0Gi7DTRc",
+      "name": "7.6 Lesson 3 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:12.426Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Handout Group Humidity and": {
+      "driveFileId": "1uzqVGmJlrcwxKyVTJwynnMyCQM7VQz5AXNMbLFcRlyI",
+      "name": "7.6 Lesson 3 Handout Group Humidity and",
+      "modifiedTime": "2024-08-25T07:38:12.274Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Handout Trial 2, Unheated,": {
+      "driveFileId": "155wq3YVakQToHdSqpKqbon1tPIR3fCtS2GiXiT3veKY",
+      "name": "7.6 Lesson 3 Handout Trial 2, Unheated,",
+      "modifiedTime": "2024-08-25T07:38:12.226Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Handout Trial 2, Heated,": {
+      "driveFileId": "16ibD5ALIHT5K7oFxQHHEVscYMbIBCj-EudeUtYskJU8",
+      "name": "7.6 Lesson 3 Handout Trial 2, Heated,",
+      "modifiedTime": "2024-08-25T07:38:11.996Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Handout Reading What Is": {
+      "driveFileId": "1yY324VJW4NHzRaB6wAggL89ywpzw_RlJXFWtyqUzHgQ",
+      "name": "7.6 Lesson 3 Handout Reading What Is",
+      "modifiedTime": "2024-08-25T07:38:11.801Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Handout Trial 1, Heated,": {
+      "driveFileId": "1XSSDvgG0VjqdQGegK6UxWg5Fw59yPU6zdi3-TL9RsqE",
+      "name": "7.6 Lesson 3 Handout Trial 1, Heated,",
+      "modifiedTime": "2024-08-25T07:38:11.449Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Handout Trial 1, Unheated,": {
+      "driveFileId": "1J8IWuEMu_qOOdeMRq51IPyoCZwWrZfWXc0eTYTCp4CU",
+      "name": "7.6 Lesson 3 Handout Trial 1, Unheated,",
+      "modifiedTime": "2024-08-25T07:38:10.928Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lección 3 Folleto Transcripción Prueba 2,": {
+      "driveFileId": "1WY254ztHwBJFC__fRC-_HFz6ID-lT2yMrI_Qg1pS3_4",
+      "name": "7.6 Lección 3 Folleto Transcripción Prueba 2,",
+      "modifiedTime": "2024-08-25T07:38:10.777Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lección 3 Folleto Transcripción Prueba 1,": {
+      "driveFileId": "1Qkn6xk-zfUYvZZR7pxvMt9nbBlm5d9_eyqr2SdS7r_c",
+      "name": "7.6 Lección 3 Folleto Transcripción Prueba 1,",
+      "modifiedTime": "2024-08-25T07:38:10.563Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lección 3 Folleto Lectura ¿Qué es": {
+      "driveFileId": "1QCvCVXlkz4r7sVxsZ06TqKFFZwuYQLqKb0qSpAVLL4s",
+      "name": "7.6 Lección 3 Folleto Lectura ¿Qué es",
+      "modifiedTime": "2024-08-25T07:38:10.258Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 3 Handout Temperature and Evaporation": {
+      "driveFileId": "1sa0nLOVDMnr-L9uq4ptyh8PUeGn0uiQueS8eKRJ3dJk",
+      "name": "7.6 Lesson 3 Handout Temperature and Evaporation",
+      "modifiedTime": "2024-08-25T07:38:10.231Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lección 3 Folleto Lab de humedad": {
+      "driveFileId": "1rFUk3iV1TJ-maqLQK_XQRGOn3xaOGgtKx4tYYNkdNk0",
+      "name": "7.6 Lección 3 Folleto Lab de humedad",
+      "modifiedTime": "2024-08-25T07:38:10.176Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lección 3 Folleto Planificación de la": {
+      "driveFileId": "1Ye3dCa4K7IjWx9_MFIkMRjkVi06NUq9VwNgxuDMmv0U",
+      "name": "7.6 Lección 3 Folleto Planificación de la",
+      "modifiedTime": "2024-08-25T07:38:10.168Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lección 3 Folleto Prueba 2, tierra": {
+      "driveFileId": "1OEz8Rza_nr-8SZENnb8er0TsDVcza933tdz5BtQxp3Q",
+      "name": "7.6 Lección 3 Folleto Prueba 2, tierra",
+      "modifiedTime": "2024-08-25T07:38:09.739Z"
+    },
+    "Lesson 3 - 7.6 Earth's Resources & Human Impact/7.6 Lección 3 Folleto Prueba 1, Tierra": {
+      "driveFileId": "1ZUbUIjlmOSXrJRf0VbY3yLvOVDcnSleMrWlB4nWXJqQ",
+      "name": "7.6 Lección 3 Folleto Prueba 1, Tierra",
+      "modifiedTime": "2024-08-25T07:38:08.969Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Edition": {
+      "driveFileId": "1B9W9FkC3d-7q7fAM291dFOhEVD-VzSS1jNvFBj8G0w4",
+      "name": "7.6 Lesson 2 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:11.912Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Student Procedure in Spanish": {
+      "driveFileId": "1o30YH9u43yfUu_fV26WqDTxI8SX5bqzxL--C_6rOyEM",
+      "name": "7.6 Lesson 2 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:11.187Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Reference Instructions for Accessing": {
+      "driveFileId": "1hXB5JQvxU43M7g4FgXaKQrMs0Xs_eSAdwnzr637ZnE8",
+      "name": "7.6 Lesson 2 Teacher Reference Instructions for Accessing",
+      "modifiedTime": "2024-08-25T07:38:10.290Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Reference Data for All": {
+      "driveFileId": "1xStvJUKAXd-iRn6YNKKcZsXAWnW1M9grAhcfjLkySoA",
+      "name": "7.6 Lesson 2 Reference Data for All",
+      "modifiedTime": "2024-08-25T07:38:09.314Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Reference Rationale for Case": {
+      "driveFileId": "1IbKoOvK-YV2lo8a1W5IXFKW36ErcwE2Mk4ZdsBjG_D4",
+      "name": "7.6 Lesson 2 Teacher Reference Rationale for Case",
+      "modifiedTime": "2024-08-25T07:38:09.203Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Teacher Reference Analyzing Our Local": {
+      "driveFileId": "16dknavgldDRHNqQjv0JeN18Ng4K7I31lAdbxcNE4nJA",
+      "name": "7.6 Lesson 2 Teacher Reference Analyzing Our Local",
+      "modifiedTime": "2024-08-25T07:38:09.063Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Slides": {
+      "driveFileId": "1thF4FRlxNJ380tS8eGDIbSe-e1GhL7fwUQ0eLIe0EWU",
+      "name": "7.6 Lesson 2 Slides",
+      "modifiedTime": "2024-08-25T07:38:08.585Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Student Procedure": {
+      "driveFileId": "1-7ivM6DvjoewTYL_akMXHUj-GRyyWrmJ20jIpRMamNQ",
+      "name": "7.6 Lesson 2 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:08.390Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Reference About the Data": {
+      "driveFileId": "1vx4eg6mpwyrCAVx5n2WuKfXCrNJq7dZcc2WCXDtVb7Y",
+      "name": "7.6 Lesson 2 Reference About the Data",
+      "modifiedTime": "2024-08-25T07:38:07.810Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Transcript Windom Flooding": {
+      "driveFileId": "1jesxgtj-F4ZG50LMJOeFFdT0O4j2ASmpA_-S7tTVx5g",
+      "name": "7.6 Lesson 2 Handout Transcript Windom Flooding",
+      "modifiedTime": "2024-08-25T07:38:07.392Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Transcript Yakima Valley": {
+      "driveFileId": "1IQ8EDsQ70pOKM6DkLIiK9lxPX-ED0haJnaP8U6REXnY",
+      "name": "7.6 Lesson 2 Handout Transcript Yakima Valley",
+      "modifiedTime": "2024-08-25T07:38:07.334Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Data for Windom,": {
+      "driveFileId": "1Nz63cWt22lDTA7GDj0w6yCuK0a08nFceMJoTvfiTJJo",
+      "name": "7.6 Lesson 2 Handout Data for Windom,",
+      "modifiedTime": "2024-08-25T07:38:07.289Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Transcript Navajo Nation": {
+      "driveFileId": "1wqYV8KDTF9e48wcmoTgArzEG0JCBPo50tuMpLlvn7-M",
+      "name": "7.6 Lesson 2 Handout Transcript Navajo Nation",
+      "modifiedTime": "2024-08-25T07:38:06.720Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Data for the": {
+      "driveFileId": "1cP05n7-FX6IYLNWkAgSePiSCfMOiREP9f_wohwFlSsk",
+      "name": "7.6 Lesson 2 Handout Data for the",
+      "modifiedTime": "2024-08-25T07:38:06.644Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Transcript Porterville, CA": {
+      "driveFileId": "170ymm11At5p6MSpsfqsdfmIiK8RfY3eu-70QPv4vkT0",
+      "name": "7.6 Lesson 2 Handout Transcript Porterville, CA",
+      "modifiedTime": "2024-08-25T07:38:06.405Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Data for Boston,": {
+      "driveFileId": "1cxZ12MiDu92qwnjY3sicszMaLKZXkujEhwQbWudOlXA",
+      "name": "7.6 Lesson 2 Handout Data for Boston,",
+      "modifiedTime": "2024-08-25T07:38:06.057Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Transcript Vicksburg, MS": {
+      "driveFileId": "1KKu0B8Fg3gJPP_geklmIYGkYB0oZ48PbBlPFeF18jFs",
+      "name": "7.6 Lesson 2 Handout Transcript Vicksburg, MS",
+      "modifiedTime": "2024-08-25T07:38:06.054Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Referencia Datos para todos": {
+      "driveFileId": "1JMxpdIykCNkVo_NjsWfY7eFNVswnVpC0aywvkmUDH6w",
+      "name": "7.6 Lección 2 Referencia Datos para todos",
+      "modifiedTime": "2024-08-25T07:38:06.003Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Changes to Groundwater": {
+      "driveFileId": "15bNJZYHC4-h0Qt5n5qcCCsZsRZlH6KrSnrL1RSGaIkE",
+      "name": "7.6 Lesson 2 Handout Changes to Groundwater",
+      "modifiedTime": "2024-08-25T07:38:05.757Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Referencia Acerca de los": {
+      "driveFileId": "1dRTQlkUboMTr4gFBrfj1Sh4y_hSGGaYq9-RybKjZ0aQ",
+      "name": "7.6 Lección 2 Referencia Acerca de los",
+      "modifiedTime": "2024-08-25T07:38:05.642Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Datos para Yakima,": {
+      "driveFileId": "1ZUmXtV6HFkUlF5LKtxMrU-HRgiVFiKHIudGtnsqJVvQ",
+      "name": "7.6 Lección 2 Folleto Datos para Yakima,",
+      "modifiedTime": "2024-08-25T07:38:05.525Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Data for Vicksburg,": {
+      "driveFileId": "1LVzan8Aesb0i1XBswU2T82vWmTdEtI50OmWgkjrvPPg",
+      "name": "7.6 Lesson 2 Handout Data for Vicksburg,",
+      "modifiedTime": "2024-08-25T07:38:05.515Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Data for Porterville,": {
+      "driveFileId": "1lMNi7tsgungaK1ZwoAI6xk2f907HvSSGKgnkouE_VWs",
+      "name": "7.6 Lesson 2 Handout Data for Porterville,",
+      "modifiedTime": "2024-08-25T07:38:05.278Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Datos para Windom,": {
+      "driveFileId": "13-CCuVUVCRAO-zYEpSFSteKSxO5iX_5xNiVIXxNEzFg",
+      "name": "7.6 Lección 2 Folleto Datos para Windom,",
+      "modifiedTime": "2024-08-25T07:38:05.236Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Datos para Vicksburg,": {
+      "driveFileId": "1TNZbYBRS4qTzIVnFbWN2hkR1KoJmo0nGtwuGuXqMYHs",
+      "name": "7.6 Lección 2 Folleto Datos para Vicksburg,",
+      "modifiedTime": "2024-08-25T07:38:04.793Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Datos para Boston,": {
+      "driveFileId": "1I48FBB36evVCFw1Ug6536OMlI4CWpUVTfPQsS5jFh_g",
+      "name": "7.6 Lección 2 Folleto Datos para Boston,",
+      "modifiedTime": "2024-08-25T07:38:04.308Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Transcripción Vicksburg, MS": {
+      "driveFileId": "1_PZSk-Cly67e4BMaOBiigwUnywDHq6xnW0DP1KA347s",
+      "name": "7.6 Lección 2 Folleto Transcripción Vicksburg, MS",
+      "modifiedTime": "2024-08-25T07:38:03.738Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Datos para la": {
+      "driveFileId": "1fWpCDGQwh-9bLsLeiGa6G95p4K4beE4rBJuYrBGB3U4",
+      "name": "7.6 Lección 2 Folleto Datos para la",
+      "modifiedTime": "2024-08-25T07:38:03.601Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 2 Handout Data for Yakima,": {
+      "driveFileId": "1vU8G_U5nhSfm6flvV_VtcyY7R_5Hsutf-pzYNpOeBzw",
+      "name": "7.6 Lesson 2 Handout Data for Yakima,",
+      "modifiedTime": "2024-08-25T07:38:03.593Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Transcripción Porterville, CA": {
+      "driveFileId": "12BwDidlARDZ3lioDOflHRilB5hqFeGDh11T5exYs7JA",
+      "name": "7.6 Lección 2 Folleto Transcripción Porterville, CA",
+      "modifiedTime": "2024-08-25T07:38:03.311Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Transcripción Inundaciones en": {
+      "driveFileId": "1VToTI9F29gDnXWSBtPb4Q54mLbJ57jinNgb28XhbMQc",
+      "name": "7.6 Lección 2 Folleto Transcripción Inundaciones en",
+      "modifiedTime": "2024-08-25T07:38:03.235Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Transcripción Nación Navajo": {
+      "driveFileId": "1On9FCRO4iZeAYYFhX6iX-EC7CYGf-dM5cgplpG4BXME",
+      "name": "7.6 Lección 2 Folleto Transcripción Nación Navajo",
+      "modifiedTime": "2024-08-25T07:38:03.231Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Transcripción Yakima Valley": {
+      "driveFileId": "1a-K1yUqTd_ldQQLv7uDG07fi0gScnf7tcgglrvXl_Sk",
+      "name": "7.6 Lección 2 Folleto Transcripción Yakima Valley",
+      "modifiedTime": "2024-08-25T07:38:03.152Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Datos para Porterville,": {
+      "driveFileId": "1s3bLrQn_-7VX6X52NGvAIA_ou4KwTGjp6yk2erEN5fg",
+      "name": "7.6 Lección 2 Folleto Datos para Porterville,",
+      "modifiedTime": "2024-08-25T07:38:03.058Z"
+    },
+    "Lesson 2 - 7.6 Earth's Resources & Human Impact/7.6 Lección 2 Folleto Cambios en aguas": {
+      "driveFileId": "1gatxUTyFm1994q_VfowCiYgyt1CjdxQ0f4GbGP3072c",
+      "name": "7.6 Lección 2 Folleto Cambios en aguas",
+      "modifiedTime": "2024-08-25T07:38:02.561Z"
+    },
+    "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Teacher Edition": {
+      "driveFileId": "1JbqWlsTls9zXY3Ag7bn_t6fUaiTtiqKhfHAIWxFP0q4",
+      "name": "7.6 Lesson 18 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:03.497Z"
+    },
+    "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Student Procedure in Spanish": {
+      "driveFileId": "1fhLzk1TAuwyjvfJFXHbbPwExMbQUutRubQAwkUOcVnc",
+      "name": "7.6 Lesson 18 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:02.057Z"
+    },
+    "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lección 18 Folleto Revisando nuestro Registro": {
+      "driveFileId": "1ZszRTMgUsBkQXnlzkst6VYZK2pyP4_2gWuid19LxJmw",
+      "name": "7.6 Lección 18 Folleto Revisando nuestro Registro",
+      "modifiedTime": "2024-08-25T07:38:01.310Z"
+    },
+    "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Slides": {
+      "driveFileId": "1UfIq_iTEVeCjEhR7E0JlwXSflJAWQTt8ROz04sq9AEc",
+      "name": "7.6 Lesson 18 Slides",
+      "modifiedTime": "2024-08-25T07:38:00.773Z"
+    },
+    "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Student Procedure": {
+      "driveFileId": "1lmBGtFb5QBvb1Y8HUlNGo_M2P0CD7ETdSQSaBFpM8Hs",
+      "name": "7.6 Lesson 18 Student Procedure",
+      "modifiedTime": "2024-08-25T07:38:00.367Z"
+    },
+    "Lesson 18 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 18 Handout Reviewing Our Driving": {
+      "driveFileId": "1t1q0CGnP45GNw9eVZ7fHy3nxQXF5SfO1vgWEWplbIWQ",
+      "name": "7.6 Lesson 18 Handout Reviewing Our Driving",
+      "modifiedTime": "2024-08-25T07:38:00.347Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Student Procedure in Spanish": {
+      "driveFileId": "1cVGZrERqgdYL8ZB9iFf-ANtlkK987FH8Vp12aTqoS5c",
+      "name": "7.6 Lesson 17 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:38:02.349Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Edition": {
+      "driveFileId": "1XNrv3C-5HaGNI5twH8VvBv1phhj_W-kamoLrKIh88Wg",
+      "name": "7.6 Lesson 17 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:38:01.661Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Rubric Rubric Designing a": {
+      "driveFileId": "1UhMqg-KgumoX613D6S0I7M_pMIHNu8hTqsgO7dXcrq8",
+      "name": "7.6 Lesson 17 Rubric Rubric Designing a",
+      "modifiedTime": "2024-08-25T07:38:00.668Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Reference Water Solution Cards": {
+      "driveFileId": "1B84E1dmAdyglDTazZwXZDP79gCpMGPs8PmN-tURM83I",
+      "name": "7.6 Lesson 17 Reference Water Solution Cards",
+      "modifiedTime": "2024-08-25T07:38:00.530Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Reference Reference Peer Feedback": {
+      "driveFileId": "1C1giqAyHb1DqKpju5xW356-6iNVJTh6fu_d8iBihiZE",
+      "name": "7.6 Lesson 17 Teacher Reference Reference Peer Feedback",
+      "modifiedTime": "2024-08-25T07:38:00.123Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Slides": {
+      "driveFileId": "1OimYwkGnXeD6CfqbF5lt42QxjSt8il27B670fO9DPFE",
+      "name": "7.6 Lesson 17 Slides",
+      "modifiedTime": "2024-08-25T07:38:00.030Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Water Solution Cards": {
+      "driveFileId": "1VtzoCDpbkmXUJOr58-nRwdRVUkg2SC9m6Zp1KOR-5sc",
+      "name": "7.6 Lesson 17 Handout Water Solution Cards",
+      "modifiedTime": "2024-08-25T07:37:59.987Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Student Procedure": {
+      "driveFileId": "1MZwbIPOBQWedNlTb9CxrXEeecyqx4dC0kCum-wkufGg",
+      "name": "7.6 Lesson 17 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:59.837Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Reference Potential Accompanying Standards": {
+      "driveFileId": "13-mlUcyb3vCWCo8syYQMgb6KPrG0ejYsh86aOgmK9cQ",
+      "name": "7.6 Lesson 17 Teacher Reference Potential Accompanying Standards",
+      "modifiedTime": "2024-08-25T07:37:59.819Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Teacher Reference Project Choice and": {
+      "driveFileId": "15830e3zumls4pr7Vr4v_XeA8p7X-j0mI9n_eXjlKN14",
+      "name": "7.6 Lesson 17 Teacher Reference Project Choice and",
+      "modifiedTime": "2024-08-25T07:37:59.526Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Rubric Rubric Evaluating Solutions": {
+      "driveFileId": "1mmCjkX9bFb_yV8SKTj9uCtjmzDmQz3cYJ4eVCUs3Av0",
+      "name": "7.6 Lesson 17 Rubric Rubric Evaluating Solutions",
+      "modifiedTime": "2024-08-25T07:37:59.026Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Rubric Rubric Argue for": {
+      "driveFileId": "1SLh8mTE05fQ4SEypRS_nZRddkxnnOKf1Rff8o-WFUG8",
+      "name": "7.6 Lesson 17 Rubric Rubric Argue for",
+      "modifiedTime": "2024-08-25T07:37:58.511Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Rubric Rubric Communicating Our": {
+      "driveFileId": "18fmKyMsNIolCskYKqbkIyZz26qEOu-Qz9ZfL1mIqeQo",
+      "name": "7.6 Lesson 17 Rubric Rubric Communicating Our",
+      "modifiedTime": "2024-08-25T07:37:58.491Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lección 17 Folleto Tarjetas de soluciones": {
+      "driveFileId": "17Z7oOEo2jbrP7c8ZbIcrEJXMAM6DRkBZYTnjyDZL-XI",
+      "name": "7.6 Lección 17 Folleto Tarjetas de soluciones",
+      "modifiedTime": "2024-08-25T07:37:57.328Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Reference Sources for Water": {
+      "driveFileId": "18rNaITR8e0cqSbxqd4dORYzWH1FaPr4qLZonA19YRNI",
+      "name": "7.6 Lesson 17 Reference Sources for Water",
+      "modifiedTime": "2024-08-25T07:37:56.863Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Community Resilience Plan": {
+      "driveFileId": "1e8Alupg6gCcRVktSox1y_kEyZboK7m5wtN6xnqqSs7g",
+      "name": "7.6 Lesson 17 Handout Community Resilience Plan",
+      "modifiedTime": "2024-08-25T07:37:56.590Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Designing a Community": {
+      "driveFileId": "1IXknG-KszBpS4KQgeHIW6zBM6ncJYOuCLaBXqGYyLJk",
+      "name": "7.6 Lesson 17 Handout Designing a Community",
+      "modifiedTime": "2024-08-25T07:37:56.587Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lección 17 Referencia Tarjetas de soluciones": {
+      "driveFileId": "1XSMD-NwjI7LrFZTE-0sIeQ7eAS_yKNN7z8z3M-Je1Cs",
+      "name": "7.6 Lección 17 Referencia Tarjetas de soluciones",
+      "modifiedTime": "2024-08-25T07:37:56.447Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Assessment Argue for the": {
+      "driveFileId": "1Klh-snQxtFyt3UjMjUUEj4eBY5Xjn0Hdg9ZqfWD5iVA",
+      "name": "7.6 Lesson 17 Assessment Argue for the",
+      "modifiedTime": "2024-08-25T07:37:56.248Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 17 Handout Project Options": {
+      "driveFileId": "1v-HW-Q90-14fFFmZKI0JGhyaLO3DS6E4gdNuWC-mzsg",
+      "name": "7.6 Lesson 17 Handout Project Options",
+      "modifiedTime": "2024-08-25T07:37:55.542Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lección 17 Referencia Fuentes para las": {
+      "driveFileId": "1TPTXeYAC2ZJc2eZUK3QsGgP6SZE07gy0DFqtu7tXXYc",
+      "name": "7.6 Lección 17 Referencia Fuentes para las",
+      "modifiedTime": "2024-08-25T07:37:55.250Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lección 17 Folleto Plan de resiliencia": {
+      "driveFileId": "1lGS0YitKAdkAOIxqv7fRTFoFUtiAWZNnBMD2H_POGzg",
+      "name": "7.6 Lección 17 Folleto Plan de resiliencia",
+      "modifiedTime": "2024-08-25T07:37:55.136Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lección 17 Folleto Opciones de proyecto": {
+      "driveFileId": "1w6F3xHOPtD32nxp8m659_QIJ95yG4JvjA1yyNegurlY",
+      "name": "7.6 Lección 17 Folleto Opciones de proyecto",
+      "modifiedTime": "2024-08-25T07:37:55.020Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lección 17 Folleto Diseño de un": {
+      "driveFileId": "1pLsW2qvlbsZLeNP7KrHgcpH0ClY015U1G9o2PjnAFFE",
+      "name": "7.6 Lección 17 Folleto Diseño de un",
+      "modifiedTime": "2024-08-25T07:37:54.870Z"
+    },
+    "Lesson 17 - 7.6 Earth's Resources & Human Impact/7.6 Lección 17 Evaluación Argumentar la mejor": {
+      "driveFileId": "1SnuzG-7xVBQar0ipTqHtFNzcSMxa4dtxtcBpiVq7nOI",
+      "name": "7.6 Lección 17 Evaluación Argumentar la mejor",
+      "modifiedTime": "2024-08-25T07:37:54.209Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Teacher Edition": {
+      "driveFileId": "1uniMZ2CmFkH0dQq7bdOyoucP3iuUlaFpF0aio41hx2o",
+      "name": "7.6 Lesson 16 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:57.049Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Reference Oscarville Community Resilience": {
+      "driveFileId": "1hl1AQvVnURfyH7vW1wlaU7Qx_SAy1T4GYyW21E0iZpY",
+      "name": "7.6 Lesson 16 Reference Oscarville Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:55.298Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Reference Yakima Community Resilience": {
+      "driveFileId": "1XcxozdR92sdc6gaPQCFJIR2kE0zP00tvr2IDyfz7c_U",
+      "name": "7.6 Lesson 16 Reference Yakima Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:55.118Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Reference Phoenix Community Resilience": {
+      "driveFileId": "1gItWsUQKl05l7ZPCemqstCc1CEVIJgxYg2w4OQDK7Tg",
+      "name": "7.6 Lesson 16 Reference Phoenix Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:55.054Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Student Procedure in Spanish": {
+      "driveFileId": "1GeFIFx9bLRcCGJc5xAZgpBYNzI0rB7u-BJMaTv7T1Yk",
+      "name": "7.6 Lesson 16 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:55.025Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Slides": {
+      "driveFileId": "1nAMHGFRbIXmzAC_rwIUNa57RCq9X9i1HIyfL_TB_oJE",
+      "name": "7.6 Lesson 16 Slides",
+      "modifiedTime": "2024-08-25T07:37:54.797Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Reference Boston Community Resilience": {
+      "driveFileId": "1KGoRz7vEi2pt2vtHZ_R25S2XqErXg96H_3Ahww1EhnI",
+      "name": "7.6 Lesson 16 Reference Boston Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:54.195Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Handout Yakima Community Resilience": {
+      "driveFileId": "1PBs99ZhuvBU7dvvAj_L-_grd3MnjNH9Wk-PmFdjBQpM",
+      "name": "7.6 Lesson 16 Handout Yakima Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:53.865Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Student Procedure": {
+      "driveFileId": "1_ynOkLnJW-VNGeZqys5BZCVuibrurFVNk2T57_wTFEo",
+      "name": "7.6 Lesson 16 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:53.674Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Handout Phoenix Community Resilience": {
+      "driveFileId": "1tL-xkhjAXmyQ1k56zGoDOYPHN6siYNsR6yG6f7knIPc",
+      "name": "7.6 Lesson 16 Handout Phoenix Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:52.971Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Referencia Phoenix Plan de": {
+      "driveFileId": "1kjND-GozGX0SVbYVMz5i-utd4g1J9RcxB50swLX8OzU",
+      "name": "7.6 Lección 16 Referencia Phoenix Plan de",
+      "modifiedTime": "2024-08-25T07:37:52.852Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Folleto Yakima Plan de": {
+      "driveFileId": "1cfgxWJBWQxpBSwZZnZSijtKpFDosAZWs55Vx-b0H-ac",
+      "name": "7.6 Lección 16 Folleto Yakima Plan de",
+      "modifiedTime": "2024-08-25T07:37:52.057Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Handout Oscarville Community Resilience": {
+      "driveFileId": "1tgxi6dpZMdiRJbHMDkD-zO-GAEpb5GYqr_dwJmwF-4w",
+      "name": "7.6 Lesson 16 Handout Oscarville Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:51.977Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Referencia Boston Plan de": {
+      "driveFileId": "1ExRFfIPl2YfUWiWQR0nor-gaBfSn03aAiUZ32SRojEs",
+      "name": "7.6 Lección 16 Referencia Boston Plan de",
+      "modifiedTime": "2024-08-25T07:37:51.775Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Referencia Yakima Plan de": {
+      "driveFileId": "14nwDoAZY0t5hmE7omza3zBSaIgQqHboi-gmV0UkJ_cA",
+      "name": "7.6 Lección 16 Referencia Yakima Plan de",
+      "modifiedTime": "2024-08-25T07:37:51.753Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Handout Boston Community Resilience": {
+      "driveFileId": "1T0lPlNKX9j4laEokIG_2j1Fnn97H0yExwL4VStp_QTM",
+      "name": "7.6 Lesson 16 Handout Boston Community Resilience",
+      "modifiedTime": "2024-08-25T07:37:51.350Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 16 Handout Evaluating Community Solutions": {
+      "driveFileId": "1tmjUNrK_kNAZzhGIiSp8-IE9JfpjXnhOVqduaD6Gcv0",
+      "name": "7.6 Lesson 16 Handout Evaluating Community Solutions",
+      "modifiedTime": "2024-08-25T07:37:51.021Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Referencia Oscarville Plan de": {
+      "driveFileId": "1MtncV-SedxWrHpZxNDzzYE3WLV_NQGtjELuHyv0bc3E",
+      "name": "7.6 Lección 16 Referencia Oscarville Plan de",
+      "modifiedTime": "2024-08-25T07:37:50.917Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Folleto Phoenix Plan de": {
+      "driveFileId": "1SCz42QQbIHV0cptP4V6Q2dEXXc-hb53VWXfKr-dKUTE",
+      "name": "7.6 Lección 16 Folleto Phoenix Plan de",
+      "modifiedTime": "2024-08-25T07:37:50.764Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Folleto Boston Plan de": {
+      "driveFileId": "1BSV9E6-DrR8X6Ni-nWqeqy7zT9Wzlq7D6xtITnoi9yU",
+      "name": "7.6 Lección 16 Folleto Boston Plan de",
+      "modifiedTime": "2024-08-25T07:37:50.752Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Folleto Evaluación de soluciones": {
+      "driveFileId": "1EHhJiDteyTiVbrc5In7vIJ3rGmSC9jnilwS_YifHFwY",
+      "name": "7.6 Lección 16 Folleto Evaluación de soluciones",
+      "modifiedTime": "2024-08-25T07:37:49.979Z"
+    },
+    "Lesson 16 - 7.6 Earth's Resources & Human Impact/7.6 Lección 16 Folleto Oscarville Plan de": {
+      "driveFileId": "1YnCBb8u0qxK4qKkdfD7Rs6NCyAZr48y4hQK4Qj5MsJE",
+      "name": "7.6 Lección 16 Folleto Oscarville Plan de",
+      "modifiedTime": "2024-08-25T07:37:49.672Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Teacher Edition": {
+      "driveFileId": "14r5LnZwMSZQLzgeAVr99pwnEJ06UMzJqULKojLyj6kc",
+      "name": "7.6 Lesson 15 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:51.958Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Student Procedure in Spanish": {
+      "driveFileId": "16sB-lXXuLU2NwwmapdkA1BIubQRPF3_CP9LQHZhbrdc",
+      "name": "7.6 Lesson 15 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:50.836Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Handout Carbon Solution Cards": {
+      "driveFileId": "1JlUEJV9Tk85VFcV8dc-bdrCmxA8hFBLDR7MkNnx7hAY",
+      "name": "7.6 Lesson 15 Handout Carbon Solution Cards",
+      "modifiedTime": "2024-08-25T07:37:49.977Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lección 15 Referencia Tarjetas de solución": {
+      "driveFileId": "1lr48kbGXLvjdPWld7FfydTFlEXXPlKScoHXq_GEodVs",
+      "name": "7.6 Lección 15 Referencia Tarjetas de solución",
+      "modifiedTime": "2024-08-25T07:37:49.966Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Student Procedure": {
+      "driveFileId": "1OoG42v2vXikBLG3QBgdbqR959IbYznU3FQ5bh-_Qxc4",
+      "name": "7.6 Lesson 15 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:49.912Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Reference Carbon Solution Cards": {
+      "driveFileId": "1apQFxAY7znXqxVZ_9p6EQLRqWePupRlcCvrscohz6Pc",
+      "name": "7.6 Lesson 15 Reference Carbon Solution Cards",
+      "modifiedTime": "2024-08-25T07:37:49.478Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Teacher Reference Information for Carbon": {
+      "driveFileId": "1MZUtrfocIUR6ZgWInMacUJB4nScMw5b8mry-EDVCCyc",
+      "name": "7.6 Lesson 15 Teacher Reference Information for Carbon",
+      "modifiedTime": "2024-08-25T07:37:48.682Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lección 15 Folleto Tarjetas de solución": {
+      "driveFileId": "1ddo4X5U0YnnxbFGZrjTt9zPPyyixZ-Y5jkB2ASkszkM",
+      "name": "7.6 Lección 15 Folleto Tarjetas de solución",
+      "modifiedTime": "2024-08-25T07:37:48.551Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Slides": {
+      "driveFileId": "1LuTwwiKYmgPpzXL54R_JGlVG97wSY7MlskVSb3G8EeU",
+      "name": "7.6 Lesson 15 Slides",
+      "modifiedTime": "2024-08-25T07:37:48.432Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 15 Handout Carbon Reduction Solution": {
+      "driveFileId": "10J_NqyE-BqCY9e57oQhjXFbWft8_v_S5SPiMv2_oLoY",
+      "name": "7.6 Lesson 15 Handout Carbon Reduction Solution",
+      "modifiedTime": "2024-08-25T07:37:46.418Z"
+    },
+    "Lesson 15 - 7.6 Earth's Resources & Human Impact/7.6 Lección 15 Folleto Matriz de solución": {
+      "driveFileId": "14y7ukIHASUl8-JbVg0lXBaCqlOqnf8W8HKCDAMdhbjM",
+      "name": "7.6 Lección 15 Folleto Matriz de solución",
+      "modifiedTime": "2024-08-25T07:37:46.311Z"
+    },
+    "Lesson 14 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 14 Student Procedure": {
+      "driveFileId": "1BptsH85SWJvFx7_s6A32eyd03dd2fP-zKXagkStOm-c",
+      "name": "7.6 Lesson 14 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:47.117Z"
+    },
+    "Lesson 14 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 14 Digital Carbon Scoreboard": {
+      "driveFileId": "1-zZXxgUsQ_KEgvmGL6ABKpxHrpd3FxTinDbf6ycyLLk",
+      "name": "7.6 Lesson 14 Digital Carbon Scoreboard",
+      "modifiedTime": "2024-08-25T07:37:46.668Z"
+    },
+    "Lesson 14 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 14 Teacher Edition": {
+      "driveFileId": "1CvkbQp7_sYtGTPPDwZmPaZeGko3ptSUAiifpSw5xhYc",
+      "name": "7.6 Lesson 14 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:46.623Z"
+    },
+    "Lesson 14 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 14 Student Procedure in Spanish": {
+      "driveFileId": "1NOLrDeEHLk_b_Rozd-d8BigEexGYpzQlK-KF5vUnGhI",
+      "name": "7.6 Lesson 14 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:46.432Z"
+    },
+    "Lesson 14 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 14 Slides": {
+      "driveFileId": "1migxJHlLOqroLSNqM4mk3yBsKiDzVlCRqTi4XRyGNmk",
+      "name": "7.6 Lesson 14 Slides",
+      "modifiedTime": "2024-08-25T07:37:46.314Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Student Procedure": {
+      "driveFileId": "1qrar6Btft0h859wwEwLCA8AuEkG6QR5tryt6WUYqADY",
+      "name": "7.6 Lesson 13 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:46.681Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Teacher Edition": {
+      "driveFileId": "1Q4RaXH5XnL6KgQZrFri0pZi2NipMSyrwjpmKDgc87pA",
+      "name": "7.6 Lesson 13 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:46.222Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Slides": {
+      "driveFileId": "1iTmrLk0MU6NHllLcbYxDq55dEoQDUgxgwK2a3U-uxsE",
+      "name": "7.6 Lesson 13 Slides",
+      "modifiedTime": "2024-08-25T07:37:45.356Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Student Procedure in Spanish": {
+      "driveFileId": "1DXDMfuTYoextXKNPp14__2e6k89zm0ZHflsYUs5R6qY",
+      "name": "7.6 Lesson 13 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:45.326Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Handout UCAR Simple Climate": {
+      "driveFileId": "1xGOM2hPC_KwBL50H4TPZmUW5AH6O8yAvLb7RBEii6b0",
+      "name": "7.6 Lesson 13 Handout UCAR Simple Climate",
+      "modifiedTime": "2024-08-25T07:37:44.370Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 13 Handout Home Carbon Audit": {
+      "driveFileId": "1ZKu0ut5v2ZweYTTmBR0e_YRAPoo2O7qe8sz1MyMCYAc",
+      "name": "7.6 Lesson 13 Handout Home Carbon Audit",
+      "modifiedTime": "2024-08-25T07:37:44.107Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lección 13 Folleto Auditoría de carbono": {
+      "driveFileId": "11E5XJ9jBG-kvefo4wZscTsdOjzFs89Hy6-hAbSJiZeM",
+      "name": "7.6 Lección 13 Folleto Auditoría de carbono",
+      "modifiedTime": "2024-08-25T07:37:43.775Z"
+    },
+    "Lesson 13 - 7.6 Earth's Resources & Human Impact/7.6 Lección 13 Folleto Registro de observaciones": {
+      "driveFileId": "10nnZzGWm1CK5w7fr8mlwlNlpH93e31dJ08DODTnC0XE",
+      "name": "7.6 Lección 13 Folleto Registro de observaciones",
+      "modifiedTime": "2024-08-25T07:37:43.712Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Student Procedure in Spanish": {
+      "driveFileId": "1RKYemqZRjwse4Ka1fj_w4A7a5iwbj3KbpOgqHG7m9JI",
+      "name": "7.6 Lesson 12 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:45.711Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Teacher Edition": {
+      "driveFileId": "1AWICxcxUDyQemq0F47Oi5G2KBxUHFzUrAR8_o6JpmlU",
+      "name": "7.6 Lesson 12 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:45.018Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Slides": {
+      "driveFileId": "1SK_3AbCySlvaqNtCobSwIVL-UNhkFOKWoVoAYRXbMxs",
+      "name": "7.6 Lesson 12 Slides",
+      "modifiedTime": "2024-08-25T07:37:43.789Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Teacher Reference Model Ideas List": {
+      "driveFileId": "1tZ_rKnvHw4BHvBvDPeLw5sInkHFH9K2SKDsEUc0wz7M",
+      "name": "7.6 Lesson 12 Teacher Reference Model Ideas List",
+      "modifiedTime": "2024-08-25T07:37:43.721Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Student Procedure": {
+      "driveFileId": "1fGxjaGf54At8mTWceCIUxkPsbhfelBMg0jjriUMFpiM",
+      "name": "7.6 Lesson 12 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:43.427Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Handout Fossil Fuel Use": {
+      "driveFileId": "1qQABNmWwT2ikf6poW0g72bE_iI15IgCt_brTQ_zkpq0",
+      "name": "7.6 Lesson 12 Handout Fossil Fuel Use",
+      "modifiedTime": "2024-08-25T07:37:42.948Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Assessment Version 1 Social": {
+      "driveFileId": "10T5HAJxAF-Cvb8Ns0I8rJCzkxL1uCsxq1iREBOB1uPw",
+      "name": "7.6 Lesson 12 Assessment Version 1 Social",
+      "modifiedTime": "2024-08-25T07:37:42.642Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Handout Cause-and-Effect Diagram": {
+      "driveFileId": "1jR8JaX7dsmNr0emp74r5S5nFfFb40wizxyamz8nkrD0",
+      "name": "7.6 Lesson 12 Handout Cause-and-Effect Diagram",
+      "modifiedTime": "2024-08-25T07:37:41.809Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Answer Key Tweet Claims Assessment": {
+      "driveFileId": "1fk-z13ckbnxznlLml5URKNzdC3VFWhRXz2suoLJYyNE",
+      "name": "7.6 Lesson 12 Answer Key Tweet Claims Assessment",
+      "modifiedTime": "2024-08-25T07:37:41.696Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lección 12 Folleto Uso de combustibles": {
+      "driveFileId": "1pDVBLfrms2QtC9n17U_byAVE75xhM8NVhvzU27jt0t8",
+      "name": "7.6 Lección 12 Folleto Uso de combustibles",
+      "modifiedTime": "2024-08-25T07:37:41.545Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lección 12 Evaluación Versión 2 Evaluación": {
+      "driveFileId": "1NomO7U2yQb5QBcKQEGGgYiD4I-BnQZ3dQEozLS5HhfE",
+      "name": "7.6 Lección 12 Evaluación Versión 2 Evaluación",
+      "modifiedTime": "2024-08-25T07:37:41.537Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 12 Assessment Version 2 Social": {
+      "driveFileId": "1bHbRnCKa618K8uev_hP8VJKXks4ybBEmhyMMVrcGLv0",
+      "name": "7.6 Lesson 12 Assessment Version 2 Social",
+      "modifiedTime": "2024-08-25T07:37:41.003Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lección 12 Folleto Diagrama de causa": {
+      "driveFileId": "12R46J45xwoI1ZkbfMxS-3wrhXbLJo0vHBoJgDkmKlmc",
+      "name": "7.6 Lección 12 Folleto Diagrama de causa",
+      "modifiedTime": "2024-08-25T07:37:40.912Z"
+    },
+    "Lesson 12 - 7.6 Earth's Resources & Human Impact/7.6 Lección 12 Evaluación Version 1 Evaluación": {
+      "driveFileId": "1cTBsd9rzoNUGibFu4FMejm82CRipEXp1sd-S3MjQ4Dk",
+      "name": "7.6 Lección 12 Evaluación Version 1 Evaluación",
+      "modifiedTime": "2024-08-25T07:37:37.782Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Student Procedure": {
+      "driveFileId": "1QG45zI6A1ZA_OcW8rArpfZro6SgXK-f6G0HdR1rqD30",
+      "name": "7.6 Lesson 11 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:41.793Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Teacher Reference Carbon Dice Game": {
+      "driveFileId": "1ORJbPGc7H9VGi63ry4koUQ2d6nOAqBnFKyY6wtxCNSk",
+      "name": "7.6 Lesson 11 Teacher Reference Carbon Dice Game",
+      "modifiedTime": "2024-08-25T07:37:41.683Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Teacher Reference Guidance on Carbon": {
+      "driveFileId": "1NGrFwoloo0p08bP9zgfT1X9cUMnCbvycQq0DHw3BgkA",
+      "name": "7.6 Lesson 11 Teacher Reference Guidance on Carbon",
+      "modifiedTime": "2024-08-25T07:37:41.166Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Slides": {
+      "driveFileId": "1u7xaNa3PdrxO6PgvCenZzMw2l5TXGqRa8XtpSDxJV_U",
+      "name": "7.6 Lesson 11 Slides",
+      "modifiedTime": "2024-08-25T07:37:40.792Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Student Procedure in Spanish": {
+      "driveFileId": "1c2LA7JD4rLo1q0quOMrE9sWKWtghxOmTCKBboaGgK_Y",
+      "name": "7.6 Lesson 11 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:40.617Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Handout Earth’s Carbon System": {
+      "driveFileId": "1TFevFdgwR7v1J6if_-SHcrReOOEon5Rw_U3DoxkcBkU",
+      "name": "7.6 Lesson 11 Handout Earth’s Carbon System",
+      "modifiedTime": "2024-08-25T07:37:40.207Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Teacher Edition": {
+      "driveFileId": "14fof6NxkJANdzFAQ6KikpDKGZsSEk0pm3wMtVJy_m1E",
+      "name": "7.6 Lesson 11 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:39.888Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 11 Digital Dice Game": {
+      "driveFileId": "1qXhhfbis_Bi6gMXHC_J-aSwDZCM7Hv7fIH9qCy4kKDE",
+      "name": "7.6 Lesson 11 Digital Dice Game",
+      "modifiedTime": "2024-08-25T07:37:39.377Z"
+    },
+    "Lesson 11 - 7.6 Earth's Resources & Human Impact/7.6 Lección 11 Folleto Modelo de sistema": {
+      "driveFileId": "1jtus7-0kFwLzXHZRHjOpsitUtpfgM-fPbHIVzFTDra4",
+      "name": "7.6 Lección 11 Folleto Modelo de sistema",
+      "modifiedTime": "2024-08-25T07:37:37.505Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Teacher Reference Burning Fuels Instructions": {
+      "driveFileId": "1azNgx0X-00TjLnKEk1Td9hCAElthATJpJn7ZlvK0KVc",
+      "name": "7.6 Lesson 10 Teacher Reference Burning Fuels Instructions",
+      "modifiedTime": "2024-08-25T07:37:40.435Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Slides": {
+      "driveFileId": "1i5IGBm8Xm6lYZk7JGIJsxy7mlDfWdPjViCWtRR35_D4",
+      "name": "7.6 Lesson 10 Slides",
+      "modifiedTime": "2024-08-25T07:37:40.179Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Student Procedure": {
+      "driveFileId": "12fl8g4MmCjolMkF6IB8lHJ09U9kuse2EbuWG3R_D4-U",
+      "name": "7.6 Lesson 10 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:39.680Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Teacher Edition": {
+      "driveFileId": "1SaMWmp_5WQd62X6Y1f1-olGLEc9ymbdprWnaU8p4EVs",
+      "name": "7.6 Lesson 10 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:38.436Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Reference Population and CO2": {
+      "driveFileId": "1WCl8OzBcXyse862vv0whr1ONt2vclRubg1jL72L8a8U",
+      "name": "7.6 Lesson 10 Reference Population and CO2",
+      "modifiedTime": "2024-08-25T07:37:37.762Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Teacher Reference Extension Opportunity Uneven": {
+      "driveFileId": "1ZdYLFMBRLMkHGHJfNs-8pTvB6FRdd3O7NzveQaB0v4E",
+      "name": "7.6 Lesson 10 Teacher Reference Extension Opportunity Uneven",
+      "modifiedTime": "2024-08-25T07:37:37.693Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Student Procedure in Spanish": {
+      "driveFileId": "1fW6N5ulZW7NgVmpqjCitXgl7RMy8LkqtGqjivt5MEeE",
+      "name": "7.6 Lesson 10 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:37.328Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Reference Tips for Using": {
+      "driveFileId": "1ZVAjMlvxKi7MpZi58YQwzJu3VbmKP2NtR2JD53nzPto",
+      "name": "7.6 Lesson 10 Reference Tips for Using",
+      "modifiedTime": "2024-08-25T07:37:37.225Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Handout Fuel Molecule Cards": {
+      "driveFileId": "1kILwmbsiCBZFgdf3ywuNEypearyntOFbb8AqC5Yhyqw",
+      "name": "7.6 Lesson 10 Handout Fuel Molecule Cards",
+      "modifiedTime": "2024-08-25T07:37:36.661Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Handout Powering our World": {
+      "driveFileId": "1_5nAudzO7Rgg4XheXLt___-OAzwdna8cuIWBxKKoML0",
+      "name": "7.6 Lesson 10 Handout Powering our World",
+      "modifiedTime": "2024-08-25T07:37:36.559Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Handout Fossil Fuels Long": {
+      "driveFileId": "1NWQ7aVKraR6Wz88HEAkh4NVaRasUhXozSXXgFyRq1qY",
+      "name": "7.6 Lesson 10 Handout Fossil Fuels Long",
+      "modifiedTime": "2024-08-25T07:37:36.403Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Reference World Energy Consumption,": {
+      "driveFileId": "16Oq0StJlR98FJ4kEcUQVtTwXGdNhnPiUpa-eatv5HxU",
+      "name": "7.6 Lesson 10 Reference World Energy Consumption,",
+      "modifiedTime": "2024-08-25T07:37:36.157Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Handout Transcript Burning Fuels": {
+      "driveFileId": "1MqeM-4nxP0WPpEzJA2kX7iU-CEuLuQDVy-CuMQlyYy0",
+      "name": "7.6 Lesson 10 Handout Transcript Burning Fuels",
+      "modifiedTime": "2024-08-25T07:37:35.799Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Handout Fossil Fuel Formation": {
+      "driveFileId": "1H2TK5RJVRe-yOH8BPM0WCiQByDvL8h-y-G0xd9lmENY",
+      "name": "7.6 Lesson 10 Handout Fossil Fuel Formation",
+      "modifiedTime": "2024-08-25T07:37:35.798Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Referencia Gráficas de población": {
+      "driveFileId": "1QTFcZ27wGV8IPeGpHFpXhwe0wiHVQEbFyGSm6stkdpI",
+      "name": "7.6 Lección 10 Referencia Gráficas de población",
+      "modifiedTime": "2024-08-25T07:37:35.530Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Handout Population, CO2 Levels,": {
+      "driveFileId": "1TZGnaa5bVCjezKguigXVIF1innklCYevRJaych_W4Vw",
+      "name": "7.6 Lesson 10 Handout Population, CO2 Levels,",
+      "modifiedTime": "2024-08-25T07:37:35.375Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 10 Handout Examining Data Over": {
+      "driveFileId": "1d1PX-z08HtS406aAMDLGw0QWTOMOS8EKPf5A7CEFUEU",
+      "name": "7.6 Lesson 10 Handout Examining Data Over",
+      "modifiedTime": "2024-08-25T07:37:35.294Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Referencia Sugerencias para usar": {
+      "driveFileId": "11YCeEe5v0gBg-RyY1zrE-sz8OegxfyFfwGIIDf0Yuq4",
+      "name": "7.6 Lección 10 Referencia Sugerencias para usar",
+      "modifiedTime": "2024-08-25T07:37:35.094Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Referencia Consumo mundial de": {
+      "driveFileId": "1bQwJH58Op1_-P5CSySGyb4fR-1JIfshDdwLX6nLaMAQ",
+      "name": "7.6 Lección 10 Referencia Consumo mundial de",
+      "modifiedTime": "2024-08-25T07:37:34.237Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Folleto Combustibles fósiles de": {
+      "driveFileId": "1eGlucPDsVEurVeYmg4NXrGJncn5trfbmxRA7A3bZD-Y",
+      "name": "7.6 Lección 10 Folleto Combustibles fósiles de",
+      "modifiedTime": "2024-08-25T07:37:33.811Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Folleto Población, niveles de": {
+      "driveFileId": "1E4ra2IKte7EDBI194Gq3ihu9UM8pzxj6Cznaz2vRJaw",
+      "name": "7.6 Lección 10 Folleto Población, niveles de",
+      "modifiedTime": "2024-08-25T07:37:33.579Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Folleto Ilustraciones de formación": {
+      "driveFileId": "17zLu-NedtOZMrSIrhp6rUn4vjsMbMOzbvb4WzpG6VOQ",
+      "name": "7.6 Lección 10 Folleto Ilustraciones de formación",
+      "modifiedTime": "2024-08-25T07:37:33.361Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Folleto Transcripción Demostración de": {
+      "driveFileId": "1CsrwJZTOtiG7ZLmHyuIaYYJuH1jaH7BMk8Qepwg9Izs",
+      "name": "7.6 Lección 10 Folleto Transcripción Demostración de",
+      "modifiedTime": "2024-08-25T07:37:32.914Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Folleto Examinando datos a": {
+      "driveFileId": "1_7PeiXzBO8yE3GgytPktXZcBVrJr_rYvFqYJt7XdtPk",
+      "name": "7.6 Lección 10 Folleto Examinando datos a",
+      "modifiedTime": "2024-08-25T07:37:32.832Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Folleto Tarjetas de Molécula": {
+      "driveFileId": "1NLPpzl5TGxIgBB3_O0t_nkhbpaCHnvyQ0tKGMAjWSQk",
+      "name": "7.6 Lección 10 Folleto Tarjetas de Molécula",
+      "modifiedTime": "2024-08-25T07:37:32.769Z"
+    },
+    "Lesson 10 - 7.6 Earth's Resources & Human Impact/7.6 Lección 10 Folleto Encendiendo nuestro mundo": {
+      "driveFileId": "1w15TIae6qbaweyMJ1mu_duaeuZYxryty2BJ7U-yo64g",
+      "name": "7.6 Lección 10 Folleto Encendiendo nuestro mundo",
+      "modifiedTime": "2024-08-25T07:37:32.665Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Teacher Edition": {
+      "driveFileId": "1e68xio7no8bggzH7lYH0e1dwywktZB1k57o7lAFnjsE",
+      "name": "7.6 Lesson 1 Teacher Edition",
+      "modifiedTime": "2024-08-25T07:37:34.546Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Slides": {
+      "driveFileId": "18VoUUHvaAUz2lazZUG42amCjjtseJyS0vXsdNTsdWYg",
+      "name": "7.6 Lesson 1 Slides",
+      "modifiedTime": "2024-08-25T07:37:32.700Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Student Procedure in Spanish": {
+      "driveFileId": "1ecymIKVvRNyTcIRZDvW4ZycpC4v4Mu-f49uXm7zHkho",
+      "name": "7.6 Lesson 1 Student Procedure in Spanish",
+      "modifiedTime": "2024-08-25T07:37:32.358Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Student Procedure": {
+      "driveFileId": "1bn0d7OuoKif_j63D2EIVxLJtbBTxipkVhpxsogQynzY",
+      "name": "7.6 Lesson 1 Student Procedure",
+      "modifiedTime": "2024-08-25T07:37:32.304Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Slides Headlines": {
+      "driveFileId": "1I9Zgk1VEq4F7zfH4TmxLi5rNtJ5j6axCJp3Ix9ttlm8",
+      "name": "7.6 Lesson 1 Slides Headlines",
+      "modifiedTime": "2024-08-25T07:37:31.930Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lección 1 Folleto Titulares de sequía": {
+      "driveFileId": "1pwgCQoDdXwrFJlfP14sYNDBLi-SkmXpH9ipj8tL3hAY",
+      "name": "7.6 Lección 1 Folleto Titulares de sequía",
+      "modifiedTime": "2024-08-25T07:37:31.577Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Handout Drought and Flood": {
+      "driveFileId": "1MKRiw6huzgbY4gHZ5dOXBnqt5HoSso56OsoAOlT5at4",
+      "name": "7.6 Lesson 1 Handout Drought and Flood",
+      "modifiedTime": "2024-08-25T07:37:30.759Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Teacher Reference Example Student Questions": {
+      "driveFileId": "1im2PCcspu1FdQXOq0uXxT1nw8iU-z-93fAnJhj6F3yU",
+      "name": "7.6 Lesson 1 Teacher Reference Example Student Questions",
+      "modifiedTime": "2024-08-25T07:37:30.694Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Handout Transcript Porterville A": {
+      "driveFileId": "16nEgxXGMd6CS-sCyishbG_2d5dSvhJaxPxeZRSFGL6o",
+      "name": "7.6 Lesson 1 Handout Transcript Porterville A",
+      "modifiedTime": "2024-08-25T07:37:30.548Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Teacher Reference Natural Resources Guidance": {
+      "driveFileId": "19UxKWPwmuIik2AssBWehQQbzX4koRXd_IqdMdN4x8P0",
+      "name": "7.6 Lesson 1 Teacher Reference Natural Resources Guidance",
+      "modifiedTime": "2024-08-25T07:37:30.487Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lección 1 Folleto Transcripción Inundaciones azotan": {
+      "driveFileId": "19GrzMBc8frA0V5ZRjcrmqFD5myuNZ7Xh1UdjdmijVCs",
+      "name": "7.6 Lección 1 Folleto Transcripción Inundaciones azotan",
+      "modifiedTime": "2024-08-25T07:37:30.096Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lección 1 Folleto Transcripción Porterville Un": {
+      "driveFileId": "11EEqfbQjiUZTaxH12bmDhkG3XlrCR9z5DI2iiPENUX4",
+      "name": "7.6 Lección 1 Folleto Transcripción Porterville Un",
+      "modifiedTime": "2024-08-25T07:37:29.921Z"
+    },
+    "Lesson 1 - 7.6 Earth's Resources & Human Impact/7.6 Lesson 1 Handout Transcript Floods Hit": {
+      "driveFileId": "1nyZQt9CQVrkp94xm3OARYH36N6ltQGnpdbVsrUTsXBc",
+      "name": "7.6 Lesson 1 Handout Transcript Floods Hit",
+      "modifiedTime": "2024-08-25T07:37:29.196Z"
+    }
+  }
+}

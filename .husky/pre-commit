@@ -1,0 +1,30 @@
+
+echo "🔍 Running pre-commit checks..."
+
+# Run linting
+echo "📝 Running linter..."
+pnpm lint
+if [ $? -ne 0 ]; then
+  echo "❌ Linting failed. Please fix the issues before committing."
+  exit 1
+fi
+
+# Run Node.js tests
+echo "🧪 Running Node.js tests..."
+pnpm test
+if [ $? -ne 0 ]; then
+  echo "❌ Node.js tests failed. Please fix the issues before committing."
+  exit 1
+fi
+
+# Run E2E smoke tests with Playwright (optional)
+echo "🎭 Running E2E tests (optional)..."
+pnpm test:e2e || true
+E2E_EXIT_CODE=$?
+
+if [ $E2E_EXIT_CODE -ne 0 ]; then
+  echo "⚠️  E2E smoke tests failed, but continuing with commit."
+  echo "   Run 'pnpm test:e2e' manually to debug issues."
+fi
+
+echo "✅ All pre-commit checks passed!" 
