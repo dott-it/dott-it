@@ -16,8 +16,8 @@ export function LibraryPublicHeader() {
       <div className="container mx-auto flex h-16 items-center justify-between gap-4 px-4">
         <Link href="/library/openscied" className="flex min-w-0 items-center gap-2.5">
           <Image
-            src="/eddo-logo.png"
-            alt="Eddo"
+            src="/dottit-logo.png"
+            alt="Dott.it"
             width={32}
             height={32}
             className="size-8 shrink-0 object-contain"

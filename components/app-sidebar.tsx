@@ -121,8 +121,8 @@ export function AppSidebar() {
                         style={{ border: 'none', boxShadow: 'none', position: 'relative', top: 0, left: 0 }}
                     >
                         <Image
-                            src="/eddo-logo.png"
-                            alt="Sidebar logo button"
+                            src="/dottit-logo.png"
+                            alt="Dott.it"
                             width={48}
                             height={48}
                             className={`size-12 max-h-12 min-h-12 min-w-12 max-w-12 object-contain ${isCelebrating ? 'animate-somersault' : ''}`}
@@ -133,7 +133,7 @@ export function AppSidebar() {
                     {/* Title - only visible when open */}
                     {sidebarIsOpen && (
                         <div className="grid flex-1 text-left text-sm leading-tight">
-                            <span className="truncate text-xl font-semibold font-fredoka">Eddo Learning</span>
+                            <span className="truncate text-xl font-semibold font-fredoka">Dott.it</span>
                             <span className="truncate text-xs">Feedback and Assessment System</span>
                         </div>
                     )}

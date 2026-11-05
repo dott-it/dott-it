@@ -520,8 +520,8 @@ export function FeedbackHistoryThreadView({
               <div className="absolute left-4 top-4">
                 <div className="animate-somersault">
                   <Image
-                    src="/eddo-logo.png"
-                    alt="Eddo"
+                    src="/dottit-logo.png"
+                    alt="Dott.it"
                     width={48}
                     height={48}
                     className="object-contain"
@@ -1295,8 +1295,8 @@ export function FeedbackHistoryThreadView({
                         >
                           {message.role === 'assistant' ? (
                             <Image
-                              src="/eddo-logo.png"
-                              alt="Eddo AI"
+                              src="/dottit-logo.png"
+                              alt="Dott.it"
                               width={32}
                               height={32}
                               className="size-full object-cover"

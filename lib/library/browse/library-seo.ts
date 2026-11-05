@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import { getLibrarySiteUrl } from '@/lib/library/site-url'
 
 const LIBRARY_SITE_NAME = 'Eddo · OpenSciEd Assessment Library'
-const LIBRARY_OG_IMAGE_PATH = '/eddo-logo.png'
+const LIBRARY_OG_IMAGE_PATH = '/dottit-logo.jpg'
 
 export function libraryOgImageUrl(): string {
   return `${getLibrarySiteUrl()}${LIBRARY_OG_IMAGE_PATH}`
@@ -35,7 +35,7 @@ export function libraryPageMetadata({
       images: [
         {
           url: imageUrl,
-          alt: LIBRARY_SITE_NAME,
+          alt: 'Dott.it',
         },
       ],
     },

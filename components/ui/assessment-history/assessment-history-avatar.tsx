@@ -24,8 +24,8 @@ export function AssessmentHistoryAvatar({
       >
         {type === 'assistant' ? (
           <Image
-            src="/eddo-logo.png"
-            alt="Eddo AI"
+            src="/dottit-logo.png"
+            alt="Dott.it"
             width={32}
             height={32}
             className="size-full object-cover"

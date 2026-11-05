@@ -76,7 +76,7 @@ const [showCelebration, setShowCelebration] = useState(false)
         <div className="absolute top-4 left-4">
           <div className="animate-somersault">
             <img
-              src="/eddo-logo.png"
+              src="/dottit-logo.png"
               alt="Eddo"
               className="w-12 h-12 object-contain"
             />

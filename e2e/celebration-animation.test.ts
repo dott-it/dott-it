@@ -35,7 +35,7 @@ test.describe.skip('Celebration Animation', () => {
         await expect(confettiDots).toHaveCount(12);
 
         // Check that the somersaulting Eddo icon is present
-        const eddoIcon = page.locator('.animate-somersault img[src="/eddo-logo.png"]');
+        const eddoIcon = page.locator('.animate-somersault img[src="/dottit-logo.png"]');
         await expect(eddoIcon).toBeVisible();
 
         // Wait for the animation to complete (should auto-hide after 2 seconds)
@@ -59,7 +59,7 @@ test.describe.skip('Celebration Animation', () => {
         await page.waitForTimeout(1000);
 
         // Find the sidebar Eddo icon
-        const sidebarEddoIcon = page.locator('button[aria-label*="sidebar"] img[src="/eddo-logo.png"]');
+        const sidebarEddoIcon = page.locator('button[aria-label*="sidebar"] img[src="/dottit-logo.png"]');
         await expect(sidebarEddoIcon).toBeVisible();
 
         // Type and send a message
